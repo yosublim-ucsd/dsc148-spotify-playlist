@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Poe Leos
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 156 likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 13 | [Waiting For You](https://open.spotify.com/track/3CLGx4uAFSedlbt3ZVfHDy) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Waiting For You](https://open.spotify.com/album/2qHDSRXLwhXDWvwyvlj8h6) | 2:38 |
 | 14 | [The One](https://open.spotify.com/track/6CYFIOUUKEjXptyNS4Cmza) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [In Between](https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA) | 3:15 |
 | 15 | [En Un Instante](https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [En Un Instante](https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph) | 2:51 |
-| 16 | [left you](https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [left you](https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf) | 2:35 |
+| 16 | [left you](https://open.spotify.com/track/4VLiS83F33CjGjWlqZoOkS) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [un millón de besos](https://open.spotify.com/album/3hPK0U97YAN53tPcCiirz3) | 2:35 |
 | 17 | [INFIERNO](https://open.spotify.com/track/1sbCNvLF93dBZAlvSeO5FH) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [INFIERNO](https://open.spotify.com/album/3QcR7ZgPZ940A9ae8R7J0R) | 2:58 |
 | 18 | [music to walk away to](https://open.spotify.com/track/29Ip2LPslNyxt0Uatcu5u0) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [music to walk away to](https://open.spotify.com/album/3Ix0b8CXFH1Yc0Ix8GIGiF) | 3:01 |
 | 19 | [TRATO](https://open.spotify.com/track/4W2p5xqBjV8xAlFNsbrJS5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [TRATO](https://open.spotify.com/album/3oUnBsatAFgBW0uRYysmys) | 2:48 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 29 | [Up For It](https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Up For It](https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy) | 2:46 |
 | 30 | [Falsas Palabras](https://open.spotify.com/track/3jGcnH4WfCUYjM0vxTh88Q) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falsas Palabras](https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw) | 3:25 |
 
-Snapshot ID: `MCwzNTM2ZjhjODA0Zjc2NGRlN2M1MmVlZjZkZWY4MGNjZWU3NWIxZTgz`
+Snapshot ID: `MCw4YmIzNGZhMjI4ZmIxODM1YjNlNjM0NmNiMDk1NDExOWU3ZTgwNTFk`

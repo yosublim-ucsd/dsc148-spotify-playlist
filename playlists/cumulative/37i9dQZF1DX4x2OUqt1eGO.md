@@ -4,7 +4,7 @@
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Naveen Kumar
 
-84 songs - 7 hr 16 min
+85 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 | 2023-06-25 |  |
 | [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 | 2023-06-20 |  |
 | [Karunardra Sneham \- Flute](https://open.spotify.com/track/5jzIRp19kymwPoRqijcNYP) | [Rajesh Cherthala](https://open.spotify.com/artist/6zMiSAKOqDFrZzu4G95FcP) | [Karunardra Sneham \- Single](https://open.spotify.com/album/0F3b5PTSBU9GUkgU593Jh0) | 4:50 | 2023-06-26 |  |
+| [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-08-18 |  |
 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 | 2023-06-20 |  |
 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 | 2023-06-20 |  |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-06-25 |  |
@@ -73,7 +74,7 @@
 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 | 2023-06-20 |  |
 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 | 2023-06-25 |  |
 | [Raga Shudh Kalyan Alap](https://open.spotify.com/track/5K56gLQIT9UhXcENzvBr7r) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 5:14 | 2023-06-20 |  |
-| [Realization \- Raga Rageshri](https://open.spotify.com/track/1lGzVMtAxIE7Z1onbuFj32) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:37 | 2023-06-20 |  |
+| [Realization \- Raga Rageshri](https://open.spotify.com/track/1lGzVMtAxIE7Z1onbuFj32) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:37 | 2023-06-20 | 2023-08-18 |
 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 | 2023-06-20 |  |
 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2023-06-20 |  |
 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2023-06-20 |  |

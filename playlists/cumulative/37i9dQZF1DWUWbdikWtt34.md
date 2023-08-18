@@ -2,14 +2,14 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Wika Salim, 3 Pemuda Berbahaya
+> Dendang Dangdut teratas\. Cover: Jirayut
 
-113 songs - 8 hr 46 min
+114 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ada Cerita](https://open.spotify.com/track/3UQldVp9e0dWy72Kb6pQW6) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Ada Cerita](https://open.spotify.com/album/6U9TkrXKstXYQjcBqAHCJR) | 3:42 | 2021-08-23 |  |
-| [Ada Dia Antara Kita](https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ada Dia Antara Kita](https://open.spotify.com/album/60eciJ0xs7alQ8NhJFz9pc) | 3:43 | 2021-08-23 |  |
+| [Ada Dia Antara Kita](https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ada Dia Antara Kita](https://open.spotify.com/album/60eciJ0xs7alQ8NhJFz9pc) | 3:43 | 2021-08-23 | 2023-08-18 |
 | [Akhir Cerita Cinta](https://open.spotify.com/track/6p8zr8fyGBWtRZsVp2cc4d) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Akhir Cerita Cinta](https://open.spotify.com/album/0JMTGUWGp2V5u233WV7AsT) | 6:24 | 2023-04-28 |  |
 | [Aku Cah Kerjo](https://open.spotify.com/track/5lFBEfhO3S846OWXoF8kgH) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Bojoku Galak](https://open.spotify.com/album/2PF24cRBneDg0TBN2WKTh3) | 6:16 | 2021-08-23 | 2023-02-03 |
 | [Aku Tenang](https://open.spotify.com/track/75lsA8cwe9Pa7AhkFlgMMF) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Aku Tenang](https://open.spotify.com/album/1m7WB75FF5bN5IsijB996S) | 5:16 | 2021-08-23 |  |
@@ -112,6 +112,7 @@
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 |  |
 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 | 2023-02-02 |  |
 | [Terdiam Sepi](https://open.spotify.com/track/0o6Pfgqbq7kQBd1uYpf6Ds) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Terdiam Sepi](https://open.spotify.com/album/5NEDhtZJZg1QhcloFWRPhc) | 4:39 | 2021-08-23 |  |
+| [Terluka Cinta](https://open.spotify.com/track/08g2X36etHHW9XJWEnuNkw) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Terluka Cinta](https://open.spotify.com/album/21jf0mQwADcYgUhe1uMKUo) | 4:22 | 2023-08-17 |  |
 | [Tresnane Wong Kere](https://open.spotify.com/track/4ig8rr39dqGCM27aJcmCz5) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tresnane Wong Kere](https://open.spotify.com/album/7vNxqBRt7gBPlrjwRWwXdb) | 3:49 | 2021-08-23 | 2023-07-28 |
 | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/track/18MnWJxYUKfI3UQfemPCyJ) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/album/79KEBVLIcSYF1L9fjIBsQT) | 4:20 | 2021-08-23 |  |
 | [Wegah Kelangan](https://open.spotify.com/track/3FtPcb4xIlwsGkX3PWIhtf) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Wegah Kelangan](https://open.spotify.com/album/75qiVGtr5iSPAr380gShrq) | 5:37 | 2021-08-23 | 2023-07-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 723811,
+  "num_followers": 723904,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjY3YjkyMzk3ZDczOGZiYTQ2MTZhYjRmODY2YjY5NTg3MTJjMTA1",
+  "snapshot_id": "MCw3ZGE3MDdhM2UxMWEwOGFkMzU3MWVkYmJiZDg2YjY1MGVlNjIzMDQ1",
   "tracks": [
     {
       "added_at": "2023-07-21 11:29:56",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Making All Things New",
-        "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Making All Things New",
-      "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Music From The Motion Picture Once",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Making All Things New",
+        "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Making All Things New",
+      "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 307697,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 224400,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 284130,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 228164,
       "name": "Colourway",
       "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Cherry Tree (2021 Remaster)",
         "url": "https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 250760,
       "name": "About Today - 2021 Remaster",
       "url": "https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1739,6 +1739,22 @@
       "duration_ms": 182857,
       "name": "Drunk On A Flight",
       "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1823,22 +1839,6 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Start, Restart, Undo (Reedici\u00f3n)",
         "url": "https://open.spotify.com/album/7HCvOSW3Eptm7oc5j6PTbN"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 193280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4GkELkyI3VJstSugqnP39K"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2023-07-21 11:29:56",

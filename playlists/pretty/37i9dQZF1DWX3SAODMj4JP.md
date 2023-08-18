@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,328 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,469 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 18 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |
 | 19 | [Só Tenho a Ti](https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Só Tenho a Ti](https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ) | 2:33 |
 | 20 | [Botas Velhas](https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Sou Tão Forte](https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv) | 3:55 |
-| 21 | [Meu Repouso](https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn) | [Fabio Sampaio](https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Meu Repouso](https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx) | 4:18 |
+| 21 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 |
 | 22 | [Aonde Está Deus?](https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 4:10 |
 | 23 | [Além do Que Se Vê](https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Além do Que Se Vê](https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2) | 5:01 |
-| 24 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 |
+| 24 | [Meu Repouso](https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn) | [Fabio Sampaio](https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Meu Repouso](https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx) | 4:18 |
 | 25 | [Não Te Abandono](https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1) | [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Rotina](https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp) | 4:33 |
 | 26 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 |
 | 27 | [Cuide](https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cuide](https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt) | 3:05 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 60 | [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 |
 | 61 | [Oração](https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Oração](https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W) | 4:37 |
 | 62 | [Coragem](https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K) | [Netto](https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP) | [Coragem](https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G) | 4:25 |
-| 63 | [Pra Viver \- Acústico](https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa) | [Praviver Worship](https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4) | [Pra Viver Project](https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS) | 3:15 |
-| 64 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 |
+| 63 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 |
+| 64 | [Pra Viver \- Acústico](https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa) | [Praviver Worship](https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4) | [Pra Viver Project](https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS) | 3:15 |
 | 65 | [Eu Te Amo, Senhor](https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY) | [Léo Moreno](https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP) | [Eu Te Amo, Senhor](https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU) | 5:26 |
 | 66 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
 | 67 | [Upper Room \- Acoustic/Live](https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake \(Deluxe\)](https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0) | 3:54 |
 | 68 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 |
 | 69 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 
-Snapshot ID: `MCxmNjdiNDcwOTU1YWRlZDA0NTRjZDdlYmZiMmQ1OWFjMWUzNGQ3ZDA4`
+Snapshot ID: `MCxkZWRmN2ZmNDE0NzE4M2QwYzM3NWQ3MzdhNmE4NDdjOWEyOTgwZmVm`

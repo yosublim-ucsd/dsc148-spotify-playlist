@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 222656,
       "name": "Black Horse",
       "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 206243,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik"
@@ -11092,7 +11092,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 179560,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/53khINup0uLYSDNiU7nKuL"
@@ -11150,6 +11150,24 @@
       "duration_ms": 231700,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R"
+    },
+    {
+      "album": {
+        "name": "Happiest Girl",
+        "url": "https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "Happiest Girl",
+      "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,236 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,362 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
-| 2 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
+| 2 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 3 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
-| 4 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
+| 4 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 5 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 |
 | 6 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 7 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 14 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |
 | 15 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 |
 | 16 | [Bachata Rosa](https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:17 |
-| 17 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 |
-| 18 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
+| 17 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
+| 18 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 |
 | 19 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 |
 | 20 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 |
 | 21 | [Besos En Guerra](https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:51 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 31 | [Cuando Me Enamoro](https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 3:20 |
 | 32 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
 | 33 | [Amárrame](https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:27 |
-| 34 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
-| 35 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
+| 34 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
+| 35 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
 | 36 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 |
 | 37 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
 | 38 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 89 | [Ella](https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:35 |
 | 90 | [Te Compro Tu Novia](https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/5iHMlPownkV9K9VBR2GCoo) | 4:27 |
 
-Snapshot ID: `MCwzNDU3YTA0MzcyMTVmMDkyYTczNTMxNTI0MDZjYjJiMDJjNzRlMzdj`
+Snapshot ID: `MCw4ODI4OTdkNzQ2ZmI0MjkyZTMwOTliODY5MjExOWNkYzEzOTNkZjRi`

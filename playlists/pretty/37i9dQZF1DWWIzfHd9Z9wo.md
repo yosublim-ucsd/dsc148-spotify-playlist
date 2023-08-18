@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIzfHd9Z9wo.md) - [plain]
 
 > Catch Suananda's favorite South Asian tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 659 likes - 44 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 684 likes - 44 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIzfHd9Z9wo.md) - [plain]
 | 24 | [Chaap Tilak](https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 8:52 |
 | 25 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 |
 | 26 | [Baari](https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Baari](https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu) | 3:55 |
-| 27 | [Jugni](https://open.spotify.com/track/3Re5rsxdpUECgwtXYNqew1) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w) | 6:57 |
+| 27 | [Jugni](https://open.spotify.com/track/3FI2J3I9YY8xGEVb0rnDvK) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 6:57 |
 | 28 | [Tajdar\-E\-Haram](https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 10:16 |
 | 29 | [Alif Allah Chambey Di Booty](https://open.spotify.com/track/3ubdpgbEWIcaOyF7bVtxof) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Jugni](https://open.spotify.com/album/7MX5gFeegQUkLCUFtn1oFJ) | 8:37 |
 | 30 | [Boohey Bariyan](https://open.spotify.com/track/5WPRfVAQlrx1wIhyt19ncA) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Roshni](https://open.spotify.com/album/3EYMIeGNfYcvIWYuujWKOb) | 4:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIzfHd9Z9wo.md) - [plain]
 | 43 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 |
 | 44 | [Bikaner](https://open.spotify.com/track/4vHjNGspAs8nObEgz83rYL) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Larhaian](https://open.spotify.com/album/1a11d07QUmpQ0vl09EtS0o) | 5:45 |
 
-Snapshot ID: `MCw2MmQwM2E1NjRiZjFkZjI3NWE0NzBjMmY4YWJlMTUwYmVmZDUyOGNh`
+Snapshot ID: `MCwyNzk5MzdmZTZmYmI3N2JiYjNmNWE2MDIxYzFkMWUzYjdkYjczYjYz`

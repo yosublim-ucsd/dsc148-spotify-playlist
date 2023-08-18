@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,847 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,982 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 65 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 66 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
 | 67 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 |
-| 68 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
-| 69 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
+| 68 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
+| 69 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
 | 70 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
 | 71 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 |
 | 72 | [Contigo Me Encontré](https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Contigo Me Encontré](https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
 | 100 | [Head Over Heels \(Esteban Descalzo 70's Remix\)](https://open.spotify.com/track/6bhYKH6vp4IyhiwBywUWng) | [Ska Jazz Messengers](https://open.spotify.com/artist/3wy5jh3AV798pcbJGDVHkj), [Esteban Descalzo](https://open.spotify.com/artist/5XX1OvMtiKOmPAyj7Amwqx) | [Head Over Heels \(Esteban Descalzo 70's Remix\)](https://open.spotify.com/album/6XbMLQ1aKFth2jscwLOzky) | 4:11 |
 
-Snapshot ID: `MCwzZmFmYTExMGE2YzViY2YzM2M0MjM1Yjc0OGI4Y2EyN2UzZjY1ZThh`
+Snapshot ID: `MCxjMWY2MDA5NDM3MjlmYmFhMmEwZmExZjlhMWY5NGVhMTU3NDJhOWI2`

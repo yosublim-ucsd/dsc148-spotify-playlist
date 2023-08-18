@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 18 | [Bad Kitty](https://open.spotify.com/track/1fp4rbxkUTDX9rOYFyXeuL) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 3:01 |
 | 19 | [My Dog Romeo](https://open.spotify.com/track/1YFiEGqSyori19beEHxAfZ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [More Family Time](https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo) | 2:48 |
 | 20 | [Dog Song](https://open.spotify.com/track/2KfOb48mPByQ64NbHkvtNy) | [Hullabaloo](https://open.spotify.com/artist/4ruDLmgWVqEhEP8WWZyOXr) | [Best of Hullabaloo, Vol\. 2](https://open.spotify.com/album/6ApJasfGCF0wfY7Ka6fHnu) | 3:15 |
-| 21 | [Dog Pound](https://open.spotify.com/track/1eNDDTXuR91r9niUu395QB) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Critters](https://open.spotify.com/album/4FCvj0mX0Uh2TcJ5wzSdwN) | 1:00 |
+| 21 | [Dog Pound](https://open.spotify.com/track/1eNDDTXuR91r9niUu395QB) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Critters](https://open.spotify.com/album/4FCvj0mX0Uh2TcJ5wzSdwN) | 1:00 |
 | 22 | [Pet](https://open.spotify.com/track/118hbAhvMQigZB9tBLcyFm) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [Play Music](https://open.spotify.com/album/29CsPLDKBk60dQifzVyB7a) | 1:28 |
 | 23 | [Class Pet Song](https://open.spotify.com/track/7xrMbzfCoQzCXikKFmNLpz) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 9](https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5) | 2:29 |
 | 24 | [Dogs](https://open.spotify.com/track/6MxzqBSiePAF9DWcF5dYxh) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Dogs](https://open.spotify.com/album/4un43TkxRwU5kxCoe5o13t) | 1:32 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 43 | [Let's Get a Dog](https://open.spotify.com/track/2ZFpV9jF2rISyhuet57NDz) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Let's Get a Dog](https://open.spotify.com/album/0N6mgffw51aY5ObIlWCHWL) | 3:17 |
 | 44 | [Pets](https://open.spotify.com/track/2Expl4MKRoA1yWlMpDgV5t) | [The Oot n' oots](https://open.spotify.com/artist/4r7I9e1YST7G7EY8C2qnoK) | [Ponderosa Bunchgrass and the Golden Rule](https://open.spotify.com/album/4KLLD8QW7MrYVJpMlObyg9) | 4:11 |
 | 45 | [Pet Song \(We Thank You\)](https://open.spotify.com/track/7918gb29EzxyKseLwDn3w2) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Just Say Hi!](https://open.spotify.com/album/0SfbATwRJDYuEnjSLqQU7f) | 4:09 |
-| 46 | [Cat Party](https://open.spotify.com/track/17ABRiEsxrBE5cNjI1LcGM) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Viral: Songs About Cats and Stuff](https://open.spotify.com/album/7cBj5lu79gJ5pascSzsrBK) | 3:03 |
+| 46 | [Cat Party](https://open.spotify.com/track/17ABRiEsxrBE5cNjI1LcGM) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Viral: Songs About Cats and Stuff](https://open.spotify.com/album/7cBj5lu79gJ5pascSzsrBK) | 3:03 |
 | 47 | [My Little Puppy](https://open.spotify.com/track/5uVkbrNq6aA448meGsbT76) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Hip Hip Hooray!](https://open.spotify.com/album/1sXrc8YqbbOCtRRjd07kgH) | 0:59 |
 | 48 | [Cats & Dogs](https://open.spotify.com/track/7pJ1XRYQnH7f8NNr9R9RHl) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Backyard Bop](https://open.spotify.com/album/7jmDOvu7kPJt9C9cyjiSPN) | 3:24 |
 | 49 | [Dogs](https://open.spotify.com/track/3Y0diyyOKcHMj0ErvAq2In) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs and Nursery Rhymes from Play School](https://open.spotify.com/album/3iTEYok7snY0DL5XjQB8xs) | 1:24 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 72 | [10 Little Kittens](https://open.spotify.com/track/6cM8FRo0LMRpkvajjfFsIJ) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Bounce, Sing, Learn, Sing](https://open.spotify.com/album/1Fx7A6waMMc2svhctLeqCK) | 2:23 |
 | 73 | [Haven't Got a Pet Yet](https://open.spotify.com/track/3KE82OPaRz4g2fCxerNkjI) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:28 |
 
-Snapshot ID: `MCxmZjEzYTg1ZjMxMDZhMWE1NzI3NDJkNDVkYWE1YTY0ZWFjMjhkNzlm`
+Snapshot ID: `MCw3YWQ3MjRlYjI4M2UxZWY2N2E5OTExNGY0ZWI2ZWE4YmNlOWYzZDBm`

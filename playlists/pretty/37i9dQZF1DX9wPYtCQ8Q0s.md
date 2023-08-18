@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,813 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,898 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 17 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 18 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 |
 | 19 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 |
-| 20 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 |
-| 21 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
+| 20 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
+| 21 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 |
 | 22 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 |
 | 23 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 |
 | 24 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 49 | [Numb / Encore](https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 3:25 |
 | 50 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
 
-Snapshot ID: `MCxkMWVkNDM5ZDczMzIyMGRlOTVkMTBlZWNlYTI3MDY5MzExY2IyNDkx`
+Snapshot ID: `MCwxMWRkNDc4MTI4OWI0MjJiNzAwYjMyZmM2OWUzNWIwMDNlODRlOTU5`

@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 795384,
+  "num_followers": 795640,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ1YzllMzZjYzM5MTdkZWIyYTNlMWU1Mjg0MTdlYzQ5ZDUzMDcx",
+  "snapshot_id": "MCw1YmM3ZGJhYzdkYmVlMDM5ZWVjY2VjMWE5ZTYyNjRkZTE5NjVjMjJl",
   "tracks": [
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Cooler Than Me - Single Mix",
-      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Gigamesh",
+          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Cooler Than Me - Single Mix",
+      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
-      "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "TAKE IT OFF",
         "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 194604,
       "name": "TAKE IT OFF",
       "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+      "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 109120,
-      "name": "BIZCOCHITO",
-      "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "The Magic Key",
         "url": "https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 171211,
       "name": "The Magic Key",
       "url": "https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 109120,
+      "name": "BIZCOCHITO",
+      "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        }
-      ],
-      "duration_ms": 153742,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 259933,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Some Say (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 186878,
+      "name": "Some Say - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -2283,26 +2303,6 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Some Say (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 186878,
-      "name": "Some Say - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2715,26 +2715,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Music & You",
-        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
-      },
-      "artists": [
-        {
-          "name": "Room 5",
-          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
-        },
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/5bRtAP2yHcZ7dW7tqkTmx6"
       },
@@ -2755,6 +2735,26 @@
       "duration_ms": 186262,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Music & You",
+        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
+      },
+      "artists": [
+        {
+          "name": "Room 5",
+          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
+        },
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
       },
@@ -2879,6 +2863,22 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd"
     },
     {
       "added_at": "2023-08-07 22:19:56",

@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-550 songs - 23 hr 29 min
+552 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2022-06-07 | 2022-07-20 |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2022-06-07 |  |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2022-06-07 | 2022-09-15 |
+| [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2022-06-07 |  |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-06-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-19 |  |
@@ -255,6 +256,7 @@
 | [Lyon](https://open.spotify.com/track/0bDIaybZAxf7Q5bKrHPUVj) | [Melissa Michaux](https://open.spotify.com/artist/1FTwRVZcfLmIxZPOU4HjFZ) | [Lyon](https://open.spotify.com/album/0Yyad3CCuhkCLPrgVLA8WS) | 2:23 | 2022-06-07 | 2022-07-20 |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-06-07 | 2022-07-20 |
 | [Marble Falls](https://open.spotify.com/track/2spz2RWKqY4W15BgrooCzY) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [Marble Falls](https://open.spotify.com/album/5mVyUJpMYGQjBHdFtL2Ky7) | 2:21 | 2022-06-07 | 2022-09-24 |
+| [Marche Lente](https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Marche Lente](https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN) | 2:11 | 2023-08-15 |  |
 | [Marginal Way](https://open.spotify.com/track/6CUBqFUFxIwiHAriS5DZbU) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Marginal Way](https://open.spotify.com/album/4rbI0VO0b720o9jaz4686h) | 2:58 | 2022-06-07 | 2022-09-15 |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 | 2022-12-24 |
 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2022-06-07 |  |
@@ -296,7 +298,7 @@
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-06-07 | 2023-07-25 |
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-03-01 |  |
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-06-07 |  |
-| [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2022-06-07 |  |
+| [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2022-06-07 | 2023-08-18 |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2022-06-07 | 2022-12-24 |
 | [On Hold](https://open.spotify.com/track/0Pcewqo4ToGxeSlBYvK2nM) | [Manuel Zito](https://open.spotify.com/artist/1D1r09YGuPm6Q5L8KeQcd2) | [On Hold](https://open.spotify.com/album/6MWOWUoY6vcCCCfQQcCHGr) | 2:14 | 2022-06-07 | 2022-09-24 |
 | [On the Bright Side](https://open.spotify.com/track/76LnyzbX3ZKGapQP0MENm8) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [On the Bright Side](https://open.spotify.com/album/6XZnOiB4lD1zTdblZj6hcE) | 2:52 | 2022-06-07 |  |
@@ -360,7 +362,7 @@
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2022-06-07 |  |
 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 | 2022-06-07 |  |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2022-06-07 | 2022-07-20 |
-| [Rivers](https://open.spotify.com/track/67zZV7JzIx9Wcf65Ztt4CJ) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Rivers](https://open.spotify.com/album/4tKxlFMHSQU51A1Z3iOKy0) | 2:40 | 2022-06-07 |  |
+| [Rivers](https://open.spotify.com/track/67zZV7JzIx9Wcf65Ztt4CJ) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Rivers](https://open.spotify.com/album/4tKxlFMHSQU51A1Z3iOKy0) | 2:40 | 2022-06-07 | 2023-08-18 |
 | [Rocking Chair](https://open.spotify.com/track/6w5UdflXn5t7rLq8pUP4Ft) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Rocking Chair](https://open.spotify.com/album/05UDZPPJkcWFOo7UnfOJBV) | 2:42 | 2022-06-07 |  |
 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 | 2022-06-07 |  |
 | [Room 622](https://open.spotify.com/track/0991FzXGifFdlYk4VrlEDJ) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Time Twogether](https://open.spotify.com/album/2kTXpDdejj49SEumJC5yop) | 2:51 | 2022-06-07 | 2022-07-20 |

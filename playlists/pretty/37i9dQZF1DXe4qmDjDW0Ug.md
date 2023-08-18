@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,053 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,071 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
 | 50 | [여자](https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [It's Unique](https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS) | 4:37 |
 
-Snapshot ID: `MCwzYWQ1ZDA1ZjhmMjFhY2ZlYWJmYTExNjNhYzRjM2U2MzdhYTg3Y2Vi`
+Snapshot ID: `MCwwNDU0ZjQ5NzVhMWM0MDhhYzZlYTI5NzU0ODU4OGVkNDE3NWM1MGMw`

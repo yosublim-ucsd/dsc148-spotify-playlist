@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,382 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,399 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 21 | [Người Thương Kẻ Nhớ](https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Lan Và Điệp 4](https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB) | 4:32 |
 | 22 | [Mùa xuân đó có em](https://open.spotify.com/track/6Nv1ftXQQxQrgwTgUioXg8) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mùa Xuân Đó Có Em](https://open.spotify.com/album/11Zy14Xv73QRBRFMykcFz5) | 4:35 |
 | 23 | [Không Giờ Rồi](https://open.spotify.com/track/4hCo5F8lu2qeVYEUgOX9Ba) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Không Giờ Rồi](https://open.spotify.com/album/5kWpxGSD5nHD9hKN1dMFtN) | 5:12 |
-| 24 | [Phút cuối](https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi), [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [Mưa đêm nỉnh nhỏ](https://open.spotify.com/album/6TZAiMlGuGXcNY6Y0DIZca) | 5:28 |
+| 24 | [Sầu Lẻ Bóng](https://open.spotify.com/track/4a9t1NmCc4PH7i9uNXS6pi) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H) | 5:18 |
 | 25 | [Xuân Này Con Về Mẹ Ở Đâu?](https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [7000 Đêm Góp Lại](https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8) | 4:48 |
-| 26 | [Sầu Lẻ Bóng](https://open.spotify.com/track/4a9t1NmCc4PH7i9uNXS6pi) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H) | 5:18 |
+| 26 | [Phút cuối](https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi), [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [Mưa đêm nỉnh nhỏ](https://open.spotify.com/album/6TZAiMlGuGXcNY6Y0DIZca) | 5:28 |
 | 27 | [Hoa Trinh Nữ](https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:59 |
 | 28 | [Mùa Xuân Đầu Tiên](https://open.spotify.com/track/0eDhBO2EewSusnQNFp0gxQ) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [The Son](https://open.spotify.com/artist/4hmo0RtMEIDYCsEj26S1xH) | [Mùa Xuân Đầu Tiên \- Tình Khúc Tuấn Khanh](https://open.spotify.com/album/5yJFzyd7Zz2edvAGrp2PKH) | 5:02 |
 | 29 | [Dem Buon Tinh Le](https://open.spotify.com/track/2S5oQ1s3p0cl5Zss33bVg5) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Co The Thoi](https://open.spotify.com/album/4P3hhiIUP0kY4HMYL0tdJF) | 4:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 46 | [Nửa Đêm Ngoài Phố](https://open.spotify.com/track/2qkZat7g027PaGcXeVUVFD) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 5:02 |
 | 47 | [Lưu Bút Ngày Xanh](https://open.spotify.com/track/56tR6AWgDT46ZAhHb6uJb3) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Buồn Lắm Áo Dài Ơi!](https://open.spotify.com/album/2EmIvznxe2WZPqw6DM9acj) | 6:13 |
 | 48 | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG) | 2:53 |
-| 49 | [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 |
-| 50 | [Đường tình đôi ngả](https://open.spotify.com/track/2jCpS5IdAXdDnUeUfhXhOu) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Giao Linh \- Tuấn Vũ \- Đôi mắt người xưa](https://open.spotify.com/album/66OokQWhqEW3dQTZemuyqN) | 4:29 |
+| 49 | [Đường tình đôi ngả](https://open.spotify.com/track/2jCpS5IdAXdDnUeUfhXhOu) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Giao Linh \- Tuấn Vũ \- Đôi mắt người xưa](https://open.spotify.com/album/66OokQWhqEW3dQTZemuyqN) | 4:29 |
+| 50 | [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 |
 
-Snapshot ID: `MCwxMmNjNDRlOGYzYzBlMmUyMzdiOWIzNzU5YzQ2Njc5YzMyMTdkNWYw`
+Snapshot ID: `MCxhNmVhOGJlOGI2NGY4YzUxODk4OTk5ODA0MmQ5MzJlYzEzYjQ4ODJi`

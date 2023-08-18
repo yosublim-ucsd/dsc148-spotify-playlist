@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=vschVYCPThSoXFG9\-NSEFg">Bernice West</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=ohtU3iXZRa2\_suJwXlTjew">Ivan Roux</a>
 
-164 songs - 9 hr 10 min
+166 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-11-04 |
 | [Hy's 'n Lekker Ou](https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf](https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd) | 3:16 | 2023-05-04 | 2023-06-16 |
 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
+| [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 | 2023-08-17 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-07-21 |  |
 | [Jannie Bloemfontein](https://open.spotify.com/track/67H3zHKazVQaEbTPhxYO5Y) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Jannie Bloemfontein](https://open.spotify.com/album/25Ar72ANXBJmlwYqh56d8u) | 2:31 | 2023-04-06 | 2023-04-28 |
 | [Jinne Maar Dis Lekker](https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma) | [Ché](https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90) | [Jinne Maar Dis Lekker](https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ) | 3:06 | 2023-02-02 | 2023-05-12 |
@@ -80,7 +81,7 @@
 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 | 2023-03-09 |  |
 | [Khaki](https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Khaki](https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3) | 3:06 | 2023-06-22 |  |
 | [Klaar Gesmeek](https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [Klaar Gesmeek](https://open.spotify.com/album/2y41EKqRsAGwgRgbvQWlDQ) | 2:28 | 2023-03-16 | 2023-04-21 |
-| [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 | 2023-03-23 |  |
+| [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 | 2023-03-23 | 2023-08-18 |
 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 | 2023-04-13 |  |
 | [Klippe Kou](https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V) | [Jack and June](https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq) | [Klippe Kou](https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3) | 2:58 | 2022-10-13 | 2023-03-03 |
 | [Kom En Lê My Neer](https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:25 | 2023-03-09 |  |
@@ -90,13 +91,14 @@
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 |  |
 | [Kyk Na My Hart](https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 2:47 | 2023-03-09 |  |
 | [Laat Dit Goed Gaan](https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Laat Dit Goed Gaan](https://open.spotify.com/album/4Rui2fGJkpnGuy9dGFBcVf) | 3:36 | 2023-06-15 |  |
+| [Laatnag Gedagtes](https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Laatnag Gedagtes](https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa) | 2:54 | 2023-08-17 |  |
 | [Lawaaiwater](https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Lawaaiwater](https://open.spotify.com/album/2Cnck7kTfhwxttOIVDw71f) | 3:18 | 2023-06-22 |  |
 | [Lemoene](https://open.spotify.com/track/5J24BPmjKlr77KK4sQ5iuo) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:26 | 2023-03-09 | 2023-07-14 |
 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 | 2023-06-09 |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-07-07 | 2023-03-18 |
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 |  |
-| [Ligte Af](https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Ligte Af](https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe) | 3:26 | 2023-07-20 |  |
+| [Ligte Af](https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Ligte Af](https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe) | 3:26 | 2023-07-20 | 2023-08-18 |
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2023-03-18 |
 | [Lyntjie](https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Lyntjie](https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg) | 3:05 | 2023-07-13 | 2023-08-04 |
 | [Maak 'n Plan](https://open.spotify.com/track/5q5fkffY4JxRlb5zpl92kq) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Maak 'n Plan](https://open.spotify.com/album/0f8TL15rhE8ejfouXHDBxs) | 3:08 | 2022-03-17 | 2022-10-29 |

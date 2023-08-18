@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-833 songs - 2 day 10 hr 29 min
+834 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Can't Help Loving](https://open.spotify.com/track/4zRweMHazlqCTUe6GvviYf) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Way You Look Tonight](https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO) | 3:41 | 2022-04-14 | 2022-09-16 |
 | [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
 | [Canadian Trees](https://open.spotify.com/track/1N0XuJdOccAkBjWl37BxKh) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Canadian Trees](https://open.spotify.com/album/60d8GQmsHc8SQIzGedDClG) | 3:14 | 2023-03-09 |  |
-| [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 | 2022-06-30 |  |
+| [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 | 2022-06-30 | 2023-08-18 |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/75MUAXmFXalRbe44eYPzfG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Canción Contra La Indecisión](https://open.spotify.com/album/6M21ytCR5Bld1vicN8JvQc) | 4:12 | 2022-04-14 | 2022-07-29 |
 | [Canción Y Danza VI](https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 5:14 | 2022-04-14 | 2023-08-13 |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-19 |  |
@@ -215,6 +215,7 @@
 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 | 2022-04-14 |  |
 | [Everytime We Fall](https://open.spotify.com/track/4ZGlMy7TmvZNYTacuIyqSo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Everytime We Fall](https://open.spotify.com/album/7DCCFRB1jWvUpP9lDZh03Y) | 3:43 | 2023-03-09 |  |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-09 |  |
+| [Faded pictures of the past](https://open.spotify.com/track/4RRX9y5c5BZWFV1VHifBaI) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Faded pictures of the past](https://open.spotify.com/album/1klQ4UOFEcvzyASnUsvLwK) | 3:27 | 2023-08-17 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 |  |
 | [Fall Song](https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:37 | 2022-09-15 | 2023-08-15 |
 | [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 | 2022-09-23 |

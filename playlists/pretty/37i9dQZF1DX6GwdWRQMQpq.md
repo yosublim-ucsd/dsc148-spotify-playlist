@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,904,879 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,905,959 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Dusties](https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Dusties](https://open.spotify.com/album/07gLKffRhrhVRpgkqN6K28) | 2:26 |
 | 50 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 |
 
-Snapshot ID: `MCw5ZjcxYTg3YTJmYTJjM2E3YmU4ZTdjOTYwOGEwYWFmM2Q3ZWJjNDY4`
+Snapshot ID: `MCw4YWQxZTU3YWZhNTQzMGI4MDE3NjU2OGRkZTQxZjkwOWYyOWYxNzJl`

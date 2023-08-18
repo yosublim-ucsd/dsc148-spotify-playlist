@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-279 songs - 19 hr 41 min
+280 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Metropolis](https://open.spotify.com/track/4am1waZVRIO48gAweG91DJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [ATOM](https://open.spotify.com/album/0DYVvqZiXhTNYPPPRkTxBX) | 4:54 | 2023-01-31 | 2023-03-15 |
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 | 2022-10-25 |
-| [Moon Flower](https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [plantar](https://open.spotify.com/artist/6zTZAei3hiLeqle3De8Sgy) | [Moon Flower](https://open.spotify.com/album/1wkeXhf7uEOzqCBeRcn50R) | 1:58 | 2023-08-08 |  |
+| [Moon Flower](https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [plantar](https://open.spotify.com/artist/6zTZAei3hiLeqle3De8Sgy) | [Moon Flower](https://open.spotify.com/album/1wkeXhf7uEOzqCBeRcn50R) | 1:58 | 2023-08-08 | 2023-08-18 |
 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 | 2022-10-20 | 2023-01-20 |
 | [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 | 2023-08-01 | 2023-08-03 |
 | [More Bitter, Mocha Better](https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5vxSSnVFtIL5ZVsWQp4zoO) | 3:50 | 2023-08-01 | 2023-08-09 |
@@ -253,6 +253,7 @@
 | [最後のニュース \- Remastered 2018](https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [ハンサムボーイ](https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz) | 3:55 | 2022-11-08 | 2022-11-16 |
 | [朝日のぬくもり](https://open.spotify.com/track/0945XJg88Eu5VUu7Lchpig) | [江﨑文武](https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [木原健児](https://open.spotify.com/artist/6Q1QTDtWjKSeeZ0IqpVdQJ) | [はじまりの夜](https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL) | 4:10 | 2023-05-30 | 2023-07-19 |
 | [此方へ](https://open.spotify.com/track/1B3NvWfqicpcSfN1973izy) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [きおくのすみか](https://open.spotify.com/album/4Z4th95ji6NrTFwdImP1xv) | 3:19 | 2023-07-18 | 2023-08-12 |
+| [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 |  |
 | [沈む春](https://open.spotify.com/track/3yfNB07uA5h5pvDp54T8Xm) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [沈む春](https://open.spotify.com/album/6WeLC2BPHsW74aLlN3nixv) | 3:50 | 2023-03-12 | 2023-03-15 |
 | [海にいる](https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [海にいる](https://open.spotify.com/album/3GErNAcHZcwXC6r1fdSSKH) | 3:53 | 2023-07-25 | 2023-08-11 |
 | [涙は星屑のように](https://open.spotify.com/track/2nYHBQmM8Wp3d6UB4Bbe5l) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [星屑たち](https://open.spotify.com/album/5dGmv1ySk8MBfoYIBHciMH) | 5:33 | 2023-08-15 |  |

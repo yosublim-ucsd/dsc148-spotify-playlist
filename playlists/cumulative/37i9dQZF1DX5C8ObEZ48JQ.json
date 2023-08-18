@@ -7301,6 +7301,24 @@
     },
     {
       "album": {
+        "name": "Retro Love",
+        "url": "https://open.spotify.com/album/07etk4i2uQzIyk6YI9Zsei"
+      },
+      "artists": [
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173066,
+      "name": "Retro Love",
+      "url": "https://open.spotify.com/track/4UvYiq1HSksWgAjTvl7eiA"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/1aBTjgHgBbLIjkLjFsIShE"
       },

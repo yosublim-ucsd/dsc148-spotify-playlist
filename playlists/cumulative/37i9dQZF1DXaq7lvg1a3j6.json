@@ -1055,6 +1055,28 @@
     },
     {
       "album": {
+        "name": "Goliyon Ki Raasleela Ram-Leela",
+        "url": "https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273256,
+      "name": "Nagada Sang Dhol",
+      "url": "https://open.spotify.com/track/6WyPFYIqwULAkTG9fAx4ox"
+    },
+    {
+      "album": {
         "name": "Ram-Leela (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4He2rBGaA8eNUvB3B9QRYK"
       },
@@ -1070,7 +1092,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 273319,
       "name": "Nagada Sang Dhol",
       "url": "https://open.spotify.com/track/4ila6GeGBPGmJTGRoHOV5E"

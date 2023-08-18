@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Soda Stereo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,246 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,582 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 33 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 34 | [Maldito duende](https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 4:13 |
 | 35 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
-| 36 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
-| 37 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
-| 38 | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT) | 4:56 |
+| 36 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |
+| 37 | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT) | 4:56 |
+| 38 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
 | 39 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 40 | [Así Es la Vida](https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 5:10 |
 | 41 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 53 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
 | 54 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 55 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 |
-| 56 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
-| 57 | [Mentiras](https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:21 |
+| 56 | [Mentiras](https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:21 |
+| 57 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 58 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
 | 59 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 60 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:16 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 68 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:16 |
 | 69 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 70 | [Mentirosa](https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 4:04 |
-| 71 | [Cuando Seas Grande](https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:25 |
-| 72 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
+| 71 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
+| 72 | [Cuando Seas Grande](https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:25 |
 | 73 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 74 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
 | 75 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 77 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
 | 78 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 79 | [Estrechez De Corazón](https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 4:58 |
-| 80 | [Héroe de leyenda](https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 |
-| 81 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
+| 80 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
+| 81 | [Héroe de leyenda](https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 |
 | 82 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 83 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 84 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 94 | [La chispa adecuada \(Bendecida 3\)](https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:27 |
 | 95 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |
 | 96 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
-| 97 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
-| 98 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
+| 97 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
+| 98 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
 | 99 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 100 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
 
-Snapshot ID: `MCw0NDVkZGY3YzJiNjkyNzI2ODVjYjNmNzg1NGMyZmU0NWRiZjYyNDg3`
+Snapshot ID: `MCxmYjY4OTRlZTViZDMzNTBjNWY4YjU1ZGI5MmM3MDkxZDliODU3ZDBh`

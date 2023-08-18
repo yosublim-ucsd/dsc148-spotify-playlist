@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 
 > All 70s, all ballads\. Cover: Barbra Streisand
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,414 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,568 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 | 21 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 22 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
 | 23 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 |
-| 24 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
-| 25 | [The Air That I Breathe \- 2008 Remaster](https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Hollies](https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H) | 4:17 |
+| 24 | [The Air That I Breathe \- 2008 Remaster](https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Hollies](https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H) | 4:17 |
+| 25 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
 | 26 | [Daniel](https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:54 |
 | 27 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
 | 28 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 | 49 | [We're All Alone](https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Anytime..\. Anywhere](https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY) | 3:40 |
 | 50 | [You Needed Me](https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 3:40 |
 
-Snapshot ID: `MCxhMDY5OTQyNzZhZDY4ZmRhN2Q5NmJkYTY0YTE2MTJjYjJiZTU3MTQ3`
+Snapshot ID: `MCw4NWE0NWNmOTI0YTdhMWYzZDdkMDcyMjA5MmRlYjY0NDdlYzM1OTgz`

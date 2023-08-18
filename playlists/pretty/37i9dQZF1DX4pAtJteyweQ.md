@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 
 > The most romantic tracks of all time, featuring today's hits and all the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,524 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,651 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 53 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 54 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 |
 | 55 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
-| 56 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
-| 57 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
+| 56 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
+| 57 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 58 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 59 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 60 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 87 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
 | 88 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 | 89 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
-| 90 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
+| 90 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 91 | [Faithfully](https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 4:27 |
-| 92 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
+| 92 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 93 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 |
 | 94 | [She](https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [In Motion Pictures](https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY) | 3:07 |
 | 95 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 99 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 |
 | 100 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 
-Snapshot ID: `MCw2ZDk1NGFkMGQ1NzdhYTZmMmJhNDkxZGFmZDk2ZmQzMTI3ZTA5Mjll`
+Snapshot ID: `MCxmNjg2YWI4MTEwZDZmN2NkNzEzOGVhMjczNTIyMzE5YjhlMTM1Yjhk`

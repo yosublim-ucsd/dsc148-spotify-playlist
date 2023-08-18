@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-58 songs - 3 hr 25 min
+59 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Mood Banaleya](https://open.spotify.com/track/2hLEiRXEa7ehdGQwINN0XQ) | [Amruta Fadnavis](https://open.spotify.com/artist/14HU1ikR555oozRRbVQeZg), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Mood Banaleya](https://open.spotify.com/album/5r0qdhwVJtTcZ3ejOP8M3n) | 3:54 | 2023-01-06 | 2023-02-11 |
 | [Morni Banke](https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Badhaai Ho](https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA) | 3:18 | 2021-10-29 |  |
 | [Naah Goriye](https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Swasti Mehul](https://open.spotify.com/artist/7r7WoKowe8dCfQCl9GACDM) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:04 | 2021-10-29 |  |
-| [Nagada Sang Dhol](https://open.spotify.com/track/4ila6GeGBPGmJTGRoHOV5E) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Ram\-Leela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4He2rBGaA8eNUvB3B9QRYK) | 4:33 | 2021-10-29 |  |
+| [Nagada Sang Dhol](https://open.spotify.com/track/6WyPFYIqwULAkTG9fAx4ox) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Goliyon Ki Raasleela Ram\-Leela](https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ) | 4:33 | 2023-07-18 |  |
+| [Nagada Sang Dhol](https://open.spotify.com/track/4ila6GeGBPGmJTGRoHOV5E) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Ram\-Leela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4He2rBGaA8eNUvB3B9QRYK) | 4:33 | 2021-10-29 | 2023-08-18 |
 | [Navrai Majhi](https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 4:22 | 2021-10-29 |  |
 | [Punjabi Wedding Song](https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:53 | 2021-10-29 |  |
 | [Ra Ra Reddy](https://open.spotify.com/track/3CltdQnB1NJuE5khm0d6r7) | [Tarannum Mallik Jain](https://open.spotify.com/artist/4ZourJRcQTpIL5haRgvyWl), [Harry Anand](https://open.spotify.com/artist/6u8WDhZmfLcGVyknPoLrrY) | [Macharla Chunaav Kshetra \(M.C.K\)](https://open.spotify.com/album/0qRXOBFcg6JaeECfILhtvz) | 4:19 | 2022-12-09 |  |

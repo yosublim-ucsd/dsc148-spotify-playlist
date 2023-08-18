@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Jazmin Bean
+> The UK's biggest rock playlist\. Cover: Lauran Hibberd
 
-282 songs - 15 hr 23 min
+285 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 | 2023-03-10 | 2023-04-14 |
 | [Alive](https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Alive](https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF) | 3:17 | 2023-03-17 | 2023-04-14 |
 | [All I Do](https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 3:41 | 2023-06-01 | 2023-07-28 |
-| [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 | 2023-05-04 |  |
+| [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 | 2023-05-04 | 2023-08-18 |
 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 | 2023-04-27 | 2023-06-09 |
 | [ANIMAL](https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [ANIMAL / ANYWHERE BUT HERE](https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7) | 2:51 | 2023-01-13 | 2023-02-03 |
 | [Baby Blue](https://open.spotify.com/track/1KkgkKGPZfPZgGF1XI6ABP) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Baby Blue](https://open.spotify.com/album/4hf91mS2sYQmmfEMnP5zUj) | 2:54 | 2023-07-27 |  |
@@ -42,12 +42,13 @@
 | [Blame](https://open.spotify.com/track/5gqd2N6igMx397BpzS9jsi) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Blame](https://open.spotify.com/album/1WjBjv6eT79b9RNJzJU8ou) | 2:54 | 2023-06-15 | 2023-07-28 |
 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2023-01-13 | 2023-03-03 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-18 | 2023-07-28 |
-| [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-07-13 |  |
+| [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-07-13 | 2023-08-18 |
 | [Blossom](https://open.spotify.com/track/2Wq4wVXPnJYaK214y26y1H) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Blossom](https://open.spotify.com/album/7nQPjvGZUoGPDmOkpHYO9H) | 2:58 | 2023-01-13 | 2023-03-03 |
 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 | 2023-01-13 | 2023-03-25 |
 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-04 | 2023-06-16 |
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-02-24 | 2023-07-14 |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-20 | 2023-06-09 |
+| [BREATHING UNDERWATER](https://open.spotify.com/track/6F4dmF0CZ9XPmLnLQQk9a2) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BREATHING UNDERWATER](https://open.spotify.com/album/14v1YgHgO2PwVgd6vgIHQ7) | 2:57 | 2023-08-17 |  |
 | [Bricks](https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | ['Til the Wheels Fall Off](https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y) | 3:33 | 2023-05-25 | 2023-07-28 |
 | [Bring Us Down](https://open.spotify.com/track/2Vlcv2ABEQ21nTcYJWLktM) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Bring Us Down](https://open.spotify.com/album/3l7IR16zZm6pvPDPckG7Af) | 3:22 | 2023-02-17 | 2023-03-10 |
 | [Brussels](https://open.spotify.com/track/7zhoo16QDssU89ckHCT5oo) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Brussels](https://open.spotify.com/album/4gMYIMai7wMGqjJ7wyJa7G) | 2:51 | 2023-05-18 | 2023-06-30 |
@@ -144,6 +145,7 @@
 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-10 |  |
 | [Into the Trap](https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Into the Trap](https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE) | 3:52 | 2023-01-13 | 2023-04-14 |
 | [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 | 2023-02-10 | 2023-04-21 |
+| [It Only Bothers You](https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:03 | 2023-08-17 |  |
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2023-01-13 | 2023-02-24 |
 | [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 | 2023-03-08 | 2023-03-09 |
 | [Jesus](https://open.spotify.com/track/2LS1YcppKeHGE2fASRXYZC) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 4:13 | 2023-04-06 | 2023-04-14 |
@@ -237,9 +239,10 @@
 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-13 |  |
 | [Spit.](https://open.spotify.com/track/3H6KM1WMpTIMlwlJBwDBkV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Spit.](https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx) | 4:08 | 2023-03-08 | 2023-03-09 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-29 | 2023-08-11 |
+| [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 | 2023-08-17 |  |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-04-21 |
 | [Still Love](https://open.spotify.com/track/0ym6qGdEoI60PXIqNXKkx1) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/3m97vK8f1WWhSLiN17m0b7) | 3:44 | 2023-06-08 | 2023-07-28 |
-| [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-20 |  |
+| [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-20 | 2023-08-18 |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-05-11 | 2023-07-28 |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2023-01-13 | 2023-03-18 |
 | [Swoon](https://open.spotify.com/track/6c6GZ9GwIFCrKLXviFKt2e) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Swoon](https://open.spotify.com/album/0o2rQghOwZtxz3OoIf8N08) | 3:17 | 2023-04-27 | 2023-06-02 |

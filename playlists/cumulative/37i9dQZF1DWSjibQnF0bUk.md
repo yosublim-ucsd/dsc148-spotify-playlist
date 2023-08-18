@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-377 songs - 21 hr 52 min
+378 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 | 2022-06-23 | 2023-06-17 |
 | [Big Steppa](https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:56 | 2023-06-09 |  |
 | [Big Thug Boys](https://open.spotify.com/track/5dFSwQk7dEGgccEpyzqskS) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Big Thug Boys](https://open.spotify.com/album/33XnJkxrpCyni7MnbnZPCj) | 2:52 | 2021-09-10 | 2022-02-11 |
+| [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 | 2023-08-17 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2021-09-10 | 2022-10-29 |
 | [Bop Daddy](https://open.spotify.com/track/1NyHjGLDvRk7BhAqqhNH1d) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bop Daddy](https://open.spotify.com/album/3YZPvusPiLYzToo05wbsdW) | 3:35 | 2022-03-02 | 2022-06-17 |
 | [Bounce](https://open.spotify.com/track/5ZmcGfRzK1PDU58SW9tQrV) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [Bounce](https://open.spotify.com/album/5D3SmvYpcH6PKbDtRUXBDv) | 3:02 | 2022-03-31 | 2022-04-15 |
@@ -342,7 +343,7 @@
 | [Tossmitoss](https://open.spotify.com/track/5d5GWx48aGuO0A1ZYJPAr7) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:30 | 2023-06-02 | 2023-06-10 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2021-09-10 | 2022-04-21 |
 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 | 2022-02-17 | 2022-06-17 |
-| [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 |  |
+| [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 | 2023-08-18 |
 | [Trap Donoro](https://open.spotify.com/track/19VLwKmspRt61N9Y6D1uWb) | [Fuza](https://open.spotify.com/artist/69uEPgHRCGCyfYi0KJ4Woz), [D Reality Kings](https://open.spotify.com/artist/5SV0QdZ7vaJpCA7CweIPOR), [Nanki D](https://open.spotify.com/artist/1lcSnmtP8nswQYsT1svXUx) | [Trap Donoro](https://open.spotify.com/album/74w91or5ngbHAJyoYrKZWV) | 5:11 | 2022-01-27 | 2022-01-29 |
 | [Trenches](https://open.spotify.com/track/0m65pnkFyJ5w8vMjYTCsI5) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Trenches](https://open.spotify.com/album/3ea3pbFApGf9EPACtnUAi5) | 2:25 | 2022-03-17 | 2022-06-18 |
 | [True Story](https://open.spotify.com/track/43i5Kznrr7IvX743PlzUCP) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Palmwine Express](https://open.spotify.com/album/30hmYIZ0vzvmkkmvZm1qLs) | 3:54 | 2020-02-07 | 2022-05-22 |

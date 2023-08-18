@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: MYA, Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,517 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,670 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 53 | [En el Aire](https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH) | 4:17 |
 | 54 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
 | 55 | [Véngase II](https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:21 |
-| 56 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 |
-| 57 | [Aire](https://open.spotify.com/track/2OgG6HxGqmfPNJiJcBEfBN) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED) | 4:10 |
+| 56 | [Aire](https://open.spotify.com/track/2OgG6HxGqmfPNJiJcBEfBN) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED) | 4:10 |
+| 57 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 |
 | 58 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 |
 | 59 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
 | 60 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
-| 61 | [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 |
-| 62 | [Mi Guitarra Enamorada](https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:53 |
+| 61 | [Mi Guitarra Enamorada](https://open.spotify.com/track/3P4tO3w6UnIiJy07b1RXCY) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:53 |
+| 62 | [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 |
 | 63 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
 | 64 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
 | 65 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 95 | [Vueltas \(feat\. Pure Negga\)](https://open.spotify.com/track/2JzU1TFL91aJFyCfrEMQND) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Vueltas \(feat\. Pure Negga\)](https://open.spotify.com/album/2Jwsz5GKHWBY2WJE88iiaB) | 3:41 |
 | 96 | [Cocomango](https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 3:15 |
 | 97 | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 |
-| 98 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 |
-| 99 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
+| 98 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
+| 99 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 |
 | 100 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 
-Snapshot ID: `MCwwZWM3ZjZjNzc1M2FlZGZkODJhM2M4NjM2MWVhZTE0YTM0NzY3OWI0`
+Snapshot ID: `MCw2MDVhYTk4M2IyNWI5ODZhNDU0NGEyMDU4YmM1NTQxMTE5MTc5MjUz`

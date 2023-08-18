@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jLQsJHPr0Z.md) - [plain]
 
 > The aux for every college party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jLQsJHPr0Z.md) - [plain]
 | 58 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
 | 59 | [I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:53 |
 | 60 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 |
-| 61 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
+| 61 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
 | 62 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 |
-| 63 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
+| 63 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 64 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 65 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
 | 66 | [SexyBack \(feat\. Timbaland\)](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:02 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jLQsJHPr0Z.md) - [plain]
 | 88 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 89 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
 | 90 | [Starships](https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:30 |
-| 91 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 |
+| 91 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 |
 | 92 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
-| 93 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 |
+| 93 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 |
 | 94 | [Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:31 |
 | 95 | [Mi Gente](https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:05 |
 | 96 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jLQsJHPr0Z.md) - [plain]
 | 99 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 | 100 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 |
 
-Snapshot ID: `MCw2ZmU3ZWNiMjhiOTcxN2Q0YzBmZjhlM2I3YmU4ZmYzMjIxNWZlOWE1`
+Snapshot ID: `MCwyMzRiNTZmZmY0ZWM1YTg1YWI5ODE3YTMxM2Y4ODVhMmFiMjMxZGE1`

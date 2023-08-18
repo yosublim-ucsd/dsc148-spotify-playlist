@@ -1,12 +1,12 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Lennon Stella. ",
-  "num_followers": 435853,
+  "num_followers": 435996,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQ2ODkxOTlkMDE4OWVlNjk0NDljN2YzOWQ3Nzk4NWZmYjQ0YWRj",
+  "snapshot_id": "MCw1Zjc5YWZiNGVkZDZjYzkzMzNlZDEwNzJjMGFjNjcwYzk1YjRkOGFl",
   "tracks": [
     {
       "added_at": "2023-06-01 23:38:04",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-06-01 23:38:04",
       "album": {
-        "name": "Our Generation - Spotify Singles",
-        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "The Perfect Pair - Spotify Singles",
-      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Our Generation - Spotify Singles",
+        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "The Perfect Pair - Spotify Singles",
+      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -640,22 +640,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
       "artists": [
@@ -667,6 +651,22 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -740,22 +740,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Shot For Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
       "artists": [
@@ -772,17 +756,17 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
+        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 189725,
-      "name": "Don't Matter - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3yyWyHmynAWWCPASifJ7Ev"
+      "duration_ms": 117857,
+      "name": "Shot For Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -799,6 +783,22 @@
       "duration_ms": 169226,
       "name": "Get Here - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Don't Matter - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3yyWyHmynAWWCPASifJ7Ev"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1004,22 +1004,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
@@ -1031,6 +1015,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-06-01 23:38:04",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Teenage Dirtbag \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
         "name": "Singles (Live From Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 214381,
       "name": "Summer Love - Live From Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0G080Vm22mv78YJwrsVpVu"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Teenage Dirtbag \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1704,6 +1704,22 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258862,
+      "name": "Day \u2018n\u2019 Nite - Spotify Singles",
+      "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
       },
       "artists": [
@@ -1719,22 +1735,6 @@
       "duration_ms": 247102,
       "name": "I Just Called to Say I Love You - Recorded at RCA Studio A, Nashville",
       "url": "https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258862,
-      "name": "Day \u2018n\u2019 Nite - Spotify Singles",
-      "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1836,22 +1836,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj"
       },
       "artists": [
@@ -1863,6 +1847,22 @@
       "duration_ms": 226720,
       "name": "Get You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6YZQx90VEuzf0lRY9TYh7j"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1908,17 +1908,17 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1935,22 +1935,6 @@
       "duration_ms": 284935,
       "name": "The Only Exception - Spotify Single",
       "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -1983,6 +1967,22 @@
       "duration_ms": 208888,
       "name": "A Whiter Shade Of Pale - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6AcYLHkLDFn6qcZiPS6xNc"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2052,22 +2052,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
@@ -2095,6 +2079,22 @@
       "duration_ms": 346397,
       "name": "Hallelujah - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-06-01 23:38:04",
       "album": {
-        "name": "Smalltown Boy (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 317729,
-      "name": "Smalltown Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 190624,
       "name": "Hopelessly Devoted To You - Spotify Single",
       "url": "https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Smalltown Boy (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 317729,
+      "name": "Smalltown Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2376,22 +2376,6 @@
       "added_at": "2023-06-01 23:38:04",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 181954,
-      "name": "Cry For You - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv"
       },
       "artists": [
@@ -2403,6 +2387,22 @@
       "duration_ms": 190927,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 181954,
+      "name": "Cry For You - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2"
     },
     {
       "added_at": "2023-06-01 23:38:04",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-06-01 23:38:04",
       "album": {
-        "name": "Black Pumas (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 261605,
-      "name": "Sugar Man",
-      "url": "https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh"
-    },
-    {
-      "added_at": "2023-06-01 23:38:04",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
+    },
+    {
+      "added_at": "2023-06-01 23:38:04",
+      "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 261605,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh"
     }
   ],
   "unique_name": "Spotify Singles: Covers",

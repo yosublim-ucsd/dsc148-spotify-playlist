@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. Adriel Favela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,922 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,965 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 | 74 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
 | 75 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
 
-Snapshot ID: `MCxkZDkwZDMyNjc0ZWZlODYzMDQwZTQzNjEyZmNiMzI4YjU3NzlmZmNh`
+Snapshot ID: `MCw5MjA0M2E3NDI4NTg0ZWU3N2UyMGZlZjUzYTA1ZGUwNTc1ZDRlZGFj`

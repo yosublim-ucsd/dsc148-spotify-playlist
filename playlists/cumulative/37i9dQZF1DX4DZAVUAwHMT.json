@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Jazmin Bean",
+  "description": "The UK's biggest rock playlist. Cover: Lauran Hibberd",
   "name": "The Rock List",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 165052,
       "name": "All I Wanna Do Is Hate",
       "url": "https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 189312,
       "name": "BLOODSTREAM",
       "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
@@ -730,6 +730,24 @@
       "duration_ms": 186601,
       "name": "Brat",
       "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
+    },
+    {
+      "album": {
+        "name": "BREATHING UNDERWATER",
+        "url": "https://open.spotify.com/album/14v1YgHgO2PwVgd6vgIHQ7"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177782,
+      "name": "BREATHING UNDERWATER",
+      "url": "https://open.spotify.com/track/6F4dmF0CZ9XPmLnLQQk9a2"
     },
     {
       "album": {
@@ -2497,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243612,
+      "name": "It Only Bothers You",
+      "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
+    },
+    {
+      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -4195,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "album": {
         "name": "Still Alive (From the Original Motion Picture Scream VI)",
         "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
       },
@@ -4246,7 +4300,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"

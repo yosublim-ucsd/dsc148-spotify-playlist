@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "A Ballad Moment: Second View",
+        "url": "https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289743,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/2wxy1aZya6S7mYZAn2m3I3"
+    },
+    {
+      "album": {
         "name": "Close Enough For Love",
         "url": "https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ"
       },

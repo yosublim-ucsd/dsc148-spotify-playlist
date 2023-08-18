@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,557 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,594 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 53 | [Pluto \- Live](https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 5:52 |
 | 54 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
 | 55 | [Fire](https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Fire](https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf) | 3:23 |
-| 56 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
-| 57 | [Too Blessed To Be Stressed](https://open.spotify.com/track/6lXOFYka4axi7LezCcuQSo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mathew Gold](https://open.spotify.com/artist/7yTW9faBAA3MHZ9oeWwJRN) | [Too Blessed To Be Stressed](https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5) | 3:32 |
+| 56 | [Too Blessed To Be Stressed](https://open.spotify.com/track/6lXOFYka4axi7LezCcuQSo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mathew Gold](https://open.spotify.com/artist/7yTW9faBAA3MHZ9oeWwJRN) | [Too Blessed To Be Stressed](https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5) | 3:32 |
+| 57 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 58 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 | 59 | ['Til I Found You](https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [‘Til I Found You](https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE) | 2:52 |
 | 60 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 |
 
-Snapshot ID: `MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2`
+Snapshot ID: `MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1`

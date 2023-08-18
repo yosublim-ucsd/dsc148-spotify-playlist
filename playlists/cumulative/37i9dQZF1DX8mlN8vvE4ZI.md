@@ -4,7 +4,7 @@
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Rishab Rikhiram Sharma
 
-50 songs - 4 hr 4 min
+51 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Evenings in Dehli \- Sitar/Guitar Melodies for Relaxation](https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [50 New Age, Relaxation & Massage Tracks \(For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age\)](https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9) | 2:29 | 2023-06-20 |  |
 | [Hum Bewafa Hargiz Na Thay \- Unwind Instrumental](https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 4:47 | 2023-06-20 |  |
 | [Ka Karun Sajni \- The Classic Thumri of Longing \- Instrumental](https://open.spotify.com/track/1uNp7hTMUp8eaNP6QX7Ucy) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 5:54 | 2023-06-20 |  |
+| [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-08-18 |  |
 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 | 2023-06-20 |  |
 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 | 2023-06-20 |  |
 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ), [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 | 2023-06-20 |  |
@@ -52,7 +53,7 @@
 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/42iTqTyNXmmXuavGKLVyBA) | [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0Y67OpN6bblrqZfuNUGiwF) | 5:20 | 2023-06-20 |  |
 | [Tantric Bliss / Sitar and Tabla](https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D) | [Relaxing Guitar for Massage, Yoga, and Meditation](https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag) | [Acoustic Ascension 3](https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H) | 9:06 | 2023-06-20 |  |
 | [The Natural Forces \- Original Mix](https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 2:04 | 2023-06-20 |  |
-| [Tilak Kamod](https://open.spotify.com/track/33NcS1EqUH6dS3UPKRz9qX) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Tilak Kamod](https://open.spotify.com/album/4GSk1MbHbEL2llripuKrzG) | 2:12 | 2023-06-21 |  |
+| [Tilak Kamod](https://open.spotify.com/track/33NcS1EqUH6dS3UPKRz9qX) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Tilak Kamod](https://open.spotify.com/album/4GSk1MbHbEL2llripuKrzG) | 2:12 | 2023-06-21 | 2023-08-18 |
 | [Tumhi Dekho Naa \- Sitar Lofi](https://open.spotify.com/track/3fc3piWEXs8OoJ0oTIrs5V) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Tumhi Dekho Naa \(Sitar Lofi\)](https://open.spotify.com/album/6pKhLCZ0q5zuy3Nkxi3z4h) | 2:05 | 2023-06-20 |  |
 | [Vandanaa Trayee](https://open.spotify.com/track/01mW11oNCKq9Bhq4LeK7wx) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [Chants of India](https://open.spotify.com/album/7cR7QlEd0b51sSKesnRbGZ) | 4:30 | 2023-06-20 |  |
 | [wyd tonight?](https://open.spotify.com/track/2hQrvdLWkVbOtiGqLPYI3g) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [wyd tonight?](https://open.spotify.com/album/6cx7EyRZTmjkkLceusxD3r) | 1:55 | 2023-06-21 |  |

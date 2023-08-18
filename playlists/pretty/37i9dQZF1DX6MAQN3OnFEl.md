@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,500 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,234 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 35 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
 | 36 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
 | 37 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 |
-| 38 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
-| 39 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 |
+| 38 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 |
+| 39 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 40 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
 | 41 | [My Name Is](https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:28 |
 | 42 | [One, Two Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 |
 | 100 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |
 
-Snapshot ID: `MCwxNWIxYTBiZTQzMTJjZjNhZWQ3ZmIzZGQ3Mzc4NTllNzU0ZWYzZmVm`
+Snapshot ID: `MCxhZDVkMmFkYzY3ODgyM2Q5MzgyN2YyZWRkYTAyMzFmNDYyZmU3NGIw`

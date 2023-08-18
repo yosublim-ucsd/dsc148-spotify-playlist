@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Avanti Patel, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,862 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,888 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 2 | [Sun bhi ja](https://open.spotify.com/track/3w5nZYYT1NtwnPzhMYmZmW) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Sun bhi ja](https://open.spotify.com/album/14weJ3nJ22lqH7P9mTdcDM) | 3:34 |
 | 3 | [Dooriyaan](https://open.spotify.com/track/1JIgQtS13gsEOKdQsee2F8) | [FearZ](https://open.spotify.com/artist/28pMYmVYi6dI3wR8aFPS9L) | [Dooriyaan](https://open.spotify.com/album/1SGNSU53uXAE44EKSTmKAF) | 3:56 |
 | 4 | [Himalay Se](https://open.spotify.com/track/6tgblCL0RKZkrbVmAkVhRF) | [Shubhank Sharma](https://open.spotify.com/artist/4dPmTI5f3bzGwwdvTRG5yE) | [Himalay Se](https://open.spotify.com/album/3txpcr2L5Q6GbwST9itJsO) | 3:01 |
-| 5 | [Woh Main Hoon](https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp) | [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3), [Vishal Pande](https://open.spotify.com/artist/7bpR8dBq6lr1qt27dk0Hjw) | [Woh Main Hoon](https://open.spotify.com/album/0CGt8RyaUvA0cZO9NMYkZR) | 3:32 |
+| 5 | [Woh Main Hoon](https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp) | [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3), [Vishal Pande](https://open.spotify.com/artist/579y8QAT8i0Tr5G2D4kuN3) | [Woh Main Hoon](https://open.spotify.com/album/0CGt8RyaUvA0cZO9NMYkZR) | 3:32 |
 | 6 | [Jaanu Na Main](https://open.spotify.com/track/6tl0bmhUjSujy9ORAyQ3CI) | [Kanishk Tyagi](https://open.spotify.com/artist/2FBOr54aBsDWOEtGcBcDhK) | [Jaanu Na Main](https://open.spotify.com/album/1QBGbCd74jZFsxOAb8EI2o) | 3:55 |
 | 7 | [Guzarish](https://open.spotify.com/track/4dE5eNG3DVTvIZMy4pY4Jr) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Guzarish](https://open.spotify.com/album/6xRVOiJUIWwWFuUoUfAkQV) | 3:13 |
 | 8 | [Baarishein](https://open.spotify.com/track/07Nu7WQpx6eKoS3VLprxOR) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Baarishein](https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Din Dhal Jaayenge](https://open.spotify.com/track/3UggeBH24GT4FQFYNt7b0U) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Din Dhal Jaayenge](https://open.spotify.com/album/6aYYb0j9N9QQObLhVZCPrx) | 3:26 |
 | 100 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
 
-Snapshot ID: `MCxkYTQ4MTVmMDlkYTEwODgwZDgyOWQzOTg5NDJmNjUxMTYzODExM2Y2`
+Snapshot ID: `MCw2ZWE4NGMwZTkxMTJiNjgxZDhlOGYzOTEyNzMyMTA2ZmQwNmJkYjcw`

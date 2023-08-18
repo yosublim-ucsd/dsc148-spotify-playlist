@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,196 songs - 2 day 18 hr 39 min
+1,197 songs - 2 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-03 | 2023-08-08 |
 | [D\-Day](https://open.spotify.com/track/22W6wI4hDTjMAYKKBQW9dU) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:31 | 2023-04-22 | 2023-04-30 |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2021-04-10 | 2021-04-16 |
-| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-02 | 2023-08-12 |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-02 |  |
 | [Dangerously](https://open.spotify.com/track/4BLpd6QINAs4UXd1lVtdhj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:19 | 2022-07-28 | 2023-06-07 |
 | [Dangerously](https://open.spotify.com/track/6GBMbvX7sqyOxT5wWK4hgN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:19 | 2023-06-06 | 2023-07-02 |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-03-02 | 2022-04-20 |
@@ -529,6 +529,7 @@
 | [It was me](https://open.spotify.com/track/5RT8qSUlKvZqnJDjxM5Oma) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Pisces](https://open.spotify.com/album/2xX2M89Ep7wZGhExNjtMIK) | 3:20 | 2022-05-25 | 2022-05-29 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-16 | 2022-12-17 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-16 | 2022-12-28 |
+| [It's Definitely You](https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [HWARANG, Pt\. 2 \(Music from the Original TV Series\)](https://open.spotify.com/album/0sL76PXbgRh97MTzadqEMa) | 3:50 | 2023-08-17 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-19 | 2022-12-28 |
 | [ITEM](https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:11 | 2023-06-03 | 2023-06-05 |
 | [It’s Yours](https://open.spotify.com/track/0a4svaW6XiBnyoXECjcmGw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:44 | 2022-03-29 | 2022-04-03 |
@@ -961,7 +962,7 @@
 | [so let’s love](https://open.spotify.com/track/7IDUo5rlyHw08w8l3UpAcE) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:42 | 2021-04-22 | 2021-04-23 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-27 |
 | [Some Nights](https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:27 | 2022-02-15 | 2022-02-28 |
-| [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-07-06 |  |
+| [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-07-06 | 2023-08-18 |
 | [Sparkling](https://open.spotify.com/track/34lKiKHCKhMe9PAfGcdFNE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/5KLYmSbrtpo5pqjOMzDDLi) | 3:06 | 2022-07-28 | 2022-08-04 |
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-09 |  |
 | [Spring Day](https://open.spotify.com/track/5xFoqABWVj4FIAf7vQX8FN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/5liZcQeYT5zHkwdZbtRa3M) | 4:34 | 2021-06-05 | 2021-06-06 |
@@ -1008,7 +1009,7 @@
 | [Super Bowl](https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:03 | 2023-06-03 | 2023-06-05 |
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-09-03 | 2022-09-18 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-08 |  |
-| [Supernova \- Japanese Version](https://open.spotify.com/track/04PSKcBV1ad3QEmmnZCn2N) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Supernova \(Japanese Version\)](https://open.spotify.com/album/1LGfVq98oez1sXNYAazZ2d) | 3:28 | 2023-08-11 |  |
+| [Supernova \- Japanese Version](https://open.spotify.com/track/04PSKcBV1ad3QEmmnZCn2N) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Supernova \(Japanese Version\)](https://open.spotify.com/album/1LGfVq98oez1sXNYAazZ2d) | 3:28 | 2023-08-11 | 2023-08-18 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-27 | 2022-03-11 |
 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-08-12 |  |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-12 | 2022-03-31 |

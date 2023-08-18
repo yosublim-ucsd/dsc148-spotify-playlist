@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,507 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,862 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 62 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 |
 | 63 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
 | 64 | [Cloud Connected](https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Reroute to Remain](https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh) | 3:40 |
-| 65 | [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 |
-| 66 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
+| 65 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
+| 66 | [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 |
 | 67 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
 | 68 | [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 |
 | 69 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 80 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
 | 81 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 | 82 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
-| 83 | [Super Charger Heaven](https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 3:37 |
-| 84 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 |
+| 83 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 |
+| 84 | [Super Charger Heaven](https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 3:37 |
 | 85 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 86 | [Shadows Inside](https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:56 |
 | 87 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
 | 100 | [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 |
 
-Snapshot ID: `MCwyMDU0MThiNzQyMTVlMTk1YTc0ZjExZWQxNDBiN2YwYTQyMjhlZjYz`
+Snapshot ID: `MCxiMTFmNzIzMWFmYWVlZjZlODg1MDIxZGI4ZmNhZDZlZmFiZTc3NTdh`

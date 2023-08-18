@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 
 > Latin songs that changed the game\. Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,505 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,904 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 | 69 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
 | 70 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
 | 71 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
-| 72 | [La Tierra del Olvido](https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 4:25 |
-| 73 | [De Música Ligera](https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:32 |
+| 72 | [De Música Ligera](https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:32 |
+| 73 | [La Tierra del Olvido](https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 4:25 |
 | 74 | [La Bamba](https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Just Another Band From East L.A.: A Collection](https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87) | 2:52 |
 | 75 | [Conga!](https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 4:12 |
 | 76 | [Tiburon](https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 | 99 | [Somos Novios](https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Serie 20 Exitos](https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO) | 2:35 |
 | 100 | [Guantanamera](https://open.spotify.com/track/7m5hbyERUKJC0268b6uEZD) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia](https://open.spotify.com/album/4AvzQm7Fhjj0VtEn0wehwx) | 3:19 |
 
-Snapshot ID: `MCxmNDg2NjgyODRlOGY1M2VmYzEwODVmYzYzZDRiYjNmMjIzZTdkMWQx`
+Snapshot ID: `MCw1MjA5NjFkNjFjMjQ0NGEzNjQ3NTVmNDcyOThhY2Q4MjE1YmQzNGUz`

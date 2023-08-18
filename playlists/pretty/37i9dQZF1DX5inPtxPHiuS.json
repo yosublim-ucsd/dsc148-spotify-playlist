@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 84537,
+  "num_followers": 84544,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2E1ZDE5NzIxYjg2N2U3NDMxMTcxNTc0OTIyYjFhMTA0NjM4Y2E2",
+  "snapshot_id": "MCxlNWQ3ZmU1NWRjNTFmOWE2ZjJjMTJiYmEwODE5ZTQ5N2YyNDdkOWFj",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Apolog\u00eda de una Amigdala Inflamada",
         "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 152750,
       "name": "Apolog\u00eda de una Amigdala Inflamada",
       "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
-      },
-      "artists": [
-        {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Desvanecer",
-      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Delirio",
         "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+      },
+      "artists": [
+        {
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Desvanecer",
+      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Cangrejo",
+        "url": "https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP"
+      },
+      "artists": [
+        {
+          "name": "Arbol De Ojos",
+          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Cangrejo",
+      "url": "https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 213146,
       "name": "Voy a olvidarme de mi",
       "url": "https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Cangrejo",
-        "url": "https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP"
-      },
-      "artists": [
-        {
-          "name": "Arbol De Ojos",
-          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Cangrejo",
-      "url": "https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e"
     },
     {
       "added_at": "2023-04-14 06:55:00",

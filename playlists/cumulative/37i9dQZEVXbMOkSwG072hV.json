@@ -2493,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "AUTOMOTIVO ANGELICAL",
+        "url": "https://open.spotify.com/album/3p66e8GOkeFBbMnBGDFpOh"
+      },
+      "artists": [
+        {
+          "name": "Luiz7z",
+          "url": "https://open.spotify.com/artist/1uA2MjjtMdg1vCpCL87MI6"
+        },
+        {
+          "name": "DJ ZK3",
+          "url": "https://open.spotify.com/artist/0Z3ZL2hmP2xyr3AyEx7kg2"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83617,
+      "name": "AUTOMOTIVO ANGELICAL",
+      "url": "https://open.spotify.com/track/7ePvr7zdTbhwT2p3CaUPgn"
+    },
+    {
+      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
       },
@@ -6926,7 +6948,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 147880,
       "name": "Cool With You",
       "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
@@ -22114,7 +22136,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 119736,
       "name": "Orquestra Maldita",
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
@@ -29448,6 +29470,24 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
+        "name": "The Automotivo Infernal 1.0",
+        "url": "https://open.spotify.com/album/0F4VNLWhlhnOz4JzEt6xZ8"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114593,
+      "name": "The Automotivo Infernal 1.0 - Purple",
+      "url": "https://open.spotify.com/track/684yJVwS41anCimZla5jk9"
     },
     {
       "album": {

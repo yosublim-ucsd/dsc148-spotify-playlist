@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 1106,
+  "num_followers": 1170,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzI5OWY3NGFlNDU1NDQ2OTBjZTJmNWY2ZDM4NzU1ODgzOGJlMDJk",
+  "snapshot_id": "MCxmMmI4NWI3YWNkNTZhNjU1OGRjNDM0Y2ZiYmRkNWEwMDQ2YzA0Zjc2",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
-    },
-    {
       "added_at": "2023-02-24 11:06:00",
       "album": {
         "name": "Mean It",
@@ -319,6 +303,22 @@
       "duration_ms": 171138,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Can I Be Him (Acoustic Live Version)",
         "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 305160,
       "name": "Can I Be Him - Acoustic Live Version",
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Here With Me - Acoustic",
         "url": "https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 164478,
       "name": "Here With Me - Acoustic",
       "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bad Habits (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Bad Habits - Acoustic Version",
-      "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Please Keep Loving Me (Acoustic)",
         "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 197626,
       "name": "Please Keep Loving Me - Acoustic",
       "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Bad Habits (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Bad Habits - Acoustic Version",
+      "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
     },
     {
-      "added_at": "2023-05-19 09:18:00",
-      "album": {
-        "name": "Meltdown (Acoustic)",
-        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224487,
-      "name": "Meltdown - Acoustic",
-      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Hypersonic Missiles",
@@ -775,6 +759,22 @@
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2023-05-19 09:18:00",
+      "album": {
+        "name": "Meltdown (Acoustic)",
+        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224487,
+      "name": "Meltdown - Acoustic",
+      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "10 Summers",
+        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
+      },
+      "artists": [
+        {
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "10 Summers",
+      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
       },
@@ -827,18 +843,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "10 Summers",
-        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
       "artists": [
         {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 160500,
-      "name": "10 Summers",
-      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
+      "duration_ms": 229960,
+      "name": "No Right To Love You - Acoustic",
+      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
       "added_at": "2023-06-23 11:57:00",
@@ -867,38 +899,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "No Right To Love You - Acoustic",
-      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "see u tomorrow (stripped)",
         "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 197845,
       "name": "see u tomorrow - stripped",
       "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Island Life Coffee House (Vol. 1)",
-        "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Be As You Are - Acoustic",
-      "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "T-Shirts (Acoustic)",
         "url": "https://open.spotify.com/album/6hqV9kF9ktgt9BFWz8oQTG"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 195480,
       "name": "T-Shirts - Acoustic",
       "url": "https://open.spotify.com/track/4TuldNZ6ojVCsvVh0yJyrw"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Island Life Coffee House (Vol. 1)",
+        "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Be As You Are - Acoustic",
+      "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
     },
     {
       "added_at": "2023-02-10 06:37:00",

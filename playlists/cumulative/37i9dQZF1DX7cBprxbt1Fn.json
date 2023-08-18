@@ -621,6 +621,28 @@
     },
     {
       "album": {
+        "name": "Eden Roc",
+        "url": "https://open.spotify.com/album/5jRyFJtnadQ4XkSwL8mUzM"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Marco Decimo",
+          "url": "https://open.spotify.com/artist/11IgISNFApjwaLP6Y64tEz"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292626,
+      "name": "Due Tramonti",
+      "url": "https://open.spotify.com/track/3piSeZsUx79vyAJYMpODvy"
+    },
+    {
+      "album": {
         "name": "Intense Study",
         "url": "https://open.spotify.com/album/32eYFP8o7dEY5wZHmsAsa9"
       },
@@ -726,28 +748,6 @@
       "duration_ms": 333400,
       "name": "Ein Sommernachtstraum (A Midsummer's Night Dream): VI. Notturno",
       "url": "https://open.spotify.com/track/11CKLSlsRZrLqhSWJKU7eI"
-    },
-    {
-      "album": {
-        "name": "Eden Roc",
-        "url": "https://open.spotify.com/album/5jRyFJtnadQ4XkSwL8mUzM"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Marco Decimo",
-          "url": "https://open.spotify.com/artist/11IgISNFApjwaLP6Y64tEz"
-        }
-      ],
-      "date_added": "2020-10-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292626,
-      "name": "Einaudi: Due Tramonti",
-      "url": "https://open.spotify.com/track/3piSeZsUx79vyAJYMpODvy"
     },
     {
       "album": {

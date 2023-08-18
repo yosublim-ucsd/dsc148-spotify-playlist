@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,547 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,575 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 26 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
 | 27 | [affection](https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG) | 3:55 |
 | 28 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 |
-| 29 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 |
-| 30 | [summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR) | 2:31 |
+| 29 | [summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR) | 2:31 |
+| 30 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 |
 | 31 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 |
-| 32 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 |
-| 33 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
+| 32 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
+| 33 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 |
 | 34 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 |
 | 35 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 |
 | 36 | [Lemon Boy](https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:32 |
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 63 | [Lost in Paris](https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 3:14 |
 | 64 | [Greek God](https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:56 |
 | 65 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
-| 66 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
-| 67 | [Summer Time High Time](https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Kwe$t](https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:28 |
+| 66 | [Summer Time High Time](https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Kwe$t](https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:28 |
+| 67 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
 | 68 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 |
 | 69 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
 | 70 | [You & Jennifer](https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Damaged Vol\. 2](https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij) | 2:39 |
 | 71 | [Four Out Of Five](https://open.spotify.com/track/3nhzPKCm2yqGmgEhdAg19u) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) | 5:12 |
 | 72 | [nightmares](https://open.spotify.com/track/6BxhzevDe4Mzrabj9Pa1eZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:27 |
-| 73 | [tkm](https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 5:38 |
-| 74 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 |
-| 75 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 |
-| 76 | [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 |
+| 73 | [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 |
+| 74 | [tkm](https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 5:38 |
+| 75 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 |
+| 76 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 |
 | 77 | [All I Want To Hear You Say](https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/1q1jS5K0GVUbJL7NySZM3F) | 3:10 |
 | 78 | [Holy](https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Make My Bed](https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5) | 2:54 |
 | 79 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 99 | [Miracle](https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:08 |
 | 100 | [Calm](https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L) | 3:28 |
 
-Snapshot ID: `MCxiNDI5ODJhYWViZWQyMjI1YzBlMTg5NzU0ODc4ZTE3N2NkOGRmMWMx`
+Snapshot ID: `MCxkM2Q4YzIyYmFjZmY3YjBmZDNiMjFmYWQ2NjIwOTExMGMyNmQ1MTVl`

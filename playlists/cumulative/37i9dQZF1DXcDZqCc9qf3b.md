@@ -2,7 +2,7 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: Miraculous: Ladybug & Cat Noir
+> Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter
 
 120 songs - 5 hr 0 min
 

@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-182 songs - 8 hr 28 min
+183 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Rockstar](https://open.spotify.com/track/2EvkuKd9qC5qk8Qxm6SzPY) | [Cedrix](https://open.spotify.com/artist/0XY9QKkTnONBkjszYTfsZl), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz), [Emrah Turken](https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe) | [Rockstar](https://open.spotify.com/album/01XL0vCDJdAKURjMu97yGt) | 2:48 | 2022-06-03 | 2022-07-09 |
 | [RVBLE & DVST](https://open.spotify.com/track/2CiCGSQjwQS9dweknIs91G) | [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Robert Cristian](https://open.spotify.com/artist/26ebqYqothrkkGHWEvJy4D) | [RVBLE & DVST](https://open.spotify.com/album/4nbbj2cKmY2aCY9IuvSEJG) | 2:38 | 2022-05-06 | 2022-10-21 |
 | [S.T.A.L.K.E.R](https://open.spotify.com/track/0v1inx6DMkaMiQwZQw9vRo) | [Tommy Soprano](https://open.spotify.com/artist/1bohBNryuQpzSEtG9cytN1), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [S.T.A.L.K.E.R](https://open.spotify.com/album/1jywvyn8CMDY6qNJME9BIf) | 2:45 | 2022-11-17 | 2022-12-17 |
-| [SAMURAI](https://open.spotify.com/track/3yUDo3vkOE5XI0W5k6A1vI) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/01u5x15oJm1a8uKVN3pP7T) | 2:49 | 2022-11-11 |  |
+| [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 | 2023-02-28 |  |
+| [SAMURAI](https://open.spotify.com/track/3yUDo3vkOE5XI0W5k6A1vI) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/01u5x15oJm1a8uKVN3pP7T) | 2:49 | 2022-11-11 | 2023-08-18 |
 | [SAX](https://open.spotify.com/track/5f0VxpTZ3pXgDi6f4XgsL6) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SAX](https://open.spotify.com/album/5PeIppUVmMLLn0AFKxBECh) | 2:33 | 2022-05-12 | 2022-07-16 |
 | [Shagy](https://open.spotify.com/track/2zI17EWoz24ZaDB9baDBhC) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA) | [Shagy](https://open.spotify.com/album/6AuQTnJG4AYhqpo5zQAtVx) | 2:30 | 2022-05-26 | 2022-08-27 |
 | [SHAKE](https://open.spotify.com/track/3OHHcI6PTUgAFeQHJLQdB8) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SHAKE](https://open.spotify.com/album/4yyGTE0XiE7czQSEYqPMKX) | 2:31 | 2022-06-16 | 2022-07-29 |

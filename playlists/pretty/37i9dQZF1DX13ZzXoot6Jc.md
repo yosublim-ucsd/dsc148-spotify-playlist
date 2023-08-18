@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > A collection of country hits that will have you singing every word\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,989 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,025 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 46 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 |
 | 47 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 |
 | 48 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
-| 49 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
-| 50 | [Me On You](https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 2:47 |
+| 49 | [Me On You](https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 2:47 |
+| 50 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
 | 51 | [If I Didn't Love You](https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:32 |
 | 52 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
 | 53 | [Blindsided](https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 99 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
 | 100 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
 
-Snapshot ID: `MCw0NGQzYjExY2JjOWE3YzkyN2FkMjc5Yjk3MWU3MTZjYTRhNDdmNGE1`
+Snapshot ID: `MCw2MjI4ZWY1YTFhOWIzYWMzNjIzM2QxMWRhNjkzODcyZDk3MTQxMzU0`

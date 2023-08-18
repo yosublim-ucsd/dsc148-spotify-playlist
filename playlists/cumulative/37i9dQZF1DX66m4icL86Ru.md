@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ice Spice
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Doja Cat
 
 421 songs - 20 hr 34 min
 
@@ -228,7 +228,7 @@
 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 | 2022-01-21 | 2022-04-09 |
 | [Like a Boy](https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 3:57 | 2022-01-28 | 2022-08-20 |
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2021-10-15 | 2022-02-26 |
-| [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 | 2022-10-14 |  |
+| [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 | 2022-10-14 | 2023-08-18 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-03-08 | 2023-07-08 |
 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 | 2023-04-25 |  |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-24 | 2023-07-01 |
@@ -366,7 +366,7 @@
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 | 2022-06-17 | 2022-07-09 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 | 2022-11-19 |
-| [Sway](https://open.spotify.com/track/4b6PF6INUHpeoYtEQTWOxD) | [Poppy Rose](https://open.spotify.com/artist/3LwvdFKJNqyknLEdIfXDAi) | [Sway](https://open.spotify.com/album/3gxswTu2uBOi8pGnw8Mtf9) | 2:32 | 2023-08-04 |  |
+| [Sway](https://open.spotify.com/track/4b6PF6INUHpeoYtEQTWOxD) | [Poppy Rose](https://open.spotify.com/artist/3LwvdFKJNqyknLEdIfXDAi) | [Sway](https://open.spotify.com/album/3gxswTu2uBOi8pGnw8Mtf9) | 2:32 | 2023-08-04 | 2023-08-18 |
 | [Sweat](https://open.spotify.com/track/0TzXhuxOpmvIa68QykPqIV) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Sweat](https://open.spotify.com/album/1lgihc94VjHPpUEIS9S7gp) | 3:03 | 2022-07-29 | 2022-11-26 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-11 | 2022-09-17 |
 | [Take Your Man](https://open.spotify.com/track/1CF5kzz5XDBAL24wtVyyTJ) | [Mahogany Lox](https://open.spotify.com/artist/1wG6KrT3zgutFeiCddBivH) | [Take Your Man](https://open.spotify.com/album/1m3nVwnSGaV6Jsc9fIttE8) | 1:57 | 2021-10-15 | 2022-03-18 |
@@ -411,7 +411,7 @@
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2022-12-13 | 2023-01-14 |
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 | 2022-03-11 | 2022-04-23 |
 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 | 2023-01-06 |  |
-| [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-04-21 |  |
+| [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-04-21 | 2023-08-18 |
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2021-10-15 | 2022-04-16 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-08-09 |  |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2021-10-15 | 2022-04-09 |

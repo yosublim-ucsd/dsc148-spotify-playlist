@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,316 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,594 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 6 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
 | 7 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
 | 8 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
-| 9 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
-| 10 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 |
+| 9 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 |
+| 10 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
 | 11 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 12 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
 | 13 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 33 | [this is what heartbreak feels like](https://open.spotify.com/track/4RxdAzEmkPXTiIU6ULLoXh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:37 |
 | 34 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
 | 35 | [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Alone](https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg) | 4:33 |
-| 36 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
-| 37 | [Cradles](https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX) | 3:29 |
-| 38 | [Loverboy](https://open.spotify.com/track/0qXP5fMhxGzxALOkXYUxfP) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/4uObGgFhiUjJNrj298b500) | 3:44 |
-| 39 | [sun and moon](https://open.spotify.com/track/7m4BsKrYkOFy3VNmAMu5bO) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:31 |
+| 36 | [Cradles](https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX) | 3:29 |
+| 37 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
+| 38 | [sun and moon](https://open.spotify.com/track/7m4BsKrYkOFy3VNmAMu5bO) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:31 |
+| 39 | [Loverboy](https://open.spotify.com/track/0qXP5fMhxGzxALOkXYUxfP) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/4uObGgFhiUjJNrj298b500) | 3:44 |
 | 40 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 |
 | 41 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 |
 | 42 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 |
 | 43 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
-| 44 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
-| 45 | [I Feel Fantastic](https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/1imBqh217L161tQk9OUeWK) | 2:26 |
+| 44 | [I Feel Fantastic](https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/1imBqh217L161tQk9OUeWK) | 2:26 |
+| 45 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
 | 46 | [Dancin’](https://open.spotify.com/track/5imGCTYwyY7aN0JoJMDZqg) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Dancin’](https://open.spotify.com/album/4CLhXqYNT5MUVpExCvh0Qg) | 3:18 |
 | 47 | [Bad Idea](https://open.spotify.com/track/0fw4CFcELg9BlAeZIx4N1N) | [pxzvc](https://open.spotify.com/artist/4zFUPBeN9jhNn8qkgxEpW9), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Bad Idea](https://open.spotify.com/album/5Kpv4cxDlf1L1rrqL8E9OQ) | 1:54 |
 | 48 | [Roadtrip](https://open.spotify.com/track/4Agtk2MrapdZAVN7v6PuFO) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Roadtrip](https://open.spotify.com/album/4nndDRqggBACyN5dw13kDI) | 2:13 |
 | 49 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 |
 | 50 | [Holiday](https://open.spotify.com/track/14Bcv6siTBPw3TlP84dasC) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/41jQTuRYzHH58MwygrUxty) | 3:13 |
 
-Snapshot ID: `MCxmMTIzMGRjOTdkOWM4MDNlMDEzODQyYjY5NzA5OGU2Y2JhZjU1NWYw`
+Snapshot ID: `MCw0OTkyYmEyMWZjNDBjZDIwNjE5YTY5OGZiNWIxM2QxMWNiZjU5ZDM3`

@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 349243,
       "name": "24th & Lake (feat. Cory Henry & Robert 'Sput' Searight)",
       "url": "https://open.spotify.com/track/2eLZvl9yQmsbOxyHJNGyi0"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 161957,
       "name": "Deer Alley",
       "url": "https://open.spotify.com/track/3P43Ibmy2kgnGR0tFEs4aP"
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 206821,
       "name": "Disconnect - Ti\u00ebsto Extended Remix",
       "url": "https://open.spotify.com/track/2P9PYltlVgxAcLOerXqcHA"
@@ -2886,6 +2886,24 @@
       "duration_ms": 147692,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178952,
+      "name": "Drill Sergeant",
+      "url": "https://open.spotify.com/track/6PZo5se6fU1qBkwB7xWoM2"
     },
     {
       "album": {
@@ -10653,6 +10671,40 @@
     },
     {
       "album": {
+        "name": "Curly",
+        "url": "https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp"
+        },
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Nir Felder",
+          "url": "https://open.spotify.com/artist/7L6hdiesl0TXJgdciKKrxD"
+        },
+        {
+          "name": "Robert \u2018Sput\u2019 Searight",
+          "url": "https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430026,
+      "name": "Untitled 5 (feat. Robert 'Sput' Searight, Larry Goldings & Nir Felder)",
+      "url": "https://open.spotify.com/track/1gGb4yJsDEk8EmL8C6ENPO"
+    },
+    {
+      "album": {
         "name": "Untitled Moon Song",
         "url": "https://open.spotify.com/album/0EMXrRQPShDjHkjUoFQIJd"
       },
@@ -10860,6 +10912,24 @@
       "duration_ms": 303370,
       "name": "W.A.R",
       "url": "https://open.spotify.com/track/4IARmfIYJe9IfTOFVKtxfk"
+    },
+    {
+      "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266159,
+      "name": "Waited All Your Life",
+      "url": "https://open.spotify.com/track/525ZuYk4K5oDXTKnQABXYA"
     },
     {
       "album": {

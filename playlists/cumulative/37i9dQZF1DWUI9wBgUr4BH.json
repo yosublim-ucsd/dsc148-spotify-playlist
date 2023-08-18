@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Ava Max",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Rema",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
+    },
+    {
+      "album": {
         "name": "LAYALI",
         "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
       },
@@ -249,6 +267,32 @@
     },
     {
       "album": {
+        "name": "Coming Your Way (with Anne-Marie & Becky G)",
+        "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145122,
+      "name": "Coming Your Way (with Anne-Marie & Becky G)",
+      "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
+    },
+    {
+      "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
@@ -300,7 +344,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 198698,
       "name": "Derni\u00e8re fois",
       "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
@@ -424,7 +468,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 166654,
       "name": "Jolie Go",
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
@@ -1118,10 +1162,28 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+    },
+    {
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
     },
     {
       "album": {

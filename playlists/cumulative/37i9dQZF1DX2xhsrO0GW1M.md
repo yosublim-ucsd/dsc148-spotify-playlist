@@ -4,7 +4,7 @@
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes, celebrando 10 años de Boys & Girls
 
-76 songs - 4 hr 56 min
+77 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 | 2023-07-21 |  |
 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 | 2023-07-21 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-07-21 |  |
-| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-07-21 |  |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-07-21 | 2023-08-18 |
 | [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 | 2023-07-21 |  |
 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 | 2023-07-21 |  |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2023-07-21 |  |
@@ -37,7 +37,8 @@
 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 | 2023-07-21 |  |
 | [How You Like Me Now](https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The House That Dirt Built](https://open.spotify.com/album/0sKcuounq52lm9hmFwEZN5) | 3:37 | 2023-07-21 |  |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2023-07-21 |  |
-| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2023-07-21 |  |
+| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2023-07-21 | 2023-08-18 |
+| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 | 2023-07-21 |  |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2023-07-21 |  |
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2023-07-21 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2023-07-21 |  |
@@ -83,6 +84,6 @@
 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2023-07-21 |  |
 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 | 2023-07-21 |  |
 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 | 2023-07-21 |  |
-| [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 | 2023-07-21 | 2023-08-16 |
+| [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 | 2023-07-21 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

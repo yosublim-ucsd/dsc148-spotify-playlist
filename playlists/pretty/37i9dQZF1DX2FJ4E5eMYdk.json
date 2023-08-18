@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 148272,
+  "num_followers": 148378,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjA4ZWJmNTZmZTUwM2I4NTZhYzc2ZGMxYWJjNTA5ZWY5NjhhZTli",
+  "snapshot_id": "MCwwNzIyOWY1MTRiZmE2ZmUwOTk4OTJkMWVjOTgxYjBjOWFmN2JhYTJi",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 418146,
+      "name": "Kingfisher",
+      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Jamtown",
         "url": "https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 235407,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 418146,
-      "name": "Kingfisher",
-      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Baby Bluebird",
-      "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/5yZL2ILFTbQFb64nD7zXO1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 390666,
       "name": "Cecil Taylor",
       "url": "https://open.spotify.com/track/1GCDmw5OI2g1k6CrcVn8wl"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Baby Bluebird",
+      "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Banshee",
         "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 203319,
       "name": "Nighthawks",
       "url": "https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Automechanic",
+        "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
+      },
+      "artists": [
+        {
+          "name": "Jenny O.",
+          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Automechanic",
+      "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 236973,
       "name": "Hey Man",
       "url": "https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Automechanic",
-        "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
-      },
-      "artists": [
-        {
-          "name": "Jenny O.",
-          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Automechanic",
-      "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
     }
   ],
   "unique_name": "Psych & Groove",

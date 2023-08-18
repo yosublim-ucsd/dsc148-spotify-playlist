@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,279 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,356 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 9 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 |
 | 10 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
 | 11 | [la luna enamorada](https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:50 |
-| 12 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 |
+| 12 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
 | 13 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
-| 14 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
+| 14 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 |
 | 15 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 16 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 17 | [que te pedí//](https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:44 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 35 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
 | 36 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 |
 | 37 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
-| 38 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
-| 39 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
+| 38 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
+| 39 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
 | 40 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
 | 41 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 |
 | 42 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Cuenta Regresiva](https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Cuenta Regresiva](https://open.spotify.com/album/469L6ILwfPQV6nQgtZ8cSL) | 3:13 |
 | 60 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
 
-Snapshot ID: `MCwzYzM2Y2QwOTg5MjQ4YzE4MzQzNWE3YjI1NzI0MjQ5MGViMmYwYjcz`
+Snapshot ID: `MCw5OGVlMGVjZjVhODM3MDNhNjllZjMzMjE1NzNjNGQ2MzFmNWY4YjVk`

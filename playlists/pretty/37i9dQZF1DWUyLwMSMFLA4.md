@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia y cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,707 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,991 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 81 | [Qué bonito](https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO) | 3:58 |
 | 82 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
 | 83 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
-| 84 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
-| 85 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
+| 84 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
+| 85 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 86 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
 | 87 | [Amor De Adolescentes](https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:10 |
 | 88 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 96 | [Ojitos Chiquititos](https://open.spotify.com/track/2bGEoSwvtIi5el0jyeLbmn) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Ojitos Chiquititos](https://open.spotify.com/album/0qDTsPJg1GZhUmRj3m7udK) | 2:15 |
 | 97 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 98 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 |
-| 99 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 |
-| 100 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
+| 99 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
+| 100 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 |
 
-Snapshot ID: `MCwxYTVkNDI1MDhhYjk5ZDE0ZTIxYzAwYjAwNmNhNDQyM2YyZGU2ZTk5`
+Snapshot ID: `MCwxMDRjYWExZTQ1NGVhMjYxNTVkZGY3MzUwYmJmZDVjMjY5NjU5M2Q2`

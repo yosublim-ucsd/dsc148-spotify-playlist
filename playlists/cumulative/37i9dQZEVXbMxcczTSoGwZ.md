@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,528 songs - 3 day 10 hr 43 min
+1,529 songs - 3 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,7 +1079,7 @@
 | [Pämppää](https://open.spotify.com/track/5t7rDlqL7Ji3BrpOJFKBCr) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Sahamies](https://open.spotify.com/artist/5FxZkV0729LOnA5LlwoC8g) | [Circus](https://open.spotify.com/album/2XXp9mYjYmojDoGAcfG2D8) | 3:10 | 2022-05-01 | 2022-05-03 |
 | [Pämppää \- Vain elämää kausi 12](https://open.spotify.com/track/6sYRLDlTT6hKNr3HNoQsz5) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg), [Ilkka Vainio](https://open.spotify.com/artist/27hz79ZH8QIX45gyyDBLLc), [Kuningasidea](https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP) | [Pämppää \(Vain elämää kausi 12\)](https://open.spotify.com/album/6WKYv6tsFsM84O538wKtEa) | 3:19 | 2021-11-22 | 2021-11-23 |
 | [Päästä varpaisiin](https://open.spotify.com/track/3VsTpdea6RXkvbwLBjiCB9) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:00 | 2021-05-17 | 2021-05-23 |
-| [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-01-28 |  |
+| [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-01-28 | 2023-08-18 |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-10-26 |
 | [R.E.S.P.E.C.T.](https://open.spotify.com/track/5gD9kf2QGNUaYXElN4nhX5) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [R.E.S.P.E.C.T.](https://open.spotify.com/album/2MMV8GzondHik3fodFhOZG) | 2:12 | 2022-08-06 | 2022-08-23 |
 | [R.E.S.P.E.C.T.](https://open.spotify.com/track/78P8mP7LWZ1bx7pllu9xsH) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tykkäät kummiski](https://open.spotify.com/album/715VRR7Xw2Y4rSxEMH8X5n) | 2:12 | 2022-08-27 | 2022-09-01 |
@@ -1160,6 +1160,7 @@
 | [Seksi Seinäjoella](https://open.spotify.com/track/6xdi29bJS0Hb7yhlcFKaWU) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Seksi Seinäjoella](https://open.spotify.com/album/154VyMD5r9m5bbfSnN7whF) | 3:18 | 2023-06-03 | 2023-07-23 |
 | [Sen pituinen se \(feat\. Kiki\)](https://open.spotify.com/track/79Hll9uh2wBbKqDJc4LuXl) | [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Kiki](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Sen pituinen se \(feat\. Kiki\)](https://open.spotify.com/album/49D3EeuhiTRjIHT8o1tqqN) | 2:55 | 2022-10-22 | 2023-02-26 |
 | [Sentimentai](https://open.spotify.com/track/0JNPmXGU9K9DJpV9eHppZz) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Sentimentai](https://open.spotify.com/album/7vlt4TnVHs132OL0a0YE5E) | 3:00 | 2022-05-16 | 2022-05-20 |
+| [Seppä](https://open.spotify.com/track/6YuAnpBbgbMqIf2jopi2bZ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Seppä](https://open.spotify.com/album/10miBmc7vlwONfYochK7v8) | 2:31 | 2023-08-17 |  |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-25 | 2021-05-28 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-09-14 | 2022-10-16 |
 | [Sexmane](https://open.spotify.com/track/2icXD0qBefa7MkRT0BrvBs) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Viimein](https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6) | 3:33 | 2023-03-04 | 2023-03-06 |

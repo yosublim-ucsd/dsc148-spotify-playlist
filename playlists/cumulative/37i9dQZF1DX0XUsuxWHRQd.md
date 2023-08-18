@@ -4,7 +4,7 @@
 
 > New music from Trippie Redd, DJ Khaled and Yeat.
 
-1,728 songs - 3 day 17 hr 16 min
+1,729 songs - 3 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [24](https://open.spotify.com/track/2FVMbLuIxo0dz3KLXgN6Jh) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Epidemic](https://open.spotify.com/album/3RxpooDT1k9yceUKmArDXD) | 2:40 | 2020-08-07 | 2020-08-14 |
 | [24 \(feat\. Lil Baby\)](https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [24 \(feat\. Lil Baby\)](https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5) | 3:02 | 2020-08-14 | 2020-11-13 |
 | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N) | 3:25 | 2021-05-22 | 2021-07-04 |
+| [24's \(Vocals Only\)](https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Muzik](https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl) | 4:42 | 2023-08-17 |  |
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2021-12-17 | 2022-02-12 |
 | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/track/2h4cmbyb6S7e8igDZIITJU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/7ClxwGfXKhbDYykavKxvNY) | 2:49 | 2020-07-03 | 2020-08-21 |
 | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/track/677KTHp39ZBJ9csDdgymI9) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/album/7jyTznlK360v8ldMNfvt3Z) | 2:49 | 2020-05-08 | 2020-06-29 |

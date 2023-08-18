@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 544136,
+  "num_followers": 544838,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDExYTY1OWRkM2VjNWUwMzQ3ODA4NjUyYjlhNTk5NzljNGFiMDk5",
+  "snapshot_id": "MCxlODZhNjdmZDVmNWZmNDc4ODc2OGQ2YTI0ZWUxZTgwYWU2OTEwOTA3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -419,6 +419,26 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "WET DREAMS (w/ Nimstarr)",
+        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        }
+      ],
+      "duration_ms": 124711,
+      "name": "WET DREAMS (w/ Nimstarr)",
+      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "HOT DEMON B!TCHES NEAR U ! ! !",
         "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
       },
@@ -471,22 +491,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
         }
       ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+      "duration_ms": 203294,
+      "name": "life imitates life",
+      "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "life imitates life",
-      "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "Aces",
         "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
       },
@@ -535,30 +535,6 @@
       "duration_ms": 122250,
       "name": "Aces",
       "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "MISA MISA!",
-        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 85894,
-      "name": "MISA MISA!",
-      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -631,6 +607,30 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "af1 (slowed and reverbed)",
         "url": "https://open.spotify.com/album/4jyLKqplCTfHKOvuVGF671"
       },
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "E-GIRLS ARE RUINING MY LIFE!",
-        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        }
-      ],
-      "duration_ms": 105176,
-      "name": "E-GIRLS ARE RUINING MY LIFE!",
-      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "The Law of Recognition",
         "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
       },
@@ -731,22 +711,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
-        }
-      ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "BodyPartz",
         "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
       },
@@ -759,6 +723,22 @@
       "duration_ms": 79129,
       "name": "BodyPartz",
       "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -795,6 +775,26 @@
       "duration_ms": 145115,
       "name": "chinatown!",
       "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "E-GIRLS ARE RUINING MY LIFE!",
+        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        }
+      ],
+      "duration_ms": 105176,
+      "name": "E-GIRLS ARE RUINING MY LIFE!",
+      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
     },
     {
       "added_at": "2023-07-13 15:18:57",

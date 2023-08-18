@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=ZpkfBbF4TqSPM8qZ9VMLuQ">Yallunder</a>.
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=4RdyfZQbRDerv26SnksJww">Mthandeni SK</a>.
 
 157 songs - 12 hr 31 min
 

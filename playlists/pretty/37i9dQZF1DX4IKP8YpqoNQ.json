@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 24742,
+  "num_followers": 24748,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM2YzI5YmY4ZDAwMGUyOTIwZDBlNzdiZWMzYjJhMWViMGExMTMx",
+  "snapshot_id": "MCw5MWEzZTEyNDRlMjBkNmNiNzQ3MmRlZGRjZDM5YTA3ZWUxZDEwMmRh",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 317786,
-      "name": "What's Going On - Live",
-      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 396554,
       "name": "Friday Morning - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "You've Got a Friend - Live",
+      "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "You've Got a Friend - Live",
-      "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 210600,
       "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 317786,
+      "name": "What's Going On - Live",
+      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Hypnotic Brass Ensemble",
+          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
+        }
+      ],
+      "duration_ms": 269300,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5MRB560kWM0Zr9evG1YQ4t"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -623,22 +643,6 @@
       "duration_ms": 361000,
       "name": "The Sweetest Taboo - Live",
       "url": "https://open.spotify.com/track/7iQv3X7TtjxJ5K6vw8Jwu1"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Black Pumas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 344053,
-      "name": "OCT 33 - Live In Studio",
-      "url": "https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -691,6 +695,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Black Pumas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 344053,
+      "name": "OCT 33 - Live In Studio",
+      "url": "https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 374973,
       "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
       "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Black Pumas (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        },
-        {
-          "name": "Hypnotic Brass Ensemble",
-          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
-        }
-      ],
-      "duration_ms": 269300,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/5MRB560kWM0Zr9evG1YQ4t"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
-      "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 310091,
       "name": "Claustrophobic (feat. Keyon Harrold) - Live",
       "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
+      "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1024,22 +1024,6 @@
       "added_at": "2023-05-15 07:15:38",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
       },
       "artists": [
@@ -1051,6 +1035,22 @@
       "duration_ms": 180551,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Anniversary \u2013 The Live Album",
-        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 254992,
-      "name": "You're On My Mind - Anniversary \u2013 Live",
-      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Weekend in London (Live)",
         "url": "https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 374800,
       "name": "The Ghetto - Live",
       "url": "https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Anniversary \u2013 The Live Album",
+        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 254992,
+      "name": "You're On My Mind - Anniversary \u2013 Live",
+      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Anniversary \u2013 The Live Album",
+        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 223232,
+      "name": "Love Calls - Anniversary \u2013 Live",
+      "url": "https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 376973,
       "name": "Dorothy Parker - Live from One Nite Alone Tour...The Aftershow",
       "url": "https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Anniversary \u2013 The Live Album",
-        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 223232,
-      "name": "Love Calls - Anniversary \u2013 Live",
-      "url": "https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
       },
       "artists": [
         {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 336440,
-      "name": "You Got the Love - Live Version",
-      "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
+      "duration_ms": 336440,
+      "name": "You Got the Love - Live Version",
+      "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
-        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 367186,
-      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
-      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Live at Metropolis Studios",
         "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 210413,
       "name": "Family - Live at Metropolis Studios",
       "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
+        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 367186,
+      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
+      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
     },
     {
       "added_at": "2023-05-15 07:15:38",

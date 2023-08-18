@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,806 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,841 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 40 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 |
 | 41 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
 | 42 | [I Lift Your Name Up \- 80's Remix](https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 3:21 |
-| 43 | [Even in the Valley](https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08) | [Kingly](https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ), [John Strandell](https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd) | [Even in the Valley](https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg) | 3:23 |
-| 44 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 |
+| 43 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 |
+| 44 | [Even in the Valley](https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08) | [Kingly](https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ), [John Strandell](https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd) | [Even in the Valley](https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg) | 3:23 |
 | 45 | [Somebody](https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC) | [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Somebody](https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ) | 3:44 |
 | 46 | [Like You](https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lyfe](https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6) | 2:33 |
-| 47 | [MAYBE](https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [NOT BY CHANCE](https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP) | 3:50 |
-| 48 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 47 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 48 | [MAYBE](https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [NOT BY CHANCE](https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP) | 3:50 |
 | 49 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
 | 50 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
 | 51 | [Dancing On Top of the World](https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf) | 2:53 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 62 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 63 | [rain don't go away](https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [rain don't go away](https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX) | 3:57 |
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
-| 65 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
+| 65 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 
-Snapshot ID: `MCxkZDQzODY1YTdiZmZkNzc4YzI5ZWVkZjNmZDViMWMxZmQwNmI4MGRl`
+Snapshot ID: `MCwzYTI0ZWJkNzMyYjg1ZTYzYTNkZGY2YmQzZDU2MjI0ZDM1Y2Q2NWFj`

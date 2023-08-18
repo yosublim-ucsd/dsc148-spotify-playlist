@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 445707,
+  "num_followers": 445991,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTVkNDI1MDhhYjk5ZDE0ZTIxYzAwYjAwNmNhNDQyM2YyZGU2ZTk5",
+  "snapshot_id": "MCwxMDRjYWExZTQ1NGVhMjYxNTVkZGY3MzUwYmJmZDVjMjY5NjU5M2Q2",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 197616,
       "name": "Entre el Cielo Vos y Yo",
       "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Sonidero Soy",
+        "url": "https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Te Arrepentir\u00e1s",
+      "url": "https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Sonidero Soy",
-        "url": "https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Te Arrepentir\u00e1s",
-      "url": "https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU"
     }
   ],
   "unique_name": "Asadito Cumbiero",

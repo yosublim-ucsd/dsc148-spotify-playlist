@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2435061,
+  "num_followers": 2435422,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmZmN2Q0MGNhOTQxOGEyODFmNDU3N2Q2ZmY0NTdjZWRjNTQxMzAx",
+  "snapshot_id": "MCxmZDBkYjM5NzhjMDFmYTYxMWZlMjdmMzAyY2Y3NDYyZjIxNTQzNjQ3",
   "tracks": [
     {
       "added_at": "2023-04-03 07:21:01",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
+        "name": "Nobela",
+        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
+      },
+      "artists": [
+        {
+          "name": "Join The Club",
+          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
+        }
+      ],
+      "duration_ms": 291506,
+      "name": "Nobela",
+      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
         "name": "Materyal",
         "url": "https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Mahika",
-        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Buruguduystunstugudunstuy",
         "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 182200,
       "name": "Harana",
       "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "Mahika",
+        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
-        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
-      },
-      "artists": [
-        {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
-        }
-      ],
-      "duration_ms": 260599,
-      "name": "Di Na Muli",
-      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Langit. Luha.",
-        "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
+        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
         }
       ],
-      "duration_ms": 241029,
-      "name": "Pasensya Ka Na",
-      "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
+      "duration_ms": 260599,
+      "name": "Di Na Muli",
+      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -711,6 +711,22 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "Langit. Luha.",
+        "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 241029,
+      "name": "Pasensya Ka Na",
+      "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Umaga",
-        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf"
       },
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
+        "name": "Umaga",
+        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
         "name": "Sa Ngalan Ng Pag-Ibig",
         "url": "https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 285138,
       "name": "Sa Ngalan Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
-        "name": "Twelve: Fifty One (International Version)",
-        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
-      },
-      "artists": [
-        {
-          "name": "krissy & ericka",
-          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "12:51",
-      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
     }
   ],
   "unique_name": "OPM Favorites",

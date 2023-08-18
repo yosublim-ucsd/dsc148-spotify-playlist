@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 476021,
+  "num_followers": 476984,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTA0MjA3MWYyM2YzZTI0MmIyMDVmOWIxYmVmMGUxOWQ4MTY0YjRm",
+  "snapshot_id": "MCwzNjYyYmI2MmUzYjlkM2Y5MjUyMjcwNGVlZjA5MjE0NDc2YzVhMGZl",
   "tracks": [
     {
       "added_at": "2023-08-14 19:54:07",
@@ -467,22 +467,22 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -511,22 +511,22 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -567,6 +567,22 @@
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2023-08-14 19:54:07",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -615,18 +631,26 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+        "name": "EWIGKEIT (REMIX)",
+        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
         }
       ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+      "duration_ms": 137647,
+      "name": "EWIGKEIT - REMIX",
+      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -707,30 +731,6 @@
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
-    },
-    {
-      "added_at": "2023-08-14 19:54:07",
-      "album": {
-        "name": "EWIGKEIT (REMIX)",
-        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
-      },
-      "artists": [
-        {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
-        },
-        {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "EWIGKEIT - REMIX",
-      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -831,42 +831,6 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2023-08-14 19:54:07",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
-    },
-    {
-      "added_at": "2023-08-14 19:54:07",
-      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -883,6 +847,22 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
+    },
+    {
+      "added_at": "2023-08-14 19:54:07",
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -919,6 +899,26 @@
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "added_at": "2023-08-14 19:54:07",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "Auf die Party",
-        "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        },
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 164199,
-      "name": "Auf die Party",
-      "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
-    },
-    {
-      "added_at": "2023-08-14 19:54:07",
-      "album": {
         "name": "TABU RMX",
         "url": "https://open.spotify.com/album/1tZuWiSl8PJUq8DHZcVYn7"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 138181,
       "name": "TABU RMX",
       "url": "https://open.spotify.com/track/7DsflyKZZAMXFUzZtho9mr"
+    },
+    {
+      "added_at": "2023-08-14 19:54:07",
+      "album": {
+        "name": "Auf die Party",
+        "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 164199,
+      "name": "Auf die Party",
+      "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "Strada",
-        "url": "https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Ahmad Amin",
-          "url": "https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Strada",
-      "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
-    },
-    {
-      "added_at": "2023-08-14 19:54:07",
-      "album": {
         "name": "CHASE THE SUN",
         "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
+    },
+    {
+      "added_at": "2023-08-14 19:54:07",
+      "album": {
+        "name": "Strada",
+        "url": "https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ahmad Amin",
+          "url": "https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Strada",
+      "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2023-08-14 19:54:07",
-      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
+    },
+    {
+      "added_at": "2023-08-14 19:54:07",
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2023-08-14 19:54:07",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-14 19:54:07",
       "album": {
-        "name": "Beat Goes On (Rhythm to the Brain)",
-        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 133212,
-      "name": "Beat Goes On (Rhythm to the Brain)",
-      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
-    },
-    {
-      "added_at": "2023-08-14 19:54:07",
-      "album": {
         "name": "How I Fell in Love",
         "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2023-08-14 19:54:07",
+      "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 133212,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
       "added_at": "2023-08-14 19:54:07",

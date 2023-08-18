@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,284 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,443 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 35 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
 | 36 | [So Many Details](https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:45 |
 | 37 | [Immunity \- Remaster 2023](https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 9:56 |
-| 38 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
-| 39 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
+| 38 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
+| 39 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 | 40 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
 | 41 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 42 | [Echo's Answer](https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:11 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 67 | [My Lights Kiss Your Thoughts Every Moment](https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Rushing](https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut) | 2:16 |
 | 68 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
 | 69 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
-| 70 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
-| 71 | [The Way You Talk](https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:50 |
+| 70 | [The Way You Talk](https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:50 |
+| 71 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
 | 72 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 |
 | 73 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
 | 74 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 92 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 93 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 94 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
-| 95 | [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 |
-| 96 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
+| 95 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
+| 96 | [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 |
 | 97 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 98 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
 | 99 | [White Flower, Dark Hill](https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [White Flower, Dark Hill](https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD) | 2:28 |
 | 100 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
 
-Snapshot ID: `MCxiNjhiN2VjYWE0MzNjNTg3YWM4NzcwNzU0MDdlOTBmOTNjODE5MWZk`
+Snapshot ID: `MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2`

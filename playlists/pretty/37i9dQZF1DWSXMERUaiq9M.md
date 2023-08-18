@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,276 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,623 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 47 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 | 48 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 |
 | 49 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
-| 50 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
+| 50 | [All That She Wants \- Helion Remix](https://open.spotify.com/track/747OPJC1PujokY0T3rAajk) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [All That She Wants \(Helion Remix\)](https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW) | 2:47 |
 
-Snapshot ID: `MCwxOGNjNGEwZjRmOGZiY2ZhY2EyNzYzNzViNWQwZGNiYmJjMzI0YWNj`
+Snapshot ID: `MCw0YzYwNWQxNGEzOTkwOGJiM2U1NjYwZDc2NTFmY2EwZmIzZTBkY2Jk`

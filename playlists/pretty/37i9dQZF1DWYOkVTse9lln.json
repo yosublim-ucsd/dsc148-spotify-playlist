@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 702572,
+  "num_followers": 702759,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQ4MGFhODlmMDE2M2VhNDBiMDQ1YWY5MTk2MzA5MTczMDUyYzI2",
+  "snapshot_id": "MCxmNzkyNjRmZmNmMjJjZmJmZmFlZGMxYTExMTYyZThiZWQwYmUzYzNl",
   "tracks": [
     {
       "added_at": "2023-07-28 03:31:09",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -179,22 +199,6 @@
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -215,22 +219,18 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
         "name": "Nuevas Metas",
         "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -407,38 +407,6 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -451,6 +419,22 @@
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -559,6 +543,22 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -623,6 +607,22 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -671,6 +655,22 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
         "name": "El Milagro Argentino",
         "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 313000,
       "name": "Loco (Tu Forma De Ser)",
       "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
         "name": "Motel",
         "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
       },
@@ -1783,6 +1783,30 @@
       "duration_ms": 220773,
       "name": "Dime Ven",
       "url": "https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
+        "name": "Dj Pablito Presenta- La Factor\u00eda",
+        "url": "https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb"
+      },
+      "artists": [
+        {
+          "name": "DJ Pablito",
+          "url": "https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5"
+        },
+        {
+          "name": "La Factor\u00eda",
+          "url": "https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf"
+        },
+        {
+          "name": "Joycee",
+          "url": "https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -1839,30 +1863,6 @@
       "duration_ms": 244933,
       "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
-        "name": "Dj Pablito Presenta- La Factor\u00eda",
-        "url": "https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb"
-      },
-      "artists": [
-        {
-          "name": "DJ Pablito",
-          "url": "https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5"
-        },
-        {
-          "name": "La Factor\u00eda",
-          "url": "https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf"
-        },
-        {
-          "name": "Joycee",
-          "url": "https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
     },
     {
       "added_at": "2023-07-28 03:31:09",
@@ -2299,6 +2299,34 @@
     {
       "added_at": "2023-07-28 03:31:09",
       "album": {
+        "name": "Ay Mi Dios",
+        "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 252003,
+      "name": "Ay Mi Dios",
+      "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
+    },
+    {
+      "added_at": "2023-07-28 03:31:09",
+      "album": {
         "name": "Lo Mejor De OV7",
         "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
       },
@@ -2343,34 +2371,6 @@
       "duration_ms": 252481,
       "name": "Por Hacerme el Bueno",
       "url": "https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek"
-    },
-    {
-      "added_at": "2023-07-28 03:31:09",
-      "album": {
-        "name": "Ay Mi Dios",
-        "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 252003,
-      "name": "Ay Mi Dios",
-      "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
     },
     {
       "added_at": "2023-07-28 03:31:09",

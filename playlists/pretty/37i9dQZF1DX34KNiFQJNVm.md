@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lauana Prado, Ferrugem, Ana Castela e Simone Mendes, MC Kevin o Chris e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,027 likes - 96 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,536 likes - 96 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Tom Jobim](https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Tom Jobim](https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P) | 3:02 |
 | 42 | [Truque](https://open.spotify.com/track/5BWDctHY7KfVt6sc1D3tOs) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Truque](https://open.spotify.com/album/5n44zhzi1I9ig1CKj80Sm3) | 3:20 |
 | 43 | [Nosso Momento](https://open.spotify.com/track/7nmGAprRXf2pVUX9jlVBiV) | [MC Lon](https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Nosso Momento](https://open.spotify.com/album/2MRMju7ewwVeAnQzNFKjpJ) | 4:16 |
-| 44 | [Much Pussy](https://open.spotify.com/track/2ZDSXA89xqD24XUaheDwsF) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Donizetti](https://open.spotify.com/artist/5bhatVdMELE9ayG6AcUjGu), [MC Tuto](https://open.spotify.com/artist/0BtMwvjATC6oeLiwpNU4mY), [MC Erik](https://open.spotify.com/artist/0mCLY8Z5X5H9mNsu9pQ7mY) | [Much Pussy](https://open.spotify.com/album/38KKujcYAMH5SHdV9Z1S1j) | 6:18 |
+| 44 | [Much Pussy](https://open.spotify.com/track/2ZDSXA89xqD24XUaheDwsF) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Donizetti](https://open.spotify.com/artist/5bhatVdMELE9ayG6AcUjGu), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [MC Erik](https://open.spotify.com/artist/0mCLY8Z5X5H9mNsu9pQ7mY) | [Much Pussy](https://open.spotify.com/album/38KKujcYAMH5SHdV9Z1S1j) | 6:18 |
 | 45 | [Sigilo](https://open.spotify.com/track/7BAyOgGxmYW8v2bXOfOSPS) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Sigilo](https://open.spotify.com/album/5ZfoyeQ6JUci7hDEVgiyok) | 1:32 |
 | 46 | [Tic Tac](https://open.spotify.com/track/5bBufICVb5pVC5zp9GqEHl) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [DK 47](https://open.spotify.com/artist/3UnBd5Le508VE9jsLj04nJ), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Tic Tac](https://open.spotify.com/album/3tHuraa8I3z6v0ggVFeuDw) | 5:06 |
 | 47 | [Escolhe a Posição](https://open.spotify.com/track/6nTqXwaJqRFjIV1DijOWDO) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [Escolhe a Posição](https://open.spotify.com/album/5Q7R74ZXO3nBN9bH8c1xlE) | 2:18 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [A Carta](https://open.spotify.com/track/2uEiHyIUOfKV9jViH3GCHF) | [Ferri](https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR) | [A Carta](https://open.spotify.com/album/36SUf11Op7n4bcgueh2O4R) | 3:19 |
 | 96 | [Movimento Solar](https://open.spotify.com/track/5m9nEa2D62OPO0YENyivc2) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Movimento Solar](https://open.spotify.com/album/1GkPMxlh0hb8leCOo1KX1K) | 3:21 |
 
-Snapshot ID: `MCwxZjgxM2U3MDAwZTJkYjMxOGUwZDlhYmM3ZmRiODI2Mzg4NzYxNjJi`
+Snapshot ID: `MCwxMDM5MzZjNDdhZGY3NmM3YjdiMGY0ZTdjYzY4Yjg4MWFlNWNhN2E0`

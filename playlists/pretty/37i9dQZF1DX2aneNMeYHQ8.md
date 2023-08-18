@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,526 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,569 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 2 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 3 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
 | 4 | [Call It Like It Is](https://open.spotify.com/track/676Y7rEtzssvdvvqEZLMnI) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Tired Hearts](https://open.spotify.com/album/206PHdzpiAp3dy97erlYuw) | 3:24 |
-| 5 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
-| 6 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
+| 5 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
+| 6 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 7 | [Death Wish](https://open.spotify.com/track/7pcI3En42dUc6HV6XmhbGx) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:30 |
 | 8 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 | 9 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 66 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 |
 | 67 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 |
 | 68 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
-| 69 | [The Tipping Point](https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:13 |
-| 70 | [Spit Of You](https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spit Of You](https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ) | 4:33 |
+| 69 | [Spit Of You](https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spit Of You](https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ) | 4:33 |
+| 70 | [The Tipping Point](https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:13 |
 | 71 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
-| 72 | [Meant to Be](https://open.spotify.com/track/29BYcl5IptV6B5jfJRNq4o) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 4:17 |
-| 73 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 |
-| 74 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 |
-| 75 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
+| 72 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 |
+| 73 | [Meant to Be](https://open.spotify.com/track/29BYcl5IptV6B5jfJRNq4o) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 4:17 |
+| 74 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
+| 75 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 |
 | 76 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
 | 77 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 |
 | 78 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 97 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 |
 | 98 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 |
 | 99 | [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 |
-| 100 | [Stay Out Of It](https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Stay Out Of It](https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc) | 3:05 |
+| 100 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 |
 
-Snapshot ID: `MCw5MTliNzBlZGFlNTcwZjkwMTI5NTdiNDkyNTlhOTI0YjE2MDQ0ZTM4`
+Snapshot ID: `MCw1N2QyMDU0N2NlOWRhY2UzMzNkZGZmYzc1MDU2OWJlYjBjNzdlM2Y1`

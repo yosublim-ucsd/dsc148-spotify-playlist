@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,662 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,653 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 51 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [The Magic Of Boney M\. \(Special Remix Edition\)](https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf) | 4:02 |
 | 52 | [Driving Home for Christmas](https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Driving Home For Christmas](https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo) | 3:03 |
 | 53 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
-| 54 | [Missing You](https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Missing You](https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f) | 4:26 |
-| 55 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
+| 54 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
+| 55 | [Missing You](https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Missing You](https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f) | 4:26 |
 | 56 | [This Time Of Year](https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [This Time Of Year](https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP) | 3:42 |
 | 57 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/5O82nLMtVVvv6Es9dhNChD) | 2:16 |
 | 58 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/076YZeSsRS01JRYazQplIj) | 3:55 |
 | 80 | [In the Bleak Midwinter](https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [In the Bleak Midwinter](https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK) | 3:23 |
 
-Snapshot ID: `MCxlZjJjYmVlYjJjMTM0NWYzNWQ1YTgxZmI4MTY5MTQ2N2U1ODJkYzg0`
+Snapshot ID: `MCxjNTgwMDdlMWZiODA3OWZhYTYyYzYxNWU5NzQzNTY0NGIyMjM2ZTgy`

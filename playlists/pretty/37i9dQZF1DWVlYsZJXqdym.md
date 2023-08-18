@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 
 > All your favourite mood boosting bangers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,595 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,820 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 39 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 |
 | 40 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
 | 41 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 |
-| 42 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 |
+| 42 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 43 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
-| 44 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
-| 45 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
-| 46 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 44 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 |
+| 45 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
+| 46 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
 | 47 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 48 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
 | 49 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
 | 50 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
 
-Snapshot ID: `MCw0ODk5NzQ3NWI2ZmViMjQ5YjljZjIxMGJjNmQ5ZGEwMmI5YzMyOTQ5`
+Snapshot ID: `MCxhMGYyNjA5OGY5NjgzNDgyY2YwMjc1YzZiNWU0OTg3Zjk3MTBjYmM1`

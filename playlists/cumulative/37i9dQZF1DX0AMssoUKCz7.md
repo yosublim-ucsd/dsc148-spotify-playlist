@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-633 songs - 1 day 8 hr 19 min
+634 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Forever And A Day \- LVNDSCAPE Remix](https://open.spotify.com/track/4MmESCOyomLv2BmcHkVAQY) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Natalie Peris](https://open.spotify.com/artist/1RtzTxvZZdPsVz82rB7BEs), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Forever And A Day](https://open.spotify.com/album/3GbSqBflhUSuP294AP68GQ) | 3:55 | 2022-01-14 | 2022-05-07 |
 | [Freak \- Sam Feldt Remix Edit](https://open.spotify.com/track/5SNTUBSq1Qzi0URdB443h1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Freak](https://open.spotify.com/album/0ojB0D1LudlOhfQr3mQaJ7) | 3:16 | 2022-01-14 | 2022-05-23 |
 | [Free Falling Love](https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Free Falling Love](https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE) | 2:35 | 2022-06-03 |  |
-| [Fresh Prince](https://open.spotify.com/track/2eqb2THAY8YgGXPEJasn0Z) | [Sivero](https://open.spotify.com/artist/0QgXMWhEvffZRMma292j8n) | [Fresh Prince](https://open.spotify.com/album/1CJY6BaJCiTHkY0YzROl0K) | 2:59 | 2022-06-03 |  |
+| [Fresh Prince](https://open.spotify.com/track/2eqb2THAY8YgGXPEJasn0Z) | [Sivero](https://open.spotify.com/artist/0QgXMWhEvffZRMma292j8n) | [Fresh Prince](https://open.spotify.com/album/1CJY6BaJCiTHkY0YzROl0K) | 2:59 | 2022-06-03 | 2023-08-18 |
 | [From Me To You \- Edit](https://open.spotify.com/track/1AgZA1lTtCXeIbhXrIup4W) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [From Me To You](https://open.spotify.com/album/1oUmEpb1N5hk2F7pBTLUDC) | 3:33 | 2022-01-14 | 2022-04-19 |
 | [Frozen Tide](https://open.spotify.com/track/2nPZts2J87iS1N0tmzvEMO) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Frozen Tide](https://open.spotify.com/album/7spxBGGlm1asxU4h681SMO) | 2:28 | 2022-10-14 | 2023-06-27 |
 | [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/track/0pacGoPRQV0e6pcowMqrPJ) | [JESSIKA](https://open.spotify.com/artist/2aOthbkNIZZkkex559x6Vq), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Fuck Our Fears \(feat\. GASHI\)](https://open.spotify.com/album/620jmqRdU3vFJ6ASxc5i8c) | 3:14 | 2023-07-07 |  |
@@ -387,6 +387,7 @@
 | [Night Light](https://open.spotify.com/track/2dxiCU61pRLZU81P6YCaDd) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Night Light](https://open.spotify.com/album/08DJk48073KqEB4C2nPi5D) | 3:08 | 2022-01-14 | 2022-09-24 |
 | [Night Sky](https://open.spotify.com/track/29oU36Lm5HxVfiDW1aiQku) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Night Sky](https://open.spotify.com/album/3SJaWpvArUXmEeGJUbp88T) | 2:29 | 2022-05-20 | 2022-11-13 |
 | [No Diggity](https://open.spotify.com/track/79T9m6YkRCgP0955CE4UCd) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [No Diggity](https://open.spotify.com/album/42vpQq9br7zBjdcX1cGiIA) | 3:08 | 2022-01-14 | 2022-04-21 |
+| [No Matter Where](https://open.spotify.com/track/3K6saLzBc7PtVB7ouNdcFG) | [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Matter Where](https://open.spotify.com/album/061bTRL8FrYvjwLOAidBht) | 2:52 | 2023-08-04 |  |
 | [No Matter Where](https://open.spotify.com/track/4xhpJoHBX3MN7SKkfGjCZU) | [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Matter Where](https://open.spotify.com/album/1buhmZffcDbvHUa47jjRnH) | 2:52 | 2022-09-02 | 2023-07-21 |
 | [No Real Love](https://open.spotify.com/track/07B412zMWZRzwQO1M0ITKB) | [Exed](https://open.spotify.com/artist/3Wqw8JE2LIMDn9xaRL3tOI), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [No Real Love](https://open.spotify.com/album/6J8MhEsBZ7CH5mO423HANi) | 3:07 | 2022-07-22 | 2022-09-03 |
 | [Nobody Else](https://open.spotify.com/track/4qehUdZCqaYo13JrUUrbEm) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Nobody Else](https://open.spotify.com/album/0Ct642qUuKNneMDUyYtRnM) | 2:58 | 2022-10-28 |  |

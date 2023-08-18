@@ -4,7 +4,7 @@
 
 > The beautiful sound of guitar to help you wind down.
 
-303 songs - 13 hr 21 min
+306 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 | 2022-06-17 | 2022-11-18 |
 | [Cradle Song](https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz) | [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Cradle Song](https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV) | 3:47 | 2022-07-15 | 2022-09-09 |
 | [Crimson Heart](https://open.spotify.com/track/1u521i6mDeguA5VEhLMhJB) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Crimson Heart](https://open.spotify.com/album/6NC3fHTp6RQ8n2oEOn3a0d) | 2:43 | 2022-06-17 |  |
+| [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 |  |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-02-24 |  |
 | [Dançando](https://open.spotify.com/track/2RFdho0TYW1HsaJej6RywD) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Dançando](https://open.spotify.com/album/5ZBBJRTOzKoKBhxKXywfLk) | 2:26 | 2022-06-17 |  |
 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 | 2023-04-21 |  |
@@ -158,6 +159,7 @@
 | [Las Lagrimas De Lucia](https://open.spotify.com/track/7znYxzLpVk7LN3fMkGLB3g) | [Rimoneta](https://open.spotify.com/artist/3sGbxLPqbkEwXndXF5rZZc) | [Las Lagrimas De Lucia](https://open.spotify.com/album/4xlHGwdnzANu33Pp7spHtp) | 2:13 | 2022-06-17 |  |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-03-10 |  |
 | [Leaving La Habana](https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm), [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Leaving La Habana](https://open.spotify.com/album/4icca12AyQGQAqLzPTYs6E) | 3:38 | 2022-07-08 | 2022-11-18 |
+| [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Let Me Tell You A Story](https://open.spotify.com/track/1QB8MPwjcXk3CEshFh3uYP) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Let Me Tell You A Story](https://open.spotify.com/album/6DdLoowgo8TEZ8glcdY23X) | 4:17 | 2022-07-01 |  |
 | [Like A Feather](https://open.spotify.com/track/7Mzcjfy53dYvSeqaTR0fSW) | [Jaime Escalera](https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf) | [Like A Feather](https://open.spotify.com/album/3fU6JjOGp9mdg8PyxcXPy0) | 2:46 | 2023-08-10 |  |
 | [Like A Tourist On Caminito](https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Like A Tourist On Caminito](https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd) | 3:54 | 2022-06-17 | 2022-11-18 |
@@ -249,6 +251,7 @@
 | [Solitude](https://open.spotify.com/track/0P8J8xgylxWypbhLv6LPSZ) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Solitude](https://open.spotify.com/album/4aqdhjsTjnolDI7xVKLmBW) | 2:14 | 2023-02-24 | 2023-05-13 |
 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 1:42 | 2022-06-17 | 2022-08-18 |
 | [Sonidos De La Tarde](https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Sonidos De La Tarde](https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37) | 1:49 | 2022-10-07 |  |
+| [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Soñando](https://open.spotify.com/track/70BMqswqh9Kjz6Sr6lQ47W) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Soñando](https://open.spotify.com/album/1jem5C7Z4jV2ZcpLDVwpt7) | 1:57 | 2022-06-17 |  |
 | [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 | 2022-07-15 | 2023-06-09 |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-07-01 |  |

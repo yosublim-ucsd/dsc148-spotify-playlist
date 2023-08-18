@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,630 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,845 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 63 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 64 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
 | 65 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
-| 66 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
+| 66 | [Para, Pensa e Volta \- Ao Vivo](https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo \- EP 2](https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We) | 2:54 |
 | 67 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 | 68 | [É Com Ela Que Eu Estou \- Ao Vivo](https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 3:40 |
 | 69 | [Raspão \(feat\. Simone & Simaria\) \- Ao Vivo](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [De Braços Abertos \(Ao Vivo\)](https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC) | 3:12 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 71 | [Declaração pro Bar \- Ao Vivo](https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Amando, Bebendo e Sofrendo \(Ao Vivo\) \- EP 3](https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD) | 2:41 |
 | 72 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/2BNVb9TRXPVhVZT6Hz9r27) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu) | 3:14 |
 | 73 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
-| 74 | [Para, Pensa e Volta \- Ao Vivo](https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo \- EP 2](https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We) | 2:54 |
+| 74 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 75 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 |
 
-Snapshot ID: `MCwwYmYyOTNiNjdlNzI0ZDYyOWRhM2NkNTg5ZDdhNTliYWFjMDZmMTYy`
+Snapshot ID: `MCxmY2IzZjY3MDEzYTJkZjc5NzM2ZmY1ZjE3Yzg3MjNjOTA5ZDdiYjcy`

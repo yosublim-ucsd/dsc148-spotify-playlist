@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 30628,
+  "num_followers": 30708,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjM2N2Y4MmFmMDE3ZjM0OGE0YjRiMjY0ODllODAyZWM2N2Y0YjY0",
+  "snapshot_id": "MCw1MGQxOWY2NmVlMWZlMTI3ZGRmZGZkOTM0ZTI0OTBlMmYwZTlmZmQ4",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -183,6 +183,30 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Ski",
+      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
         "url": "https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6"
       },
@@ -207,30 +231,6 @@
       "duration_ms": 224042,
       "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
       "url": "https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Ski",
-      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -535,8 +535,8 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "SUPER SLIMEY",
-        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 187748,
-      "name": "4 da Gang",
-      "url": "https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O"
+      "duration_ms": 137133,
+      "name": "Jumpin on a Jet",
+      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -683,8 +683,8 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Future Hndrxx Presents: The WIZRD",
-        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 137133,
-      "name": "Jumpin on a Jet",
-      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
+      "duration_ms": 187748,
+      "name": "4 da Gang",
+      "url": "https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Toast Up",
+      "url": "https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 190491,
       "name": "Flewed Out",
       "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Drip Season 3 (Deluxe)",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Toast Up",
-      "url": "https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i"
     },
     {
       "added_at": "2022-10-01 20:14:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334,781 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,328 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 24 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
 | 25 | [Mandy](https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow II](https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks) | 3:33 |
 | 26 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 |
-| 27 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
-| 28 | [The Air That I Breathe \- 2008 Remaster](https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Hollies](https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H) | 4:17 |
+| 27 | [The Air That I Breathe \- 2008 Remaster](https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Hollies](https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H) | 4:17 |
+| 28 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
 | 29 | [Love Is In The Air](https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [I Hate the Music](https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh) | 3:30 |
 | 30 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
-| 31 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
-| 32 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
+| 31 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
+| 32 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
 | 33 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 |
 | 34 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 35 | [Without You](https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 50 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
 
-Snapshot ID: `MCwyOTZiN2I3MjQxOTlmNWVlZTBmNzdkYjc3NjQ4YmMyNDU4NDg0MGUz`
+Snapshot ID: `MCxlMGE5YzdlZTg4MTk5YWVhMTQ2NzBkMWE1OGMwYmRkNmEzNzA0MmQ2`

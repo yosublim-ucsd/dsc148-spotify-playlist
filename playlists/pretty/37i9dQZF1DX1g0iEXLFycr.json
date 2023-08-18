@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1081831,
+  "num_followers": 1081861,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGRiNzI0NTQ1MDUwNTgzYWY3NzFmOTM2OGQ4OTVlYWZmOWFjZTQ1",
+  "snapshot_id": "MCw2MjA5NTU0YjMyZjY2MjVkODQ4ODRmYTY1ZGEzZWUxYzI5ZjY1ZjJl",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -283,18 +283,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -319,42 +323,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
-      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Battleground (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
-      },
-      "artists": [
-        {
-          "name": "The Wanted",
-          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Glad You Came",
-      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -367,22 +335,6 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -415,6 +367,22 @@
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -503,26 +471,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Douha (Mali Mali)",
-        "url": "https://open.spotify.com/album/7MnQlAenFwY2m2TAgni2py"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 171586,
-      "name": "Douha (Mali Mali) (Edit)",
-      "url": "https://open.spotify.com/track/1supkf9D4Obm2yTHqug3m8"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -559,6 +507,26 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Douha (Mali Mali)",
+        "url": "https://open.spotify.com/album/7MnQlAenFwY2m2TAgni2py"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 171586,
+      "name": "Douha (Mali Mali) (Edit)",
+      "url": "https://open.spotify.com/track/1supkf9D4Obm2yTHqug3m8"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -587,22 +555,6 @@
       "duration_ms": 245493,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "No Judgement",
-        "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "No Judgement",
-      "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -643,6 +595,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "No Judgement",
+        "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "No Judgement",
+      "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -671,26 +639,6 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -727,6 +675,26 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -755,30 +723,6 @@
       "duration_ms": 323346,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Flowers (feat. Jaykae and MALIKA)",
-        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Flowers (feat. Jaykae and MALIKA)",
-      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -815,6 +759,30 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Flowers (feat. Jaykae and MALIKA)",
+        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Flowers (feat. Jaykae and MALIKA)",
+      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -847,26 +815,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -895,6 +843,26 @@
       "duration_ms": 263333,
       "name": "Send Me on My Way",
       "url": "https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1027,22 +995,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 390861,
-      "name": "Freedom! '90 - Remastered",
-      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
@@ -1059,6 +1011,22 @@
       "duration_ms": 202213,
       "name": "Sweet Lovin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 390861,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1191,22 +1159,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
-      },
-      "artists": [
-        {
-          "name": "Karmin",
-          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
       },
@@ -1219,6 +1171,22 @@
       "duration_ms": 169866,
       "name": "Boom Clap",
       "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
+      },
+      "artists": [
+        {
+          "name": "Karmin",
+          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
     },
     {
       "added_at": "2020-08-27 16:10:25",

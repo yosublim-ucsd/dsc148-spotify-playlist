@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Styx
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,719 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,883 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 49 | [Lady \- Remastered 2022](https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:49 |
 | 50 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
 | 51 | [Year of the Cat](https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Year of the Cat](https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5) | 6:40 |
-| 52 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
-| 53 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
+| 52 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
+| 53 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
 | 54 | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 3:17 |
 | 55 | [Summer, Highland Falls](https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 3:19 |
 | 56 | [You Are the Woman](https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 74 | [Song Sung Blue \- Single Version](https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Moods](https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru) | 3:15 |
 | 75 | [Just Remember I Love You](https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Luna Sea](https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75) | 3:16 |
 
-Snapshot ID: `MCwwNWMwMTZjZDdlNWI3ZDQwMWQ0MzNkZmJiMTk4NTgwNjQ0ODFkOGVk`
+Snapshot ID: `MCw1MjFiOWUyODVkZTU3NzZmNDA3YWMzOTM3YTBlNmQ1Y2E2MzQ5MThi`

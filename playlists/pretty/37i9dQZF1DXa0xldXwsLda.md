@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,255 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,293 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 22 | [Amor distante](https://open.spotify.com/track/2rF4RGxhH8eKdFbcFMplyL) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Amor distante](https://open.spotify.com/album/3k2hSXUsXG0WZJhIp4OgaP) | 3:23 |
 | 23 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 |
 | 24 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 |
-| 25 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
-| 26 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
+| 25 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
+| 26 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
 | 27 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
 | 28 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
 | 29 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 99 | [Juego de Amor](https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Juego de Amor](https://open.spotify.com/album/34i7W2TuiUVTJoIsroG0Q9) | 3:58 |
 | 100 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 |
 
-Snapshot ID: `MCxlYTNmY2IwYzY4MDczZTEyZWQwMWQ2NTA3ZjQ4ZjEwMjJmOTdiODlh`
+Snapshot ID: `MCxiMTRhMTEzZGM3MmQ5MzU4MTc4YjhiNDNlOTJkYmM2YmQ1ZmQ1NzUz`

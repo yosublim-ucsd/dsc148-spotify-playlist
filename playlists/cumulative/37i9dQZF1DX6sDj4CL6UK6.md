@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- brb., SIRUP
 
-228 songs - 13 hr 17 min
+229 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Dancing with my phone](https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:23 | 2023-05-19 |  |
 | [Dark Blue Sky](https://open.spotify.com/track/2q7SxiB53YPRj4NTLujb0P) | [Mimansa](https://open.spotify.com/artist/1ZChq8269HWtLsjugMFR0l) | [Dark Blue Sky](https://open.spotify.com/album/1aSfpHhHhjceiFnWofOJe6) | 4:07 | 2022-03-25 | 2022-05-26 |
 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 | 2023-03-16 | 2023-04-19 |
-| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 | 2023-08-12 |
+| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 |  |
 | [Desert Island](https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Desert Island](https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29) | 3:28 | 2022-03-25 | 2023-05-20 |
 | [DFWM](https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Oceantied](https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3) | [DFWM](https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M) | 3:17 | 2022-03-25 | 2022-05-22 |
 | [Disconnect](https://open.spotify.com/track/2aiQyxSMWMvmKs4YC9Av7a) | [Pragnya Wakhlu](https://open.spotify.com/artist/2YIHuXM9ivsh3cGQ0Ne1tl) | [Disconnect](https://open.spotify.com/album/73Kr7Mho0OoSB7DCVUk0Ez) | 4:19 | 2022-09-02 | 2022-09-10 |
@@ -80,7 +80,7 @@
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-03-25 | 2023-05-24 |
 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 | 2022-11-24 | 2023-05-24 |
 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 | 2023-07-20 |  |
-| [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 | 2022-04-11 |  |
+| [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 | 2022-04-11 | 2023-08-18 |
 | [Headrush](https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [adL](https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag) | [Headrush](https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce) | 2:59 | 2022-09-26 | 2023-02-08 |
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |
 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-19 |  |
@@ -92,7 +92,7 @@
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-30 |  |
 | [Horoscope](https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 4:03 | 2022-03-25 | 2022-05-23 |
 | [I Can't Go Back To Sleep](https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [I Can't Go Back To Sleep](https://open.spotify.com/album/7F52Qrxl2V5moUvEHf5hAc) | 4:38 | 2022-03-25 | 2022-06-30 |
-| [I Grew Up](https://open.spotify.com/track/68ABR8sT09uiFgr8YeC7t4) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0N4N1mQUFxDkmjENLtSE7H) | 4:48 | 2023-08-02 |  |
+| [I Grew Up](https://open.spotify.com/track/68ABR8sT09uiFgr8YeC7t4) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0N4N1mQUFxDkmjENLtSE7H) | 4:48 | 2023-08-02 | 2023-08-18 |
 | [I Grew Up \(feat\. Blackstratblues\)](https://open.spotify.com/track/0k9Z8DseQbtUh3zck3gRBB) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0P5iD8b8gRC1agi1zQavdB) | 4:48 | 2023-08-02 | 2023-08-04 |
 | [I Saw You in a Dream](https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [I Saw You in a Dream](https://open.spotify.com/album/33p2rB65gI3GQDxw0XdOzw) | 3:02 | 2022-03-25 | 2023-05-20 |
 | [I'll Get By](https://open.spotify.com/track/1ZHOSFoGjqE7k0Mpr1ofKx) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Unexpectedly](https://open.spotify.com/album/5L6mPVF4I314n4XrcVNyNq) | 4:19 | 2023-05-24 |  |
@@ -133,6 +133,7 @@
 | [Lucky Love](https://open.spotify.com/track/4yxSvdt8kl6jMdvFaiNtve) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 4:46 | 2023-05-24 |  |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-09-26 | 2023-07-26 |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 | 2022-10-15 |
+| [Making A Move](https://open.spotify.com/track/2vrRRUlq07RwyU6s0xtngL) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Making A Move](https://open.spotify.com/album/2oGi0Tk0s2HZ6iGdpEYh3r) | 3:40 | 2023-08-17 |  |
 | [Making Faces](https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Making Faces](https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E) | 3:12 | 2023-05-24 |  |
 | [Mango Showers](https://open.spotify.com/track/2TNd3JXmvnnn4ueq8v90mG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Mango Showers](https://open.spotify.com/album/2vfuil3OEVqia9k8FqeAiU) | 3:43 | 2023-05-04 | 2023-07-15 |
 | [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 | 2022-10-14 | 2023-05-24 |

@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-75 songs - 7 hr 13 min
+76 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Afro Praise 1](https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 4:39 | 2023-04-06 | 2023-06-26 |
 | [Afro Praise 3](https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 5:42 | 2023-04-06 | 2023-05-16 |
 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 |  |
-| [Amen](https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Amen](https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY) | 4:14 | 2023-04-06 |  |
+| [Amen](https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Amen](https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY) | 4:14 | 2023-04-06 | 2023-08-18 |
 | [Amen \(feat\. Ntokozo Mbambo\)](https://open.spotify.com/track/18iiY88WV4ma0OLvCMC6p5) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:21 | 2023-04-06 |  |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-07-28 | 2023-08-04 |
 | [Bianule](https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Bianule](https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl) | 4:44 | 2023-04-06 |  |
@@ -25,6 +25,7 @@
 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 | 2023-07-14 |  |
 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 | 2023-06-30 |  |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-07-07 |  |
+| [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 | 2023-08-18 |  |
 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 | 2023-04-06 |  |
 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2023-06-16 |  |
 | [Fire on the Mountain](https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Fire on the Mountain](https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp) | 2:40 | 2023-08-11 | 2023-08-15 |

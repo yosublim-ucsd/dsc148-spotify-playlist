@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,567 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,778 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 37 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 38 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
 | 39 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
-| 40 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
-| 41 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
+| 40 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
+| 41 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
 | 42 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
-| 43 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
-| 44 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 |
+| 43 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 |
+| 44 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
 | 45 | [New Divide](https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 4:28 |
 | 46 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
 | 47 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 65 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
 | 66 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 67 | [Bad Girlfriend](https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs \(Special Edition\)](https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B) | 3:25 |
-| 68 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
-| 69 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
+| 68 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
+| 69 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
 | 70 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 |
 | 71 | [Enemies](https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:08 |
-| 72 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 |
-| 73 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
+| 72 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
+| 73 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 |
 | 74 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 75 | [Plush \- 2017 Remaster](https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:13 |
 
-Snapshot ID: `MCwzM2M0NTFmYjcwZDMwNTQ0MTU5MGI3ZTQ2YzI1NGViNDZlOWE2NjQ1`
+Snapshot ID: `MCw3Y2NkZTc3ZDcyYTg0NzQ2MmYxYjdlMjU2NzkyOGY1ZjRjYTg1NmEz`

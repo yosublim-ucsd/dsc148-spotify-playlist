@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Kareen Guiock-Thuram",
+  "description": "The best jazz new releases. Cover: Karen Souza",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -156,6 +156,24 @@
       "duration_ms": 328346,
       "name": "Add Fiction",
       "url": "https://open.spotify.com/track/0QdXmMtJWdY0sCdjyKNOtw"
+    },
+    {
+      "album": {
+        "name": "Afro-Centric",
+        "url": "https://open.spotify.com/album/3osZ0KahK4oNTdp6SauTCd"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351933,
+      "name": "Afro-Centric",
+      "url": "https://open.spotify.com/track/4aJFN9FXmJ2aKL8KOJZtPP"
     },
     {
       "album": {
@@ -619,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Because of You (2023)",
+        "url": "https://open.spotify.com/album/2UGDVSH0KTEPidJeCs8z6P"
+      },
+      "artists": [
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217247,
+      "name": "Because of You - 2023",
+      "url": "https://open.spotify.com/track/3ivoMu5Y5iDA4qjTElozbd"
+    },
+    {
+      "album": {
         "name": "Behind the Angel Face",
         "url": "https://open.spotify.com/album/0cdYf8PZO9KKVhVvkZzVHi"
       },
@@ -1012,7 +1048,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 192515,
       "name": "Cargo of Oranges",
       "url": "https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde"
@@ -1212,6 +1248,24 @@
       "duration_ms": 275295,
       "name": "Clear Water (feat. Deantoni Parks, Jeff Parker, Sanford Biggers)",
       "url": "https://open.spotify.com/track/3aeFAZzP1MrbbJTLzG9VI9"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295899,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj"
     },
     {
       "album": {
@@ -1536,7 +1590,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 295846,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi"
@@ -1842,6 +1896,24 @@
       "duration_ms": 221173,
       "name": "El Jonito",
       "url": "https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX"
+    },
+    {
+      "album": {
+        "name": "Ela E Carioca",
+        "url": "https://open.spotify.com/album/28ltl7z5ZfsZYijVumSgaJ"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218466,
+      "name": "Ela E Carioca",
+      "url": "https://open.spotify.com/track/7AzWgXu2tfrcNx9sQaCjBx"
     },
     {
       "album": {
@@ -2320,7 +2392,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 164448,
       "name": "Glory",
       "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
@@ -2504,6 +2576,28 @@
       "duration_ms": 213431,
       "name": "Hate is the Basis (of Love)",
       "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
+    },
+    {
+      "album": {
+        "name": "Have a Talk with God",
+        "url": "https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Lee",
+          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341918,
+      "name": "Have a Talk with God",
+      "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
     },
     {
       "album": {
@@ -3324,7 +3418,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 318675,
       "name": "Lean In",
       "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
@@ -3540,7 +3634,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 194863,
       "name": "Love me or leave me",
       "url": "https://open.spotify.com/track/735MKgrGONAiSTofyRMQ5C"
@@ -4320,7 +4414,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 259827,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/1U5TcgQFBoAei2b82uQCOe"
@@ -4452,7 +4546,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 218560,
       "name": "One Silver Dollar",
       "url": "https://open.spotify.com/track/0DxiZzEeYhIFupggoAcox3"
@@ -5425,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Suddenly Lovers",
+        "url": "https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Suddenly Lovers",
+      "url": "https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG"
+    },
+    {
+      "album": {
         "name": "Street of Minarets",
         "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"
       },
@@ -5651,6 +5763,32 @@
     },
     {
       "album": {
+        "name": "Temperature High",
+        "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190259,
+      "name": "Temperature High",
+      "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
+    },
+    {
+      "album": {
         "name": "The Source",
         "url": "https://open.spotify.com/album/5e2gQsP9jvj5telqe9zERG"
       },
@@ -5802,7 +5940,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 383346,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/2xEr1lMQwQtcvW7m2sAo44"
@@ -6378,6 +6516,24 @@
       "duration_ms": 167000,
       "name": "Uteki",
       "url": "https://open.spotify.com/track/2tyHRytoAC1YVwiqLcREQX"
+    },
+    {
+      "album": {
+        "name": "Vibing in Ay",
+        "url": "https://open.spotify.com/album/0QPLC5ECGXuoqP9KQMLtwL"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Vibing in Ay",
+      "url": "https://open.spotify.com/track/4gTHcR3JBdVIY1f9XPD77U"
     },
     {
       "album": {

@@ -4,12 +4,14 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-304 songs - 20 hr 13 min
+308 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1234567我的朋友在哪里 \- 电视剧《1234567我的朋友在哪里 S1》主题曲, 抒情版](https://open.spotify.com/track/64mYBFWOgzjgd0gqvO8Vm0) | [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [1234567我的朋友在哪里 \(电视剧《1234567我的朋友在哪里 S1》主题曲, 抒情版\)](https://open.spotify.com/album/6D7SmRvLF2qr2mgYS4ZqwU) | 3:09 | 2023-08-17 |  |
 | [21](https://open.spotify.com/track/3CbgBkck65J7xkXsX2LQmA) | [張仁與](https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4) | [人之間](https://open.spotify.com/album/17HH0EZyTjVYLRQBVbsnOB) | 2:36 | 2022-11-17 | 2022-12-02 |
 | [525 我愛我](https://open.spotify.com/track/6BaU3Y0Nj2iKFibce2iZB8) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [525 我愛我](https://open.spotify.com/album/6tViJlPYLJ9rEgeCDN0mb4) | 3:33 | 2022-06-10 | 2022-06-17 |
+| [7654321我的朋友在这里 \- 电视剧《1234567我的朋友在这里 S2》主题曲2](https://open.spotify.com/track/6hQ6Per8if1XKilXIYb26u) | [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [7654321我的朋友在这里 \(电视剧《1234567我的朋友在这里 S2》主题曲2\)](https://open.spotify.com/album/2idlixIrnagMwUK2k7RHYX) | 3:04 | 2023-08-17 |  |
 | [8:13 am](https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [真美](https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU) | 3:38 | 2022-12-22 | 2023-02-18 |
 | [Alone](https://open.spotify.com/track/0ttyX0bEgm5j8SZZpNJnLG) | [嘉瀅](https://open.spotify.com/artist/6eQpSg7pzvNrW3Cz1nAZKZ) | [Alone](https://open.spotify.com/album/5XI8QrO6CatDfP80ColUlg) | 3:24 | 2022-06-30 | 2022-07-07 |
 | [Back To You](https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih) | [WayV\-KUN&XIAOJUN](https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT) | [Back To You](https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw) | 4:12 | 2023-01-26 | 2023-03-11 |
@@ -45,7 +47,7 @@
 | [Remember \- 電影《跟你老婆去旅行》插曲](https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Remember \(電影《跟你老婆去旅行》插曲\)](https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW) | 3:13 | 2022-06-02 | 2023-06-10 |
 | [Room Lights](https://open.spotify.com/track/3ijhojRPDW6JMuUrsWy7Jf) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Room Lights](https://open.spotify.com/album/6iCeV2G9w63xGB0k365xGg) | 3:32 | 2022-06-16 | 2022-06-23 |
 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 | 2023-08-03 |  |
-| [Sunshine \- Chinese Version](https://open.spotify.com/track/7Dy67OOwBZR61wV979AW8s) | [Sophia Kao](https://open.spotify.com/artist/6MeJZNLqjXuJ0fJ2yPlimo) | [Sunshine \(Chinese Version\)](https://open.spotify.com/album/0Tdt30UplFjakHhsvNMl5o) | 2:21 | 2023-08-03 |  |
+| [Sunshine \- Chinese Version](https://open.spotify.com/track/7Dy67OOwBZR61wV979AW8s) | [Sophia Kao](https://open.spotify.com/artist/6MeJZNLqjXuJ0fJ2yPlimo) | [Sunshine \(Chinese Version\)](https://open.spotify.com/album/0Tdt30UplFjakHhsvNMl5o) | 2:21 | 2023-08-03 | 2023-08-18 |
 | [Tattoo \- "REBORN" Movie Ending Song](https://open.spotify.com/track/0H7sm4ptv8fFTkbHDRZoP1) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [Tattoos \("Reborn" Movie Ending Song\)](https://open.spotify.com/album/7DWUnMnAtkQaU5vYRtE7Gr) | 4:29 | 2022-06-30 | 2022-07-27 |
 | [Tears from the Ice River \(Acoustic\)](https://open.spotify.com/track/7lFB4AEhkVzSDNBNzO7rCK) | [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [Zkaaai](https://open.spotify.com/artist/6RB2RIXIqFLubGeBD7u4gK) | [Tears from the Ice River \(Acoustic\)](https://open.spotify.com/album/0yoV5Jny0beDsW6Nbpe8h5) | 2:51 | 2023-03-16 | 2023-03-31 |
 | [Thank You \(Acoustic Version\)](https://open.spotify.com/track/0V75pOC9kDcSy94Ch3ChQ0) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Thank You \(Acoustic Version\)](https://open.spotify.com/album/4BK2pzxYpwVqeuGosGCHBf) | 3:41 | 2022-12-01 | 2022-12-27 |
@@ -61,7 +63,7 @@
 | [一二三一二三](https://open.spotify.com/track/0OZdSwCnNFXAgpeONjK9gs) | [曾一軍](https://open.spotify.com/artist/26asCxojoHjMQusky3AAVT) | [一二三一二三](https://open.spotify.com/album/7wkU8wHeYnWMyqYEc4GTh2) | 4:57 | 2023-02-16 | 2023-03-03 |
 | [一個人的台北](https://open.spotify.com/track/5pgeNOBbehGCfnYXxpiy7S) | [NAT健豪](https://open.spotify.com/artist/5wvijDYWS37P3B4klR8g1e) | [一個人的台北](https://open.spotify.com/album/1QV04bzWY8vtji0rWDWvib) | 4:25 | 2023-04-06 | 2023-04-21 |
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
-| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 |  |
+| [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 | 2023-08-18 |
 | [一種說法\(Acoustic Ver.\) \[《模仿犯》插曲\]](https://open.spotify.com/track/30UaTs7vrVAyMOsstUO00T) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [模仿犯 主題歌曲原聲帶](https://open.spotify.com/album/6HwTDKJtSSb2kcZEo2FgIZ) | 3:31 | 2023-03-30 | 2023-04-14 |
 | [不召之臣 Unrequited Love](https://open.spotify.com/track/1GED9FDaUzIHsBDwy8lzqy) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [白夜克拉克 White Night](https://open.spotify.com/album/32tEDVwzoLJEweaERQhrQd) | 4:55 | 2023-06-22 | 2023-07-11 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2022-07-28 |  |
@@ -88,6 +90,7 @@
 | [來日不方長](https://open.spotify.com/track/0cor9VJMzRZQmyQbV9INpK) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [來日不方長](https://open.spotify.com/album/53pEl1amSqUzSV7ViWqi9Y) | 4:16 | 2022-06-27 | 2022-06-30 |
 | [信號無法傳送](https://open.spotify.com/track/59C3h8Zpceu3o5wGZ2Ho81) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [信號無法傳送](https://open.spotify.com/album/0jfSHGXLsMPx4jRV33iAdC) | 3:26 | 2023-04-20 | 2023-04-28 |
 | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/track/21DC233fhKEBRa2L3Pfjdj) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/album/2miYO5t02RgDLm0YBhmBrt) | 3:09 | 2022-12-15 | 2022-12-24 |
+| [借春風](https://open.spotify.com/track/1utPYZzeIrA6YzeZZQ2fAM) | [賈淏森](https://open.spotify.com/artist/7JPjn74S1RZRfDXA8V3pSK) | [借春風](https://open.spotify.com/album/5rAoPMElnTc8maQVv3dWcH) | 4:20 | 2023-08-17 |  |
 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 | 2022-07-28 |  |
 | [偶爾墜落](https://open.spotify.com/track/75Oa1Cs5lz0p0Kcu3t5kgk) | [安柏兒](https://open.spotify.com/artist/011Ngr53zecMBKVVE6Esgn) | [偶爾墜落](https://open.spotify.com/album/44X8FjH0jJ8H3oWjIrdtTo) | 2:56 | 2023-04-27 | 2023-05-12 |
 | [光的房子](https://open.spotify.com/track/5FMryUJWbYVkhA9OyZgMea) | [房东的猫](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [光的房子](https://open.spotify.com/album/6CSfM5sOZW546QQvyyhM9k) | 4:10 | 2023-05-04 | 2023-05-19 |
@@ -182,10 +185,11 @@
 | [我的愛 \- Diva Classics \- Part 4](https://open.spotify.com/track/0uahazD3DNQw2XgLtWEoPC) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [我的愛 \(Diva Classics \- Part 4\)](https://open.spotify.com/album/5T601zJp4XTdgoyKucd9hE) | 4:01 | 2022-06-02 | 2023-02-24 |
 | [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 | 2022-06-02 | 2023-05-13 |
 | [我連快樂都不敢了](https://open.spotify.com/track/66x69ddxo6rH3KZoa5yNfO) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [游牧](https://open.spotify.com/album/5TcwXy3ycGrJVAIyLHwCVf) | 3:51 | 2022-06-27 | 2022-07-27 |
-| [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 | 2022-06-02 |  |
-| [或許我只需要妳](https://open.spotify.com/track/6Zag2KsCU0CDns1UpMhdtc) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [on&off](https://open.spotify.com/album/2IcRwL1HY8aZLZ567oH1YF) | 3:03 | 2023-08-03 |  |
+| [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 | 2022-06-02 | 2023-08-18 |
+| [或許我只需要妳](https://open.spotify.com/track/6Zag2KsCU0CDns1UpMhdtc) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [on&off](https://open.spotify.com/album/2IcRwL1HY8aZLZ567oH1YF) | 3:03 | 2023-08-03 | 2023-08-18 |
 | [房間](https://open.spotify.com/track/3WJyxHcSKh7Pd2hrp3qCn1) | [王立言](https://open.spotify.com/artist/2PS4tKSfg9pbYKXwgeD7rc) | [房間](https://open.spotify.com/album/2VkSfYSqdjyAViQtRc2gMI) | 4:47 | 2023-07-20 | 2023-08-04 |
 | [拜托爱上我](https://open.spotify.com/track/3kd4yxVxMKlrjQnnNIS2FV) | [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [外南街1982](https://open.spotify.com/album/5YwEslhuCquUrP6TtSHue4) | 3:26 | 2023-03-23 | 2023-04-07 |
+| [拥抱 \- 电视剧《1234567我的朋友在这里 S2》主题曲1](https://open.spotify.com/track/2IAfD3300FjnRVMetOcgTK) | [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [拥抱 \(电视剧《1234567我的朋友在这里 S2》主题曲1\)](https://open.spotify.com/album/41hUwb6wu7XJ3hC13Z53b4) | 3:21 | 2023-08-17 |  |
 | [摯友](https://open.spotify.com/track/5gKnXAFKXTCBYzJVSBWoDN) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim) | [摯友](https://open.spotify.com/album/0ug3E7pL80yZBrhjhd3skX) | 4:34 | 2023-01-12 | 2023-01-27 |
 | [教我如何做你的愛人](https://open.spotify.com/track/6x9WoiiBk8ps3gFKIk1YsN) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [教我如何做你的愛人](https://open.spotify.com/album/59I0SapwEXuGlT0kp5C7Jl) | 4:17 | 2023-03-16 | 2023-04-12 |
 | [斷捨離 \- Acoustic 哼唱版](https://open.spotify.com/track/6jQvJ9ks6v4496qkDnf7mo) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [斷捨離](https://open.spotify.com/album/4b2XXczwNuQYYxv9VRT0EB) | 1:05 | 2023-03-16 | 2023-03-31 |

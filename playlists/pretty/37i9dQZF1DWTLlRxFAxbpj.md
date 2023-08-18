@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLlRxFAxbpj.md) - [plain]
 
 > Get ready to soak up the sun with some carefree jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,962 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,959 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLlRxFAxbpj.md) - [plain]
 | 31 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
 | 32 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 33 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 |
-| 34 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
+| 34 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
 | 35 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
-| 36 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
+| 36 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 37 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 | 38 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 |
 | 39 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLlRxFAxbpj.md) - [plain]
 | 49 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 |
 | 50 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 |
 
-Snapshot ID: `MCw2MDMyYzM1YWY5OGMyNjAzNzg0MWEzMTM0ZWQyYjQ1M2QxMWRhYzc2`
+Snapshot ID: `MCw5ZmMzMmUyMzQwMWYwYTkxZDA1ZTFmOTJmYTJhMzI3NmFiZmE5YThh`

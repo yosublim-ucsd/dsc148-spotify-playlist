@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 
 > Get the party going with these classics from across the decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,339 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,381 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 58 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
 | 59 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 60 | [Miss Independent](https://open.spotify.com/track/34ceTg8ChN5HjrqiIYCn9Q) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman \(Bonus Track Edition\)](https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x) | 3:52 |
-| 61 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 62 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
+| 61 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
+| 62 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 63 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 64 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
 | 65 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
-| 66 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
-| 67 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
+| 66 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
+| 67 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
 | 68 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 |
 | 69 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
 | 70 | [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 79 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 80 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
 
-Snapshot ID: `MCxhNWQ5ZDE3Y2NiMzI4ZmNmMjVjMTNiMmFiYzU4NTgzOTg0ODgzOGIz`
+Snapshot ID: `MCw3NTEwMjI0ZDA5MWViZTFkZTQxNmMxNjI0NTE2ZmY3YTgyOWM4NGZk`

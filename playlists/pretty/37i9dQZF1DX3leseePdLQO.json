@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring LAGOS.",
-  "num_followers": 6687,
+  "num_followers": 6709,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTZlZTMxNTQ1NDkwOWYwMWRkNDQxZGQxNzAwMjEzZmI5ZTNkZTUx",
+  "snapshot_id": "MCwzMmExZTUzOTIxMmVkYjhkZGE1ZTU2M2UzODcyMmJmMWEzMjkyMmI1",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -231,8 +231,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+      "duration_ms": 141890,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 141890,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "ESENCIA",
         "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 180619,
       "name": "TU VALOR",
       "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Obvio",
-        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 165784,
-      "name": "Obvio",
-      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 170250,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Obvio",
+        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 165784,
+      "name": "Obvio",
+      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "7 Veces",
-      "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 149973,
       "name": "Se Siente As\u00ed",
       "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "7 Veces",
+      "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Me Da Bastante Miedo",
-        "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 186075,
-      "name": "Me Da Bastante Miedo",
-      "url": "https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Moderaci\u00f3n (Con Camilo)",
         "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 199626,
       "name": "Moderaci\u00f3n (Con Camilo)",
       "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Me Da Bastante Miedo",
+        "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 186075,
+      "name": "Me Da Bastante Miedo",
+      "url": "https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Te La Dedico",
         "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Thalia's Mixtape",
         "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
       },
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 166535,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "D\u00e9jame Llorarte",
         "url": "https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 189506,
       "name": "D\u00e9jame Llorarte",
       "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 166535,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "No Quiero Olvidarte",
         "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 230049,
       "name": "No Quiero Olvidarte",
       "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
       "added_at": "2023-08-11 04:00:00",

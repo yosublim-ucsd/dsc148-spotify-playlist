@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: D.O.D",
+  "description": "The UK's biggest dance playlist! Cover: Sonny Fodera, MK, Clementine Douglas",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 144003,
       "name": "All Of Me (Do For Love)",
       "url": "https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc"
@@ -3959,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Groove Thang",
+        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
+    },
+    {
+      "album": {
         "name": "gutter",
         "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
       },
@@ -7234,12 +7252,12 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        },
-        {
           "name": "Sam Tompkins",
           "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
       "date_added": "2023-07-06",

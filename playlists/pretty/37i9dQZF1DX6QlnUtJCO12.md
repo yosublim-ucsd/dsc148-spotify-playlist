@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,127 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,148 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 15 | [London is the Place for Me](https://open.spotify.com/track/1pETAnznla509bUKb34xnS) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [8](https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH) | 2:47 |
 | 16 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
 | 17 | [Mathilda](https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX) | [King Radio](https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:41 |
-| 18 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 |
-| 19 | [Carnival Proclamation](https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6) | [Lord Melody](https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka) | [Lord Melody Sings Calypso](https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e) | 2:43 |
+| 18 | [Carnival Proclamation](https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6) | [Lord Melody](https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka) | [Lord Melody Sings Calypso](https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e) | 2:43 |
+| 19 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 |
 | 20 | [Mister Give Me de Rent](https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD) | [Mighty Panther](https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG) | [Calypso Legends \- Mighty Panther / Macbeth the Great \(1953 \- 1956\)](https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC) | 2:29 |
 | 21 | [Bamboo Dance](https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c) | [Black Czar](https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:54 |
 | 22 | [Money Is King](https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X) | [The Tiger](https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 39 | [Woman Is Not The Weaker Sex](https://open.spotify.com/track/2OfEqAYJZalVNH69IBVkYi) | [Atilla](https://open.spotify.com/artist/3RsBkhmkDKitjXca4qArAz) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 |
 | 40 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 
-Snapshot ID: `MCxmZjI2MjA3YmQ3NTM2OGQzMWYzYWZlZWVhOTNiYjJmMzI2NDUxYmE3`
+Snapshot ID: `MCxkYWRhOTdhZjM3MTU3NTY5MGExZjQ4M2U0MDQxOWU1YzI3MDkwYmY3`

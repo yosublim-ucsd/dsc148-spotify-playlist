@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,270 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,379 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 10 | [Llorar](https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88) | 3:43 |
 | 11 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
 | 12 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 |
-| 13 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
-| 14 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
-| 15 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 |
+| 13 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 |
+| 14 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
+| 15 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 |
 | 16 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
 | 17 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 |
 | 18 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 33 | [No Bailes De Caballito](https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 4:01 |
 | 34 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 35 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
-| 36 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
-| 37 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 |
+| 36 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 |
+| 37 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 38 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
 | 39 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
 | 40 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 59 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
 | 60 | [Juana La Cubana](https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:10 |
 | 61 | [Oye Mujer](https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Oye Mujer](https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD) | 4:12 |
-| 62 | [En Vida](https://open.spotify.com/track/0drxfRtLx9xMFAahZKGdh8) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 2:25 |
-| 63 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 62 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 63 | [En Vida](https://open.spotify.com/track/0drxfRtLx9xMFAahZKGdh8) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 2:25 |
 | 64 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 |
 | 65 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
 | 66 | [Techno Cumbia](https://open.spotify.com/track/2ZQB09LvHaOuMJBgCfOKHp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 89 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
 | 90 | [El Wiri Wiri Aka El Guiri Guiri](https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Aceptalo Ya !](https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf) | 3:22 |
 
-Snapshot ID: `MCw0MGFmMjg3ZDUyMWM4MDljZDI2YzI3YjlkOGFhM2I2NTIxZDk0ZDdj`
+Snapshot ID: `MCxmMzJkYzkxNjk4ZjZlOWJkYTNhOWE3MGZmZTE2YmJmNWRlZTk3ZDBi`

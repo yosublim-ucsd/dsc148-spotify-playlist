@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Byron Messia",
-  "num_followers": 410348,
+  "num_followers": 410572,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTk3NTQ0MGM3Yjg4MDJhNTc1YTFjY2VlZjQzZTljNmEyZDc0Zjk3",
+  "snapshot_id": "MCwxMDA4YzRkYzFmNzAxOGZmMmNiMDJjMmE2MjgxYTFiY2IxNWUwNDE5",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -63,18 +63,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
+        "name": "Operation Stackola",
+        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
       "artists": [
         {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+          "name": "Luniz",
+          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
+        },
+        {
+          "name": "Michael Marshall",
+          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
         }
       ],
-      "duration_ms": 188737,
-      "name": "Talibans",
-      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
+      "duration_ms": 253533,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -99,22 +103,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Operation Stackola",
-        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
       },
       "artists": [
         {
-          "name": "Luniz",
-          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
-        },
-        {
-          "name": "Michael Marshall",
-          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         }
       ],
-      "duration_ms": 253533,
-      "name": "I Got 5 On It",
-      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
+      "duration_ms": 188737,
+      "name": "Talibans",
+      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Bruk Off Yuh Back",
-        "url": "https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Bruk Off Yuh Back",
-      "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Buy out Riddim",
         "url": "https://open.spotify.com/album/0YnW0VxELVkjA1GlQSeTWb"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 242560,
       "name": "Nuttin Nuh Go So",
       "url": "https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Bruk Off Yuh Back",
+        "url": "https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Bruk Off Yuh Back",
+      "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
       "artists": [
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+      "duration_ms": 217106,
+      "name": "King Of The Dancehall",
+      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
       "artists": [
         {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 217106,
-      "name": "King Of The Dancehall",
-      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 220464,
       "name": "Stay So",
       "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Vibes Weekend",
-        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Vibes Weekend",
-      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Romie",
-      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Pon Di Cocky",
         "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 190119,
       "name": "Pon Di Cocky",
       "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Romie",
+      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Whap Whap (feat. F.S.)",
-        "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
+        "name": "Live Some Life (feat. DING DONG)",
+        "url": "https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY"
       },
       "artists": [
         {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
         },
         {
-          "name": "F.S.",
-          "url": "https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN"
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
         }
       ],
-      "duration_ms": 181115,
-      "name": "Whap Whap (feat. F.S.)",
-      "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+      "duration_ms": 185191,
+      "name": "Live Some Life (feat. DING DONG)",
+      "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Live Some Life (feat. DING DONG)",
-        "url": "https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY"
+        "name": "Whap Whap (feat. F.S.)",
+        "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
       },
       "artists": [
         {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         },
         {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+          "name": "F.S.",
+          "url": "https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN"
         }
       ],
-      "duration_ms": 185191,
-      "name": "Live Some Life (feat. DING DONG)",
-      "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
+      "duration_ms": 181115,
+      "name": "Whap Whap (feat. F.S.)",
+      "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 219574,
       "name": "Pieces (with Jahshii)",
       "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "Mimosas",
-      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "One Day Riddim",
         "url": "https://open.spotify.com/album/5PkIgWAMxMDiDv1jrzkqgm"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 135640,
       "name": "Drinking Rum",
       "url": "https://open.spotify.com/track/0xezj8YX96S7m4fCDwCIoJ"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Yeah Yeah - Single",
-        "url": "https://open.spotify.com/album/06VDs9femy3MeVVhGyFJ0i"
-      },
-      "artists": [
-        {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Yeah Yeah",
-      "url": "https://open.spotify.com/track/5I6zA18QlsgGLwdcS0OKZI"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Dull Colour",
         "url": "https://open.spotify.com/album/4NR9QACJ9PDX5Y0mktdZWg"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 149904,
       "name": "Dull Colour",
       "url": "https://open.spotify.com/track/2dyOTCYmyt2lhh9acGWbXA"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Yeah Yeah - Single",
+        "url": "https://open.spotify.com/album/06VDs9femy3MeVVhGyFJ0i"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/5I6zA18QlsgGLwdcS0OKZI"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Nah Laugh",
-        "url": "https://open.spotify.com/album/6Mbo8L5Idf15t1QjPOnLWw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 144905,
-      "name": "Nah Laugh",
-      "url": "https://open.spotify.com/track/0l6eHy33mZbdCsb1GhvCuW"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "21 Seconds",
         "url": "https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 294373,
       "name": "21 Seconds - 12\" Version",
       "url": "https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Nah Laugh",
+        "url": "https://open.spotify.com/album/6Mbo8L5Idf15t1QjPOnLWw"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 144905,
+      "name": "Nah Laugh",
+      "url": "https://open.spotify.com/track/0l6eHy33mZbdCsb1GhvCuW"
     },
     {
       "added_at": "2023-08-03 23:00:00",

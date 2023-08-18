@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-90 songs - 5 hr 17 min
+91 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3AM Girl](https://open.spotify.com/track/4crrhlul1yO4peWZo9yKYl) | [Abbie Ferris](https://open.spotify.com/artist/0oXHdeqCzxWbyaE8ChA08p) | [3AM Girl](https://open.spotify.com/album/41ZfroG0qswkzQkAJRE95i) | 3:22 | 2023-06-15 |  |
 | [A Gift](https://open.spotify.com/track/6c12PXXRn68whIxd3AWf2y) | [Duncan Toombs](https://open.spotify.com/artist/5Jv0F98tukWFHhdP7ZNJq9) | [A Gift](https://open.spotify.com/album/29I8O9FVwQmJOodNrw4gNU) | 3:26 | 2023-06-15 |  |
 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 | 2023-06-15 |  |
+| [amen](https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:09 | 2023-08-17 |  |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2023-06-15 |  |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2023-06-15 |  |
 | [Beau in the Back \- Acoustic](https://open.spotify.com/track/6dffNqQMGFAIB6mW74tlKu) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Beau in the Back \(Acoustic\)](https://open.spotify.com/album/1W5v110af0CErrsIRrPsRD) | 4:10 | 2023-06-15 | 2023-08-04 |
@@ -40,7 +41,7 @@
 | [Ghosts](https://open.spotify.com/track/6TjzdRCPdXruPXte8J9zPD) | [Jeremy Edwards](https://open.spotify.com/artist/6jvroIfVd4uDH2i1aBQmaF), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Ghosts](https://open.spotify.com/album/2kyZSVnyyYzdUuYUFNagtW) | 4:36 | 2023-07-07 |  |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2023-06-15 | 2023-08-08 |
 | [God Took His Time On You](https://open.spotify.com/track/0SNIS7vbpwP5I0TjyPIAed) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Light It Up](https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE) | 3:35 | 2023-06-15 |  |
-| [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2023-06-15 |  |
+| [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2023-06-15 | 2023-08-18 |
 | [Half the Man](https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Half the Man](https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3) | 3:02 | 2023-06-15 |  |
 | [Happy Now](https://open.spotify.com/track/3U1V2JWnoLV7wVYgOPPDBR) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Happy Now](https://open.spotify.com/album/6ngiL95TBNpZkP6ZEKI4fY) | 3:19 | 2023-06-15 |  |
 | [Heights](https://open.spotify.com/track/7ywfbPWKYt9rO2J4D7ZLP1) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Heartline](https://open.spotify.com/album/17WUzrpoONxTwLrx9BGktP) | 4:13 | 2023-06-15 |  |

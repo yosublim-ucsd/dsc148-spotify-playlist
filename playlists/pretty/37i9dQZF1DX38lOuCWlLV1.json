@@ -1,12 +1,12 @@
 {
   "description": "Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 229613,
+  "num_followers": 229707,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDdlZjJiOWI2NDI0YTE2MjQ2YzM3NjEzM2MzZDZjMWIwZjkwZmU1",
+  "snapshot_id": "MCxiYmVhMmIxMGIyYzU5MDJlZDFhYjFhYTJmMTU1ZWViZDQ4MzQ3NmNk",
   "tracks": [
     {
       "added_at": "2023-07-07 22:04:53",
@@ -491,22 +491,18 @@
     {
       "added_at": "2023-07-07 22:04:53",
       "album": {
-        "name": "Hard Times / Bad Trips",
-        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
       },
       "artists": [
         {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        },
-        {
-          "name": "Lucys",
-          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 128000,
-      "name": "I hope that you think of me",
-      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
+      "duration_ms": 241917,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
     },
     {
       "added_at": "2023-07-07 22:04:53",
@@ -527,18 +523,22 @@
     {
       "added_at": "2023-07-07 22:04:53",
       "album": {
-        "name": "The Shepherd's Dog",
-        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
+        "name": "Hard Times / Bad Trips",
+        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        },
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
         }
       ],
-      "duration_ms": 241917,
-      "name": "Flightless Bird, American Mouth",
-      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
+      "duration_ms": 128000,
+      "name": "I hope that you think of me",
+      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2023-07-07 22:04:53",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
     },
     {
-      "added_at": "2023-07-07 22:30:38",
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "What Kinda Woman",
-      "url": "https://open.spotify.com/track/6CHz71rEBt1SligO9zx79A"
-    },
-    {
       "added_at": "2023-07-07 22:04:53",
       "album": {
         "name": "The Nat King Cole Story",
@@ -1087,6 +1071,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2023-07-07 22:30:38",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "What Kinda Woman",
+      "url": "https://open.spotify.com/track/6CHz71rEBt1SligO9zx79A"
     },
     {
       "added_at": "2023-07-07 22:04:53",

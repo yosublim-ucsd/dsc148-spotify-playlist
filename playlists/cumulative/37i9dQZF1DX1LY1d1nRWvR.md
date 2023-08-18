@@ -4,7 +4,7 @@
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-72 songs - 6 hr 27 min
+73 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Eye Mo K](https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz) | 5:42 | 2021-10-08 |  |
 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 | 2021-10-08 | 2023-05-24 |
 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 | 2021-10-08 | 2023-03-19 |
+| [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 | 2021-10-08 |  |
 | [Golden Gai](https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl), [Rachel Shirley](https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r) | [Boro](https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB) | 5:52 | 2021-10-08 |  |
 | [Golden Gai](https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Jonoa](https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1), [Rachel Shirley](https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI) | [Boro](https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko) | 5:52 | 2021-10-08 | 2023-03-10 |
 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 | 2021-10-08 |  |
@@ -69,7 +70,7 @@
 | [Strings of Light](https://open.spotify.com/track/5yPowIqdVPFaBvBmhoLE0Y) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/1MioiNBndcGhsQOFk3l6fu) | 8:28 | 2021-10-08 | 2023-04-29 |
 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 | 2021-10-08 |  |
 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 | 2021-10-08 |  |
-| [The Sapiens \(Original Mix\) \[Mixed\]](https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Music is King 2019 Appreciation Mix \(DJ Mix\)](https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW) | 6:49 | 2021-10-08 |  |
+| [The Sapiens \(Original Mix\) \[Mixed\]](https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Music is King 2019 Appreciation Mix \(DJ Mix\)](https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW) | 6:49 | 2021-10-08 | 2023-08-18 |
 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 | 2021-10-08 | 2023-04-21 |
 | [Theme from Selva](https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 3:25 | 2021-10-08 |  |
 | [TRY](https://open.spotify.com/track/1htTRt6dZPPeqduos5PAmC) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [You + I](https://open.spotify.com/album/1NIo4gSPB94n4QUDK7uJEL) | 3:53 | 2021-10-08 |  |

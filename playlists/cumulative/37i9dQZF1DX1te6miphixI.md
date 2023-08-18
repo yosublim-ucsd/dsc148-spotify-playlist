@@ -4,7 +4,7 @@
 
 > Grandes temas del rock de ayer y de hoy.
 
-127 songs - 8 hr 45 min
+128 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2022-07-05 |  |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-04-08 | 2022-11-13 |
 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 | 2022-04-08 | 2023-03-06 |
-| [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-05 | 2023-08-12 |
+| [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-05 |  |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/2GAIycsMaDVtMtdvxzR2xI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set](https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ) | 5:54 | 2022-04-08 | 2022-07-29 |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2022-04-08 | 2023-07-31 |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2022-07-05 |  |
@@ -75,7 +75,7 @@
 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 | 2022-04-08 |  |
 | [Paralyzed](https://open.spotify.com/track/4QQyHD0xPEHSGha4dExUKH) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Let's Talk](https://open.spotify.com/album/2NNK0NFzBMSEsGrYpJDZwZ) | 4:13 | 2023-07-14 | 2023-07-21 |
 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 | 2022-04-08 | 2022-07-29 |
-| [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-10-14 |  |
+| [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-10-14 | 2023-08-18 |
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/5wCUdBsdubZ3ZFoJoRsMrY) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Me Verás Volver \(Hits & Más\)](https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb) | 4:52 | 2022-04-08 | 2022-07-29 |
 | [Plush](https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core](https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp) | 5:10 | 2022-04-08 | 2022-07-29 |
 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 | 2022-04-08 | 2022-07-09 |
@@ -106,12 +106,13 @@
 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 | 2022-07-05 |  |
 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-07-05 |  |
 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 | 2022-04-08 | 2022-07-29 |
+| [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-08-17 |  |
 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2022-07-05 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2022-07-05 | 2022-11-12 |
 | [The Passenger](https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC) | 4:44 | 2022-04-08 | 2022-07-28 |
 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 | 2022-04-08 |  |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2022-04-08 |  |
-| [Two Kinds Of Trouble](https://open.spotify.com/track/0wUYmEDRdK185IVIIrtmjJ) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Death Of Randy Fitzsimmons](https://open.spotify.com/album/6agQKhrctciHD4QH7KufOS) | 2:44 | 2023-08-11 |  |
+| [Two Kinds Of Trouble](https://open.spotify.com/track/0wUYmEDRdK185IVIIrtmjJ) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Death Of Randy Fitzsimmons](https://open.spotify.com/album/6agQKhrctciHD4QH7KufOS) | 2:44 | 2023-08-11 | 2023-08-18 |
 | [Under My Thumb](https://open.spotify.com/track/5RFG9IVkzxE4LhObpIJncY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/46pzm7u9iA14icC3NDEMte) | 3:40 | 2022-04-08 | 2022-07-21 |
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-19 | 2023-07-21 |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2022-04-08 |  |

@@ -2,7 +2,7 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. Lamante in cover questa settimana!
+> La playlist che è come andare ai concerti\. Bull Brigade in cover questa settimana!
 
 513 songs - 1 day 4 hr 29 min
 

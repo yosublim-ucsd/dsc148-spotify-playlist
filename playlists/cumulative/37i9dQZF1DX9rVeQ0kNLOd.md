@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-207 songs - 12 hr 46 min
+208 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2023-03-14 |  |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-10-20 | 2022-10-26 |
 | [あいこ](https://open.spotify.com/track/429C5mffD678cT8sUm2BZm) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [あいこ](https://open.spotify.com/album/6Cg2eW5eFytybKykpaZtjH) | 3:27 | 2022-11-08 | 2022-11-30 |
-| [あのうたがきこえる \- feat.Ema & 吉田沙良\(モノンクル\)](https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6) | [象眠舎](https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6), [Ema](https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [あのうたがきこえる \[feat.Ema & 吉田沙良\(モノンクル\)\]](https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM) | 6:48 | 2023-05-16 |  |
+| [あのうたがきこえる \- feat.Ema & 吉田沙良\(モノンクル\)](https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6) | [象眠舎](https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6), [Ema](https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [あのうたがきこえる \[feat.Ema & 吉田沙良\(モノンクル\)\]](https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM) | 6:48 | 2023-05-16 | 2023-08-18 |
 | [あめ](https://open.spotify.com/track/3krw9tEZvkPK2EIxgDSohn) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [あめ](https://open.spotify.com/album/0SvQEjDT5o6DNKNXmTRhEK) | 2:46 | 2023-05-31 | 2023-06-01 |
 | [あめ](https://open.spotify.com/track/4VHXcXKWES6vfhohsfpnnu) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [あめ](https://open.spotify.com/album/6Ei7G3UVp3acGkrTt4IZJG) | 2:46 | 2023-05-31 | 2023-08-02 |
 | [いのり](https://open.spotify.com/track/5Ghfkd9z1Mq4CHY5wJCP77) | [yr](https://open.spotify.com/artist/3iyYNppMxdrMaND8VaXdxO) | [いのり](https://open.spotify.com/album/1o5xWVczspUHRS1F8bE6dm) | 2:38 | 2022-10-20 | 2022-11-09 |
@@ -194,6 +194,7 @@
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-25 | 2022-11-17 |
 | [楽園](https://open.spotify.com/track/2MCYwlrzVgOF3mmhk9tZW8) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [楽園](https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP) | 3:54 | 2022-10-20 | 2022-10-26 |
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2022-12-06 | 2023-02-25 |
+| [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 |  |
 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 | 2022-10-20 | 2023-06-02 |
 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 | 2022-10-20 | 2023-05-31 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 | 2023-03-25 |

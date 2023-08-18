@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,876 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,962 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 24 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
 | 25 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 |
 | 26 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 |
-| 27 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
-| 28 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 |
+| 27 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 |
+| 28 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
 | 29 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 |
 | 30 | [Sakura](https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph) | [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [in my Time](https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi) | 1:26 |
 | 31 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
-| 32 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
-| 33 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
-| 34 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
+| 32 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
+| 33 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
+| 34 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
 | 35 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 |
-| 36 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
-| 37 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
+| 36 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
+| 37 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
 | 38 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
 | 39 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 |
 | 40 | [memory lane](https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [memory lane](https://open.spotify.com/album/5I2F71Myowlmr7AWMDDpzQ) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 49 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
 | 50 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
 
-Snapshot ID: `MCw2ZDFjN2QxNDllYWU5ZWE2ZDg2ZWQ3ZDk3MDI3NTZjMjQzZWZjY2Ez`
+Snapshot ID: `MCxmOTcxOTMzOTU1ZTgxZTI1ZDYyYTJkZDM5NzU1MGFiOGRiOGJiYTk4`

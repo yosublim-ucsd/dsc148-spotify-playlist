@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,685 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,728 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 49 | [Time's A Wastin](https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:40 |
 | 50 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
 
-Snapshot ID: `MCw1NDRmYTk3MGNmYzE0OTFhN2YyZmY4OWVjZmQ4NDQwNzZkYjJhMjk3`
+Snapshot ID: `MCwzZWI4ZGM4ZWQyM2E5YTM2MWZiOGQzYWMzYTlkNTJjMTMwZDViNGE3`

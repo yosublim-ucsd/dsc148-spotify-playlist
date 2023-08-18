@@ -4,7 +4,7 @@
 
 > عيش أجمل حاله حب 🫶
 
-196 songs - 12 hr 12 min
+198 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Faraa' Keteer](https://open.spotify.com/track/0K2otoPYgrFaUtynZl6HjU) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [Faraa' Keteer](https://open.spotify.com/album/21sF7xgckSzmF2fJIvPAh5) | 3:58 | 2023-02-13 | 2023-05-23 |
 | [Farha](https://open.spotify.com/track/1tKPUMbKrJ7lHpnHW1jc1w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Farha](https://open.spotify.com/album/6CO9kHdDHltgyhClt55JUC) | 4:28 | 2023-02-13 | 2023-05-23 |
 | [Fe Einy](https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 3:08 | 2023-02-13 | 2023-05-23 |
-| [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2023-02-13 |  |
+| [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2023-02-13 | 2023-08-18 |
 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 | 2023-08-08 |  |
 | [Fenoh](https://open.spotify.com/track/6dzfREL5EwPZxPGIgKsieT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Gowa Fe Alby](https://open.spotify.com/album/27VrCWi59R8keOizrwJjGA) | 4:51 | 2023-02-13 | 2023-05-23 |
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-14 |
@@ -87,7 +87,7 @@
 | [Hala Beek Ya Medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala Beek Ya Medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 | 2023-08-08 |  |
 | [Hane'sh W Nshoof \- From Ella Ana TV Series](https://open.spotify.com/track/2KrYv8uYw6jFzGWs2ixjGj) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [Hane'sh W Nshoof \(From Ella Ana TV Series\)](https://open.spotify.com/album/6KAk4FbE3QqBbETqi8zVj5) | 4:53 | 2023-02-13 | 2023-05-23 |
 | [Hayatak Fi Sora](https://open.spotify.com/track/5v5DvfdykdjmzgA3t9pnGg) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Hayatak Fi Sora](https://open.spotify.com/album/2LE4wOXSuqwPXyY22h1ad1) | 2:49 | 2023-02-13 | 2023-05-23 |
-| [Hayaty Msh Tamam](https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hayaty Msh Tamam](https://open.spotify.com/album/0zBxKqULhsSAiY3qWbeJMM) | 3:15 | 2023-02-13 |  |
+| [Hayaty Msh Tamam](https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hayaty Msh Tamam](https://open.spotify.com/album/0zBxKqULhsSAiY3qWbeJMM) | 3:15 | 2023-02-13 | 2023-08-18 |
 | [Helw El Kalam](https://open.spotify.com/track/0K9cS7axpvMGE67LPO3lqH) | [Amal Mansy](https://open.spotify.com/artist/3gpaXBJk41UwHBOMY27VdQ) | [Helw El Kalam](https://open.spotify.com/album/2LX8nfd7ZNYHBOFxiHqTBQ) | 3:29 | 2023-05-11 | 2023-05-23 |
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2023-02-13 |  |
 | [Heya El7lwa](https://open.spotify.com/track/0cEKtYoSyofkTQR1KVrXxJ) | [Mohamed Ramadan](https://open.spotify.com/artist/3gg0cJDqpgB4EgsMrjlca3) | [Heya El7lwa](https://open.spotify.com/album/1rswisEv96JhXJ6YojmIc5) | 2:19 | 2023-02-13 | 2023-05-02 |
@@ -158,6 +158,7 @@
 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 | 2023-02-13 | 2023-05-23 |
 | [Yama](https://open.spotify.com/track/2LFXoehu5ZfYXnKob64neu) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:08 | 2023-02-13 | 2023-05-23 |
 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 | 2023-02-13 | 2023-05-23 |
+| [Zay El Wara2](https://open.spotify.com/track/2J1NzFZ91MgX6Mexv2K6Si) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Zay El Wara2](https://open.spotify.com/album/0ySeeh7VlH8uItqVKroo34) | 2:59 | 2023-08-17 |  |
 | [أتعدي حدودي](https://open.spotify.com/track/4KSLhwP4wUyGoSe2Wj2p0v) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [أتعدي حدودي](https://open.spotify.com/album/6GIKO9KvzuF4njYBJIYNot) | 4:21 | 2023-02-13 | 2023-05-23 |
 | [أمانة عليك](https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [أمانة عليك](https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB) | 2:54 | 2023-02-13 | 2023-05-23 |
 | [إنتي الحياه \- إيجار قديم](https://open.spotify.com/track/2P2jPhzQiHlm2yVg5E1RIw) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [إنتي الحياه \(إيجار قديم\)](https://open.spotify.com/album/5WQ92QnGxYMPfEoUM6zPx2) | 3:46 | 2023-02-13 | 2023-05-23 |
@@ -181,6 +182,7 @@
 | [ستة الصبح](https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حسين الجسمي ٢٠١٠](https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs) | 4:26 | 2023-05-22 | 2023-07-14 |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2023-05-22 | 2023-07-14 |
 | [شفت بعينيا](https://open.spotify.com/track/4aVeUf3RC1VKiqFT2FNyFp) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [جوه القلب](https://open.spotify.com/album/4W2UyI6S09RUKbpTQfJ2Ue) | 3:55 | 2023-02-13 | 2023-05-23 |
+| [طمنها](https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [طمنها](https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh) | 4:04 | 2023-08-17 |  |
 | [طمنى عليك](https://open.spotify.com/track/44IiIpdfudUAV3np87r3gk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [ولا نص كلمة](https://open.spotify.com/album/3FXWjjh9LaJQLEZh4GHaVN) | 4:27 | 2023-02-13 | 2023-05-23 |
 | [عالقمة](https://open.spotify.com/track/5PIvugPx2PeDBmW1fHIRnO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [عالقمة](https://open.spotify.com/album/3OzEZdkKYp10GSgVSiXsvQ) | 3:40 | 2023-02-13 | 2023-05-23 |
 | [عاملة ايه ؟؟](https://open.spotify.com/track/5KOrRI5QeDrUEhRdmeijtP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [عاملة ايه ؟؟](https://open.spotify.com/album/3SGSJ7kYeinqlZMwY2uJu0) | 2:32 | 2023-02-13 | 2023-05-23 |

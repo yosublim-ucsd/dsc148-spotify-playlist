@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 30 years of Alan Jackson's classic hit "Chattahoochee" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,664,880 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,665,821 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 111 | [Two Sparrows In A Hurricane](https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Can't Run From Yourself](https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS) | 4:10 |
 | 112 | [Blue](https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 2:49 |
 | 113 | [Thinkin' Problem](https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Thinkin' Problem](https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao) | 3:01 |
-| 114 | [No Doubt About It](https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [No Doubt About It](https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON) | 3:47 |
-| 115 | [Baby Likes To Rock It](https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Tractors](https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96) | 3:56 |
+| 114 | [Baby Likes To Rock It](https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Tractors](https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96) | 3:56 |
+| 115 | [No Doubt About It](https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [No Doubt About It](https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON) | 3:47 |
 | 116 | [Ain't That Lonely Yet](https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 3:20 |
 | 117 | [I Try to Think About Elvis](https://open.spotify.com/track/121ILFThNZH9Egncny7upu) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [When Fallen Angels Fly](https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9) | 2:49 |
 | 118 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
@@ -135,16 +135,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 125 | [Drink, Swear, Steal & Lie](https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA) | [Michael Peterson](https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz) | [Michael Peterson](https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC) | 3:02 |
 | 126 | [He Thinks He'll Keep Her](https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 4:03 |
 | 127 | [I Left Something Turned On At Home](https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 3:08 |
-| 128 | [Then What?](https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Rumor Has It](https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt) | 3:03 |
-| 129 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 |
+| 128 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 |
+| 129 | [Then What?](https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Rumor Has It](https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt) | 3:03 |
 | 130 | [Shake The Sugar Tree](https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Homeward Looking Angel](https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS) | 3:07 |
 | 131 | [I Love the Way You Love Me](https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 4:01 |
 | 132 | [That's My Story](https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Extremes](https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo) | 3:02 |
 | 133 | [Sticks and Stones](https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Sticks and Stones](https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq) | 3:38 |
 | 134 | [Hillbilly Shoes](https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Tattoos & Scars](https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5) | 3:12 |
-| 135 | [Only Here For A Little While](https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Young Man](https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH) | 3:34 |
-| 136 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 |
-| 137 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
+| 135 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 |
+| 136 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
+| 137 | [Only Here For A Little While](https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Young Man](https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH) | 3:34 |
 | 138 | [How Can I Help You Say Goodbye](https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 4:58 |
 | 139 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |
 | 140 | [I Think About You](https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [I Think About You](https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu) | 3:26 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 143 | [Down To My Last Teardrop](https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [What Do I Do With Me](https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa) | 3:30 |
 | 144 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
 | 145 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
-| 146 | [Ten Thousand Angels](https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:27 |
-| 147 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 |
+| 146 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 |
+| 147 | [Ten Thousand Angels](https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:27 |
 | 148 | [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 |
 | 149 | [Why Didn't I Think of That](https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [From the Heart](https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl) | 3:11 |
 | 150 | [455 Rocket](https://open.spotify.com/track/7FtuKCaePFfKqGetBYHxS1) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Love Travels](https://open.spotify.com/album/0CJHlDOZfCIVARQkcMgQ7m) | 4:09 |
 
-Snapshot ID: `MCw2OWE4Yzc4OWExYzNiOTg3NDNjMzM3NTM5ZmE4NGUwZDU1YzBjODY1`
+Snapshot ID: `MCxiZTk5OTI5NWEyN2YzZTZkNjlhNTEwMzMxOTdhNWYwMGU0ZDQ3ZGM5`

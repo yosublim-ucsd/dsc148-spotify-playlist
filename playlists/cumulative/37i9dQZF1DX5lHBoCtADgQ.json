@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Kut Kut Bajra",
+        "url": "https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155318,
+      "name": "Kut Kut Bajra",
+      "url": "https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE"
+    },
+    {
+      "album": {
         "name": "Punjabi Lok Rang",
         "url": "https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa"
       },

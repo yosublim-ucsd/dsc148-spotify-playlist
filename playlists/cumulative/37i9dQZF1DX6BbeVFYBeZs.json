@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Cymatic Patterns",
+        "url": "https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113250,
+      "name": "Cymatic Patterns",
+      "url": "https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM"
+    },
+    {
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq"
       },
@@ -2750,6 +2768,24 @@
       "duration_ms": 218237,
       "name": "Leaving La Habana",
       "url": "https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88"
+      },
+      "artists": [
+        {
+          "name": "Christopher Varela",
+          "url": "https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120967,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP"
     },
     {
       "album": {
@@ -4428,6 +4464,24 @@
       "duration_ms": 109866,
       "name": "Sonidos De La Tarde",
       "url": "https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf"
+    },
+    {
+      "album": {
+        "name": "Sorrento",
+        "url": "https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139114,
+      "name": "Sorrento",
+      "url": "https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF"
     },
     {
       "album": {

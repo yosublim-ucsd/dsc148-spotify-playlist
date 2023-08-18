@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo\. Freshly picked every week\. ✨ Cover: Alvaro Diaz & RaiNao
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,602 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,579 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 57 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
 | 58 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 |
 | 59 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
-| 60 | [No Way I Wake Up \(Without You\)](https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Daylight](https://open.spotify.com/artist/6KKA9Dt82ybAI0G64ADodJ) | [No Way I Wake Up \(Without You\)](https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c) | 3:15 |
+| 60 | [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 |
 
-Snapshot ID: `MCxjMzBmODdkYTZiM2MyZTZkM2U0YzFlODMyOWZjNDdiOTRmNTliNzI0`
+Snapshot ID: `MCw0M2IzYTNjNTRlNmZiMGYxMGQ5MzM1NGQ3Y2U4NzQwYWE1OWJjZWU4`

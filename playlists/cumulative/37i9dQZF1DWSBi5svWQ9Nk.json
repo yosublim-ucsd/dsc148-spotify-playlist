@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 populairste hits van Nederland. Cover: Marshmello, Farruko",
+  "description": "De 50 populairste hits van Nederland. Cover: Olivia Rodrigo",
   "name": "Top Hits NL",
   "tracks": [
     {
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 138655,
       "name": "HJB",
       "url": "https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B"
@@ -1753,6 +1753,28 @@
     },
     {
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr"
       },
@@ -1826,7 +1848,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 128197,
       "name": "Padellen",
       "url": "https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B"
@@ -2174,6 +2196,36 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "album": {
+        "name": "She Knows (with Akon)",
+        "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "She Knows - with Akon",
+      "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {
       "album": {

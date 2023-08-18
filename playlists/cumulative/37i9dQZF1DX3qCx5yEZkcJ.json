@@ -3309,6 +3309,32 @@
     },
     {
       "album": {
+        "name": "Goldrush",
+        "url": "https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk"
+      },
+      "artists": [
+        {
+          "name": "OVERFALL",
+          "url": "https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2"
+        },
+        {
+          "name": "Leo Iwamura",
+          "url": "https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY"
+        },
+        {
+          "name": "ShinyAppLe",
+          "url": "https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Goldrush",
+      "url": "https://open.spotify.com/track/2G9CaCae1o6JoiaUs1Oj4c"
+    },
+    {
+      "album": {
         "name": "Boardwalk Bumps 3",
         "url": "https://open.spotify.com/album/5I1Rdf76k3dEbzhM6RxYim"
       },
@@ -7574,7 +7600,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 243693,
       "name": "Sometimes - Remix Instrumental",
       "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"

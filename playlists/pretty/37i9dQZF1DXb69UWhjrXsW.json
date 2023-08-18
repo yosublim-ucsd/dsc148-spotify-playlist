@@ -1,12 +1,12 @@
 {
   "description": "Songs from some of the greatest films in the history of cinema.",
-  "num_followers": 676138,
+  "num_followers": 676508,
   "original_name": "Hits From The Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjQwZjYzMDc4MDJmNDZmNTMxZjk5OWIyYjFhYzgwNzdjYTMyMGI4",
+  "snapshot_id": "MCxlY2VmNmZiNGYzMGFmOWJkMjkxNWRmMThkN2U1MTAzMWM1YWUyZGFm",
   "tracks": [
     {
       "added_at": "2021-07-08 23:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2021-07-08 23:00:00",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
       "artists": [
         {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+      "duration_ms": 285373,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "added_at": "2021-07-08 23:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2021-07-08 23:00:00",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
         }
       ],
-      "duration_ms": 285373,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
       "added_at": "2021-07-08 23:00:00",

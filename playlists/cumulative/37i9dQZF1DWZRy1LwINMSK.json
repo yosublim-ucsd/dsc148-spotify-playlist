@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183121,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0"
+    },
+    {
+      "album": {
         "name": "Benz",
         "url": "https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0"
       },

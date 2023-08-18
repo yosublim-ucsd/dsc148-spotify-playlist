@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,350 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,379 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 34 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 |
 | 35 | [Amnesia](https://open.spotify.com/track/1JCCdiru7fhstOIF4N7WJC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:57 |
 | 36 | [1955](https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Drinking From The Sun, Walking Under Stars Restrung](https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS) | 3:59 |
-| 37 | [The Loco\-Motion](https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE) | 3:13 |
-| 38 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 |
+| 37 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 |
+| 38 | [The Loco\-Motion](https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE) | 3:13 |
 | 39 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
 | 40 | [Physical \- Remastered 2021](https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\)](https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH) | 3:45 |
 | 41 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 69 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
 | 70 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
 
-Snapshot ID: `MCwxYzNkYmM5Zjg4ZDI1Y2NiMjZiOGVhOTBhZDZhOTY1MjcyZWZjNjFm`
+Snapshot ID: `MCw5YzQzNGFlNzNjMTliZWIzNzkwYTIwOGY0MjZjYTM4ZmQ5MWNlY2Jm`

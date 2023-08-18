@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-731 songs - 2 day 0 hr 10 min
+732 songs - 2 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Fine Romance](https://open.spotify.com/track/191Pkd7ZYqI2zgQ3QbCbfM) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 3:41 | 2021-12-03 |  |
 | [A Foggy Day](https://open.spotify.com/track/1TIBoZ9EokVBNMJxetdfO0) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/4qNuS2VIZZozT0RcI8c5tJ) | 6:33 | 2021-12-03 | 2022-07-29 |
 | [A Foggy Day](https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu) | 6:33 | 2022-06-30 | 2023-08-17 |
+| [A Glimpse Of The Future](https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Glimpse Of The Future](https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S) | 2:29 | 2023-08-17 |  |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-11-10 |  |
 | [A Mother's Love](https://open.spotify.com/track/1AO9JLBiy1gZREISyucd6v) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [A Mother's Love](https://open.spotify.com/album/35iuiVjjXK5RA7VpgYivTM) | 4:55 | 2023-02-09 |  |
 | [A persuasive argument](https://open.spotify.com/track/5WwybHBAdhsJMNBbXymtS3) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [A persuasive argument](https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z) | 3:54 | 2023-08-10 |  |
@@ -143,7 +144,7 @@
 | [Dearly Beloved](https://open.spotify.com/track/5tJjgkORBtJ68L2ZSXHhcK) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Dearly Beloved](https://open.spotify.com/album/75yf4jDzTpgPN2NSxul6jd) | 3:51 | 2023-06-15 | 2023-08-13 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2023-02-02 |  |
 | [Detour Ahead](https://open.spotify.com/track/4VQjBT1aLYvEIdirwxxjvo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf) | 3:38 | 2022-08-17 |  |
-| [Detour Ahead \(take 2\)](https://open.spotify.com/track/5nDOHSm7jxDU1U9kFKVruH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:36 | 2021-12-03 |  |
+| [Detour Ahead \(take 2\)](https://open.spotify.com/track/5nDOHSm7jxDU1U9kFKVruH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:36 | 2021-12-03 | 2023-08-18 |
 | [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 |  |
 | [DFAA](https://open.spotify.com/track/1gx060f6SRyYcSsTcOpWcp) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [Invisible Land](https://open.spotify.com/album/0jCdnXJIVXcOSv2OwmpDbT) | 3:10 | 2022-06-30 | 2023-08-16 |
 | [DFAA](https://open.spotify.com/track/6SNtmjAiXXwrmZtPImGWQh) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [DFAA](https://open.spotify.com/album/0Uf3QYBKMBR5VFjFQhXHsp) | 3:10 | 2021-12-03 | 2022-07-29 |

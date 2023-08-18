@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,426 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,445 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 17 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 |
 | 18 | [All I Wanna Do \(K\) \(Feat\. Hoody & Loco\)](https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:36 |
 | 19 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
-| 20 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
-| 21 | [Tell Me](https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [The Wonder Years](https://open.spotify.com/album/3svp0TRDC5MMUAPNMimAi1) | 3:37 |
+| 20 | [Tell Me](https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [The Wonder Years](https://open.spotify.com/album/3svp0TRDC5MMUAPNMimAi1) | 3:37 |
+| 21 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
 | 22 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
 | 23 | [BREATHE](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 4:48 |
 | 24 | [Growl](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:27 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 31 | [MOVE](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [MOVE \- The 2nd Album](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) | 3:31 |
 | 32 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 |
 | 33 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 |
-| 34 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 |
-| 35 | [Trouble Maker](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) | 3:39 |
+| 34 | [Trouble Maker](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) | 3:39 |
+| 35 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 |
 | 36 | [Energetic](https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:09 |
 | 37 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 |
 | 38 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
@@ -91,11 +91,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 81 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
 | 82 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 |
 | 83 | [I Like That](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [INSANE LOVE](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) | 3:41 |
-| 84 | [I Need A Girl \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:39 |
-| 85 | [Hands Up](https://open.spotify.com/track/5RENkTP0he793Basw1Stto) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx) | 3:18 |
+| 84 | [Hands Up](https://open.spotify.com/track/5RENkTP0he793Basw1Stto) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx) | 3:18 |
+| 85 | [I Need A Girl \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:39 |
 | 86 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
-| 87 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 |
-| 88 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
+| 87 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
+| 88 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 |
 | 89 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 |
 | 90 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
 | 91 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 94 | [BERMUDA TRIANGLE](https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [BERMUDA TRIANGLE](https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX) | 3:27 |
 | 95 | [Will You Kiss Me](https://open.spotify.com/track/45qSSH075SHoIV9cSn2wZK) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA) | [Playful Kiss OST](https://open.spotify.com/album/4cBlP0W14X5Jfe8kQw4xGB) | 3:57 |
 | 96 | [History](https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:29 |
-| 97 | [Don't Know You](https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:09 |
-| 98 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
+| 97 | [If You Do](https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk) | 3:30 |
+| 98 | [Don't Know You](https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:09 |
 | 99 | [Hot Summer](https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:45 |
-| 100 | [If You Do](https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk) | 3:30 |
+| 100 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
 
-Snapshot ID: `MCxmOGVlNWQwN2UzOGU3MWU1NzBiYTk2YmQ0ZDUzYjNkZjI2NTkwNjQ2`
+Snapshot ID: `MCw2NDRiMTQzYzQxOWQxZjhkODI4NTQ5MDdmZTBhMmU3ZWNjN2VjMmFj`

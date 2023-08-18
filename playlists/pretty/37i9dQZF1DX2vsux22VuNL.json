@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Hodari, Luedji Luna",
-  "num_followers": 282720,
+  "num_followers": 282740,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDU2ZTU5YWQ3MWZkMTUzZDI5N2Y0MjljZDFiYWNhZGUyYjNkNThm",
+  "snapshot_id": "MCw1ZDIwMjAzZDFlMjA4MWU5NzEwNGFjMTA1M2UzYTAxNzNjYjU0YzAx",
   "tracks": [
     {
       "added_at": "2023-08-16 21:08:15",
@@ -987,18 +987,22 @@
     {
       "added_at": "2023-08-16 21:08:15",
       "album": {
-        "name": "Positiva",
-        "url": "https://open.spotify.com/album/1Jx0BnQVqn5jXMA2LVJzTd"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        },
+        {
+          "name": "NaBuscaDoOuro",
+          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
         }
       ],
-      "duration_ms": 150280,
-      "name": "Positiva",
-      "url": "https://open.spotify.com/track/33U3Gmoy3PzawWRSXujlrk"
+      "duration_ms": 169850,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
     },
     {
       "added_at": "2023-08-16 21:08:15",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2023-08-16 21:08:15",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
+        "name": "Positiva",
+        "url": "https://open.spotify.com/album/1Jx0BnQVqn5jXMA2LVJzTd"
       },
       "artists": [
         {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        },
-        {
-          "name": "NaBuscaDoOuro",
-          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
         }
       ],
-      "duration_ms": 169850,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
+      "duration_ms": 150280,
+      "name": "Positiva",
+      "url": "https://open.spotify.com/track/33U3Gmoy3PzawWRSXujlrk"
     },
     {
       "added_at": "2023-08-16 21:08:15",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-08-16 21:08:15",
       "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2023-08-16 21:08:15",
-      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2023-08-16 21:08:15",
+      "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
     },
     {
       "added_at": "2023-08-16 21:08:15",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-08-16 21:08:15",
       "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2023-08-16 21:08:15",
+      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2023-08-16 21:08:15",
-      "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2023-08-16 21:08:15",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2023-08-16 21:08:15",
       "album": {
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+    },
+    {
+      "added_at": "2023-08-16 21:08:15",
+      "album": {
         "name": "Malandra Treinada",
         "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
       },
@@ -1463,22 +1483,22 @@
     {
       "added_at": "2023-08-16 21:08:15",
       "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
       "artists": [
         {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
         },
         {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         }
       ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2023-08-16 21:08:15",
@@ -1511,26 +1531,6 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
-    },
-    {
-      "added_at": "2023-08-16 21:08:15",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2023-08-16 21:08:15",

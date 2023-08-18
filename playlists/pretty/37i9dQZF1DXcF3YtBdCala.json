@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
-  "num_followers": 127946,
+  "num_followers": 127954,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI4YjEzZTA4NTYzY2VhOWQ4ZjZkMzk1ZGRkZTBlY2JiMDIyNjkx",
+  "snapshot_id": "MCxmODM1MzEwZDgzZTQ5NDg2MjM2YTNhYTcyNDA3Y2NmNzc4OWUwYzc1",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 241466,
       "name": "Si No Es Muy Tarde - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/2VmXYSPm82hQ0xotthshnU"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "No Quer\u00eda Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 241728,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Me Pase de Tragos",
         "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "No Quer\u00eda Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 241728,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Desarmada - Spotify Singles",
         "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 151968,
       "name": "Desarmada - Spotify Singles",
       "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "X Personas Como T\u00fa",
-        "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
-      },
-      "artists": [
-        {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
-        },
-        {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
-        }
-      ],
-      "duration_ms": 173016,
-      "name": "X Personas Como T\u00fa",
-      "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -851,6 +831,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "X Personas Como T\u00fa",
+        "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        },
+        {
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
+        }
+      ],
+      "duration_ms": 173016,
+      "name": "X Personas Como T\u00fa",
+      "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 157280,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -991,18 +991,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
+        "name": "Fumo Y Bebo",
+        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
       },
       "artists": [
         {
           "name": "Pipe Bueno",
           "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pablo Ocampo",
+          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
         }
       ],
-      "duration_ms": 141756,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
+      "duration_ms": 148911,
+      "name": "Fumo Y Bebo",
+      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1043,22 +1047,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Yo No Creo En Los Hombres",
         "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
@@ -1071,6 +1059,22 @@
       "duration_ms": 215893,
       "name": "Yo No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Fumo Y Bebo",
-        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
       },
       "artists": [
         {
           "name": "Pipe Bueno",
           "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Pablo Ocampo",
-          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
         }
       ],
-      "duration_ms": 148911,
-      "name": "Fumo Y Bebo",
-      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
+      "duration_ms": 141756,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 185781,
-      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Soy de Parral",
         "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 205825,
       "name": "Soy de Parral",
       "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Coincidencias",
-        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 181447,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Por Ti Me Abrazar\u00e9",
         "url": "https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 194604,
       "name": "Por Ti Me Abrazar\u00e9",
       "url": "https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Coincidencias",
+        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
     },
     {
       "added_at": "2023-08-04 06:00:00",

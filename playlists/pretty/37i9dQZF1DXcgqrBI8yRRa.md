@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Girls just wanna have funds
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,872 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,892 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 |
+| 1 | [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 |
 | 2 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 | 3 | [Money Good](https://open.spotify.com/track/2I6m7c5IfPR7za6B1im2X7) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:17 |
 | 4 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 44 | [Plenty \(Too Trendy\)](https://open.spotify.com/track/2FjZhlWpuCAnAnTJOfxulV) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Plenty \(Too Trendy\)](https://open.spotify.com/album/6XSJg5zvbDjPydgMetheYE) | 2:47 |
 | 45 | [Business](https://open.spotify.com/track/7eQvy46qkWjEYrlJnlns0D) | [Liza Monet](https://open.spotify.com/artist/2pm7A6x2MssiqbvAox6zXX), [Bilzo](https://open.spotify.com/artist/4uInwINPrpm4RoIL6iyYVy) | [Mother](https://open.spotify.com/album/1LNWHMAB5ouDyaU8sPm0Sv) | 2:54 |
 
-Snapshot ID: `MCw4N2YyNDNiNjkwMzI4NzViZmFhY2JmZjIzNWE1ODNiZTQ3MWExMjIz`
+Snapshot ID: `MCwyZjI1MzY1ODkyYjg5OTE3MGQ2OTZhYWQxNzZkOWM0MDBiMDc1M2Jh`

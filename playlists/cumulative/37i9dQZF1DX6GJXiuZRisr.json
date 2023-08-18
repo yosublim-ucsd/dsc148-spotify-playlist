@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+    },
+    {
+      "album": {
         "name": "Explore Your Future",
         "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
       },
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 220887,
       "name": "Explore Your Future",
       "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
@@ -7024,7 +7042,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 213495,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"

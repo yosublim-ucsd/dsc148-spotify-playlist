@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: IVE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,931 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,229 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 37 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 |
 | 38 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 |
 | 39 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
-| 40 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
-| 41 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 |
+| 40 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 |
+| 41 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
 | 42 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
 | 43 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 | 44 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 49 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 | 50 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 |
 
-Snapshot ID: `MCwyNGJiYzVmOTg2MmZmODNkMmQ4N2MwMWM0ZjFiYWEzMjYyMjY0MDE1`
+Snapshot ID: `MCwxYzRkZTUzMmVhMzc3ZWMxZmFjNmM2YjZmMTRiZDk1MjhjZDNlYmUx`

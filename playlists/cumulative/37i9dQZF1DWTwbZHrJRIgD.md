@@ -4,7 +4,7 @@
 
 > Let these happy tunes put a smile on your face\. Cover \- Jab Harry Met Sejal
 
-142 songs - 8 hr 56 min
+143 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Time Traveller 2](https://open.spotify.com/track/2zfpEisDJgUkJeIIBRQNqV) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2](https://open.spotify.com/album/7CRdG6TtmTLYN4bTcszvCX) | 4:44 | 2023-03-03 | 2023-03-05 |
 | [Tu Hi Hai Sahara](https://open.spotify.com/track/77QBG4tCgN0IzdnB6Ph1fb) | [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu), [Marcus\. M](https://open.spotify.com/artist/25v0JsJOdkuou4Cuxg2eKP) | [Tu Hi Hai Sahara](https://open.spotify.com/album/0RCOmVaAojoRAATxMrPZ9z) | 3:26 | 2023-03-17 | 2023-03-30 |
 | [Tu Mileya](https://open.spotify.com/track/7glqjOAauUoPmOXp2Ovpcf) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tu Mileya](https://open.spotify.com/album/21wYDuEQeG7jvdeMe7S73r) | 3:13 | 2023-05-17 |  |
-| [Tum Hi Ho Bandhu](https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3) | [Beatrice](https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM), [yusha571](https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI) | 4:42 | 2023-07-25 |  |
+| [Tum Hi Ho Bandhu](https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3) | [Beatrice](https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM), [yusha571](https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI) | 4:42 | 2023-07-25 | 2023-08-18 |
+| [Tum Hi Ho Bandhu](https://open.spotify.com/track/0F7SLEIzDQFAMYrC3hDrQg) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 4:43 | 2023-08-08 |  |
 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 | 2022-03-09 | 2023-08-03 |
 | [Tum Mile \- Lofi Flip](https://open.spotify.com/track/1CsRoIeHaHRysPMoEaKRoQ) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Tum Mile \(Lofi Flip\)](https://open.spotify.com/album/3HLuAGbNIeDhx1MlR9auER) | 4:02 | 2022-03-09 |  |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-07-17 | 2023-02-21 |

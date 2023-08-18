@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,461 likes - 280 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,503 likes - 280 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,7 +278,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 268 | [Morning Lagoon](https://open.spotify.com/track/0A3lEajNx703qe1CfnemYt) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/1wUSsU6jCOvPAGpQh9aRUO) | 3:54 |
 | 269 | [Vibração](https://open.spotify.com/track/0A1htQw9Sn33XA1cSqFS7j) | [Hélder Sequeira](https://open.spotify.com/artist/3yp9yOOw145wizsNjq5IdG) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:20 |
 | 270 | [Moonstone Beach](https://open.spotify.com/track/2EqyTHz6iFnmitFW3x1TiG) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Moonstone Beach](https://open.spotify.com/album/5zLFMYGErM2WYAYMbFZLNs) | 3:06 |
-| 271 | [New Awakening](https://open.spotify.com/track/7bDsyH1SX4qJRoHqOq36WO) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Astral Plane](https://open.spotify.com/album/5xNBsj69xWMQgxqVSo6uAC) | 4:44 |
+| 271 | [New Awakening](https://open.spotify.com/track/7bDsyH1SX4qJRoHqOq36WO) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Astral Plane](https://open.spotify.com/album/5xNBsj69xWMQgxqVSo6uAC) | 4:44 |
 | 272 | [Afterlight](https://open.spotify.com/track/5AUHJrmEjIQmILBzNYm9kk) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Afterlight](https://open.spotify.com/album/1c5EcxSFk9Fok943GTAwFn) | 4:26 |
 | 273 | [Orbital](https://open.spotify.com/track/2sqE9z7rJlzV5ZgieeUatU) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Space](https://open.spotify.com/album/7jsqMuym5gtuuEuavy697d) | 2:24 |
 | 274 | [Unleash](https://open.spotify.com/track/1n4ZnOc0Pyzf4zfRWdJ8P1) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Frangibility](https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX) | 3:04 |
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 279 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 |
 | 280 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 |
 
-Snapshot ID: `MCw4MjIxMDc4Y2RjOTg1NjJiZDJiMmU2OTUwYTM2MjJjOTQ1ZTVjZjNi`
+Snapshot ID: `MCxkNWY5ZDViY2I4YmExY2IyNzViNmI1ODVkODY2MzY5NzJhNWRiM2Q2`

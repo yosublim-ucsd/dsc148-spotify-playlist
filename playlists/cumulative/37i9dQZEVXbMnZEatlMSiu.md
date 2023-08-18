@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-691 songs - 1 day 17 hr 30 min
+692 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-09-01 | 2021-09-04 |
 | [BUZZ](https://open.spotify.com/track/4uTZm3WrT4gGWZx77N80gv) | [PANTHEPACK](https://open.spotify.com/artist/3mtw7Fkg8wdXJdub6ZIkJb) | [The Pack](https://open.spotify.com/album/5z8pxdSutKoCU5hcrOznpB) | 3:11 | 2021-09-19 | 2021-09-30 |
 | [BUZZ](https://open.spotify.com/track/7nspsBMHl6ZLmeREoAtjL0) | [PANTHEPACK](https://open.spotify.com/artist/3mtw7Fkg8wdXJdub6ZIkJb) | [BUZZ](https://open.spotify.com/album/6RFr9kc8QUk4UogtWb7aTD) | 3:12 | 2021-09-09 | 2021-09-19 |
-| [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-02 | 2023-08-17 |
+| [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-02 |  |
 | [Can't Control Myself](https://open.spotify.com/track/2TZTpkpnDIKUOfU6riqCfE) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:01 | 2022-02-16 | 2022-03-01 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-18 | 2022-02-17 |
 | [Cazzo](https://open.spotify.com/track/4pJQMN5De2I6ztA5bGZwCL) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:05 | 2021-08-24 | 2021-08-27 |
@@ -271,7 +271,7 @@
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-10-21 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
-| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 |  |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2023-08-18 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-09-18 |
 | [Pull Up](https://open.spotify.com/track/1GMHyFG78bKI2IjUuZaMxm) | [PANTHEPACK](https://open.spotify.com/artist/3mtw7Fkg8wdXJdub6ZIkJb) | [The Pack](https://open.spotify.com/album/5z8pxdSutKoCU5hcrOznpB) | 2:54 | 2021-09-24 | 2021-10-01 |
@@ -404,6 +404,7 @@
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2021-06-04 | 2021-06-10 |
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2021-12-11 | 2021-12-12 |
 | [一念之間](https://open.spotify.com/track/0XEEIG7IVzJUdkCg6taS9d) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:47 | 2023-02-22 |  |
+| [一直都在 \- 《我的麻吉4個鬼》電影主題曲](https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [一直都在 \(《我的麻吉4個鬼》電影主題曲\)](https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a) | 3:41 | 2023-08-17 |  |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-03-01 | 2022-03-26 |
 | [一首歌](https://open.spotify.com/track/2gy0I9WTZh4Xg0DrV6wtFG) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [一首歌](https://open.spotify.com/album/3Z9chypYz0Qqbpk3K7rBtc) | 1:58 | 2023-06-02 | 2023-06-04 |
 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 | 2022-12-29 | 2023-01-24 |
@@ -486,7 +487,7 @@
 | [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2021-06-04 | 2022-12-01 |
 | [失重前幸褔](https://open.spotify.com/track/0NHsxQj4j6gPz8PdRc5KKh) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [失重前幸褔](https://open.spotify.com/album/462ekXKIYZgxtRXMmRcioa) | 3:42 | 2021-03-27\* | 2021-04-15 |
 | [她沒在看我](https://open.spotify.com/track/5QbK5PrR9wbog3M5vVAn2n) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:58 | 2021-03-27\* | 2021-10-27 |
-| [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 | 2021-12-15 |  |
+| [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 | 2021-12-15 | 2023-08-18 |
 | [好心情](https://open.spotify.com/track/6EgON1H8N1DtJQSPYD2nVA) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [Sunny Day 好心情](https://open.spotify.com/album/1l27426A8E0QFaZu670vNo) | 4:54 | 2023-07-07 | 2023-07-09 |
 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-11-09 |  |
 | [如果能幸福 \- HBO Asia原創影集《戒指流浪記》片尾曲](https://open.spotify.com/track/0TVrlU8El0K6U1pC2LOt09) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果能幸福 \(HBO Asia原創影集《戒指流浪記》片尾曲\)](https://open.spotify.com/album/72fDUWj0QsUgA9EoGv2Yoq) | 4:19 | 2021-03-27\* | 2021-08-17 |

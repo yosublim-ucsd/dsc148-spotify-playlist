@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-398 songs - 21 hr 25 min
+399 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Superhero](https://open.spotify.com/track/4tF4f9GwL52a4VruWF5Brp) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Superhero](https://open.spotify.com/album/2H6vrT8YGOtWEZgj0DmJSm) | 2:59 | 2022-07-14 |  |
 | [Superhero](https://open.spotify.com/track/7EYv3adMrIC5mqurz7fHhD) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Superhero](https://open.spotify.com/album/2TKC9e7mRbxOVx1HbgKHR0) | 2:59 | 2022-05-06 | 2022-07-08 |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2022-05-06 |  |
+| [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 | 2023-08-11 |  |
 | [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 | 2023-08-01 | 2023-08-14 |
 | [Take Me Away](https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Take Me Away](https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe) | 3:02 | 2022-05-06 | 2022-07-29 |
 | [Tell Me How to Love](https://open.spotify.com/track/1e4xuwzSRHr6agxwXMEg16) | [Tenebrax](https://open.spotify.com/artist/1qO2kVWrIVuccNvIKXdeMC) | [Reflexia](https://open.spotify.com/album/3TNIy1LFJ7DDhFva73KGDV) | 3:34 | 2022-05-06 | 2022-07-29 |
@@ -357,7 +358,7 @@
 | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 | 2023-03-24 | 2023-08-12 |
 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 | 2023-07-18 | 2023-08-12 |
 | [Turning Down](https://open.spotify.com/track/0QOOmrlptVOHQht9PCRank) | [NOES](https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET), [Evir](https://open.spotify.com/artist/1JhXQJwJ0OkUv7cFl8ojMl), [AKRA](https://open.spotify.com/artist/0U17MNm6v4NSGjWdTuCvfn) | [Turning Down](https://open.spotify.com/album/4ePCKQtkqjixyLLoOfxm9Y) | 3:48 | 2022-05-06 | 2022-07-11 |
-| [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 | 2022-09-23 |  |
+| [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 | 2022-09-23 | 2023-08-18 |
 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 | 2022-06-03 | 2022-09-23 |
 | [U Ok?](https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [U Ok?](https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7) | 2:34 | 2023-05-26 |  |
 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 | 2022-07-14 | 2022-08-25 |

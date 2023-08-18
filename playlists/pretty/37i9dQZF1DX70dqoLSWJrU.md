@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,598 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,692 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 57 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Gentle Is My Love](https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA) | 2:42 |
 | 58 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |
 | 59 | [I'll Drown In My Tears](https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol.5 \(1956\-1958\)](https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI) | 3:11 |
-| 60 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
-| 61 | [I Wish I Knew \- Remastered 2004](https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:59 |
+| 60 | [I Wish I Knew \- Remastered 2004](https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:59 |
+| 61 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
 | 62 | [I Wish I Knew](https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 4:53 |
 | 63 | [I See Your Face Before Me](https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 3:34 |
 | 64 | [If I Knew Then \(What I Know Now\)](https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:33 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 79 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [It's All Over But The Swingin'](https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP) | 4:40 |
 | 80 | [You Won't Be Satisfied \(Until You Break My Heart\) \(with Les Brown & His Orchestra\)](https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Les Brown & His Orchestra](https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 3:04 |
 | 81 | [Just One More Chance \- 1931 Single Version](https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:30 |
-| 82 | [I'm Gonna Laugh You Right Out Of My Life \- Remastered](https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:40 |
-| 83 | [Blues In My Heart](https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Rockin' Chair Lady](https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC) | 3:09 |
+| 82 | [Blues In My Heart](https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Rockin' Chair Lady](https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC) | 3:09 |
+| 83 | [He Was Too Good To Me](https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [When Your Heart's On Fire](https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF) | 3:45 |
 | 84 | [I Won't Cry Anymore](https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Jimmy Carroll Orchestra](https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0) | [Music For Late Hours](https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF) | 3:25 |
-| 85 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
-| 86 | [He Was Too Good To Me](https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [When Your Heart's On Fire](https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF) | 3:45 |
+| 85 | [I'm Gonna Laugh You Right Out Of My Life \- Remastered](https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:40 |
+| 86 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
 | 87 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 88 | [My Old Flame](https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 2:25 |
 | 89 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
 | 100 | [Cry You Out Of My Heart](https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:45 |
 
-Snapshot ID: `MCw2N2IyMmI4OTJhMWY0ZTdmNWNiZTVmNmNkY2M3N2JiMzI2ZDk3NmU0`
+Snapshot ID: `MCwyN2JjNWMyZGIzYjY3N2Q4Yjg4M2E4ODE1NjFiMTVjMDRmOWM1NDg2`

@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 43033,
+  "num_followers": 43089,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTYyZTRjMWIzZmU3ZDBlMGRjZWI0MTZjMGQ5NDU3OWMxNDZmYjkw",
+  "snapshot_id": "MCxiOTRmZTZjYzVhM2Q3OTU4ZWQyNzAxODk1MmQyMjY0NmI3Y2UwMDgx",
   "tracks": [
     {
       "added_at": "2023-08-11 11:29:57",
@@ -711,6 +711,30 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
+        "name": "Contain (In Key)",
+        "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "duration_ms": 488706,
+      "name": "Contain (In Key)",
+      "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
         "name": "Future Falling",
         "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
-        "name": "Contain (In Key)",
-        "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
-      },
-      "artists": [
-        {
-          "name": "Richie Hawtin",
-          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
-        },
-        {
-          "name": "Plastikman",
-          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
-        },
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 488706,
-      "name": "Contain (In Key)",
-      "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
         "name": "Consumed In Key",
         "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 517000,
       "name": "Locomotion (In Key)",
       "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Yellowstone Ambient",
-        "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
+        "name": "Opal",
+        "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
       },
       "artists": [
         {
-          "name": "Airbird",
-          "url": "https://open.spotify.com/artist/2Yk1UXf6iXf0XpMxoKIMDD"
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
         }
       ],
-      "duration_ms": 396152,
-      "name": "Hellroaring Suspension Bridge",
-      "url": "https://open.spotify.com/track/2VZP3a2fFKUok9PMXenZjD"
+      "duration_ms": 164293,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Opal",
-        "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
+        "name": "Yellowstone Ambient",
+        "url": "https://open.spotify.com/album/4hUZot6kLlzNs6K2xewkO4"
       },
       "artists": [
         {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+          "name": "Airbird",
+          "url": "https://open.spotify.com/artist/2Yk1UXf6iXf0XpMxoKIMDD"
         }
       ],
-      "duration_ms": 164293,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
+      "duration_ms": 396152,
+      "name": "Hellroaring Suspension Bridge",
+      "url": "https://open.spotify.com/track/2VZP3a2fFKUok9PMXenZjD"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Martes + Utop\u00eda",
-        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 399893,
-      "name": "Mir",
-      "url": "https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
         "name": "Atlas der Gedanken",
         "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 306122,
       "name": "Sinnessprung",
       "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
+        "name": "Martes + Utop\u00eda",
+        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 399893,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 340974,
-      "name": "Tan\u00df",
-      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
         "name": "Cast Remixes Part III",
         "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 340974,
+      "name": "Tan\u00df",
+      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1383,42 +1383,6 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "26 Lives",
-        "url": "https://open.spotify.com/album/1XLewxeVY3pxFc7x05CzVa"
-      },
-      "artists": [
-        {
-          "name": "Powell",
-          "url": "https://open.spotify.com/artist/6jeKkBjseBOCCmqBvnhSkt"
-        },
-        {
-          "name": "London Contemporary Orchestra",
-          "url": "https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M"
-        }
-      ],
-      "duration_ms": 158377,
-      "name": "13, 12",
-      "url": "https://open.spotify.com/track/6mBYv5Tq39G0Ry9gJ8GDCj"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
-        "name": "a journey...",
-        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
         "name": "Night Journeys III",
         "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
@@ -1451,6 +1415,42 @@
       "duration_ms": 596250,
       "name": "Earthship",
       "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
+        "name": "a journey...",
+        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
+        "name": "26 Lives",
+        "url": "https://open.spotify.com/album/1XLewxeVY3pxFc7x05CzVa"
+      },
+      "artists": [
+        {
+          "name": "Powell",
+          "url": "https://open.spotify.com/artist/6jeKkBjseBOCCmqBvnhSkt"
+        },
+        {
+          "name": "London Contemporary Orchestra",
+          "url": "https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M"
+        }
+      ],
+      "duration_ms": 158377,
+      "name": "13, 12",
+      "url": "https://open.spotify.com/track/6mBYv5Tq39G0Ry9gJ8GDCj"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Information - EP",
-        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
-      },
-      "artists": [
-        {
-          "name": "Synkro",
-          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
-        }
-      ],
-      "duration_ms": 447847,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
         "name": "Bluet",
         "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 291096,
       "name": "Bluet",
       "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+      },
+      "artists": [
+        {
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+        }
+      ],
+      "duration_ms": 330673,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1655,30 +1655,6 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Hypertext",
-        "url": "https://open.spotify.com/album/5BVwbpPSALHaFKEDL7LEdi"
-      },
-      "artists": [
-        {
-          "name": "Recent Arts",
-          "url": "https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc"
-        },
-        {
-          "name": "Tobias Freund",
-          "url": "https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX"
-        },
-        {
-          "name": "Valentina Berthelon",
-          "url": "https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW"
-        }
-      ],
-      "duration_ms": 370440,
-      "name": "Automat",
-      "url": "https://open.spotify.com/track/5s0QV9wD1BdWaroVgLDiKo"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
         "name": "L'attente",
         "url": "https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi"
       },
@@ -1691,22 +1667,6 @@
       "duration_ms": 326362,
       "name": "Apparences",
       "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
-    },
-    {
-      "added_at": "2023-08-11 11:29:57",
-      "album": {
-        "name": "Information - EP",
-        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
-      },
-      "artists": [
-        {
-          "name": "Synkro",
-          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
-        }
-      ],
-      "duration_ms": 330673,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1731,18 +1691,58 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Struktura Revisited",
-        "url": "https://open.spotify.com/album/5GMshq1ntV5Be9nZ4Jqby0"
+        "name": "Hypertext",
+        "url": "https://open.spotify.com/album/5BVwbpPSALHaFKEDL7LEdi"
       },
       "artists": [
         {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+          "name": "Recent Arts",
+          "url": "https://open.spotify.com/artist/6YTikqXTOc9mvsgv2wOiYc"
+        },
+        {
+          "name": "Tobias Freund",
+          "url": "https://open.spotify.com/artist/2IMuk5pFLxBMzcEAZcfleX"
+        },
+        {
+          "name": "Valentina Berthelon",
+          "url": "https://open.spotify.com/artist/2r6y7E3nFNHvxmIoIlenzW"
         }
       ],
-      "duration_ms": 296000,
-      "name": "The Earthbound Fox",
-      "url": "https://open.spotify.com/track/6Tp1E7yuE0KfRYpm9cRf2l"
+      "duration_ms": 370440,
+      "name": "Automat",
+      "url": "https://open.spotify.com/track/5s0QV9wD1BdWaroVgLDiKo"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+      },
+      "artists": [
+        {
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+        }
+      ],
+      "duration_ms": 447847,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
+    },
+    {
+      "added_at": "2023-08-11 11:29:57",
+      "album": {
+        "name": "Martes + Utop\u00eda",
+        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/0EtJr0s6hot51xSgQ2ZBxI"
     },
     {
       "added_at": "2023-08-11 11:29:57",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2023-08-11 11:29:57",
       "album": {
-        "name": "Martes + Utop\u00eda",
-        "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
+        "name": "Struktura Revisited",
+        "url": "https://open.spotify.com/album/5GMshq1ntV5Be9nZ4Jqby0"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
         }
       ],
-      "duration_ms": 283760,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/0EtJr0s6hot51xSgQ2ZBxI"
+      "duration_ms": 296000,
+      "name": "The Earthbound Fox",
+      "url": "https://open.spotify.com/track/6Tp1E7yuE0KfRYpm9cRf2l"
     }
   ],
   "unique_name": "Electronic X",

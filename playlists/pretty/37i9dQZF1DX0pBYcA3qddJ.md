@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,049 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,060 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 67 | [Murmuration](https://open.spotify.com/track/2VQVj1SJLHofQFC4JlueAl) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Murmuration](https://open.spotify.com/album/2ne5G2WYk0dXwwYvqi7vJq) | 3:39 |
 | 68 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
 | 69 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 |
-| 70 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
+| 70 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 71 | [Pavane pour une infante defunte, M\. 19](https://open.spotify.com/track/4R1pw35BzFFybVYw7eUIDM) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Ravel: Pavane pour une infante défunte, M\. 19 \(Musical Moments\)](https://open.spotify.com/album/26ZWP985OgZiDrNE84oGar) | 6:29 |
 | 72 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 73 | [私を呼んだ 夏の空のような \- feat\. 兼松衆, 須原杏, 関口将史](https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq) | [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [兼松衆](https://open.spotify.com/artist/6I0MFT1X63HMJuIEDedAdf), [須原杏](https://open.spotify.com/artist/0ekqoA1GGFwC9lalszdIJR), [関口将史](https://open.spotify.com/artist/5Q5qAs7kOYA3gloFl5gAzs) | [私を呼んだ 夏の空のような \(feat\. 兼松衆, 須原杏, 関口将史\)](https://open.spotify.com/album/7k9LWhjXNPB6g2Q1cRU2Im) | 4:39 |
-| 74 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 74 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
 | 75 | [far away place](https://open.spotify.com/track/164DPhlZ73VjdlU68zFxzJ) | [Pablo Haiku](https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt) | [Pablo Haiku](https://open.spotify.com/album/6EgN9TDbeDlf3wN5um9P4r) | 2:40 |
 | 76 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 77 | [Variations Concertantes, Op\. 17](https://open.spotify.com/track/6WneainaytyKYXAgHyKTz4) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [久末 航](https://open.spotify.com/artist/4F682tC1bLChNJpYReJL78) | [Mendelssohn: Variations Concertantes, Op\. 17](https://open.spotify.com/album/38QqAYKcPRnpQiTXtBBBsz) | 9:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Beethoven: Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX) | 5:23 |
 | 100 | [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 |
 
-Snapshot ID: `MCxiMTE4N2E2YjNkYmQ1Mzg0ODA5NzI1ZDIxMGZjYjYzMTI0YWJlOWIz`
+Snapshot ID: `MCxkMTQ3OGIyOWUxYWM3MDExNDVhMmU5NWIyYTc0MTAzMDQxNDA5MWY1`

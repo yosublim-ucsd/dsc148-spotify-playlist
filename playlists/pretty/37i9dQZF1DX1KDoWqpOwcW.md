@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,779 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,798 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 98 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
 | 99 | [Pegao / Me Miro y La Mire \- TikTok Hit](https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Pegao / Me Miro y La Mire \(TikTok Hit\)](https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz) | 3:36 |
 | 100 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 |
-| 101 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
-| 102 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
+| 101 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
+| 102 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
 | 103 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 104 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 |
 | 105 | [La Colegiala](https://open.spotify.com/track/6Ds2mSfCcXskyuUcKnh5kK) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L), [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Leyenda](https://open.spotify.com/album/4adY26jTGV09nyL11n5bil) | 4:08 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [El Toro Viejo \- Huapango](https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:52 |
 | 125 | [La Sacamos Del Estadio](https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:25 |
 
-Snapshot ID: `MCw5NDI3YzE5MDdkMDAwMWE0NTE4NTc5NWMxZjllZjgyYzA0ZTYwYjgw`
+Snapshot ID: `MCwyYzJjOWNhMDVlNDNhNTE2YzZhNDM0M2RmYTE3YzEzYmMyYThhNDM3`

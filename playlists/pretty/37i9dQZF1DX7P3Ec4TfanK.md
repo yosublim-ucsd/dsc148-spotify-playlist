@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,512 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,530 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 36 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
 | 37 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
 | 38 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
-| 39 | [Fragole](https://open.spotify.com/track/4Js31maTathTS2flQOQr2c) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Fragole](https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ) | 3:29 |
-| 40 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
+| 39 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
+| 40 | [Fragole](https://open.spotify.com/track/4Js31maTathTS2flQOQr2c) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Fragole](https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ) | 3:29 |
 | 41 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
-| 42 | [Un Briciolo Di Allegria \(con MINA\)](https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:27 |
-| 43 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
+| 42 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
+| 43 | [Un Briciolo Di Allegria \(con MINA\)](https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:27 |
 | 44 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 45 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
 | 46 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 79 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 |
 | 80 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
 
-Snapshot ID: `MCw0ODg2ZGMzZTA5YzMxM2VhNGI4NDhmZGYwMTI0ZTNmMThmZjQwODFh`
+Snapshot ID: `MCwyNTRkYjRjOTA5MjlkOWIwMTFhZjdiNGU3NDM0ZmNmNGZhMTM1YTll`

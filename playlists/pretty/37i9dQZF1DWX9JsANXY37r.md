@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,182 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,210 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 40 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 |
 | 41 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
 | 42 | [attention](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 |
-| 43 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
-| 44 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 |
+| 43 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 |
+| 44 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
 | 45 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
 | 46 | [I Wish I Missed My Ex](https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:23 |
 | 47 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [Easy](https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 3:20 |
 | 60 | [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 |
 
-Snapshot ID: `MCxhNDZiNDgxMTUyOTQyMTkzNzRmZGVlYzRkZWE2MjAxOGI5OWFkNzI2`
+Snapshot ID: `MCwzYzdlN2QxMDA4MjM3ZGNhNmVkNTRiNjIwNGRkZTk1ZmE3OGEwYzhk`

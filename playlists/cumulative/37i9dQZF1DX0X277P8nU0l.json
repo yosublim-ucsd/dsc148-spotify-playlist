@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "As Pr\u00f3prias",
+        "url": "https://open.spotify.com/album/2zZYrq3CG38VCaPcw4nexA"
+      },
+      "artists": [
+        {
+          "name": "Bossacucanova",
+          "url": "https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW"
+        },
+        {
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        },
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144896,
+      "name": "A Bossa \u00e9 Cuca Nova",
+      "url": "https://open.spotify.com/track/172Z2U5yabNbrxY9AArzy5"
+    },
+    {
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -118,6 +148,24 @@
       "duration_ms": 219833,
       "name": "Astrology Poisoning",
       "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "album": {
@@ -626,7 +674,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 214182,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr"
@@ -1114,7 +1162,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 145275,
       "name": "late night thoughts",
       "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
@@ -1215,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Bettye Swann",
+        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "Little Things Mean A Lot",
+      "url": "https://open.spotify.com/track/221XgJXCVkZ1ERPyfO3OlO"
+    },
+    {
+      "album": {
         "name": "Bill LaBounty",
         "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
       },
@@ -1252,6 +1318,28 @@
       "duration_ms": 175400,
       "name": "LOST IN SPACE",
       "url": "https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E"
+    },
+    {
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232056,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw"
     },
     {
       "album": {
@@ -1455,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "peanut butter",
+        "url": "https://open.spotify.com/album/3tWrgOY80POwFvOrmbeS8t"
+      },
+      "artists": [
+        {
+          "name": "Jude Todd",
+          "url": "https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "peanut butter - stripped",
+      "url": "https://open.spotify.com/track/49QepkimWyBVatAvHHAzQ0"
+    },
+    {
+      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -1546,7 +1652,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 297306,
       "name": "Place In My Heart",
       "url": "https://open.spotify.com/track/4ClvCYyyljs7oHfvDdcvFX"
@@ -1658,7 +1764,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185813,
       "name": "Restless Heart",
       "url": "https://open.spotify.com/track/1mhnGQK4fRlAJBcrftDlwV"
@@ -1818,7 +1924,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 240449,
       "name": "Skylight (with Zeeba)",
       "url": "https://open.spotify.com/track/6N2MzhCp2fvu7sJhSaHFnw"

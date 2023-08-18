@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 137499,
+  "num_followers": 137588,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm",
+  "snapshot_id": "MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Merle Travis Story",
-        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Roy Acuff",
         "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 174106,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Merle Travis Story",
+        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 155160,
       "name": "The Shot-Gun Boogie",
       "url": "https://open.spotify.com/track/6tuSry6Ttn4qiyCFTa3XPl"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
-      },
-      "artists": [
-        {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses - 78 rpm Version",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
         "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 161933,
       "name": "I Love You So Much It Hurts",
       "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+      },
+      "artists": [
+        {
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Candy Kisses - 78 rpm Version",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Merle Travis Story",
-        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 135933,
-      "name": "Divorce Me C.O.D.",
-      "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Presenting Patsy Montana",
         "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 174053,
       "name": "My Poncho Pony",
       "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Merle Travis Story",
+        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 135933,
+      "name": "Divorce Me C.O.D.",
+      "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Texarkana Baby",
-      "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 167826,
       "name": "Take an Old Cold 'Tater (and Wait)",
       "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Texarkana Baby",
+      "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
     },
     {
       "added_at": "2023-01-02 21:50:32",

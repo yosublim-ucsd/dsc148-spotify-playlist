@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un'estate presa bene \u2600\ufe0f",
-  "num_followers": 17570,
+  "num_followers": 17646,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmI2MWNlZjc4YTg2YTJlNzQ5ZDg2NmVjNDVhOTFkYzVjMWE2YjBj",
+  "snapshot_id": "MCwzYWY0YWFkYzIxNDgzZThkMTI3ZGUzN2Q5ODkzMjlhNzRjNDJmNjRh",
   "tracks": [
     {
       "added_at": "2023-08-10 09:09:41",
@@ -519,38 +519,6 @@
     {
       "added_at": "2023-08-10 09:09:41",
       "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
-      "added_at": "2023-08-10 09:09:41",
-      "album": {
-        "name": "Giorno libero",
-        "url": "https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU"
-      },
-      "artists": [
-        {
-          "name": "Delicatoni",
-          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
-        }
-      ],
-      "duration_ms": 207698,
-      "name": "Giorno libero",
-      "url": "https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7"
-    },
-    {
-      "added_at": "2023-08-10 09:09:41",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -571,6 +539,38 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "added_at": "2023-08-10 09:09:41",
+      "album": {
+        "name": "Giorno libero",
+        "url": "https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "duration_ms": 207698,
+      "name": "Giorno libero",
+      "url": "https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7"
+    },
+    {
+      "added_at": "2023-08-10 09:09:41",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2023-08-10 09:09:41",

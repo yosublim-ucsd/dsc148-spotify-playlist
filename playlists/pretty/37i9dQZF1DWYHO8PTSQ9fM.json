@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : DYSTINCT",
-  "num_followers": 329702,
+  "num_followers": 330330,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmRkNjllMzA3NjA2MmVkMGUzYmQwZTFmYTc2NTMwOTlhNGUyMzRm",
+  "snapshot_id": "MCwyZGZiNjQyMjZjZDI5ZTlmMzg0Mzc2YWFlMjU1Njc1MWY3MTFlOGJk",
   "tracks": [
     {
       "added_at": "2023-08-14 12:56:27",
@@ -275,6 +275,26 @@
     {
       "added_at": "2023-08-14 12:56:27",
       "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 259627,
+      "name": "Se Grita",
+      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "added_at": "2023-08-14 12:56:27",
+      "album": {
         "name": "DARBA 9ADIYA",
         "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
       },
@@ -331,26 +351,6 @@
     {
       "added_at": "2023-08-14 12:56:27",
       "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 191615,
-      "name": "Ojos Sin Ver",
-      "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
-    },
-    {
-      "added_at": "2023-08-14 12:56:27",
-      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
       },
@@ -371,6 +371,26 @@
     {
       "added_at": "2023-08-14 12:56:27",
       "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 191615,
+      "name": "Ojos Sin Ver",
+      "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
+    },
+    {
+      "added_at": "2023-08-14 12:56:27",
+      "album": {
         "name": "Son Style",
         "url": "https://open.spotify.com/album/7sctJwnx2aH1WiiWqid10U"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 131535,
       "name": "Son Style",
       "url": "https://open.spotify.com/track/4UY9CCwEvBplRAM2p6gSGk"
-    },
-    {
-      "added_at": "2023-08-14 12:56:27",
-      "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 259627,
-      "name": "Se Grita",
-      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
     },
     {
       "added_at": "2023-08-14 12:56:27",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-08-14 12:56:27",
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "added_at": "2023-08-14 12:56:27",
+      "album": {
         "name": "Ind\u00e9pendance",
         "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 200106,
       "name": "La street",
       "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
-    },
-    {
-      "added_at": "2023-08-14 12:56:27",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Mentalit\u00e9",
-      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
     },
     {
       "added_at": "2023-08-14 12:56:27",
@@ -663,26 +663,6 @@
       "duration_ms": 238939,
       "name": "00:00",
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
-    },
-    {
-      "added_at": "2023-08-14 12:56:27",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "UNAVAILABLE (feat. Musa Keys)",
-      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
       "added_at": "2023-08-14 12:56:27",

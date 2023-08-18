@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-296 songs - 15 hr 23 min
+297 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [To All The Boys I’ve Loved Before](https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [To All The Boys I’ve Loved Before](https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2) | 3:08 | 2022-01-21 | 2022-09-24 |
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2022-01-21 | 2022-09-24 |
 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 | 2021-11-25 |  |
-| [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-02 |  |
+| [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 | 2023-08-04 |  |
+| [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-02 | 2023-08-18 |
 | [unbreak ur heart](https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [unbreak ur heart](https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt) | 3:23 | 2022-10-28 | 2023-05-05 |
 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-06-30 |  |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2022-01-21 | 2022-09-24 |

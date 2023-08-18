@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 96629,
+  "num_followers": 96767,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGViNjlkZWUzNTZjMzMyY2Y0NzE1ZDM0MGMwN2YwN2VkODI5YzM3",
+  "snapshot_id": "MCw5MWM0ZjQ0OGY3NWQ0MTRhN2I5NzdhOWFjMTIyOWU5ZjMzNTgzZDdh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:58:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Let Me Be",
-      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "That's All Right (Mama) - the Fire Sessions",
         "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 133293,
       "name": "The Moon is Rising",
       "url": "https://open.spotify.com/track/736frSQjibzIkMg2byvPoW"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Good Luck Man",
         "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Driftin' Blues (Live)",
-        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
-      },
-      "artists": [
-        {
-          "name": "Charles Brown",
-          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Driftin' Blues - Live",
-      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 223800,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Driftin' Blues (Live)",
+        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Driftin' Blues - Live",
+      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Major League Blues",
-        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
-      },
-      "artists": [
-        {
-          "name": "Jose Ramirez",
-          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Here in the Delta",
-      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Someday You'll Have These Blues",
-        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
+        "name": "Major League Blues",
+        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
       },
       "artists": [
         {
-          "name": "Phillip Walker",
-          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
+          "name": "Jose Ramirez",
+          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
         }
       ],
-      "duration_ms": 247040,
-      "name": "Beaumont Blues",
-      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
+      "duration_ms": 320000,
+      "name": "Here in the Delta",
+      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1107,6 +1091,22 @@
       "duration_ms": 294595,
       "name": "Hoodoo Man",
       "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Someday You'll Have These Blues",
+        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
+      },
+      "artists": [
+        {
+          "name": "Phillip Walker",
+          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Beaumont Blues",
+      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
     },
     {
       "added_at": "2023-06-09 14:58:01",

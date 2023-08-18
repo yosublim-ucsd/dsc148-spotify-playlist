@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=gwz0e1ZRSK\-Xp\_kajrYT\-A">Loufi</a> & <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=t37Hl\_ASTdWeFOa2L0Uebw">Francois van Coke</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY?si=45WvUFO9R5G2H8\_5yJFU8w">Aya Nixon</a>
 
-317 songs - 18 hr 55 min
+318 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Melissa](https://open.spotify.com/track/4pKk804FhBSKWQudzb3EV4) | [Zebra](https://open.spotify.com/artist/4uYxKWbZsXrwg0h4zEmOf4) | [Melissa](https://open.spotify.com/album/6v4eNc39wqE4HyayIIjnpg) | 3:25 | 2023-05-25 | 2023-08-12 |
 | [Michelle](https://open.spotify.com/track/1QxazQmnrfG3tiKGp8mHlZ) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Michelle](https://open.spotify.com/album/5Ukb8khXf7sJbNfvbTdi1o) | 3:45 | 2023-06-22 |  |
 | [Midnight Man](https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Midnight Man](https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL) | 3:06 | 2023-02-02 | 2023-03-18 |
-| [Millions of Us \- Part 2](https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Millions of Us](https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA) | 5:14 | 2023-06-01 |  |
+| [Millions of Us \- Part 2](https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Millions of Us](https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA) | 5:14 | 2023-06-01 | 2023-08-18 |
 | [Missing You](https://open.spotify.com/track/6EC17BieM7VV6brgDbTjVq) | [Taking Back March](https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq) | [Missing You](https://open.spotify.com/album/1IOR4boDTAKJ9zUFoElhon) | 2:29 | 2023-06-22 |  |
 | [Moeg](https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Moeg](https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr) | 3:56 | 2023-08-04 |  |
 | [Momentum](https://open.spotify.com/track/1PLdMFrVv6cCT9MrQneTMN) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:27 | 2022-09-22 | 2023-02-17 |
@@ -272,6 +272,7 @@
 | [Sugar](https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI) | [Hellcats](https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8) | [Sugar](https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ) | 2:57 | 2022-07-28 | 2022-09-16 |
 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 | 2022-12-15 | 2023-04-28 |
 | [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 | 2022-08-04 | 2023-02-10 |
+| [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 | 2023-08-17 |  |
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 | 2022-03-25 |
 | [Synesthesia](https://open.spotify.com/track/0hBQalBDzf9sjhvXpQUqEh) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Synesthesia](https://open.spotify.com/album/2HM59GCBORsw7BUQAkY3S0) | 3:53 | 2023-06-22 |  |
 | [Taste of Freedom](https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Taste of Freedom](https://open.spotify.com/album/6meVX62WRMvgdkhmStMLIL) | 3:52 | 2023-03-16 | 2023-05-26 |

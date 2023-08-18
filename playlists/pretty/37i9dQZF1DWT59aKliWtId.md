@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,116 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,142 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 37 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |
 | 38 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 39 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 |
-| 40 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 |
+| 40 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 |
 | 41 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 |
 | 42 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
 | 43 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 119 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 120 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCxhN2RmYTc0ZTIwYzY0MzdhOWMwOGRlN2I0MTRkYWU0YmVmYmVkNzlj`
+Snapshot ID: `MCxmMTc2OTMyMDg5ZmEzMjhjY2E0NzAyMTlkMDQ5M2RiZGEwOTQwZGI4`

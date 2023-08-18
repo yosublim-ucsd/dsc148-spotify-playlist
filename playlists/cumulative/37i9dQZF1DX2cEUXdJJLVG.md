@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-264 songs - 15 hr 57 min
+265 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-09-09 | 2022-09-30 |
 | [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 | 2022-09-29 | 2023-04-21 |
 | [Kalimba Funk](https://open.spotify.com/track/3U4dLD0OE4wqNyzy9YpeXX) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Kalimba Funk](https://open.spotify.com/album/5YipQowOuOOuqOpu6kiP1r) | 2:25 | 2022-09-09 | 2022-10-15 |
+| [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 |  |
 | [Keep on Fighting](https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Shake the Disease](https://open.spotify.com/album/57twqWd03Wu5OmvHDHgC3A) | 3:10 | 2022-09-09 |  |
 | [Keep On Keeping On](https://open.spotify.com/track/3RP2TFLoKXTMMakw20blEC) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Keep On Keeping On](https://open.spotify.com/album/5oyweRUoRLOYTYO9UDfw1J) | 3:06 | 2023-04-06 |  |
 | [Keep on Stepping](https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Keep on Stepping](https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS) | 3:22 | 2023-02-16 |  |

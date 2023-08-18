@@ -4,10 +4,11 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-73 songs - 4 hr 51 min
+75 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Bossa for Love](https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Smile For Me](https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK) | 3:30 | 2023-08-17 |  |
 | [A Little Brighter Every Day](https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Little Brighter Every Day](https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp) | 3:17 | 2023-05-11 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2023-05-11 |  |
 | [Brisa](https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Amalgama](https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN) | 6:24 | 2023-05-11 |  |
@@ -51,6 +52,7 @@
 | [O Amor é Complicado](https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Amore e Complicado](https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ) | 3:34 | 2023-05-11 |  |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 | 2023-05-11 |  |
 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 | 2023-05-11 |  |
+| [On My Mind](https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Letters in the Sand](https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv) | 4:19 | 2023-08-17 |  |
 | [Once Again \(feat\. Laurindo Almeida\)](https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk) | [Stan Getz With Guest Artist Laurindo Almeida](https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9) | 6:42 | 2023-05-11 |  |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2023-05-11 |  |
 | [Once I Loved](https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U) | [Logan Perez Trio](https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw) | [Once I Loved](https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP) | 7:14 | 2023-05-11 |  |

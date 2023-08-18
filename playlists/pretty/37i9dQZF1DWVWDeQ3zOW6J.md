@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,982 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,010 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 13 | [Fuego En El 23](https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv), [Luigui Gomez](https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Fuego en el 23!](https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt) | 4:44 |
 | 14 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 |
 | 15 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
-| 16 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
-| 17 | [Incomprendido](https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 2:56 |
+| 16 | [Incomprendido](https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 2:56 |
+| 17 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
 | 18 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 19 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 20 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [Agua Que Va A Caer](https://open.spotify.com/track/417oy2mvDKzeiDFdTORBSJ) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ), [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma) | [La Quiniela del Día](https://open.spotify.com/album/6rFq3pKoKjFSkxigEd7Smw) | 5:04 |
 | 60 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
 
-Snapshot ID: `MCw0NDZmNmY2YmM1ZGU5OGUwYzgyNDNlYWE3MGNmMzE4MmM3YTZkYTFh`
+Snapshot ID: `MCw5YWRjMTBiOGVlOWYzYmNlYzM3ZTk2ZGNlNDNlNWIxMWRlNTU1OWU3`

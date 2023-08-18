@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-167 songs - 7 hr 30 min
+168 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [LIGHTS XFF](https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LIGHTS XFF](https://open.spotify.com/album/285Vwbiv1lPB5hjFHUra02) | 2:20 | 2022-10-10 |  |
 | [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 |  |
 | [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 |  |
-| [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 |  |
+| [Lost Orion](https://open.spotify.com/track/3arscwcDkbfPtFUBXVVmt6) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/1D7xOjPYBLdkSnJzkQQSGf) | 3:06 | 2023-03-10 |  |
+| [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 | 2023-08-18 |
 | [Lunar](https://open.spotify.com/track/2OQ38YnV9PdxugWt8PHdSV) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Lunar](https://open.spotify.com/album/1z58kSS94g0DKLVZzMtwEM) | 2:41 | 2023-03-10 |  |
 | [Lxve](https://open.spotify.com/track/6VlP7dD900vqTtL31OrwBd) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [Lxve](https://open.spotify.com/album/6QcnBfg7bNYyeo1ARkenbb) | 2:06 | 2023-01-13 |  |
 | [LXVE TXWN](https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LXVE TXWN](https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm) | 2:38 | 2022-10-10 |  |

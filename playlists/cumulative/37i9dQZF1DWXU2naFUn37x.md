@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Solo il meglio dello street rap italiano\. Cover: Mikush, Niky Savage
+> Solo il meglio dello street rap italiano\. Cover: Slings, Guè
 
-339 songs - 15 hr 43 min
+340 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [CAPODANNO](https://open.spotify.com/track/7rhdU3PIZo35dLJmaBtiDQ) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [CAPODANNO](https://open.spotify.com/album/11FvNBgdHScK30coi04fop) | 2:16 | 2022-07-21 | 2022-08-05 |
 | [Caramba](https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Caramba](https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1) | 3:03 | 2022-05-11 | 2022-05-27 |
 | [Cartier \#1](https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Cartier \#1](https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D) | 2:37 | 2022-09-08 | 2023-01-13 |
+| [Casablanca \(feat\. Morad\)](https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:34 | 2023-08-17 |  |
 | [CC BÉBÉ](https://open.spotify.com/track/7afJp7m2tpNGMkpqF6gmpd) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [CC BÉBÉ](https://open.spotify.com/album/35TYvx8jmwIH4wFnQKytxs) | 2:38 | 2022-12-15 | 2023-01-13 |
 | [Cella 3](https://open.spotify.com/track/0VkRsiJbqTffovcsUYQBFA) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 2:23 | 2022-06-16 | 2022-12-02 |
 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 | 2023-05-25 |  |
@@ -173,7 +174,7 @@
 | [La Famiglia \(feat\. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, Néza & Nabi\)](https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 5:09 | 2022-07-28 | 2023-02-17 |
 | [La Famiglia \(feat\. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, Néza & Nabi\)](https://open.spotify.com/track/4fuCi43DogsknVxQtVpnx0) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 5:09 | 2022-06-09 | 2022-07-29 |
 | [La frappe](https://open.spotify.com/track/1jWcKHWj89EdYllfpVvops) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [La frappe](https://open.spotify.com/album/1yzeZKSK0huK56Xa1G5q7T) | 2:54 | 2022-12-15 | 2023-01-27 |
-| [LA MULA](https://open.spotify.com/track/5WcctLfufHRiiAJsH946my) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Vaporstef](https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz) | [LA MULA](https://open.spotify.com/album/42ufgZbCgIlSqTpqJCRxPd) | 2:16 | 2023-07-27 |  |
+| [LA MULA](https://open.spotify.com/track/5WcctLfufHRiiAJsH946my) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Vaporstef](https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz) | [LA MULA](https://open.spotify.com/album/42ufgZbCgIlSqTpqJCRxPd) | 2:16 | 2023-07-27 | 2023-08-18 |
 | [La scelta migliore](https://open.spotify.com/track/5kcBjDdqmDMKb58wyrkO7D) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [La scelta migliore](https://open.spotify.com/album/6EShO7rLEYaShAM9Vomj6d) | 2:16 | 2023-01-19 | 2023-02-10 |
 | [Lacrime \(feat\. Zeta Cooper\) \[Dèsolè RMX\]](https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Zeta Cooper](https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs) | [Lacrime \(feat\. Zeta Cooper\) \[Dèsolè RMX\]](https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD) | 3:42 | 2023-03-02 | 2023-05-12 |
 | [Lakers](https://open.spotify.com/track/2TrImm2A5atWdBUasb0wvt) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Lakers](https://open.spotify.com/album/4IuIiqKlLvLRBgiIZFN3OS) | 2:32 | 2023-08-03 |  |

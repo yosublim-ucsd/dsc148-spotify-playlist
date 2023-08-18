@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,129,352 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,129,969 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
 | 100 | [Antes Que al Mío](https://open.spotify.com/track/69VfaraLe5onolFj90bgyj) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Camino a Encontrarte \(Edición Especial\)](https://open.spotify.com/album/25WLz1zNyzbXZnAMFZXpKW) | 3:01 |
 
-Snapshot ID: `MCwzYjE1MWJkMzZiYTNmY2QzNmVlNzc2NDI0ODJhOWNjZWU1NTUyMWEz`
+Snapshot ID: `MCxmMTE2MDIxYWQxY2NhYzg4ODhmZTY1NjI4NDFlN2EzZDBiNGQ5ZmZh`

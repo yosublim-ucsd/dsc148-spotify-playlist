@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKXQ4mDTEBXq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,134 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,626 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKXQ4mDTEBXq.md) - [plain]
 | 5 | [美しい鰭](https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:31 |
 | 6 | [青と夏](https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 4:30 |
 | 7 | [Magic](https://open.spotify.com/track/170XOP1T4MvY9TLTgPw07D) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:23 |
-| 8 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
-| 9 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
+| 8 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
+| 9 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
 | 10 | [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 |
 | 11 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 12 | [Subtitle](https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV) | 5:05 |
@@ -29,34 +29,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKXQ4mDTEBXq.md) - [plain]
 | 19 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 20 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 |
 | 21 | [Tattoo](https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Tattoo](https://open.spotify.com/album/07hAM6iu7A39wR2zwfaoCL) | 4:48 |
-| 22 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
-| 23 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 |
-| 24 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 |
-| 25 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
-| 26 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
-| 27 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
-| 28 | [Soranji](https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 5:43 |
+| 22 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 |
+| 23 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 |
+| 24 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
+| 25 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
+| 26 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
+| 27 | [Soranji](https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 5:43 |
+| 28 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
 | 29 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 30 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 |
 | 31 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 |
 | 32 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 33 | [Cinderella Boy](https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Lazy Sunday](https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3) | 3:54 |
-| 34 | [KIMINOMAMA](https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 2:57 |
-| 35 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
-| 36 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 |
-| 37 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
-| 38 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 |
-| 39 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
-| 40 | [水平線](https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:48 |
-| 41 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 |
+| 34 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 35 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 |
+| 36 | [KIMINOMAMA](https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 2:57 |
+| 37 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
+| 38 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
+| 39 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 |
+| 40 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 |
+| 41 | [水平線](https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:48 |
 | 42 | [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 |
-| 43 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
-| 44 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
-| 45 | [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 |
-| 46 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 |
+| 43 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 |
+| 44 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
+| 45 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
+| 46 | [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 |
 | 47 | [愛とか恋とか](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Assort](https://open.spotify.com/album/12cXi1i1cgTVe27Rb122kZ) | 3:52 |
 | 48 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
 | 49 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 50 | [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 |
 
-Snapshot ID: `NzQ1NTQ5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ1NjM2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 
 > All 90s, all ballads\. Cover: Whitney Houston
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,310 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,453 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 | 34 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
 | 35 | [Now And Forever](https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Paid Vacation](https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx) | 3:34 |
 | 36 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
-| 37 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
-| 38 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
+| 37 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
+| 38 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
 | 39 | [From This Moment On \- Pop On\-Tour Version](https://open.spotify.com/track/0vswnzoKvhNkT1ehc0Tt19) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 3:55 |
 | 40 | [Save The Best For Last](https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Comfort Zone](https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV) | 3:38 |
 | 41 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 | 49 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
 | 50 | [Angels](https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Angels](https://open.spotify.com/album/15lwLTwByJddohg3GvxICy) | 4:25 |
 
-Snapshot ID: `MCxiOThjNjdmODRlMTkxYWIxN2YzNGFhZDA1Nzc4N2JjN2QyZGJkMWZj`
+Snapshot ID: `MCxhZmI2OTM3ODQ1YWRmZWJhNDBjYmJkNTg4Y2UwZjZhMGJhYjAwMjRi`

@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-397 songs - 23 hr 46 min
+401 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 |  |
 | [But Beautiful](https://open.spotify.com/track/544ppWBvwxnRrUW5xEeFib) | [Noah Haidu](https://open.spotify.com/artist/3RxXFxN0EPStw5Lzp8PgeB) | [Slowly: Song For Keith Jarrett](https://open.spotify.com/album/3ao4V8JWq7202kLaRI8cF5) | 9:51 | 2022-05-17 | 2022-09-15 |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-05-17 |  |
+| [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 |  |
 | [Calm Seas Ahead](https://open.spotify.com/track/2K9uglBf8vJoTcIP4sapyr) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Calm Seas Ahead](https://open.spotify.com/album/3O9zTrL5NB7xexJ7Mh7SMC) | 2:27 | 2023-04-20 |  |
 | [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
 | [Casual](https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Casual](https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL) | 3:40 | 2022-08-29 |  |
@@ -73,6 +74,7 @@
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2022-12-22 |  |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-05-17 | 2023-03-03 |
 | [Confusion](https://open.spotify.com/track/1sfrJ2DKdKEjDccAxJR3be) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Confusion](https://open.spotify.com/album/4sejLrOmf7ooG9OK3y9sHm) | 3:09 | 2023-06-22 |  |
+| [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 |  |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 |  |
 | [Cycles](https://open.spotify.com/track/3GaxNr64IWzj9FUhheY28E) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Cycles](https://open.spotify.com/album/7eP8ZPsn9f3GnR61fsIVji) | 3:40 | 2023-03-23 | 2023-04-14 |
@@ -179,6 +181,7 @@
 | [Land Between the Lakes](https://open.spotify.com/track/6lFwLd1nlzrdVIAlB5goJo) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Land Between the Lakes](https://open.spotify.com/album/1TZMHVgskfAiGskycdSipZ) | 2:43 | 2023-04-13 |  |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 | 2023-03-03 |
+| [Late Bagatelle](https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Late Bagatelle](https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW) | 3:59 | 2023-08-17 |  |
 | [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-02-23 |  |
 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-04-27 |  |
 | [Lesters's Tears](https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lesters's Tears](https://open.spotify.com/album/4QV6IWuWigFnh8XXrPyMRX) | 3:52 | 2023-05-11 |  |
@@ -401,6 +404,7 @@
 | [You Left With My Heart Still Yours](https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [You Left With My Heart Still Yours](https://open.spotify.com/album/6FQD3HAuYzw4DnuQpChF6j) | 2:24 | 2022-05-17 | 2023-03-10 |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-02 |  |
+| [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 |  |
 | [Young And Foolish](https://open.spotify.com/track/4n2ZSKL2Kv0yxihsYo4pkg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Young And Foolish](https://open.spotify.com/album/7x3GBRQYeoQcbhSfM6npCV) | 3:35 | 2023-03-30 |  |
 | [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-16 |  |
 | [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-02-23 |  |

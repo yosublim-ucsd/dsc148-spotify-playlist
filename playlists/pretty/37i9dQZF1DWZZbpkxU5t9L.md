@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,217 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,270 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [おひとりさま天国](https://open.spotify.com/track/22e9NP0TRCFhOGsgBnl6Ua) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [おひとりさま天国](https://open.spotify.com/album/2427q8y1vly3VSy6Wfos3K) | 4:15 |
 | 50 | [Himawari](https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Himawari](https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9) | 4:19 |
 
-Snapshot ID: `MCw1NGM4MDY2OGY3YTZhZjI0N2NjZGQyYTMyYWM4NjUyNzQwMDk3YzE3`
+Snapshot ID: `MCw5NzAyNDA0YTNmOWVjZWM0ZmI0NmYyZGI3MmFhZjc3NTYzN2U3YWUx`

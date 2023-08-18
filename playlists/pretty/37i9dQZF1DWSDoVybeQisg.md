@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,710 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,984 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 14 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 |
 | 15 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
 | 16 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
-| 17 | [Mr\. Soul](https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield Again](https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7) | 2:52 |
-| 18 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
+| 17 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
+| 18 | [Mr\. Soul](https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield Again](https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7) | 2:52 |
 | 19 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 20 | [Venus In Furs](https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 5:12 |
 | 21 | [Five to One](https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 4:24 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 24 | [Sunshine Superman](https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 3:15 |
 | 25 | [In\-A\-Gadda\-Da\-Vida \- Single Version](https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Light and Heavy/The Best of...](https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X) | 2:53 |
 | 26 | [Psychotic Reaction](https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 3:05 |
-| 27 | [The Good Mr\. Square](https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 1:26 |
-| 28 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 |
+| 27 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 |
+| 28 | [The Good Mr\. Square](https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 1:26 |
 | 29 | [My Back Pages](https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Younger Than Yesterday](https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1) | 3:08 |
 | 30 | [The Pusher](https://open.spotify.com/track/29HbMTL672MugzhklYvStz) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:52 |
 | 31 | [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 38 | [No Quarter \- Remaster](https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Mothership \(Remastered\)](https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh) | 7:02 |
 | 39 | [The Four Horsemen](https://open.spotify.com/track/5FgQkEcqMXCqFdcsEx143b) | [Aphrodite's Child](https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8) | [6 6 6](https://open.spotify.com/album/2lWDphDAlgk8PNdODreJwv) | 5:53 |
 | 40 | [I Need a Man to Love](https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:53 |
-| 41 | [Over Under Sideways Down \- The Mono Album](https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 2:22 |
-| 42 | [Her Eyes Are a Blue Million Miles](https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:57 |
+| 41 | [Her Eyes Are a Blue Million Miles](https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:57 |
+| 42 | [Over Under Sideways Down \- The Mono Album](https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 2:22 |
 | 43 | [Comin' Back to Me](https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 5:15 |
 | 44 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 5:12 |
 | 45 | [Child in Time](https://open.spotify.com/track/5TrfusgKC1BYic5LaWCoKm) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 10:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [Lazy Sunday \(Stereo Version\) \(2018 Remaster\)](https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Ogdens' Nut Gone Flake \- 50th Anniversary Edition \(2018 Remaster\)](https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS) | 3:05 |
 | 75 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 
-Snapshot ID: `MCxiZmNmZmRjZWJiYjExMGUzZTJmMDA1OTI2NWY5NTg5ODA0NjAzYTlh`
+Snapshot ID: `MCxjYWFlMThjMDVkYTA1ODUzNjczYjMxM2Q2YTFhN2EyN2E3MzZlZDE3`

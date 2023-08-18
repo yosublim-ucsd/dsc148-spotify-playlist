@@ -5,6 +5,50 @@
   "tracks": [
     {
       "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
+        "name": "7 Seconds",
+        "url": "https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        {
+          "name": "Pape Diouf",
+          "url": "https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315380,
+      "name": "7 Seconds",
+      "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
+    },
+    {
+      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
@@ -16,7 +60,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
@@ -250,7 +294,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 208000,
       "name": "Ay Como Hago",
       "url": "https://open.spotify.com/track/1LzzlgJHyBuP5TdnOmgFkY"
@@ -298,7 +342,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 420000,
       "name": "Before",
       "url": "https://open.spotify.com/track/0J6sIxiH8kg1gIhIX1nihQ"
@@ -499,6 +543,28 @@
     },
     {
       "album": {
+        "name": "El Vento",
+        "url": "https://open.spotify.com/album/5yfhtpnsttHCYXYNeZ4XBV"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "El Vento",
+      "url": "https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY"
+    },
+    {
+      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
       },
@@ -510,7 +576,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 381639,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
@@ -800,7 +866,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 324000,
       "name": "Initio",
       "url": "https://open.spotify.com/track/0NfTsHY1lwjMrtVnT6rf6W"
@@ -914,7 +980,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 423870,
       "name": "L'ame",
       "url": "https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU"
@@ -950,7 +1016,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 357220,
       "name": "Latlal",
       "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
@@ -1022,7 +1088,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 347804,
       "name": "Love",
       "url": "https://open.spotify.com/track/5k8XGEzhljUnTorL5xN04x"
@@ -1044,7 +1110,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 218360,
       "name": "Madan",
       "url": "https://open.spotify.com/track/6WnGITNOKFXawCwqnFuYbW"
@@ -1140,10 +1206,28 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 384092,
       "name": "Merhamet",
       "url": "https://open.spotify.com/track/75dhZ7AfOq4QNFDuiHjMDA"
+    },
+    {
+      "album": {
+        "name": "Metaverso",
+        "url": "https://open.spotify.com/album/24BIvUt5lchwwfQaCj88xw"
+      },
+      "artists": [
+        {
+          "name": "Band&dos",
+          "url": "https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378536,
+      "name": "Metaverso",
+      "url": "https://open.spotify.com/track/6OZ9UCnglmt004K6OyZ5zS"
     },
     {
       "album": {
@@ -1166,6 +1250,32 @@
       "duration_ms": 368542,
       "name": "Miombo - Sam Shure Cowbell Dub",
       "url": "https://open.spotify.com/track/06Y7RRtGrgIKc7pKSJJ8oh"
+    },
+    {
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/1U16ItaIb8azbG8sdOHhUo"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "Bass Fly",
+          "url": "https://open.spotify.com/artist/1LuYsLLkjgXDSuq5bPbfZJ"
+        },
+        {
+          "name": "Kate Yvorra",
+          "url": "https://open.spotify.com/artist/1gf114j9X3aRFf9ZqDhDto"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/75WqikxuauMp0htqRbDaqE"
     },
     {
       "album": {
@@ -1214,7 +1324,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 277073,
       "name": "Morena",
       "url": "https://open.spotify.com/track/13hPKoBriB6yPSqPvbRd6A"
@@ -1258,10 +1368,36 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 375493,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/4uLcna2HHwVvCobsOYBVas"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/3yq44RWcSWDcbRfUbkUN89"
+      },
+      "artists": [
+        {
+          "name": "AV\u00d6",
+          "url": "https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb"
+        },
+        {
+          "name": "Syon",
+          "url": "https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE"
+        },
+        {
+          "name": "QT-HIGH",
+          "url": "https://open.spotify.com/artist/4NO2QKQ3zchF7KVU0a5cXo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1qPCJzivpvvmDK6sMCvvPK"
     },
     {
       "album": {
@@ -1280,7 +1416,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 409150,
       "name": "Osama",
       "url": "https://open.spotify.com/track/0T0FIfA0AI3ELwNVBSZNS3"
@@ -1335,6 +1471,32 @@
     },
     {
       "album": {
+        "name": "Povoada (Remix)",
+        "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257747,
+      "name": "Povoada - Remix",
+      "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
+    },
+    {
+      "album": {
         "name": "Premier Gaou (Nitefreak Remix)",
         "url": "https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c"
       },
@@ -1354,10 +1516,28 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 222295,
       "name": "Premier Gaou - Nitefreak Remix",
       "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
+    },
+    {
+      "album": {
+        "name": "Rafat Rafat",
+        "url": "https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Rafat Rafat",
+      "url": "https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql"
     },
     {
       "album": {
@@ -1446,10 +1626,36 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 420025,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/0IyZ6gCFUyGs3zP2ItaTo1"
+    },
+    {
+      "album": {
+        "name": "Selva (Radio Edit)",
+        "url": "https://open.spotify.com/album/0PdgVrRAaTNA2X1SIOiW6B"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        },
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        },
+        {
+          "name": "Vitu Valera",
+          "url": "https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239508,
+      "name": "Selva - Radio Edit",
+      "url": "https://open.spotify.com/track/5y8ZbmOusst4tXPtl329f4"
     },
     {
       "album": {
@@ -1686,7 +1892,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 438000,
       "name": "Tango Bar - Alvaro Suarez Remix",
       "url": "https://open.spotify.com/track/5t93cE5V3JELqsgXeBVoKG"
@@ -1760,7 +1966,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 407213,
       "name": "Tataouine - Dandara Remix",
       "url": "https://open.spotify.com/track/0HCOeWLP9DVquwQSnRPZtW"
@@ -2122,7 +2328,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 372000,
       "name": "Ya Albi",
       "url": "https://open.spotify.com/track/28H69jrYqYi7uTY0xr9Jjj"
@@ -2254,6 +2460,46 @@
       "duration_ms": 381720,
       "name": "Yumi",
       "url": "https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5"
+    },
+    {
+      "album": {
+        "name": "YUMS",
+        "url": "https://open.spotify.com/album/0pwJHzUVHYJAEAe2dsw1mQ"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209508,
+      "name": "YUMS",
+      "url": "https://open.spotify.com/track/1X3ZKQcMApOa5GZE4jtTZ3"
+    },
+    {
+      "album": {
+        "name": "Zaman",
+        "url": "https://open.spotify.com/album/00cKNtxmJ6xdQue5uZ9Peo"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398571,
+      "name": "Zaman",
+      "url": "https://open.spotify.com/track/7BLeCvppiINVHR1R11tLiQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3uM1d8KwMtp"

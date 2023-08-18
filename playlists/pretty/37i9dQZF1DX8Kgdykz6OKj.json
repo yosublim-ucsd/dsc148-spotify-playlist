@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1157930,
+  "num_followers": 1158407,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDNiYzNjZTcxOGQ0NjMxNGZkZWMxZGFlMzlmNWVlYjU1MmExZDZm",
+  "snapshot_id": "MCw0N2JjYTFkNmE1YmY3MzdkM2U1OTkwZjQ2NzI2MzMyNWI1YmE2MGFk",
   "tracks": [
     {
       "added_at": "2023-08-10 22:00:00",
@@ -443,30 +443,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Dear Annie",
-        "url": "https://open.spotify.com/album/0zjfO1k7RSkLnJz9AeEORl"
-      },
-      "artists": [
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Egyptian Luvr",
-      "url": "https://open.spotify.com/track/78DC9wd9Qrikw4jWllFAvM"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 353346,
       "name": "Children Of The Internet - Ezra Collective Remix",
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Dear Annie",
+        "url": "https://open.spotify.com/album/0zjfO1k7RSkLnJz9AeEORl"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Egyptian Luvr",
+      "url": "https://open.spotify.com/track/78DC9wd9Qrikw4jWllFAvM"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Buhloone Mindstate",
-        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 255008,
-      "name": "Breakadawn",
-      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Guapanese",
         "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 144140,
       "name": "Guapanese",
       "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Buhloone Mindstate",
+        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 255008,
+      "name": "Breakadawn",
+      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -699,34 +699,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Pedro Retro",
-          "url": "https://open.spotify.com/artist/3uzJ5cTjLIpYB3iBvwesfP"
-        },
-        {
-          "name": "Meron T",
-          "url": "https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb"
-        },
-        {
-          "name": "Asher Kosher",
-          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
-        },
-        {
-          "name": "Paya",
-          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -767,18 +751,34 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
       "artists": [
         {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Pedro Retro",
+          "url": "https://open.spotify.com/artist/3uzJ5cTjLIpYB3iBvwesfP"
+        },
+        {
+          "name": "Meron T",
+          "url": "https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Paya",
+          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+      "duration_ms": 226933,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
         "name": "Late Night Link",
         "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 194545,
       "name": "Late Night Link",
       "url": "https://open.spotify.com/track/1xa2CuAx4iD2tVq2SNlQG6"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 276252,
-      "name": "Organic Rust",
-      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Win",
-        "url": "https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf"
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 235554,
-      "name": "Win",
-      "url": "https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY"
+      "duration_ms": 276252,
+      "name": "Organic Rust",
+      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 131000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 235554,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1803,18 +1803,22 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Funkin' Around",
-        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
+        "name": "Fonografie",
+        "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
       },
       "artists": [
         {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
         }
       ],
-      "duration_ms": 106933,
-      "name": "Funkin' Around",
-      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
+      "duration_ms": 199640,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1839,22 +1843,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Fonografie",
-        "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
+        "name": "Funkin' Around",
+        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
       },
       "artists": [
         {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
-        },
-        {
-          "name": "Isatta Sheriff",
-          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Laid Back",
-      "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
+      "duration_ms": 106933,
+      "name": "Funkin' Around",
+      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1987,22 +1987,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Close Distance",
-        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
+        "name": "Every Eye",
+        "url": "https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ"
       },
       "artists": [
         {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
         }
       ],
-      "duration_ms": 162813,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/2AsKMzGCLp5tZvrX0zzLlR"
+      "duration_ms": 195066,
+      "name": "Running Shoes",
+      "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
     }
   ],
   "unique_name": "Jazz Rap",

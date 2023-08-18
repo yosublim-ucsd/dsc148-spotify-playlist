@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 314126,
+  "num_followers": 314312,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWFkNTg5NDdiOTEwNDAyNjUwMTg3YWIwZWZjNGVlNjlkODNlMjJk",
+  "snapshot_id": "MCw4OTQ5Y2JiMDcxMGQ4YzdlZTA1Y2QzMjY4N2YyZTNhZDc0Y2E4Yzhi",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Donna - Single Version",
-      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+      "duration_ms": 150973,
+      "name": "Donna - Single Version",
+      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -407,6 +391,22 @@
       "duration_ms": 134560,
       "name": "Love Letters In The Sand - Single Version",
       "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Songs For Young Lovers",
-        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "My Funny Valentine - Remastered",
-      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 136626,
       "name": "Who's Sorry Now",
       "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Songs For Young Lovers",
+        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "My Funny Valentine - Remastered",
+      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "In The Wee Small Hours",
-        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
-      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 150893,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "In The Wee Small Hours",
+        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
+      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 168906,
       "name": "Don't",
       "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Command Performance",
-        "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 127706,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/3FzkbFgVGdg4zqyCMzUPM7"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Frankie Avalon",
         "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 144483,
       "name": "Venus",
       "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Command Performance",
+        "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 127706,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3FzkbFgVGdg4zqyCMzUPM7"
     },
     {
       "added_at": "2022-05-30 12:59:00",

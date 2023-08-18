@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,418 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,431 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 34 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
 | 35 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 |
 | 36 | [Mercy \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 4:13 |
-| 37 | [Queen Of Me \- Spotify Singles](https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:35 |
-| 38 | [Love Someone \(feat\. Sabina Ddumba\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Spotify Singles](https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU) | 3:28 |
-| 39 | [I Feel It Coming \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB) | 4:03 |
+| 37 | [Love Someone \(feat\. Sabina Ddumba\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Spotify Singles](https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU) | 3:28 |
+| 38 | [I Feel It Coming \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB) | 4:03 |
+| 39 | [Queen Of Me \- Spotify Singles](https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:35 |
 | 40 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 3:54 |
 | 41 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 |
 | 42 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 | 70 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MCxmMWZiZmU2OGVhNmU4NWY4M2M1MzkzNjk0MjNkZWZkNmFjNjI5YzU2`
+Snapshot ID: `MCxhOWM5M2Y5ODE5NWIyNGQ5OTlhNGI5MjI4MmM1OTNlYTQzMTg2ZjBj`

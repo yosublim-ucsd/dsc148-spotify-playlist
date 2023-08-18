@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,933 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,071 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 44 | [Black Treacle](https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:37 |
 | 45 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
 | 46 | [I Would Do Anything for You](https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:34 |
-| 47 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
+| 47 | [Towers](https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 3:08 |
 | 48 | [Taken for a Fool](https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:23 |
-| 49 | [Towers](https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 3:08 |
+| 49 | [Post Break\-Up Sex](https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
 | 50 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 51 | [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK) | 3:48 |
 | 52 | [Kill Your Heroes](https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:58 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 70 | [Helplessness Blues](https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 5:03 |
 | 71 | [Seven Devils](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:03 |
 | 72 | [TenTwentyTen](https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [ActorCaster](https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB) | 3:22 |
-| 73 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
-| 74 | [It's Real](https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Days](https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb) | 2:48 |
+| 73 | [It's Real](https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Days](https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb) | 2:48 |
+| 74 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 75 | [You Know What I Mean](https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 2:30 |
 | 76 | [Black \(feat\. Norah Jones\)](https://open.spotify.com/track/5H43dazn2x2O9dkDVvaiDS) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Rome](https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A) | 3:31 |
 | 77 | [Montezuma](https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 3:36 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 95 | [East Harlem](https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 3:58 |
 | 96 | [Bizness](https://open.spotify.com/track/08oSPuXfichvi5VRAaewbV) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos) | 4:23 |
 | 97 | [Landfill](https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:23 |
-| 98 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
-| 99 | [Naked Kids](https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:30 |
+| 98 | [Naked Kids](https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:30 |
+| 99 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
 | 100 | [Space Is Only Noise If You Can See](https://open.spotify.com/track/5zdXRoKLZ54VBdbdn7yhz4) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Space Is Only Noise](https://open.spotify.com/album/6h1AzRdT3rTjT5wRMgjYvh) | 5:42 |
 
-Snapshot ID: `MCw1N2ExMWU2ODA1ZWYzMDJhMWI2MjhjNDZkOWFmODc2NDNhYjVhOGUy`
+Snapshot ID: `MCxmYzkxMTJjZTQwMGZlM2FiNWY4OTdlZGYyMjVmN2IwNzc1M2QyMzRj`

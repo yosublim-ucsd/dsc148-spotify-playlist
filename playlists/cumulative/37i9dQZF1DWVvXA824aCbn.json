@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "All Of The Little Things I Know",
+        "url": "https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "All Of The Little Things I Know",
+      "url": "https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO"
+    },
+    {
+      "album": {
         "name": "All the Stars",
         "url": "https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV"
       },
@@ -1065,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Blue Moonshine",
+        "url": "https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193330,
+      "name": "Blue Moonshine",
+      "url": "https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu"
+    },
+    {
+      "album": {
         "name": "Blue Notes in the Afternoon",
         "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
       },
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 223654,
       "name": "Blue Quarter",
       "url": "https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G"
@@ -1634,7 +1670,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 261061,
       "name": "Dreamsville",
       "url": "https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV"
@@ -4419,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "Midnight Serenade",
+        "url": "https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh"
+      },
+      "artists": [
+        {
+          "name": "Anita Rosswell",
+          "url": "https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259173,
+      "name": "Midnight Serenade",
+      "url": "https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh"
+    },
+    {
+      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD"
       },
@@ -4942,7 +4996,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185346,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP"

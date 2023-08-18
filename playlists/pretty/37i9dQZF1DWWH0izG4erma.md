@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS! Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,350 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,831 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 |
 | 100 | [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 |
 
-Snapshot ID: `MCwyNjY3YzZkMTNlOGEyMGZiNTFiZjExN2NkOWJjNzViNzFmMjkwZDc1`
+Snapshot ID: `MCxkNzE5Nzk2M2FlYTQ1NWJhYzhjMDIyNzMyYTc3NmNhNGI3NTIxN2M3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,861 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,993 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,24 +19,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 9 | [Caricias Prohibidas](https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb) | 5:21 |
 | 10 | [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 |
 | 11 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
-| 12 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
+| 12 | [Hazme Olvidarla](https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos Vol\. 2](https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ) | 5:37 |
 | 13 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
-| 14 | [Hazme Olvidarla](https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos Vol\. 2](https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ) | 5:37 |
+| 14 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 | 15 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 |
 | 16 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
 | 17 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 |
 | 18 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
-| 19 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
-| 20 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
-| 21 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
+| 19 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
+| 20 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
+| 21 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
 | 22 | [Punta a Punta](https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM) | 4:21 |
 | 23 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
 | 24 | [Me Fallaste](https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Platino: Eddie Santiago](https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s) | 5:03 |
 | 25 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 26 | [Trampolín](https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:21 |
-| 27 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
-| 28 | [Si Supieras](https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 5:11 |
-| 29 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [El Original Y Unico](https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU) | 6:16 |
+| 27 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [El Original Y Unico](https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU) | 6:16 |
+| 28 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
+| 29 | [Si Supieras](https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 5:11 |
 | 30 | [Tú No Le Amas Le Temes](https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:26 |
 | 31 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
 | 32 | [Y Nos Amamos](https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 74 | [Esa Mujer](https://open.spotify.com/track/6Hy15JctLui5HYK03s5oT6) | [Alex Leon](https://open.spotify.com/artist/5psRZB6rHWyHpsIiJUUX7r) | [Exitos de Alex Leon](https://open.spotify.com/album/7cKeslZWAgVWOsHAXpGhfs) | 4:45 |
 | 75 | [Aventura](https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:36 |
 
-Snapshot ID: `MCw3MjM2YTU4ZTFjMzY2YmU0ZWQyODc0YWE2NmZhZGY5YjUzODljMmRk`
+Snapshot ID: `MCwzZjc5Njc5YmQxNmI4ZjA3YTZhNDUxYmIxMjhmOTU5NTBjZTc5N2Q5`

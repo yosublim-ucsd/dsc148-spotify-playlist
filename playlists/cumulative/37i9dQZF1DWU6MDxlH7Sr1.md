@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-275 songs - 17 hr 56 min
+276 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-04-26 |  |
+| [I’m on break](https://open.spotify.com/track/0jfJ3aLp2fGnPRMbd4Se26) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [I’m on break](https://open.spotify.com/album/4dbCv4JQcIKYHDQDkaCcjm) | 2:39 | 2023-08-17 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-06 |  |
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-01 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/5d8SK0Qq6S7vxfU85zHnrI) | [D\. Brubeck](https://open.spotify.com/artist/0HQ501eKb3lNaFMNDRbxHd), [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [THE MUSIC OF AMERICA: Inventing Jazz \- Dave Brubeck](https://open.spotify.com/album/0tFNTTbxmknMMpOheMzfTP) | 4:50 | 2022-11-10 | 2022-11-13 |

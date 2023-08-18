@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 499281,
+  "num_followers": 499447,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzllMTY2NDdiYjQ1Yzg4YWQ2MTFhYTc3YWIxYThlNGQ3ZGMyZDM5",
+  "snapshot_id": "MCw4YjlkMThjOWZlNDYxNTRmODEzNjhhNDQ4MWEwZjFlYWU2Y2EzNWY3",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Eliades",
+          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Mary Glenn",
         "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
       },
@@ -2171,6 +2187,22 @@
       "duration_ms": 322478,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 179783,
+      "name": "Change Your Mind - Stripped",
+      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2191,38 +2223,6 @@
       "duration_ms": 181812,
       "name": "Super",
       "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 179783,
-      "name": "Change Your Mind - Stripped",
-      "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2325,22 +2325,6 @@
       "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Accidentally On Purpose",
-        "url": "https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti"
-      },
-      "artists": [
-        {
-          "name": "The Shires",
-          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "World Without You",
-      "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
-    },
-    {
       "added_at": "2023-04-21 12:01:04",
       "album": {
         "name": "Teach",
@@ -2355,6 +2339,22 @@
       "duration_ms": 175774,
       "name": "Teach",
       "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Accidentally On Purpose",
+        "url": "https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti"
+      },
+      "artists": [
+        {
+          "name": "The Shires",
+          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "World Without You",
+      "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
     },
     {
       "added_at": "2023-02-10 11:00:00",

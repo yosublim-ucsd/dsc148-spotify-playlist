@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: AMARNI",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: KAHUKX",
   "name": "Local Hype",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 123243,
       "name": "2 STEP",
       "url": "https://open.spotify.com/track/5kjAcTZuwCFQD5Fm6nCp8M"
@@ -492,6 +492,32 @@
       "duration_ms": 126413,
       "name": "Baby & Baby",
       "url": "https://open.spotify.com/track/1lNvWNg8GGbhEcPMRWrIBO"
+    },
+    {
+      "album": {
+        "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+        "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208938,
+      "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+      "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
     },
     {
       "album": {
@@ -1679,6 +1705,28 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4YuGKWQ2EBIMkYHWNFZhOs"
+      },
+      "artists": [
+        {
+          "name": "AJORDI",
+          "url": "https://open.spotify.com/artist/2BP81zVUPupYbmIjisNU0l"
+        },
+        {
+          "name": "Hummzz",
+          "url": "https://open.spotify.com/artist/0LJmtY3YzD7ijg4C4gj26n"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/4uztmuf8KLgD8nWNK63WJV"
+    },
+    {
+      "album": {
         "name": "COFFIN (with YNG Martyr) - Phonk Version",
         "url": "https://open.spotify.com/album/3A7jrP3tkxalJNVG60Z91E"
       },
@@ -1782,7 +1830,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 198518,
       "name": "COMMA'S",
       "url": "https://open.spotify.com/track/74yRaIwxJyrrb6gl2KyF5H"
@@ -1986,7 +2034,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 155040,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/3PvTeXRn3F1C0GWIGuTms7"
@@ -2786,6 +2834,32 @@
       "duration_ms": 138461,
       "name": "Eshgo",
       "url": "https://open.spotify.com/track/0Bi1AmiADQykvGBtEjTLuK"
+    },
+    {
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/2kt7aza3Eq8xLih6e8lL4C"
+      },
+      "artists": [
+        {
+          "name": "Miggy",
+          "url": "https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu"
+        },
+        {
+          "name": "Jaecy",
+          "url": "https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee"
+        },
+        {
+          "name": "Raf Receipt",
+          "url": "https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/3vCOvH3YuzL6OpoO2Nzuti"
     },
     {
       "album": {
@@ -4172,7 +4246,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 133111,
       "name": "HoodBars Mrvz",
       "url": "https://open.spotify.com/track/63sz4ES91zSvNpnOvLNB7E"
@@ -4458,7 +4532,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -4682,7 +4756,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 218263,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1WLnrtosGz1hY2L6ZwcpkM"
@@ -4962,6 +5036,24 @@
       "duration_ms": 255104,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1eMevZk9dPrdy4hWdFeRXR"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/2liLgcDI4yWUYPQasZjlEL"
+      },
+      "artists": [
+        {
+          "name": "Jalmar",
+          "url": "https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Led Zeppelin",
+      "url": "https://open.spotify.com/track/5fVwIgwwa2f25OMq4luuGr"
     },
     {
       "album": {
@@ -5870,7 +5962,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 158160,
       "name": "Money Making",
       "url": "https://open.spotify.com/track/5ZeVwooCDvIJzYZABdG8su"
@@ -6102,7 +6194,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 113757,
       "name": "mudboy",
       "url": "https://open.spotify.com/track/0DLMRXisEWpqGauuDdOwx5"
@@ -6168,6 +6260,28 @@
       "duration_ms": 162178,
       "name": "Need it",
       "url": "https://open.spotify.com/track/5xi9havTvE7ELg0U5O5GsQ"
+    },
+    {
+      "album": {
+        "name": "New Age Dreaming",
+        "url": "https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI"
+      },
+      "artists": [
+        {
+          "name": "Moss",
+          "url": "https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6"
+        },
+        {
+          "name": "The Boy Of Many Colors",
+          "url": "https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "New Age Dreaming",
+      "url": "https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq"
     },
     {
       "album": {
@@ -6740,7 +6854,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 195789,
       "name": "Ol\u00e9 (feat. JR)",
       "url": "https://open.spotify.com/track/0Dr73kq5xFgDesc1v1dDTn"
@@ -7059,6 +7173,28 @@
     },
     {
       "album": {
+        "name": "pack-a-punch",
+        "url": "https://open.spotify.com/album/24d5tGfqYMhIZlhTwL6H3j"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        },
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "pack-a-punch",
+      "url": "https://open.spotify.com/track/5uDAM1qbQSPwT8fUInBbGS"
+    },
+    {
+      "album": {
         "name": "Paid Our Dues",
         "url": "https://open.spotify.com/album/4vcPSEIWa5yuAqL983EalS"
       },
@@ -7136,7 +7272,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 166400,
       "name": "Patient",
       "url": "https://open.spotify.com/track/2icvjZpjtAj5PzSKwoSyHi"
@@ -7878,7 +8014,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 203125,
       "name": "RUMOURS",
       "url": "https://open.spotify.com/track/7nMKFLHD6PrCFkOzz2uaxv"
@@ -8637,6 +8773,24 @@
     },
     {
       "album": {
+        "name": "STARGAZING",
+        "url": "https://open.spotify.com/album/4DzFlutgVcuBtfHrY66Ieb"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178305,
+      "name": "STARGAZING",
+      "url": "https://open.spotify.com/track/3j9p8mytLdqHSYcGIkGYuq"
+    },
+    {
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/71E26CGhROyl6RCXpathME"
       },
@@ -8992,7 +9146,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 156000,
       "name": "TELL ME HOW",
       "url": "https://open.spotify.com/track/5qTj33yVvAA1EXmh0cKEML"
@@ -9090,7 +9244,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 200599,
       "name": "The Truman Show",
       "url": "https://open.spotify.com/track/0JQn4oNFTMLVXRCbTL7K4t"
@@ -9126,7 +9280,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 103478,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/6zl3bw7xfe7yIZVMuPmQRg"
@@ -9532,7 +9686,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 213600,
       "name": "Tramp",
       "url": "https://open.spotify.com/track/1gZNaS8fF7yaDFWAXfNEIl"
@@ -9598,7 +9752,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 164000,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/6T0u3Q5QdpNOahp4WoGIU6"
@@ -10122,7 +10276,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 208000,
       "name": "WE HERE NOW",
       "url": "https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166"
@@ -10184,6 +10338,32 @@
       "duration_ms": 188566,
       "name": "We Them Kids",
       "url": "https://open.spotify.com/track/3ptu0v9nT3IkP7i0o1NLQ4"
+    },
+    {
+      "album": {
+        "name": "WEH!",
+        "url": "https://open.spotify.com/album/0a1zBKAXkTUovBxJQaj03u"
+      },
+      "artists": [
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm"
+        },
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        },
+        {
+          "name": "deadforest",
+          "url": "https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "WEH!",
+      "url": "https://open.spotify.com/track/2qiHk1ydm9zXtnIvY9rKXa"
     },
     {
       "album": {
@@ -10508,7 +10688,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 148497,
       "name": "Y.F.S",
       "url": "https://open.spotify.com/track/29Q12mmRY6wLCIn3NfKv2I"

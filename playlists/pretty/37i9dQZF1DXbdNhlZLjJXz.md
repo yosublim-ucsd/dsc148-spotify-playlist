@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 
 > leggings, walking pads, water tumblers \- that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,380 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,697 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 11 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 |
 | 12 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 |
 | 13 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
-| 14 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 |
-| 15 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
+| 14 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
+| 15 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 |
 | 16 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 17 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 |
 | 18 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 20 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 21 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 | 22 | [Style](https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
-| 23 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
-| 24 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
-| 25 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 |
+| 23 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 |
+| 24 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
+| 25 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
 | 26 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 27 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 |
 | 28 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 49 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
 | 50 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 
-Snapshot ID: `MCxmYWNmOTU2NThmOTcxMjAzOTA0NzM0ODg0NTI2NDBkYjc0MTA0YmZk`
+Snapshot ID: `MCw0ZWZmYzIxZjljOTljMjA3YzZhNmM1NDMwYzQyMmNkNzBlNjg0MzZh`

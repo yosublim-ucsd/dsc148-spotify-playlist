@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,195 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,186 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 14 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 15 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 16 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
-| 17 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
+| 17 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
 | 18 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
-| 19 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
+| 19 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
 | 20 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 |
 | 21 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 22 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 |
-| 23 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
+| 23 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 24 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
-| 25 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
-| 26 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
-| 27 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
-| 28 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
+| 25 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
+| 26 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 27 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
+| 28 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 29 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 | 30 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
 | 31 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 38 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
 | 39 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
 | 40 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
-| 41 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
-| 42 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
+| 41 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
+| 42 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
 | 43 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 44 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 | 45 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 99 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 |
 | 100 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 |
 
-Snapshot ID: `MCw0NmEyNjhlNjM2NDFhYzhhY2JjMWVmY2M5ZTRlNGU2YzY5ODY2ZjY4`
+Snapshot ID: `MCxlYTIxMzMxOGZlM2ZkZmE5MzUzNTE5M2VjNjY3ZWIxOTdkOTM1Y2Zi`

@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: Asake & ",
-  "num_followers": 608157,
+  "num_followers": 608297,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjgwNjk2YzYxYjk2MTRkOGQ5ZWQyN2MzMjBjMWRlNDUxZWUxYmMz",
+  "snapshot_id": "MCwyMzE1YzM0MjY1NGI0Y2FhYWUxOTkzYjFmMzFiMGQ4Y2E3M2Y3ZDYx",
   "tracks": [
     {
       "added_at": "2023-07-21 02:09:01",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2023-07-21 02:09:01",
+      "album": {
         "name": "Big Conspiracy",
         "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
-    },
-    {
-      "added_at": "2023-07-21 02:09:01",
-      "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2023-07-21 02:09:01",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "added_at": "2023-07-21 02:09:01",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 204631,
       "name": "Normally",
       "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
-    },
-    {
-      "added_at": "2023-07-21 02:09:01",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
     },
     {
       "added_at": "2023-07-21 02:09:01",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
+        "name": "Trench to Triumph",
+        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2023-07-21 02:09:01",
+      "album": {
         "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
         "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 381768,
       "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
       "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
-    },
-    {
-      "added_at": "2023-07-21 02:09:01",
-      "album": {
-        "name": "Trench to Triumph",
-        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Ngozi",
-      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
     },
     {
       "added_at": "2023-07-21 02:09:01",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
-    },
-    {
-      "added_at": "2023-07-21 02:09:01",
-      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+    },
+    {
+      "added_at": "2023-07-21 02:09:01",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2023-07-21 02:09:01",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "added_at": "2023-07-21 02:09:01",
+      "album": {
         "name": "Bloody Samaritan",
         "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 329073,
       "name": "Kilimanjaro (feat. Justin99, Mema_Percent & Mr JazziQ)",
       "url": "https://open.spotify.com/track/4aAxUQUNTtBhDgDcyCfXUu"
-    },
-    {
-      "added_at": "2023-07-21 02:09:01",
-      "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": "2023-07-21 02:09:01",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
-    },
-    {
-      "added_at": "2023-07-21 02:09:01",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 162353,
       "name": "FIND YOUR WAY BACK",
       "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
+    },
+    {
+      "added_at": "2023-07-21 02:09:01",
+      "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
     },
     {
       "added_at": "2023-07-21 02:09:01",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
-        "name": "Beamer (Bad Boys)",
-        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 195047,
-      "name": "Beamer (Bad Boys)",
-      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
-    },
-    {
-      "added_at": "2023-07-21 02:09:01",
-      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 274000,
       "name": "Apotheke",
       "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
+    },
+    {
+      "added_at": "2023-07-21 02:09:01",
+      "album": {
+        "name": "Beamer (Bad Boys)",
+        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 195047,
+      "name": "Beamer (Bad Boys)",
+      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
     },
     {
       "added_at": "2023-07-21 02:09:01",
@@ -2027,22 +2027,22 @@
     {
       "added_at": "2023-07-21 02:09:01",
       "album": {
-        "name": "The One (Chop Life)",
-        "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
+        "name": "Rotate",
+        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 196471,
-      "name": "The One (Chop Life)",
-      "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
+      "duration_ms": 201940,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
     }
   ],
   "unique_name": "We Everywhere",

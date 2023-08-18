@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,720 likes - 90 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,775 likes - 90 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 20 | [Loneliest Road That I Know](https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Give In Kind](https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW) | 4:17 |
 | 21 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
 | 22 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 |
-| 23 | [Driftin' Blues \- Single Version](https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:28 |
-| 24 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
+| 23 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
+| 24 | [Driftin' Blues \- Single Version](https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:28 |
 | 25 | [Too Many Dirty Dishes \- Remastered](https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 6:52 |
 | 26 | [Blues Hangover](https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 3:06 |
 | 27 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 46 | [Groaning the Blues \- Live at the Fillmore, San Francisco, 1994](https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Nothing But the Blues \(Live\)](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc) | 7:10 |
 | 47 | [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 |
 | 48 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
-| 49 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
-| 50 | [Waiting For The Dawn](https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:50 |
+| 49 | [Waiting For The Dawn](https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:50 |
+| 50 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
 | 51 | [Tender Organs](https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:45 |
 | 52 | [Icepick Through My Heart](https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Iron Man](https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P) | 6:52 |
 | 53 | [Blues is My Best Friend](https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 3:39 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 74 | [Slow Burning Love](https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Right Kinda Wrong](https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J) | 3:11 |
 | 75 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 |
 | 76 | [Abandoned Child](https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Shine](https://open.spotify.com/album/6uco735wn69n3ODYvdrd21) | 7:35 |
-| 77 | [Still Here](https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV) | 4:10 |
-| 78 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
+| 77 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
+| 78 | [Still Here](https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV) | 4:10 |
 | 79 | [Get Your Lovin'](https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil) | [Secret Formula Band](https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs) | [Get Your Lovin'](https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR) | 3:23 |
 | 80 | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:34 |
 | 81 | [Love & Gravity](https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR) | [Matt Katsis](https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv) | [Love & Gravity](https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB) | 3:48 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Since My Baby Gone](https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [Just The Big Three Trio](https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED) | 3:00 |
 | 90 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 
-Snapshot ID: `MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm`
+Snapshot ID: `MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh`

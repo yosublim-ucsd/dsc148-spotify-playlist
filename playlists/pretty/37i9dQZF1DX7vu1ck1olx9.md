@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,161 likes - 82 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,196 likes - 82 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 58 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
 | 59 | [The Soul of Things](https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE) | 2:30 |
 | 60 | [keep on](https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa) | 2:20 |
-| 61 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 |
+| 61 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
 | 62 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 |
-| 63 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
+| 63 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 |
 | 64 | [Suave](https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Suave](https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4) | 1:20 |
 | 65 | [Sunny in Saint Lucia](https://open.spotify.com/track/5L6RFPXEfm9YBCMUVEi3bE) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Sunny in Saint Lucia](https://open.spotify.com/album/7yZLICBnXiNzpohnqGlLpT) | 3:06 |
 | 66 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 |
-| 67 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
-| 68 | [Utah](https://open.spotify.com/track/15ak5UN9CgFQzYCVEeigY9) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Utah](https://open.spotify.com/album/0ULUBycp5jD1x6PyAMqEG2) | 2:06 |
+| 67 | [Utah](https://open.spotify.com/track/15ak5UN9CgFQzYCVEeigY9) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Utah](https://open.spotify.com/album/0ULUBycp5jD1x6PyAMqEG2) | 2:06 |
+| 68 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
 | 69 | [Tranquility Farm](https://open.spotify.com/track/2HQZO4e5DndKooGqLWs8od) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Tranquility Farm](https://open.spotify.com/album/23rYdcFuFuMzqRl4Z5B0t1) | 2:13 |
-| 70 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 |
-| 71 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 |
+| 70 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 |
+| 71 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 |
 | 72 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 |
 | 73 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
 | 74 | [Safehouse](https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Safehouse](https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q) | 2:39 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 |
 | 82 | [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 |
 
-Snapshot ID: `MCwxYWU0NzA1MjQ3NjY1Yjg1ZjhmNmFlMjAzODBmNTg3OTE4MjA0NDgz`
+Snapshot ID: `MCwyODAwZjYyYWQyYzU0YmMzNzM2Yzk5ZTY4YTM0ZmNkMWEyZGVlOWRh`

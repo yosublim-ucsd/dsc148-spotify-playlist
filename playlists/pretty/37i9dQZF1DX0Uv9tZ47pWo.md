@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 
 > It's all about the girls tonight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,838,964 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,839,051 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 | 34 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 35 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 36 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
-| 37 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
-| 38 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
+| 37 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
+| 38 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
 | 39 | [Sweet but Psycho](https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:07 |
 | 40 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
 | 41 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 | 72 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 73 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 74 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
-| 75 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
+| 75 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 76 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
-| 77 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
+| 77 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 78 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
 | 79 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 80 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
 
-Snapshot ID: `MCwxZjRkZjU0ZWM1YWYwZjBlMTE2Y2NiMGU5MjJiOGQ3NDJiZjY0MDA2`
+Snapshot ID: `MCxiOWRhMmIwYzhhZGFmZDNhYjI1YTY2ZjExNGM0ZjJiNTFiNzY5YTU3`

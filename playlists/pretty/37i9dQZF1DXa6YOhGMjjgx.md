@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. Cover: PÆRISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,856 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,900 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 58 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
 | 59 | [These Days](https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD) | 3:17 |
 | 60 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 |
-| 61 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
+| 61 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 62 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
-| 63 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
-| 64 | [Do It Faster](https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Do It Faster](https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs) | 1:47 |
-| 65 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 |
+| 63 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
+| 64 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 |
+| 65 | [Do It Faster](https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Do It Faster](https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs) | 1:47 |
 | 66 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
 | 67 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 |
 | 68 | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl) | 3:59 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 73 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
 | 74 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
 | 75 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
-| 76 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
-| 77 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
-| 78 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 |
-| 79 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 |
-| 80 | [Seven White Horses](https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Seven White Horses](https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB) | 3:40 |
-| 81 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
-| 82 | [Stranded](https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 4:01 |
+| 76 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
+| 77 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 |
+| 78 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
+| 79 | [Seven White Horses](https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Seven White Horses](https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB) | 3:40 |
+| 80 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 |
+| 81 | [Stranded](https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 4:01 |
+| 82 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
 | 83 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
 | 84 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 |
 | 85 | [SAY IT](https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [SAY IT](https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH) | 2:41 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 94 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 |
 | 95 | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v) | 3:45 |
 | 96 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 |
-| 97 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
-| 98 | [Pillar on the Bridge of You](https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4) | 3:17 |
-| 99 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 |
-| 100 | [Fireplace](https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:12 |
+| 97 | [Pillar on the Bridge of You](https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4) | 3:17 |
+| 98 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
+| 99 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 |
+| 100 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 |
 
-Snapshot ID: `MCwxNzNiYzcwZjZmODYxMmRkYzMzYmM4MDQyYWE5N2U1OGRkN2FhMDRj`
+Snapshot ID: `MCw0NGNlMjM5ODljMjVjZjQ1NDMyOGEwMzc2OGI4ODc4NjI1ZjZlNTAx`

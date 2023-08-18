@@ -1,12 +1,12 @@
 {
   "description": "Sinta o clima e fa\u00e7a uma viagem ao passado.",
-  "num_followers": 68549,
+  "num_followers": 68563,
   "original_name": "Ver\u00e3o Cl\u00e1ssico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDUwNDYzYTM4NGExYzU1YjhjMTRiZjEwMTk4MmIzZDljOTg2Yzdh",
+  "snapshot_id": "MCxiM2FlMzZjYWZjYjMwOTQ0YWU1NmQ0ODgyNDdmY2I2YTgxNmZiYzcw",
   "tracks": [
     {
       "added_at": "2020-11-30 23:28:56",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-11-30 23:28:56",
       "album": {
-        "name": "Seals & Crofts' Greatest Hits",
-        "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
-    },
-    {
-      "added_at": "2020-11-30 23:28:56",
-      "album": {
         "name": "Face to Face (Deluxe)",
         "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 210525,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
+    },
+    {
+      "added_at": "2020-11-30 23:28:56",
+      "album": {
+        "name": "Seals & Crofts' Greatest Hits",
+        "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
     },
     {
       "added_at": "2020-11-30 23:28:56",

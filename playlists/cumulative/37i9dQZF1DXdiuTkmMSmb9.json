@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "90s Baby",
+        "url": "https://open.spotify.com/album/2wGAU8rMitQQfKxZ3pwc7g"
+      },
+      "artists": [
+        {
+          "name": "Big Skeez",
+          "url": "https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu"
+        },
+        {
+          "name": "DatBreddaDom",
+          "url": "https://open.spotify.com/artist/4uVCyjqLswlqL6zt3VEEK0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "90s Baby",
+      "url": "https://open.spotify.com/track/5NR97sgM467Ok0oVOC3rTZ"
+    },
+    {
+      "album": {
         "name": "A Different Path",
         "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
       },
@@ -674,6 +696,24 @@
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
+    },
+    {
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
     },
     {
       "album": {
@@ -1806,7 +1846,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 175190,
       "name": "Follow My Lead",
       "url": "https://open.spotify.com/track/5WjgmpPuNMeraChfbFnBKa"
@@ -2074,6 +2114,28 @@
       "duration_ms": 196153,
       "name": "Gucci & Prada",
       "url": "https://open.spotify.com/track/75Wm9MklupjKJBBPTMNVf3"
+    },
+    {
+      "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229339,
+      "name": "Hallelujah (feat. Lojay)",
+      "url": "https://open.spotify.com/track/0Zb004lei42rERugapZaSt"
     },
     {
       "album": {
@@ -4228,7 +4290,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 198400,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2FnIELwahdkPX2GGR1t8rf"
@@ -4634,7 +4696,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 171994,
       "name": "PRINCE AKEEM",
       "url": "https://open.spotify.com/track/1vPhCyISDkijD35w1o7ywY"
@@ -6290,7 +6352,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
@@ -6448,7 +6510,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 181978,
       "name": "Who Knows Tomorrow",
       "url": "https://open.spotify.com/track/2eWUSvBfYbiMU4Ihk4yKrj"

@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 258453,
+  "num_followers": 258491,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWEzNDAwMDE1YmJmN2U0NDcyNmMzMWJiNmJiZjcxMTBiMTZkOWY2",
+  "snapshot_id": "MCw2MTYyM2FkZjY0NmRjMmUyNGYxNWQ2ZmMyNGUzM2RlNDk0MzkwYjMw",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "People Pleaser",
-        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 252291,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Here Goes Nothing!",
         "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
       },
       "artists": [
         {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
         }
       ],
-      "duration_ms": 192981,
-      "name": "This Is What You Did",
-      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
+      "duration_ms": 252291,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 192981,
+      "name": "This Is What You Did",
+      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "The World We Built",
         "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 257173,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 192000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 260519,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 236610,
+      "name": "I\u2019ll Go Running",
+      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 260458,
       "name": "Pictures of Flowers",
       "url": "https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Planet (i)",
-        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 236610,
-      "name": "I\u2019ll Go Running",
-      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 308706,
-      "name": "If It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "New Conditions",
         "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 187185,
       "name": "The Impossible Task of Feeling Complete",
       "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 308706,
+      "name": "If It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
     },
     {
       "added_at": "2023-06-16 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,337 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,335 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 26 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
 | 27 | [Psilocybin](https://open.spotify.com/track/2rSjE8wHrl9OiI4vmOduU8) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:17 |
 | 28 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 |
-| 29 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 |
+| 29 | [Angel 1](https://open.spotify.com/track/2XmN4sUQdDwnAwCqTpScMw) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 5:46 |
 | 30 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd) | 8:00 |
 | 31 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 |
 | 32 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 74 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
 | 75 | [My City's On Fire](https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 3:07 |
 
-Snapshot ID: `MCw5ZDI3ZmM3YjRlZTFjZTQ0OTUyN2UxNmI2Njg0NDM3ZDQ5YmZlMTA5`
+Snapshot ID: `MCxjYjBjZjgwY2Y0ZWViODc1Y2U2YzRhMWU1YWRmNDM1OTBhMTI2Yjcx`

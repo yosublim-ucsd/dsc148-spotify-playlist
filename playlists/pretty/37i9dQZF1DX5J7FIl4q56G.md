@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Caskets
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,495 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,678 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 3 | [The Scandinavian Dream](https://open.spotify.com/track/3ZItvJmLEg2wK2PmHpw0pR) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [The Scandinavian Dream](https://open.spotify.com/album/0daUzI3im2AmhdJuCA0X9M) | 3:31 |
 | 4 | [The Will To Resist](https://open.spotify.com/track/0WV1TMGuajXst28TPvKLrK) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The Will To Resist](https://open.spotify.com/album/0ZVxTEzzR2ymyefQbsQGMV) | 3:35 |
 | 5 | [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 |
-| 6 | [\[HYPER\]VIGILANT](https://open.spotify.com/track/3iuTRp8dHvNU7VugqgG5Dv) | [Heirloom](https://open.spotify.com/artist/5Atdd8NVwC99330AgFiixH), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [\[HYPER\] VIGILANT](https://open.spotify.com/album/0Kg2FaiS0TE8EuZbIaCk9I) | 3:34 |
+| 6 | [\[HYPER\]VIGILANT](https://open.spotify.com/track/3iuTRp8dHvNU7VugqgG5Dv) | [Heirloom](https://open.spotify.com/artist/5Atdd8NVwC99330AgFiixH), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [\[HYPER\]VIGILANT](https://open.spotify.com/album/0Kg2FaiS0TE8EuZbIaCk9I) | 3:34 |
 | 7 | [Throne of the Sunset](https://open.spotify.com/track/5ATwGbGDPUoSfAx4KaDyYH) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Throne of the Sunset](https://open.spotify.com/album/6rH3SOru96QCO7DKgCZkiS) | 4:08 |
 | 8 | [Dark Wings of Deception](https://open.spotify.com/track/5LrX5wEhuuEKrsw2EKWznq) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Goliath](https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv) | 4:53 |
 | 9 | [Summoned for Sacrifice](https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Summoned for Sacrifice](https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr) | 4:05 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 32 | [Лімб](https://open.spotify.com/track/1Hs7VY4g7MDOAcBT64ay95) | [Burned Time Machine](https://open.spotify.com/artist/1CqrtuYsF9FgMfSeWM4uB1) | [Лімб](https://open.spotify.com/album/43rjfWOh0aQrqimWhqCNht) | 2:44 |
 | 33 | [The Cultigen](https://open.spotify.com/track/4Dl8d9o5Wj8TrmHwJQKkbm) | [REZN](https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK), [Vinnum Sabbathi](https://open.spotify.com/artist/0EX3Y3pv10ja5EQeAc2Kv4) | [Silent Future](https://open.spotify.com/album/25UZUqLrtmjKl6tuOhmybG) | 3:17 |
 | 34 | [Alone](https://open.spotify.com/track/6WCu2GwqQaFm2dDSeM0FGb) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Alone](https://open.spotify.com/album/6qn5ropr7RNsFEOW7rlsGh) | 3:50 |
-| 35 | [Let The Truth Speak](https://open.spotify.com/track/4g7bZNzADI6lzEbGQSyXsB) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg), [Daniel Tompkins](https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt), [Gennady Tkachenko\-Papizh](https://open.spotify.com/artist/6DV0kit6wsChz6kKCPwhUc) | [Let The Truth Speak](https://open.spotify.com/album/4VDOK5SlUOZUvncenGt6JR) | 10:47 |
+| 35 | [Let The Truth Speak](https://open.spotify.com/track/4g7bZNzADI6lzEbGQSyXsB) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg), [Daniel Tompkins of TesseracT](https://open.spotify.com/artist/6VUGeYL7B2fn5bfmx6WJgt), [Gennady Tkachenko\-Papizh](https://open.spotify.com/artist/6DV0kit6wsChz6kKCPwhUc) | [Let The Truth Speak](https://open.spotify.com/album/4VDOK5SlUOZUvncenGt6JR) | 10:47 |
 | 36 | [Cyberglass](https://open.spotify.com/track/2xKl0MoIhMXmmQa57jUerg) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Cyberglass](https://open.spotify.com/album/7ge64fXly6k7r8dgRxsV2O) | 2:31 |
 | 37 | [Hope And The Sorrow](https://open.spotify.com/track/73efafu0RKhqCkWSEIDwf9) | [Sarayasign](https://open.spotify.com/artist/7ySTF2Ji2fHEv9KJkeXcrP) | [The Lion's Road](https://open.spotify.com/album/7eIfGeSseudD2M5qS1fDPP) | 5:21 |
 | 38 | [Prototype God](https://open.spotify.com/track/2zZAx7Wdqgrv7mD0mZnTUM) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Prototype God](https://open.spotify.com/album/2enu0Pk9hnOLR1qmBlr2HJ) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Thrown Into the Void](https://open.spotify.com/track/40tIjowa35w6sPAHP2sCUn) | [Plaguestorm](https://open.spotify.com/artist/2OQNswVxFEDdKzAOveCqjg) | [Thrown Into The Void](https://open.spotify.com/album/1VpQUz7BPmuQk9wX9jYDfu) | 3:56 |
 | 50 | [Uniform](https://open.spotify.com/track/4weEZfLQRLafr8v7IT7fsN) | [Beurre](https://open.spotify.com/artist/0LljVeNDyTJoH9peuKNWjg) | [Oxt to Anyone](https://open.spotify.com/album/4WuHamV6YAKA3xUNpwkINO) | 1:31 |
 
-Snapshot ID: `MCwyYzMwNDdmMWU0ZTE5ZmUwZGRiNjU3YjRiMjY0YjczYTRkYWFiMTE3`
+Snapshot ID: `MCxlMGE0YjkxNzc3NzY1NDEyNWQyYTQwZTlmOTdjNTNmYmUxMzc4NzNm`

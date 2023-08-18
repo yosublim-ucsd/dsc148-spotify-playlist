@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle Ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,035,670 likes - 236 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,037,047 likes - 236 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
-| 2 | [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 |
-| 3 | [My Armour](https://open.spotify.com/track/6q8NVcrqyUPpHWbNfJQMiN) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [My Armour](https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG) | 3:20 |
-| 4 | [Sakalas](https://open.spotify.com/track/6OA8XPGALjJXIhQ7996ftt) | [Gabriel Derus](https://open.spotify.com/artist/0eUKr3LcMQaxwzgIqKKDZ8) | [Sakalas](https://open.spotify.com/album/6YrWkecb5QbcvBBVwJcalr) | 2:56 |
-| 5 | [Spherical](https://open.spotify.com/track/7dbvv8ZyduO9ztNjkVkyty) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 2:55 |
-| 6 | [Isolate](https://open.spotify.com/track/5NWOEqOSCqHebuRMjYEn1i) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [Aurora](https://open.spotify.com/album/2tI2Wx10jbbxksqJEttROH) | 3:22 |
-| 7 | [Protect Your Mind](https://open.spotify.com/track/475L4j7qFaZE0jlcvrsScN) | [Treasures Meditation Flow](https://open.spotify.com/artist/601K9Ks46CQk3kNbZsaOlr) | [Endless Time](https://open.spotify.com/album/4dJ0UwGAVSUK22PK3W3qNg) | 3:14 |
-| 8 | [Aesolace](https://open.spotify.com/track/76tZM5yJNhGTEiFEVUOX0G) | [Pollux Pluto](https://open.spotify.com/artist/7MB8ZbCZVAb7XBuuFbdbXl) | [Aesolace](https://open.spotify.com/album/0o7uN8tbNfroBWoEz5gidI) | 3:01 |
-| 9 | [The New World](https://open.spotify.com/track/0N5NNIaNs3YVhiyt22ZYhG) | [Cardi Mist](https://open.spotify.com/artist/3ddw8VOjGZrR2G6dFCjamb) | [Need Alone TIm](https://open.spotify.com/album/7aSNf0iZiUDbYUs552dVkm) | 3:14 |
-| 10 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 |
-| 11 | [Scorchio](https://open.spotify.com/track/5kDLhUYHZr5Q6geAcM3lF3) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Infinity Air](https://open.spotify.com/album/66F05OegqZRAIP5xL2uykl) | 3:16 |
-| 12 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
+| 1 | [Aesolace](https://open.spotify.com/track/76tZM5yJNhGTEiFEVUOX0G) | [Pollux Pluto](https://open.spotify.com/artist/7MB8ZbCZVAb7XBuuFbdbXl) | [Aesolace](https://open.spotify.com/album/0o7uN8tbNfroBWoEz5gidI) | 3:01 |
+| 2 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
+| 3 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
+| 4 | [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 |
+| 5 | [My Armour](https://open.spotify.com/track/6q8NVcrqyUPpHWbNfJQMiN) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [My Armour](https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG) | 3:20 |
+| 6 | [Sakalas](https://open.spotify.com/track/6OA8XPGALjJXIhQ7996ftt) | [Gabriel Derus](https://open.spotify.com/artist/0eUKr3LcMQaxwzgIqKKDZ8) | [Sakalas](https://open.spotify.com/album/6YrWkecb5QbcvBBVwJcalr) | 2:56 |
+| 7 | [Spherical](https://open.spotify.com/track/7dbvv8ZyduO9ztNjkVkyty) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 2:55 |
+| 8 | [Isolate](https://open.spotify.com/track/5NWOEqOSCqHebuRMjYEn1i) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [Aurora](https://open.spotify.com/album/2tI2Wx10jbbxksqJEttROH) | 3:22 |
+| 9 | [Protect Your Mind](https://open.spotify.com/track/475L4j7qFaZE0jlcvrsScN) | [Treasures Meditation Flow](https://open.spotify.com/artist/601K9Ks46CQk3kNbZsaOlr) | [Endless Time](https://open.spotify.com/album/4dJ0UwGAVSUK22PK3W3qNg) | 3:14 |
+| 10 | [The New World](https://open.spotify.com/track/0N5NNIaNs3YVhiyt22ZYhG) | [Cardi Mist](https://open.spotify.com/artist/3ddw8VOjGZrR2G6dFCjamb) | [Need Alone TIm](https://open.spotify.com/album/7aSNf0iZiUDbYUs552dVkm) | 3:14 |
+| 11 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 |
+| 12 | [Scorchio](https://open.spotify.com/track/5kDLhUYHZr5Q6geAcM3lF3) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Infinity Air](https://open.spotify.com/album/66F05OegqZRAIP5xL2uykl) | 3:16 |
 | 13 | [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 |
 | 14 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 |
 | 15 | [Sincerely](https://open.spotify.com/track/4TRjCifQWpux6KRamNuNMz) | [Kelly Petersen](https://open.spotify.com/artist/50KqMF1pahD2xMCrkMKTr6) | [Layers](https://open.spotify.com/album/0q8iANuN19kvXeo0WTgol8) | 2:55 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 | 235 | [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 |
 | 236 | [Notes](https://open.spotify.com/track/3ASr0AXBDjIzS9Rwi5tLxy) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Notes](https://open.spotify.com/album/3Hkp9N92ailBc5Wx4xDLY5) | 2:07 |
 
-Snapshot ID: `MCw2YWJjOTU0MWZhYzE4MGUwYmEwNWRmNDMwYjY2ZjgyYWJiOTMyY2Yz`
+Snapshot ID: `MCw0ZWZlNWJkZWZlMzZhZmEzNmNlODNjNDljZTU2MzlkMjgwYTE0MmU5`

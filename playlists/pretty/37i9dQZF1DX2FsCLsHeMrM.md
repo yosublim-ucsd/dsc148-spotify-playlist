@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Gettin' figgy with it, bana\-na\-na\-nanana
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,397 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,828 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 149 | [When You Lose Someone](https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone](https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK) | 3:25 |
 | 150 | [Don't Sleep \(feat\. French Montana & Stefflon Don\)](https://open.spotify.com/track/6XSxQJgbqqNmOjiiHCVqM6) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:18 |
 
-Snapshot ID: `MCw2NTY2MmRkNDlmOTE1ZGQ3ODAzOTk1YTkyYTI0YTMyZTEyYWMwOTZi`
+Snapshot ID: `MCw5OTE2ZjEyZjhhZTgyZjhkMDY5NTY5MDZiNWY1YThjZDRlMDU4ZGYx`

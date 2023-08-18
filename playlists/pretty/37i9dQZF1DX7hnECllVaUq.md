@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,139 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,318 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 |
 | 100 | [Make You Mine](https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:31 |
 
-Snapshot ID: `MCxiNTM4MmU1Y2RkZjZjYTBkYTZkZjUyY2Y5YTRlMGMzYzBmYTM4M2Uz`
+Snapshot ID: `MCxmMWZmZTZiYjE0NzIwOWJkMmUwYzViMDMxYjc1ZjFhZTNiMjM0M2Y2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,013 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,083 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 13 | [Mi Balcon](https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:19 |
 | 14 | [Y mi corazón contento](https://open.spotify.com/track/3FUhe43n5NShAfvPWSyPxE) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:28 |
 | 15 | [Bff <3](https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss) | 2:53 |
-| 16 | [Tu Eres Como el Fuego](https://open.spotify.com/track/3Lz5e2T5LK7k6QcUqvoFIF) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/5VcnstRhnyK8Bft8RLIsC7) | [Tu Eres Como el Fuego](https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9) | 3:31 |
-| 17 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
+| 16 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
+| 17 | [Tu Eres Como el Fuego](https://open.spotify.com/track/3Lz5e2T5LK7k6QcUqvoFIF) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Indica Sound](https://open.spotify.com/artist/5VcnstRhnyK8Bft8RLIsC7) | [Tu Eres Como el Fuego](https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9) | 3:31 |
 | 18 | [Si El Amor Se Cae](https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:31 |
 | 19 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 |
 | 20 | [Love Song](https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 |
 | 60 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 
-Snapshot ID: `MCw4ZTFmNDc3NDY3YjU3NjI1ZTRkNDJhM2E2MTdlNDRmNmY5MTNiZGNj`
+Snapshot ID: `MCxkYmQxOTEyYzg1ZDgwMmUxOGVjNWUzNjk2ZjhhMzgwNTQ3YTA4OTk1`

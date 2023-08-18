@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1193233,
+  "num_followers": 1193426,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTBlMmFjODk4OTU5MzAzNWRhNmQzMzYwMzY0OGRmM2I1MDc2ZjYw",
+  "snapshot_id": "MCwxNzA3MjMwZmYwZTI2MGJhMzM3YzI4NWM5ZTJjMzA5ZmRkMTdiNjJj",
   "tracks": [
     {
       "added_at": "2023-08-15 12:37:09",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
+        "name": "Grover's Hat Project",
+        "url": "https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0"
+      },
+      "artists": [
+        {
+          "name": "Beegie Adair",
+          "url": "https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI"
+        },
+        {
+          "name": "Ray Stevens",
+          "url": "https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "That\u2019s My Desire",
+      "url": "https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6"
+    },
+    {
+      "added_at": "2023-08-15 12:37:09",
+      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -671,22 +691,18 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
-        "name": "Grover's Hat Project",
-        "url": "https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0"
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
       "artists": [
         {
-          "name": "Beegie Adair",
-          "url": "https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI"
-        },
-        {
-          "name": "Ray Stevens",
-          "url": "https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj"
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 296586,
-      "name": "That\u2019s My Desire",
-      "url": "https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6"
+      "duration_ms": 129127,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
     },
     {
       "added_at": "2023-08-15 12:37:09",
@@ -719,22 +735,6 @@
       "duration_ms": 280706,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
-    },
-    {
-      "added_at": "2023-08-15 12:37:09",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 129127,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
     },
     {
       "added_at": "2023-08-15 12:37:09",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
-    },
-    {
-      "added_at": "2023-08-15 12:37:09",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
@@ -863,22 +847,6 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
-        "name": "Language of Love",
-        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "There You Are (Second Chance)",
-      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
-    },
-    {
-      "added_at": "2023-08-15 12:37:09",
-      "album": {
         "name": "Memories of You: A Tribute to Benny Goodman",
         "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
@@ -895,6 +863,22 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
+    },
+    {
+      "added_at": "2023-08-15 12:37:09",
+      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -907,6 +891,38 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "added_at": "2023-08-15 12:37:09",
+      "album": {
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
+    },
+    {
+      "added_at": "2023-08-15 12:37:09",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2023-08-15 12:37:09",
@@ -959,6 +975,22 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+    },
+    {
+      "added_at": "2023-08-15 12:37:09",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -991,38 +1023,6 @@
       "duration_ms": 192000,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz"
-    },
-    {
-      "added_at": "2023-08-15 12:37:09",
-      "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2023-08-15 12:37:09",
-      "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
     },
     {
       "added_at": "2023-08-15 12:37:09",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
-    },
-    {
-      "added_at": "2023-08-15 12:37:09",
-      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
+    },
+    {
+      "added_at": "2023-08-15 12:37:09",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2023-08-15 12:37:09",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-08-15 12:37:09",
       "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
-    },
-    {
-      "added_at": "2023-08-15 12:37:09",
-      "album": {
         "name": "Laura Benanti",
         "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 291509,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk"
+    },
+    {
+      "added_at": "2023-08-15 12:37:09",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
     },
     {
       "added_at": "2023-08-15 12:37:09",

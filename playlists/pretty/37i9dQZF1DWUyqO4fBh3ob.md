@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,863 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,885 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 46 | [Sada Mawalena](https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Sada Mawalena](https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7) | 4:20 |
 | 47 | [Al Tayr](https://open.spotify.com/track/3KtalxQzxUlkRVeBWsjEii) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Monologue](https://open.spotify.com/album/1tZH9Nv3aLL1AxJTQNwDHr) | 4:47 |
 | 48 | [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 |
-| 49 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 |
-| 50 | [You Make Me Laugh](https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew) | [Omar Offendum](https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [You Make Me Laugh](https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q) | 2:41 |
+| 49 | [You Make Me Laugh](https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew) | [Omar Offendum](https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [You Make Me Laugh](https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q) | 2:41 |
+| 50 | [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 |
 
-Snapshot ID: `MCwyMmExY2IwNjUyZWM5ZWNjNTIyZjVmNjMxZGRmZWRkYmM0ZmQzMDdk`
+Snapshot ID: `MCw2NTgzNDhlOGMwYjU4NWI1ZmZkNTZhMzc4NTJhZWE1MWQ1NzM0Mzli`

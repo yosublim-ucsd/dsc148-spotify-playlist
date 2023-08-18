@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 225159,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -186,6 +186,24 @@
       "duration_ms": 200911,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
+    },
+    {
+      "album": {
+        "name": "Be More",
+        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231684,
+      "name": "Be More",
+      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
     },
     {
       "album": {
@@ -262,7 +280,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 186358,
       "name": "Cold Nights (feat. Stan Walker & Larissa Lambert)",
       "url": "https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -1263,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4"
+    },
+    {
+      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -1490,10 +1526,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "album": {
@@ -1573,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
       },
@@ -1606,6 +1678,24 @@
       "duration_ms": 211160,
       "name": "To Know Me",
       "url": "https://open.spotify.com/track/6Vxz9qvJdej63DrR8othbd"
+    },
+    {
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Unlearn You",
+      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,163 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,289 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 40 | [Proper Enjoyment](https://open.spotify.com/track/4QkjkDGed9G61Ondbtg5ON) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Proper Enjoyment](https://open.spotify.com/album/6Zud8nl3jWGp7M80X3zJMY) | 3:45 |
 | 41 | [Like Tu Danz](https://open.spotify.com/track/1JseAs562lQva7llJ0bibp) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 3:29 |
 | 42 | [Enjoyment](https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0) | 3:31 |
-| 43 | [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 |
+| 43 | [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 |
 | 44 | [Enjoyment](https://open.spotify.com/track/2bwPEHSNLSjN4LJYdD80rK) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Enjoyment](https://open.spotify.com/album/5j37hkPCPpwl3JzdjAWdtW) | 3:14 |
 | 45 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
 | 46 | [Soft Life](https://open.spotify.com/track/1BbD9IQf55q0jwZwdCF7cZ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [Soft Life](https://open.spotify.com/album/3Q03NHEHcLV4Omb7cacqUL) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 59 | [Softies Vibe](https://open.spotify.com/track/45gohzfD4mrYZgVRkkNSRE) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:45 |
 | 60 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 |
 
-Snapshot ID: `MCw5ZGVmZWZmYmJmYWNmODM1YmU1OTAzNjc0ZGFiMmQ2N2JlZDZjZTM1`
+Snapshot ID: `MCxkYzk0OTBkMGI0MTNlOTAzM2Q5NWVhZWM3MzMxOGFhNTMwMTM4Nzcy`

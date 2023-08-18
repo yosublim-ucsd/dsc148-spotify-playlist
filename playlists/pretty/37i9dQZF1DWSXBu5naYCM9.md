@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 
 > Timeless melodies from your favourite artists, both old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,543 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,734 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 | 79 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 80 | [Acid Eyes](https://open.spotify.com/track/6LTQO44rCg2mNQckEJdrSF) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:33 |
 
-Snapshot ID: `MCw1OGZhMTExNGIzNTYzNzE5Mjc5ZWNmMWFiMDQ1YmQ1MWJiZGM4ZDBh`
+Snapshot ID: `MCwyYjM5YzM1OTczNmQyYTEwMGU2NGIyMzY2NDViNGNmYzczNjEwMzZj`

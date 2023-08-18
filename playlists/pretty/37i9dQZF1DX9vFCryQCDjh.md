@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,340 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,353 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 25 | [December](https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [BORN AGAIN](https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o) | 4:20 |
 | 26 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
 | 27 | [Get Up](https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 2:12 |
-| 28 | [Eternal Love](https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [White](https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi) | 4:09 |
-| 29 | [너를 사랑해](https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 3:36 |
+| 28 | [너를 사랑해](https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 3:36 |
+| 29 | [Eternal Love](https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [White](https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi) | 4:09 |
 | 30 | [COUPLE \(2016\)](https://open.spotify.com/track/5sklZGhk3p0jrVSZ6zUfQ6) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [2016 Re\-ALBUM](https://open.spotify.com/album/3RLZMnWVAtvQPy0G4FvRGs) | 4:06 |
 | 31 | [고해](https://open.spotify.com/track/1ZWVTJbm5XCJEBn4jrcER6) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/6xBBPD2xe2FeVfyZcfyGyV) | 5:00 |
 | 32 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 35 | [날개 잃은 천사](https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 4:02 |
 | 36 | [Eve's Warning](https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [Jungle New Style](https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU) | 4:12 |
 | 37 | [Hot](https://open.spotify.com/track/1IkdRtsgZCtWIekX8NrLdN) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [Once N 4 All](https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH) | 3:38 |
-| 38 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
-| 39 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 |
+| 38 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 |
+| 39 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
 | 40 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 |
 | 41 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 |
 | 42 | [0%](https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 5 Letter](https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 99 | [Chivalry](https://open.spotify.com/track/1MEl32IpYcMhaExr6Mq1bv) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Welcome To The Sechskies Land](https://open.spotify.com/album/34MZoibtbiSndywYTeCiHm) | 3:43 |
 | 100 | [Hey, Hey, Hey](https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 'True' Live \(Live\)](https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW) | 2:55 |
 
-Snapshot ID: `MCwyMjg0ZGZiOTNhMDI1ZmFhMjFiMGMwNDA5YWM2ZGRkY2JjZjZlNTdm`
+Snapshot ID: `MCw2YjcxN2JiMWMzMTdhYzk4NjJiNzc3MDU1ZDVlOThhN2U2NGRlNzc0`

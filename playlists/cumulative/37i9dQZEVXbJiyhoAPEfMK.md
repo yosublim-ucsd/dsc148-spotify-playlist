@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,930 songs - 4 day 4 hr 17 min
+1,931 songs - 4 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1438,6 +1438,7 @@
 | [RATCHET RMX \(feat\. KC Rebell, reezy, Nimo & Dardan\)](https://open.spotify.com/track/7768gbTYBI5moR2Okfks1o) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [RATCHET RMX \(feat\. KC Rebell, reezy, Nimo & Dardan\)](https://open.spotify.com/album/2sMD3CgQ9yOfHhW8TlHrtU) | 2:36 | 2022-07-02 | 2022-07-04 |
 | [Rave](https://open.spotify.com/track/5tF1l07SJwqzUstVrzr23D) | [IDA Split](https://open.spotify.com/artist/4frwk9kuTM8hy81wwWlqvo) | [Rave](https://open.spotify.com/album/2IR1VEkMxsNZQSrJwm9eJm) | 2:19 | 2023-03-08 | 2023-03-10 |
 | [Realität](https://open.spotify.com/track/4aCtiux4NfWF0Kx88YAA5e) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 3:04 | 2021-07-18 | 2021-07-23 |
+| [Really Hot](https://open.spotify.com/track/1N8FYci1cFOIPaLRN8jQA0) | [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Gian Nobilee](https://open.spotify.com/artist/0FYEsVCXEH5elLi0K5uNAS), [Koni Besford](https://open.spotify.com/artist/6CeDuUyg3WZeeB8yOsBoJz) | [Really Hot](https://open.spotify.com/album/2SmO6323MGp5y2wxUJZjbD) | 3:14 | 2023-08-17 |  |
 | [Regen](https://open.spotify.com/track/1gO12cFlEWwuLQMf94wzOB) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:57 | 2021-07-18 | 2021-07-19 |
 | [Regen](https://open.spotify.com/track/0LY1fLBRWfdA1qXBFBy6iZ) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Regen](https://open.spotify.com/album/0H39Jmha1iT4TcfPO0pYj1) | 2:27 | 2022-11-26 | 2022-11-28 |
 | [Remedy](https://open.spotify.com/track/2xSIcmvFQHs2CeS34Mgp62) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/2HpKiYKlnaDg6ou4CoFYzk) | 2:27 | 2022-04-12 | 2022-07-13 |
@@ -1854,7 +1855,7 @@
 | [WHEN I DIE](https://open.spotify.com/track/61iL9OUfIipm3Udr0Zs1oe) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [WHEN I DIE](https://open.spotify.com/album/2RZnTMXOOrTMXnSR9TeyAc) | 2:53 | 2022-02-26 | 2022-02-28 |
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-07 | 2021-11-08 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 | 2022-04-29 |
-| [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-03 |  |
+| [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-03 | 2023-08-18 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-05-20 | 2022-08-16 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-20 |  |
 | [White Christmas](https://open.spotify.com/track/370oYn3s5EKu7ziUpMQQTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tennessee Christmas](https://open.spotify.com/album/3MPHjHNBRLa857BxmQUrZE) | 2:23 | 2021-12-24 | 2021-12-27 |

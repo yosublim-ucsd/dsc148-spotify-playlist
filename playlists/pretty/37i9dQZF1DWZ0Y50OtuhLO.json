@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to being to best version of you.",
-  "num_followers": 410720,
+  "num_followers": 410790,
   "original_name": "The Glow Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTU4ZmQzNTQyYjg4YWQ2ZTZkZTUyNGIyMzM2NGUxZWY0NzE4N2Zh",
+  "snapshot_id": "MCw2NzY5YTg0MjczNWIwNzQ3YWQ0MjcyNTQxNjFkZjQwYjhlMjQ0YjQx",
   "tracks": [
     {
       "added_at": "2023-08-03 10:50:27",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-08-03 10:50:27",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2023-08-03 10:50:27",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2023-08-03 10:50:27",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2023-08-03 10:50:27",

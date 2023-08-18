@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Maya Randle
+> Discover your new favourite artists from UK&IE\. Cover: Etta Marcus
 
-220 songs - 12 hr 0 min
+221 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Terrified](https://open.spotify.com/track/3ucxOAE4Is58lEIDMaAznA) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Terrified](https://open.spotify.com/album/4Oq1iLRq5iQ3VjVVWvEoCy) | 3:12 | 2022-02-18 | 2022-07-29 |
 | [Terrified](https://open.spotify.com/track/4UFMLGiIizvKZYrHuGTflS) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:12 | 2022-07-28 | 2023-07-14 |
 | [The Way I Do](https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Rendezvous @ 7](https://open.spotify.com/album/783S0ZXyJ63o5txGFV5ej0) | 3:13 | 2022-02-25 |  |
+| [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 | 2023-08-17 |  |
 | [Things You Said](https://open.spotify.com/track/2v9jInzuHKsTcGzqPbFJOs) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/6ojFzpyw4yHyOuKHG8Mt9l) | 3:23 | 2022-11-11 | 2022-11-13 |
 | [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-04-14 | 2022-10-14 |
 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 | 2022-10-13 |  |

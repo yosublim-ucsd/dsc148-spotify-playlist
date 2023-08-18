@@ -4,7 +4,7 @@
 
 > Sad songs just 4 you para los días tristes.
 
-176 songs - 10 hr 4 min
+177 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [TE FALLÉ](https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE FALLÉ](https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM) | 3:17 | 2023-04-18 |  |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-05-03 |  |
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2021-12-06 | 2022-07-29 |
+| [TE PERDÍ](https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [TE PERDÍ](https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar) | 2:25 | 2023-08-17 |  |
 | [The Top](https://open.spotify.com/track/5a8zFeKUi02rwbKlMZeNiZ) | [Eva McBel](https://open.spotify.com/artist/1eh2IiirE7f7OZmcl20USQ) | [Some Kind of Portrait](https://open.spotify.com/album/5LJikFN5KojJ6tOKmy7r8m) | 3:47 | 2021-12-06 | 2022-12-15 |
 | [Those Three Words](https://open.spotify.com/track/46p5bbYFwaSN8C4OQORncK) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [Those Three Words](https://open.spotify.com/album/7JfmBY9dnN5oxHSJKUnIt3) | 3:22 | 2022-08-01 | 2022-12-03 |
 | [Toda Esta Ciudad](https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Toda Esta Ciudad](https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC) | 5:20 | 2021-12-06 |  |
@@ -181,7 +182,7 @@
 | [Ya mi mama me decía](https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 3:11 | 2022-05-03 |  |
 | [Ya No Te Hago Falta](https://open.spotify.com/track/4RIi1gNmKDzSH04Vvws2DK) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 2:41 | 2021-12-06 |  |
 | [ya te vas](https://open.spotify.com/track/35Sc4rTNlRNSNfI8BPMnTl) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [ep2 🌧](https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm) | 3:03 | 2021-12-06 | 2023-01-13 |
-| [yo q se](https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [yo q se](https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k) | 2:00 | 2021-12-06 |  |
+| [yo q se](https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [yo q se](https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k) | 2:00 | 2021-12-06 | 2023-08-18 |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-05-03 |  |
 | [you were good to me \(bonus track\)](https://open.spotify.com/track/1i3EWfsKtfOusyG50mn4C7) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/3XX3GlDHxagsOzmtBySgc4) | 3:39 | 2022-08-01 | 2022-11-14 |
 

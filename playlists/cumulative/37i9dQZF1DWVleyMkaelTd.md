@@ -4,11 +4,12 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-152 songs - 9 hr 41 min
+154 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['S Wonderful](https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:28 | 2022-04-26 | 2022-05-25 |
+| [A Bossa for Love](https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Smile For Me](https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK) | 3:30 | 2023-08-17 |  |
 | [A Little Brighter Every Day](https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Little Brighter Every Day](https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp) | 3:17 | 2022-04-26 |  |
 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 | 2022-04-26 |  |
 | [All or Nothing at All](https://open.spotify.com/track/353WstqZVn43MLDSfYPObs) | [Sidewalk Room Band](https://open.spotify.com/artist/6TAvSYqKnTOxOfFTCuvPYx) | [All or Nothing at All](https://open.spotify.com/album/6BOoQ90r7KawyLkLPn98Bv) | 5:03 | 2022-04-26 |  |
@@ -73,7 +74,7 @@
 | [Foz Do Iguaçu](https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Foz Do Iguaçu](https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW) | 3:26 | 2023-01-03 |  |
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-04-26 |  |
 | [Goin' Out of My Head](https://open.spotify.com/track/4LMFr5xaHXr101AV96zZSM) | [Sunset Organ Jazz Trio](https://open.spotify.com/artist/2EgH6CxzDPwaNwe1YpBqcO) | [Goin' Out of My Head](https://open.spotify.com/album/4ESfBFkOULu2MBtgcxNlZx) | 3:16 | 2022-04-26 |  |
-| [Gringo na Lapa](https://open.spotify.com/track/2gyJ9qVNvQ01qnIXGqqJ27) | [Samuel Furtado](https://open.spotify.com/artist/0ovOJBn9DrE5qU4THpWpsx) | [Gringo na Lapa](https://open.spotify.com/album/29r2JdeDoQkiSm3yfBXT96) | 4:32 | 2022-04-26 |  |
+| [Gringo na Lapa](https://open.spotify.com/track/2gyJ9qVNvQ01qnIXGqqJ27) | [Samuel Furtado](https://open.spotify.com/artist/0ovOJBn9DrE5qU4THpWpsx) | [Gringo na Lapa](https://open.spotify.com/album/29r2JdeDoQkiSm3yfBXT96) | 4:32 | 2022-04-26 | 2023-08-18 |
 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 | 2022-06-28 | 2022-11-10 |
 | [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 | 2022-04-26 | 2022-07-29 |
 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2022-04-26 | 2022-09-21 |
@@ -110,6 +111,7 @@
 | [O Sabor Mais Doce](https://open.spotify.com/track/0hWp43PwXj9zQl6ZZDFYRm) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:03 | 2022-04-26 |  |
 | [O Viajante](https://open.spotify.com/track/1chb80aIieV42kYzBVQwTK) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 2:55 | 2022-04-26 |  |
 | [Ocean Love](https://open.spotify.com/track/76Y1aQHyjMst7Fm6rvjzvc) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Ocean Love](https://open.spotify.com/album/3j6NuIuIVKR6UxCOVqV7rA) | 3:55 | 2022-10-06 | 2023-02-03 |
+| [On My Mind](https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Letters in the Sand](https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv) | 4:19 | 2023-08-17 |  |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2022-04-26 |  |
 | [Once I Loved](https://open.spotify.com/track/3dtb16fVorx31i70fUkJMA) | [Leland Stein Quartet](https://open.spotify.com/artist/4P0NAt5XSbTNfm9Wsx2Fa0) | [Good Bait](https://open.spotify.com/album/5A6inRzYr8S4GB2X3zoOrB) | 2:50 | 2022-04-26 |  |
 | [Once I Loved](https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U) | [Logan Perez Trio](https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw) | [Once I Loved](https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP) | 7:14 | 2022-04-26 |  |

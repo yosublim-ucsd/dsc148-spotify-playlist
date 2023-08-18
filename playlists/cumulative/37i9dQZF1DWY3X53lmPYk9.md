@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-394 songs - 20 hr 38 min
+398 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Foggy Day \- Live: Solo Piano](https://open.spotify.com/track/55uDGKhnSZUKkkksEG5mRl) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Rolling Stone Original](https://open.spotify.com/album/1CuLna022h4RkyQpd5CMDP) | 2:18 | 2021-12-14 | 2022-11-18 |
 | [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 |  |
 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
+| [A Minute To Myself](https://open.spotify.com/track/0ZcjEawIY7jFDUTJdK9QkO) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [A Minute To Myself](https://open.spotify.com/album/2WzMQD7VpeIWG14dBHSTru) | 3:02 | 2023-08-17 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-14 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 | 2023-02-03 |
 | [A Time for Love](https://open.spotify.com/track/2UoiJSDgOE0G8kFZxgzDGk) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [A Time for Love](https://open.spotify.com/album/6Ptv8G7l8cdlc9mvfa3rFw) | 2:55 | 2022-06-09 |  |
@@ -159,6 +160,7 @@
 | [I'll be seeing you](https://open.spotify.com/track/4MvhQyfkkcr9NvRG3ugoNv) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [I'll be seeing you](https://open.spotify.com/album/5EnkI2gAORHyUljL95CvUC) | 2:30 | 2023-04-14 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2021-12-14 | 2023-02-24 |
 | [I'll Know](https://open.spotify.com/track/18kLnvEUvTSOxEO458nLpb) | [Pat Montgomery](https://open.spotify.com/artist/4MZ1ZTfPA50HgH3A40qCHd) | [I'll Know](https://open.spotify.com/album/2VyBoFDyoYKi3Bocp7bOt7) | 2:33 | 2023-04-27 |  |
+| [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-06-01 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/7433MybqQz6iILaFXwqCW3) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/73AlHfvtVAHZl6PyzE4tKW) | 3:27 | 2023-05-25 |  |
@@ -279,6 +281,7 @@
 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 | 2022-11-10 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-11 |  |
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2022-01-13 |  |
+| [S Wonderful](https://open.spotify.com/track/7FMLsi2Ix1FkyADYRYMA8I) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [S Wonderful](https://open.spotify.com/album/2l9fjk2KJyZ8wWOihLvCCM) | 2:43 | 2023-08-17 |  |
 | [Saint James Infirmary Blues](https://open.spotify.com/track/076g7APvGbCYC9wYiropf8) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Saint James Infirmary Blues](https://open.spotify.com/album/0UIZgy3M75tnAlxUKAxQPn) | 2:04 | 2022-08-31 |  |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-01 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2022-09-13 |  |
@@ -323,6 +326,7 @@
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-01-13 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
+| [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-17 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 | 2023-02-03 |
 | [Summertime](https://open.spotify.com/track/48VBjzx0eH2CkOEjBDlxft) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Summertime](https://open.spotify.com/album/67FpasD3efqkbHYrZoeytx) | 4:41 | 2022-03-10 | 2022-08-12 |
 | [Sunset Life](https://open.spotify.com/track/5cnM07lsmchnXyD1WBWxfk) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Sunset Life](https://open.spotify.com/album/65XTZsfu3TrABAVRsUpXMR) | 2:52 | 2023-05-25 |  |

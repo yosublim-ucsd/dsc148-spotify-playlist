@@ -4,7 +4,7 @@
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-82 songs - 4 hr 51 min
+83 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 | 2022-08-26 |  |
 | [Mirador de Estrellas](https://open.spotify.com/track/2kCAzvahD2dnMIdTY86kZ0) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Mirador de Estrellas](https://open.spotify.com/album/4NLX21nFWfmbgQxyZLCGRG) | 3:25 | 2022-08-26 |  |
 | [Monedas](https://open.spotify.com/track/3kKxjmyiDgiQSi3aiZk0Oq) | [Django](https://open.spotify.com/artist/0vAPDDoJ3Hqk5sOff00c3j) | [Ratas](https://open.spotify.com/album/1ODDHkPfoaeffAiCMQoezs) | 4:09 | 2022-08-26 |  |
-| [Montaña](https://open.spotify.com/track/0OrFGIbnGb7T7Y2TI2Fu5b) | [Lateral](https://open.spotify.com/artist/5DIenL3nznzWs5Xc7EaVA3) | [Montaña](https://open.spotify.com/album/0M7TLr6eJVcHMtojxtUZ5C) | 3:06 | 2022-08-26 |  |
+| [Montaña](https://open.spotify.com/track/0OrFGIbnGb7T7Y2TI2Fu5b) | [Lateral](https://open.spotify.com/artist/5DIenL3nznzWs5Xc7EaVA3) | [Montaña](https://open.spotify.com/album/0M7TLr6eJVcHMtojxtUZ5C) | 3:06 | 2022-08-26 | 2023-08-18 |
+| [Montaña](https://open.spotify.com/track/3P6k3BcsG53TuHUWsPnCz8) | [Lateral](https://open.spotify.com/artist/5DIenL3nznzWs5Xc7EaVA3) | [Montaña](https://open.spotify.com/album/7ypGhnG0crkXiSmYBWsybz) | 3:06 | 2023-04-21 |  |
 | [My Girl](https://open.spotify.com/track/1tREl7Eo7dMS6JZe6wQKT5) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 2:34 | 2022-08-26 |  |
 | [no le mienta a mamá](https://open.spotify.com/track/6ckaxHc7YjKZuIb4obB29X) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [no le mienta a mamá](https://open.spotify.com/album/0UnIcBlwXeIUTgywoiYzxx) | 3:48 | 2022-08-26 |  |
 | [No Puedo](https://open.spotify.com/track/6tR7jCnOKTWzhIMbDdXgSu) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 3:01 | 2022-08-26 |  |

@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-228 songs - 13 hr 35 min
+229 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Poker Face \(Bossa Version\)](https://open.spotify.com/track/3tCo6yIax5tmjwvxqlngxi) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:03 | 2021-12-09 | 2022-06-15 |
 | [Positions \- Bossa Version](https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl) | [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Positions \(Bossa Version\)](https://open.spotify.com/album/218e30ooDSv9hrL6127O7b) | 3:50 | 2022-12-21 | 2023-05-13 |
 | [Pretty Girl](https://open.spotify.com/track/5XNTOoC2zlrKu6PUNAcFw5) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl](https://open.spotify.com/album/10xokanjgvjyZYFmaDND32) | 3:00 | 2023-05-25 |  |
+| [Promises](https://open.spotify.com/track/793uc8Nsi9zySPrqVYFsJ9) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Promises](https://open.spotify.com/album/0hvUnqf5B0RCXBRpSox8Ty) | 3:59 | 2023-08-17 |  |
 | [Pure Shores \- Bossa Nova](https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Pure Shores \(Bossa Nova\)](https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu) | 3:19 | 2021-12-09 |  |
 | [Rebel Rebel](https://open.spotify.com/track/5mZYRyOPWVlTtPGWHJCbAL) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 2:45 | 2021-12-09 | 2023-06-14 |
 | [Red Red Wine](https://open.spotify.com/track/0kiN9VSYCjUyvKoWA1eq8x) | [Summer Cocktail Crew](https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES) | [Red Red Wine](https://open.spotify.com/album/1VHn2AQNKkpcdJVFW7CmeZ) | 4:00 | 2021-12-09 |  |

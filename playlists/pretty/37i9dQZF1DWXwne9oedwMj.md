@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,343 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,801 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
+| 1 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 |
 | 2 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
 | 3 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
 | 4 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 16 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |
 | 17 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |
 | 18 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 |
-| 19 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 |
+| 19 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 | 20 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
 | 21 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 |
 | 22 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 49 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 |
 | 50 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 |
 
-Snapshot ID: `MCxkOGQ1ZTRkMmU5N2U3NTYwNDdhNTJjYmUzYTNkYjZkOTUxMTI3MmY5`
+Snapshot ID: `MCxmNGI2OGE4MzE3M2MzYjFkNDRkNjQ4ZGMzNzAxYWUzY2RhOTViYTY3`

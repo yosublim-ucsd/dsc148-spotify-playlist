@@ -1,12 +1,12 @@
 {
   "description": "Current favorites and exciting new music. Cover: Bebe Rexha & David Guetta",
-  "num_followers": 2834653,
+  "num_followers": 2835259,
   "original_name": "just hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjBmMTdlMjIxMDg0MjMzYzA3Y2RhN2VmODdiNDBkNGQzNzhmZmNk",
+  "snapshot_id": "MCwwZGUzODAzN2Y1NzkzOWFhMWIzY2U2ZTlhNmI3MGRkMDYyMGYxNzU1",
   "tracks": [
     {
       "added_at": "2023-08-16 03:28:37",
@@ -1060,12 +1060,12 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        },
-        {
           "name": "Sam Tompkins",
           "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
       "duration_ms": 155076,

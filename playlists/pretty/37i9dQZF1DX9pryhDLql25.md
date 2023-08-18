@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > pov: fresh produce is in your reusable tote, the flowers are in bloom, and you’re sipping on an iced coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,141 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,194 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 24 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 25 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
 | 26 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
-| 27 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
-| 28 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
+| 27 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
+| 28 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 29 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
 | 30 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
 | 31 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 49 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
 | 50 | [All The Time](https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:54 |
 
-Snapshot ID: `MCxhMzcyN2FiODY0NmYxMjdlMWViYmM3YjNlNzU0OTFkNzYyYTAyMzIx`
+Snapshot ID: `MCxmOGU3YjU1ZDQ3MjhiM2Y5Y2UxZmRjNGNiYjlmMjMwYWMzY2RjMmEz`

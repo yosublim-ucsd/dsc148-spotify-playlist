@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Marnik, Naeleck, VINAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,774,768 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,775,416 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 26 | [Weak \- Nicolas Julian Remix](https://open.spotify.com/track/77rxRq4cs2HsaFiozPPt8d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/album/4Yhf7ybeRFrhCX6a8NsVha) | 2:56 |
 | 27 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
 | 28 | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/album/3748XL91ovL1Tpni1BWAor) | 2:17 |
-| 29 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
+| 29 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 30 | [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 |
 | 31 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 32 | [The Magic Key](https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The Magic Key](https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 |
 | 50 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 |
 
-Snapshot ID: `MCw4ZmRlNjZiODM1ZDA1ODE0Y2E1NzQ2MTM4YTRjYWI5YmNkNzE5Nzc1`
+Snapshot ID: `MCw2MTg4ZjFhY2FmNjNmMjhmZTdjNzk0MWJlMGY4ODIzMWNmM2Y2Mjc4`

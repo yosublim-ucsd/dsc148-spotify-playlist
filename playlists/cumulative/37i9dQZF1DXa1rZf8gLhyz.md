@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-385 songs - 20 hr 19 min
+389 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-04 |  |
 | [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 |  |
 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
+| [A Minute To Myself](https://open.spotify.com/track/0ZcjEawIY7jFDUTJdK9QkO) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [A Minute To Myself](https://open.spotify.com/album/2WzMQD7VpeIWG14dBHSTru) | 3:02 | 2023-08-17 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0fmlfBRcoK9vpKPxzcykWX) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH) | 4:04 | 2023-01-12 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-07 | 2022-11-25 |
 | [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 | 2023-08-11 |
@@ -153,6 +154,7 @@
 | [I Should Care](https://open.spotify.com/track/7N1MFr0xi5jt2KRwxitROp) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Should Care](https://open.spotify.com/album/0t76ZydmDChji48Ry6pvGN) | 4:24 | 2021-12-07 |  |
 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2021-12-07 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2021-12-07 | 2022-12-02 |
+| [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2022-02-15 |  |
@@ -274,6 +276,7 @@
 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 | 2022-11-10 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-10 |  |
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2021-12-07 |  |
+| [S Wonderful](https://open.spotify.com/track/7FMLsi2Ix1FkyADYRYMA8I) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [S Wonderful](https://open.spotify.com/album/2l9fjk2KJyZ8wWOihLvCCM) | 2:43 | 2023-08-17 |  |
 | [Sangfroid](https://open.spotify.com/track/24qMIt9iEQPSvhcIhHI21K) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:57 | 2022-06-28 | 2023-08-11 |
 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 | 2021-12-07 | 2022-07-29 |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-01 |  |
@@ -316,6 +319,7 @@
 | [Strasbourg](https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Strasbourg](https://open.spotify.com/album/04tdMaGADr9577CFzyqoLY) | 2:22 | 2023-05-25 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
 | [Streets of Gold](https://open.spotify.com/track/5CLGKbMa7u0QZe6nLOQEe9) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Streets of Gold](https://open.spotify.com/album/3HRAv95HLT2CXEVQRJSvhV) | 2:02 | 2023-04-27 |  |
+| [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-17 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 |  |
 | [Sweet And Lovely](https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Sweet And Lovely](https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex) | 3:30 | 2022-12-08 |  |
 | [Sweet Dreams](https://open.spotify.com/track/1VqEgVFBYgZPbx7wQYKGqY) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Sweet Dreams](https://open.spotify.com/album/0q8gPe14lThzUj7859i7MZ) | 3:31 | 2022-05-31 |  |

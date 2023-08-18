@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxOTU0NDAsMDAwMDAwMDA5NzYwYWU1N2FhODQxMGM3MGQ0ODQ4NDIwNzJiNzE1Nw==",
+  "snapshot_id": "MjgxOTU0NDAsMDAwMDAwMDBhMmU1YmYxZjdlMTE2N2U2YTYxZWRkNDQzNWY5NWEwNw==",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -55,6 +55,46 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "YUPP! (feat. Remy Ma)",
+        "url": "https://open.spotify.com/album/1rbMc48YDSl6fc8NQp7rHu"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "duration_ms": 182267,
+      "name": "YUPP! (feat. Remy Ma)",
+      "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Uptown Girl",
+        "url": "https://open.spotify.com/album/3Y98hPZw4Mvcz05eLeWGum"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Stella Katherine Cole",
+          "url": "https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz"
+        }
+      ],
+      "duration_ms": 208124,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/6RXAdmP1IjUWZxDHOqnUpa"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Dumptruck",
         "url": "https://open.spotify.com/album/6nfuH5rTDoPyBFxZF7iDDK"
       },
@@ -67,6 +107,102 @@
       "duration_ms": 172213,
       "name": "Dumptruck",
       "url": "https://open.spotify.com/track/0IHcYxdpO53JRMim5ftAsX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/1yF7u9oYr18P4XkwR1EbmU"
+      },
+      "artists": [
+        {
+          "name": "Humble Soles",
+          "url": "https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv"
+        },
+        {
+          "name": "DJ Clue",
+          "url": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf"
+        },
+        {
+          "name": "Tyre Hakim",
+          "url": "https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Tish Hyman",
+          "url": "https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K"
+        }
+      ],
+      "duration_ms": 204796,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/1XMXIdPHXXoTI48rQEBp9V"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "SUPPOSED TO BE LOVED",
+        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 206972,
+      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Oh, You Crazy Moon (Ornithology Remix)",
+        "url": "https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
+        }
+      ],
+      "duration_ms": 67764,
+      "name": "Oh, You Crazy Moon - Ornithology Remix",
+      "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Say You Love Me (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
+        "url": "https://open.spotify.com/album/0arJxQRndKeinh99B0h1IL"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 269613,
+      "name": "Say You Love Me - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/2qtq98xBZgRhlxhoXvtK8w"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -111,114 +247,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Say You Love Me (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
-        "url": "https://open.spotify.com/album/0arJxQRndKeinh99B0h1IL"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 269613,
-      "name": "Say You Love Me - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/2qtq98xBZgRhlxhoXvtK8w"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Oh, You Crazy Moon (Ornithology Remix)",
-        "url": "https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Ornithology",
-          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
-        }
-      ],
-      "duration_ms": 67764,
-      "name": "Oh, You Crazy Moon - Ornithology Remix",
-      "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/1yF7u9oYr18P4XkwR1EbmU"
-      },
-      "artists": [
-        {
-          "name": "Humble Soles",
-          "url": "https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv"
-        },
-        {
-          "name": "DJ Clue",
-          "url": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf"
-        },
-        {
-          "name": "Tyre Hakim",
-          "url": "https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Tish Hyman",
-          "url": "https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K"
-        }
-      ],
-      "duration_ms": 204796,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/1XMXIdPHXXoTI48rQEBp9V"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "YUPP! (feat. Remy Ma)",
-        "url": "https://open.spotify.com/album/1rbMc48YDSl6fc8NQp7rHu"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        }
-      ],
-      "duration_ms": 182267,
-      "name": "YUPP! (feat. Remy Ma)",
-      "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Uptown Girl",
-        "url": "https://open.spotify.com/album/3Y98hPZw4Mvcz05eLeWGum"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Stella Katherine Cole",
-          "url": "https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz"
-        }
-      ],
-      "duration_ms": 208124,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/6RXAdmP1IjUWZxDHOqnUpa"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Scream & Shout (Metal Version)",
         "url": "https://open.spotify.com/album/5F11RYmd0x6EHHJ6SewF5h"
       },
@@ -231,34 +259,6 @@
       "duration_ms": 259859,
       "name": "Scream & Shout (Metal Version)",
       "url": "https://open.spotify.com/track/6nhPqiiB5sy8E5hDfpsdeT"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "SUPPOSED TO BE LOVED",
-        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 206972,
-      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -467,30 +467,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Disconnect (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/1GnRx7KBUiUNl1wk7bzNwA"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 206821,
-      "name": "Disconnect - Ti\u00ebsto Extended Remix",
-      "url": "https://open.spotify.com/track/2P9PYltlVgxAcLOerXqcHA"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Curly",
         "url": "https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg"
       },
@@ -504,17 +480,21 @@
           "url": "https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Nir Felder",
+          "url": "https://open.spotify.com/artist/7L6hdiesl0TXJgdciKKrxD"
         },
         {
           "name": "Robert \u2018Sput\u2019 Searight",
           "url": "https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun"
         }
       ],
-      "duration_ms": 349243,
-      "name": "24th & Lake (feat. Cory Henry & Robert 'Sput' Searight)",
-      "url": "https://open.spotify.com/track/2eLZvl9yQmsbOxyHJNGyi0"
+      "duration_ms": 430026,
+      "name": "Untitled 5 (feat. Robert 'Sput' Searight, Larry Goldings & Nir Felder)",
+      "url": "https://open.spotify.com/track/1gGb4yJsDEk8EmL8C6ENPO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -528,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
         }
       ],
-      "duration_ms": 161957,
-      "name": "Deer Alley",
-      "url": "https://open.spotify.com/track/3P43Ibmy2kgnGR0tFEs4aP"
+      "duration_ms": 178952,
+      "name": "Drill Sergeant",
+      "url": "https://open.spotify.com/track/6PZo5se6fU1qBkwB7xWoM2"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -567,18 +547,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "You've Got To Learn (Live)",
-        "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 242797,
-      "name": "I Loves You Porgy - Live",
-      "url": "https://open.spotify.com/track/1ojJeJgyAnbOeXnB1II9gO"
+      "duration_ms": 266159,
+      "name": "Waited All Your Life",
+      "url": "https://open.spotify.com/track/525ZuYk4K5oDXTKnQABXYA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -595,6 +575,22 @@
       "duration_ms": 202000,
       "name": "Finding Yourself",
       "url": "https://open.spotify.com/track/0t3YVK70KEmcYnoFj3xGLg"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "You've Got To Learn (Live)",
+        "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 242797,
+      "name": "I Loves You Porgy - Live",
+      "url": "https://open.spotify.com/track/1ojJeJgyAnbOeXnB1II9gO"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -986,7 +986,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 168000,
       "name": "DESIRES",
       "url": "https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY"
@@ -1369,6 +1369,28 @@
     },
     {
       "album": {
+        "name": "Moodscape",
+        "url": "https://open.spotify.com/album/7rPnXr9hZ5KoVMWiED1ZWY"
+      },
+      "artists": [
+        {
+          "name": "SARRB",
+          "url": "https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169899,
+      "name": "Footage",
+      "url": "https://open.spotify.com/track/2zgKsrJIIPYTj0hzch4CML"
+    },
+    {
+      "album": {
         "name": "FAME",
         "url": "https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg"
       },
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 148858,
       "name": "Fully Loaded",
       "url": "https://open.spotify.com/track/5zUPoHkgqAr1XwTMNzNtGs"
@@ -2965,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+    },
+    {
+      "album": {
         "name": "Disturbing the Peace",
         "url": "https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN"
       },
@@ -4172,7 +4212,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 184102,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4faDlXyZMSxEuxBdd5gDIz"
@@ -4556,6 +4596,28 @@
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"
+    },
+    {
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "What...?",
+      "url": "https://open.spotify.com/track/2zkp8sFTnlN7xBrxnG5PA6"
     },
     {
       "album": {

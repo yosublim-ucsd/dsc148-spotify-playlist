@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,714 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,761 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 28 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 |
 | 29 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
 | 30 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 |
-| 31 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
-| 32 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 31 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 32 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 33 | [Choo Choo Ch' Boogie](https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Stop Rockin' That Train](https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl) | 2:43 |
 | 34 | [Honky Tonk Train Blues](https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:58 |
 | 35 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 52 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
 | 53 | [Boogie Woogie Country Girl](https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Greatest Hits](https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE) | 2:41 |
 | 54 | [Dollar Bill Boogie](https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA) | [Big Joe Duskin](https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB) | [Cincinnati Stomp](https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz) | 2:26 |
-| 55 | [Shake Baby Shake](https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [The Bobby Robinson Story Volume One](https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG) | 2:25 |
-| 56 | [Blueberry Hill](https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z) | [Esben Just](https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ) | [Keep It Coming](https://open.spotify.com/album/169PS1pKQBPMCszDnERktt) | 2:26 |
-| 57 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
+| 55 | [Blueberry Hill](https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z) | [Esben Just](https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ) | [Keep It Coming](https://open.spotify.com/album/169PS1pKQBPMCszDnERktt) | 2:26 |
+| 56 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
+| 57 | [Shake Baby Shake](https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [The Bobby Robinson Story Volume One](https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG) | 2:25 |
 | 58 | [Swanee River Boogie](https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [So Swell](https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO) | 2:31 |
 | 59 | [Boogie Woogie Storm](https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg) | [Martin Pyrker, Sabine Pyrker](https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt) | [Boogie Woogie Storm](https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW) | 2:54 |
 | 60 | [Count Basie's Red Bank Cafe](https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2) | [Floyd Domino](https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2) | [Hightower Boogie Woogie](https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Bongo Boogie](https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj) | [Anisteen Allen](https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:40 |
 | 75 | [Chicago Breakdown](https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:57 |
 
-Snapshot ID: `MCxlZTk0ODU1ZGFkZGFiMDUwYTdkYTMzYjFlZDQ3YmY2OGZkNGNhMTE3`
+Snapshot ID: `MCxmMWZlYTMxN2RiOWU0NTdkY2ViYjEwOTE4ZjQ1YTNmYzlmMTQ4NzYy`

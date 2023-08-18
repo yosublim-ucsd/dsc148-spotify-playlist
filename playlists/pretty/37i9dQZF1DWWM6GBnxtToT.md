@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,660 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,870 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 28 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 |
 | 29 | [in my mind](https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [in my mind](https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk) | 3:01 |
 | 30 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
-| 31 | [Apricosa](https://open.spotify.com/track/2aQW9lirSUq2DXAKooSFdr) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Apricosa](https://open.spotify.com/album/0WkRFLP0BLEC31abFp4eHH) | 2:38 |
+| 31 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
 | 32 | [3D Feelings](https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:17 |
-| 33 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
+| 33 | [Apricosa](https://open.spotify.com/track/2aQW9lirSUq2DXAKooSFdr) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Apricosa](https://open.spotify.com/album/0WkRFLP0BLEC31abFp4eHH) | 2:38 |
 | 34 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 |
 | 35 | [Don't Let Me Down](https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o) | 3:20 |
 | 36 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 40 | [Run Run Run](https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B) | [Yeah But No](https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J) | [Demons](https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n) | 3:34 |
 | 41 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 |
 | 42 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
-| 43 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
-| 44 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
+| 43 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
+| 44 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
 | 45 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |
 | 46 | [Someone You Love](https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Someone You Love](https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM) | 3:23 |
 | 47 | [minuit](https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L) | [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [minuit](https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89) | 3:45 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 90 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
 | 91 | [Falling Back](https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Young Romance \(Deluxe\)](https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg) | 4:39 |
 | 92 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
-| 93 | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5) | 2:43 |
-| 94 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 93 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
+| 94 | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5) | 2:43 |
 | 95 | [Take Me Home Boy](https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Road](https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI) | 3:13 |
 | 96 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
 | 97 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 99 | [IknowhowIfeel \- from Hansa Studios, Berlin](https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 2:55 |
 | 100 | [Saltburn](https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [Saltburn](https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj) | 3:06 |
 
-Snapshot ID: `MCwwZDU5M2QwN2ZkNTQ0MGNiYzhjZDIyYWRiYzQ5MDdjZGU0NDRkMTgz`
+Snapshot ID: `MCw1ODkwNDU5Njc0OGNhZTNkYWRjMTU4NTU1MDZlNDZlNTA0NTk3MmYw`

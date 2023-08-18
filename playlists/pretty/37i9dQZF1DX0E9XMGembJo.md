@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 
 > your daily dose of dopamine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,414 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,024 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 36 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 |
 | 37 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 38 | [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 |
-| 39 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
+| 39 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
 | 40 | [comfort, texas](https://open.spotify.com/track/5G4dllapO3PVyuIy2XYZQG) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [comfort, texas](https://open.spotify.com/album/0XnxJHLlceYWMWNRWjzd2H) | 2:11 |
-| 41 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
+| 41 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
 | 42 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
 | 43 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 44 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 54 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 55 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 56 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 57 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
-| 58 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 57 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 58 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
 | 59 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
 | 60 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
 | 61 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 79 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 80 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 
-Snapshot ID: `MCw0MTBlOGRhODI5NGQ0OTA3NTczYmM1MjhjMTlmOTM3NGFjMjM5ZmJm`
+Snapshot ID: `MCxkZTA1Yzk1M2Y1MzRlYTRiNWNjYjE4YmU1YzRlN2I3NjIwZjFhYzRk`

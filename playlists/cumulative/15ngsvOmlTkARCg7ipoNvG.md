@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,023 songs - 22 hr 54 min
+1,025 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,6 +565,7 @@
 | [Moonlight Echoes](https://open.spotify.com/track/1R4jHCzDcxyadZxB0ZCZqg) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Moonlight Echoes](https://open.spotify.com/album/0jMKVVOxTLjUcM2Ti6urpr) | 2:51 | 2022-01-12 | 2023-04-09 |
 | [Moonlight Mystery \- Piano Lullaby](https://open.spotify.com/track/0Yz35KBM6ots6PhZ9qGfQt) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Moonlight Mystery](https://open.spotify.com/album/7AAPLcfkp1OoQAuDLe8Typ) | 1:02 | 2023-05-14 |  |
 | [Moonshine Arr\. For Cello And Piano](https://open.spotify.com/track/0Eg7oFTySCgBzJ35Kis4vD) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Winter Shadows](https://open.spotify.com/album/2YYMwsK9i3Qz90Kb0jmbF0) | 1:01 | 2023-04-19 |  |
+| [Morning By The Sea Arr\. For Grand Piano](https://open.spotify.com/track/4pTkXQHqerOsei3Bary8IR) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Two Soft Piano Preludes](https://open.spotify.com/album/0mnucD4cDwBMjnwQfqQiGC) | 1:00 | 2023-08-17 |  |
 | [Morning Calm](https://open.spotify.com/track/37WsMLQKWs6HNatOhCJLoN) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Morning Calm](https://open.spotify.com/album/1Pcrf4XQXZIKjTRn6HdcAN) | 1:02 | 2022-09-01 |  |
 | [Morning Comforts](https://open.spotify.com/track/65Wq2DcxRLal3DUZEeQfQj) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 |  |
 | [Morning Prayer](https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Morning Prayer](https://open.spotify.com/album/3VAb43boYj5U6f4aCty13z) | 3:24 | 2022-01-12 |  |
@@ -960,6 +961,7 @@
 | [Violin Sunset](https://open.spotify.com/track/3OKDKntyeYm1JMdoD4nr0m) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Violin Sunset](https://open.spotify.com/album/2500JpcFb5U1i4p55jm8h7) | 1:01 | 2022-09-25 |  |
 | [Voices From The Distance](https://open.spotify.com/track/2JaRt9OO8ipSk7qb7nIYY8) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Sky](https://open.spotify.com/album/5nObQ6bd92SsV82NWLk3Dl) | 1:02 | 2022-02-22 |  |
 | [Voices from the Sky](https://open.spotify.com/track/1HQxC8eLDJwjK7Hj3DPC8c) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Voices from the Sky](https://open.spotify.com/album/0jDfkQfP8GlfgNY70115Gl) | 2:49 | 2022-01-12 |  |
+| [Voices In Harmony Arr\. For Soft Piano](https://open.spotify.com/track/36MlSW9kQ5zheO8EXwS998) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Two Soft Piano Preludes](https://open.spotify.com/album/0mnucD4cDwBMjnwQfqQiGC) | 1:01 | 2023-08-17 |  |
 | [Voyage at Midnight](https://open.spotify.com/track/63XMHIOPlpn15Fc6l6Mvk5) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Nocturnal](https://open.spotify.com/album/4TMcXG9vuGb5jDRLdcEhhF) | 1:53 | 2022-01-12 |  |
 | [Waiting for You](https://open.spotify.com/track/1j2aaER2yAJBmvrijm3F5u) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Nocturnal](https://open.spotify.com/album/4TMcXG9vuGb5jDRLdcEhhF) | 1:51 | 2022-01-12 |  |
 | [Waiting For You](https://open.spotify.com/track/4oRXyjIUv9YgSBUBaRT4Qw) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Waiting For You](https://open.spotify.com/album/3UsI5gHuWmEK6zN5wymDPv) | 2:17 | 2022-01-12 |  |

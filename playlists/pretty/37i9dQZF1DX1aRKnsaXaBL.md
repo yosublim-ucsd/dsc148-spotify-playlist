@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,024 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,040 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 38 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
 | 39 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
 | 40 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 |
-| 41 | [Nunca Te Quise](https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Nunca Te Quise](https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv) | 3:35 |
-| 42 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 |
-| 43 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 |
-| 44 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
+| 41 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 |
+| 42 | [Nunca Te Quise](https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Nunca Te Quise](https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv) | 3:35 |
+| 43 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
+| 44 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 |
 | 45 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
-| 46 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 |
+| 46 | [BROOKLYN](https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [BROOKLYN](https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8) | 3:35 |
 | 47 | [El Ding Dong](https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Ding Dong](https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp) | 2:39 |
-| 48 | [BROOKLYN](https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [BROOKLYN](https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8) | 3:35 |
+| 48 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 |
 | 49 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
 | 50 | [Los Años Maravillosos](https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Los Años Maravillosos](https://open.spotify.com/album/4a8QZdeULQRoMTgxVbcsCw) | 4:23 |
 
-Snapshot ID: `MCw2Y2FlNjdkMmFhZDMxMTY2MWNmOTg4M2ZhYTg4Yzk2YTk5ZWQ2NjE1`
+Snapshot ID: `MCwwNDhiMmNmOTQzNjJlMTRiNmZlZjg4YmQzNTMzNGU3ZTU3NzI5M2Y4`

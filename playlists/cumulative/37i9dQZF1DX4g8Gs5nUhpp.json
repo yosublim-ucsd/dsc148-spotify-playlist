@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: GREY D",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Wren Evans",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -440,6 +440,28 @@
       "duration_ms": 197549,
       "name": "B\u1eaft C\u00f3c Con Tim",
       "url": "https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7cyQGqqV7M5XxCJimEjX0j"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "itsnk",
+          "url": "https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/08GUMwJRpisuxHGyRzoSuu"
     },
     {
       "album": {
@@ -2214,6 +2236,24 @@
       "duration_ms": 179154,
       "name": "Ng\u01b0\u1eddi \u00d4m Ph\u00e1o Hoa",
       "url": "https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m"
+    },
+    {
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147795,
+      "name": "ng\u01b0\u1eddi \u0111i\u00ean",
+      "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
     },
     {
       "album": {

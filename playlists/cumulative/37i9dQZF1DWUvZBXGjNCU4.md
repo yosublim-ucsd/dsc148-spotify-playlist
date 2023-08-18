@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-280 songs - 12 hr 41 min
+281 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,12 +98,13 @@
 | [Gallowhill](https://open.spotify.com/track/7vaRxV3zmbu9jlkZNfCpDi) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/29nlogZZVuuaLvA9lwjgTj) | 2:05 | 2022-07-22 |  |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2022-05-13 | 2023-03-31 |
 | [Golden Coast](https://open.spotify.com/track/0waUQx6xGwUQALnhBt9Hr8) | [Alexis Snell](https://open.spotify.com/artist/2meBF8usB3g5MDVAfJC8EK) | [Golden Coast](https://open.spotify.com/album/5kPv7r06j48SQ5FaItaA2a) | 3:20 | 2022-05-13 |  |
-| [Goodbye](https://open.spotify.com/track/0tDUVtkNs3dn799WQIfk97) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Randal L Meek](https://open.spotify.com/artist/7IbVTpxbYawdWViVedEJIB) | [Goodbye](https://open.spotify.com/album/5hCt1vCsVJrb4RocHLRiBF) | 3:25 | 2022-06-10 |  |
+| [Goodbye](https://open.spotify.com/track/0tDUVtkNs3dn799WQIfk97) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Randal L Meek](https://open.spotify.com/artist/7IbVTpxbYawdWViVedEJIB) | [Goodbye](https://open.spotify.com/album/5hCt1vCsVJrb4RocHLRiBF) | 3:25 | 2022-06-10 | 2023-08-18 |
 | [Gravity](https://open.spotify.com/track/4c0elNnVTcM5E9SXxnVlF4) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Gravity](https://open.spotify.com/album/7JVqev38x90LU4bq85nAqM) | 1:44 | 2022-11-18 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2022-05-13 |  |
 | [Guitarra De Aire](https://open.spotify.com/track/4CeuvQWrIQ6IGWLicEsZzv) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:45 | 2022-05-13 | 2022-10-07 |
 | [Gulf Coast Priory](https://open.spotify.com/track/00uqqC4iEhwjVSLOtewgk9) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Easy Escapes](https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn) | 2:53 | 2022-08-05 | 2023-03-31 |
 | [Happy Faces](https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G) | [Juno Harrell](https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY) | [Happy Faces](https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy) | 3:20 | 2022-05-13 |  |
+| [Hart Road](https://open.spotify.com/track/03RnXHco9ZFWCcN1lCIqNl) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Hart Road](https://open.spotify.com/album/7koG6f9dFfziqMRR7eNgIY) | 2:45 | 2023-08-17 |  |
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 | 2023-06-23 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-05-13 |  |
 | [Her Beauty and The Moonlight](https://open.spotify.com/track/5pVB8mXfdg24zKDx8sCy1S) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Her Beauty and The Moonlight](https://open.spotify.com/album/06B2QM3Aysi78sk7q7DWBu) | 2:45 | 2022-05-13 |  |
@@ -266,7 +267,7 @@
 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 | 2023-02-24 |  |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-05-13 | 2023-06-10 |
 | [Violet Fog](https://open.spotify.com/track/3E5sK3kvpTuUBQDQ8fvIes) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Violet Fog](https://open.spotify.com/album/0jQZ7IEH8y10fgOheXeGVq) | 2:58 | 2022-07-08 | 2022-07-15 |
-| [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-05-13 |  |
+| [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-05-13 | 2023-08-18 |
 | [Virginia Roads](https://open.spotify.com/track/4mvPV4OfTqTr3BphyM4Rz1) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 3:21 | 2022-05-13 | 2023-02-25 |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-05-13 |  |
 | [waking up in a new world](https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 4:43 | 2022-05-13 | 2022-07-15 |

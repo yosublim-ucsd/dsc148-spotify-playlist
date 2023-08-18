@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,562 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,566 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 17 | [Permanent Holiday](https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [The Change I'm Seeking](https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR) | 8:02 |
 | 18 | [A Reminder \(Remix\)](https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [A Reminder \(Remix\)](https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA) | 4:45 |
 | 19 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
-| 20 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
-| 21 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 20 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 21 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
 | 22 | [Harmonize](https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G) | 5:07 |
 | 23 | [Wind On My Back](https://open.spotify.com/track/1aVYeyLNQSCvJgAIAR9xVb) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [The Cornerstone](https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47) | 4:00 |
 | 24 | [10 Laws](https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [The Education of the Individual Soul](https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot) | 4:19 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 31 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
 | 32 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
 | 33 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
-| 34 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
-| 35 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
+| 34 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
+| 35 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
 | 36 | [Dragonfly](https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf) | [Nahko](https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S) | [My Name Is Bear](https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor) | 4:45 |
 | 37 | [Moon / Sun](https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [The Fruitful Darkness](https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG) | 3:59 |
 | 38 | [Stronger \- Acoustic](https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 |
 | 50 | [Steppegrass](https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D) | 5:51 |
 
-Snapshot ID: `MCwzMTk5NDEzMDc3MmJlNDBjZTc0NDA2OGJjZTgwNmM3ZDM4MDMxM2Yx`
+Snapshot ID: `MCwwNDZmMDJlZmFhZWQwYzMyM2U5N2M1OWM1MTg2YzNjMGZlNzM4ODdk`

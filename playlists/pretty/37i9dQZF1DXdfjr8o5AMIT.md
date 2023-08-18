@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 
 > The quintessential list of songs to celebrate commencement\. Congrats to the Class of 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,032 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,028 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 | 13 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 14 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
 | 15 | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) | 3:49 |
-| 16 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
-| 17 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
+| 16 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
+| 17 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 | 18 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 |
 | 19 | [The Spins](https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 3:15 |
 | 20 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 | 28 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 |
 | 29 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 30 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
-| 31 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 |
-| 32 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
+| 31 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
+| 32 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 |
 | 33 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 34 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
 | 35 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 | 49 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
 | 50 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
 
-Snapshot ID: `MCw3Y2ZhMzM3Y2U4NDA5MzIzNTJiNzAxZTBjMGU2NDY2MTM1YzM4ZmU4`
+Snapshot ID: `MCxjMmZlNzI1ZGRmZDQ3NGI2MTlmYWU3N2M1MDU3OTIyZTFiNjM1NTlm`

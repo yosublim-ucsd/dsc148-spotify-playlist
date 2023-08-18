@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,505 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,527 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 18 | [Give It Up For Love](https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Give It Up For Love](https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky) | 3:58 |
 | 19 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 |
 | 20 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
-| 21 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 |
+| 21 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
 | 22 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
-| 23 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 |
-| 24 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
+| 23 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 |
+| 24 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 |
 | 25 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 |
 | 26 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 27 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 53 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 |
 | 54 | [Self\-Portrait](https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Self\-Portrait](https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0) | 2:21 |
 | 55 | [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 |
-| 56 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 |
+| 56 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 |
 | 57 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 |
 | 58 | [favourite girl](https://open.spotify.com/track/6VaZbfreoleaP0yyWErMAf) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [favourite girl](https://open.spotify.com/album/2CY6ds96kJPwcSlaiSuZMS) | 2:34 |
 | 59 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 62 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 |
 | 63 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
 | 64 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
-| 65 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
-| 66 | [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 |
+| 65 | [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 |
+| 66 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 67 | [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 |
 | 68 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 |
 | 69 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Muscle Memory](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 |
 | 80 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 
-Snapshot ID: `MCw2ZjE3ZDk5YjZkN2Q1M2ZkZDM4NjQ0ZjZiYmQ2N2JiMTU3NzlhNjgy`
+Snapshot ID: `MCw5MDk5YzNkMmVjMmY3OWQzMzgyMWM2M2M4ZjNlZWMzMjYyODM0N2Qy`

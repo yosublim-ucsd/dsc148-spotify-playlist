@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > what would we do without ethereal cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618,045 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,618,319 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 61 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 |
 | 62 | [Kerosene!](https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 5:05 |
 | 63 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 |
-| 64 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
-| 65 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |
+| 64 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |
+| 65 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
 | 66 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 |
 | 67 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 | 68 | [The Smoke](https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
 | 75 | [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 |
 
-Snapshot ID: `MCw4YzEyZjkzMWY0MjdhOTQ0Mjc2OWFjMmIxY2E3ODk1MzcwMzZkMDFm`
+Snapshot ID: `MCw0MGY4MWU2ZTM4ZGMzNzllYTUzZTlmNzBlMTY2MzhiMzJhOWE2ODcx`

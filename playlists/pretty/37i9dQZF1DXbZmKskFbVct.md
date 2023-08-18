@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,898 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,896 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 27 | [Everything is Okay](https://open.spotify.com/track/0EuUoivsrB7lBHZDffnvxc) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw) | 3:07 |
 | 28 | [Relax and Close Your Eyes](https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A) | 7:00 |
 | 29 | [Violet is BACK to help you fall sleep Pt.1](https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Violet is BACK to help you fall sleep](https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw) | 4:37 |
-| 30 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
+| 30 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |
 | 31 | [Positive Affirmations](https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [Intensely Crunchy Celery Eating](https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec) | 14:44 |
-| 32 | [Santorini Sunbath](https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 4:31 |
+| 32 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
 | 33 | [Painting Your Lips](https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 1:14 |
 | 34 | [Guided Visualization for Sleep, Pt\. 1](https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f) | [ASMR Blossom](https://open.spotify.com/artist/6HpWebq041QRizskcykHPH) | [ASMR Guided Visualisation for Sleep](https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK) | 2:15 |
 | 35 | [The Invisible Man \- Unintelligible Inaudible Whispered Reading, Pt\. 6](https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq) | [WhisperAudios ASMR](https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G) | [ASMR \- The Invisible Man \- Unintelligible/Inaudible Whispered Reading \(WITHOUT ambient sounds\)](https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV) | 5:59 |
 | 36 | [Audio on Spotify, Surfshark](https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Shh it's Ok, Relax and Ramble \(Personal Attention/Affirmation\)](https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX) | 10:42 |
 | 37 | [Guided Meditation and Positive Affirmations, Pt\. 1](https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [Whispering Things Your Brain Needs To Hear](https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di) | 15:09 |
-| 38 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
-| 39 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
-| 40 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |
+| 38 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
+| 39 | [Santorini Sunbath](https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 4:31 |
+| 40 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
 | 41 | [Triggers I'm Wearing Pt.1](https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Triggers I'm Wearing](https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ) | 4:37 |
 | 42 | [Alphabet Revision, Pt\. 1](https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc) | [iPad ASMR](https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN) | [Russian Language Revision \- Cyrillic Alphabet](https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh) | 3:29 |
 | 43 | [ROLEPLAY VENDEUSE DE CHAUSSURES, Pt\. 1](https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd) | [Dolce Romy ASMR](https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n) | [ROLEPLAY VENDEUSE DE CHAUSSURES](https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm) | 5:02 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 47 | [Whispers and Dry Ear Massage](https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [10 Triggers To Help Relax Your Brain At Night](https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb) | 9:44 |
 | 48 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c) | 6:01 |
 | 49 | [Cozy Low\-Light Pt.4](https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq) | [Goodnight Moon ASMR](https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj) | [Cozy Low\-Light](https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb) | 7:50 |
-| 50 | [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 |
+| 50 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3) | 3:36 |
 
-Snapshot ID: `MCxlOTg3NDQ5MjkyYWJiZGM0N2M1YzdmYjJjNTA4YmI0MTUwYTIwNzNl`
+Snapshot ID: `MCxjNzU2OWQ0ZjAxZTdmM2UyMWU4ZDIwZTczZGZjOGI0NTRkZjMwYWM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Cover: Dierks Bentley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168,778 likes - 95 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,169,014 likes - 95 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 30 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
 | 31 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
 | 32 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
-| 33 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 33 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 |
 | 34 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
 | 35 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 |
-| 36 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 |
+| 36 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 37 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 | 38 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 39 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 45 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
 | 46 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 47 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
-| 48 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
-| 49 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
+| 48 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
+| 49 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 50 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
 | 51 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [III](https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl) | 3:07 |
 | 52 | [What’s Your Country Song](https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:51 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 74 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
 | 75 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 76 | [I'm Comin' Over](https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:17 |
-| 77 | [Mean](https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 3:57 |
+| 77 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
 | 78 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
-| 79 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
+| 79 | [Mean](https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 3:57 |
 | 80 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
 | 81 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 |
 | 82 | [Burning Man](https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:58 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 90 | [Stay A Little Longer](https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 5:35 |
 | 91 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 |
 | 92 | [Blown Away](https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:00 |
-| 93 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 |
-| 94 | [Kiss Somebody](https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:33 |
+| 93 | [Kiss Somebody](https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:33 |
+| 94 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 |
 | 95 | [If You're Going Through Hell \(Before The Devil Even Knows\)](https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:36 |
 
-Snapshot ID: `MCxkYWE2ZmQ3ZjllOTM5ZTg3YmZmYjdhYzY0NGU2MTdlZTgzMTRjOGMy`
+Snapshot ID: `MCwxZjE4NGM4MmZjMzg1N2I3NmE3YzQ4MjhjODk2NWQ0OTFmZjc2N2Nj`

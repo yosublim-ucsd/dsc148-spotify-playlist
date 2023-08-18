@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 263250,
       "name": "bad",
       "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
@@ -6340,7 +6340,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
@@ -7628,7 +7628,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 213817,
       "name": "Dial Drunk (with Post Malone)",
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
@@ -8056,7 +8056,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185600,
       "name": "Do not touch",
       "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
@@ -8078,6 +8078,24 @@
       "duration_ms": 176973,
       "name": "Do Ya Wanna Taste It",
       "url": "https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N"
+    },
+    {
+      "album": {
+        "name": "Doggonit (Original recording)",
+        "url": "https://open.spotify.com/album/6rnEiGg3wm3QVTidkixjzJ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234417,
+      "name": "Doggonit - Original recording",
+      "url": "https://open.spotify.com/track/7p9fBwLcoG5zdAukb2xgSr"
     },
     {
       "album": {
@@ -9640,7 +9658,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
@@ -13027,6 +13045,32 @@
     },
     {
       "album": {
+        "name": "homebdy",
+        "url": "https://open.spotify.com/album/3im6kBTOa0nG74iwgvuNXl"
+      },
+      "artists": [
+        {
+          "name": "D\u0116MI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "slimedemidemislime",
+          "url": "https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E"
+        },
+        {
+          "name": "Madman Stan",
+          "url": "https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141762,
+      "name": "homebdy",
+      "url": "https://open.spotify.com/track/2bFabpKKu22phRjaQPkYV8"
+    },
+    {
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
       },
@@ -13266,7 +13310,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 207647,
       "name": "Hukum - Thalaivar Alappara (From \"Jailer\")",
       "url": "https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA"
@@ -16601,6 +16645,24 @@
     },
     {
       "album": {
+        "name": "LIFE IN HELL",
+        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "LANCEY OR LANCEY",
+      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
+    },
+    {
+      "album": {
         "name": "Langit Favorit",
         "url": "https://open.spotify.com/album/6VuUK4xHGX8fF6aO00wOfI"
       },
@@ -17630,7 +17692,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -31866,7 +31928,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 192166,
       "name": "T\u00f6vbe",
       "url": "https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0"
@@ -34166,6 +34228,24 @@
       "duration_ms": 125714,
       "name": "YALA DEDI YALAMA",
       "url": "https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF"
+    },
+    {
+      "album": {
+        "name": "Nostalgia Sessions",
+        "url": "https://open.spotify.com/album/6Xv82b2muGSbKA3Vtd0FEO"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172010,
+      "name": "Yalanc\u0131 Bahar - Nostalgia Sessions",
+      "url": "https://open.spotify.com/track/1uUqPjsPhymf3TkWfbrMzR"
     },
     {
       "album": {

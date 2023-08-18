@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: 정국\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,596 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,645 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 49 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 50 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 
-Snapshot ID: `MCw2N2ZlOGUwMmM2OWMxNTc5M2VjYzg4OWYwODYyYjljOTcwMzUwNjg5`
+Snapshot ID: `MCxmMmI3MmY4Njk0NDg4ZTIxODMwNzIyMGEyNjIwYzFhZDliMzE4Y2Yw`

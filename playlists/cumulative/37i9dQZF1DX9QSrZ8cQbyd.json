@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "The Red Little House",
+        "url": "https://open.spotify.com/album/5PcZ9EhVGTTcQHi8J2JHav"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Terrell",
+          "url": "https://open.spotify.com/artist/0oiz2oryJ2DOvJAA98fPIJ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102750,
+      "name": "The Red Little House",
+      "url": "https://open.spotify.com/track/4097AnhLGCx0DD2a7QsMNP"
+    },
+    {
+      "album": {
         "name": "The Rooster",
         "url": "https://open.spotify.com/album/6YrHZXpnoIHg2CbK73zUjY"
       },

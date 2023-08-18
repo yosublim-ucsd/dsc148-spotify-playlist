@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 11903,
+  "num_followers": 11995,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWQwMDk3ODQ3MWRmNDEzMzgyNTg2ZGU5ZDE3ODdmNWRlODc3MDI3",
+  "snapshot_id": "MCw2MDBjYzBlZjZjNjUzZmYxZDY4NDVkNTVlNTc0MWQ4MzhhNGM1NzBj",
   "tracks": [
     {
       "added_at": "2023-08-16 10:21:42",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "Ultimate Stan Getz",
-        "url": "https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 507133,
-      "name": "Wee (Allen's Alley)",
-      "url": "https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D"
-    },
-    {
-      "added_at": "2023-08-16 10:21:42",
-      "album": {
         "name": "Afro-Cuban (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 267773,
       "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
       "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
+    },
+    {
+      "added_at": "2023-08-16 10:21:42",
+      "album": {
+        "name": "Ultimate Stan Getz",
+        "url": "https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 507133,
+      "name": "Wee (Allen's Alley)",
+      "url": "https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "The Genius Of Charlie Parker",
-        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 182160,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+        "name": "The Genius Of Charlie Parker",
+        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+      "duration_ms": 182160,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+        "name": "Nippon Soul",
+        "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
       },
       "artists": [
         {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+          "name": "Cannonball Adderley Sextet",
+          "url": "https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn"
         }
       ],
-      "duration_ms": 273226,
-      "name": "Grand Central",
-      "url": "https://open.spotify.com/track/0q7hLjhOKg1WkxDnUK75X5"
+      "duration_ms": 226933,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "Nippon Soul",
-        "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley Sextet",
-          "url": "https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn"
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
+      "duration_ms": 273226,
+      "name": "Grand Central",
+      "url": "https://open.spotify.com/track/0q7hLjhOKg1WkxDnUK75X5"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "Something Old, Something New",
-        "url": "https://open.spotify.com/album/0UklW2WVCk6s3ztqVmfATA"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 382133,
-      "name": "Be-Bop",
-      "url": "https://open.spotify.com/track/2Gve5tSu2iuelWRvc3W2PU"
-    },
-    {
-      "added_at": "2023-08-16 10:21:42",
-      "album": {
         "name": "Today And Tomorrow",
         "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
+        "name": "Something Old, Something New",
+        "url": "https://open.spotify.com/album/0UklW2WVCk6s3ztqVmfATA"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 382133,
+      "name": "Be-Bop",
+      "url": "https://open.spotify.com/track/2Gve5tSu2iuelWRvc3W2PU"
+    },
+    {
+      "added_at": "2023-08-16 10:21:42",
+      "album": {
         "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
         "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 175040,
       "name": "Humph - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5"
+    },
+    {
+      "added_at": "2023-08-16 10:21:42",
+      "album": {
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 439013,
+      "name": "Freight Trane",
+      "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -1127,26 +1147,6 @@
       "duration_ms": 431733,
       "name": "Open Sesame - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3zkUZvGHBtphTSHQIychm1"
-    },
-    {
-      "added_at": "2023-08-16 10:21:42",
-      "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 439013,
-      "name": "Freight Trane",
-      "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "Diz And Getz",
-        "url": "https://open.spotify.com/album/7KA8kHUpFAYiplsWXcrMrl"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 400840,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/6nxeNIU4meNfpJe9120CjL"
-    },
-    {
-      "added_at": "2023-08-16 10:21:42",
-      "album": {
         "name": "Just Coolin'",
         "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
       },
@@ -1247,18 +1227,22 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+        "name": "Diz And Getz",
+        "url": "https://open.spotify.com/album/7KA8kHUpFAYiplsWXcrMrl"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 427826,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
+      "duration_ms": 400840,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/6nxeNIU4meNfpJe9120CjL"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 427826,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
+    },
+    {
+      "added_at": "2023-08-16 10:21:42",
+      "album": {
         "name": "Cornbread",
         "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
       },
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
+        "name": "A Blowing Session",
+        "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 581026,
+      "name": "The Way You Look Tonight - Remastered 2009",
+      "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
+    },
+    {
+      "added_at": "2023-08-16 10:21:42",
+      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -1367,26 +1387,6 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "A Blowing Session",
-        "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 581026,
-      "name": "The Way You Look Tonight - Remastered 2009",
-      "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
-    },
-    {
-      "added_at": "2023-08-16 10:21:42",
-      "album": {
         "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "A Modern Symposium of Music and Poetry (Remastered 2013)",
-        "url": "https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 208030,
-      "name": "Slippers",
-      "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
-    },
-    {
-      "added_at": "2023-08-16 10:21:42",
-      "album": {
         "name": "On Impulse!",
         "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 417333,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
+    },
+    {
+      "added_at": "2023-08-16 10:21:42",
+      "album": {
+        "name": "A Modern Symposium of Music and Poetry (Remastered 2013)",
+        "url": "https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 208030,
+      "name": "Slippers",
+      "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 633826,
+      "name": "Roll Call - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI"
+    },
+    {
+      "added_at": "2023-08-16 10:21:42",
+      "album": {
         "name": "Mode For Joe (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2023-08-16 10:21:42",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 633826,
-      "name": "Roll Call - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI"
+      "duration_ms": 311193,
+      "name": "The Surrey With The Fringe On Top - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5"
     },
     {
       "added_at": "2023-08-16 10:21:42",
@@ -1519,22 +1535,6 @@
       "duration_ms": 330064,
       "name": "I Know That You Know",
       "url": "https://open.spotify.com/track/4HjJh260ibYagtkgQIhxNR"
-    },
-    {
-      "added_at": "2023-08-16 10:21:42",
-      "album": {
-        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 311193,
-      "name": "The Surrey With The Fringe On Top - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5"
     },
     {
       "added_at": "2023-08-16 10:21:42",

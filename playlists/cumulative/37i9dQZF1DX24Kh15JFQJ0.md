@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-218 songs - 12 hr 48 min
+219 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Higher](https://open.spotify.com/track/3MzJt1QR7YyJAKje1elWUY) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/1191oeD8jhGrVnNHE6Ef36) | 3:15 | 2022-01-28 | 2023-05-18 |
 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 | 2021-10-15 |  |
 | [Holes in the Wall \(feat\. Tracy Byrd\)](https://open.spotify.com/track/68juMHiJPLVDit4W3WmsP1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Hindsight 2020, Vol\. 2: Price of Fame](https://open.spotify.com/album/1SYBN8T25jAmIstn5swHeA) | 2:59 | 2021-10-15 | 2022-09-21 |
-| [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 | 2021-10-15 |  |
+| [Home Run](https://open.spotify.com/track/3XZyu7QgInEok7mk0lTm9Z) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Good Day for Living](https://open.spotify.com/album/0S2KcWY0lkBv3D6YPryaxc) | 3:05 | 2023-08-04 |  |
+| [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 | 2021-10-15 | 2023-08-18 |
 | [Honky Tonk Boots](https://open.spotify.com/track/50n0xq2emVcORdDztPNqkt) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Honky Tonk Boots](https://open.spotify.com/album/6N0mFLasumH7G1MegiZeQ8) | 2:47 | 2022-03-11 |  |
 | [Honky Tonk Town](https://open.spotify.com/track/1Jsijb9pEP1F44gbRK1XXN) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Honky Tonk Town](https://open.spotify.com/album/5bWQAEpi5HQTkMKAyLYdhP) | 2:59 | 2022-05-20 |  |
 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT) | 2:55 | 2021-10-15 |  |

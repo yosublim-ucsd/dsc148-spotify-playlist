@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16843,
+  "num_followers": 16861,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl",
+  "snapshot_id": "MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1059,30 +1059,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Cacife Gold, Vol. 1",
-        "url": "https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp"
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
       },
       "artists": [
         {
-          "name": "Cacife Gold",
-          "url": "https://open.spotify.com/artist/456O7OAKFJzzVDKOcUMlHk"
-        },
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 283585,
-      "name": "Miss",
-      "url": "https://open.spotify.com/track/3CxiFRL9ehmQCGGpORlPAg"
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1119,18 +1107,30 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+        "name": "Cacife Gold, Vol. 1",
+        "url": "https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp"
       },
       "artists": [
         {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+          "name": "Cacife Gold",
+          "url": "https://open.spotify.com/artist/456O7OAKFJzzVDKOcUMlHk"
+        },
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+      "duration_ms": 283585,
+      "name": "Miss",
+      "url": "https://open.spotify.com/track/3CxiFRL9ehmQCGGpORlPAg"
     },
     {
       "added_at": "2023-03-10 03:01:00",

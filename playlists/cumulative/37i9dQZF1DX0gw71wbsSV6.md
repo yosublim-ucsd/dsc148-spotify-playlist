@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-214 songs - 13 hr 3 min
+216 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-10-16 | 2023-02-08 |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-15 |  |
 | [Ain't Nobody Know](https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:31 | 2023-01-10 | 2023-01-29 |
-| [Akebono \- 2023](https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Akebono \(2023\)](https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U) | 5:27 | 2023-06-29 |  |
+| [Akebono \- 2023](https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Akebono \(2023\)](https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U) | 5:27 | 2023-06-29 | 2023-08-18 |
 | [All My Friends](https://open.spotify.com/track/5Xq7KPZSONkhHx6DFTAbTz) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [All My Friends](https://open.spotify.com/album/63hf1KQx1rRyB3xTl1QpPj) | 2:52 | 2022-11-08 | 2022-11-13 |
 | [all the other earths](https://open.spotify.com/track/17v1n74rexnQAO4yuly52C) | [Lauren Ong](https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ) | [hillcrest](https://open.spotify.com/album/2pNTEByotso0MHoMsjqmfK) | 2:49 | 2023-07-14 |  |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2022-10-16 | 2023-01-11 |
@@ -129,6 +129,7 @@
 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 | 2023-02-08 | 2023-06-07 |
 | [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-23 | 2023-03-08 |
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-28 | 2023-05-13 |
+| [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 |  |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-16 | 2023-01-11 |
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2023-01-12 | 2023-01-20 |
 | [OVERTHINKING](https://open.spotify.com/track/7lGvTDG9FdTpUarXKd8LV0) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [OVERTHINKING](https://open.spotify.com/album/3oz1h5O7FGYXAQBql90tOo) | 3:31 | 2023-07-14 | 2023-08-16 |
@@ -212,11 +213,12 @@
 | [天使みたい](https://open.spotify.com/track/5PEYxq7KV9yzFIrEHkjGs7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 6](https://open.spotify.com/album/4WWffNfS89ASWOPRbJErja) | 5:20 | 2023-02-03 | 2023-02-05 |
 | [天使みたい](https://open.spotify.com/track/6UR6pJ7pNumC81tmG5S4jb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 5:22 | 2023-02-03 | 2023-05-31 |
 | [星のクズ Ω](https://open.spotify.com/track/0FrMQBEf3u7JOLX5pfWmgc) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ Ω](https://open.spotify.com/album/3xCP9E5w3dx6s8fuzviH1b) | 5:27 | 2023-02-17 | 2023-06-30 |
+| [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 |  |
 | [涙は星屑のように](https://open.spotify.com/track/2nYHBQmM8Wp3d6UB4Bbe5l) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [星屑たち](https://open.spotify.com/album/5dGmv1ySk8MBfoYIBHciMH) | 5:33 | 2023-08-15 |  |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2023-01-10 | 2023-04-13 |
 | [白に消える](https://open.spotify.com/track/1OuJkT1Ulr4cX6leXIoxGy) | [しずくだうみ](https://open.spotify.com/artist/70d9gkVbAbFJcJT0uEcNv7) | [白に消える](https://open.spotify.com/album/3wtO6CzZX6lqh2AuW8Uhwn) | 4:11 | 2023-01-19 | 2023-02-09 |
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |
-| [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 |  |
+| [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 | 2023-08-18 |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-23 | 2023-04-03 |
 | [街の終わり](https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS) | [Nag Ar Juna](https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu) | [街の終わり](https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT) | 4:22 | 2023-03-09 | 2023-06-28 |
 | [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 | 2023-06-20 | 2023-06-22 |

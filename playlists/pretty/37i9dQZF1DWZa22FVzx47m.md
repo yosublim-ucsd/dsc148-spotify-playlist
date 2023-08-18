@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,329 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,638 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
 | 2 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
-| 3 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
-| 4 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
+| 3 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
+| 4 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 5 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 | 6 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 7 | [Quiéreme](https://open.spotify.com/track/6j0rlBbNv9TNfoVhiOC7Fl) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Entre Tus Brazos](https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa) | 4:54 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 49 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 50 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 51 | [Jueves](https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A las Cinco en el Astoria](https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r) | 3:59 |
-| 52 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
-| 53 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 52 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 53 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
 | 54 | [A quien tú decidiste amar](https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Lo Que Siempre Soñamos Ser](https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx) | 3:49 |
 | 55 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
 | 56 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 99 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
 | 100 | [Ya Es Muy Tarde](https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:01 |
 
-Snapshot ID: `MCw2NDI1MWU0ZDkyZGVlZWU1NjllMzZhNzI5ZmYyZjljOTJlYzNlMWM1`
+Snapshot ID: `MCxhMjRlMWI2ODQxMDhkMDAzOWRiNjlmMDhjZGQxOGQwODc2NzQ3Zjll`

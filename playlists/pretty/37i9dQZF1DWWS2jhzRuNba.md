@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 
 > you know the vibe 🥥🌴👙🐚🦋🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,807 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,387 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 36 | [Useless](https://open.spotify.com/track/7dJN4NWQuqCjWwIT3UwOps) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:03 |
 | 37 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
 | 38 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
-| 39 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
+| 39 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 |
 | 40 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 |
-| 41 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 |
+| 41 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
 | 42 | [The Love Club](https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:21 |
 | 43 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 44 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 50 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 |
 | 51 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 52 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 |
-| 53 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
-| 54 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
-| 55 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
+| 53 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
+| 54 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
+| 55 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
 | 56 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 57 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 |
 | 58 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 79 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 |
 | 80 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 |
 
-Snapshot ID: `MCw0NmIwNWZiN2MxNDFhNDM1MWQ3YTUyYWVlN2FlZjMzNmM5MjA2ZDYx`
+Snapshot ID: `MCwwYzliNTM5ZDJhYTJlOTRiODY4YjFhYWE5YTg1ZGQwMjFjZWY4ZDU0`

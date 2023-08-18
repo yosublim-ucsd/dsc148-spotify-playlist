@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,994 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,037 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 5 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
 | 6 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
 | 7 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
-| 8 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
-| 9 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
+| 8 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
+| 9 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 10 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 11 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 12 | [Chama De Amor](https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Amor É A Lei](https://open.spotify.com/album/2Q9MleGD9sn4WnOO51KPix) | 3:12 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 47 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 |
 | 48 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
 | 49 | [this is what heartbreak feels like](https://open.spotify.com/track/4RxdAzEmkPXTiIU6ULLoXh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:37 |
-| 50 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
-| 51 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
+| 50 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
+| 51 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
 | 52 | [At My Worst](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:50 |
 | 53 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 |
 | 54 | [Always Been You](https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 59 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 60 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 |
 
-Snapshot ID: `MCxjNzU1NWJjZjYzM2IxNmVkMmI1MjdhZWVhZDQwNGRiMjVmZWNhNzA0`
+Snapshot ID: `MCwyNWE3ZmM1N2NiN2ZiZTQ4Njc3YzEzYzQwMDJlYjljMTQ5N2I1NDAw`

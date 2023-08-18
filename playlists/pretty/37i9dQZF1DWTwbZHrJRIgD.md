@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Let these happy tunes put a smile on your face\. Cover \- Jab Harry Met Sejal
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,817 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,266 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 40 | [Gulabi](https://open.spotify.com/track/22kRCQPyNXWZSQEcDvCmGD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Shuddh Desi Romance](https://open.spotify.com/album/1rrjdhGZe4vVjwxJETqQbK) | 3:50 |
 | 41 | [Jiya Re](https://open.spotify.com/track/21Af1fetSINZpmAS3si8DW) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Jab Tak Hai Jaan](https://open.spotify.com/album/3G0diKadKaufyFybV3TzuP) | 5:19 |
 | 42 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
-| 43 | [Tum Hi Ho Bandhu](https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3) | [Beatrice](https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM), [yusha571](https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI) | 4:42 |
+| 43 | [Tum Hi Ho Bandhu](https://open.spotify.com/track/0F7SLEIzDQFAMYrC3hDrQg) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 4:43 |
 | 44 | [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 |
 | 45 | [Chor Bazari](https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:17 |
 | 46 | [Sooraj Ki Baahon Mein](https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R) | [Dominique Cerejo](https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 50 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `MCwwMDQ3MmZiZDQxMDZhZTBlOWRiZTJhMTE1ZjU5Yjg3Yzc0ZGEyYTZl`
+Snapshot ID: `MCwzMGEwZjA4ODViZTBhZGJmZjU0MmNiNzE3Zjk4ODlkN2RhMTk4YTNj`

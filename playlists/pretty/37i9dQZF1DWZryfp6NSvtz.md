@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Hives
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,942 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,100 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 19 | [Are You \(In\) There?](https://open.spotify.com/track/47yC4SUT2afxwqvrLnMiGr) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Are You \(In\) There?](https://open.spotify.com/album/2IEmIubgs16WNHvIQ76bmg) | 4:03 |
 | 20 | [Tunnel Vision Alibi](https://open.spotify.com/track/2nXRw3r7QhOAIiXmcH2lY6) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Divine Inner Tension](https://open.spotify.com/album/0FPyjINPmP3PgiQf1tHmRk) | 3:11 |
 | 21 | [Parasite](https://open.spotify.com/track/3PjR8wGGGUjxdKFCtoScZP) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Parasite](https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne) | 1:37 |
-| 22 | [Shakin' Yer Hips](https://open.spotify.com/track/6l1dFhJPPbBPkz3uM6F30O) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Shakin' Yer Hips](https://open.spotify.com/album/0WtqIVwmpFTOjuVNzrgQvX) | 2:51 |
+| 22 | [Shakin' Yer Hips](https://open.spotify.com/track/6l1dFhJPPbBPkz3uM6F30O) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Shakin' Yer Hips](https://open.spotify.com/album/0WtqIVwmpFTOjuVNzrgQvX) | 2:56 |
 | 23 | [Ephemera](https://open.spotify.com/track/34dKcQfEopEJWHXaALIjZZ) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Ephemera](https://open.spotify.com/album/3tNfbFzASJuB00BvzpAtEM) | 4:20 |
 | 24 | [Breach](https://open.spotify.com/track/7qXYpI9lqBK5g2ns7GLGy7) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [Breach](https://open.spotify.com/album/66287QQkJxD2SNfnrJJ4Ib) | 2:44 |
 | 25 | [Cut Your Face](https://open.spotify.com/track/0lO6kfb48tlpVBAlJnTGjO) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Cut Your Face](https://open.spotify.com/album/0b2IAxWPZLraVt4Sfrl2cT) | 4:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 64 | [Chemicals](https://open.spotify.com/track/3cCyVW5cIxc6DoZPvK8nWe) | [Nevrlands](https://open.spotify.com/artist/1DNIohNOTsWcoNmp5sx3yx) | [Chemicals](https://open.spotify.com/album/0AxaNm78afsotACJJEtItX) | 3:17 |
 | 65 | [MEGAPHONE MOUTH](https://open.spotify.com/track/2G4PCGT78ZOVFZlpy4E6XM) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [MEGAPHONE MOUTH](https://open.spotify.com/album/1zKC4TgOWV32itGtbX8xDQ) | 2:06 |
 
-Snapshot ID: `MCxmZWMxYzM1MTdlNDJhMjI5NmRkM2YyNWM4NTdiYjAxMGIzZGQ0NGYw`
+Snapshot ID: `MCxlOGY3YzI2NmI0OGVjNGJhYzFkNjdmZTI2Yzk4ZWUwYzczYWRjN2Nl`

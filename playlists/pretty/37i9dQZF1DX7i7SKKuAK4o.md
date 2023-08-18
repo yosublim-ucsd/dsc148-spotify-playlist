@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7i7SKKuAK4o.md) - [plain]
 
 > Kumpulan lagu Hits hingga beberapa tahun lalu\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,705 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,774 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7i7SKKuAK4o.md) - [plain]
 | 31 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
 | 32 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 |
 | 33 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
-| 34 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
-| 35 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
+| 34 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
+| 35 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
 | 36 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
 | 37 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
 | 38 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7i7SKKuAK4o.md) - [plain]
 | 41 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
 | 42 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
 | 43 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
-| 44 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
-| 45 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
-| 46 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
+| 44 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
+| 45 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
+| 46 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 47 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
 | 48 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 49 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 50 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 
-Snapshot ID: `MCw4NTY3ODU5ODM4MjI2MDY1N2Y1MDM5ZThhZmZkMWNkM2RkNjE5YTlh`
+Snapshot ID: `MCwyNjBlNjczZTI2ZGNiZjkwZGVkNDRlYWQ4NzhkYWY5MDkxNGQyOWUz`

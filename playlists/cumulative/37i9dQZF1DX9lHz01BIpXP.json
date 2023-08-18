@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Blokfluit",
+        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
+        },
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192783,
+      "name": "Blokfluit",
+      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
+    },
+    {
+      "album": {
         "name": "The Party Starter",
         "url": "https://open.spotify.com/album/1Rzyo8ixVvtCt3ygXclytD"
       },
@@ -320,7 +342,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 131368,
       "name": "Capeflets",
       "url": "https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg"
@@ -946,7 +968,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 209136,
       "name": "Kaapstad is Myne",
       "url": "https://open.spotify.com/track/7I0Qxy0l32WLTLAZHIf0eT"
@@ -990,6 +1012,28 @@
       "duration_ms": 105978,
       "name": "KAPTEIN - Drill Cover",
       "url": "https://open.spotify.com/track/6g3hWDArIHJgWZYvcG142K"
+    },
+    {
+      "album": {
+        "name": "Klaar Praat",
+        "url": "https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "G-BONE",
+          "url": "https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128261,
+      "name": "Klaar Praat",
+      "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
     },
     {
       "album": {

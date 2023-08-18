@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Algo tiene que estar mal",
+        "url": "https://open.spotify.com/album/7rnNcAe5fUOj9JbneWRbaa"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259799,
+      "name": "Algo tiene que estar mal",
+      "url": "https://open.spotify.com/track/27YjMWjTzP09QVrkMIfFgX"
+    },
+    {
+      "album": {
         "name": "Alma Carnavalera",
         "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 218640,
       "name": "Chango",
       "url": "https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa"
@@ -1472,6 +1490,24 @@
       "duration_ms": 171397,
       "name": "Entrar a la luna",
       "url": "https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX"
+    },
+    {
+      "album": {
+        "name": "Sodot a Rama",
+        "url": "https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "Entre Or\u00e1culos",
+      "url": "https://open.spotify.com/track/5N45OAFe3M6pyueCO0W7Ym"
     },
     {
       "album": {
@@ -3609,6 +3645,32 @@
     },
     {
       "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9"
+      },
+      "artists": [
+        {
+          "name": "Las Mijas",
+          "url": "https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265641,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE"
+    },
+    {
+      "album": {
         "name": "Semilla de Laurel",
         "url": "https://open.spotify.com/album/3x1sFQ58wDd7t0Pa8abeZ9"
       },
@@ -3900,7 +3962,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
@@ -3994,7 +4056,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 166172,
       "name": "Supersticioso",
       "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"

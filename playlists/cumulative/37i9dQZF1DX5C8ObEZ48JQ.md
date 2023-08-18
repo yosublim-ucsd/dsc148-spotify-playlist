@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-504 songs - 1 day 1 hr 46 min
+505 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Relate](https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Relate](https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw) | 2:48 | 2023-03-29 | 2023-06-06 |
 | [Replay](https://open.spotify.com/track/1HbxEWMtleoUKbcMj5QPEE) | [RYLTY](https://open.spotify.com/artist/4shTELM0lR74iolXrB7jPa) | [Replay](https://open.spotify.com/album/2IRAYrkapuOnvBhETKsp2D) | 3:24 | 2023-06-27 | 2023-07-27 |
 | [Rest My Case](https://open.spotify.com/track/54I5MSvbijyqMfB0Ci0Lvc) | [Kvngs](https://open.spotify.com/artist/1SxJBIJJbaj2fpni5DNoXU) | [Rest My Case](https://open.spotify.com/album/0ipjnPpQ0CCJneCcZmyyZK) | 3:12 | 2023-03-29 | 2023-06-06 |
+| [Retro Love](https://open.spotify.com/track/4UvYiq1HSksWgAjTvl7eiA) | [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Retro Love](https://open.spotify.com/album/07etk4i2uQzIyk6YI9Zsei) | 2:53 | 2023-08-17 |  |
 | [Rockstar](https://open.spotify.com/track/6foox9Ac3UrBD6oJgWiZiL) | [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [Rockstar](https://open.spotify.com/album/1aBTjgHgBbLIjkLjFsIShE) | 2:40 | 2023-01-25 | 2023-02-23 |
 | [Rolling Loud](https://open.spotify.com/track/6ySKC2g5tI9PE26OrUs3XN) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Rolling Loud](https://open.spotify.com/album/4CLuWbSzme2RhzTCZuPL8t) | 2:32 | 2022-09-02 | 2022-10-01 |
 | [Romantic Call](https://open.spotify.com/track/4g35ySILUssOqihI3JvLVx) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Romantic Call](https://open.spotify.com/album/19BuABYOis9c8xW047LkWH) | 3:50 | 2023-03-29 | 2023-06-06 |

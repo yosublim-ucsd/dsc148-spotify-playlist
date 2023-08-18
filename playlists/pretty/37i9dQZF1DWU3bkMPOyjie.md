@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,092 likes - 78 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,134 likes - 78 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 3:52 |
-| 2 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 3 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
-| 4 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 1 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 2 | [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 3:52 |
+| 3 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
+| 4 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 5 | [Dani California](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:42 |
 | 6 | [Black Betty \- Edit](https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Tonight Alright](https://open.spotify.com/album/5WqHoLszhaCZHgtTebMx8X) | 3:25 |
 | 7 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 14 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 15 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 |
 | 16 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
-| 17 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
+| 17 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
 | 18 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 19 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
 | 20 | [Times Like These](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:25 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 77 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 78 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MCwwYzg4M2Q1NDE0YzFlNjlkMTY5NjE4N2I0NGMwYTM0NzNkZGMwYTM5`
+Snapshot ID: `MCwzNmMwZDk3MDZmMzdkYWYyZjVmNWU5ZTBhYmE4NDlhNDVjZGRhNTFk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=izz5CqcHRWmgpG0USL8x9w\">Lwah Ndlunkulu</a>",
+  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=b_mUwu7XT4C-hexwhZx9Ag\">Makhadzi</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 138737,
       "name": "11:11 Makukhanye",
       "url": "https://open.spotify.com/track/3W8XdI8x69oaLRnsaRAx3h"
@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Kukude Emathandweni",
+        "url": "https://open.spotify.com/album/5Trnvr5bNscJJgVIwqQnKb"
+      },
+      "artists": [
+        {
+          "name": "Linda Gcwensa",
+          "url": "https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249874,
+      "name": "Bayakhuluma",
+      "url": "https://open.spotify.com/track/73x3i0QkRnO5w5XpRF4Vnr"
+    },
+    {
+      "album": {
         "name": "Bayethe",
         "url": "https://open.spotify.com/album/22IZh9xV5a2OEUJ1WLp26B"
       },
@@ -1681,6 +1699,36 @@
     },
     {
       "album": {
+        "name": "Emuva",
+        "url": "https://open.spotify.com/album/2D9ZPPDcid5Vjr0pz3OrPd"
+      },
+      "artists": [
+        {
+          "name": "Lady Amar",
+          "url": "https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk"
+        },
+        {
+          "name": "Starr Healer",
+          "url": "https://open.spotify.com/artist/64SCkKgvQjmX6p6tpYcefT"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        },
+        {
+          "name": "T-Man SA",
+          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414006,
+      "name": "Emuva",
+      "url": "https://open.spotify.com/track/0Gmiu85BDcrBK3QDhnzGYD"
+    },
+    {
+      "album": {
         "name": "Enza Kwenzeke",
         "url": "https://open.spotify.com/album/1umNzuholUZORi6T0qPVma"
       },
@@ -2302,7 +2350,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 208561,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/73DLxK3dXVqy37MZcIY3zP"
@@ -2803,6 +2851,28 @@
     },
     {
       "album": {
+        "name": "Impilo",
+        "url": "https://open.spotify.com/album/0Alsbv6bjOanlLMSMjzpwn"
+      },
+      "artists": [
+        {
+          "name": "Dj Melzi",
+          "url": "https://open.spotify.com/artist/50EwMQOrDECR9dsYOzmcQz"
+        },
+        {
+          "name": "Mkeyz",
+          "url": "https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446465,
+      "name": "Impilo",
+      "url": "https://open.spotify.com/track/07NEa0luBjcstUbU40eMXc"
+    },
+    {
+      "album": {
         "name": "Indlela",
         "url": "https://open.spotify.com/album/5BCLoOkSDgxLnSb7WnfAV0"
       },
@@ -2914,7 +2984,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 322552,
       "name": "Inkumbulo",
       "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
@@ -4175,6 +4245,40 @@
     },
     {
       "album": {
+        "name": "Phola",
+        "url": "https://open.spotify.com/album/1WoowBr6ZkQ7lQD2L4Xsxy"
+      },
+      "artists": [
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        },
+        {
+          "name": "Judith Sephuma",
+          "url": "https://open.spotify.com/artist/4UhNEvY4mAznOBZJkbXX8E"
+        },
+        {
+          "name": "Phemelo Saxer",
+          "url": "https://open.spotify.com/artist/3lTwknAWayG7aB9f5K8D3T"
+        },
+        {
+          "name": "Happy Jazzman",
+          "url": "https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C"
+        },
+        {
+          "name": "Faith Strings",
+          "url": "https://open.spotify.com/artist/39ejxavrkdkHXj6yCGJugx"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390870,
+      "name": "Lerato La Pelo Yaka",
+      "url": "https://open.spotify.com/track/07aRCwmKVS3q6stWVet62u"
+    },
+    {
+      "album": {
         "name": "Let Me Love You Now",
         "url": "https://open.spotify.com/album/5puHhqrH1Bgnhj86KpdhOW"
       },
@@ -5301,6 +5405,32 @@
     },
     {
       "album": {
+        "name": "Ngaphakathi",
+        "url": "https://open.spotify.com/album/1Q9UysCrKofrT8c3MHo0rk"
+      },
+      "artists": [
+        {
+          "name": "Majorsteez",
+          "url": "https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182838,
+      "name": "Ngaphakathi",
+      "url": "https://open.spotify.com/track/48oTqrE0uCUfiUYbgVGFbk"
+    },
+    {
+      "album": {
         "name": "Ngeke Ngikhale",
         "url": "https://open.spotify.com/album/12W55iflIbIFK6NQz2nvtU"
       },
@@ -5598,7 +5728,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 281240,
       "name": "Ngiyeza",
       "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
@@ -6363,6 +6493,32 @@
     },
     {
       "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/1mky1KbxL1dRlFuvJyqA16"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Osaze",
+          "url": "https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E"
+        },
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374438,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/3etMtEdaEBPD4NKfCUj0HJ"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/5xQIpRYzTsw80u0oXSW4rA"
       },
@@ -6812,7 +6968,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 161785,
       "name": "Senatla",
       "url": "https://open.spotify.com/track/4RyrENkwf8yYHYoPZD7ZqJ"
@@ -6982,6 +7138,44 @@
       "duration_ms": 319793,
       "name": "Simbonga Ngothando",
       "url": "https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB"
+    },
+    {
+      "album": {
+        "name": "Simoja",
+        "url": "https://open.spotify.com/album/3L7qEZhdmYLG8HlKvmivFw"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "TBO",
+          "url": "https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423838,
+      "name": "Simoja",
+      "url": "https://open.spotify.com/track/1U0VRIOUGgJMFPzJEZxZ4s"
     },
     {
       "album": {
@@ -7268,7 +7462,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 314117,
       "name": "Sobonana",
       "url": "https://open.spotify.com/track/2rkUVpUm885ZdY06e3Ub0v"
@@ -7346,6 +7540,28 @@
       "duration_ms": 248424,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/52B7HXnplI4J2d5pF88Jti"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/5r1NyRhBwgFR8b6tZjn4zS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226053,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2SWJ2OlwAaB8Ba3BRUOsHo"
     },
     {
       "album": {
@@ -8650,7 +8866,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 253246,
       "name": "Uthando Lunye",
       "url": "https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo"
@@ -8694,6 +8910,32 @@
       "duration_ms": 192024,
       "name": "Uyajola",
       "url": "https://open.spotify.com/track/6XhB177w4FLohKRYMNkjRA"
+    },
+    {
+      "album": {
+        "name": "Uyangijabulisa",
+        "url": "https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW"
+      },
+      "artists": [
+        {
+          "name": "Fezeka Dlamini",
+          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Naledi",
+          "url": "https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288052,
+      "name": "Uyangijabulisa",
+      "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"
     },
     {
       "album": {
@@ -9418,7 +9660,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 454369,
       "name": "Zinyanya Zami",
       "url": "https://open.spotify.com/track/0B0UNUK5N6bqtMYQBGd6oD"

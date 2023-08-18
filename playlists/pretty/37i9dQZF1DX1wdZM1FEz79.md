@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: GyeongseoYeji\(경서예지\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,392 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,500 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 37 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 |
 | 38 | [그렇게 넌 나의 비밀이 되었고](https://open.spotify.com/track/0hv2VNJBFGFqS7vGWsbX3m) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars OST Part.3](https://open.spotify.com/album/79TMZgjbONFze6t6toQw0X) | 4:11 |
 | 39 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 |
-| 40 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
-| 41 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
+| 40 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
+| 41 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 42 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
 | 43 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 |
 | 44 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 |
 | 52 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
 
-Snapshot ID: `MCxkOTMwNGNkYWIzMTA0ZGQ2NThiZmM2MjQyNDQzYThlYzFmMDE5MDc4`
+Snapshot ID: `MCxhMThjMjY5YjE3NDdlODZjMzdiMGRjNGE0ZDU0MzUzNzI0OGZhN2Yx`

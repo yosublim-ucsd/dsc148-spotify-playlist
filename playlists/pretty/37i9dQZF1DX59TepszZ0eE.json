@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7?si=-inelc4KTWyiF65c12fYEQ\">Oufadafada</a>\n",
-  "num_followers": 29888,
+  "num_followers": 29959,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGM4N2MxZDg2MTljM2FmMmM3YTliMmIxOWRlNmFhODkyYjdlYWQ5",
+  "snapshot_id": "MCw0MTNmZTI0ODY4NmY1ODBlMDMxZjY0OGVlMTJkOWQ5N2RjZjFhZjEy",
   "tracks": [
     {
       "added_at": "2023-05-05 07:24:36",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7"
     },
     {
+      "added_at": "2023-05-05 07:24:36",
+      "album": {
+        "name": "Hymns of Faith (Live)",
+        "url": "https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo"
+      },
+      "artists": [
+        {
+          "name": "David TheKing",
+          "url": "https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi"
+        }
+      ],
+      "duration_ms": 521844,
+      "name": "Pela Hao / Jehovah o Lefika - Live",
+      "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
+    },
+    {
       "added_at": "2023-06-16 00:01:00",
       "album": {
         "name": "New Dawn (Live)",
@@ -95,38 +111,6 @@
     {
       "added_at": "2023-05-05 07:24:36",
       "album": {
-        "name": "Hymns of Faith (Live)",
-        "url": "https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo"
-      },
-      "artists": [
-        {
-          "name": "David TheKing",
-          "url": "https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi"
-        }
-      ],
-      "duration_ms": 521844,
-      "name": "Pela Hao / Jehovah o Lefika - Live",
-      "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
-        "name": "Walats3(Life Giver)",
-        "url": "https://open.spotify.com/album/5dtz3U2rv8LsBVk2YE5CXH"
-      },
-      "artists": [
-        {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
-        }
-      ],
-      "duration_ms": 331044,
-      "name": "Walats3(Life Giver)",
-      "url": "https://open.spotify.com/track/2ygzqWER8vIMEoMXM3nEwc"
-    },
-    {
-      "added_at": "2023-05-05 07:24:36",
-      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -145,6 +129,26 @@
       "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
     },
     {
+      "added_at": "2023-08-18 00:01:00",
+      "album": {
+        "name": "Zonke",
+        "url": "https://open.spotify.com/album/33eNdn70pZjbv8CsRKomtm"
+      },
+      "artists": [
+        {
+          "name": "Shaik Omar",
+          "url": "https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p"
+        },
+        {
+          "name": "Dr Thulz",
+          "url": "https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Zonke",
+      "url": "https://open.spotify.com/track/16WWnfjYPxZ8vPAFGZkeeQ"
+    },
+    {
       "added_at": "2023-05-05 07:24:36",
       "album": {
         "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
@@ -161,72 +165,20 @@
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Ke Tshepile Wena (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8"
-      },
-      "artists": [
-        {
-          "name": "Oufadafada",
-          "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
-        }
-      ],
-      "duration_ms": 136226,
-      "name": "Ke Tshepile Wena - Acoustic Mix",
-      "url": "https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
-        "name": "Nkosi Yezulu",
-        "url": "https://open.spotify.com/album/4S8k4jYJpnWfqYSa2QkImV"
-      },
-      "artists": [
-        {
-          "name": "Bulelani Ndebele",
-          "url": "https://open.spotify.com/artist/2pX4nkw7mBcGUmzKkJqtT6"
-        },
-        {
-          "name": "Khaya Mthethwa",
-          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
-        }
-      ],
-      "duration_ms": 382441,
-      "name": "Nkosi Yezulu",
-      "url": "https://open.spotify.com/track/2UMAfpKFTCnNpDdNV4xFfE"
-    },
-    {
       "added_at": "2023-05-05 07:24:36",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
+        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
+        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
       },
       "artists": [
         {
-          "name": "Hlengiwe Mhlaba",
-          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 282440,
-      "name": "Sewakhile",
-      "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
-    },
-    {
-      "added_at": "2023-07-21 00:01:00",
-      "album": {
-        "name": "Makabongwe: The Sound of Revival (Live)",
-        "url": "https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4"
-      },
-      "artists": [
-        {
-          "name": "Ntokozo Mbambo",
-          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
-        }
-      ],
-      "duration_ms": 301579,
-      "name": "Makabongwe - Live",
-      "url": "https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4"
+      "duration_ms": 336213,
+      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
+      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -269,38 +221,6 @@
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
     },
     {
-      "added_at": "2023-05-05 07:24:36",
-      "album": {
-        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
-        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 336213,
-      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
-      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
-    },
-    {
-      "added_at": "2023-07-21 00:01:00",
-      "album": {
-        "name": "Nithini Webantu (Ilizwi Lenkosi)",
-        "url": "https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6"
-      },
-      "artists": [
-        {
-          "name": "Mpumelelo Dumisa",
-          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
-        }
-      ],
-      "duration_ms": 348264,
-      "name": "Nithini Webantu (Ilizwi Lenkosi)",
-      "url": "https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV"
-    },
-    {
       "added_at": "2023-06-09 00:01:00",
       "album": {
         "name": "Joyous Celebration, Vol. 17 (Grateful) [Live]",
@@ -317,40 +237,20 @@
       "url": "https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9"
     },
     {
-      "added_at": "2023-08-04 00:01:00",
+      "added_at": "2023-05-05 07:24:36",
       "album": {
-        "name": "Nkosi Sikelela uBaba",
-        "url": "https://open.spotify.com/album/4Jf2doGSsYsb0TI32fmvBB"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
       },
       "artists": [
         {
-          "name": "Mpumelelo Dumisa",
-          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+          "name": "Hlengiwe Mhlaba",
+          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
         }
       ],
-      "duration_ms": 386977,
-      "name": "Nkosi Sikelela uBaba",
-      "url": "https://open.spotify.com/track/3DovCSCmydiBY6Tdu90imJ"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Khuleka",
-        "url": "https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA"
-      },
-      "artists": [
-        {
-          "name": "Nhlanhla Dube",
-          "url": "https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp"
-        },
-        {
-          "name": "MoloJazz",
-          "url": "https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn"
-        }
-      ],
-      "duration_ms": 231841,
-      "name": "Khuleka",
-      "url": "https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx"
+      "duration_ms": 282440,
+      "name": "Sewakhile",
+      "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -391,34 +291,198 @@
     {
       "added_at": "2023-08-04 00:01:00",
       "album": {
-        "name": "Ke Tshepile Wena (Amapiano Remix)",
-        "url": "https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh"
+        "name": "Nkosi Yezulu",
+        "url": "https://open.spotify.com/album/4S8k4jYJpnWfqYSa2QkImV"
       },
       "artists": [
         {
-          "name": "Oufadafada",
-          "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
+          "name": "Bulelani Ndebele",
+          "url": "https://open.spotify.com/artist/2pX4nkw7mBcGUmzKkJqtT6"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
         }
       ],
-      "duration_ms": 314219,
-      "name": "Ke Tshepile Wena - Amapiano Remix",
-      "url": "https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5"
+      "duration_ms": 382441,
+      "name": "Nkosi Yezulu",
+      "url": "https://open.spotify.com/track/2UMAfpKFTCnNpDdNV4xFfE"
     },
     {
-      "added_at": "2023-07-21 00:01:00",
+      "added_at": "2023-06-16 00:01:00",
       "album": {
-        "name": "Ukuhlala Kuye",
-        "url": "https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE"
+        "name": "Spirit of Praise, Vol. 7 (Live)",
+        "url": "https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE"
       },
       "artists": [
         {
-          "name": "Kea Studios",
-          "url": "https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU"
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
         }
       ],
-      "duration_ms": 241500,
-      "name": "Ukuhlala Kuye",
-      "url": "https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI"
+      "duration_ms": 278886,
+      "name": "Make a Way - Live",
+      "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
+    },
+    {
+      "added_at": "2023-05-05 07:24:36",
+      "album": {
+        "name": "Hymns and Worship (Live)",
+        "url": "https://open.spotify.com/album/2d1bYNsfu8mqvARixcuOC0"
+      },
+      "artists": [
+        {
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+        }
+      ],
+      "duration_ms": 381966,
+      "name": "lona baratang ho Phela (Live)",
+      "url": "https://open.spotify.com/track/6lgAf5YMMFzEcpXONtEfVf"
+    },
+    {
+      "added_at": "2023-07-07 00:01:00",
+      "album": {
+        "name": "Glory in His Presence",
+        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "duration_ms": 655253,
+      "name": "Bow Down and Worship - Live",
+      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Spirit of Praise, Vol. 5 (Live)",
+        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        },
+        {
+          "name": "Precious Mosotho",
+          "url": "https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Elshadai Adonai Medley (Live)",
+      "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
+        "name": "Walats3(Life Giver)",
+        "url": "https://open.spotify.com/album/5dtz3U2rv8LsBVk2YE5CXH"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        }
+      ],
+      "duration_ms": 331044,
+      "name": "Walats3(Life Giver)",
+      "url": "https://open.spotify.com/track/2ygzqWER8vIMEoMXM3nEwc"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 21: Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/2FWAwOo6n6E0eQvoYcj5Yq"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 370853,
+      "name": "Uyalalelwa - Live",
+      "url": "https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr"
+    },
+    {
+      "added_at": "2023-08-18 00:01:00",
+      "album": {
+        "name": "Unjalo wena Kuphakama",
+        "url": "https://open.spotify.com/album/6mlXloaetu8glEQSiVsROw"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Unjalo wena Kuphakama",
+      "url": "https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "All About Jesus",
+        "url": "https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx"
+      },
+      "artists": [
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        },
+        {
+          "name": "Oasis Worship",
+          "url": "https://open.spotify.com/artist/7ayajVitzTv40GuERpcE72"
+        }
+      ],
+      "duration_ms": 301400,
+      "name": "Mkhulumsebenzi",
+      "url": "https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "New Sounds of Glory",
+        "url": "https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Matse",
+          "url": "https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK"
+        }
+      ],
+      "duration_ms": 300714,
+      "name": "Bayazibuza",
+      "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
+        "name": "Nkosi Sikelela uBaba",
+        "url": "https://open.spotify.com/album/4Jf2doGSsYsb0TI32fmvBB"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "duration_ms": 386977,
+      "name": "Nkosi Sikelela uBaba",
+      "url": "https://open.spotify.com/track/3DovCSCmydiBY6Tdu90imJ"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -441,10 +505,42 @@
       "url": "https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l"
     },
     {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Ke Tshepile Wena (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8"
+      },
+      "artists": [
+        {
+          "name": "Oufadafada",
+          "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
+        }
+      ],
+      "duration_ms": 136226,
+      "name": "Ke Tshepile Wena - Acoustic Mix",
+      "url": "https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin"
+    },
+    {
+      "added_at": "2023-07-21 00:01:00",
+      "album": {
+        "name": "Makabongwe: The Sound of Revival (Live)",
+        "url": "https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "duration_ms": 301579,
+      "name": "Makabongwe - Live",
+      "url": "https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4"
+    },
+    {
       "added_at": "2023-05-05 07:24:36",
       "album": {
-        "name": "Hymns and Worship (Live)",
-        "url": "https://open.spotify.com/album/2d1bYNsfu8mqvARixcuOC0"
+        "name": "Restored (Live)",
+        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
       },
       "artists": [
         {
@@ -452,9 +548,45 @@
           "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
         }
       ],
-      "duration_ms": 381966,
-      "name": "lona baratang ho Phela (Live)",
-      "url": "https://open.spotify.com/track/6lgAf5YMMFzEcpXONtEfVf"
+      "duration_ms": 309693,
+      "name": "Lion of Judah (Live)",
+      "url": "https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO"
+    },
+    {
+      "added_at": "2023-05-05 07:24:36",
+      "album": {
+        "name": "Ziphozenkosi",
+        "url": "https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx"
+      },
+      "artists": [
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 292911,
+      "name": "Ziphozenkosi",
+      "url": "https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt"
+    },
+    {
+      "added_at": "2023-05-05 07:24:36",
+      "album": {
+        "name": "Yibanathi",
+        "url": "https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        },
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 307510,
+      "name": "Yibanathi",
+      "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -489,6 +621,38 @@
       "url": "https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH"
     },
     {
+      "added_at": "2023-07-21 00:01:00",
+      "album": {
+        "name": "Nithini Webantu (Ilizwi Lenkosi)",
+        "url": "https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "duration_ms": 348264,
+      "name": "Nithini Webantu (Ilizwi Lenkosi)",
+      "url": "https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV"
+    },
+    {
+      "added_at": "2023-07-21 00:01:00",
+      "album": {
+        "name": "Ukuhlala Kuye",
+        "url": "https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE"
+      },
+      "artists": [
+        {
+          "name": "Kea Studios",
+          "url": "https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "Ukuhlala Kuye",
+      "url": "https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI"
+    },
+    {
       "added_at": "2023-07-14 00:01:00",
       "album": {
         "name": "Ukholo Lwam (A Song of Hope)",
@@ -503,22 +667,6 @@
       "duration_ms": 252000,
       "name": "Ukholo Lwam (A Song of Hope)",
       "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "New Sounds of Glory",
-        "url": "https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07"
-      },
-      "artists": [
-        {
-          "name": "Nduduzo Matse",
-          "url": "https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK"
-        }
-      ],
-      "duration_ms": 300714,
-      "name": "Bayazibuza",
-      "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -547,22 +695,6 @@
     {
       "added_at": "2023-05-05 07:24:36",
       "album": {
-        "name": "Restored (Live)",
-        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
-      },
-      "artists": [
-        {
-          "name": "Lebo Sekgobela",
-          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "Lion of Judah (Live)",
-      "url": "https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO"
-    },
-    {
-      "added_at": "2023-05-05 07:24:36",
-      "album": {
         "name": "Moments in Time (Live)",
         "url": "https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX"
       },
@@ -575,38 +707,6 @@
       "duration_ms": 502068,
       "name": "Interlude - Zulu Worship Medley - Live",
       "url": "https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 21: Heal Our Land (Live)",
-        "url": "https://open.spotify.com/album/2FWAwOo6n6E0eQvoYcj5Yq"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 370853,
-      "name": "Uyalalelwa - Live",
-      "url": "https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr"
-    },
-    {
-      "added_at": "2023-07-07 00:01:00",
-      "album": {
-        "name": "Glory in His Presence",
-        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dube",
-          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
-        }
-      ],
-      "duration_ms": 655253,
-      "name": "Bow Down and Worship - Live",
-      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -623,30 +723,6 @@
       "duration_ms": 341053,
       "name": "Jehova Retshepile Wena - Live",
       "url": "https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 5 (Live)",
-        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Benjamin Dube",
-          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
-        },
-        {
-          "name": "Precious Mosotho",
-          "url": "https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Elshadai Adonai Medley (Live)",
-      "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -701,26 +777,6 @@
       "url": "https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG"
     },
     {
-      "added_at": "2023-05-05 07:24:36",
-      "album": {
-        "name": "Yibanathi",
-        "url": "https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm"
-      },
-      "artists": [
-        {
-          "name": "Vusi Nova",
-          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
-        },
-        {
-          "name": "Dumi Mkokstad",
-          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
-        }
-      ],
-      "duration_ms": 307510,
-      "name": "Yibanathi",
-      "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
-    },
-    {
       "added_at": "2023-06-23 00:01:00",
       "album": {
         "name": "Love & Grace (Live At The Barnyard Theatre / Deluxe Version)",
@@ -735,62 +791,6 @@
       "duration_ms": 470600,
       "name": "Nothing Without You - Live At The Barnyard Theatre",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "All About Jesus",
-        "url": "https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx"
-      },
-      "artists": [
-        {
-          "name": "Khaya Mthethwa",
-          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
-        },
-        {
-          "name": "Oasis Worship",
-          "url": "https://open.spotify.com/artist/7ayajVitzTv40GuERpcE72"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "Mkhulumsebenzi",
-      "url": "https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 7 (Live)",
-        "url": "https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Mmatema",
-          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
-        }
-      ],
-      "duration_ms": 278886,
-      "name": "Make a Way - Live",
-      "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
-    },
-    {
-      "added_at": "2023-05-05 07:24:36",
-      "album": {
-        "name": "Ziphozenkosi",
-        "url": "https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx"
-      },
-      "artists": [
-        {
-          "name": "Dumi Mkokstad",
-          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
-        }
-      ],
-      "duration_ms": 292911,
-      "name": "Ziphozenkosi",
-      "url": "https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt"
     },
     {
       "added_at": "2023-05-05 07:24:36",

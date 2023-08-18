@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,662 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,695 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 14 | [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 |
 | 15 | [3 de Noviembre \(No Me Agüito\)](https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Me Pongo Hasta la Madre Porque Estoy Hasta la Madre](https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu) | 3:03 |
 | 16 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 |
-| 17 | [Amarre](https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Amarre](https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F) | 2:36 |
-| 18 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
+| 17 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
+| 18 | [Amarre](https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Amarre](https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F) | 2:36 |
 | 19 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
 | 20 | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG) | [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob) | 3:43 |
 | 21 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 33 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 |
 | 34 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
 | 35 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
-| 36 | [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 |
-| 37 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
+| 36 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
+| 37 | [Rompe Mi Mente](https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Rompe Mi Mente](https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT) | 3:29 |
 | 38 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
 | 39 | [Un Año](https://open.spotify.com/track/1NvuUQSActakCpCg071n2x) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6) | 2:46 |
 | 40 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 | 50 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 |
 
-Snapshot ID: `MCw3NDQ5YzYxNzcwZWQwZGFhMGUxNjUxYzQxNzhkZjAxZjljMDkyZGJk`
+Snapshot ID: `MCwxMDEyZmQ2MjU0MjJmMjY2YmY3OTM2NjBmN2Q1ZjVmMWNmYTNlMTdi`

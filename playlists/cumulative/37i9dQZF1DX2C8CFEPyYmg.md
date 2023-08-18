@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-456 songs - 14 hr 1 min
+458 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-22 |  |
 | [Cuddle Buddy](https://open.spotify.com/track/7nQIubktmlfzQyiGLKrdNq) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreams Above the Clouds](https://open.spotify.com/album/45E7txNlw1Qy9B1EZxWD2H) | 1:56 | 2023-02-17 |  |
 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 | 2023-04-21 |  |
+| [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 | 2023-08-17 |  |
 | [Daisy Bell](https://open.spotify.com/track/1005qYjEgIXFA7gkkhpf43) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [Daisy Bell](https://open.spotify.com/album/5HC2rS5WLnB7hRakRJZcIY) | 1:46 | 2022-08-11 | 2022-10-29 |
 | [Dance a Baby Diddy](https://open.spotify.com/track/1rt2kja54OlDITKmvwFBfi) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Dance a Baby Diddy](https://open.spotify.com/album/7Isc5IV0x91WLQny6coJvo) | 1:35 | 2023-02-17 |  |
 | [Dancing With My Sweetheart](https://open.spotify.com/track/6z75TMbYWTGWIUEq03FzN0) | [Garth Winter](https://open.spotify.com/artist/48KlcKLmPswD1SWQhi6z5L) | [Dancing With My Sweetheart](https://open.spotify.com/album/31hbyp1aLB95nmkRmpQERm) | 1:34 | 2022-08-11 |  |
@@ -160,6 +161,7 @@
 | [Goodnight Mr Bear](https://open.spotify.com/track/55LyKRj9oRi4HVHJsILhDf) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Goodnight Mr Bear](https://open.spotify.com/album/5jBxQMaffyQjCA7TmFJ8Fi) | 1:50 | 2022-08-11 | 2023-05-19 |
 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 | 2023-04-21 |  |
 | [Goodnight Sweetheart, Goodnight](https://open.spotify.com/track/5PP6QALJTFPyb8rfCx3RIs) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Guitar Lullabies](https://open.spotify.com/album/7CVnDVNrvyiavRMUseE7ZM) | 2:19 | 2023-04-21 |  |
+| [Goodnight teddy](https://open.spotify.com/track/6V8QIFMkCe3HhMa1Y5I7zc) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Goodnight teddy](https://open.spotify.com/album/6bRKz8ZPbwWT8eKYhA7IUf) | 2:00 | 2023-08-17 |  |
 | [Grootmoeder](https://open.spotify.com/track/6v4S9vW2oAshobL1lcjJnD) | [Rosalyn van Heeringen](https://open.spotify.com/artist/7oIzlrfSFDprcOzbN9RGyM) | [Ik hou van zwemmen](https://open.spotify.com/album/2Ag6f5EuEU5xXLzlapJmlG) | 1:29 | 2022-08-11 | 2023-02-18 |
 | [Have You Seen My Little Cat?](https://open.spotify.com/track/46ElWM87YP8ao2Js7YXji9) | [Lidia Slivova](https://open.spotify.com/artist/77FNIPLSi4DI3EpV9dp68x) | [Have You Seen My Little Cat?](https://open.spotify.com/album/7rPic8gqCDAemaRUHNkMgj) | 1:32 | 2023-04-21 |  |
 | [Head Shoulders Knees and Toes](https://open.spotify.com/track/6L3jWWum4jr3UNz17UQPai) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Acoustic Guitar Lullabies](https://open.spotify.com/album/1aUPcEPAxp9UwB1Vvezu7P) | 1:36 | 2023-03-17 |  |
@@ -351,7 +353,7 @@
 | [Sov godt trollet mitt](https://open.spotify.com/track/5n03A1PL8EYrVwGmtG9glK) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sov godt trollet mitt](https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x) | 1:30 | 2022-08-11 | 2023-05-19 |
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-23 |  |
 | [Sov På Min Arm \- Guitar Version](https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [Sov På Min Arm \- Guitar Version](https://open.spotify.com/album/5zfOuOoNi1n6n4XvadqK2T) | 1:53 | 2023-01-20 | 2023-08-11 |
-| [Spirit](https://open.spotify.com/track/5XECpuIjBhCVzF1dnx0qLg) | [Esmé Dean](https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF) | [Spirit](https://open.spotify.com/album/5hJRqymE8HDPqkwYxw5ePA) | 2:11 | 2022-08-11 |  |
+| [Spirit](https://open.spotify.com/track/5XECpuIjBhCVzF1dnx0qLg) | [Esmé Dean](https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF) | [Spirit](https://open.spotify.com/album/5hJRqymE8HDPqkwYxw5ePA) | 2:11 | 2022-08-11 | 2023-08-18 |
 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 | 2023-05-19 |  |
 | [Starlight, Starbright](https://open.spotify.com/track/3akZOdnApGFE1B50vwVsvl) | [Rachel Koenig](https://open.spotify.com/artist/0QEVBKuyeVXE8o9qNcnSG3) | [Starlight, Starbright](https://open.spotify.com/album/4aymfoTywSH0OMH9MrRXtY) | 2:23 | 2022-08-11 | 2023-01-20 |
 | [Stars Above](https://open.spotify.com/track/5LINFAlFwHABVuvQuIwRlQ) | [Brook Parrish](https://open.spotify.com/artist/2iIEnYQQdqQB357rXwMjpI) | [Stars Above](https://open.spotify.com/album/1GjMcPaQ2FT01HRAq32Je7) | 1:24 | 2022-08-11 |  |

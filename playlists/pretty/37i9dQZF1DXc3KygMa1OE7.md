@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > Las canciones de amor inolvidables de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,497,353 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,498,059 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 30 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 |
 | 31 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
 | 32 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
-| 33 | [Easy Lover](https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall \(Expanded Edition\)](https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX) | 5:05 |
-| 34 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
+| 33 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
+| 34 | [Easy Lover](https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall \(Expanded Edition\)](https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX) | 5:05 |
 | 35 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 36 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
 | 37 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 74 | [Crazy for You](https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:44 |
 | 75 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 3:10 |
 
-Snapshot ID: `MCxiZTQzYTVhOGNhMzZjNzM0NDI1OWMyNDZjOGYzY2Q0ODNhZTY4YTZj`
+Snapshot ID: `MCxkNWI4NTY2ZDczMmNlMDRkMzk0YWE1N2I3ZTc2MjA1ZTlkODc1OWZk`

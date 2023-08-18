@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,069 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,108 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 33 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 34 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 |
 | 35 | [Overthinking](https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Overthinking](https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA) | 3:01 |
-| 36 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
-| 37 | [Stay High](https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime \(Reimagined\)](https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP) | 3:38 |
+| 36 | [Stay High](https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime \(Reimagined\)](https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP) | 3:38 |
+| 37 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 38 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
 | 39 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
 | 40 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 67 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
 | 68 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
 | 69 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
-| 70 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
+| 70 | [Just Fine](https://open.spotify.com/track/49NvEjTPk04A5bUGOYfti4) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A) | 2:54 |
 
-Snapshot ID: `MCw2MGYzODFhZDM1ZmE3OTUyYTM4ODc1YmE2YWM4OTVlMjg0ZWNhN2Zm`
+Snapshot ID: `MCw5OTY1ZDZlZjhhN2QzMDg3MzVlYjgwMDk3ZmIxMTQ4ZDEzNDQ3NDdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: Lou Reed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,787 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,365 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 30 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
 | 31 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 32 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
-| 33 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
-| 34 | [Deceptacon](https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:04 |
+| 33 | [Deceptacon](https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:04 |
+| 34 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
 | 35 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
 | 36 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 37 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
 | 75 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
 
-Snapshot ID: `MCxiMWJhMjcxYTM2MTAzMGIwMDIxNzE4ODY4YWMxNWE5YTQ0YTZkOWMz`
+Snapshot ID: `MCxmZTk5ZjNhYWExNmVhNTJlZTQwNDExYzQ4ZDI1NzVkMmU3NWVjYjQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 
 > Summer fun for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,519 likes - 76 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,518 likes - 76 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 3 | [Wake Up](https://open.spotify.com/track/750gu0SlvvJ5lGhkjM9bKs) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:30 |
 | 4 | [Let's Go Outside](https://open.spotify.com/track/5gwhvjQvq5CudsONgBJB9c) | [Sarah Pirtle](https://open.spotify.com/artist/5G0zt4pPtUa8KW6QIHedRa) | [Pocketful of Wonder](https://open.spotify.com/album/0TkEqgYEwPXCSki5NFUSnE) | 2:25 |
 | 5 | [Sunscreen](https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH) | 1:23 |
-| 6 | [Backyard Swimsuit](https://open.spotify.com/track/2b7pVukPLhe7PkzapD4sMy) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Sims](https://open.spotify.com/artist/3REPW9qXSD6VjeAHr0OENv) | [Backyard Swimsuit](https://open.spotify.com/album/21W8fov6jwV3Y8TCFo2SNz) | 3:04 |
+| 6 | [Backyard Swimsuit](https://open.spotify.com/track/2b7pVukPLhe7PkzapD4sMy) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Sims](https://open.spotify.com/artist/3REPW9qXSD6VjeAHr0OENv) | [Backyard Swimsuit](https://open.spotify.com/album/21W8fov6jwV3Y8TCFo2SNz) | 3:04 |
 | 7 | [Lemonade Stand](https://open.spotify.com/track/5f6LCqqqP2JJ3LhHiR7SFq) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:41 |
 | 8 | [Chillin'](https://open.spotify.com/track/14nJsemfxPFCNfKZ3Pse0o) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Uncle Dox](https://open.spotify.com/artist/2f9WUsP1fUz3QLcbPUkiw9) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 3:28 |
 | 9 | [There Is so Much to Explore Outside](https://open.spotify.com/track/34ioa8fm7o4sZ7EjkB7ppK) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Tiger Family Trip](https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU) | 1:17 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 18 | [Tandem Bike](https://open.spotify.com/track/6gZmtHg9LylZ38IQz0ptS0) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ), [Chris Wiser](https://open.spotify.com/artist/1ugH175QTeZ1ZrUUD6ymqV) | [Bon Voyage](https://open.spotify.com/album/1oquswZkCaoZ4EU8fSmSZo) | 2:49 |
 | 19 | [Perfect Day](https://open.spotify.com/track/2Wwgr79MqEYW2MLRYSSamC) | [Mister G](https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd) | [Fireflies](https://open.spotify.com/album/3ZIPdUT5naKLp46U3O94AK) | 2:53 |
 | 20 | [Play with Your Friends Outside](https://open.spotify.com/track/6OkidApopWZl5e4iGqayUt) | [The Dreamtree Shakers](https://open.spotify.com/artist/1AEgbCyg5BRflRNcUyNm24) | [Pretend a Parade](https://open.spotify.com/album/0dtRvzU8LawKOql6nWgCdT) | 2:07 |
-| 21 | [Ice Cold Lemonade](https://open.spotify.com/track/6hQBlpN06NkcUUJS1iKKfm) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Ice Cold Lemonade](https://open.spotify.com/album/5sOKX7TjwqvRW6MnTHALn0) | 2:59 |
+| 21 | [Ice Cold Lemonade](https://open.spotify.com/track/6hQBlpN06NkcUUJS1iKKfm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Ice Cold Lemonade](https://open.spotify.com/album/5sOKX7TjwqvRW6MnTHALn0) | 2:59 |
 | 22 | [Let's Skateboard](https://open.spotify.com/track/7xSX7YXHDWa8ijoFbVBQY7) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [KidQuake!](https://open.spotify.com/album/1H7T9peQoMiacUDdxi4yvW) | 1:51 |
 | 23 | [There's a Party in My Backyard \(feat\. Grotch the Sasquatch\)](https://open.spotify.com/track/78aqD5FMRbcCCkQHzGVfRt) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Grotch the Sasquatch](https://open.spotify.com/artist/6ynQJFv4NqfOtgNcLGOANV) | [It's All Good in the Naturehood! \(feat\. Grotch the Sasquatch\)](https://open.spotify.com/album/4GEZmb9oHRzVc4SVtArNaU) | 3:11 |
 | 24 | [Another Summertime Jam](https://open.spotify.com/track/4IdkY2v0qHTg3TJkBPTvh4) | [Battlebird](https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9) | [Whatever Together](https://open.spotify.com/album/2IkzHq61rWmsXQ77F6EC9A) | 2:49 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 75 | [Let's Go Fly a Kite](https://open.spotify.com/track/0E13OCGuZX4pWcbAttmRpb) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 2:05 |
 | 76 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 
-Snapshot ID: `MCw2OTc3ZjVlZGYzZWJhOGU5OWNlOGFmMDA1ZDY2NzRmYTU1N2I3M2Fj`
+Snapshot ID: `MCwxZWRiNjZhNDU1MGEyZTRhODNiNGIxYzI1NjVhMGUyYTAzNGY5NjRk`

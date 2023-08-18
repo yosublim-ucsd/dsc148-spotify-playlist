@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Charly Benavente",
-  "num_followers": 128144,
+  "num_followers": 128142,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzQ4NjQ5NWU1MzNmYTVjYTk1NzNiMDA3NjIwYTE1MjVkZTc0M2Y2",
+  "snapshot_id": "MCw2NDVjZjBjZTBiNjE4NWY3NzJlYjJlOWRhYjhiNGVjZDZlYjQxZjk0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "No Hay Otra Igual",
-        "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
-      },
-      "artists": [
-        {
-          "name": "Astronautiko",
-          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
-        }
-      ],
-      "duration_ms": 173994,
-      "name": "No Hay Otra Igual",
-      "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Retazos de Diciembre",
-        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
+        "name": "No Hay Otra Igual",
+        "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
       },
       "artists": [
         {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Retazos de Diciembre",
-      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+      "duration_ms": 173994,
+      "name": "No Hay Otra Igual",
+      "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 196173,
       "name": "Estado Vegetal",
       "url": "https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Retazos de Diciembre",
+        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Retazos de Diciembre",
+      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Un Espejismo",
         "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 214736,
       "name": "Un Espejismo",
       "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "La Sombra del Olvido",
+        "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 171390,
+      "name": "La Sombra del Olvido",
+      "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "CASI P\u00daRPURA",
         "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 168152,
       "name": "Magnetismo",
       "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "La Sombra del Olvido",
-        "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 171390,
-      "name": "La Sombra del Olvido",
-      "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Inventar",
-        "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Vicentes",
-          "url": "https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39"
-        }
-      ],
-      "duration_ms": 222543,
-      "name": "Inventar",
-      "url": "https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Barreras de Cart\u00f3n",
         "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 228000,
       "name": "Barreras de Cart\u00f3n",
       "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Inventar",
+        "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Vicentes",
+          "url": "https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39"
+        }
+      ],
+      "duration_ms": 222543,
+      "name": "Inventar",
+      "url": "https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ"
     },
     {
       "added_at": "2023-08-11 04:00:00",

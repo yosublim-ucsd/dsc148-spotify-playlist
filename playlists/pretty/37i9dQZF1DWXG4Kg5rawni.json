@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 89365,
+  "num_followers": 89414,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTA2OGMwNjY0YTEyNzM5ZjE1ZWM5N2YxNGE1ZmM2MGIzOGZlYzM5",
+  "snapshot_id": "MCw2Y2IyN2RkNmU0MTA2YWRmNTc3ZTAzZDc3ZGYzNWRjYmUyODI3ZmI5",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Tempo de Sorrir",
         "url": "https://open.spotify.com/album/1GBGOqtdXd3Oup24fJ6B1B"
       },
@@ -147,18 +131,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "A Dois",
-        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
         }
       ],
-      "duration_ms": 236001,
-      "name": "A Dois",
-      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -179,6 +163,22 @@
       "duration_ms": 250416,
       "name": "Mais - Studio Session",
       "url": "https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "A Dois",
+        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "A Dois",
+      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Pamela Falando de Amor",
+        "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
+      },
+      "artists": [
+        {
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+        },
+        {
+          "name": "Alex Gonzaga",
+          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
+        }
+      ],
+      "duration_ms": 284862,
+      "name": "Um Verso de Amor",
+      "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Desde o Primeiro Sim",
         "url": "https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y"
       },
@@ -295,22 +315,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Pamela Falando de Amor",
-        "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
+        "name": "N\u00e3o \u00c9 Acaso",
+        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
       },
       "artists": [
         {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
-        },
-        {
-          "name": "Alex Gonzaga",
-          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
         }
       ],
-      "duration_ms": 284862,
-      "name": "Um Verso de Amor",
-      "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
+      "duration_ms": 235404,
+      "name": "N\u00e3o \u00c9 Acaso",
+      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -327,22 +343,6 @@
       "duration_ms": 182081,
       "name": "\u00c0 Moda Antiga",
       "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "N\u00e3o \u00c9 Acaso",
-        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 235404,
-      "name": "N\u00e3o \u00c9 Acaso",
-      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Deus Me Deu Voc\u00ea",
+        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
+      },
+      "artists": [
+        {
+          "name": "Thiago e J\u00e9ssica",
+          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Deus Me Deu Voc\u00ea",
+      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -423,34 +439,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Deus Me Deu Voc\u00ea",
-        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
+        "name": "Amo Voc\u00ea Vol. 17",
+        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
       },
       "artists": [
         {
-          "name": "Thiago e J\u00e9ssica",
-          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
+          "name": "Bruna Karla e Anderson Freire",
+          "url": "https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0"
         }
       ],
-      "duration_ms": 263213,
-      "name": "Deus Me Deu Voc\u00ea",
-      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
-      },
-      "artists": [
-        {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
-        }
-      ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
+      "duration_ms": 220357,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -471,38 +471,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Presente de Deus",
-        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
       },
       "artists": [
         {
-          "name": "Oficina do Som",
-          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
-        },
-        {
-          "name": "Renato Vianna",
-          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
         }
       ],
-      "duration_ms": 209020,
-      "name": "Presente de Deus",
-      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Amo Voc\u00ea Vol. 17",
-        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla e Anderson Freire",
-          "url": "https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0"
-        }
-      ],
-      "duration_ms": 220357,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg"
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -519,6 +499,26 @@
       "duration_ms": 236251,
       "name": "Escolhi Te Esperar",
       "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Presente de Deus",
+        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
+      },
+      "artists": [
+        {
+          "name": "Oficina do Som",
+          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
+        },
+        {
+          "name": "Renato Vianna",
+          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
+        }
+      ],
+      "duration_ms": 209020,
+      "name": "Presente de Deus",
+      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "N\u00e3o H\u00e1 Limites",
         "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 254676,
       "name": "N\u00e3o H\u00e1 Limites",
       "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "D.R. Desfrutando a Rela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 227855,
-      "name": "Por Favor",
-      "url": "https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Nosso Castelo",
         "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 252215,
       "name": "Nosso Castelo",
       "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "D.R. Desfrutando a Rela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 227855,
+      "name": "Por Favor",
+      "url": "https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Deus Voc\u00ea e Eu",
-        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Deus Voc\u00ea e Eu",
-      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Um Pedacinho do C\u00e9u",
         "url": "https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 233620,
       "name": "Um Pedacinho do C\u00e9u",
       "url": "https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Deus Voc\u00ea e Eu",
+        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Deus Voc\u00ea e Eu",
+      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
     },
     {
       "added_at": "2023-07-14 16:56:11",

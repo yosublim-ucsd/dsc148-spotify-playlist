@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > An eclectic mix of past & current Indie favourites\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,126 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,145 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 44 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
 | 45 | [sex money feelings die](https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 2:19 |
 | 46 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
-| 47 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
-| 48 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
+| 47 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
+| 48 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
 | 49 | [Teardrops](https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Teardrops](https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV) | 3:18 |
 | 50 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 51 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 75 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 76 | [Beauty & Essex \(feat\. Daniel Caesar & Unknown Mortal Orchestra\)](https://open.spotify.com/track/0cciBj4236w1xByzZvn92D) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 4:37 |
 | 77 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 |
-| 78 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
-| 79 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
+| 78 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
+| 79 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
 | 80 | [Flight Risk](https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 0:59 |
 | 81 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
 | 82 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 84 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 85 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |
 | 86 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
-| 87 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
-| 88 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
+| 87 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
+| 88 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
 | 89 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 90 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 91 | [Mother Nature's Bitch](https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 1:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 | 100 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
 
-Snapshot ID: `MCxhMDdkMzJkMzI0Nzg1NDk0YjgzNWY4ZTBmZDJhYTc0NzMxOWU1MThl`
+Snapshot ID: `MCw1NzNhMTY2ZTAzNzBjMjc1MWZiNGQxNDIzMGJlNmZkODQzMmYwZTQz`

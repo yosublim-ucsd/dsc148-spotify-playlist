@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-800 songs - 1 day 21 hr 43 min
+801 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Beyond](https://open.spotify.com/track/0nyG4VfU1SWpxc0H4KcZ08) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [Beyond](https://open.spotify.com/album/3ZZyGyJ9gHW5h4TJ6VR395) | 4:34 | 2023-02-21 | 2023-03-08 |
 | [Beyond](https://open.spotify.com/track/7xev1esc8DiPGq6oZ5bqe7) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [Beyond](https://open.spotify.com/album/0FYeWNpRDbzpdWlLrvt67F) | 4:34 | 2023-02-21 | 2023-02-23 |
 | [Beyond META](https://open.spotify.com/track/7rwzL2Zz03dD8kXpO8ESRh) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Beyond META](https://open.spotify.com/album/2IBFqa929w1GvPSCmNbMZ7) | 3:37 | 2022-06-16 | 2022-06-20 |
+| [Black Sheep](https://open.spotify.com/track/76fIkBJQtCdBFcfyNpWPWD) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [JIGOKU 6](https://open.spotify.com/album/60EiDxjoQ7L059GbEOeQEs) | 3:06 | 2023-08-17 |  |
 | [Blank](https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [mao sasagawa](https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8) | [Blank](https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM) | 3:30 | 2022-08-16 | 2022-09-21 |
 | [Blend \(feat\. 一二三 / 長月翠\)](https://open.spotify.com/track/3RSh5LiIoEMv5jwXqdh71G) | [1 PICTURE 1 STORY](https://open.spotify.com/artist/3sOQRAvO0KJ8jnuhmeuRRT), [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO), [長月翠](https://open.spotify.com/artist/0y1Iz10RmnmdhPsIJ2lh1L) | [Blend \(feat\. 一二三 / 長月翠\)](https://open.spotify.com/album/5ObaAmBNkhqT0htpuIR9mk) | 3:12 | 2022-06-13 | 2022-07-22 |
 | [BLUE](https://open.spotify.com/track/6XBLLp49i8tXIEYR7KDYUt) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [BLUE](https://open.spotify.com/album/68FbIirzOmmkc44PrvOQor) | 3:08 | 2023-04-20 | 2023-04-26 |
@@ -588,7 +589,7 @@
 | [声届いた日から](https://open.spotify.com/track/6jpg3h3AUob8zNZJtECAku) | [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [オサム](https://open.spotify.com/artist/1OVrgfdx6a4rWXHjqVBTJX) | [声届いた日から](https://open.spotify.com/album/6lsgCIR0ASTH8pyL8Vhpg5) | 4:32 | 2022-08-18 | 2022-08-20 |
 | [売らん哉](https://open.spotify.com/track/2SLHjk0pPgwifmTml3bzWG) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [売らん哉](https://open.spotify.com/album/3i1S2wSQAUkB5eGcsVVl7w) | 2:15 | 2022-07-21 | 2022-07-23 |
 | [変わりゆく季節](https://open.spotify.com/track/7uSoWxOMu2BxyALIMmXBCW) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [変わりゆく季節](https://open.spotify.com/album/6thgLBzZtseSIAoz2W1W5k) | 3:38 | 2023-04-04 | 2023-04-12 |
-| [夏](https://open.spotify.com/track/6goUwa4lT1EFoP1Qx2eupB) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [夏](https://open.spotify.com/album/5XlYkNlljaYPJTNf5ZYUF5) | 3:04 | 2023-08-08 |  |
+| [夏](https://open.spotify.com/track/6goUwa4lT1EFoP1Qx2eupB) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [夏](https://open.spotify.com/album/5XlYkNlljaYPJTNf5ZYUF5) | 3:04 | 2023-08-08 | 2023-08-18 |
 | [夏の予感](https://open.spotify.com/track/0pRVc4vIlWX0zHK1VTOAfm) | [kareru](https://open.spotify.com/artist/1hlJzANJbrdrCOdjWTD13f) | [夏めく](https://open.spotify.com/album/6NNfhAhK2TNHPhWGHDvJB5) | 2:40 | 2022-06-21 | 2022-07-01 |
 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 | 2022-10-04 | 2023-02-05 |
 | [夏端月の青さだけ](https://open.spotify.com/track/0eegDMhk0eorSNTCdLgzH3) | [青い子](https://open.spotify.com/artist/7kpL1G3ZiRLBZz5nUZBnnp) | [夏端月の青さだけ](https://open.spotify.com/album/0vGgd0VdO83JYoDmfP2vbZ) | 3:29 | 2023-01-03 | 2023-01-11 |

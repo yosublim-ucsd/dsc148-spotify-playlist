@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 16117,
+  "num_followers": 16134,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx",
+  "snapshot_id": "MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Shortwave Ruins",
-        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
-      },
-      "artists": [
-        {
-          "name": "Mount Shrine",
-          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
-        }
-      ],
-      "duration_ms": 434716,
-      "name": "Subtotem",
-      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
-    },
-    {
       "added_at": "2022-03-30 02:52:41",
       "album": {
         "name": "Point Zero",
@@ -307,6 +291,22 @@
       "duration_ms": 191746,
       "name": "Dear Ko (To Ko the Regt)",
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Shortwave Ruins",
+        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
+      },
+      "artists": [
+        {
+          "name": "Mount Shrine",
+          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
+        }
+      ],
+      "duration_ms": 434716,
+      "name": "Subtotem",
+      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
     },
     {
       "added_at": "2022-05-18 00:27:56",
@@ -519,26 +519,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Between No Things",
-        "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
-      },
-      "artists": [
-        {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        },
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 235717,
-      "name": "On Plateau",
-      "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Between No Things",
+        "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        },
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 235717,
+      "name": "On Plateau",
+      "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -647,6 +647,26 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Flying to America",
         "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
       },
@@ -679,22 +699,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
-        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
-      },
-      "artists": [
-        {
-          "name": "Yoshio Ojima",
-          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
-        }
-      ],
-      "duration_ms": 356520,
-      "name": "Glass Chattering",
-      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Vernal Equinox (Remastered)",
         "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
       },
@@ -711,22 +715,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
       },
       "artists": [
         {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Motion Graphics",
-          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Terrazzo",
-      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+      "duration_ms": 356520,
+      "name": "Glass Chattering",
+      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
     },
     {
-      "added_at": "2022-02-12 01:31:39",
-      "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
       "added_at": "2022-03-16 01:06:51",
       "album": {
         "name": "Dreams",
@@ -795,6 +779,22 @@
       "duration_ms": 316285,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
+    },
+    {
+      "added_at": "2022-02-12 01:31:39",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2021-11-12 02:58:17",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Temple Of The New Sun",
+        "url": "https://open.spotify.com/album/00wrOJOHlmNR63kIKK6x7R"
+      },
+      "artists": [
+        {
+          "name": "Xochimoki",
+          "url": "https://open.spotify.com/artist/2r9Sm0NknfL0xMMaRYQiiG"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Malinalli Koatl",
+      "url": "https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Habitat",
         "url": "https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 295544,
       "name": "Air Flows",
       "url": "https://open.spotify.com/track/0pYwlehWNQ50iyQdZJFbZu"
-    },
-    {
-      "added_at": "2023-03-07 03:31:30",
-      "album": {
-        "name": "Mirrored Solitude",
-        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
-      },
-      "artists": [
-        {
-          "name": "Kalia Vandever",
-          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
-        }
-      ],
-      "duration_ms": 206863,
-      "name": "Mirrored Solitude",
-      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     }
   ],
   "unique_name": "Planetary Soul",

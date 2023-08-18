@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Daniel Caldrón y Los Gigantes
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,305 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,355 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 64 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 |
 | 65 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `MCwzYTRmMjI0YTVhOWY1MjFkODlhOGExNzBkZTk4OTMzMTk4MmYxY2Y3`
+Snapshot ID: `MCxlZWM2ZTY5ODljODNlYzAwNzViNTZmM2EwNWE1YjA2NmE1ZjU3Zjll`

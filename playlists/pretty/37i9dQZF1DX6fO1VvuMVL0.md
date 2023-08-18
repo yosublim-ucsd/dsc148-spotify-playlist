@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,955 likes - 75 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,003 likes - 75 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 37 | [Walkin' Out Blues](https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:56 |
 | 38 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
 | 39 | [Monaco \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 |
-| 40 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 |
-| 41 | [Under Capricorn](https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx) | [Gil Melle](https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX) | [New Faces \- New Sounds](https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw) | 3:01 |
+| 40 | [Under Capricorn](https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx) | [Gil Melle](https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX) | [New Faces \- New Sounds](https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw) | 3:01 |
+| 41 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 |
 | 42 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
 | 43 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
 | 44 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 74 | [Miles Ahead](https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:29 |
 | 75 | [Deception](https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:48 |
 
-Snapshot ID: `MCw1NTA5YThlMTFiNzU2YWJjZDA2MzlkYzM5N2EwODczNzI4MjNjYzgx`
+Snapshot ID: `MCxlODgwZjFlM2M0OTU0ZDRhZGYyZDNkNmQ5NTk0MTI4NzY5NDJlY2E5`

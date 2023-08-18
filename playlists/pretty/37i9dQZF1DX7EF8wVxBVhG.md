@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,625 likes - 134 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,003 likes - 134 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 72 | [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 |
 | 73 | [emerging roots \- Alpha Sinus 81Hz \- 89Hz](https://open.spotify.com/track/7JwG4QGEMVEJT1yyqLYlmv) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 4:23 |
 | 74 | [Binaural Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/1TgKmz3xe3YR39szc6h9mD) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [FoCcus](https://open.spotify.com/album/1YD1tFaelD370A42BWvlqR) | 2:12 |
-| 75 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 |
+| 75 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 |
 | 76 | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/track/3zmRndl0TkZRDhdWcYEf7x) | [Mind Mining](https://open.spotify.com/artist/0JM9LBHZ5S6qQMz33Y6NvK) | [Binaural Alpha Sinus 120 Hz \- 128 Hz](https://open.spotify.com/album/4ocuIleKlk4CzPGrzWVqPd) | 2:09 |
 | 77 | [Stingray Alpha Sinus 147Hz \- 159Hz](https://open.spotify.com/track/3XNII7xuI8iShtoFrPAlA8) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Stingray Alpha Sinus 147Hz \- 159Hz](https://open.spotify.com/album/4pBn8DPYc09epRwTuCjYak) | 3:24 |
 | 78 | [Sommernacht \- Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/6um6WVJVLw43yxPNtUlsPJ) | [Twinbeet](https://open.spotify.com/artist/5TgC13fERuYwNvHbRSfVGp) | [Morning Binaural](https://open.spotify.com/album/2G0j9ck7PCysNMufYHWCbn) | 2:20 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 133 | [Gamma Waves 89 + 86 hz](https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:01 |
 | 134 | [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:24 |
 
-Snapshot ID: `MCxjYzhhYTE0NGFlMWU1NDVkZDBhNzdmYmVkYTUyMjNmODZkOGNiMDMw`
+Snapshot ID: `MCw0YTQ4NzVkY2FmYmY5NTE5MzczNGU3ZmJkNzkzN2FlMmM4Y2NlYzI3`

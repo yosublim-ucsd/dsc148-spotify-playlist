@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 292368,
+  "num_followers": 292795,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmI2MDJmMjM4ZmEzY2I2MTQ1NGY2OGNlMTYwOWZhOTZlYWYyZjg0",
+  "snapshot_id": "MCw2Yzk4MGJmMjRhOTIwYmM0ZjA0ZjUzNWU5MzQyNThmODczMDk3N2Qw",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "Chime",
+        "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Chime - Edit",
+      "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "Don\u2019t Stop Movin\u2019",
         "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 215226,
       "name": "Don't Stop Movin' - Radio Mix",
       "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Chime",
-        "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Chime - Edit",
-      "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
     },
     {
       "added_at": "2021-09-17 08:34:50",

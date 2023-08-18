@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 
 > Game time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,308 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,117 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 | 49 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 |
 | 50 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
 
-Snapshot ID: `MCxiODc3M2ZhNDhjMmQ5ZDc1ZDAzNjdjMjE2ODkwYTBhODhlMWNiYmFk`
+Snapshot ID: `MCwzMzQ4NzM5NjQwNDYzOTg5NDEyOTU2NGUwYTU1MGQ5MDJkNjYzZGQ4`

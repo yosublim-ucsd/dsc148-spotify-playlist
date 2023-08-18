@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 
 > Run to the world of R&B and hip\-hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,235 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,509 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,19 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 25 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:25 |
 | 26 | [Glorious \(feat\. Skylar Grey\)](https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [GEMINI](https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2) | 3:40 |
 | 27 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
-| 28 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
+| 28 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
 | 29 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 30 | [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 6:03 |
-| 31 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
+| 31 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 32 | [Live Your Life](https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 5:38 |
 | 33 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 34 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 |
 | 35 | [Come Get Her](https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:32 |
 | 36 | [Down On Me](https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [All About You](https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD) | 3:48 |
 | 37 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 |
-| 38 | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI) | 3:06 |
+| 38 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
 | 39 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 |
-| 40 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
+| 40 | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI) | 3:06 |
 | 41 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |
 | 42 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
 | 43 | [Energy](https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 49 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
 | 50 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 |
 
-Snapshot ID: `MCxlMjY3MTcwZGYwZGExYjlkMmQxYTAwMDIwYjRlY2M5NjVlYTQ1NjNl`
+Snapshot ID: `MCwwZDc3MTkwMDMxMGYwMjBkMmY0NTljODg3MTUyNTQzNjY4MTQ4YjNj`

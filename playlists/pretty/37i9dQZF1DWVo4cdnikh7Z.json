@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer",
-  "num_followers": 565697,
+  "num_followers": 566401,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzYzNzhiZDFhOTgwOTkyNGU0MDlmN2U3N2NjYWUxODkzMDYyYjc3",
+  "snapshot_id": "MCw4M2MxNWM5ZDNhMDRiYWZkZDgwMDY2NDdjNTZjNGY5MzVmZTg1NDM1",
   "tracks": [
     {
       "added_at": "2023-07-17 12:34:23",
@@ -205,42 +205,6 @@
       "url": "https://open.spotify.com/track/0sXGEJoOeNhzpMBKYKtDoO"
     },
     {
-      "added_at": "2023-08-11 11:32:55",
-      "album": {
-        "name": "Swagathaanjali (From \"Chandramukhi 2\")",
-        "url": "https://open.spotify.com/album/0rI3ReaoMcE2yLUPhJgfpN"
-      },
-      "artists": [
-        {
-          "name": "M. M. Keeravani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
-        },
-        {
-          "name": "Sreenidhi Tirumala",
-          "url": "https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB"
-        }
-      ],
-      "duration_ms": 228883,
-      "name": "Swagathaanjali (From \"Chandramukhi 2\")",
-      "url": "https://open.spotify.com/track/1lx5Cp1At5h0yDsd2G2nQH"
-    },
-    {
-      "added_at": "2023-08-09 09:03:45",
-      "album": {
-        "name": "Ponniyin Selvan - Original Score (Part-A)",
-        "url": "https://open.spotify.com/album/7y3bI6blXr4I8l4kKGcBfE"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        }
-      ],
-      "duration_ms": 269688,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/1nHTOlxSEyyrLH6wzzMJTd"
-    },
-    {
       "added_at": "2023-07-28 14:22:03",
       "album": {
         "name": "Jailer (Original Motion Picture Soundtrack)",
@@ -263,6 +227,66 @@
       "duration_ms": 252151,
       "name": "Rathamaarey",
       "url": "https://open.spotify.com/track/0NAUzrHSWZwDCFsAT5fBV4"
+    },
+    {
+      "added_at": "2023-08-11 11:32:55",
+      "album": {
+        "name": "Swagathaanjali (From \"Chandramukhi 2\")",
+        "url": "https://open.spotify.com/album/0rI3ReaoMcE2yLUPhJgfpN"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Sreenidhi Tirumala",
+          "url": "https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB"
+        }
+      ],
+      "duration_ms": 228883,
+      "name": "Swagathaanjali (From \"Chandramukhi 2\")",
+      "url": "https://open.spotify.com/track/1lx5Cp1At5h0yDsd2G2nQH"
+    },
+    {
+      "added_at": "2023-08-17 11:03:33",
+      "album": {
+        "name": "Oru Vari Kadhai (From \"Lucky Man\")",
+        "url": "https://open.spotify.com/album/0I9U832AXovQAtRX10zunE"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Balaji Venugopal",
+          "url": "https://open.spotify.com/artist/2AgNfl8BFrDlCLKeZgBZli"
+        }
+      ],
+      "duration_ms": 194697,
+      "name": "Oru Vari Kadhai - From \"Lucky Man\"",
+      "url": "https://open.spotify.com/track/67vdj0BNOY8NsNBgcoGRbh"
+    },
+    {
+      "added_at": "2023-08-09 09:03:45",
+      "album": {
+        "name": "Ponniyin Selvan - Original Score (Part-A)",
+        "url": "https://open.spotify.com/album/7y3bI6blXr4I8l4kKGcBfE"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "duration_ms": 269688,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/1nHTOlxSEyyrLH6wzzMJTd"
     },
     {
       "added_at": "2023-07-14 06:36:31",
@@ -313,6 +337,26 @@
       "url": "https://open.spotify.com/track/19pRrxOQCRg8j0uQxe2d0V"
     },
     {
+      "added_at": "2023-08-17 10:59:05",
+      "album": {
+        "name": "The Soul Of Satya (From \"Satya\")[TAMIL]",
+        "url": "https://open.spotify.com/album/4jPwtTFFRJNHZUTsex4Wqg"
+      },
+      "artists": [
+        {
+          "name": "Shruthi Ranjani",
+          "url": "https://open.spotify.com/artist/6Sg0TKAUBbrcX1AiLFOERM"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 270163,
+      "name": "The Soul Of Satya (From \"Satya\") [TAMIL]",
+      "url": "https://open.spotify.com/track/5DekcMOvhnPz8TXo8SR5Lz"
+    },
+    {
       "added_at": "2023-08-14 10:58:46",
       "album": {
         "name": "Love Panna Podhume (From \"Locker\")",
@@ -361,6 +405,34 @@
       "url": "https://open.spotify.com/track/3n2avwkzCmgIpeaXEp9ayK"
     },
     {
+      "added_at": "2023-08-17 11:02:52",
+      "album": {
+        "name": "Vizhi Edhiril Thaeyum (From \"Kushi\")",
+        "url": "https://open.spotify.com/album/4osJpQSYnOpiQo3s16sNmi"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "duration_ms": 230076,
+      "name": "Vizhi Edhiril Thaeyum (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/2ce2l82Rau2ksfEpa8bTJZ"
+    },
+    {
       "added_at": "2023-08-11 09:41:35",
       "album": {
         "name": "Mamakutty (Refix)",
@@ -405,6 +477,30 @@
       "url": "https://open.spotify.com/track/617YmFhbtCUHTHmiYCSmJu"
     },
     {
+      "added_at": "2023-08-17 13:00:34",
+      "album": {
+        "name": "The Layers Of Shawarma (From \"Halal Shawarma\")",
+        "url": "https://open.spotify.com/album/3mkRHkQC9LUSBdIFOa8lwF"
+      },
+      "artists": [
+        {
+          "name": "Barath Dhanasekar",
+          "url": "https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD"
+        },
+        {
+          "name": "Sudharsan Ram",
+          "url": "https://open.spotify.com/artist/66wBNPC8tutPBOpdiVyDz7"
+        },
+        {
+          "name": "Akshara Shritharan",
+          "url": "https://open.spotify.com/artist/5o9WjLuc4K9Rwi0Mab4t6u"
+        }
+      ],
+      "duration_ms": 315815,
+      "name": "The Layers Of Shawarma (From \"Halal Shawarma\")",
+      "url": "https://open.spotify.com/track/1YL6wsXd8yuE8DuIOccE9a"
+    },
+    {
       "added_at": "2023-08-11 09:38:18",
       "album": {
         "name": "Pet Lovers Anthem (Paal Mazhayin Thooralil) (From \"Shot Boot Three\")",
@@ -427,6 +523,30 @@
       "duration_ms": 315714,
       "name": "Pet Lovers Anthem (Paal Mazhayin Thooralil) (From \"Shot Boot Three\")",
       "url": "https://open.spotify.com/track/51jCRIEMHqdhy6NYCDQw1R"
+    },
+    {
+      "added_at": "2023-08-17 10:59:05",
+      "album": {
+        "name": "Aviya Eviya (From \"Kumbaari\")",
+        "url": "https://open.spotify.com/album/4SnCVFLqK02tNlUfdfOgpR"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Jeyprakas",
+          "url": "https://open.spotify.com/artist/7zpLlgsFNGBI24OO8ABRwq"
+        },
+        {
+          "name": "M.R. Vinothan",
+          "url": "https://open.spotify.com/artist/3zTsIXs3eNUzBlDEumo0kt"
+        }
+      ],
+      "duration_ms": 258321,
+      "name": "Aviya Eviya (From \"Kumbaari\")",
+      "url": "https://open.spotify.com/track/79NNEWznxn00LOECXZmHx4"
     },
     {
       "added_at": "2023-08-10 12:19:04",
@@ -563,30 +683,6 @@
       "duration_ms": 99563,
       "name": "Saaya Sanjale",
       "url": "https://open.spotify.com/track/5ZureE46xVrSPvEi1mxWsz"
-    },
-    {
-      "added_at": "2023-07-28 14:29:40",
-      "album": {
-        "name": "Kushi Title Song (From \"Kushi\") (Tamil)",
-        "url": "https://open.spotify.com/album/3E3xI0C9DXiMKr6LJsJqtZ"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Kushi Title Song (From \"Kushi\") (Tamil)",
-      "url": "https://open.spotify.com/track/4a0SCd5iq23JqRBZO8j3ao"
     },
     {
       "added_at": "2023-08-10 12:19:04",
@@ -745,58 +841,6 @@
       "url": "https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG"
     },
     {
-      "added_at": "2023-07-12 12:37:50",
-      "album": {
-        "name": "Mudhal Kaadhal (From \"Adiyae\")",
-        "url": "https://open.spotify.com/album/4wfAJ7vn4VwAdTgvhs0AC0"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Bagavathy P K",
-          "url": "https://open.spotify.com/artist/0dFN2csM7engJcblm8Lx8H"
-        }
-      ],
-      "duration_ms": 230519,
-      "name": "Mudhal Kaadhal - From \"Adiyae\"",
-      "url": "https://open.spotify.com/track/7E6g8wI3WIijYkLvZQ50hp"
-    },
-    {
-      "added_at": "2023-02-17 09:30:38",
-      "album": {
-        "name": "Scene Ah Scene Ah (From \"Maaveeran\") - Single",
-        "url": "https://open.spotify.com/album/2yL9cgY54kpyJRNqwQ1Xaz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Bharath Sankar",
-          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
-        },
-        {
-          "name": "Kabilan",
-          "url": "https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6"
-        },
-        {
-          "name": "CM Lokesh",
-          "url": "https://open.spotify.com/artist/2sXvpELsZHmhvSAmcWgNTp"
-        }
-      ],
-      "duration_ms": 304670,
-      "name": "Scene Ah Scene Ah (From \"Maaveeran\")",
-      "url": "https://open.spotify.com/track/4oH2lx7TZEE00dsxgQsBJr"
-    },
-    {
       "added_at": "2023-05-30 09:57:32",
       "album": {
         "name": "Veeran Thiruvizha (From \"Veeran\")",
@@ -855,30 +899,6 @@
       "duration_ms": 290816,
       "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
       "url": "https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar"
-    },
-    {
-      "added_at": "2023-07-03 12:42:09",
-      "album": {
-        "name": "Sweet Kaaram Coffee (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3N29wpPW6HTgYr8t6N7QV6"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Keerthana Vaidyanathan",
-          "url": "https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8"
-        }
-      ],
-      "duration_ms": 117966,
-      "name": "Cargaalamey",
-      "url": "https://open.spotify.com/track/67uNsHiNloytecntiAbKf2"
     },
     {
       "added_at": "2023-03-19 07:47:00",
@@ -1131,46 +1151,6 @@
       "duration_ms": 255096,
       "name": "Ninaivirukka (From \"Pathu Thala\")",
       "url": "https://open.spotify.com/track/1QFt7JduUhTeos7dNxPeHw"
-    },
-    {
-      "added_at": "2023-02-23 15:59:00",
-      "album": {
-        "name": "Vaathi",
-        "url": "https://open.spotify.com/album/4cp0WC1sFQfAKOnw0VjfMB"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        }
-      ],
-      "duration_ms": 223934,
-      "name": "Vaa Vaathi (Dhanush Reprise Version)",
-      "url": "https://open.spotify.com/track/43bgjI3ZddPJsu3JvNmYui"
-    },
-    {
-      "added_at": "2023-02-03 19:56:57",
-      "album": {
-        "name": "Bloody Sweet (From \"Leo\")",
-        "url": "https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Siddharth Basrur",
-          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
-        }
-      ],
-      "duration_ms": 168540,
-      "name": "Bloody Sweet (From \"Leo\")",
-      "url": "https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9"
     }
   ],
   "unique_name": "Latest Tamil",

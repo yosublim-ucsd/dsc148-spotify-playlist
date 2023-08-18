@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 
 > Music to see you through the tough times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,143 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,264 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 46 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 |
 | 47 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
 | 48 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
-| 49 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
-| 50 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
+| 49 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
+| 50 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
 | 51 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 52 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
-| 53 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
-| 54 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
+| 53 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
+| 54 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 55 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
 | 56 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
 | 57 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 99 | [Never on the Day You Leave](https://open.spotify.com/track/3TQbr3G3U5wlwEJejmqC1F) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:40 |
 | 100 | [Wild Hearts Can't Be Broken](https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:21 |
 
-Snapshot ID: `MCw3NjIxZGE3NWEzMmVjMjA5YWU1N2QwNzM2YThlY2FjOTI4OGZkOTUw`
+Snapshot ID: `MCwxNDIxZTQzNTRkZTg3YmRkNGFlZDFhZTU0ZWUxYjY2NGZjY2JlMzNm`

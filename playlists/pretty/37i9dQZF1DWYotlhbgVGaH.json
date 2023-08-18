@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 115176,
+  "num_followers": 115196,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi",
+  "snapshot_id": "MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "One Hour Mama",
-        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
-      },
-      "artists": [
-        {
-          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
-          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Oo Poppa Do",
-      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "prozac nation",
         "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 146760,
       "name": "pull the plug",
       "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "One Hour Mama",
+        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Oo Poppa Do",
+      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -687,38 +687,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "The Romper Room",
-        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
-      },
-      "artists": [
-        {
-          "name": "Eight To The Bar",
-          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Dirty Dog",
-      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Rapid City Muscle Car",
-        "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
-      },
-      "artists": [
-        {
-          "name": "Cherry Poppin' Daddies",
-          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
-        }
-      ],
-      "duration_ms": 224052,
-      "name": "Pink Elephant",
-      "url": "https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Everybody's Talkin' 'Bout Miss Thing!",
         "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
       },
@@ -735,6 +703,22 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "The Romper Room",
+        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
+      },
+      "artists": [
+        {
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 217373,
       "name": "Swingin' At The Savoy",
       "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Rapid City Muscle Car",
+        "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "duration_ms": 224052,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -815,6 +815,62 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Rigormorty",
+        "url": "https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk"
+      },
+      "artists": [
+        {
+          "name": "The New Morty Show",
+          "url": "https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r"
+        },
+        {
+          "name": "Brian Fishler",
+          "url": "https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL"
+        },
+        {
+          "name": "Cynthia Lewis",
+          "url": "https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh"
+        },
+        {
+          "name": "Jeff Whipp",
+          "url": "https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA"
+        },
+        {
+          "name": "John Quam",
+          "url": "https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E"
+        },
+        {
+          "name": "Morty Okin",
+          "url": "https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6"
+        },
+        {
+          "name": "Robert Castillo",
+          "url": "https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df"
+        },
+        {
+          "name": "Trevor Kinsel",
+          "url": "https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL"
+        },
+        {
+          "name": "Van Hughes",
+          "url": "https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3"
+        },
+        {
+          "name": "Matt Cowan",
+          "url": "https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7"
+        },
+        {
+          "name": "David Murotake",
+          "url": "https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Ladies Man",
+      "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Superhero Swinger Undercover",
         "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
       },
@@ -827,22 +883,6 @@
       "duration_ms": 238306,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Come Out Swingin'",
-        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
-      },
-      "artists": [
-        {
-          "name": "Steve Lucky & The Rhumba Bums",
-          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
-        }
-      ],
-      "duration_ms": 280493,
-      "name": "Jumptown",
-      "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
     }
   ],
   "unique_name": "Swing Revival",

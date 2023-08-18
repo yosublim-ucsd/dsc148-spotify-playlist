@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,500 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,523 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 52 | [Blueberry Faygo](https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Blueberry Faygo](https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL) | 2:42 |
 | 53 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
 | 54 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 |
-| 55 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 |
-| 56 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
+| 55 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
+| 56 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 |
 | 57 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
 | 58 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
 | 59 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [24 \(feat\. Lil Baby\)](https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [24 \(feat\. Lil Baby\)](https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5) | 3:02 |
 | 80 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
 
-Snapshot ID: `MCxhMTcxNDVlZDdhMGQzMjFlMjA5OTVjN2JhNWI2Mjc2NGQ4OWRhNjQ4`
+Snapshot ID: `MCw4NmQ2OTAyNWZjOGE3ZDQ4ZTkxNjE2NDFhYTlhMWEzYjUzYmU4N2U2`

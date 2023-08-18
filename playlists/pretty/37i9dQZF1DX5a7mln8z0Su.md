@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,966 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,972 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 14 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 |
 | 15 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
 | 16 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 |
-| 17 | [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 |
+| 17 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 |
 | 18 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
-| 19 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 |
+| 19 | [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 |
 | 20 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 |
 | 21 | [Pearl](https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Pearl](https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3) | 3:53 |
 | 22 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 42 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 43 | [천년지애 Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 |
 | 44 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 |
-| 45 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
-| 46 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
+| 45 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
+| 46 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
 | 47 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
 | 48 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 |
 | 49 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
 | 50 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
 
-Snapshot ID: `MCw5ZmMyMTI4MzI1NTkxZmY2OGU0NmRkZGQwYjVlZjM4NGU3MzMxOTAw`
+Snapshot ID: `MCxhNmY3OWVhYWM5NWUyNjFiZWZmZGNkZWY4OWQzZThhOTIwN2I3OTRj`

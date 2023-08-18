@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,898 likes - 77 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,909 likes - 77 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 76 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 |
 | 77 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 
-Snapshot ID: `MCxkMTg5ZjMzNTYyMzQ5ZGEzMzI0NTlhYTIwMjgzZjhiNzYyMTRhMTY0`
+Snapshot ID: `MCxhZWU5NzZiMWMwNmIwNzY5ZjViZjg5ODYwODRmOWRmNGViYTM5ZDE3`

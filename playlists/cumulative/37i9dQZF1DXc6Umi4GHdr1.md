@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-239 songs - 10 hr 46 min
+242 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cumulus](https://open.spotify.com/track/5Ykw2B7qy8ziuYPq6GhsgR) | [Lesley Harmon](https://open.spotify.com/artist/4uKlprMWvRbTYRspAQQdM2) | [Cumulus](https://open.spotify.com/album/2tl0bMSrfzfM0nzTwlPddG) | 1:27 | 2022-12-16 | 2023-03-31 |
 | [Currer Bell](https://open.spotify.com/track/2FhRsngrjvqDFGT94BX7vu) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Currer Bell](https://open.spotify.com/album/7Fes7QyLJptB1xdfzTJmPK) | 2:31 | 2022-11-25 |  |
 | [Cuyutlan](https://open.spotify.com/track/451zGCNVAnPGS9Nv7PI8yQ) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:53 | 2021-12-10 |  |
+| [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 |  |
 | [Das Gebirge](https://open.spotify.com/track/12gTq55jChsH7RIFX6LoBP) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Das Gebirge](https://open.spotify.com/album/6CraOjno7t4Lr9buQoXOIw) | 2:34 | 2022-05-27 |  |
 | [Demons](https://open.spotify.com/track/4kUStH2WW43Ly9wXHOry5v) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Demons](https://open.spotify.com/album/38CMtYhTZkGGCAi63jiTDi) | 2:48 | 2022-12-09 | 2023-03-10 |
@@ -119,6 +120,7 @@
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2022-01-11 |  |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-08-12 |
 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 | 2023-06-02 |  |
+| [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Lettre encore](https://open.spotify.com/track/7fMaXYCcmEt2rDcXcGpYMl) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Elena Papandreou](https://open.spotify.com/artist/79nEvQEOGsm8elVnhpeiP3) | [Dyens: Guitar Music](https://open.spotify.com/album/6gNJf8Eb2dGtKWWkmjJdGq) | 1:39 | 2021-12-10 | 2022-07-22 |
 | [Like A Feather](https://open.spotify.com/track/7Mzcjfy53dYvSeqaTR0fSW) | [Jaime Escalera](https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf) | [Like A Feather](https://open.spotify.com/album/3fU6JjOGp9mdg8PyxcXPy0) | 2:46 | 2023-08-11 |  |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-03-10 | 2023-06-16 |
@@ -183,6 +185,7 @@
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 |  |
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 |  |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 |  |
+| [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Southern](https://open.spotify.com/track/1MZDSZNmYSWR5IIRmmPCXm) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Southern](https://open.spotify.com/album/0s2CFBb8tEHleuDk01vwfz) | 2:38 | 2021-12-10 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 | 2022-07-22 |
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-03-31 | 2023-06-16 |

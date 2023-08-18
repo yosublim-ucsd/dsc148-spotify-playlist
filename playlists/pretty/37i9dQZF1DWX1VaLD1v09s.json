@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 77584,
+  "num_followers": 77578,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGQzM2RmNGNiMmNkMmM4NjhkNDg0NTQ5MjYzMWRmZmI2YmFjZTk0",
+  "snapshot_id": "MCw3YjExNWU5NGRmYTMwODlhOGExZjE4OGMyNGNjOWRiMWFkODBlOTQw",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -763,22 +763,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Passion: Let The Future Begin",
-        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 339493,
-      "name": "In Christ Alone - Live",
-      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -799,18 +795,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+        "name": "Passion: Let The Future Begin",
+        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
+      "duration_ms": 339493,
+      "name": "In Christ Alone - Live",
+      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Rescuer (Good News)",
-      "url": "https://open.spotify.com/track/1TsBTEIa4jJD7tgD3j6C40"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "spark. (Live)",
         "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 567093,
       "name": "Breakthrough - Live",
       "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Rescuer (Good News)",
+      "url": "https://open.spotify.com/track/1TsBTEIa4jJD7tgD3j6C40"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Greatest Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Wonderful, Merciful Savior",
-      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 280762,
       "name": "Lion and the Lamb",
       "url": "https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Greatest Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Wonderful, Merciful Savior",
+      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "For God Is With Us",
         "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 196846,
       "name": "For God Is With Us",
       "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
       "artists": [
         {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
+      "duration_ms": 244720,
+      "name": "Signature of Divine (Yahweh)",
+      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2383,38 +2383,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Signature of Divine (Yahweh)",
-      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "My Utmost For His Highest",
-        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        }
-      ],
-      "duration_ms": 201401,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2439,6 +2419,26 @@
       "duration_ms": 414391,
       "name": "Look To The Lamb",
       "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "My Utmost For His Highest",
+        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        }
+      ],
+      "duration_ms": 201401,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2643,18 +2643,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
+      "duration_ms": 205666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
     }
   ],
   "unique_name": "Easter",

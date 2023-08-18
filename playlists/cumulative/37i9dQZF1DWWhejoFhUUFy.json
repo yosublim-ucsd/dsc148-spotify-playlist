@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Baarishein (Acoustic)",
+        "url": "https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Baarishein (Acoustic)",
+      "url": "https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt"
+    },
+    {
+      "album": {
         "name": "Badra Bahara",
         "url": "https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl"
       },
@@ -296,7 +314,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 171428,
       "name": "Bewajah",
       "url": "https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C"
@@ -440,7 +458,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 305000,
       "name": "Ghar",
       "url": "https://open.spotify.com/track/4sHxclJmWy9lEdbZZ3WAfW"
@@ -529,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289999,
+      "name": "Hawayein",
+      "url": "https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD"
+    },
+    {
+      "album": {
         "name": "Hazir Main Rahun",
         "url": "https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr"
       },
@@ -562,7 +602,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 178000,
       "name": "Ho Jaane Do",
       "url": "https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj"
@@ -595,6 +635,28 @@
     },
     {
       "album": {
+        "name": "Raabta",
+        "url": "https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274687,
+      "name": "Ik Vaari Aa",
+      "url": "https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC"
+    },
+    {
+      "album": {
         "name": "I Love You...Forever",
         "url": "https://open.spotify.com/album/3v8bVKuoU4pdMhMx0hStRN"
       },
@@ -618,6 +680,58 @@
       "duration_ms": 253773,
       "name": "Iktara (From \"Wake Up Sid\")",
       "url": "https://open.spotify.com/track/0bmp0lE3ArELHqda9PBMVG"
+    },
+    {
+      "album": {
+        "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
+      },
+      "artists": [
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329167,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/0GVPRo9LEjxjT4C4o8BGot"
+    },
+    {
+      "album": {
+        "name": "Azhar",
+        "url": "https://open.spotify.com/album/0V1JQaeLB033XjgS7JqNbP"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294846,
+      "name": "Itni Si Baat Hain",
+      "url": "https://open.spotify.com/track/3P167vmmGRGKHoy7uDugvy"
     },
     {
       "album": {
@@ -654,6 +768,28 @@
       "duration_ms": 174039,
       "name": "Jab Tak",
       "url": "https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn"
+    },
+    {
+      "album": {
+        "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
+        "url": "https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223390,
+      "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
+      "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
     },
     {
       "album": {
@@ -730,7 +866,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 268164,
       "name": "Kesariya",
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
@@ -756,7 +892,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
@@ -838,7 +974,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 177290,
       "name": "kho gaya",
       "url": "https://open.spotify.com/track/1DKfhVxj07r86PuIcLZNe0"
@@ -900,7 +1036,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 202105,
       "name": "Khwaab - Reprise",
       "url": "https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP"
@@ -962,7 +1098,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 311371,
       "name": "Labon Se Baat - The Ghazal",
       "url": "https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M"
@@ -1010,6 +1146,24 @@
       "duration_ms": 196602,
       "name": "Le Chal",
       "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
+    },
+    {
+      "album": {
+        "name": "Dard",
+        "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147705,
+      "name": "Mahiye Jinna Sohna Unplugged",
+      "url": "https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9"
     },
     {
       "album": {
@@ -1228,7 +1382,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 186845,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/3oMU1p4h2mL2YG6TbRzXOi"
@@ -1264,7 +1418,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 211875,
       "name": "Phir Se Shuru",
       "url": "https://open.spotify.com/track/4JiaYXeF1BjoiNdLtM1yUD"
@@ -1286,6 +1440,28 @@
       "duration_ms": 268833,
       "name": "Phir Se Ud Chala",
       "url": "https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i"
+    },
+    {
+      "album": {
+        "name": "Heropanti",
+        "url": "https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325581,
+      "name": "Raat Bhar",
+      "url": "https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15"
     },
     {
       "album": {
@@ -1316,6 +1492,46 @@
       "duration_ms": 224211,
       "name": "Raatan Kaaliyan",
       "url": "https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr"
+    },
+    {
+      "album": {
+        "name": "Raaton",
+        "url": "https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200237,
+      "name": "Raaton",
+      "url": "https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB"
+    },
+    {
+      "album": {
+        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223271,
+      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
     },
     {
       "album": {
@@ -1352,7 +1568,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 308253,
       "name": "Saawali Si Raat",
       "url": "https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n"
@@ -1415,6 +1631,58 @@
     },
     {
       "album": {
+        "name": "Shayad (Film Version) [From \"Love Aaj Kal\"]",
+        "url": "https://open.spotify.com/album/3IbTgvx8roeABgl7i4d2TV"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245732,
+      "name": "Shayad (Film Version) - From \"Love Aaj Kal\"",
+      "url": "https://open.spotify.com/track/72s1xrc7E27aATdCMbFMC6"
+    },
+    {
+      "album": {
+        "name": "Airlift",
+        "url": "https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281322,
+      "name": "Soch Na Sake",
+      "url": "https://open.spotify.com/track/6mTvwBzWTGDOVeCNQEqtOE"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
       },
@@ -1430,7 +1698,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 299159,
       "name": "Sooha Saaha",
       "url": "https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt"
@@ -1670,7 +1938,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 222400,
       "name": "Woh Saat Din",
       "url": "https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV"
@@ -1764,7 +2032,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 139826,
       "name": "Zaroori Nahi",
       "url": "https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv"

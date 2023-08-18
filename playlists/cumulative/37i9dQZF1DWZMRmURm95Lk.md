@@ -2,7 +2,7 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Johnny Marsiglia in cover.
+> Beat e rime, oggi come una volta\. DJ Shocca, Guè ed Ele A in cover.
 
 294 songs - 17 hr 25 min
 

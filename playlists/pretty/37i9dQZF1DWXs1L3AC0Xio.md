@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,521 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,728 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 74 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
 | 75 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 
-Snapshot ID: `MCw5ZjAwODBjMjdkNGY4OGZiNDFmYzQxMTM4YzY3OTkyOWZkMTJkMjE4`
+Snapshot ID: `MCxhNTg4YzVjZTE5ZjQ2ODc1MDY1Nzc5NTA5YWVlNTg3MmMzZGUwZjc0`

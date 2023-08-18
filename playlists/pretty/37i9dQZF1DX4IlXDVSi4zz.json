@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 215229,
+  "num_followers": 215516,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY3OTBiZDFjZjQ4MWY3MTkwNDMyZmIwMzZlYmNmNzlkZjA0Y2Jj",
+  "snapshot_id": "MCw2MTFlNjdkYmIyY2QwNWM1OWVjYzdlZjk5NGI0NGU2ZjhiNDg4Zjc1",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
+        "name": "Summer Sol",
+        "url": "https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 390222,
+      "name": "Ay Que Sera Del Sol - Original",
+      "url": "https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 142193,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
-        "name": "Summer Sol",
-        "url": "https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 390222,
-      "name": "Ay Que Sera Del Sol - Original",
-      "url": "https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE"
     },
     {
       "added_at": "2022-10-12 15:41:51",

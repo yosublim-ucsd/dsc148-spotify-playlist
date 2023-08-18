@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,885 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,189 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 24 | [MAKE IT](https://open.spotify.com/track/6gxQBmcgLhkzf8usSNPOCu) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [MAKE IT](https://open.spotify.com/album/5nGwjKgtkXf0EbOvH3isFJ) | 2:40 |
 | 25 | [Italiano](https://open.spotify.com/track/6F5ZZ11gmn7f2PfQSGONDp) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [Italiano](https://open.spotify.com/album/0tELMNBziMylG4DlPRCUkR) | 2:30 |
 | 26 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
-| 27 | [SAMURAI](https://open.spotify.com/track/3yUDo3vkOE5XI0W5k6A1vI) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/01u5x15oJm1a8uKVN3pP7T) | 2:49 |
+| 27 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 |
 | 28 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 |
 | 29 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 30 | [Slow Down](https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Slow Down](https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Sweet Dreams](https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Sweet Dreams](https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ) | 2:32 |
 | 50 | [Get Low](https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Get Low](https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT) | 3:41 |
 
-Snapshot ID: `MCxlZDYzZDJkYWQ2ZWIzYzQwZTQzNGYyNzQ1ZDRlN2U2MmRkMjU4YzVj`
+Snapshot ID: `MCxhMjM0ZmU4MGQ1NmNkNjdlNjZmMDMwY2VlN2NhYTAyMTc0YmJjMmUz`

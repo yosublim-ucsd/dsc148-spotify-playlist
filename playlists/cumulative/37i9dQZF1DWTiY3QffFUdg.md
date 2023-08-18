@@ -4,12 +4,13 @@
 
 > putting the tech in tech house
 
-51 songs - 3 hr 30 min
+52 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 DAYS AWAKE](https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [3 DAYS AWAKE](https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at) | 2:23 | 2023-08-11 |  |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-08-11 |  |
+| [All That She Wants](https://open.spotify.com/track/4ECNacdSKalElOM7Verr01) | [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI), [Raverol](https://open.spotify.com/artist/48jOVVYRDEU1U8gZ3PpZ7o) | [All That She Wants](https://open.spotify.com/album/2upe6SP1Ep2FjeqlO4klxf) | 2:11 | 2023-08-11 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-08-11 |  |
 | [Breathe In](https://open.spotify.com/track/3qM2JuYrffLMLtwx8YOWxj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In](https://open.spotify.com/album/4FjkGcjCasHkfTJjkBnCfA) | 6:38 | 2023-08-11 |  |
@@ -42,7 +43,7 @@
 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 | 2023-08-11 |  |
 | [OPEN YOUR MIND](https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE) | 3:25 | 2023-08-11 |  |
 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-08-11 |  |
-| [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-08-11 |  |
+| [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-08-11 | 2023-08-18 |
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2023-08-11 |  |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-08-11 |  |
 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 | 2023-08-11 |  |

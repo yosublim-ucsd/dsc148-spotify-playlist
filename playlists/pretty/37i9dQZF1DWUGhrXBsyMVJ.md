@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,128 likes - 54 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,263 likes - 54 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 36 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
 | 37 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 |
 | 38 | [Why Do I Love You So \- 1960 \#42 Billboard chart hit](https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:07 |
-| 39 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
-| 40 | [We Belong Together](https://open.spotify.com/track/7wO1SGOue1lTuTzmXsp6vm) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [The Best of Ritchie Valens](https://open.spotify.com/album/0TyByC1U6mPoii8aeQ4L2i) | 1:56 |
+| 39 | [We Belong Together](https://open.spotify.com/track/7wO1SGOue1lTuTzmXsp6vm) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [The Best of Ritchie Valens](https://open.spotify.com/album/0TyByC1U6mPoii8aeQ4L2i) | 1:56 |
+| 40 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
 | 41 | [Never Be Anyone Else But You \- Remastered](https://open.spotify.com/track/0snHlyyyUp2hKYEz7ffmkx) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:16 |
 | 42 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:13 |
 | 43 | [Too Young](https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:24 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 53 | [The Story of My Life \- Remastered](https://open.spotify.com/track/63EGslqVxh4qwvqGMl3vMA) | [michael holliday](https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/6seqT2pCoa0JcgvVvss5z2) | 2:15 |
 | 54 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 
-Snapshot ID: `MCw3YzZkYjM4OWI3NGFjYzVlNmY2YjY1ZjE2ZDVhNGY0ZjU5MjJlMDg5`
+Snapshot ID: `MCxhMWNjOTgxYTcyNTkwMjY3MjU4MGRjZTE1ODJiYTBhN2UxNTUwZWMy`

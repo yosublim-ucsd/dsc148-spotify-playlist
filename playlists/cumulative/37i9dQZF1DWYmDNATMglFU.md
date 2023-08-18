@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. neck deep
+> it's a generation ⛓ ft\. kennyhoopla
 
-604 songs - 1 day 6 hr 11 min
+608 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-05-04 |  |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-02 | 2022-08-05 |
 | [Breakup On The Weekend](https://open.spotify.com/track/6YmN4J2HoGJSLtrsicU7ow) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Red In Revenge \- EP](https://open.spotify.com/album/0K2XD1DvekT47y3o6MtCr3) | 2:35 | 2022-05-19 | 2022-09-23 |
+| [BREATHING UNDERWATER](https://open.spotify.com/track/6F4dmF0CZ9XPmLnLQQk9a2) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BREATHING UNDERWATER](https://open.spotify.com/album/14v1YgHgO2PwVgd6vgIHQ7) | 2:57 | 2023-08-17 |  |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-18 | 2022-07-22 |
 | [bubble boi](https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [bubble boi](https://open.spotify.com/album/2DlARJZSNkxBMXQ1xqGug8) | 2:48 | 2023-05-04 |  |
 | [BUBBLEGUM](https://open.spotify.com/track/2LS8eIMmEo6YDDJHDR058W) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [BUBBLEGUM](https://open.spotify.com/album/6iYZbXNprI0eswYstDgNkK) | 2:44 | 2022-05-12 | 2022-05-20 |
@@ -295,6 +296,7 @@
 | [IDC AT ALL](https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [IDC AT ALL](https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo) | 3:21 | 2023-06-01 |  |
 | [IDONTWANNATALKTOYOU! \(with renforshort\)](https://open.spotify.com/track/39LAVN7bpAOvpCwA06dvWZ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CHASING HARMONY](https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc) | 2:18 | 2022-01-07 | 2022-01-28 |
 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2022-10-20 | 2022-11-01 |
+| [ifyoulikeitlikethat](https://open.spotify.com/track/1DpM2IaLWHOCFinmyqhxpF) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ifyoulikeitlikethat](https://open.spotify.com/album/5gIagpf6GQbM6IenHhXwt5) | 3:11 | 2023-08-17 |  |
 | [In California](https://open.spotify.com/track/7hTBWfgHnPKcNGV4549j30) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [In California](https://open.spotify.com/album/0fxssNhjduHYeWsU77ARkT) | 2:30 | 2023-01-13 | 2023-02-24 |
 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 | 2023-03-10 |  |
 | [In Over My Head](https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:18 | 2022-03-31 | 2023-01-13 |
@@ -309,6 +311,7 @@
 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 | 2023-04-07 | 2023-06-09 |
 | [junkie](https://open.spotify.com/track/1EbsleQQFhD9HYxPaTqgfu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/0F3HviU9yaZBcYOHAfhOpE) | 2:39 | 2022-04-07 | 2022-09-16 |
 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 | 2023-06-29 |  |
+| [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 | 2023-08-17 |  |
 | [Keep Me Up All Night](https://open.spotify.com/track/0mFiMf9DFfiIzAi2E5nk1d) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Keep Me Up All Night](https://open.spotify.com/album/5UGljbXNsZiZ8tDmMIaWdB) | 3:37 | 2022-01-07 | 2022-03-25 |
 | [Keep This Up](https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Proper Dose](https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0) | 2:26 | 2022-10-20 | 2022-11-01 |
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2022-08-27 | 2023-01-27 |
@@ -397,7 +400,7 @@
 | [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 | 2023-03-30 | 2023-06-02 |
 | [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 | 2023-03-24 | 2023-04-07 |
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-04-20 | 2023-05-26 |
-| [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-01 |  |
+| [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-01 | 2023-08-18 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-12-31 | 2022-01-08 |
 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 | 2023-01-27 | 2023-04-14 |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:42 | 2021-12-31 | 2022-01-08 |
@@ -406,7 +409,7 @@
 | [Paranoid](https://open.spotify.com/track/2pLqMA9nKEHLLfBGHroLOh) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:17 | 2022-10-31 | 2023-01-13 |
 | [Paranoid](https://open.spotify.com/track/6gGS0hjDNTPXlCowTPou0X) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Paranoid](https://open.spotify.com/album/4v7M2QPlvrPIZvMTnAO082) | 4:17 | 2022-03-31 | 2022-07-29 |
 | [Parasocial \(feat\. Mark Hoppus\)](https://open.spotify.com/track/02ZcHMPCRSV7u5SMkN8XO2) | [Ricky Himself](https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Parasocial \(feat\. Mark Hoppus\)](https://open.spotify.com/album/6o9Z4lpxjIylszd1wn3B5p) | 3:05 | 2022-02-11 | 2022-04-01 |
-| [PARTY ON MY DEATHBED](https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [PARTY ON MY DEATHBED](https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB) | 3:28 | 2023-05-11 |  |
+| [PARTY ON MY DEATHBED](https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [PARTY ON MY DEATHBED](https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB) | 3:28 | 2023-05-11 | 2023-08-18 |
 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 | 2022-02-11 | 2022-05-13 |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-10-20 | 2022-11-01 |
 | [Payday](https://open.spotify.com/track/5weGHw9KN20uSK9xDASTL5) | [stayMellow](https://open.spotify.com/artist/6RhEqjb8lmpdjfU0oqCilk) | [feel](https://open.spotify.com/album/7B48GwRLSXbZpfrOhjbR8x) | 2:36 | 2022-05-12 | 2022-06-10 |
@@ -552,7 +555,7 @@
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 | 2023-06-09 |
 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 | 2023-04-13 | 2023-08-04 |
 | [Toaster For A Swim](https://open.spotify.com/track/3o5fFjZNcwZnKwF8deFHL0) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [\(e\)motion sickness](https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf) | 3:14 | 2022-08-27 | 2023-04-21 |
-| [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-13 |  |
+| [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-13 | 2023-08-18 |
 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 | 2022-11-04 | 2023-02-10 |
 | [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 | 2023-08-10 |  |
 | [TOOTHPASTE](https://open.spotify.com/track/0cMii2XXSNRl7bS2sFJMle) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [GOODGRIEF](https://open.spotify.com/album/0iHirYdH4xyeJrdVtXmhUQ) | 2:54 | 2022-07-29 | 2022-09-09 |
@@ -591,6 +594,7 @@
 | [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:44 | 2021-12-31 | 2022-01-08 |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2021-12-31 | 2022-01-08 |
 | [Well I Hope Ur Happy](https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Hell Is A Teenage Girl](https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ) | 3:04 | 2023-04-20 |  |
+| [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/track/4OfaKFkToxzzi2G5MwYsyZ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/album/0gW6CulhLzMtnZ5wbt2AfW) | 2:50 | 2023-08-17 |  |
 | [What's Up?](https://open.spotify.com/track/46BV2Stvj9yJGw8gHAwHAU) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:21 | 2022-08-27 | 2022-11-18 |
 | [Wires Crossed](https://open.spotify.com/track/09ptkV4dUhzP9mAZP0QjvI) | [Cowboy Mugshot](https://open.spotify.com/artist/5thsoHnpZYZq587Po0NgUI) | [Wires Crossed](https://open.spotify.com/album/2xfITxrVpJ2huuzLOoGccV) | 2:46 | 2022-08-27 | 2022-09-30 |
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-02-18 | 2022-04-01 |

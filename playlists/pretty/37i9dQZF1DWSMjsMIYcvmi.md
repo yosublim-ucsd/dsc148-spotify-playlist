@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 
 > Press play, feel motivated and grind hard throughout your work day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,506 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,517 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 25 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 |
 | 26 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 |
 | 27 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
-| 28 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
-| 29 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
+| 28 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
+| 29 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
 | 30 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 |
 | 31 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 32 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 69 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q) | 2:59 |
 | 70 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 |
 
-Snapshot ID: `MCxiNjVkYTdmZjZhNTY1NmViMDYwMzIyNjZjNDhlNmYzOGRiN2UwZjQ3`
+Snapshot ID: `MCxjNzc5MWJmNDg4NDA4ZjZmNjAxM2EwZTkzZmIyNDljMGZmY2IwNmEx`

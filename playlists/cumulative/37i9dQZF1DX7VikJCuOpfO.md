@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez & Espinoza Paz
 
-352 songs - 19 hr 5 min
+353 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 | 2023-01-06 |  |
 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 | 2022-06-01 | 2023-05-27 |
 | [Lo Estoy Pagando](https://open.spotify.com/track/76PiO53LB0HlJZWJ8Gk6p5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS) | [Lo Estoy Pagando](https://open.spotify.com/album/1Wjvnceb4dwl7cYyUi5Jly) | 3:57 | 2022-05-13 | 2022-06-01 |
-| [Lo Que Te Amo](https://open.spotify.com/track/1tIQkndspTBVViTgxE3TXO) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [Lo Que Te Amo](https://open.spotify.com/album/4TcikkRafylojwKtZ1nHXh) | 3:45 | 2023-07-22 |  |
+| [Lo Que Te Amo](https://open.spotify.com/track/1tIQkndspTBVViTgxE3TXO) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [Lo Que Te Amo](https://open.spotify.com/album/4TcikkRafylojwKtZ1nHXh) | 3:45 | 2023-07-22 | 2023-08-18 |
 | [Lo Siento Mucho \- Versión Mariachi](https://open.spotify.com/track/1KWN7OGF1KqyLjD9EuWY6z) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho \(Versión Mariachi\)](https://open.spotify.com/album/53NlCXfNNhgP7F0LS2Z7yT) | 3:18 | 2022-05-13 | 2022-06-01 |
 | [Los Mandados](https://open.spotify.com/track/31JZmPlv1H0npDMY4G5r9b) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Los Mandados](https://open.spotify.com/album/7uNCs64FQWq2ZsWA2PjJPK) | 2:43 | 2022-06-01 | 2023-01-07 |
 | [Luna de Octubre](https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Luna de Octubre](https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8) | 3:14 | 2022-05-13 | 2022-05-31 |
@@ -293,6 +293,7 @@
 | [Solos](https://open.spotify.com/track/1oQtCWxfOZwyfy2Vl3yy6w) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Solos](https://open.spotify.com/album/4MZ3QFD6pxd9uQvjsX0SpR) | 3:06 | 2022-05-13 | 2023-01-07 |
 | [Somos Novios](https://open.spotify.com/track/6n0ASxfVk0UzVGcNU78Hu3) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Cigala Canta a México](https://open.spotify.com/album/4YI2xS7OT4btXJ4zFBxeno) | 2:56 | 2022-05-13 | 2022-06-01 |
 | [Son Amores \(That's Amore\) \(feat\. Los Macorinos\)](https://open.spotify.com/track/10HQmG706HZtAhXRypWw01) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:44 | 2022-06-01 | 2023-01-07 |
+| [Sólo Muere Si Se Olvida](https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50) | 2:53 | 2023-08-17 |  |
 | [Tanta Fortuna](https://open.spotify.com/track/73ayCgqqrWhPGJpXa4xVy7) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Tanta Fortuna](https://open.spotify.com/album/1FH2kRUZAweBlrYDMLF44I) | 3:23 | 2022-05-13 | 2022-06-01 |
 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 | 2022-05-13 | 2023-01-07 |
 | [Te Amare \(Version Mariachi\)](https://open.spotify.com/track/2PWRbt4DwXa6ZcigYPa3AN) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [Te Amare \(Versión Mariachi\)](https://open.spotify.com/album/2Cct0JbheL9MpyAIMTCj0Q) | 3:28 | 2022-05-13 | 2023-01-07 |

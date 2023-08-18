@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-109 songs - 6 hr 40 min
+110 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Muskurane \- Unplugged](https://open.spotify.com/track/6okCEBcbPTgwf3bc7CT3sj) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY) | [Citylights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Hn2O2s9NQ5EaPtwAc665L) | 4:59 | 2023-05-09 |  |
 | [Nain Ta Heere \- Lisa](https://open.spotify.com/track/6emAuBpvTZkGlZu7uQnkFe) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:33 | 2023-05-09 |  |
 | [Nazar Laaye \- Reprise](https://open.spotify.com/track/3h44S4bynHkbKVP2mogqdX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rashid Ali](https://open.spotify.com/artist/281Vp9LDrWkHMHQzfQHWCt), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 3:55 | 2023-04-05 |  |
-| [Pani da Rang \(Male\)](https://open.spotify.com/track/0ce9G1z2SstCXHJ9gTg6PB) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Putumayo Presents Indian Groove](https://open.spotify.com/album/10nxOUYmEhheGuBH3QdkIz) | 3:59 | 2023-02-10 |  |
+| [Pani da Rang \(Male\)](https://open.spotify.com/track/0ce9G1z2SstCXHJ9gTg6PB) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Putumayo Presents Indian Groove](https://open.spotify.com/album/10nxOUYmEhheGuBH3QdkIz) | 3:59 | 2023-02-10 | 2023-08-18 |
+| [Pani Da Rang Male](https://open.spotify.com/track/1pOIXRP6C7JCF69kO4yNwk) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/5PdJqwDJx8NQpEFlY3oXWt) | 4:00 | 2023-08-03 |  |
 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/4diinDw5e8SKgscOqkcm7U) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [My Valentine](https://open.spotify.com/album/1MmyCf2RxFqsDY0X5UBLB4) | 4:00 | 2022-07-12 | 2022-11-13 |
 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:00 | 2022-07-12 | 2023-03-12 |
 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6sfVSlvCl5evgokuWNrHbE) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/4AyGMWLHvkZiBniFBvTw8F) | 4:00 | 2022-04-11 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 39983,
+  "num_followers": 40040,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzJkZmFlZjNjNDQ3MjA3MGY2ZTM3YjY3MGQ5MGExNjA3Yjc0OWQ4",
+  "snapshot_id": "MCxiMDEzY2M5MTU3NzA2ZWMyNDE1NzZlZDIyMzFmZDA3YjIzOWMyZjVm",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
+        }
+      ],
+      "duration_ms": 320613,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 262826,
       "name": "Mambotjie (feat. 2Shot)",
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
-        }
-      ],
-      "duration_ms": 320613,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
       },
@@ -603,22 +587,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Best of TK",
-        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
-      },
-      "artists": [
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
-        }
-      ],
-      "duration_ms": 306786,
-      "name": "How Do You Feel",
-      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "The Ultimate 'Hotstix'",
         "url": "https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 294200,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Best of TK",
+        "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn"
+        }
+      ],
+      "duration_ms": 306786,
+      "name": "How Do You Feel",
+      "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Ibokwe",
         "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
       },
@@ -711,54 +695,6 @@
       "duration_ms": 372000,
       "name": "Ingoma",
       "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Kalawa Jazmee Classics: Bongo Maffin",
-        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Thathi Sgubu",
-      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Njalo",
-        "url": "https://open.spotify.com/album/5Ho2YfXnMygWGE8Dh2CeAH"
-      },
-      "artists": [
-        {
-          "name": "Mina Nawe",
-          "url": "https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0"
-        }
-      ],
-      "duration_ms": 263293,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -783,18 +719,66 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O"
+        "name": "Njalo",
+        "url": "https://open.spotify.com/album/5Ho2YfXnMygWGE8Dh2CeAH"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Mina Nawe",
+          "url": "https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0"
         }
       ],
-      "duration_ms": 404360,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
+      "duration_ms": 263293,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Kalawa Jazmee Classics: Bongo Maffin",
+        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -851,22 +835,34 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Mkhukhu Funkshen",
+        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "S'bu",
-          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+          "name": "Skwatta kamp",
+          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
         }
       ],
-      "duration_ms": 315266,
-      "name": "Palafala (feat. S'bu)",
-      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
+      "duration_ms": 275360,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404360,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -887,18 +883,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Mkhukhu Funkshen",
-        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
       "artists": [
         {
-          "name": "Skwatta kamp",
-          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "S'bu",
+          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
         }
       ],
-      "duration_ms": 275360,
-      "name": "Umoya",
-      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
+      "duration_ms": 315266,
+      "name": "Palafala (feat. S'bu)",
+      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Just Wanna Live My Life",
+        "url": "https://open.spotify.com/album/19kTXMajfFWCAwp86oImin"
+      },
+      "artists": [
+        {
+          "name": "Winnie Khumalo",
+          "url": "https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o"
+        }
+      ],
+      "duration_ms": 317200,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/2WyxVcnJ1BcG5Lu2nrBQ8F"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Y U 4 Me",
         "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 292034,
       "name": "Fester",
       "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Es'khaleni Zone 3",
-        "url": "https://open.spotify.com/album/0WbSDgJgcRwDTtEtudhjI4"
-      },
-      "artists": [
-        {
-          "name": "DJ Cleo",
-          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
-        }
-      ],
-      "duration_ms": 334280,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/5Qbsr2yaejz1ymILqtIhIh"
     }
   ],
   "unique_name": "SA Gold",

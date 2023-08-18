@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: KhakiKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,636 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,834 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 35 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
 | 36 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 |
 | 37 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 |
-| 38 | [KANEKI](https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [KANEKI](https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY) | 2:50 |
-| 39 | [Rainforest](https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3) | 2:42 |
+| 38 | [Rainforest](https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3) | 2:42 |
+| 39 | [KANEKI](https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [KANEKI](https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY) | 2:50 |
 | 40 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
 | 41 | [Leon the Professional](https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Leon the Professional](https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l) | 3:01 |
 | 42 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 49 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 50 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 | 51 | [Don't Let Me Fall](https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:39 |
-| 52 | [Tekky](https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Krept](https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF) | [Tekky](https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA) | 1:58 |
-| 53 | [SUMO](https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [SUMO](https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM) | 3:00 |
+| 52 | [SUMO](https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [SUMO](https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM) | 3:00 |
+| 53 | [Tekky](https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Krept](https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF) | [Tekky](https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA) | 1:58 |
 | 54 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
-| 55 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 |
-| 56 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
+| 55 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
+| 56 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 |
 | 57 | [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 |
-| 58 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
-| 59 | [Come To Me](https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:08 |
+| 58 | [Come To Me](https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:08 |
+| 59 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 60 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 |
 
-Snapshot ID: `MCxjNTJhNWVmNTliNjNlMmE0Yzk0OWU5MDQ3NDI0MjVhNzliNGFmYzIx`
+Snapshot ID: `MCxkNGIxODA1NTY4NGFmY2YzNDVjMmY4OWIyZDQwZGIyMDEwYzI3NWFl`

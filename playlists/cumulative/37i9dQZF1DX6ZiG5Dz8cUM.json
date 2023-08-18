@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Cool Breeze",
+        "url": "https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa"
+      },
+      "artists": [
+        {
+          "name": "Mino Conte & Co",
+          "url": "https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253350,
+      "name": "Cool Breeze",
+      "url": "https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN"
+    },
+    {
+      "album": {
         "name": "Trav'lin' Light",
         "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
       },
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 204357,
       "name": "Zero-sum game",
       "url": "https://open.spotify.com/track/7vdtTzPYgvVuwyYgZ7oRYJ"

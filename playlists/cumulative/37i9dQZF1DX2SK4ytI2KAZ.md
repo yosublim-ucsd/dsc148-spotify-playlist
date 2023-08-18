@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-474 songs - 1 day 2 hr 25 min
+475 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6u8lgCJiOdqw63WRA9WQU2) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [DON'T THINK ABOUT IT](https://open.spotify.com/album/5AlDN4SfVqPWfrPApOLCE2) | 3:34 | 2021-08-13 | 2022-07-29 |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-06-27 | 2023-03-29 |
 | [Drive](https://open.spotify.com/track/4dB8BGIWbn9eTean90CoOp) | [States & Capitals](https://open.spotify.com/artist/790UjtODOzqAYB4O4RLJxR) | [Drive](https://open.spotify.com/album/4rYfzUqhmYLWD1JtyVQQRc) | 3:37 | 2022-02-04 | 2022-06-21 |
-| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-24 |  |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-24 | 2023-08-18 |
+| [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-08-07 |  |
 | [Electrified](https://open.spotify.com/track/27WCn2AXGHCTsZkHJsX9vX) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9) | [Electrified](https://open.spotify.com/album/1Iuj2IGTVhiViVZ8joSn7p) | 3:31 | 2022-03-11 | 2022-04-21 |
 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 | 2022-03-11 | 2023-02-18 |
 | [Every Window Is A Mirror](https://open.spotify.com/track/3b2ngmuuJP2XCUUwZvK9WQ) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Every Window Is A Mirror](https://open.spotify.com/album/2MNhICXseCBcuvWYkEv2yy) | 2:53 | 2021-05-07 | 2022-07-29 |

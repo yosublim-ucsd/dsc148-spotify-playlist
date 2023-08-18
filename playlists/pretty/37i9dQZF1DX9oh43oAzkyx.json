@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2428132,
+  "num_followers": 2429068,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2U1YmQxNjU5YmQ2YjgxYzYwZjYxNTJmMDM0MDFkZWM2ZDUzM2Iz",
+  "snapshot_id": "MCwzYTc3YWY2MTYxM2RmMmQ3NjdkNDI2ZDI5MDE2ZjUwODdkYWEzODI0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Bla Bla (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
@@ -631,18 +611,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         }
       ],
-      "duration_ms": 234324,
-      "name": "x2",
-      "url": "https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o"
+      "duration_ms": 146966,
+      "name": "Bla Bla (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -659,6 +643,22 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 234324,
+      "name": "x2",
+      "url": "https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Hell Yeah",
         "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 187843,
       "name": "Shoot It Myself (feat. Future)",
       "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     }
   ],
   "unique_name": "Beast Mode Hip-Hop",

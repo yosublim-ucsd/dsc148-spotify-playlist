@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 167861,
+  "num_followers": 167993,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjM2YTU4ZTFjMzY2YmU0ZWQyODc0YWE2NmZhZGY5YjUzODljMmRk",
+  "snapshot_id": "MCwzZjc5Njc5YmQxNmI4ZjA3YTZhNDUxYmIxMjhmOTU5NTBjZTc5N2Q5",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+        "name": "Grandes Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
+      "duration_ms": 337173,
+      "name": "Hazme Olvidarla",
+      "url": "https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Grandes Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 337173,
-      "name": "Hazme Olvidarla",
-      "url": "https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK"
+      "duration_ms": 261333,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 277906,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "El Original Y Unico",
+        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 376733,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
         "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "El Original Y Unico",
-        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 376733,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
     },
     {
       "added_at": "2022-12-30 20:18:36",

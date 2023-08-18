@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,051 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,085 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 22 | [Etc...](https://open.spotify.com/track/6gkgKLw8HYVsfQyHFJ62Ii) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Specta](https://open.spotify.com/artist/1UrLRK1iOAvBdZjGd50lke), [Sir Samuel](https://open.spotify.com/artist/4BFBBQTithUwyNg0XQfDw3), [Vicelow](https://open.spotify.com/artist/73IihJAuI7jJtyNV8myXct) | [Etc...](https://open.spotify.com/album/4Lvh4Nd7655KjPU0XBcJpv) | 3:03 |
 | 23 | [Tic Tac](https://open.spotify.com/track/5xHwBpIppkYdbz0O99AZCe) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0) | [Tic Tac](https://open.spotify.com/album/268xgZv53BWRIljVIalpFr) | 3:15 |
 | 24 | [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 |
-| 25 | [Mi Camino](https://open.spotify.com/track/1YISfPUfbD2tc65QsFxlMT) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [Mi Camino](https://open.spotify.com/album/04SyXDhViUd6kJVBNUlfKq) | 3:23 |
+| 25 | [Mi Camino](https://open.spotify.com/track/1YISfPUfbD2tc65QsFxlMT) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Mi Camino](https://open.spotify.com/album/04SyXDhViUd6kJVBNUlfKq) | 3:23 |
 | 26 | [Amor de Rapper](https://open.spotify.com/track/2fVWpipkpZI5Zgpke12llF) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk) | [Amor de Rapper](https://open.spotify.com/album/1BYbc7WeVIRr0SUCuxb7tW) | 3:31 |
 | 27 | [Hiphappy](https://open.spotify.com/track/4goIF0403hV5cXIPCZLCZ1) | [El Shaaki](https://open.spotify.com/artist/2ZCkSpm5VDWVqcO0DZJ7mu), [Nitro MC](https://open.spotify.com/artist/6fIgIbebL9YH2ZdRxur04y), [Donexprs](https://open.spotify.com/artist/6pAMH90rLFZxt5Vs5gVaCl), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Jimmy Fernandez](https://open.spotify.com/artist/0hkrROFgoSJxVamfIFyYdy), [Lechero Mon](https://open.spotify.com/artist/5M9hvwevD5Aax121KCeKPd), [Crea Beatbox](https://open.spotify.com/artist/50E6jiZFUumitVaBGH9kn2), [Sponer](https://open.spotify.com/artist/4m9HAF7gjrUC5WvteEXQQ3), [Gedos](https://open.spotify.com/artist/2OctHyTM4ghQ8WA2cB1cRQ) | [Is Back](https://open.spotify.com/album/7tGgQ1L2qr81Uw13k9UkDo) | 6:32 |
 | 28 | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/track/1vdSR8g0hmQ1V6iWx1XHCb) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/album/28oT8tOLNw1eJZ7TRNXLdB) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [Cuentos](https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Cuentos](https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf) | 3:12 |
 | 100 | [De Donde Vengo](https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL) | [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Kainos Mc](https://open.spotify.com/artist/24GzJuRlLgJhXKlIivLtFx) | [De Donde Vengo](https://open.spotify.com/album/7rmjij4qA9ZnOzZEPAwvAb) | 3:24 |
 
-Snapshot ID: `MCw5MDZhOTM3N2ExZjIxNmVkNmJmZTM5ODAyZjI4ODllZTUwMWQ1NWZm`
+Snapshot ID: `MCxkMmFhMTE1M2I1YzhkOGY5NGEyYzhiNTFjZDQxYmQ1NzNjMzJlZmMz`

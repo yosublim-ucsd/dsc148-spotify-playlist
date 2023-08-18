@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La carica giusta per i tuoi allenamenti!",
+  "description": "La carica giusta per i tuoi allenamenti.",
   "name": "Rap Motivazionale",
   "tracks": [
     {
@@ -284,6 +284,28 @@
       "duration_ms": 178800,
       "name": "AMY (feat. Rkomi)",
       "url": "https://open.spotify.com/track/4RmbBOcricHnqiCrkl3JuO"
+    },
+    {
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "album": {
@@ -687,6 +709,32 @@
     },
     {
       "album": {
+        "name": "DELINQUENTE",
+        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274250,
+      "name": "Casablanca (feat. Morad)",
+      "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
+    },
+    {
+      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -958,7 +1006,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 200213,
       "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
@@ -3570,7 +3618,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 162499,
       "name": "YAMAMAY",
       "url": "https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,479 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,567 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 37 | [Come Home](https://open.spotify.com/track/48RxnStoXfZsH0hWuWiJ3C) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Come Home](https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc) | 3:20 |
 | 38 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 |
 | 39 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
-| 40 | [Watch Dem](https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Watch Dem](https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT) | 2:20 |
-| 41 | [50 Bag](https://open.spotify.com/track/2mSDdspei0yKfZTfnbHiAp) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/7wT7EfuPP1WFHI5YEwjw2b) | 3:04 |
+| 40 | [50 Bag](https://open.spotify.com/track/2mSDdspei0yKfZTfnbHiAp) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/7wT7EfuPP1WFHI5YEwjw2b) | 3:04 |
+| 41 | [Watch Dem](https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Watch Dem](https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT) | 2:20 |
 | 42 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
 | 43 | [Open The Door](https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Open The Door](https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln) | 3:43 |
 | 44 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 55 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 56 | [Play Tune \(So so So\) \[Radio Edit\]](https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv) | [Dj Coss](https://open.spotify.com/artist/4IdDstOFVfpr5iLAezYLOw), [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Play Tune \(So so So\)](https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn) | 2:47 |
 | 57 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
-| 58 | [Intercourse \(feat\. Popcaan & Mustard\)](https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:17 |
-| 59 | [Senseless](https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Senseless](https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o) | 3:03 |
+| 58 | [Senseless](https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Senseless](https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o) | 3:03 |
+| 59 | [Intercourse \(feat\. Popcaan & Mustard\)](https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:17 |
 | 60 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
 | 61 | [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 |
 | 62 | [Key Fi Mi Life](https://open.spotify.com/track/1lrrO0ker7afjH7DfmFD5X) | [Vershon](https://open.spotify.com/artist/42NCKSFJsf7cFevs2BuG2g) | [Key Fi Mi Life \- Single](https://open.spotify.com/album/5BNb05N4r4LQYZ4x0m9oxA) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
 | 75 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
 
-Snapshot ID: `MCw3ZTI2YWFmYzA3Zjg4MjY3ZDU5MzlmMzY1ZDA2NWRiOWIxZGMyZDQw`
+Snapshot ID: `MCxhMzVhMDg4OWE4ZGIwYzVjMGNmNDg5OGQ3NzJmMWRiMzNmN2QyM2Iz`

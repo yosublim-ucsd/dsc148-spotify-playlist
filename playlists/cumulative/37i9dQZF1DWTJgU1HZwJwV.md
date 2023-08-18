@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-394 songs - 16 hr 33 min
+395 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-28 | 2023-06-23 |
 | [Culhuacan](https://open.spotify.com/track/4XEVSTduLQJu4DDYoUqJBB) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Culhuacan](https://open.spotify.com/album/64T4oMzydqN2di0CrThZja) | 2:16 | 2022-06-17 | 2023-05-20 |
 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 | 2022-06-17 | 2023-05-20 |
+| [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 |  |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-02-24 | 2023-06-23 |
 | [Dancing Lights](https://open.spotify.com/track/6FwG5GHGS09RQRhscuWins) | [Francesco De Grazia](https://open.spotify.com/artist/5K2wtqdjqtFvyQeXG1DocT), [Arielle Krebs](https://open.spotify.com/artist/5qv7mo1vn8vrXQStkm9uM7) | [Dancing Lights](https://open.spotify.com/album/0D58Sq2XGKzScNpydrblZ4) | 4:01 | 2022-06-17 | 2023-04-29 |
 | [Danny Boy](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 | 2022-11-18 | 2023-05-20 |
@@ -100,7 +101,7 @@
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-03-24 | 2023-06-23 |
 | [Dubrovnik](https://open.spotify.com/track/6bTvNM2GfDx56jhng3K6Uj) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dubrovnik](https://open.spotify.com/album/00ofzPCdvfpTcffTPxqoZr) | 2:05 | 2023-04-28 | 2023-06-23 |
 | [Dulce Añoranza](https://open.spotify.com/track/0vso79lSJGVgHhIMj5AgSS) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Dulce Añoranza](https://open.spotify.com/album/5DGtY0aqP0nmFk3cyZO5s9) | 2:32 | 2022-06-17 | 2022-08-05 |
-| [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 | 2022-06-17 |  |
+| [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 | 2022-06-17 | 2023-08-18 |
 | [Dusk](https://open.spotify.com/track/6m5rP71LDIKQcISWQsnGfV) | [Adriana Aloysius](https://open.spotify.com/artist/0ZvNe5w7GVkxqnX5fXb6Ox) | [Dusk](https://open.spotify.com/album/61swwudZPO8pCOBzwrk7z0) | 2:00 | 2022-06-17 |  |
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-06-23 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-06-17 |  |
@@ -249,7 +250,7 @@
 | [Noon](https://open.spotify.com/track/5xiAGmZz9dYSHOl1QCBTn6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Noon](https://open.spotify.com/album/16lrP8mrOWybTmxg04xn98) | 2:47 | 2022-06-17 | 2022-08-05 |
 | [Nostalgia](https://open.spotify.com/track/3nCXrX86dijsLaCS7jzLlB) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Nostalgia](https://open.spotify.com/album/1z0H1oKZ2DSHvjpG4dDbMX) | 3:36 | 2022-10-07 | 2023-04-29 |
 | [Notturno No\. 3](https://open.spotify.com/track/7LUEs2TTMSiQiZAEYhOI63) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Notturno No\. 3](https://open.spotify.com/album/019lCBtr2ly5sXuIFzc5Du) | 2:16 | 2022-09-02 |  |
-| [Now You Are Here](https://open.spotify.com/track/12D3dmsQyd3pLT7O9hcJk3) | [Wolfgang Vrecun](https://open.spotify.com/artist/3CXmNX9aJWp1FDQn1XDDbo) | [Modern Classical Guitar, Vol\. 2](https://open.spotify.com/album/33PydvV4ZnXjfrHTauT5vv) | 2:20 | 2022-09-16 |  |
+| [Now You Are Here](https://open.spotify.com/track/12D3dmsQyd3pLT7O9hcJk3) | [Wolfgang Vrecun](https://open.spotify.com/artist/3CXmNX9aJWp1FDQn1XDDbo) | [Modern Classical Guitar, Vol\. 2](https://open.spotify.com/album/33PydvV4ZnXjfrHTauT5vv) | 2:20 | 2022-09-16 | 2023-08-18 |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-17 | 2022-09-09 |
 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 | 2023-02-24 | 2023-06-23 |
 | [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 | 2022-06-17 |  |
@@ -351,7 +352,7 @@
 | [The Good Choice](https://open.spotify.com/track/3G4ExFqeptnGm7581Aqj82) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [The Good Choice](https://open.spotify.com/album/5LdhdJSDjnRnxaB3cUl6Ka) | 3:56 | 2022-06-17 | 2023-05-20 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-28 | 2023-06-23 |
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 |  |
-| [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 |  |
+| [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-06-23 |
 | [Think Of Me](https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Think Of Me](https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO) | 2:41 | 2023-05-19 |  |
 | [Through Wildflowers](https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Through Wildflowers](https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi) | 2:00 | 2023-06-09 |  |

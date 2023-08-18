@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-349 songs - 18 hr 38 min
+351 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Here comes the sun](https://open.spotify.com/track/4pEQKbooMLwdyqQ13gTQfx) | [Susan Sunnemo](https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7) | [Here comes the sun](https://open.spotify.com/album/5f6Qq5sg3NwF74LGc5hgPF) | 3:33 | 2022-08-01 | 2023-06-09 |
 | [Hero](https://open.spotify.com/track/7l3A71BEW1FAvSFlvLCagL) | [Keely Lake](https://open.spotify.com/artist/3M2jLYh2aNK2FLSpU1o4ft) | [Hero](https://open.spotify.com/album/4RPverR0mCeAWbgrF7zvkf) | 3:11 | 2023-04-14 | 2023-06-23 |
 | [Hey Brother](https://open.spotify.com/track/0NdGYKQZnsfAnNbdCMWAQJ) | [Jordan Barns](https://open.spotify.com/artist/4NhmH4PFEHpmuRCYsqCvst) | [Hey Brother](https://open.spotify.com/album/4yzKZHSug7djHjVrqjnJXl) | 4:08 | 2023-05-26 |  |
+| [Hey Jude](https://open.spotify.com/track/5hbXs1fy9p1oDohdiVIf2H) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:58 | 2023-08-17 |  |
 | [Hey Jude](https://open.spotify.com/track/5R0Ltvrb5N8FnXOIbLUAos) | [Sheep Counting](https://open.spotify.com/artist/4y3z52Aw8gXJ5iHFiTJXeP) | [Hey Jude](https://open.spotify.com/album/6bd2EjJWCn1OZaETntRyED) | 1:24 | 2023-04-28 | 2023-06-23 |
 | [Hey Jude \- Piano](https://open.spotify.com/track/04HZn55ZWEdksrHmM1REW5) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ) | 3:09 | 2022-10-14 | 2023-04-12 |
 | [Hey Jude \- Piano](https://open.spotify.com/track/4dzQ4QOgu5anxrxTAaz4BK) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/4MmGSZxW6NZUeJoNHwUBkB) | 3:09 | 2023-03-17 | 2023-04-29 |
@@ -194,6 +195,7 @@
 | [Livin' On A Prayer](https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Livin' On A Prayer](https://open.spotify.com/album/5B8pdZdF6CvENv0QmurD8n) | 3:24 | 2023-05-26 |  |
 | [Love Is All Around](https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Is All Around](https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF) | 3:23 | 2023-06-08 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-01-20 |  |
+| [Love Me Tender](https://open.spotify.com/track/7JrM4Nlm2km9lkER9qv6Uc) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Love Me Tender](https://open.spotify.com/album/3cklbYiZGxPlhpAKMeLwir) | 3:12 | 2023-08-17 |  |
 | [Love theme from The Godfather](https://open.spotify.com/track/2KC8Z17ndhFsKNxK0J3qZA) | [Nova Natale](https://open.spotify.com/artist/5jEQHHhbzEhqLEXOINws1f) | [Love theme from The Godfather](https://open.spotify.com/album/1v9W79VRpBsBrSR2JGZWYo) | 2:41 | 2022-10-28 | 2023-02-25 |
 | [Love yourself](https://open.spotify.com/track/7As5gdvmXsPrIG26UKHEdl) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:52 | 2022-09-30 |  |
 | [Lover \- Piano](https://open.spotify.com/track/6EAFanNEG521R3Y9dXTWTk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/6GLupS3Aw4TPBhkSKIC8Cz) | 3:14 | 2023-03-17 | 2023-05-06 |

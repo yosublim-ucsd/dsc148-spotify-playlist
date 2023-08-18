@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh",
+  "snapshot_id": "MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl",
   "tracks": [
     {
       "added_at": "2023-08-02 03:00:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
+        "name": "Tira Uma Foto",
+        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 129440,
+      "name": "Tira Uma Foto",
+      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
         "name": "A Tran\u00e7a",
         "url": "https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 147456,
       "name": "A Tran\u00e7a",
       "url": "https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
-        "name": "Tira Uma Foto",
-        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 129440,
-      "name": "Tira Uma Foto",
-      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
     },
     {
       "added_at": "2023-08-02 03:00:00",
@@ -899,30 +899,6 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
-        "name": "Fora da Rota",
-        "url": "https://open.spotify.com/album/0vUQD3M3ALEwMud3ZC7ZyF"
-      },
-      "artists": [
-        {
-          "name": "Natalh\u00e3o",
-          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
-        },
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Fora da Rota",
-      "url": "https://open.spotify.com/track/72ZaPUEn3S7dFrQaZVemtL"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
         "name": "L\u00c1BIOS PRETOS",
         "url": "https://open.spotify.com/album/31CvR2FGEXffTHElWSOmOT"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 285283,
       "name": "L\u00c1BIOS PRETOS",
       "url": "https://open.spotify.com/track/4mMiGFnKLpay24NVEnPNHN"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
+        "name": "Fora da Rota",
+        "url": "https://open.spotify.com/album/0vUQD3M3ALEwMud3ZC7ZyF"
+      },
+      "artists": [
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Fora da Rota",
+      "url": "https://open.spotify.com/track/72ZaPUEn3S7dFrQaZVemtL"
     }
   ],
   "unique_name": "EQUAL Brasil",

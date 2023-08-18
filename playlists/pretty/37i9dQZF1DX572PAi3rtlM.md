@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,578 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,681 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 22 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 23 | [Peace Now \- Folamour Remix](https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Peace Now \(Folamour Remix\)](https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR) | 3:14 |
 | 24 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 |
-| 25 | [The Spirit](https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF) | 2:15 |
-| 26 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
+| 25 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
+| 26 | [The Spirit](https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF) | 2:15 |
 | 27 | [You Goin' Miss Your Candyman](https://open.spotify.com/track/3teQ8pkzhuw4JILPFUADIu) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [What Color Is Love](https://open.spotify.com/album/61YKu9dRRskWOAT3ijKTr2) | 7:19 |
 | 28 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 |
 | 29 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 35 | [Calling Out \(feat\. Dames Brown\) \- 12" Mix](https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4) | [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF), [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B) | [Calling Out \(feat\. Dames Brown\) \[12" Mix\]](https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x) | 7:57 |
 | 36 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
 | 37 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |
-| 38 | [Rap\-O Clap\-O \- 2013 \- Remaster](https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Anthology](https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg) | 3:51 |
+| 38 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
 | 39 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 |
-| 40 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
+| 40 | [Rap\-O Clap\-O \- 2013 \- Remaster](https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Anthology](https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg) | 3:51 |
 | 41 | [Chantal](https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Mandar All Day 001](https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk) | 4:38 |
 | 42 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 |
 | 43 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 46 | [Figure of Jazz](https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Figure of Jazz](https://open.spotify.com/album/0HAJNbgqrpShglJNHfzYyw) | 3:32 |
 | 47 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 |
 | 48 | [Care About Me](https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Care About Me](https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs) | 3:33 |
-| 49 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
-| 50 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
+| 49 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
+| 50 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
 
-Snapshot ID: `MCxhZDYxMjY2NmEyNzEwYjc0ZDBkZDY1NTNmYTkyODY4NWNjOTc2NzY2`
+Snapshot ID: `MCw4MDRiN2UwZjhmNDU1ZWIyYTRhNGMzZDNhMzZiZjJiOWFlNmMwZDdm`

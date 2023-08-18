@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade\. Cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,895 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,085 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Honey](https://open.spotify.com/track/0XN5vm980boRCELIwD2CIe) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [Where the Heaven Are We](https://open.spotify.com/album/4pysD7EqnDkRx4mXG42OCo) | 3:39 |
 | 2 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
-| 3 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 |
-| 4 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
+| 3 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
+| 4 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 |
 | 5 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 |
 | 6 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
 | 7 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 79 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 80 | [Come Down](https://open.spotify.com/track/276zciJ7Fg7Jk6Ta6QuLkp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 2:49 |
 
-Snapshot ID: `MCwxZDk3MDI2NTEzZmM5ZDlkZGJiODZiOGI4NDcwYWQxNGY0NjFhMDFm`
+Snapshot ID: `MCw3ZTQ3YTM0MTQxNGZhMzBjODBkNGE3NTM2ODMzYWVhN2I0NjRjZDAx`

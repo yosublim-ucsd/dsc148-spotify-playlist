@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-156 songs - 9 hr 10 min
+157 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-11-11 | 2023-03-16 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-06 |  |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2022-11-11 |  |
-| [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-09 |  |
+| [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 | 2023-07-06 |  |
+| [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-09 | 2023-08-18 |
 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 | 2022-11-11 |  |
 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 | 2023-03-30 |  |
 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 | 2022-11-11 |  |

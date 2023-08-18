@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 
 > Great songs by indisputable music legends\. Cover: Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,383,521 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,384,102 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 | 50 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 51 | [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 |
 | 52 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 |
-| 53 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
-| 54 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
+| 53 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
+| 54 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
 | 55 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 | 56 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
 | 57 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 | 69 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 70 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
 
-Snapshot ID: `MCw1Yzg4ZjlmYWI2ZGVjNTQ2ZDA3NzhhYTRkNTM0YzJmNTY0ZGRiNjNk`
+Snapshot ID: `MCw3ZTNiN2FkNDIzOGRlNWU2N2ZlODYxNDg0OGM2M2FjNzJjOWZmZDIy`

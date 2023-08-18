@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,594,523 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,594,737 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 22 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 23 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
 | 24 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
-| 25 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
-| 26 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
+| 25 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
+| 26 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
 | 27 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 28 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
 | 29 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 60 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
 | 61 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 |
 | 62 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 |
-| 63 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
-| 64 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
+| 63 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
+| 64 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
 | 65 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
 | 66 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 67 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
-| 68 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 |
-| 69 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 |
-| 70 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
+| 68 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 |
+| 69 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
+| 70 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 |
 | 71 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 |
 | 72 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
 | 73 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 77 | [You Are The Reason \- Duet Version](https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Only Human \(Special Edition\)](https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek) | 3:10 |
 | 78 | [Marinade](https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla) | 3:57 |
 | 79 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
-| 80 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
-| 81 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 |
+| 80 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 |
+| 81 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
 | 82 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 |
 | 83 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 |
 | 84 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [Got It Bad](https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:25 |
 | 100 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 |
 
-Snapshot ID: `MCxjMWJiYjQzM2JmYTNiZDA5NTMxMjIzYjkwMmJiOTBiZjA2ZWIzZmM4`
+Snapshot ID: `MCxmYWRjNzNjZGI2YWIwYzUyOGU3NDA4ZmUxOWQzOTJmOGQ0YjBjZWE2`

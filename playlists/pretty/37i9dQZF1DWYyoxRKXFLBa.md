@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,864 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 38 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
 | 39 | [no estamos bien](https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:03 |
 | 40 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
-| 41 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
-| 42 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
+| 41 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
+| 42 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 43 | [Headrush](https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:28 |
 | 44 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 | 45 | [Desmotivada](https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:22 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 50 | [Break!](https://open.spotify.com/track/333xDv6J2GJiNWtWphz0aw) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 2:53 |
 | 51 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 |
 | 52 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 |
-| 53 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
-| 54 | [Art Collective](https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Art Collective](https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu) | 2:52 |
-| 55 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 |
+| 53 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 |
+| 54 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
+| 55 | [Art Collective](https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Art Collective](https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu) | 2:52 |
 | 56 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
-| 57 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
-| 58 | [Superdependiente](https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t) | 2:56 |
+| 57 | [Superdependiente](https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t) | 2:56 |
+| 58 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
 | 59 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 |
 | 60 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 3:10 |
 | 61 | [Muérete Tú](https://open.spotify.com/track/3pOdUPiHJaCS9liEjpiIWc) | [Muérete Tú](https://open.spotify.com/artist/7jku55nhXim5pUBmriM2Vo) | [Muérete Tú](https://open.spotify.com/album/6gNvQwVQRwSG4cQ5GLYmgI) | 2:52 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 73 | [Om Ganesh](https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [La Era De Acuario](https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb) | 5:53 |
 | 74 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:13 |
 | 75 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
-| 76 | [Fea](https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Fea](https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl) | 3:33 |
-| 77 | [Pulitzer](https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [Pulitzer](https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF) | 4:23 |
+| 76 | [Pulitzer](https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [Pulitzer](https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF) | 4:23 |
+| 77 | [Fea](https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Fea](https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl) | 3:33 |
 | 78 | [Bellaco](https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [HIPOCONDRÍA](https://open.spotify.com/album/1ZdhaaSnC5nWorkAg3Vuh0) | 4:55 |
 | 79 | [Escapar](https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 4:01 |
-| 80 | [Baby Don't You Love Me \- Bonus Track](https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj), [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Ghost In The Machine](https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH) | 3:06 |
+| 80 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 |
 
-Snapshot ID: `MCw3MTI4YzU0N2QxZjFiZDk2ZDBmOWM3ZjhkNjFmMGJjNzVkZjhlZjg1`
+Snapshot ID: `MCwxZjI4NTEyZDYwNDliNWE1NTJiNTYxOGFkMmFmYmUyZTk2MDRkZTgz`

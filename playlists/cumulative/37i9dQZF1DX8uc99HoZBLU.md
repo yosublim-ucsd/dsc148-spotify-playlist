@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-303 songs - 15 hr 21 min
+304 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 | 2021-06-08 | 2022-07-27 |
 | [make me forget him](https://open.spotify.com/track/5zEO3Q7oKFOGT2J4iONpW1) | [LO LA](https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF) | [mystery boy](https://open.spotify.com/album/6i2HulkC4vuGeX9zHRgmuu) | 3:38 | 2021-08-20 | 2022-06-07 |
 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 | 2022-09-18 |
+| [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-17 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-06-08 |  |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2022-10-27 |  |
 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 | 2022-11-11 | 2022-11-29 |
@@ -210,7 +211,7 @@
 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2022-09-09 | 2022-10-22 |
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2021-06-08 |  |
 | [Prom Night](https://open.spotify.com/track/77OOBEhQnWEum2pokUnoMU) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/4igkg9FFor8cs1FWNhCNXR) | 2:25 | 2021-06-08 | 2022-04-19 |
-| [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2022-07-19 |  |
+| [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2022-07-19 | 2023-08-18 |
 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 | 2023-03-31 | 2023-06-30 |
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-10-15 | 2022-04-13 |
 | [Reckless](https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Subluxe](https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt) | 3:57 | 2021-06-08 | 2022-04-12 |

@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 152870,
+  "num_followers": 152955,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTU3N2Q4OTQ3ZDg4NzlmYTNhOThmNTY1NzFlNjdiZjk4YTYyNjRi",
+  "snapshot_id": "MCxkZDdlYTIyNTUyMzA3NWQxNjhkM2NiYTM2ZTMxMGZiMjFiNjczMTA0",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -295,26 +295,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Lead Us Back: Songs of Worship",
-        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
-      },
-      "artists": [
-        {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        },
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
-      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk"
       },
@@ -335,6 +315,26 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Lead Us Back: Songs of Worship",
+        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
+      },
+      "artists": [
+        {
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        },
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
+      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Let the Ground Rest",
         "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 254115,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -699,18 +699,26 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 191013,
-      "name": "The Comeback",
-      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
+      "duration_ms": 244360,
+      "name": "Bleed The Same",
+      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -739,26 +747,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
       },
       "artists": [
         {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Bleed The Same",
-      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3OPriamtEJuT0E2A8HqVRR"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 204800,
       "name": "I Have This Hope",
       "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3OPriamtEJuT0E2A8HqVRR"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Million Lifetimes",
-        "url": "https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Hope Has a Name",
-      "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Good Good Father",
         "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 297146,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Million Lifetimes",
+        "url": "https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 288986,
+      "name": "Hope Has a Name",
+      "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "What If We Were Real",
-        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 213886,
-      "name": "Stronger - With Cold Ending",
-      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "This Is What We Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 254880,
       "name": "My Hope Is in You",
       "url": "https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "What If We Were Real",
+        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 213886,
+      "name": "Stronger - With Cold Ending",
+      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
     },
     {
       "added_at": "2020-07-23 14:38:16",

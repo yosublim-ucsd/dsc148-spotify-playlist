@@ -1,13 +1,125 @@
 {
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP?si=cBA7hOhMR9SyDsqhGQHDrQQ\">Wilma Van Heerden</a> ",
-  "num_followers": 12065,
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=uK3kbGQ1SSC1lIRWZuwkoA\">Prop</a> ",
+  "num_followers": 12101,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGEyMDViYzkxZTRiOWU5Zjk1NmExNjczOWMyYTI3OTM5NmYwMmIw",
+  "snapshot_id": "MCxiZDY5OTdlMTNiM2VkODhhZDc5MDgyZWIwMzU2NDc3NmY1MDVjZGE4",
   "tracks": [
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Gogga",
+        "url": "https://open.spotify.com/album/6NVlAxL1Q918yRq7dJ0ad8"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "duration_ms": 203362,
+      "name": "Gogga",
+      "url": "https://open.spotify.com/track/58byxA9vGXEwHgmYHVkINT"
+    },
+    {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
+        "name": "As Hy Weer Kom",
+        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "As Hy Weer Kom",
+      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Rigtingnaald",
+        "url": "https://open.spotify.com/album/0jlTHJ7HGit6w5G7mctR3Q"
+      },
+      "artists": [
+        {
+          "name": "Ray Dylan",
+          "url": "https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY"
+        }
+      ],
+      "duration_ms": 228355,
+      "name": "Rigtingnaald",
+      "url": "https://open.spotify.com/track/0S3S4LAhY89K9hjlIWuptV"
+    },
+    {
+      "added_at": "2023-07-27 21:59:00",
+      "album": {
+        "name": "Toe, Nou en Altyd",
+        "url": "https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 221463,
+      "name": "Toe, Nou en Altyd",
+      "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Laatnag Gedagtes",
+        "url": "https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 174254,
+      "name": "Laatnag Gedagtes",
+      "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
+    },
+    {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
+        "name": "Net Liefde",
+        "url": "https://open.spotify.com/album/0jGYdco9OrPMuQWRAsS2vp"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "duration_ms": 193759,
+      "name": "Vas En Los",
+      "url": "https://open.spotify.com/track/6fAGOIsKpc7yFpGMwgSRTP"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Supermark",
+        "url": "https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj"
+      },
+      "artists": [
+        {
+          "name": "Aya Nixon",
+          "url": "https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Supermark",
+      "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
+    },
     {
       "added_at": "2023-08-10 21:59:00",
       "album": {
@@ -23,6 +135,22 @@
       "duration_ms": 205491,
       "name": "Maklike Wiskunde",
       "url": "https://open.spotify.com/track/1TfZmY5zUBADXr4HqvICWQ"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Vanaand Gaan Ons Terug",
+        "url": "https://open.spotify.com/album/4OPkDwVhr5rQ0J66mFBOxX"
+      },
+      "artists": [
+        {
+          "name": "Stefan Dixon",
+          "url": "https://open.spotify.com/artist/4DDa2QHyPVNaHhZ1suze3y"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Vanaand Gaan Ons Terug",
+      "url": "https://open.spotify.com/track/1TlKuJPAQRLwwGCaYrUcba"
     },
     {
       "added_at": "2023-08-03 21:59:00",
@@ -43,50 +171,34 @@
     {
       "added_at": "2023-08-10 21:59:00",
       "album": {
-        "name": "As Hy Weer Kom",
-        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
       },
       "artists": [
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
         }
       ],
-      "duration_ms": 187000,
-      "name": "As Hy Weer Kom",
-      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
-      "added_at": "2023-07-27 21:59:00",
+      "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "Toe, Nou en Altyd",
-        "url": "https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy"
+        "name": "Afrika Vrou",
+        "url": "https://open.spotify.com/album/4fXbmfFFKisbKf8KuLmJor"
       },
       "artists": [
         {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+          "name": "Ren\u00e9",
+          "url": "https://open.spotify.com/artist/1i27bTNA5Fx9OYMLFl0B8a"
         }
       ],
-      "duration_ms": 221463,
-      "name": "Toe, Nou en Altyd",
-      "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
-    },
-    {
-      "added_at": "2023-08-10 21:59:00",
-      "album": {
-        "name": "Net Liefde",
-        "url": "https://open.spotify.com/album/0jGYdco9OrPMuQWRAsS2vp"
-      },
-      "artists": [
-        {
-          "name": "Tino",
-          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
-        }
-      ],
-      "duration_ms": 193759,
-      "name": "Vas En Los",
-      "url": "https://open.spotify.com/track/6fAGOIsKpc7yFpGMwgSRTP"
+      "duration_ms": 241536,
+      "name": "Afrika Vrou",
+      "url": "https://open.spotify.com/track/2ZoIXfCaCNynEs5EoV3xgo"
     },
     {
       "added_at": "2023-08-03 21:59:00",
@@ -105,20 +217,20 @@
       "url": "https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF"
     },
     {
-      "added_at": "2023-08-10 21:59:00",
+      "added_at": "2023-07-20 21:59:00",
       "album": {
-        "name": "Almal Gly",
-        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
+        "name": "Hakahana",
+        "url": "https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS"
       },
       "artists": [
         {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
         }
       ],
-      "duration_ms": 221067,
-      "name": "Inge 2",
-      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
+      "duration_ms": 185538,
+      "name": "Hakahana",
+      "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
     },
     {
       "added_at": "2023-08-03 21:59:00",
@@ -139,6 +251,22 @@
     {
       "added_at": "2023-08-10 21:59:00",
       "album": {
+        "name": "Sewe Somers",
+        "url": "https://open.spotify.com/album/3PPqEBW0kSycIikxqJjrdY"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "duration_ms": 213950,
+      "name": "Sewe Somers",
+      "url": "https://open.spotify.com/track/4DNz7CvdwzE1Xnl4HeqOaY"
+    },
+    {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
         "name": "Ons Is Die Vuur",
         "url": "https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili"
       },
@@ -155,38 +283,6 @@
       "duration_ms": 178730,
       "name": "Ons Is Die Vuur",
       "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
-    },
-    {
-      "added_at": "2023-07-20 21:59:00",
-      "album": {
-        "name": "Hakahana",
-        "url": "https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS"
-      },
-      "artists": [
-        {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Hakahana",
-      "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
-    },
-    {
-      "added_at": "2023-08-10 21:59:00",
-      "album": {
-        "name": "Sewe Somers",
-        "url": "https://open.spotify.com/album/3PPqEBW0kSycIikxqJjrdY"
-      },
-      "artists": [
-        {
-          "name": "RAAF",
-          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
-        }
-      ],
-      "duration_ms": 213950,
-      "name": "Sewe Somers",
-      "url": "https://open.spotify.com/track/4DNz7CvdwzE1Xnl4HeqOaY"
     },
     {
       "added_at": "2023-07-27 21:59:00",
@@ -275,22 +371,6 @@
     {
       "added_at": "2023-08-03 21:59:00",
       "album": {
-        "name": "IN MY DROME",
-        "url": "https://open.spotify.com/album/2ZNE0VqgjFXSmGOZUNhOOV"
-      },
-      "artists": [
-        {
-          "name": "Gerry Liberty",
-          "url": "https://open.spotify.com/artist/0KhAYgLjKgjeil6Eu7VoWq"
-        }
-      ],
-      "duration_ms": 188833,
-      "name": "IN MY DROME",
-      "url": "https://open.spotify.com/track/6dCfA2DBPCNRsdSmlTWWRF"
-    },
-    {
-      "added_at": "2023-08-03 21:59:00",
-      "album": {
         "name": "Jou O\u00eb Vertel Die Storie",
         "url": "https://open.spotify.com/album/5uNFYx1OFleLqmoGcybgrl"
       },
@@ -357,22 +437,6 @@
       "url": "https://open.spotify.com/track/3bCe2UoqMw71ywaWjMH3np"
     },
     {
-      "added_at": "2023-08-03 21:59:00",
-      "album": {
-        "name": "Moeg",
-        "url": "https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr"
-      },
-      "artists": [
-        {
-          "name": "Rudi Kleingeld",
-          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Moeg",
-      "url": "https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z"
-    },
-    {
       "added_at": "2023-07-20 21:59:00",
       "album": {
         "name": "Stockholm Sindroom",
@@ -421,22 +485,6 @@
       "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
     },
     {
-      "added_at": "2023-07-27 21:59:00",
-      "album": {
-        "name": "Waar Ek Hoort",
-        "url": "https://open.spotify.com/album/4MXRL9Mo9UNKQAAVzQM5EM"
-      },
-      "artists": [
-        {
-          "name": "Liezel Pieters",
-          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Waar Ek Hoort",
-      "url": "https://open.spotify.com/track/7bNLjtZNbbSXN7CaJQWDyA"
-    },
-    {
       "added_at": "2023-08-03 21:59:00",
       "album": {
         "name": "Hout",
@@ -453,22 +501,6 @@
       "url": "https://open.spotify.com/track/4KNYpaPn7MmUvq7YA4r8Gd"
     },
     {
-      "added_at": "2023-08-03 21:59:00",
-      "album": {
-        "name": "Super Sexy",
-        "url": "https://open.spotify.com/album/0BXw0w8YxOs8Kq2UUZ7veq"
-      },
-      "artists": [
-        {
-          "name": "Corra",
-          "url": "https://open.spotify.com/artist/4My68FFMdqNzlJljp7Fchv"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Super Sexy",
-      "url": "https://open.spotify.com/track/2CO1I60LEmkuZVivtyXDZ0"
-    },
-    {
       "added_at": "2023-07-27 21:59:00",
       "album": {
         "name": "Naghoedjie",
@@ -483,22 +515,6 @@
       "duration_ms": 166861,
       "name": "Naghoedjie",
       "url": "https://open.spotify.com/track/7dXP7V8VHHuU4Cv6EhYxnD"
-    },
-    {
-      "added_at": "2023-07-27 21:59:00",
-      "album": {
-        "name": "Die Langpad Gee Nie Om Nie",
-        "url": "https://open.spotify.com/album/1WGbkqq67oUt7rHH9RyPXS"
-      },
-      "artists": [
-        {
-          "name": "Elvis Blue",
-          "url": "https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ"
-        }
-      ],
-      "duration_ms": 242064,
-      "name": "Die Langpad Gee Nie Om Nie",
-      "url": "https://open.spotify.com/track/1MxOJWWOxVoORiLWiaprtE"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -583,22 +599,6 @@
       "duration_ms": 231430,
       "name": "BLOND IS",
       "url": "https://open.spotify.com/track/1gTgmq4M7U5VcG8Zgb5mJl"
-    },
-    {
-      "added_at": "2023-07-27 21:59:00",
-      "album": {
-        "name": "Jy's Lief Vir My",
-        "url": "https://open.spotify.com/album/1p6PZCB7p2kSJ7UQQHRkmT"
-      },
-      "artists": [
-        {
-          "name": "ALTEREGO",
-          "url": "https://open.spotify.com/artist/19uOX9mgY6MpWpy8TZPeVN"
-        }
-      ],
-      "duration_ms": 182474,
-      "name": "Jy's Lief Vir My",
-      "url": "https://open.spotify.com/track/01m0hnyrvtAm0g2mKszhTk"
     },
     {
       "added_at": "2023-07-20 21:59:00",

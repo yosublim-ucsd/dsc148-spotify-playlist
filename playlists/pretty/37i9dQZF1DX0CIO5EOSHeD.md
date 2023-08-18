@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,433 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,653 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 18 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
 | 19 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 20 | [Death of the Phone Call](https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Huli Ka](https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u) | 1:35 |
-| 21 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
-| 22 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
+| 21 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
+| 22 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
 | 23 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
 | 24 | [madhouse](https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj) | 3:31 |
 | 25 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 44 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 |
 | 45 | [Sun Outside My Window](https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe) | 3:21 |
 | 46 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
-| 47 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
-| 48 | [Intersection](https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn) | 3:53 |
+| 47 | [Intersection](https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn) | 3:53 |
+| 48 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 | 49 | [I'm So Sorry](https://open.spotify.com/track/1MlyMtFTogPbQ3xe0S4GDD) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:22 |
-| 50 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
-| 51 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
+| 50 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
+| 51 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
 | 52 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
 | 53 | [One Year Stand](https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:35 |
 | 54 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 60 | [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 |
 | 61 | [Darcy](https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx) | 3:24 |
 | 62 | [I Don't Recognise You](https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 4:35 |
-| 63 | [mr\. rager](https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [mr\. rager](https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP) | 3:40 |
+| 63 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
 | 64 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
-| 65 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
+| 65 | [mr\. rager](https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [mr\. rager](https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP) | 3:40 |
 | 66 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
 | 67 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
 | 68 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 81 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
 | 82 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 |
 | 83 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
-| 84 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 |
-| 85 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 |
+| 84 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 |
+| 85 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 |
 | 86 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 87 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 |
 | 88 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
 | 100 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 |
 
-Snapshot ID: `MCwyZTlhODI0YTg4MTU0OTVkODgxMWEyN2E2NTFiMTQyYTBjNjI5N2Ji`
+Snapshot ID: `MCxiZjJjNmU3ZjQxNWEzZjcwOTBkZWI4MTM1YTQzNTZjNWZiN2EzY2U3`

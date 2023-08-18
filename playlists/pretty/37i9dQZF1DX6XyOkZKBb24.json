@@ -1,12 +1,12 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 116339,
+  "num_followers": 116509,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDE3ZTM1MThjZGJhMWY5YjgxYTNmY2ZmMDk2MWUxNmI2NmRlNDFm",
+  "snapshot_id": "MCwzMTNmZmY5ZGZmMzM1MjY0YjY4MDczOWY5ZTc1MzQ1NTgzODc3MTM5",
   "tracks": [
     {
       "added_at": "2023-08-15 16:24:06",
@@ -75,18 +75,18 @@
     {
       "added_at": "2023-08-15 16:24:06",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
       "added_at": "2023-08-15 16:24:06",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-08-15 16:24:06",
       "album": {
-        "name": "Guitar Songs",
-        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 281380,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2023-08-15 16:24:06",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-15 16:24:06",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "On A Night Like Tonight",
-      "url": "https://open.spotify.com/track/4aPiQTOqCCeSgfTgCh7SR5"
-    },
-    {
-      "added_at": "2023-08-15 16:24:06",
-      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193800,
       "name": "To the Mountains",
       "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
+    },
+    {
+      "added_at": "2023-08-15 16:24:06",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "On A Night Like Tonight",
+      "url": "https://open.spotify.com/track/4aPiQTOqCCeSgfTgCh7SR5"
     },
     {
       "added_at": "2023-08-15 16:24:06",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-15 16:24:06",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 346373,
-      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
-    },
-    {
-      "added_at": "2023-08-15 16:24:06",
-      "album": {
         "name": "What More Can I Say",
         "url": "https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 141141,
       "name": "What More Can I Say",
       "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
+    },
+    {
+      "added_at": "2023-08-15 16:24:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 346373,
+      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
     },
     {
       "added_at": "2023-08-15 16:24:06",

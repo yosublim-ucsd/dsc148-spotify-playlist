@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: SZA",
-  "num_followers": 583705,
+  "num_followers": 583774,
   "original_name": "Hits Banget",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY3ODU5ODM4MjI2MDY1N2Y1MDM5ZThhZmZkMWNkM2RkNjE5YTlh",
+  "snapshot_id": "MCwyNjBlNjczZTI2ZGNiZjkwZGVkNDRlYWQ4NzhkYWY5MDkxNGQyOWUz",
   "tracks": [
     {
       "added_at": "2023-08-14 08:05:04",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-14 08:05:04",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 229953,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
-    },
-    {
-      "added_at": "2023-08-14 08:05:04",
-      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "added_at": "2023-08-14 08:05:04",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
     },
     {
       "added_at": "2023-08-14 08:05:04",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-14 08:05:04",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2023-08-14 08:05:04",
-      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2023-08-14 08:05:04",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-08-14 08:05:04",

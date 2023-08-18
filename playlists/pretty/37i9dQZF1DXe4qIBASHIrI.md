@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Songs for Eleonor en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,495 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,590 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 83 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 |
 | 84 | [Inmóvil \(Wrong I.D.\)](https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU) | [LeBaron](https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1) | [LeBaron](https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb) | 3:42 |
 | 85 | [No Puedo Parar](https://open.spotify.com/track/7cgKezuhwPqno56de3WkZC) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [No Puedo Parar](https://open.spotify.com/album/0rdaTkt5Qb4uZR6ESr408q) | 4:25 |
-| 86 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
-| 87 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 |
+| 86 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 |
+| 87 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
 | 88 | [Si](https://open.spotify.com/track/1LN0Ut0IBHSrx4Urexq8xb) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 3:20 |
 | 89 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
 | 90 | [Pistache](https://open.spotify.com/track/6hNCdAhUeH2JKFfr7lcfkl) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Bosque de San Marcos](https://open.spotify.com/album/4XQnB0Go4T6UunJgPTIaSf) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Immortality](https://open.spotify.com/track/0Z51HNLuXSG1jNADkcWMon) | [Big Big Love](https://open.spotify.com/artist/4nzAyG4UOW7AvdYyJQXxDX) | [Immortality](https://open.spotify.com/album/0dGIiseQRxnDasxilZXIs7) | 5:03 |
 | 100 | [Fumemos un cigarrillo \- Soundtrack Original de la Película](https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Fumemos un cigarrillo \(Soundtrack Original de la Película\)](https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz) | 4:01 |
 
-Snapshot ID: `MCwwMGE5YjZhNGZjOTI2MDBhZTNmNTNjOWE0ZjgwY2M0MzBmNWNmMDE2`
+Snapshot ID: `MCw2MzBiNTc1ZDM4YzAyZDVkMzdmZTJiZWJmY2Q2NmM2ODBmZjdlYWQw`

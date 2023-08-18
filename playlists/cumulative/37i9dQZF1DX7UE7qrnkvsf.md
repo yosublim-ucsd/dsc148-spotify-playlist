@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-345 songs - 22 hr 46 min
+352 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-08-11 |  |
 | [Beautiful Moons Ago \- Live](https://open.spotify.com/track/6n1EOsR4Q7yYUHdnHQmWhe) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Testifyin! Live At The Village Vanguard](https://open.spotify.com/album/5XwJJNwHAKOjGPr9vDaGfI) | 6:25 | 2021-12-07 | 2022-04-27 |
 | [Behind The Counter](https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Behind The Counter](https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6) | 3:22 | 2023-06-09 |  |
+| [Beloved Moment](https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Beloved Moment](https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze) | 3:26 | 2023-08-17 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-04-12 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
 | [Black Ice](https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Black Ice](https://open.spotify.com/album/6Wq8NLhoc7O3VpDZx8hpr4) | 3:48 | 2022-10-27 |  |
@@ -60,6 +61,7 @@
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2021-12-07 | 2022-12-02 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-10-27 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2021-12-07 |  |
+| [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 |  |
 | [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-08-11 | 2023-08-11 |
 | [Cherie](https://open.spotify.com/track/2aFdC7xP56IAHVc6NulDRX) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Cherie](https://open.spotify.com/album/5PlgIvkFi9KCurYCCWfzmZ) | 4:08 | 2021-12-07 | 2023-06-16 |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-11-24 |  |
@@ -72,6 +74,7 @@
 | [Come Rain or Come Shine](https://open.spotify.com/track/2QdenAOSAlaoMuQEUuDxj6) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Come Rain or Come Shine](https://open.spotify.com/album/1tFgyR4GBYlizU5mbU9hSN) | 3:45 | 2022-04-12 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/1IuKgGmHL5q5SntLbpuW9X) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 4:17 | 2021-12-07 | 2022-12-02 |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-06-01 |  |
+| [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 |  |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 |  |
 | [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 | 2021-12-07 | 2022-09-30 |
@@ -165,6 +168,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-01 |  |
 | [It's you isn't it](https://open.spotify.com/track/3o1Biafic3dkiM7MTNl2KD) | [Ruben Haag](https://open.spotify.com/artist/3NjBBPVfXFdaxSbazeEJJ0) | [Bonez](https://open.spotify.com/album/0V8s97HGbsotWRN6r7iqVL) | 3:49 | 2021-12-07 | 2022-04-27 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
+| [I’m on break](https://open.spotify.com/track/0jfJ3aLp2fGnPRMbd4Se26) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [I’m on break](https://open.spotify.com/album/4dbCv4JQcIKYHDQDkaCcjm) | 2:39 | 2023-08-17 |  |
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2021-12-07 | 2022-09-30 |
 | [Jazz Noir](https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Jazz Noir](https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9) | 3:47 | 2023-08-10 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-05-11 |  |
@@ -212,6 +216,7 @@
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-08-11 |  |
 | [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-01-18 | 2022-08-18 |
 | [Moonflower](https://open.spotify.com/track/3greL6Mj3t6woOW2M4Uz0i) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Moonflower](https://open.spotify.com/album/78b64x7dRmnKP7GpnHE8Su) | 3:04 | 2023-06-15 |  |
+| [Moonlight In Vermont](https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Moonlight In Vermont](https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd) | 2:48 | 2023-08-17 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-17 |  |
 | [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-05-11 |  |
 | [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 | 2021-12-07 | 2022-09-30 |
@@ -243,6 +248,7 @@
 | [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-08-17 |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 | 2021-12-07 |  |
+| [Presumptuous of you](https://open.spotify.com/track/1oZ0ZELvVsaqBtzRlZk8KH) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Presumptuous of you](https://open.spotify.com/album/5SgpcmvdbrXpnhZ7q4mJr9) | 3:10 | 2023-08-17 |  |
 | [Prisoner Of Love](https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 4:12 | 2021-12-07 | 2022-09-15 |
 | [Quiescence](https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:03 | 2021-12-07 |  |
 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2021-12-07 |  |
@@ -351,6 +357,7 @@
 | [You Left Your Mark On Me](https://open.spotify.com/track/5sIXcPEq8AfCiwIWBJakA7) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [You Left Your Mark On Me](https://open.spotify.com/album/7LdyKwrRZ6JcjaLyH44F2R) | 3:44 | 2022-10-27 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-17 |  |
+| [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 |  |
 | [You're My Everything](https://open.spotify.com/track/6PQTALunXWR81WZE5IjCzq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [You're My Everything](https://open.spotify.com/album/5mR2QjUeqbtA8yD9GJfIB8) | 3:39 | 2022-08-30 |  |
 | [You're My Nemo](https://open.spotify.com/track/20rIiJfktbLUX82tPwVBq6) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [You're My Nemo](https://open.spotify.com/album/3YnthqrqeWfBepWGoAMd70) | 3:58 | 2022-10-27 | 2023-05-26 |
 

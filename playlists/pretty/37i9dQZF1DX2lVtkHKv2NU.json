@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 296982,
+  "num_followers": 297094,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTcwZWUxNjI1Y2U3MmQwYmNmZGJjZDdmOWM0MWRmMjNhYzU5OTNi",
+  "snapshot_id": "MCwzYjQ2N2ExNWIwYTk4N2UyNDVkYTE1YTUyMjgwNTNjZGRkZmFiMjlk",
   "tracks": [
     {
       "added_at": "2023-07-28 15:18:01",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-28 15:18:01",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": "2023-07-28 15:18:01",
-      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-07-28 15:18:01",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": "2023-07-28 15:18:01",
@@ -1119,6 +1103,22 @@
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2023-07-28 15:18:01",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-07-28 15:18:01",

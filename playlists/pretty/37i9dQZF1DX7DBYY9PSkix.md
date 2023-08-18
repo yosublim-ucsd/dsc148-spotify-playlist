@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,741 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,768 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 38 | [What’s Your Country Song](https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:51 |
 | 39 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:46 |
 | 40 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 |
-| 41 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 |
-| 42 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 |
+| 41 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 |
+| 42 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 |
 | 43 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 |
 | 44 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 |
 | 45 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 71 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 |
 | 72 | [Anywhere With You](https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 3:29 |
 | 73 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 |
-| 74 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
-| 75 | [Good Times Roll](https://open.spotify.com/track/7MCJA5dCNzzDz9xHSQeklM) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 2:38 |
+| 74 | [Good Times Roll](https://open.spotify.com/track/7MCJA5dCNzzDz9xHSQeklM) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 2:38 |
+| 75 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
 
-Snapshot ID: `MCxiZjFkODA3ZWQzZGMyNDU2YTgyY2QyMDdlZmVjNTk0NmFkYzIwNmI0`
+Snapshot ID: `MCxmZTI1MjVjMmM1NDZhOWJlNjMzNWI0NjY5Y2YxYjc0NjI2NDFjMTAz`

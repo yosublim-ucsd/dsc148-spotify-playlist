@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 
 > The happiest hits to boost your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,610 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,744 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 | 44 | [NIGHT DANCER](https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:30 |
 | 45 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
 | 46 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
-| 47 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 |
-| 48 | [Please Me](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Please Me](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) | 3:20 |
+| 47 | [Please Me](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Please Me](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) | 3:20 |
+| 48 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 |
 | 49 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 | 50 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
 
-Snapshot ID: `MCw5NDUyMjcxZTcwYTRiYzU3Njk4MGVlOWYyYjNhMGYyMmU0ZGFiNGFl`
+Snapshot ID: `MCw3YzE1YjAwZjc1Zjg0MjYxZTQyOTFhMWU3ZWVhNDFmNDcxYzExY2Vm`

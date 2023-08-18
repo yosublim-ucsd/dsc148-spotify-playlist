@@ -1,12 +1,12 @@
 {
   "description": "Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 \ud83c\udf79",
-  "num_followers": 239816,
+  "num_followers": 239926,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODVjMGFmY2JhNjliNjAwMWFjMjAxYmVhZGUwZjA0YmQ2NGQ5MmVh",
+  "snapshot_id": "MCwwNjM0ZjViNjM4MGE2ZWViODcyYjI1ZTQ4ZDU4NzU0Y2NiZDAyOTA0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1199,38 +1199,18 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Say A Little Prayer",
-        "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Amazonian Rockstar",
-          "url": "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 209351,
-      "name": "Say A Little Prayer",
-      "url": "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 398150,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1251,6 +1231,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 398150,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "You Feel Me",
         "url": "https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB"
       },
@@ -1263,6 +1259,26 @@
       "duration_ms": 213080,
       "name": "You Feel Me",
       "url": "https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Say A Little Prayer",
+        "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Amazonian Rockstar",
+          "url": "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
+        }
+      ],
+      "duration_ms": 209351,
+      "name": "Say A Little Prayer",
+      "url": "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "The Big Easy",
-        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 185519,
-      "name": "The Big Easy",
-      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Wespennest",
-        "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        },
-        {
-          "name": "Sophia Kennedy",
-          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
-        }
-      ],
-      "duration_ms": 210243,
-      "name": "Wespennest - Edit",
-      "url": "https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "The Way You Say (Remixes)",
         "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 192386,
       "name": "Stay With You - Radio Version",
       "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Wespennest",
+        "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "duration_ms": 210243,
+      "name": "Wespennest - Edit",
+      "url": "https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV"
     },
     {
       "added_at": "2023-08-11 04:01:00",

@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 111269,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/2WEmPZmssb7P5CKTijtA0t"
@@ -3148,7 +3148,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 243843,
       "name": "Heaven - Piano Version",
       "url": "https://open.spotify.com/track/1iKyA97IkuVGM5ncc5cvM0"
@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 113517,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/4hqMmYfRcq2sKBjEe5luh2"
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 96236,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh"
@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 102876,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/25YVXgmAO6nArAAcvHegDl"
@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 140512,
       "name": "Love Me Tender",
       "url": "https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y"
@@ -5294,6 +5294,24 @@
       "duration_ms": 144000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2FXgKMM1anXLM8o4jpgqMr"
+    },
+    {
+      "album": {
+        "name": "Mmm Mmm Mmm Mmm",
+        "url": "https://open.spotify.com/album/1OGAxXCH1VkLBN38b8d1JK"
+      },
+      "artists": [
+        {
+          "name": "Julius Reid",
+          "url": "https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204602,
+      "name": "Mmm Mmm Mmm Mmm",
+      "url": "https://open.spotify.com/track/6KpG42chPTbjaigDOyfO0M"
     },
     {
       "album": {
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 156946,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/4nWcu20r0jBRl7ucCdlTQd"
@@ -6190,7 +6208,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 105085,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF"
@@ -6446,6 +6464,24 @@
       "duration_ms": 222500,
       "name": "Sign Of The Times",
       "url": "https://open.spotify.com/track/2noRYyj5apVtjNY9fW7QOI"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3tUIMVFfL1MU7HC5L4sLlQ"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173624,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2GYewQA5xHPJUn2baNR3Ub"
     },
     {
       "album": {
@@ -7792,7 +7828,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 106406,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/0LW4aSbvelf7hxSrWyPWKp"
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 110845,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/41SWY0rWeJTEpzcLaR3dfL"
@@ -8282,7 +8318,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 102754,
       "name": "When You Were Young",
       "url": "https://open.spotify.com/track/7zvMrz8rXUXpAkE2uhBIbJ"

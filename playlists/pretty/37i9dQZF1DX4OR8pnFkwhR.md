@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,111 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,141 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 |
-| 2 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y) | 3:18 |
-| 3 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
-| 4 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 |
-| 5 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 |
-| 6 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
-| 7 | [Melody](https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Bouquet](https://open.spotify.com/album/4w5XnMaC67Apk06K1eDd7s) | 3:46 |
-| 8 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
-| 9 | [One Summer's Day](https://open.spotify.com/track/0IUFZInFlcfSbVGM97LWLT) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [One Summer's Day](https://open.spotify.com/album/1wuimhObm670hxGPsDSQyb) | 3:48 |
-| 10 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
-| 11 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 |
-| 12 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
+| 2 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 |
+| 3 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y) | 3:18 |
+| 4 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
+| 5 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 |
+| 6 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 |
+| 7 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
+| 8 | [Melody](https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Bouquet](https://open.spotify.com/album/4w5XnMaC67Apk06K1eDd7s) | 3:46 |
+| 9 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
+| 10 | [One Summer's Day](https://open.spotify.com/track/0IUFZInFlcfSbVGM97LWLT) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [One Summer's Day](https://open.spotify.com/album/1wuimhObm670hxGPsDSQyb) | 3:48 |
+| 11 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
+| 12 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 |
 | 13 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 |
 | 14 | [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 |
 | 15 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [爛漫サマー](https://open.spotify.com/track/5YNjEDVaYH6RTwD3LsuZ8v) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [爛漫サマー](https://open.spotify.com/album/4kIoWPlTbkRwgFyoIBvOSk) | 3:32 |
 | 70 | [無計画化計画](https://open.spotify.com/track/7I7tM4CnJNguu8Mfc6w0Ba) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [無計画化計画](https://open.spotify.com/album/1Jq7KVysKOthuUPYQVbDs6) | 4:08 |
 
-Snapshot ID: `MCxmYjcxMTFhMDk3MWNiNjkxNTcyYjEyNzVkODc4YWM2MjcyMjlhMDA5`
+Snapshot ID: `MCwxNDE0YTQwNjRkMmU5ZmFlMGRiZGU4NzYzOWJiZjY4ZmJhYjM5ZGRh`

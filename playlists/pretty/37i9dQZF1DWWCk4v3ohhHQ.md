@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,711 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,881 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 99 | [Lethargy](https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 100 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 
-Snapshot ID: `MCwwZTAyNzQzNzFhZDJiNmJlZDZmNDNhMzdjNmRiNjVmZTI0YmE2Yjhk`
+Snapshot ID: `MCw0YzM2YjViYjI5OTQ2ZDZlY2I0NDY3MjRhZmI2N2JjM2FhMWRiYmM0`

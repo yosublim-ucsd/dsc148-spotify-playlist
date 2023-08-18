@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Love Art Lust",
+        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156345,
+      "name": "Guns & Roses (Yeye)",
+      "url": "https://open.spotify.com/track/6wCgl6zqsyHCiOaMG9egeE"
+    },
+    {
+      "album": {
         "name": "Halichachi",
         "url": "https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 196954,
       "name": "Ningwetele",
       "url": "https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP"
@@ -1177,6 +1195,42 @@
     },
     {
       "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/3MFIO9csbm5ogXyN0UEs7f"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/6jHmMHZSDWrKLVJiYvYpir"
+    },
+    {
+      "album": {
+        "name": "OTD",
+        "url": "https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "OTD",
+      "url": "https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd"
+    },
+    {
+      "album": {
         "name": "Pen & Paper",
         "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
       },
@@ -1286,7 +1340,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 250666,
       "name": "Praises to Mama",
       "url": "https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY"
@@ -1482,7 +1536,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 144000,
       "name": "Sitaki Mazoea",
       "url": "https://open.spotify.com/track/2dmwsNaaASKGnkZZJq7LAD"

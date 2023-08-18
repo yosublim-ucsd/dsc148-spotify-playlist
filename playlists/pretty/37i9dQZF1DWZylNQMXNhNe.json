@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom, Kaya Conky",
-  "num_followers": 222629,
+  "num_followers": 222663,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGMwMDQ0N2RjNDhiODEzNWVlNTBlZTFmYjUyOWVlNTIzOTAyYzQ0",
+  "snapshot_id": "MCw5MGM3M2MyYzc3MjA0NTBkM2MxZDg5NDkyODcwZjRmNjEzYWJlM2Nl",
   "tracks": [
     {
       "added_at": "2023-08-04 16:31:13",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "PITAYAS",
-        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
-      },
-      "artists": [
-        {
-          "name": "PITAYAS",
-          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Macetada",
-      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
         "name": "Traviarcado",
         "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 142722,
       "name": "Pitbull Sem Coleira",
       "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
+        "name": "PITAYAS",
+        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
+      },
+      "artists": [
+        {
+          "name": "PITAYAS",
+          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Macetada",
+      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
     },
     {
       "added_at": "2023-08-04 16:31:13",

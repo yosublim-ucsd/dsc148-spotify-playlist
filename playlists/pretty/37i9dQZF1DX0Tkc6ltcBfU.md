@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Quavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,297 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,620 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Presidential Rolex](https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Presidential Rolex](https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx) | 2:28 |
 | 50 | [Kreepin \(feat\. Denzel Curry\)](https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Safe House](https://open.spotify.com/album/20ZYCQ7oh70khsqTG33rRm) | 2:40 |
 
-Snapshot ID: `MCxmMWY4ZjBkMjlkNTU4Nzg3MzYxMDlmNDNmMjdlYjI5ZjE5MjYyZmU4`
+Snapshot ID: `MCxjNWJjZTZhMTFlYTBhMTFiYzFkMWJkZTAzOTI2MWQ0MWU0YjI1NjAz`

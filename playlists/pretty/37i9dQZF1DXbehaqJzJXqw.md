@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,313 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,677 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 25 | [Samba Saravah](https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:50 |
 | 26 | [Que reste\-t\-il de nos amours ? \- Bonus track](https://open.spotify.com/track/7vY7W8DL8JSaS6aBDFHGW3) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 2:43 |
 | 27 | [Une histoire de plage](https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 1:53 |
-| 28 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |
-| 29 | [Les Etoiles](https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:18 |
-| 30 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
+| 28 | [Les Etoiles](https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:18 |
+| 29 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
+| 30 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |
 | 31 | [Comme s'il en pleuvait](https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 3:42 |
 | 32 | [Plus bleu que tes yeux](https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 3:23 |
 | 33 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 99 | [Quand j'serai K.O](https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Souchon dans l'air \(Vol\. 1\)](https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR) | 3:34 |
 | 100 | [Mon Amie La Rose](https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [Mon Amie La Rose](https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf) | 2:03 |
 
-Snapshot ID: `MCwwZDJmZmE4ZDU1Mzk2MWNlYmM3MWRmZDE5MmU2M2VmYmEzOGY0MzBi`
+Snapshot ID: `MCw4NzRkNzk1NWUwOWMxYjE4NGE2NGRlMDExNTQ1MDlhNzU4ZWVjMDM0`

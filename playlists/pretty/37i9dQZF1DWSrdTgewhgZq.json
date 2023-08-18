@@ -1,12 +1,12 @@
 {
   "description": "Only the best Hip-hop, only non-stop hits. Travis Scott on Cover \n",
-  "num_followers": 1043353,
+  "num_followers": 1043778,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmQ2YWNmNzY5ZGY0ZjIwMThkYjE2NDJkNjE5MzgyNmJjMjlmZGEz",
+  "snapshot_id": "MCwxNGY0NjQ1N2Q4M2I4NTFkNWMzM2Y5YzhkOTYwMjM1MGM1ODljYmI4",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -427,6 +427,22 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2023-08-17 18:48:16",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
       "added_at": "2023-08-04 06:00:00",

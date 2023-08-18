@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,494 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,545 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 74 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
 | 75 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 |
 
-Snapshot ID: `MCxhYzY4MjJlNmVjOTg1YjM2YTlmMzk2MjBjYWUzNDM0ZGIwNzY0Y2My`
+Snapshot ID: `MCxlNGNiNjE3YjZlOGVlZmIwYTFhOGE4Yzc2ZmE3MWM2NzQ2MzUyMzZh`

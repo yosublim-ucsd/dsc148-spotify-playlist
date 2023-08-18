@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 2877058,
+  "num_followers": 2877603,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODE4MmVmNWUyYzkxNGFhY2M5MWY4NjQwMjVlZTQzYTc5YjJkMDli",
+  "snapshot_id": "MCwzYTU4ZjM1MTg1MGQ1YTQwZWY3NDcyZGQyZTBkN2QxNWYwMWI1MmIw",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Kinks (Deluxe)",
-        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 131573,
-      "name": "You Really Got Me",
-      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 203680,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Kinks (Deluxe)",
+        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 131573,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 167213,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
         }
       ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Hits'n'Flips",
         "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 175853,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Turn! Turn! Turn!",
-        "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
-      "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "The Essential Skeeter Davis",
         "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 157573,
       "name": "The End of the World",
       "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Turn! Turn! Turn!",
+        "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
     },
     {
       "added_at": "2022-08-12 11:06:50",

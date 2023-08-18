@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Platform
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Bahati
 
-100 songs - 5 hr 46 min
+101 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Peddi](https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 3:47 | 2022-05-26 | 2023-06-16 |
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 |  |
 | [Popo](https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Popo](https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx) | 3:15 | 2023-04-27 |  |
+| [Salome](https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Salome](https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds) | 3:57 | 2023-08-17 |  |
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-06-23 | 2022-11-25 |
 | [Sina Bahati](https://open.spotify.com/track/6JiFowR4YEQk36S8UBaEwP) | [B Classic 006](https://open.spotify.com/artist/1VEHZ2KUoWyhxinp3ToobA) | [Yellow and Red Roses](https://open.spotify.com/album/2z5Nn68CKn1cSgo5IeYPJH) | 2:27 | 2023-06-15 | 2023-06-30 |
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 |  |
@@ -95,7 +96,7 @@
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
 | [Sunina](https://open.spotify.com/track/5CBvhD0E4XClAsdpug6KWK) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Sunina](https://open.spotify.com/album/5t77HSTbhdvM1n7KEh9urC) | 3:04 | 2023-06-08 |  |
 | [Super Woman](https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Super Woman](https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p) | 3:09 | 2022-09-23 | 2023-03-31 |
-| [Sweet](https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Sweet](https://open.spotify.com/album/1GosMCPkYYZnd4m4cN54RS) | 3:07 | 2023-05-04 |  |
+| [Sweet](https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Sweet](https://open.spotify.com/album/1GosMCPkYYZnd4m4cN54RS) | 3:07 | 2023-05-04 | 2023-08-18 |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2022-05-26 | 2023-06-16 |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 |  |
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 |  |

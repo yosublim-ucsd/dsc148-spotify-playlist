@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ?si=JDSWzJmlTo\-vUzPV3na3NQ">Dariann González</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,768 likes - 99 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,857 likes - 99 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 31 | [Hay Un Nombre](https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu Iglesia](https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP) | 4:58 |
 | 32 | [El Guion](https://open.spotify.com/track/45CWJs4RW9XfhfdhGFpuS1) | [Franco Figueroa](https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V) | [El Guion](https://open.spotify.com/album/3T7hIgbLsOvhsMALv25Wus) | 4:27 |
 | 33 | [Presencia Aquí \(Known\)](https://open.spotify.com/track/4LMPG7K5kPF4keIqrncb2R) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM), [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG) | [Presencia Aquí \(Known\)](https://open.spotify.com/album/1dt4viwBquPPTzHcmU8vmq) | 3:21 |
-| 34 | [Aleluya \(Gloria al Rey\) \- Live](https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Armando Sanchez](https://open.spotify.com/artist/7q7TQRaFKtXF11dDH90IzI), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Aleluya \(Gloria al Rey\) \[Live\]](https://open.spotify.com/album/1dWPC7jkHgkohBmPz3zwZm) | 5:57 |
+| 34 | [Aleluya \(Gloria al Rey\) \- Live](https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Aleluya \(Gloria al Rey\) \[Live\]](https://open.spotify.com/album/1dWPC7jkHgkohBmPz3zwZm) | 5:57 |
 | 35 | [Norte](https://open.spotify.com/track/1ZBdpl8fz2OalbjVcU7gjV) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Norte](https://open.spotify.com/album/1tXUORxELDD7HMsAz4Ns8t) | 8:13 |
 | 36 | [Agua Bendita](https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Agua Bendita](https://open.spotify.com/album/5E43YpkRr0eDPgiNwXzU6N) | 3:30 |
 | 37 | [Mil Veces \- En Vivo Desde Santa Elena](https://open.spotify.com/track/1fODdlEcY6vxTCkcxxeVJl) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Sonidos de Paz](https://open.spotify.com/album/72VsKsLIeWM18Ohbx7i85z) | 4:37 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Buen Hermano](https://open.spotify.com/track/7BhxZtYIK0PYIhH9D0sSij) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Buen Hermano](https://open.spotify.com/album/4ckk3QCnfEe8GPUqlZzh7k) | 2:56 |
 | 99 | [Confuso](https://open.spotify.com/track/3YH5hCLxzAdem21I4xFhN8) | [Luz y Vida Music](https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Confuso](https://open.spotify.com/album/7a53VfXvE7ezrt9T43XtS2) | 3:55 |
 
-Snapshot ID: `MCw4NTg5NjIyZDAyN2IxM2I2ZmMwNzI5ODYwZGM3OGI3ZTk4YjIwN2Mz`
+Snapshot ID: `MCxkOWVjYjY0YWFhZjM4YmNkNDVmYmI2ZTdiZjE0OGQ1Y2M0OGU1ODU4`

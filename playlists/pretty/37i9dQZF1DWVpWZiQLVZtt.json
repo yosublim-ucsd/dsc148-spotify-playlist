@@ -1,12 +1,12 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 652920,
+  "num_followers": 653591,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTlmNjFhZDBiNjdkZGMwMjVkOWE4Zjg3MjMwNDUxZTcwNTRhYjgw",
+  "snapshot_id": "MCxiMmJjODU0NzU4OTI0OGFiMmM0ZjRhZGI0ZWU2NGE4ZWU1MDllNTYz",
   "tracks": [
     {
       "added_at": "2022-03-15 03:49:22",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 215493,
       "name": "La Gota Fria",
       "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Un Toque De Misterio",
-        "url": "https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Me Va A Extranar",
-      "url": "https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 231893,
       "name": "A Escondidas",
       "url": "https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Un Toque De Misterio",
+        "url": "https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Me Va A Extranar",
+      "url": "https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 236413,
       "name": "Cuando Calienta El Sol",
       "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2022-03-15 03:49:22",

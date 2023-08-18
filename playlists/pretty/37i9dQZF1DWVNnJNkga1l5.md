@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 
 > Temazos inolvidables para darle un toque dulce a tus comidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,804 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,911 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 30 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
 | 31 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
 | 32 | [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 |
-| 33 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
-| 34 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
+| 33 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 |
+| 34 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
 | 35 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
 | 36 | [Tabaco Y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
 | 37 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 54 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
 | 55 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 |
 | 56 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 |
-| 57 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 58 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
+| 57 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
+| 58 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 59 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
 | 60 | [Cama y Mesa \- Cama e Mesa](https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 2](https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK) | 3:15 |
 
-Snapshot ID: `MCxkMDE5ZjFkMDE4NTc2M2MzMGEwM2E5ZTJkNzIzYWRmMmIyZTNhYWY5`
+Snapshot ID: `MCxkY2E4OWVhMjRkYzg3ZWVmMzFkN2EyMGY1NmRmNGMzYzgyYmZiMDgy`

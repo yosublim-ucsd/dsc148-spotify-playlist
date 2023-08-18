@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
-  "num_followers": 112283,
+  "num_followers": 112399,
   "original_name": "Sunday Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTRmZTUwZDkzZjJjNWJmNGY2YjY3OGQxYmEwMTY0MmY1OTA2NDYw",
+  "snapshot_id": "MCwwZTgyOWE2YjdhODEyYzFmNzU0N2Y4NjBlZGRiZmEyNTI2ZTk3N2Zk",
   "tracks": [
     {
       "added_at": "2023-04-07 19:19:35",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2023-04-07 19:19:35",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2023-04-07 19:19:35",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2023-04-07 19:19:35",
-      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 233506,
       "name": "It Never Rains in Southern California",
       "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+    },
+    {
+      "added_at": "2023-04-07 19:19:35",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2023-04-07 19:19:35",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "Something / Anything?",
-        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
-      },
-      "artists": [
-        {
-          "name": "Todd Rundgren",
-          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "I Saw the Light",
-      "url": "https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs"
-    },
-    {
-      "added_at": "2023-04-07 19:19:35",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 299066,
       "name": "Strawberry Letter 23",
       "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
+    },
+    {
+      "added_at": "2023-04-07 19:19:35",
+      "album": {
+        "name": "Something / Anything?",
+        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "I Saw the Light",
+      "url": "https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs"
     }
   ],
   "unique_name": "Sunday Brunch",

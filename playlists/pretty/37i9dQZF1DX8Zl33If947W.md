@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,437 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,546 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 39 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
 | 40 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 |
 | 41 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
-| 42 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
-| 43 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
+| 42 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
+| 43 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 44 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
 | 45 | [Vom selben Stern \- Radio Edit](https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL) | [Ich + Ich](https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId) | [Vom selben Stern \(Exklusive Version\)](https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn) | 3:48 |
 | 46 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 49 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 50 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 |
 
-Snapshot ID: `MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm`
+Snapshot ID: `MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw`

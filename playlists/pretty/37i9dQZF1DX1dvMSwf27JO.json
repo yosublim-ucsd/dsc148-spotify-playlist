@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 522154,
+  "num_followers": 522365,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTEyZDcxY2QyOWUzMmM4MjExMDM5YjgxODM2ZjlkM2E5MTRjZmE5",
+  "snapshot_id": "MCxhNjhiZDI2OGQ4ODk1MGZhZTg1MTRlYmZjNmJmYWI5MjYyZDk0MDc1",
   "tracks": [
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "11:30",
+      "url": "https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Conveniency",
         "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Bickle",
+          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
         }
       ],
-      "duration_ms": 181016,
-      "name": "11:30",
-      "url": "https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO"
+      "duration_ms": 210004,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1103,22 +1119,6 @@
       "duration_ms": 185749,
       "name": "Mamacita (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT"
-      },
-      "artists": [
-        {
-          "name": "Bickle",
-          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
-        }
-      ],
-      "duration_ms": 210004,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 56880,
-      "name": "chix - Unfinished",
-      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Toronto Funhouse",
         "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 56880,
+      "name": "chix - Unfinished",
+      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "nice",
         "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 90447,
       "name": "nice",
       "url": "https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Just Sayin' Shit",
+        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
+      },
+      "artists": [
+        {
+          "name": "Flower in Bloom",
+          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
+        }
+      ],
+      "duration_ms": 61717,
+      "name": "Just Sayin' Shit",
+      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1319,22 +1335,6 @@
       "duration_ms": 232712,
       "name": "All My Girls Like To Fight",
       "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Just Sayin' Shit",
-        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
-      },
-      "artists": [
-        {
-          "name": "Flower in Bloom",
-          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
-        }
-      ],
-      "duration_ms": 61717,
-      "name": "Just Sayin' Shit",
-      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 134142,
-      "name": "Shimmy",
-      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Oranges",
         "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 103688,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 134142,
+      "name": "Shimmy",
+      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 108626,
+      "name": "No Good Reason",
+      "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 108626,
-      "name": "No Good Reason",
-      "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Protect My Energy",
+      "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Gonna Bleach My Eyebrows",
         "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Protect My Energy",
-      "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
-      },
-      "artists": [
-        {
-          "name": "Al\u00e9 Araya",
-          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
-        }
-      ],
-      "duration_ms": 115764,
-      "name": "Janet",
-      "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "CRYING AROUND AND IN COLOR",
         "url": "https://open.spotify.com/album/47qEHOZkmbSDXiN1oVa6UN"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 67768,
       "name": "UDANCE?",
       "url": "https://open.spotify.com/track/4S5sRziA27r5N3bi5dvMyD"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Janet",
+      "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
     },
     {
       "added_at": "2023-08-14 17:47:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 
 > Per trovare il buonumore, anche a lavoro!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,451 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,495 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 37 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
 | 38 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 | 39 | [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 |
-| 40 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
-| 41 | [Body](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body](https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp) | 2:43 |
+| 40 | [Body](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body](https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp) | 2:43 |
+| 41 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
 | 42 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
 | 43 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
 | 44 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 59 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 60 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
 
-Snapshot ID: `MCxiNjU3YjkzNDlhN2M3ODk1YjcyODdiYTFkNWEzNGQyMTNhMzljZGM2`
+Snapshot ID: `MCw4YjBmMzBlNDBiY2Q0ODJlNDRhZmM4ZDQxZmFiMzhmZmNiODYyYzM2`

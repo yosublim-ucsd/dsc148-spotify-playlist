@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,909 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,951 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 30 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 | 31 | [Llevame](https://open.spotify.com/track/7r6ZLHbjUIESNz0M6M0J6V) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [Llevame](https://open.spotify.com/album/3s6hO91PWJOGhkM0tAPzHK) | 3:34 |
 | 32 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 |
-| 33 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
-| 34 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
+| 33 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
+| 34 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 35 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 |
 | 36 | [Ojitos de Aceituna](https://open.spotify.com/track/0Gwk4OQjtkHFHqrSzMQXYb) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:47 |
 | 37 | [Todo contigo](https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Todo contigo](https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt) | 3:19 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 54 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:59 |
 | 55 | [En Tu Mar](https://open.spotify.com/track/4a7wgmHW4wn7NEeAetauZD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:29 |
 | 56 | [Despierta](https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV) | [Esotérica Tropical](https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs) | [Despierta](https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3) | 3:00 |
-| 57 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
+| 57 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 |
 | 58 | [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 |
 | 59 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 60 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 64 | [Quiero Quedarme](https://open.spotify.com/track/62NQL85GaZA7FE1ejQQgkE) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Quiero Quedarme](https://open.spotify.com/album/7JMcgEmmRUXb7cunOvi0In) | 3:48 |
 | 65 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 |
 | 66 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
-| 67 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 |
+| 67 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
 | 68 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 |
 | 69 | [Cero Conflicto](https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Cero Conflicto](https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn) | 3:22 |
 | 70 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 72 | [Sin Yolanda](https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [Gutinho](https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:50 |
 | 73 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 | 74 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
-| 75 | [Para cenar](https://open.spotify.com/track/7vJgPTBxooGDJ8U6b4JtUE) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Para cenar](https://open.spotify.com/album/7ygO1HGSFyUiRzbefypRAh) | 3:41 |
+| 75 | [Nieve De Arrayán](https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Nieve De Arrayán](https://open.spotify.com/album/5A8t6J9w1Pykdm5PLundCA) | 3:39 |
 
-Snapshot ID: `MCw4NzM1YjRkYTM0ZjM4MjQyOGI3YjlhZDlkYTRjNzk0NzdiMWU3MGEw`
+Snapshot ID: `MCwxMjAxMDU3MTQzN2VjMjA2MzEwZjRkMTFiZDg0OTIyZWE5MGFiNmQw`

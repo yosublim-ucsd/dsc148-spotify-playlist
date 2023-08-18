@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=vschVYCPThSoXFG9-NSEFg\">Bernice West</a> ",
-  "num_followers": 78049,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=ohtU3iXZRa2_suJwXlTjew\">Ivan Roux</a> ",
+  "num_followers": 78171,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjRkMmY2NmVjNTNmNGNjMzJhOTIyYWJjNDJkYzRkZTIwMjYyMTk5",
+  "snapshot_id": "MCwzOTJiZDMzZWUzYzVjZGY4MzI2NmEyOWJkNGRlNzNhYTllYmU0ZjY2",
   "tracks": [
     {
-      "added_at": "2023-08-10 21:59:00",
+      "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "As Hy Weer Kom",
-        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
+        "name": "Laatnag Gedagtes",
+        "url": "https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa"
       },
       "artists": [
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
         }
       ],
-      "duration_ms": 187000,
-      "name": "As Hy Weer Kom",
-      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
+      "duration_ms": 174254,
+      "name": "Laatnag Gedagtes",
+      "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
     },
     {
-      "added_at": "2023-07-27 21:59:00",
+      "added_at": "2023-08-10 21:59:00",
       "album": {
-        "name": "Toe, Nou en Altyd",
-        "url": "https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy"
+        "name": "As Hy Weer Kom",
+        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
       },
       "artists": [
         {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 221463,
-      "name": "Toe, Nou en Altyd",
-      "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
+      "duration_ms": 187000,
+      "name": "As Hy Weer Kom",
+      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
     },
     {
-      "added_at": "2023-08-10 21:59:00",
+      "added_at": "2023-07-27 21:59:00",
       "album": {
-        "name": "Boer In My Hart",
-        "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
+        "name": "Toe, Nou en Altyd",
+        "url": "https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy"
       },
       "artists": [
         {
-          "name": "VAN WEST",
-          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
         }
       ],
-      "duration_ms": 230163,
-      "name": "Boer In My Hart",
-      "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
+      "duration_ms": 221463,
+      "name": "Toe, Nou en Altyd",
+      "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 220831,
+      "name": "Swipe Regs",
+      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
         "name": "SySoen",
         "url": "https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI"
       },
@@ -239,6 +255,54 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
+        "name": "Stout Vir ...",
+        "url": "https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "duration_ms": 207736,
+      "name": "Stout Vir ...",
+      "url": "https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 238615,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
+    },
+    {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
+        "name": "Boer In My Hart",
+        "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Boer In My Hart",
+      "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
         "name": "Frikkie vir 'n Rukkie",
         "url": "https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj"
       },
@@ -251,22 +315,6 @@
       "duration_ms": 175434,
       "name": "Frikkie vir 'n Rukkie",
       "url": "https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 220831,
-      "name": "Swipe Regs",
-      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
       "added_at": "2023-08-03 21:59:00",
@@ -317,20 +365,20 @@
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "Stout Vir ...",
-        "url": "https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx"
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
       },
       "artists": [
         {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
         }
       ],
-      "duration_ms": 207736,
-      "name": "Stout Vir ...",
-      "url": "https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o"
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -363,22 +411,6 @@
       "duration_ms": 200129,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 238615,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -785,22 +817,6 @@
       "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
     },
     {
-      "added_at": "2023-07-20 21:59:00",
-      "album": {
-        "name": "Ligte Af",
-        "url": "https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe"
-      },
-      "artists": [
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        }
-      ],
-      "duration_ms": 206732,
-      "name": "Ligte Af",
-      "url": "https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a"
-    },
-    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Ditjies & Datjies",
@@ -931,22 +947,6 @@
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Klein Botteltjie Groot Gif",
-        "url": "https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD"
-      },
-      "artists": [
-        {
-          "name": "Anz\u00e9lle",
-          "url": "https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs"
-        }
-      ],
-      "duration_ms": 209284,
-      "name": "Klein Botteltjie Groot Gif",
-      "url": "https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg"
     },
     {
       "added_at": "2023-06-29 21:59:00",

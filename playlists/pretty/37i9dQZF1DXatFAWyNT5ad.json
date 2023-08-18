@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 120095,
+  "num_followers": 120167,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWUwYjE0MWE2MWRkNTUwMGVmNTM5M2ZmNDIzNjI1MjJkZDg2NGU1",
+  "snapshot_id": "MCwxMzdkOTg5NGNjNjAwMjQ0MDZmNjRjZWZlN2M3OWFjNWQzMGYwNzc0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:02:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
         "name": "u turn me on (but u give me depression)",
         "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+        "name": "i\u2019m too pretty for this",
+        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
       },
       "artists": [
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
+      "duration_ms": 166037,
+      "name": "i'm too pretty for this",
+      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "i\u2019m too pretty for this",
-        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 166037,
-      "name": "i'm too pretty for this",
-      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 187322,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "I Think I'm in Love",
         "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "Team Sport",
-        "url": "https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R"
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
       },
       "artists": [
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 156160,
-      "name": "Team Sport",
-      "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1583,22 +1567,6 @@
       "duration_ms": 186026,
       "name": "BLOOD AND SUGAR",
       "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
-        "name": "UPSAHL PRESENTS: THE PHX TAPES V1",
-        "url": "https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 139844,
-      "name": "GOOD GIRL ERA (SIDE A)",
-      "url": "https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1631,6 +1599,38 @@
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V1",
+        "url": "https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 139844,
+      "name": "GOOD GIRL ERA (SIDE A)",
+      "url": "https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "Team Sport",
+        "url": "https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Team Sport",
+      "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
     },
     {
       "added_at": "2023-08-11 04:02:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-08-11 04:02:00",
       "album": {
-        "name": "When Everything Went Dark",
-        "url": "https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 158423,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP"
-    },
-    {
-      "added_at": "2023-08-11 04:02:00",
-      "album": {
         "name": "everybody hates me",
         "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "added_at": "2023-08-11 04:02:00",
+      "album": {
+        "name": "When Everything Went Dark",
+        "url": "https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 158423,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP"
     },
     {
       "added_at": "2023-08-11 04:02:00",

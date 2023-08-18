@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "CONSTIMORDOR",
+        "url": "https://open.spotify.com/album/0nGIYfb1hiKYK3LH1rd8vP"
+      },
+      "artists": [
+        {
+          "name": "BARRO",
+          "url": "https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237250,
+      "name": "7 ROJAS",
+      "url": "https://open.spotify.com/track/0x6BCk39lZ3AVJO52A569z"
+    },
+    {
+      "album": {
         "name": "A Mi Banda",
         "url": "https://open.spotify.com/album/3IPTHuE3yxcAFzYDBosXhL"
       },

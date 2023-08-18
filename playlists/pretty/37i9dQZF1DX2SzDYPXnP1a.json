@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 32558,
+  "num_followers": 32724,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODQ2ZWU2YWY3YTkxNTM1OWViZTkzOTNmMzQxYTg2YWUzYmVlMTU2",
+  "snapshot_id": "MCxkNThmMmQ4MjNkNTRhMWZlOWM5ZDVmYjU2OGVmMTYxN2VjYjlkZGNk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "The Devil Don't Sleep",
-        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 187760,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "The Devil Don't Sleep",
+        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+      "duration_ms": 187760,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
     },
     {
       "added_at": "2023-06-30 04:01:00",

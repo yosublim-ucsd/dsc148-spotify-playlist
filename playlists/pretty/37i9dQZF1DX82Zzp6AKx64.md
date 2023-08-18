@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,600 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,826 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [I'll Never Let You Go](https://open.spotify.com/track/43v1rIzI5SvzVvXsvI8F9j) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [Steelheart](https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ) | 5:06 |
 | 100 | [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 |
 
-Snapshot ID: `MCw4YzgyN2QzY2E1MDZhMGY3ZTE3ODQ2NzZmNGY4Zjk1NTQ3NTA4NDAx`
+Snapshot ID: `MCwxZWY3MDBkZGZkNzExYmZmZDNjY2NkYjkxNzRlY2FjNzY5MDU5Y2Y1`

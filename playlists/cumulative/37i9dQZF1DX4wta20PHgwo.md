@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-388 songs - 1 day 11 hr 50 min
+389 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-07-21 |  |
 | [Isabela](https://open.spotify.com/track/3sRMYgT5GinbUCw5pkGfKB) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Isabela](https://open.spotify.com/album/53IXzlGp6ibwzN5DHR156U) | 10:50 | 2022-05-12 |  |
 | [It Ain't Necessarily So](https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Gilles Peterson \- Magic Peterson Sunshine](https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw) | 4:40 | 2020-05-02\* |  |
+| [It Is Well With My Soul](https://open.spotify.com/track/3IHLQNqBaeHe0ts6iEsLJS) | [Willie Morris](https://open.spotify.com/artist/2rzVXME9utxP6mQy09aQjb) | [Conversation Starter](https://open.spotify.com/album/3MWuBLErUmqp8x2YX1tCIg) | 4:27 | 2023-08-17 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [It Never Entered My Mind](https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP) | 8:45 | 2023-08-03 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Hans Andersson](https://open.spotify.com/artist/0u7AFb2NdypFhoLJ8tYH8I), [Johan Lofcrantz Ramsay](https://open.spotify.com/artist/3yV0vWr0YdP5rPERtUL775), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [It Never Entered My Mind](https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq) | 6:15 | 2021-12-04 |  |
 | [It's Always You](https://open.spotify.com/track/6w4GCn9Tg8iJLUZlN3fxB7) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker My Ideal](https://open.spotify.com/album/2rdeJjByPHjFzKgMXg3JwC) | 3:31 | 2020-05-02\* | 2021-09-01 |
@@ -239,7 +240,7 @@
 | [Oblique Two\-Step](https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB) | [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Oblique Two\-Step](https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6) | 3:40 | 2023-08-03 |  |
 | [Old Ballad For Hawk](https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79) | [Andrew Rathbun](https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx) | [Semantics](https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ) | 8:21 | 2022-09-15 |  |
 | [Old Folks](https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 6:20 | 2021-02-27 | 2022-02-18 |
-| [Old Folks](https://open.spotify.com/track/02REZiJgy4dVwbNwuDtDLI) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Rick Margitza](https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q) | [Community Standards](https://open.spotify.com/album/6QFLSr6PlbvNpmTddSdTND) | 6:26 | 2023-01-12 |  |
+| [Old Folks](https://open.spotify.com/track/02REZiJgy4dVwbNwuDtDLI) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Rick Margitza](https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q) | [Community Standards](https://open.spotify.com/album/6QFLSr6PlbvNpmTddSdTND) | 6:26 | 2023-01-12 | 2023-08-18 |
 | [Old Folks](https://open.spotify.com/track/7M0O4QL0O4QCZIBtnpkBAS) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Rick Margitza](https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q) | [Old Folks](https://open.spotify.com/album/28K2Qov2FA3U7s9CxFl1Rg) | 6:26 | 2022-06-23 | 2022-10-08 |
 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 | 2023-01-20 |  |
 | [Once upon a Summertime](https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 10:21 | 2022-04-21 |  |

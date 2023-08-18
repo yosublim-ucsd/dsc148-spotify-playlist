@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Peytan Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,681 likes - 200 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,807 likes - 200 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 11 | [Sound of You Gone](https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Sound of You Gone](https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf) | 3:30 |
 | 12 | [Don't Take The Girl](https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 4:20 |
 | 13 | [Jonesin'](https://open.spotify.com/track/3EY4kYa8rZp2b2pXzdhl0r) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Jonesin'](https://open.spotify.com/album/2UoOn9wHxdZ83THATI9hvB) | 3:08 |
-| 14 | [Tie’r Down](https://open.spotify.com/track/0r1WSDfnjhB4ljAmKm2u4C) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Tie'r Down](https://open.spotify.com/album/2UdZbgxFn36Nk1RwV1xZ90) | 3:05 |
+| 14 | [Tie’r Down](https://open.spotify.com/track/7uHWlapQcirLPRHvhPyvr7) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 3:05 |
 | 15 | [Always You](https://open.spotify.com/track/3BVIL8xUbVh1AfeoViJ2ie) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Always You](https://open.spotify.com/album/6pmFIOOeqH9zbCn1rq2JCJ) | 3:08 |
 | 16 | [Outta Dirt](https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Outta Dirt](https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n) | 2:44 |
 | 17 | [Boots, Jeans, & Jesus](https://open.spotify.com/track/4S7yZud2fDiFHjgE5YazJm) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Boots, Jeans, & Jesus](https://open.spotify.com/album/7FVrXxjvf7zhCNBGOw0dJ8) | 2:37 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Hold On To Me](https://open.spotify.com/track/3dALeQZ6Uwp9vuVaCMB51b) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Hold On To Me](https://open.spotify.com/album/4aDGgNHOR5Fyb11UhQEJ5t) | 3:19 |
 | 200 | [Come a Long Way](https://open.spotify.com/track/4ZVB3sYAsN7F94o27iBzkZ) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Come a Long Way](https://open.spotify.com/album/20Jmyhiyx7CuhCOa0FxzDp) | 3:07 |
 
-Snapshot ID: `MCwxOWJjZmM4M2I0M2Q3MDEyOWVlYmQ5ZjRhNTZjMzg5Mzk2MzJmOGJh`
+Snapshot ID: `MCw0NDU2MzIzZmEwMzEwNWQ3ZDc2ZTVkMjBjNWU1MTg3YjVhMmU1ODYw`

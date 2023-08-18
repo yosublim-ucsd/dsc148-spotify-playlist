@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,820 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,921 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 26 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 |
 | 27 | [El Perdedor](https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:26 |
 | 28 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 |
-| 29 | [Cuando Me Enamoro](https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 3:20 |
+| 29 | [Una y Otra Vez](https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:10 |
 | 30 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
-| 31 | [Una y Otra Vez](https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:10 |
+| 31 | [Cuando Me Enamoro](https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 3:20 |
 | 32 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
 | 33 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 34 | [Cancioncitas de Amor](https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 45 | [Otro Trago \- Remix](https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Otro Trago \(Remix\)](https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1) | 4:47 |
 | 46 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
 | 47 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
-| 48 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
-| 49 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
-| 50 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 48 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
+| 49 | [Passion Whine](https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:33 |
+| 50 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
 
-Snapshot ID: `MCw3Y2FkZWNiOTMwYzgxODEyY2EwMjRlNjMwNGU4Y2YxNWI0ZjhjYzU5`
+Snapshot ID: `MCw0ODdjYTE5OTdiMDJlYWMzZjM5ZGFlY2ExMTI0M2U1OTE3MDkzYmNl`

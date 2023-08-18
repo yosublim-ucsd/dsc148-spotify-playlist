@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-98 songs - 6 hr 0 min
+99 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [MURDER ME](https://open.spotify.com/track/5KBYP8gCs14r0PIzAU0Kak) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav) | 3:34 | 2022-10-26 | 2022-11-03 |
 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 | 2022-10-26 |  |
 | [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 | 2022-10-26 |  |
-| [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/2vVHf43MQ8V3gDbo8HRlnJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 4:28 | 2022-10-26 |  |
+| [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/2vVHf43MQ8V3gDbo8HRlnJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 4:28 | 2022-10-26 | 2023-08-18 |
+| [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/6Slvi85s1hIaeykjvDe1xk) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 4:28 | 2023-07-31 |  |
 | [Pet Sematary](https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 3:30 | 2022-10-26 |  |
 | [Pet Sematary \(Single Version\)](https://open.spotify.com/track/4R0hIlQuvdDGoXBb8uo1nb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Hardhitting Halloween Hits](https://open.spotify.com/album/2CHgEwkjnMNavROAqTA77Y) | 3:30 | 2022-11-02 | 2022-11-13 |
 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 | 2022-10-26 |  |

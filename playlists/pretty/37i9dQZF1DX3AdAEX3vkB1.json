@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 207605,
+  "num_followers": 207802,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjViMjM2NzE3N2FkMzg4OTQ4M2EwOGQ5NjU0NDAwNjkwMDhhZWRh",
+  "snapshot_id": "MCwzNWU3NWU2ODdjYzBhZThhZDA5NTkyN2JlMjBjM2MxMTYwYTUwMDhj",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 163293,
       "name": "Friday on My Mind",
       "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Take Good Care Of My Baby",
         "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 149800,
       "name": "Take Good Care Of My Baby",
       "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Mony Mony",
         "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 174133,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "My Kind Of Broadway",
-        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Luck Be A Lady",
-      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hot Rocks (1964-1971)",
         "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 222746,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz"
-      },
-      "artists": [
-        {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "If I Had a Hammer",
-      "url": "https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Burnette's Hits And Other Favorites",
         "url": "https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 119026,
       "name": "You're Sixteen, You're Beautiful (And You're Mine)",
       "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "If I Had a Hammer",
+      "url": "https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P"
     },
     {
       "added_at": "2022-06-16 22:02:00",

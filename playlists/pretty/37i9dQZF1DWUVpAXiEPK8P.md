@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,249,655 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,250,149 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
+| 1 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 2 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
-| 3 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
+| 3 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 4 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
 | 5 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
 | 6 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 |
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 17 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 |
 | 18 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 |
 | 19 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
-| 20 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 |
+| 20 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
 | 21 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 |
-| 22 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
+| 22 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 |
 | 23 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
 | 24 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
 | 25 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
 | 50 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 |
 
-Snapshot ID: `MCw5Nzk3MzcyYTllMzQxNDU4YjcyMzJlOGMxN2NiMzdhYTNlNTExNWJj`
+Snapshot ID: `MCxmOWUxZDA1MGJhYTliYmM1MjgzYWMyMzg0YTdmMDE5NTBjMWQ5MGU1`

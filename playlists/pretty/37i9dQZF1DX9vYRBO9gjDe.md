@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。8月15日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,098 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,279 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [NO GAME](https://open.spotify.com/track/6oAHYa6xHoy3v1DuXfCBsc) | [SOUTH BLUE](https://open.spotify.com/artist/2Y4BqFtHihCI2CazDTKkjI) | [will](https://open.spotify.com/album/343DVpzZmbQvwTQZvEylIQ) | 2:08 |
 | 50 | [Uchigawa of Inanna \- Solfeggio 528](https://open.spotify.com/track/3ueMErxMifzvMkvhbBKC8e) | [Shintaro Aoki](https://open.spotify.com/artist/4cSubBJGjWnfjcK4fP3fTI) | [Tone of Inanna \#08 \(Solfeggio 528\)](https://open.spotify.com/album/5jgWxEqII9gudwDk6zR2W3) | 1:38 |
 
-Snapshot ID: `MCwxZDY0YjdiYWJiMjM3NDkwN2Y0MDJiYWZlMWRmZDg0MzAyZDQ2N2E5`
+Snapshot ID: `MCwyZWQ1NTJlOTBlZjJlYmMwMGE5MzY4ODVlMzM2NGE3ODM4ZDZjYjZh`

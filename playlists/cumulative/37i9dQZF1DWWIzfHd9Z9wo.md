@@ -4,7 +4,7 @@
 
 > Catch Suananda's favorite South Asian tracks!
 
-45 songs - 4 hr 6 min
+46 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Jaan](https://open.spotify.com/track/4iWbfJvr0RpUeKvv9yMaLU) | [Nachhatar Gill](https://open.spotify.com/artist/1g8ObZDF4oPfho92ISSyNq) | [Tere Na Di Mehndi](https://open.spotify.com/album/48ogHbSMzVYrci3E9hO4Da) | 5:15 | 2023-07-17 |  |
 | [Jaroor Aaungi](https://open.spotify.com/track/7FKZuevcpU9tbJw9VFQXNr) | [Lovely Nirman](https://open.spotify.com/artist/5vDFlGw3JlHeDjTnuLecdW), [Parveen Bharta](https://open.spotify.com/artist/5yylsPPF6SkdLLvHjOyaDY) | [Locket](https://open.spotify.com/album/2B82Gl4EYVi2o2Giq1za4s) | 4:36 | 2023-07-17 |  |
 | [Jatt Disda](https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jatt Disda](https://open.spotify.com/album/7Fs4iZ3F5RJqdJq1Y4bJg6) | 2:47 | 2023-07-17 |  |
-| [Jugni](https://open.spotify.com/track/3Re5rsxdpUECgwtXYNqew1) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w) | 6:57 | 2023-07-17 |  |
+| [Jugni](https://open.spotify.com/track/3FI2J3I9YY8xGEVb0rnDvK) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 6:57 | 2023-07-17 |  |
+| [Jugni](https://open.spotify.com/track/3Re5rsxdpUECgwtXYNqew1) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w) | 6:57 | 2023-07-17 | 2023-08-18 |
 | [Kali Kali Zulfon Ke Phande Na](https://open.spotify.com/track/6KtNLc95StBKfOmFDAoTwi) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Best Urdu Qawwalies](https://open.spotify.com/album/67yayTLgnGJPxjPZYa13n4) | 14:19 | 2023-07-17 |  |
 | [Lagaya Dil](https://open.spotify.com/track/0n8FJ2DDgoBXJjczqYQfMF) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Lagaya Dil](https://open.spotify.com/album/7uSblQxPUE09Si8F2Dy2c2) | 4:18 | 2023-07-17 |  |
 | [Main Tenu Yaad Awanga](https://open.spotify.com/track/2PgGmZO6NQf3Vn5ptNtWsW) | [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Bemisal Asa Singh Mastana Surinder Kaur 1 And 2](https://open.spotify.com/album/4ructkl3LlPljQXm2hQI3L) | 4:56 | 2023-07-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Budah
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,491 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,608 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 73 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 |
 | 74 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 
-Snapshot ID: `MCxiZjM2NDBiNjE2MzU5YmYyYjc5NTI3ZmVhOGIwYzQxNDg4NDI1ZjNi`
+Snapshot ID: `MCxhNWJjM2U3YjgwYWM4YmE1OTZkN2RkNmNjMDU3MTdjNjhhNDFjOTA5`

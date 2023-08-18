@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-101 songs - 5 hr 48 min
+102 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Broken Promises](https://open.spotify.com/track/4sSuZdKAQ5DaGXMcTVB1cJ) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:36 | 2023-04-27 |  |
 | [Carpet Ride](https://open.spotify.com/track/0U7kzZCo3AukhMvJAXy9NY) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 2:28 | 2023-04-27 |  |
 | [Central Park West \(Rain\)](https://open.spotify.com/track/4otpI8Q3ofe7O0BNuRs3Ta) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Central Park West \(Rain\)](https://open.spotify.com/album/19gKjLugTg8IrZDc7iLZed) | 3:40 | 2023-08-03 |  |
+| [Cloudburst](https://open.spotify.com/track/7tvV4pQbpWPcOaeZ0WNAag) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Cloudburst](https://open.spotify.com/album/0nNb04hpA17KvoJC3Rx2Ud) | 3:26 | 2023-08-17 |  |
 | [Come Away With Me](https://open.spotify.com/track/6W36Hqqh0VueDlZMT5iyjn) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [Come Away With Me](https://open.spotify.com/album/4LnkT3vGIc1iifgGnblsc2) | 2:12 | 2023-04-27 |  |
 | [Danny´s Dream \- Rain](https://open.spotify.com/track/1vEImeGWLWDYCxRPQJeDhy) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Danny´s Dream \- Rain](https://open.spotify.com/album/6V4FZFYpLpfLCk1qJWatur) | 3:34 | 2023-04-27 |  |
 | [Desire](https://open.spotify.com/track/09ppY0JbUbFgaNkU7YgVmD) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 4:01 | 2023-04-27 |  |

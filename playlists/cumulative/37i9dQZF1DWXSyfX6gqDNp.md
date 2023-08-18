@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-262 songs - 17 hr 4 min
+265 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 | 2022-02-03 | 2022-08-18 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 |  |
 | [Am I Blue](https://open.spotify.com/track/2H9sFbaD7lixr8KrsXdiLh) | [Jiggs Whigham](https://open.spotify.com/artist/3Bzlk4ZlefSEhybdIYWEyr) | [Values](https://open.spotify.com/album/0KY9p5iJxvyXP1ruqNuc7M) | 4:47 | 2021-12-14 | 2022-08-18 |
+| [An Evening In Vienna](https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [An Evening In Vienna](https://open.spotify.com/album/3WfIRV65RyKAJeVTXR4WEr) | 3:04 | 2023-08-17 |  |
 | [And All Is Well Now](https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [And All Is Well Now](https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM) | 3:09 | 2021-12-14 | 2022-05-04 |
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-12 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2022-12-08 |  |
@@ -188,6 +189,7 @@
 | [Sally Waits](https://open.spotify.com/track/5wYDpIKprqJEjpNfpQMCCh) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 3:09 | 2022-09-29 |  |
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2022-12-23 |  |
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-06-14 |  |
+| [Separate Ways](https://open.spotify.com/track/752oUyPd8uEhTwScC1NOFi) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Separate Ways](https://open.spotify.com/album/3VZAwaekAQLeLtF7malIjV) | 2:40 | 2023-08-17 |  |
 | [Serenade In Blue](https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Landslide](https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB) | 5:02 | 2022-02-03 | 2022-06-30 |
 | [She Steps Into The Frame](https://open.spotify.com/track/5iShMgXWNiRUHc1knNf6QI) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [She Steps Into The Frame](https://open.spotify.com/album/63GO4Q9IV55ana3r02rsWD) | 2:21 | 2023-01-05 |  |
 | [Shinbashi](https://open.spotify.com/track/38ZDhtysx579bB9fvo9veR) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Shinbashi](https://open.spotify.com/album/6NeDuoWZG13tBB2xxb7v4N) | 3:04 | 2022-08-11 |  |
@@ -222,6 +224,7 @@
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2021-12-14 | 2023-04-21 |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2021-12-14 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2021-12-14 |  |
+| [The French Quarter](https://open.spotify.com/track/144qoBAYReRqHR8Jd3mXc1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [The French Quarter](https://open.spotify.com/album/4zqTfeJuKZEh9ninMTrn3t) | 3:03 | 2023-08-17 |  |
 | [the point above](https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [the point above](https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu) | 2:48 | 2021-12-14 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2022-08-11 |  |
 | [The Sorcerer's Cat](https://open.spotify.com/track/35CDNotxOd2mY7PSHrUdEY) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Sorcerer's Cat](https://open.spotify.com/album/6w6HIvgpdwCcMtz1wrRw3J) | 4:21 | 2023-08-10 |  |

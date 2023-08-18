@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-183 songs - 12 hr 1 min
+184 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Body And Soul](https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Clef Records LPR\)](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:15 | 2022-08-18 |  |
 | [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 |  |
 | [Café International](https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Café International](https://open.spotify.com/album/0bBBE6Q90Fvr4Ka2EO0ObZ) | 3:30 | 2023-03-23 |  |
+| [Chelsea Bridge](https://open.spotify.com/track/2wxy1aZya6S7mYZAn2m3I3) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 4:49 | 2023-08-17 |  |
 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-08-18 |  |
 | [Cocktails For Two](https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Verve Jazz Masters 34: Coleman Hawkins](https://open.spotify.com/album/068xxiiZI5PQYoYVQl2R7y) | 2:39 | 2022-08-18 | 2023-05-05 |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-08-18 |  |

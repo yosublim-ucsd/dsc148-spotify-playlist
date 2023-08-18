@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: EXOTIC SKATES
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,127 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,139 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 44 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 45 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 | 46 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
-| 47 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
+| 47 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 | 48 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 |
-| 49 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
+| 49 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
 | 50 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 |
 
-Snapshot ID: `MCwzYzA4OTczODdjOGY5ZGUwYTE1MzM5MzZiNTQzZjRkODk4ODJiMmFi`
+Snapshot ID: `MCw0OWE2NDdhOTFmZGY3NGM0ZDY0YTZlZmEyZGU5MmYyNWUwOGRmMGYx`

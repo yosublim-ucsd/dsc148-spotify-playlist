@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,004 likes - 70 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,292 likes - 70 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 35 | [Yeshua](https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yeshua](https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k) | 5:43 |
 | 36 | [Ele Não Desiste de Você](https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Ele Não Desiste de Você](https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW) | 4:50 |
 | 37 | [Hey, Pai \- Ao Vivo](https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:44 |
-| 38 | [Eu Escolho Deus \- Ao Vivo](https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:00 |
-| 39 | [Minha Vez](https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Minha Vez](https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j) | 3:51 |
+| 38 | [Minha Vez](https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Minha Vez](https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j) | 3:51 |
+| 39 | [Eu Escolho Deus \- Ao Vivo](https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:00 |
 | 40 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
 | 41 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
 | 42 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 47 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
 | 48 | [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 |
 | 49 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
-| 50 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
-| 51 | [Em Teus Braços](https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Fornalha Laura Souguellis](https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW) | 12:15 |
+| 50 | [Em Teus Braços](https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Fornalha Laura Souguellis](https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW) | 12:15 |
+| 51 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
 | 52 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |
 | 53 | [Os Sonhos de Deus \(feat\. Lukão Carvalho & Eli Soares\) \- Ao Vivo](https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:08 |
 | 54 | [Você Me Leva ao Deserto](https://open.spotify.com/track/6WtZILxWzvODyrra2QnLLv) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Há Um Vinho Novo](https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80) | 5:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 70 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Preciso de Ti \- Diante do Trono 4 \(Ao Vivo\)](https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN) | 15:19 |
 
-Snapshot ID: `MCxjMjMwMThlZmJiNjc4YWQyNWYyNmI0YTM5NDBiNTg1YjZiOTA3NTYy`
+Snapshot ID: `MCxhMGFhODI5OTc2YzM4NjliMThmNTg5NzdlNGM3NGY0NzE4ZGYxNTAx`

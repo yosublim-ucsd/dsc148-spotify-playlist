@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-171 songs - 9 hr 15 min
+172 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 | 2022-07-22 |  |
 | [Asueto](https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:57 | 2022-01-20 | 2022-07-29 |
 | [Beach with My Bix](https://open.spotify.com/track/3HgTImJQaKLT4jCOsWjrJB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 2:16 | 2022-01-20 | 2022-04-29 |
+| [Bendecido](https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Bendecido](https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9) | 3:03 | 2023-08-11 |  |
 | [Benz](https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [Benz](https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0) | 2:49 | 2022-01-20 | 2023-07-22 |
 | [Blue V2](https://open.spotify.com/track/3AOhQ6KDL6CY19qw2D0aOR) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/3VNVRVg1cYW4U7wIB03o7P) | 2:24 | 2023-03-10 | 2023-07-01 |
 | [Blue V2](https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co) | 2:24 | 2022-04-01 | 2023-03-18 |

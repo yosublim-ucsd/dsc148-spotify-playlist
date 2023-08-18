@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-595 songs - 1 day 1 hr 52 min
+598 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Cristal](https://open.spotify.com/track/1ymqH61lj4FCjkzT9gQ040) | [Paul Oafland](https://open.spotify.com/artist/4jsfWxRAYDXwXUc8TDyAv6) | [Cristal](https://open.spotify.com/album/1e86vfj818vjd1ckkaH1Vb) | 2:59 | 2021-12-08 |  |
 | [Crush](https://open.spotify.com/track/4aUK9c6yenNpRaW4vUpky5) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Crush](https://open.spotify.com/album/6M2iRJvWOyljL7eUMJk7bB) | 2:48 | 2021-12-08 | 2022-04-06 |
 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 | 2021-12-08 | 2022-04-06 |
+| [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 |  |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-02-24 |  |
 | [Dallam](https://open.spotify.com/track/6vy89nxZGa7YVKExm62L3U) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [Gitar](https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK) | 2:48 | 2021-12-08 | 2023-03-25 |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-04-21 |  |
@@ -287,6 +288,7 @@
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 |  |
 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 | 2021-12-08 | 2022-06-10 |
 | [Leme](https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:53 | 2021-12-08 |  |
+| [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 |  |
 | [Les Étoiles](https://open.spotify.com/track/0ScIojb6Imo343SGP7yEQa) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Les Étoiles](https://open.spotify.com/album/5NWKDyiupZHkpMzwHO2wwp) | 2:34 | 2023-01-20 |  |
 | [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 |  |
@@ -475,6 +477,7 @@
 | [Song thrush](https://open.spotify.com/track/79OuL8BStm7FJJpYS5vulH) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [Song thrush](https://open.spotify.com/album/5LYoGrr8SR2VUUol7aolep) | 1:52 | 2021-12-08 | 2023-03-10 |
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 | 2022-07-22 |
 | [sonnenkerze](https://open.spotify.com/track/7kwwhAnyPuAFnMccLJwfB8) | [Alexander Mane](https://open.spotify.com/artist/5N2ZZuM02DNnOCXt94LFmu) | [moon tides](https://open.spotify.com/album/6oBU6aev2mlzkB6vkGcJfH) | 3:24 | 2021-12-08 |  |
+| [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Sorrowful Disappearance](https://open.spotify.com/track/73N0xkf8N6FJQXBb6o6V0l) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [Sorrowful Disappearance](https://open.spotify.com/album/5FWpJFZunTh3KsWAXwK5L8) | 2:29 | 2021-12-08 |  |
 | [SOS](https://open.spotify.com/track/4Bbp5cIa0seUWq4at7xblM) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [SOS](https://open.spotify.com/album/4W1mcPXdm2gLWJU2SChCcs) | 3:40 | 2022-08-12 | 2023-02-25 |
 | [Sounds Of Serenity](https://open.spotify.com/track/5B0UFZVEyMx0no2huGzZcH) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Sound Of Serenity](https://open.spotify.com/album/7mpN7Yxh7nS71Nd1YVvzRz) | 3:03 | 2023-06-08 |  |

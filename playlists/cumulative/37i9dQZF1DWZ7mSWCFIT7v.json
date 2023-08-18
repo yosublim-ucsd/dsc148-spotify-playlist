@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Circuit Current",
+        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247558,
+      "name": "Circuit Current",
+      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
+    },
+    {
+      "album": {
         "name": "The Climate Flu EP",
         "url": "https://open.spotify.com/album/4DGpoqInR89VMUTzrrRBhs"
       },
@@ -3394,7 +3412,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"

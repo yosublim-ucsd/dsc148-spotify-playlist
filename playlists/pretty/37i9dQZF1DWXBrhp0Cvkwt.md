@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,429 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,408 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 22 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 23 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
 | 24 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
-| 25 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 |
-| 26 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
+| 25 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
+| 26 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 |
 | 27 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 |
 | 28 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 29 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 41 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 |
 | 42 | [Happiness is a butterfly](https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:32 |
 | 43 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
-| 44 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
-| 45 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
+| 44 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
+| 45 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 |
 | 46 | [Afraid](https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:11 |
 | 47 | [Bad At Love](https://open.spotify.com/track/7y9iMe8SOB6z3NoHE2OfXl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:01 |
 | 48 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 79 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 80 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
 
-Snapshot ID: `MCw2ZDhhODA2MjQxMzdlNDZlMjY2ZjQ4MmM4MDQwOTczZDUzNGQ5ODJj`
+Snapshot ID: `MCw3MzA5ODEzMmE2MzliNzY3ZjQwMjY1NGUyNGQ1MmI3N2UzYTFkMDlk`

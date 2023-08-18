@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-335 songs - 1 day 7 hr 3 min
+336 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Brillar](https://open.spotify.com/track/3IbGzOSDC6pqsIznZOBlnw) | [SVPER](https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC) | [Pegasvs](https://open.spotify.com/album/5VGRNPRBn9gldPnJe2eQT5) | 4:19 | 2021-07-30 | 2022-07-29 |
 | [Brillar](https://open.spotify.com/track/74i8ZvI8NxVPsCLo55DUeQ) | [SVPER](https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC) | [Pegasvs](https://open.spotify.com/album/7Glh6zTuFysTaB5NJ5JCcW) | 4:19 | 2021-07-30 | 2023-01-26 |
 | [C.Rock](https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X) | [Krisma](https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb) | [Chinese Restaurant](https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X) | 5:29 | 2021-07-30 |  |
-| [Can't Get There](https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Can't Get There EP](https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm) | 7:17 | 2021-07-30 |  |
+| [Can't Get There](https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Can't Get There EP](https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm) | 7:17 | 2021-07-30 | 2023-08-18 |
 | [Caramel](https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 3:09 | 2021-07-30 |  |
 | [Cassettesingle](https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 6:31 | 2021-07-30 | 2023-07-13 |
 | [Chase the Tear](https://open.spotify.com/track/00CjPU9Nv69kf6YofOIazK) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Chase the Tear](https://open.spotify.com/album/7ofIuqyYYYTu1MbgDJgef4) | 5:15 | 2021-07-30 |  |
@@ -170,6 +170,7 @@
 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 | 2021-07-30 |  |
 | [Love Builds Up](https://open.spotify.com/track/2rvcGIgiXQW6ISyaJM9K3n) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/6SW50UcFp4INcJNkCIrr07) | 5:24 | 2021-07-30 | 2022-07-29 |
 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2021-07-30 | 2023-08-13 |
+| [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 | 2021-07-30 |  |
 | [Lower Than Stars](https://open.spotify.com/track/38Ks1Trxgr893SPiNNTdTS) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Lost in Space](https://open.spotify.com/album/56kolj436yz23W66pPLvj6) | 5:23 | 2021-07-30 | 2022-07-29 |
 | [Lower Than Stars](https://open.spotify.com/track/3mLsvORkCUgi3OARPKUx5m) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Lost in Space](https://open.spotify.com/album/35opvJnSyRlCVsc5P0ZMYh) | 5:23 | 2021-07-30 | 2023-01-26 |
 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 | 2021-07-30 | 2023-01-26 |

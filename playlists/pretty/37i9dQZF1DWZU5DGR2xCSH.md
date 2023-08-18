@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos con Fito Paez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,917 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,185 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 31 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
 | 32 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 33 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
-| 34 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
+| 34 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 |
 | 35 | [A rodar mi vida](https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:41 |
 | 36 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
 | 37 | [Tarea Fina](https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:43 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 40 | [Tan Solo](https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:00 |
 | 41 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
 | 42 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 |
-| 43 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 |
+| 43 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
 | 44 | [Yo Caníbal](https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 2:56 |
 | 45 | [Ella Usó Mi Cabeza Como Un Revólver \- Remasterizado 2007](https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:29 |
 | 46 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 56 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
 | 57 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
 | 58 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 |
-| 59 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
-| 60 | [Angel de los Perdedores](https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP) | [El Soldado](https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Sergio Dawi](https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs) | [Tren de Fugitivos](https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f) | 5:16 |
+| 59 | [Angel de los Perdedores](https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP) | [El Soldado](https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Sergio Dawi](https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs) | [Tren de Fugitivos](https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f) | 5:16 |
+| 60 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 61 | [Te Ví en un Tren](https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:05 |
 | 62 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 63 | [El Pibe de los Astilleros](https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:32 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 75 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
 | 76 | [Barro Tal Vez](https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Kamikaze](https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt) | 3:17 |
 | 77 | [Y Mientras Tanto el Sol Se Muere...](https://open.spotify.com/track/63WYTOfMwaoD1OwsM2fdBg) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Porco Rex](https://open.spotify.com/album/0CJMyEhIr0E4gyiQ3LqVp4) | 4:00 |
-| 78 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 |
-| 79 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
+| 78 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
+| 79 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 |
 | 80 | [Alta suciedad](https://open.spotify.com/track/55XrKecG9mBBLI3PL3KzXU) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:27 |
 
-Snapshot ID: `MCxhODJmYTkxYTk4MDk4YTU5MWU3OWE2ODQ0ZmRlNWUyYmE5NTc0ODU0`
+Snapshot ID: `MCwyMWQ0Mjk3YjNhZTI4MTQzYzBhNWU1YjkyNjE5ZTIwZjQ3NzE4ZmEz`

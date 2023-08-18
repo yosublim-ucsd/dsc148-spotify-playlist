@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,349 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,511 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 68 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
 | 69 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 |
 | 70 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
-| 71 | [Teach Your Children](https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:53 |
-| 72 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
+| 71 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
+| 72 | [Teach Your Children](https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:53 |
 | 73 | [I Walk the Line](https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line \(Original Soundtrack Recording\)](https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx) | 2:56 |
 | 74 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
 | 75 | [You're Gonna Miss This](https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Vol\. II](https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi) | 3:44 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 82 | [Love Without End, Amen](https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Livin' It Up](https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO) | 3:07 |
 | 83 | [Tulsa Time](https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Expressions](https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W) | 3:15 |
 | 84 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
-| 85 | [Mud on the Tires](https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Mud On The Tires](https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS) | 3:28 |
-| 86 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
+| 85 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
+| 86 | [Mud on the Tires](https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Mud On The Tires](https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS) | 3:28 |
 | 87 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 |
 | 88 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 89 | [Don't Take The Girl](https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 4:09 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 95 | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D) | 3:00 |
 | 96 | [Mr\. Mom](https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Let's Be Us Again](https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY) | 3:28 |
 | 97 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 |
-| 98 | [Good Hearted Woman](https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Good Hearted Woman](https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv) | 3:01 |
-| 99 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
+| 98 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
+| 99 | [Good Hearted Woman](https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Good Hearted Woman](https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv) | 3:01 |
 | 100 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
 
-Snapshot ID: `MCxmZGU3OTFhYWIzODg5MTRlNjc2MTlkNGJiMjIyZTUzNzcxOWY4YmMw`
+Snapshot ID: `MCwyZGNiZDljOWZhZWZhZWVjODg2ODFkZmZiMTU0Njk0ODFmZjVhYjc2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,001 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,366 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 47 | [Delta World 68Hz \- 70Hz](https://open.spotify.com/track/6qhCrnMWstV10d4FYP9xOt) | [Orbinaural](https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj) | [Binaural Dreams](https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6) | 3:01 |
 | 48 | [Binaural Drone 90 Hz \- 91 Hz](https://open.spotify.com/track/53OvBqtojrI9EUmuskfKlJ) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta 1\-4 Hz Sleep Drones](https://open.spotify.com/album/3PUY5HcJ3F92UCN9SKkMlI) | 3:29 |
 | 49 | [Delta Sleep \(Binaural 277hz/280hz\)](https://open.spotify.com/track/2BS1ddzTY1BI0DqiGkXgt6) | [Binaural Astro Lab](https://open.spotify.com/artist/3m4WGElodCVhxTVNuIjbWY) | [Delta Sleep \(Binaural 277hz/280hz\)](https://open.spotify.com/album/0p0QgKOab4ZHTTrpjIGGMJ) | 2:22 |
-| 50 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 |
+| 50 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 |
 | 51 | [Delta Sleep Waves 88.8Hz \- 90.2Hz](https://open.spotify.com/track/5QsYuzWo2yegOxhVuGhYnk) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:24 |
 | 52 | [nite delta pattern](https://open.spotify.com/track/3VqF8tiKkVVVnhhmYmSif8) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:09 |
 | 53 | [Selective \(Delta Waves\)](https://open.spotify.com/track/0aNuiZsEMGst08a6WrVJmJ) | [circular ceremony](https://open.spotify.com/artist/51sMyVL0cmQQuh4hGpy5OU) | [stellar](https://open.spotify.com/album/4cGX0Y3eWuD3jbHzBxi8Ye) | 3:10 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 97 | [Delta 98.7\-99.6Hz](https://open.spotify.com/track/2Gheo1PFDuVFA8RG1zCMKw) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Binaural Delta Sleep Songs](https://open.spotify.com/album/5fUyFJBEcBxOwCHXzbEwXe) | 4:09 |
 | 98 | [Delta Sinus 160 Hz \- L 165 Hz \- R \- Drone](https://open.spotify.com/track/69V8WWWQCX7aFd2uVWml3x) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Delta Brainwaves For Deep Sleep](https://open.spotify.com/album/2T3TcvujzYCxkqwxhJkAL6) | 3:33 |
 
-Snapshot ID: `MCxlMmM0YjU3Njc0M2NiMTMwZWViNWZjNmE2MzU5ZTIyYzgyNDE3OGZj`
+Snapshot ID: `MCw5NzkzZDljMGFlNTU0M2Y4ZWM1OGI5MGRmZmJhNTg0N2EwNTE4NTky`

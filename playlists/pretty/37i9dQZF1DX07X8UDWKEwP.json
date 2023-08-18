@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Estevie & Cuco",
-  "num_followers": 255961,
+  "num_followers": 255971,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGNmZGE0YjJkYWQwZmM5YmNmYWRmMjgxNDBmZTc1YzU5NGNmZDkw",
+  "snapshot_id": "MCw3ZWI2ODE0Y2RkNTA4NWNlZDYzM2RjMmRkYzQwNjEyY2NiMDg0YmMy",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -139,22 +139,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Clavaito",
-        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
       },
       "artists": [
         {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 162740,
-      "name": "Clavaito",
-      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -175,22 +175,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+        "name": "Clavaito",
+        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
         },
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
+      "duration_ms": 162740,
+      "name": "Clavaito",
+      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "LA FALTA QUE ME HACES (Bachata Version)",
-        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "LA FALTA QUE ME HACES - Bachata Version",
-      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "CRIMINAL",
         "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 180525,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "LA FALTA QUE ME HACES (Bachata Version)",
+        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "LA FALTA QUE ME HACES - Bachata Version",
+      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,229 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,516 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 43 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 |
 | 44 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 |
 | 45 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 |
-| 46 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 |
-| 47 | [Ay Que Sera Del Sol \- Original](https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 6:30 |
+| 46 | [Ay Que Sera Del Sol \- Original](https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 6:30 |
+| 47 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 |
 | 48 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
 | 49 | [Bum Bum Tam Tam](https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Bum Bum Tam Tam](https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0) | 2:50 |
 | 50 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 |
 
-Snapshot ID: `MCw4YmY3OTBiZDFjZjQ4MWY3MTkwNDMyZmIwMzZlYmNmNzlkZjA0Y2Jj`
+Snapshot ID: `MCw2MTFlNjdkYmIyY2QwNWM1OWVjYzdlZjk5NGI0NGU2ZjhiNDg4Zjc1`

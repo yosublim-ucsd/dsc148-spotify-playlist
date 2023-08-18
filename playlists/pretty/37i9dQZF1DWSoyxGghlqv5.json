@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 452299,
+  "num_followers": 452339,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzNmNTkzMmM5NGE4NjYwOGUwMjA1NTVkZDk3ODcwMDg3MmJmZTkw",
+  "snapshot_id": "MCwyNzgxZjM2MGY0MjY2YjUwNTcxN2I4YmUyODM2NjIzMzNiOGQ2NDVi",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -367,18 +351,34 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 261153,
-      "name": "Castle on the Hill",
-      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+      "duration_ms": 261153,
+      "name": "Castle on the Hill",
+      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
     },
     {
       "added_at": "2022-07-21 17:03:38",

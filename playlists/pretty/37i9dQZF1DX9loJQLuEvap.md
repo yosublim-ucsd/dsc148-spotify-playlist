@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > Celebrating some of the most iconic female voices of all time\.  Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,706,741 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,707,157 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 49 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
 | 50 | [Skyscraper](https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:41 |
 
-Snapshot ID: `MCxjNWU3NDgwYjU2NjIzZjY3MmFlMTU3ZTY2NDE2NDg2NjRlZDk4MDIw`
+Snapshot ID: `MCxhZmNmYjE5NGFiZTM3NzFmZGYxZWFkMGMwZGI0ZTQxNzYyY2VlNGIz`

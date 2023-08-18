@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 644253,
+  "num_followers": 644551,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzY1Y2I2ODRkYjk1ZjExZmExMWYyMzI5OTRmOTYwZjczYzE5YTE3",
+  "snapshot_id": "MCw4MThhNjg4NWFkZTZhMWY2YTAwNDM0MzcxNWQ0YWM0NjcyNzE5N2U0",
   "tracks": [
     {
       "added_at": "2023-03-17 00:44:12",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
         }
       ],
-      "duration_ms": 391466,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7"
+      "duration_ms": 216800,
+      "name": "Los Pobres Tambien LLoran",
+      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
       "artists": [
         {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Los Pobres Tambien LLoran",
-      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
+      "duration_ms": 391466,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "El Triste",
-        "url": "https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "Sentimiento de Amor",
-      "url": "https://open.spotify.com/track/34FUq3P5k5vc49MfO9kYGP"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
-        "name": "En Persona",
-        "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Yo Mismo La Vi",
-      "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
       },
@@ -1103,6 +1071,22 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/6dK8zx6goVQQp4ajR5Xe5a"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "Sentimiento de Amor",
+      "url": "https://open.spotify.com/track/34FUq3P5k5vc49MfO9kYGP"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
         "name": "Recuentos De \u00c9xitos",
         "url": "https://open.spotify.com/album/1XvALZGX2W9POnEoKmbEHq"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 235996,
       "name": "Cuando El Amor Se Va",
       "url": "https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "En Persona",
+        "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Yo Mismo La Vi",
+      "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Exitos de Luis Vargas",
-        "url": "https://open.spotify.com/album/1s9eT7dhLZqwoqhxhEwGQO"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "Volvi\u00f3 El Dolor",
-      "url": "https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "Medicina De Amor",
         "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
@@ -1179,6 +1163,38 @@
       "duration_ms": 371720,
       "name": "Mujer Infiel",
       "url": "https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Solo Sin Ella",
+      "url": "https://open.spotify.com/track/1SEUuVeY2PfXGmr2GKOYVH"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
+        "name": "20/4 Bachata Vol.3",
+        "url": "https://open.spotify.com/album/1L0dpFrmLr0D7CDfi48pv9"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "La Avispa",
+      "url": "https://open.spotify.com/track/2qU17itEaJatg5saBg4lm2"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "20/4 Bachata Vol.3",
-        "url": "https://open.spotify.com/album/1L0dpFrmLr0D7CDfi48pv9"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "La Avispa",
-      "url": "https://open.spotify.com/track/2qU17itEaJatg5saBg4lm2"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
         "name": "El Principe de la Bachata: 16 Exitos",
         "url": "https://open.spotify.com/album/4Sfp3zg7sd8sE9f9A5bHeE"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
+        "name": "Exitos de Luis Vargas",
+        "url": "https://open.spotify.com/album/1s9eT7dhLZqwoqhxhEwGQO"
       },
       "artists": [
         {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 313000,
-      "name": "Solo Sin Ella",
-      "url": "https://open.spotify.com/track/1SEUuVeY2PfXGmr2GKOYVH"
+      "duration_ms": 210680,
+      "name": "Volvi\u00f3 El Dolor",
+      "url": "https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
-        "name": "Loco De Amor",
-        "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/0LBbTfP8nGZgc2sWVaxMpb"
       },
       "artists": [
         {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 252173,
-      "name": "Ceniza fria",
-      "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
+      "duration_ms": 254240,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/1GBbK7hyxKpYGgT8EHKsRI"
     },
     {
       "added_at": "2023-03-17 00:44:12",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-03-17 00:44:12",
       "album": {
+        "name": "Loco De Amor",
+        "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Ceniza fria",
+      "url": "https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc"
+    },
+    {
+      "added_at": "2023-03-17 00:44:12",
+      "album": {
         "name": "Dobletazo",
         "url": "https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 179680,
       "name": "No Le Pare",
       "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
-    },
-    {
-      "added_at": "2023-03-17 00:44:12",
-      "album": {
-        "name": "Dos X Uno",
-        "url": "https://open.spotify.com/album/0LBbTfP8nGZgc2sWVaxMpb"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/1GBbK7hyxKpYGgT8EHKsRI"
     },
     {
       "added_at": "2023-03-17 00:44:12",

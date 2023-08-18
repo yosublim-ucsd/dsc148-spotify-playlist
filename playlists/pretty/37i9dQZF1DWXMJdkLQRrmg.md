@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,211 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,331 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 42 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 43 | [Tuesday's Gone](https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 9:05 |
 | 44 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
-| 45 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \(Live In New York\)](https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy) | 5:17 |
-| 46 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
+| 45 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
+| 46 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \(Live In New York\)](https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy) | 5:17 |
 | 47 | [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 |
 | 48 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 49 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 |
-| 50 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
+| 50 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
 
-Snapshot ID: `MCw2M2I3YTNjYWI3OWE4YjM1YjYxNDFlMzI0ODhlNjk2MWNhZDUzNjY5`
+Snapshot ID: `MCw1YjBmMjk0ZDgwNDUzMDUxNDRhZDE0ZjcxOWM0MGQ1ZjZmNDU5NDBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,383 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,498 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 72 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |
 | 73 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 |
 | 74 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70) | 2:56 |
-| 75 | [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 |
+| 75 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 
-Snapshot ID: `MCxiMjNlNTEyNzFhYWRjMTEyOTAzZTMzNTE0YWEwYjgxMDVmMzBhOGY2`
+Snapshot ID: `MCwyMDNjM2VlYWQ1MTRmMWY4MzliYTg5Yjg4MzkzYjhjOTMxMTI0MjA3`

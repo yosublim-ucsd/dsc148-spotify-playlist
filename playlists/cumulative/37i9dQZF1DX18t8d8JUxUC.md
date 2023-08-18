@@ -4,7 +4,7 @@
 
 > This is what folk sounds like en español\. Cover: Caloncho
 
-83 songs - 5 hr 1 min
+84 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 | 2023-02-24 |  |
 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 | 2023-02-24 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2023-02-24 |  |
-| [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU) | 3:55 | 2023-02-24 |  |
+| [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU) | 3:55 | 2023-02-24 | 2023-08-18 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 |  |
 | [Aquí Todavía](https://open.spotify.com/track/2EQ8d3y7aJVWf1EFv8eUcl) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Aquí Todavía](https://open.spotify.com/album/3nJWIVCpCrQ1f44DkEjwe8) | 2:32 | 2023-07-28 | 2023-07-30 |
 | [Asilo \(feat\. Mon Laferte\)](https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:03 | 2023-02-24 |  |
@@ -44,6 +44,7 @@
 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 | 2023-02-24 |  |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2023-02-24 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2023-02-24 |  |
+| [hasta viejitos](https://open.spotify.com/track/24kcHSP9RuUB9xxk4wq5Tn) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [George Waves](https://open.spotify.com/artist/0yLl8k4ehq6YHgqjTAgf3P) | [hasta viejitos](https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM) | 4:04 | 2023-08-11 |  |
 | [Hermosa Drive](https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:54 | 2023-02-24 |  |
 | [Juegos y Miedos \- Acústico](https://open.spotify.com/track/4TRZk8gb5btbkXbTx3yo7k) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [X Mí \(Vol\. 1\)](https://open.spotify.com/album/6acPZRAg6LmiWEX3FPtmQF) | 6:04 | 2023-05-05 | 2023-07-08 |
 | [La Ola](https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:23 | 2023-02-24 |  |

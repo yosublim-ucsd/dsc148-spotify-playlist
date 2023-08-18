@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,026 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,178 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 25 | [My Girl](https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:55 |
 | 26 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 27 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 |
-| 28 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 |
-| 29 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
+| 28 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
+| 29 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 |
 | 30 | [Jimmy](https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Gee Whiz But This Is a Lonesome Town](https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK) | 4:24 |
 | 31 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
 | 32 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 72 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
 | 73 | [Yard Sale](https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Yard Sale](https://open.spotify.com/album/4j3OwjL2lZAzUcSx1Lpju5) | 4:17 |
 | 74 | [Grace](https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:31 |
-| 75 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
-| 76 | [Words Remain](https://open.spotify.com/track/1AW4amyytwC0JNVmpVngIN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The World Within \(Deluxe\)](https://open.spotify.com/album/4fPZlK0nyB5bOXZdRnihUX) | 3:27 |
+| 75 | [Words Remain](https://open.spotify.com/track/1AW4amyytwC0JNVmpVngIN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The World Within \(Deluxe\)](https://open.spotify.com/album/4fPZlK0nyB5bOXZdRnihUX) | 3:27 |
+| 76 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 77 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
 | 78 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 |
 | 79 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [Fortitude](https://open.spotify.com/track/77o7oAwo5OSbKvPBzvRwYR) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:33 |
 | 100 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 |
 
-Snapshot ID: `MCw3YmJhZDdmMThhOTM2NmM0NDAzZmQzMzhjNjQ3ODA2OGU0N2YyMDMz`
+Snapshot ID: `MCwwNzdkYmM5NjU3MDhhZmU2MTE3MjFmYjlmMzkwNWI3ZmY4ZDI3ZmIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,461 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,546 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 61 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
 | 62 | [Over My Head](https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz) | 2:36 |
 | 63 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 |
-| 64 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 |
+| 64 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 |
 | 65 | [Riot In The Streets](https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Manic Revelations](https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA) | 3:40 |
-| 66 | [It Must Change](https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz) | 4:55 |
-| 67 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 |
+| 66 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 |
+| 67 | [It Must Change](https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz) | 4:55 |
 | 68 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 |
-| 69 | [B\. Santa Ana, 1986](https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 2:34 |
+| 69 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
 | 70 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
-| 71 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
+| 71 | [B\. Santa Ana, 1986](https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 2:34 |
 | 72 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
 | 73 | [Never Been a Captain](https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 4:41 |
 | 74 | [To the Boys](https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [First Flower](https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup) | 3:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Bad Bad Love](https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6) | 3:29 |
 | 90 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 |
 
-Snapshot ID: `MCw0ODVkNTQ3NzYxNjU1NjE4ZjgxODc2ODE0MTYwNDRhMDA3ODEwMjNm`
+Snapshot ID: `MCxlMTJmY2FiOGRmZmEwMDBjZWJkZDMzOWU5MDI1MTQ4MTg4ODIzY2Nh`

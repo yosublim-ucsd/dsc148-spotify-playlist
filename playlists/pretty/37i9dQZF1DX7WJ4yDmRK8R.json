@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Jeff Rosenstock ",
-  "num_followers": 356247,
+  "num_followers": 356351,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmU1M2IxM2MxZmIyM2Q1MjI3YTE4ZWJmMGE3Y2QzMmJmOGExY2E2",
+  "snapshot_id": "MCxjNTY2Y2IyODA2Y2RjN2M3ZDE3ZDI3MzU0NmViMGUxMGViMGZiZWQ0",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Trouble Maker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 143546,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Too Much Pressure",
         "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "A Poets Life",
         "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 196733,
       "name": "Out All Night",
       "url": "https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Let's Do Rock Steady",
-        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
       },
       "artists": [
         {
-          "name": "The Bodysnatchers",
-          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
         }
       ],
-      "duration_ms": 174490,
-      "name": "Let's Do Rock Steady",
-      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 282093,
       "name": "I Don't Love You Anymore",
       "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Let's Do Rock Steady",
+        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
+      },
+      "artists": [
+        {
+          "name": "The Bodysnatchers",
+          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
+        }
+      ],
+      "duration_ms": 174490,
+      "name": "Let's Do Rock Steady",
+      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Me, Myself and Something Else",
-        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
-      },
-      "artists": [
-        {
-          "name": "Call Me Malcolm",
-          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "I Bet They're Asleep In New York",
-      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Me, Myself and Something Else",
+        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
+      },
+      "artists": [
+        {
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "I Bet They're Asleep In New York",
+      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
     },
     {
       "added_at": "2023-07-28 06:00:00",

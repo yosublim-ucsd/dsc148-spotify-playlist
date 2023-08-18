@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,283 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,253 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 42 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
 | 43 | [Twist](https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL) | 3:06 |
 | 44 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 |
-| 45 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
-| 46 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
+| 45 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
+| 46 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
 | 47 | [Redemption](https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Redemption \(From the Apple Original Film “Palmer”\)](https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB) | 4:58 |
 | 48 | [Our Remains \- Acoustic](https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [All Remains](https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw) | 3:47 |
 | 49 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 64 | [Highway Blood](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 |
 | 65 | [The Missing Road](https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Hidden Hollow, Vol\. One \- Singles](https://open.spotify.com/album/5g87k21hmJs58l0iRfUwoq) | 4:08 |
 | 66 | [Only Lonely](https://open.spotify.com/track/7l78lkJwcYBfWk2Lyz5kEc) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:37 |
-| 67 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
-| 68 | [quite alright](https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr) | 5:15 |
+| 67 | [quite alright](https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr) | 5:15 |
+| 68 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 69 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
 | 70 | [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 |
 | 71 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 74 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 5:26 |
 | 75 | [Red And Gold](https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:19 |
 
-Snapshot ID: `MCxhMTdmY2VmZmJmNDYyZmJlNmU5N2M4ZmJkODI0YzJjNGNjNjkwODkx`
+Snapshot ID: `MCw2OTYxODNkYWI4NGEzNDQxMjg2MTEwYTE5Y2Q5MDA2ZGJmNTRkY2E5`

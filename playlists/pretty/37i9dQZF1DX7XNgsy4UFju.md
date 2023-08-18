@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,936 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,945 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 | 100 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 |
 
-Snapshot ID: `MCw5ZGE3ZDg4YTlhY2NkZTk0MjFiZjMyMDVmMzk2N2FjYmEzN2QyYmNh`
+Snapshot ID: `MCw3YTI0MmFmM2JmYzNiMjBiNjM4YzM4Yjc0MTc4OGM5MzNmMTc4OGQy`

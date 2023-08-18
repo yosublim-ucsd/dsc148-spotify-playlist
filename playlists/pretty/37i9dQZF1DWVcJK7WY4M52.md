@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 
 > From the decade that brought us Britney, Spice Girls, Coolio and so many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,762 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,141 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 68 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
 | 69 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
 | 70 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
-| 71 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 |
-| 72 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
+| 71 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
+| 72 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 |
 | 73 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 74 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
 | 75 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 |
-| 76 | [I'll Be There for You \- Theme From "Friends"](https://open.spotify.com/track/15tHagkk8z306XkyOHqiip) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [L.P.](https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N) | 3:08 |
-| 77 | [The Shoop Shoop Song \(It's In His Kiss\)](https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 2:50 |
+| 76 | [The Shoop Shoop Song \(It's In His Kiss\)](https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 2:50 |
+| 77 | [I'll Be There for You \- Theme From "Friends"](https://open.spotify.com/track/15tHagkk8z306XkyOHqiip) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [L.P.](https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N) | 3:08 |
 | 78 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 | 79 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
 | 80 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 99 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 3:46 |
 | 100 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
 
-Snapshot ID: `MCw5OTE3N2NmNDllMTRhZjE0YzE4MThlN2UyZWRmZjk4NTY5YWEwYjBj`
+Snapshot ID: `MCwxMGYxNDEyZjJlMmRmMTI4Y2FhODQ1NzczMmJmZjJjYzU5OTM1ZjIx`

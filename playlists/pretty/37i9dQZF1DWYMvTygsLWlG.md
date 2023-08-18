@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,043,180 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043,569 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 18 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 19 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 |
 | 20 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
-| 21 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
-| 22 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
+| 21 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
+| 22 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 23 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 | 24 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
 | 25 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
@@ -89,17 +89,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 79 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
 | 80 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 81 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 |
-| 82 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
-| 83 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
-| 84 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 |
+| 82 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
+| 83 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 |
+| 84 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
 | 85 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
 | 86 | [\(I Can't Help\) Falling In Love With You](https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Promises And Lies](https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d) | 3:27 |
 | 87 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
 | 88 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 |
-| 89 | [Have You Ever Really Loved A Woman? \- From "Don Juan DeMarco" Soundtrack](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 |
-| 90 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
+| 89 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
+| 90 | [Have You Ever Really Loved A Woman? \- From "Don Juan DeMarco" Soundtrack](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 |
 | 91 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
-| 92 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
+| 92 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
 | 93 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 |
 | 94 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 | 95 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Woman \- Remastered 2010](https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 3:32 |
 | 150 | [You & I \(Nobody in the World\)](https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:12 |
 
-Snapshot ID: `MCxjMjBmZTZiZDA4NGY4ZGFhZGVlNGZjYzViOGNlNmFhYWVlNzRlMjMz`
+Snapshot ID: `MCxiNTEwZmMwZDQzMWFjMjU4ZThjNjkxODViZjQzODFiYjExZjMyMTky`

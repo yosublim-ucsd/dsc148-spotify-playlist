@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 141666,
+  "num_followers": 141706,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWVjMDM1ZGQ5MzQ1ZGQzZjc0ZWMxNTY0ZmVkOGJhYWM5NmUzMjc2",
+  "snapshot_id": "MCwwMTExMDYyNmUzNmFhYWY3ODc5ODA0MjlkMTZhYWMzOWJlZjMzNzE3",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Apollo Sound 5",
         "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 449640,
       "name": "Aparentemente - En Vivo",
       "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Desn\u00fadate",
-        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231363,
-      "name": "Desn\u00fadate",
-      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Greatest Salsa Ever",
         "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+        "name": "Desn\u00fadate",
+        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 420040,
-      "name": "Lo Mio Es Amor - En Vivo",
-      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
+      "duration_ms": 231363,
+      "name": "Desn\u00fadate",
+      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 383040,
       "name": "Loco Pero Feliz",
       "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 420040,
+      "name": "Lo Mio Es Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",

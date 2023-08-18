@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 156320,
+  "num_followers": 156353,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjg3ZmIxNTIxZjZkN2UyNTJhM2JmOWQ4MTQxNmYxOWE1MTJiMTQ2",
+  "snapshot_id": "MCw0OGEwOWM5NjZlNDZjMThiMzVlNzMyNTFlNjYwNjEwYjYxMWUxZTVm",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
-      },
-      "artists": [
-        {
-          "name": "Heitor Vallim",
-          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "La Setenta",
-      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "O Nascimento do Amor",
         "url": "https://open.spotify.com/album/3wNl4jlk8vIxkavJh3qOmz"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 453919,
       "name": "O Nascimento do Amor",
       "url": "https://open.spotify.com/track/3YuUvao3dfmUXlFk0cA87h"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
+      },
+      "artists": [
+        {
+          "name": "Heitor Vallim",
+          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "La Setenta",
+      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Varanda",
-        "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
-      },
-      "artists": [
-        {
-          "name": "Noa Stroeter",
-          "url": "https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg"
-        }
-      ],
-      "duration_ms": 345319,
-      "name": "Varanda",
-      "url": "https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Trio Baru: Dez Anos (Live)",
         "url": "https://open.spotify.com/album/5AzuLOIMaMqp6IKbdJ6CfV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 221354,
       "name": "Ponteio - Live",
       "url": "https://open.spotify.com/track/6WQ5M4CSmlwQPLQ4TQeye1"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Varanda",
+        "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
+      },
+      "artists": [
+        {
+          "name": "Noa Stroeter",
+          "url": "https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg"
+        }
+      ],
+      "duration_ms": 345319,
+      "name": "Varanda",
+      "url": "https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -947,30 +947,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Mirada Pervertida (Bossa Guitar)",
-        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
-      },
-      "artists": [
-        {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
-        },
-        {
-          "name": "Bossasonic",
-          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
-        },
-        {
-          "name": "Taryn Szpilman",
-          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nadie Tiene El Alma Pura",
-      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Palavra Alada 2",
         "url": "https://open.spotify.com/album/3smdnNbcdc4c9QXb5HQDPw"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 259532,
       "name": "Impress\u00f5es",
       "url": "https://open.spotify.com/track/2Sn7WVqrXfyVhpwO2A9GVd"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Mirada Pervertida (Bossa Guitar)",
+        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
+      },
+      "artists": [
+        {
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+        },
+        {
+          "name": "Bossasonic",
+          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
+        },
+        {
+          "name": "Taryn Szpilman",
+          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nadie Tiene El Alma Pura",
+      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Suave (Bossa Samba Jazz)",
+        "url": "https://open.spotify.com/album/1LXUKJfNgHAjUM3TupizDu"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Taryn Spilmann",
+          "url": "https://open.spotify.com/artist/0YScwoDE1C408DEmZngTtp"
+        },
+        {
+          "name": "Moacir Santos",
+          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
+        }
+      ],
+      "duration_ms": 367240,
+      "name": "Quisiera Tenerte a Mi Lado",
+      "url": "https://open.spotify.com/track/0nABj1vTjAHoIQsC2VSmRj"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "\u00c2mbar - os Afluentes da M\u00fasica",
         "url": "https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk"
       },
@@ -1127,30 +1151,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Suave (Bossa Samba Jazz)",
-        "url": "https://open.spotify.com/album/1LXUKJfNgHAjUM3TupizDu"
-      },
-      "artists": [
-        {
-          "name": "Nova Jazzers",
-          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
-        },
-        {
-          "name": "Taryn Spilmann",
-          "url": "https://open.spotify.com/artist/0YScwoDE1C408DEmZngTtp"
-        },
-        {
-          "name": "Moacir Santos",
-          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
-        }
-      ],
-      "duration_ms": 367240,
-      "name": "Quisiera Tenerte a Mi Lado",
-      "url": "https://open.spotify.com/track/0nABj1vTjAHoIQsC2VSmRj"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Chico Macedo 4teto",
         "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
       },
@@ -1163,34 +1163,6 @@
       "duration_ms": 304880,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Afinidades",
-        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
-      },
-      "artists": [
-        {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        },
-        {
-          "name": "Mauricio Einhorn",
-          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
-        },
-        {
-          "name": "Bruno Cardozo",
-          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
-        },
-        {
-          "name": "Cuca Teixeira",
-          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
-        }
-      ],
-      "duration_ms": 343211,
-      "name": "Burlesque",
-      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1227,6 +1199,50 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Afinidades",
+        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
+      },
+      "artists": [
+        {
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
+        },
+        {
+          "name": "Mauricio Einhorn",
+          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
+        },
+        {
+          "name": "Bruno Cardozo",
+          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
+        },
+        {
+          "name": "Cuca Teixeira",
+          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
+        }
+      ],
+      "duration_ms": 343211,
+      "name": "Burlesque",
+      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 289434,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Sinal Dos Tempos - Cain\u00e3 Toca Garoto",
         "url": "https://open.spotify.com/album/2SdgCo1lYhqmP7JdOQ8FGK"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 302417,
       "name": "Lamentos do Morro",
       "url": "https://open.spotify.com/track/6fpRybolHTa4gjcuBbJnAE"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 289434,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
-      },
-      "artists": [
-        {
-          "name": "Edu Sangirardi",
-          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
-        }
-      ],
-      "duration_ms": 271656,
-      "name": "Canto de Aruanda",
-      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Cozinhando Pedra",
         "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 322546,
       "name": "Cozinhando Pedra",
       "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Um",
+        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
+      },
+      "artists": [
+        {
+          "name": "Edu Sangirardi",
+          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
+        }
+      ],
+      "duration_ms": 271656,
+      "name": "Canto de Aruanda",
+      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "MOA",
         "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 259320,
       "name": "Sete Coisas",
       "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1675,6 +1675,30 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Posl\u00fadio",
+        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        },
+        {
+          "name": "Neto de Souza",
+          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
+        },
+        {
+          "name": "Ivan Lopes",
+          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
+        }
+      ],
+      "duration_ms": 451777,
+      "name": "Posl\u00fadio",
+      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Reluzente",
         "url": "https://open.spotify.com/album/0UMAqQoehHKQvNiptLXdO0"
       },
@@ -1703,30 +1727,6 @@
       "duration_ms": 322602,
       "name": "Reluzente",
       "url": "https://open.spotify.com/track/0tGm68QkTE0ridWhHZkQoo"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Posl\u00fadio",
-        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        },
-        {
-          "name": "Neto de Souza",
-          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
-        },
-        {
-          "name": "Ivan Lopes",
-          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
-        }
-      ],
-      "duration_ms": 451777,
-      "name": "Posl\u00fadio",
-      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "\u00a1\u00c1ndale!",
-        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
-      },
-      "artists": [
-        {
-          "name": "the flux trio",
-          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
-        }
-      ],
-      "duration_ms": 202272,
-      "name": "\u00a1\u00c1ndale!",
-      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Epifonia",
         "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
       },
@@ -1931,6 +1915,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "\u00a1\u00c1ndale!",
+        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
+      },
+      "artists": [
+        {
+          "name": "the flux trio",
+          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
+        }
+      ],
+      "duration_ms": 202272,
+      "name": "\u00a1\u00c1ndale!",
+      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Sebastiana",
         "url": "https://open.spotify.com/album/4q56BGQ4tTDObrGGLe5XSU"
       },
@@ -1943,30 +1943,6 @@
       "duration_ms": 374180,
       "name": "Trasantonte",
       "url": "https://open.spotify.com/track/6oi42F70ZZDRpWIJABOD1u"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Rosi",
-        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
-      },
-      "artists": [
-        {
-          "name": "Rubinho Antunes",
-          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
-        },
-        {
-          "name": "Nailor \"Proveta\" Azevedo",
-          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
-        },
-        {
-          "name": "Rosicler Barbosa",
-          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
-        }
-      ],
-      "duration_ms": 239992,
-      "name": "Rosi",
-      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1991,6 +1967,30 @@
       "duration_ms": 576170,
       "name": "Experimento 1",
       "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Rosi",
+        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
+      },
+      "artists": [
+        {
+          "name": "Rubinho Antunes",
+          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
+        },
+        {
+          "name": "Nailor \"Proveta\" Azevedo",
+          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
+        },
+        {
+          "name": "Rosicler Barbosa",
+          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
+        }
+      ],
+      "duration_ms": 239992,
+      "name": "Rosi",
+      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
     },
     {
       "added_at": "2023-07-28 03:01:00",

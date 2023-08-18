@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 532189,
+  "num_followers": 532306,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzEyZWJhZTY1YTFmZjUzM2FlYWNjYzgzODNhYzcwMGE2NzQ3NmE3",
+  "snapshot_id": "MCw4N2NhZGE3Yzc1OTU3OGU5OTZkZWJjZjE4YmZmYTA4YmM0NTE1ZDMw",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 199440,
       "name": "There's Nothing Holdin' Me Back",
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        }
-      ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 155588,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 155588,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 187703,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
       },
@@ -1023,6 +1023,26 @@
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1087,26 +1107,6 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184004,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "SunKissing",
-        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "SunKissing",
-      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 220196,
       "name": "Take My Breath - Single Version",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "SunKissing",
+        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "SunKissing",
+      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pretty Girl Era",
-        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
-      },
-      "artists": [
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Pretty Girl Era",
-      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 189413,
       "name": "Lost The Breakup",
       "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Pretty Girl Era",
+        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era",
+      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
       },
       "artists": [
         {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
         }
       ],
-      "duration_ms": 215734,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "There\u2019s Nothing But Space, Man!",
-        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Put a Light on Me",
-      "url": "https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -3107,6 +3091,22 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "There\u2019s Nothing But Space, Man!",
+        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Put a Light on Me",
+      "url": "https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -3247,6 +3247,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Easy Lover (feat. Big Sean)",
         "url": "https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw"
       },
@@ -3263,22 +3279,6 @@
       "duration_ms": 215937,
       "name": "Easy Lover (feat. Big Sean)",
       "url": "https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "what would you do?",
-        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "what would you do?",
-      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Platform ",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Bahati",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Salome",
+        "url": "https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds"
+      },
+      "artists": [
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237209,
+      "name": "Salome",
+      "url": "https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS"
+    },
+    {
+      "album": {
         "name": "Simuachi",
         "url": "https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC"
       },
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 187062,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC"

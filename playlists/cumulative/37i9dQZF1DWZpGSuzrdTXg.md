@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-123 songs - 7 hr 2 min
+124 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Writer](https://open.spotify.com/track/1MMMOeCempeTI2Ss3d6XDi) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [The Writer](https://open.spotify.com/album/72Pi6GJ3vRijpmBuKGH0z2) | 2:56 | 2022-12-22 |  |
 | [they only talk about the weather](https://open.spotify.com/track/7KgQS17rDK7gjWtOgNL2V1) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [they only talk about the weather](https://open.spotify.com/album/6fAwhVuJzrG19uLkfWopkR) | 2:35 | 2022-12-22 |  |
 | [this song should not exist](https://open.spotify.com/track/24pQ7W3aHv18U0i7qyce1M) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [this song should not exist](https://open.spotify.com/album/5zV1ICSYofEArHOXWX6Cv9) | 2:56 | 2023-05-25 |  |
-| [Those Were The Times](https://open.spotify.com/track/4bmo3t5W9JSZMNYhmm5yhK) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/69X4yVKaGRxvQToqwK0R9N) | 3:01 | 2023-06-01 |  |
+| [Those Were The Times](https://open.spotify.com/track/2vQwvuPDgsxyJyzsg8bKNG) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/0bku58FOu05QQ989yvKWDI) | 3:01 | 2023-07-13 |  |
+| [Those Were The Times](https://open.spotify.com/track/4bmo3t5W9JSZMNYhmm5yhK) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/69X4yVKaGRxvQToqwK0R9N) | 3:01 | 2023-06-01 | 2023-08-18 |
 | [Throw Me a Line](https://open.spotify.com/track/51fMhyYj71hpLnhn3YOij6) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Throw Me a Line](https://open.spotify.com/album/6W6Koawu49kcqmsJHec9xe) | 5:15 | 2022-12-22 |  |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2022-12-22 |  |
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-12-22 | 2023-07-14 |

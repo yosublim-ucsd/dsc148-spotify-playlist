@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-652 songs - 1 day 4 hr 12 min
+655 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 | 2021-12-08 | 2022-04-22 |
 | [Cuchumáchu](https://open.spotify.com/track/6HjfMikPTyxC47XQEbzQjS) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Cuchumáchu](https://open.spotify.com/album/3UAuh9vRAczRziYhNr70J2) | 2:42 | 2022-07-01 | 2022-09-17 |
 | [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2022-06-10 |  |
+| [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 |  |
 | [Cypress Castles](https://open.spotify.com/track/2f7VpoODTaBAeQMeGHqjRI) | [Fathomsong](https://open.spotify.com/artist/3koJbZXIy6hN5sOp9OMZFj) | [Effervescence](https://open.spotify.com/album/508xVNABZUOxcFBfEFeep5) | 2:35 | 2021-12-08 | 2022-05-11 |
 | [Cándida Sonata](https://open.spotify.com/track/4KoaZlljNMxtkFYVI9JRR1) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Cándida Sonata](https://open.spotify.com/album/0TxBfjer0Zm5m8Y8TtCl7V) | 2:46 | 2022-06-24 | 2022-11-18 |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-02-10 |  |
@@ -328,6 +329,7 @@
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 |  |
 | [Left Unsaid](https://open.spotify.com/track/70kfWgQvwouRNgxush5oEv) | [Caro Courbet](https://open.spotify.com/artist/52zVeu3wctCuT0MKNL67hx) | [Left Unsaid](https://open.spotify.com/album/5fKMfqNLcSxp2Ec9Y2v5aL) | 2:11 | 2022-12-16 | 2023-03-25 |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-01 | 2022-10-07 |
+| [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 |  |
 | [Les Yeux Noisette](https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Les Yeux Noisette](https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU) | 2:22 | 2022-11-25 |  |
 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2021-12-08 | 2023-02-11 |
@@ -538,6 +540,7 @@
 | [Someday](https://open.spotify.com/track/40Prhj76wY4JkKWl130prE) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Someday](https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6) | 2:34 | 2022-09-09 |  |
 | [Song for Solomon](https://open.spotify.com/track/65ecJZz4yOi2J0zvnHWCCL) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Song for Solomon](https://open.spotify.com/album/1HGnVzzqfxxIKARTUW1LBb) | 1:53 | 2022-10-28 |  |
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 | 2023-03-10 |
+| [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Southern Wind](https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Southern Wind](https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza) | 3:20 | 2021-12-08 | 2022-11-18 |
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 | 2022-11-18 |

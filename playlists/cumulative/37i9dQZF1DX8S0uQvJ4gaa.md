@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Cody Johnson
 
-1,774 songs - 3 day 23 hr 59 min
+1,775 songs - 4 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,7 +814,8 @@
 | [It's You \(I've Been Looking for\)](https://open.spotify.com/track/3CetlHFPPW1SF9mQB7fKti) | [Lewis Brice](https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0) | [It's You \(I've Been Looking for\)](https://open.spotify.com/album/3g6sIHeHR9MhzRUC8Gfiqf) | 3:06 | 2020-02-08 | 2020-05-23 |
 | [It's Your Loss](https://open.spotify.com/track/33MjadpoADMBIZbPOQ2d7y) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [It's Your Loss](https://open.spotify.com/album/0ypCljDRlPWGrAd6iYjfYN) | 3:03 | 2020-11-07 | 2021-01-30 |
 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 | 2021-03-20 | 2021-09-25 |
-| [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 | 2023-07-14 |  |
+| [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 | 2023-07-14 | 2023-08-18 |
+| [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 | 2023-08-11 |  |
 | [Jack and Diet Coke](https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Jack and Diet Coke](https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5) | 3:13 | 2023-08-11 |  |
 | [Jealous of Myself](https://open.spotify.com/track/75rvf9Hbx1R5NikWybJl9e) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Jealous of Myself](https://open.spotify.com/album/4qTbDUZJukcxWaf120N5i2) | 3:26 | 2022-10-14 | 2023-02-18 |
 | [Jesus & Jeopardy](https://open.spotify.com/track/0NUw88H84B5IT7S07V6X8I) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp) | [Somebody Like Me](https://open.spotify.com/album/26CNGamPj44Wcl7xLyaGKE) | 3:09 | 2020-02-18 | 2020-03-02 |

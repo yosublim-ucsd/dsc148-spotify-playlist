@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,092 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,146 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 24 | [Circle](https://open.spotify.com/track/3ykCBUy37D9J4jHhQid7l1) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 3:10 |
 | 25 | [Melody Noir](https://open.spotify.com/track/1e1a7eAlICks9mch3UVsEH) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 3:14 |
 | 26 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 |
-| 27 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 |
-| 28 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
+| 27 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
+| 28 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 |
 | 29 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
 | 30 | [Tom's Diner](https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 2:09 |
 | 31 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 49 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 50 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
 
-Snapshot ID: `MCw4MGM2NTZiZjg0MmNlNDQ4OGQwMzk3YmM2YWNhY2NiYTBlNzhiODE4`
+Snapshot ID: `MCw2NzMwNGE0MTk4MTdhOThmNzk0ZTVlNDA0OTE4ODY5YTAwNDExYzY0`

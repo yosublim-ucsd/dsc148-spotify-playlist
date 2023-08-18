@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,575 likes - 31 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582 likes - 31 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 14 | [Tir Na Nog \- Remastered 2022](https://open.spotify.com/track/67UBkmqW0KoHc2Ycs49Hdk) | [Steve Rachmad](https://open.spotify.com/artist/4BmzfIGmnyaxu1REssIgPp) | [Tir Na Nog / Divide And Conquer](https://open.spotify.com/album/6zQElFfzbiSWrM1dOUqAnC) | 6:41 |
 | 15 | [Abroad](https://open.spotify.com/track/69KUcRKeRNSM1kZIKbACqE) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [System Theory EP](https://open.spotify.com/album/7JycrMeQMBjDdplu8dAIgh) | 6:16 |
 | 16 | [Nightingale](https://open.spotify.com/track/4Z7nIOhDKL8qx1TX6WT7d9) | [Slone](https://open.spotify.com/artist/4RfPVkSGZn0IMFsvO12Gtx) | [Blessing](https://open.spotify.com/album/6W3HunfzUruvYgWr9dVKrg) | 5:23 |
-| 17 | [Turbulence](https://open.spotify.com/track/273hZiLcekoS5dDMHZn0uM) | [SHDW](https://open.spotify.com/artist/3KovqCnqAuPdKmCoHOn105), [SHDW & Obscure Shape](https://open.spotify.com/artist/3pqHn0bHhBjL0duQ5xesFe) | [Poetic Justice](https://open.spotify.com/album/0vWYICw7Q6EXWMZkKEsAYT) | 4:32 |
+| 17 | [Turbulence](https://open.spotify.com/track/273hZiLcekoS5dDMHZn0uM) | [SHDW](https://open.spotify.com/artist/3KovqCnqAuPdKmCoHOn105), [Obscure Shape](https://open.spotify.com/artist/6RLKERK1S5PKg3dLhzM0ZB) | [Poetic Justice](https://open.spotify.com/album/0vWYICw7Q6EXWMZkKEsAYT) | 4:32 |
 | 18 | [Intensity Fluctuations \- Setaoc Mass remix](https://open.spotify.com/track/3qoAOw79kOIWB9YG65gzzu) | [Ø \[Phase\]](https://open.spotify.com/artist/0mMCjSZUnt7dQBzZdCd2ez), [Setaoc Mass](https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt) | [Intensity Fluctuations RMX](https://open.spotify.com/album/6P2nCtIt27ZhiclaWdg0QQ) | 6:05 |
 | 19 | [Naked \- Original Mix](https://open.spotify.com/track/7bVbG70ehUlqACkVbLzskX) | [Yan Cook](https://open.spotify.com/artist/7b85knFTqgPmQmbUt77rYy) | [XXX LP](https://open.spotify.com/album/1uhYyc9nr76KaTw7BYWIOw) | 5:34 |
 | 20 | [Phase Two](https://open.spotify.com/track/2oOTM8t4YHIHVHhMIVJb8Q) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:34 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 30 | [Tiempo](https://open.spotify.com/track/2EfqSseQX83icThfmXIgfW) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU) | [Transistor](https://open.spotify.com/album/7A3kGOjnV2KExE4fBFc6ne) | 5:00 |
 | 31 | [Contain \(In Key\)](https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Contain \(In Key\)](https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo) | 8:08 |
 
-Snapshot ID: `MCxjNDEwZmVhZGI2Mjk3MThmMTgxM2Y4ZjViOTRlNTQ1NjdjNTVlYTU5`
+Snapshot ID: `MCwzMzVmNjQ0Yzk5NDEzOWE4NTA5OWM5YTg2NDljM2YyMDAxNTg1OTUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,882 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,021 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 14 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
 | 15 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
 | 16 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
-| 17 | [Green Eyes](https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:43 |
-| 18 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 |
+| 17 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 |
+| 18 | [Green Eyes](https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:43 |
 | 19 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 20 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 |
 | 21 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 38 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
 | 39 | [Know How](https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:58 |
 | 40 | [Seven Nation Army](https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Seven Nation Army](https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp) | 2:52 |
-| 41 | [Home](https://open.spotify.com/track/2LFk1O6rkC4qcNFU9eRxWd) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/4B109AhIZ2LMd4dByewMlN) | 4:07 |
-| 42 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
-| 43 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
-| 44 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
-| 45 | [Casimir Pulaski Day](https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:53 |
-| 46 | [Never Ending](https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:22 |
-| 47 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO) | 6:34 |
+| 41 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO) | 6:34 |
+| 42 | [Home](https://open.spotify.com/track/2LFk1O6rkC4qcNFU9eRxWd) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/4B109AhIZ2LMd4dByewMlN) | 4:07 |
+| 43 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 44 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
+| 45 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
+| 46 | [Casimir Pulaski Day](https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:53 |
+| 47 | [Never Ending](https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:22 |
 | 48 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 |
 | 49 | [Ready to Go](https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:07 |
 | 50 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
 | 60 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 |
 
-Snapshot ID: `MCwyZTI0MTczMzYwODFkNDZkY2M3ZGU3NWE3NWZhOWJmZmY3M2MxZTUz`
+Snapshot ID: `MCwzYmZhNjIxMzZiMDVkYmVhMDI5MDRhNDlkNWI1YzQ4MTQyOTZlMGFl`

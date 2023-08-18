@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,416 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,679 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 13 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 14 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 15 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
-| 16 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
-| 17 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 16 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 17 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
 | 18 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 19 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 | 20 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 80 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version / Special Edition\)](https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop) | 3:58 |
 | 81 | [Be My Lover](https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 4:00 |
 | 82 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
-| 83 | [Samba de Janeiro](https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB) | [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba de Janeiro](https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR) | 2:48 |
-| 84 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
+| 83 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
+| 84 | [Samba de Janeiro](https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB) | [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba de Janeiro](https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR) | 2:48 |
 | 85 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
 | 86 | [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 |
 | 87 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 99 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
 | 100 | [California Love \- Original Version](https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
 
-Snapshot ID: `MCw0YTQ1YTgzYjliOWI1ZTZhNDM2ZWRmMmJkN2YyZjRlMGU2NDA0ODc1`
+Snapshot ID: `MCwwZDUyMTdmNzdlNWQyYmQ0ZGM2NjQ3MTA3ZjY4ZWM2N2QzNmQ0Mjc2`

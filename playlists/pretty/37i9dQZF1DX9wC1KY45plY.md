@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 
 > A soundtrack to fuel your good mood while on the road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,612,706 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,616,091 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 35 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
 | 36 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 |
 | 37 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
-| 38 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
-| 39 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
+| 38 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
+| 39 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
 | 40 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 41 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 |
 | 42 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 68 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
 | 69 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 70 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
-| 71 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 72 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 |
+| 71 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 |
+| 72 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 73 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |
 | 74 | [Hurts So Good](https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:38 |
 | 75 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 85 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
 | 86 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
 | 87 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 |
-| 88 | [Runnin' Down A Dream](https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:21 |
-| 89 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
+| 88 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
+| 89 | [Runnin' Down A Dream](https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 4:21 |
 | 90 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
 | 91 | [End Of The Line](https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:29 |
 | 92 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 99 | [Heat Of The Moment](https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 3:47 |
 | 100 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
 
-Snapshot ID: `MCxhNTQyOWVlZWVjNTQ2NWQ2NjAyZWJkNGUzZDVkOWFjZDUwNjgzNjUz`
+Snapshot ID: `MCwzMmFiZDFjNTc2ODI5ZWNlNjQ4MDA5OTI5YWEwZmZkNGM1YjVlMDkw`

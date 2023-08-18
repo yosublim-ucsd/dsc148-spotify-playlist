@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Bebe Rexha & David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,834,653 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,835,259 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 53 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 54 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 |
 | 55 | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/track/0ApadYqa3GRQkJJ3E7pQDJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/6I0ZEVomYGoOk218KaAlJk) | 2:56 |
-| 56 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
+| 56 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 57 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
 | 58 | [Me and My Guitar](https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Me and My Guitar](https://open.spotify.com/album/2aUjskRm4oj02ZUEymdPww) | 2:14 |
 | 59 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 102 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
 | 103 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 
-Snapshot ID: `MCxjMjBmMTdlMjIxMDg0MjMzYzA3Y2RhN2VmODdiNDBkNGQzNzhmZmNk`
+Snapshot ID: `MCwwZGUzODAzN2Y1NzkzOWFhMWIzY2U2ZTlhNmI3MGRkMDYyMGYxNzU1`

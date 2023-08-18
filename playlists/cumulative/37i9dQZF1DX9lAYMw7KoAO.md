@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=S\-TAs2uXSRq79Y2n65rDkg">Moses Bliss</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahTg">Limoblaze</a>
 
-312 songs - 1 day 5 hr 8 min
+313 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-07-28 |  |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-03-11 | 2023-05-05 |
 | [KAZI YA MIKONO YAKO](https://open.spotify.com/track/1nDx1zxdIOAV5FcX1FqFAv) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [ALBUM 17](https://open.spotify.com/album/4WoahTaBd4IJWTWcpW0bNw) | 4:23 | 2023-03-31 | 2023-04-28 |
-| [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-30 |  |
+| [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-30 | 2023-08-18 |
 | [Kontolola](https://open.spotify.com/track/2dYmyML3ddn1hjFMpBVA4o) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU) | [Bwana](https://open.spotify.com/album/7Evf9VZScUSWGooJH5WXiZ) | 4:55 | 2023-03-31 | 2023-05-05 |
 | [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2023-06-23 |  |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-06-23 |  |
@@ -180,6 +180,7 @@
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-02-03 |  |
 | [My Dey](https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [My Dey](https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT) | 2:11 | 2023-06-30 | 2023-07-14 |
 | [My Father My father](https://open.spotify.com/track/2pJc9s2R4zwfexvsAmwq2N) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [My Father My father](https://open.spotify.com/album/5z28zMGx9Hf4dH1uWkzH9Q) | 2:38 | 2023-06-23 | 2023-06-30 |
+| [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 |  |
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 | 2023-02-01 |
 | [Na Your Hand](https://open.spotify.com/track/4of2lvm7dopjHj5NoELI5O) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Na Your Hand](https://open.spotify.com/album/0m1pNqZhVWVwJOWAoWP9mC) | 12:37 | 2023-05-05 | 2023-06-23 |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2023-03-31 | 2023-05-19 |

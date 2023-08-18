@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdK49S1DyoyG.md) - [plain]
 
 > Take the afternoon off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,084 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,221 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdK49S1DyoyG.md) - [plain]
 | 22 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 23 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 24 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
-| 25 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
-| 26 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 25 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 26 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 27 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 28 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
 | 29 | [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdK49S1DyoyG.md) - [plain]
 | 74 | [Can't Fight The Moonlight](https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:35 |
 | 75 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
 
-Snapshot ID: `MCw0MDIzYmY2NzQ4Yjc3MWE5OWQ0OWIxNDRkNWFhYjUyOTllZDQ5Mzgx`
+Snapshot ID: `MCxmMzMxZTE0N2E0OTdlMDFjZWZhMTVhMjJiNDU1MjllZWNjOGZkYmNm`

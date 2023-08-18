@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "A4A4A4",
+        "url": "https://open.spotify.com/album/05IsbXp12zO1BBaR03nC8e"
+      },
+      "artists": [
+        {
+          "name": "\u9375\u3092\u8fd4\u305b",
+          "url": "https://open.spotify.com/artist/5Mzb8gbFXMwiaEwXGYfZqj"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203038,
+      "name": "A4A4A4",
+      "url": "https://open.spotify.com/track/07scOjkDS43SXSMOppTpz7"
+    },
+    {
+      "album": {
         "name": "for you",
         "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
       },
@@ -4869,6 +4887,28 @@
     },
     {
       "album": {
+        "name": "METALI!! (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "METALI!! - feat. Tom Morello",
+      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
+    },
+    {
+      "album": {
         "name": "Strange World",
         "url": "https://open.spotify.com/album/4WmRbMDCsNZhuKIgcyCvvE"
       },
@@ -5576,6 +5616,28 @@
       "duration_ms": 134400,
       "name": "No kidding!",
       "url": "https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK"
+    },
+    {
+      "album": {
+        "name": "No Muse",
+        "url": "https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC"
+      },
+      "artists": [
+        {
+          "name": "AFSHEEN",
+          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
+        },
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135850,
+      "name": "No Muse",
+      "url": "https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk"
     },
     {
       "album": {
@@ -7312,7 +7374,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 271266,
       "name": "So am I",
       "url": "https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II"
@@ -11700,7 +11762,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 253793,
       "name": "\u30af\u30e9\u30b7\u30c3\u30af\u30cf\u30a4",
       "url": "https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9"
@@ -13882,7 +13944,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 152199,
       "name": "\u30e1\u30bf\u30e2\u30eb\u30d5\u30a9\u30fc\u30bc",
       "url": "https://open.spotify.com/track/5WkN8jPH9tvTjRDqYOdufM"
@@ -15492,7 +15554,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 253538,
       "name": "\u56de\u8ee2\u3057\u3066\u304b\u3089\u8003\u3048\u308b",
       "url": "https://open.spotify.com/track/7w69JQtytnNBDltP8LBqgl"
@@ -17451,6 +17513,24 @@
     },
     {
       "album": {
+        "name": "\u6df1\u591c\u306e\u30ec\u30e2\u30f3\u30b5\u30ef\u30fc",
+        "url": "https://open.spotify.com/album/02kHl6CmWawvOYbKcethz0"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30aa\u30f3\u306b\u604b\u3057\u3066",
+          "url": "https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232085,
+      "name": "\u6df1\u591c\u306e\u30ec\u30e2\u30f3\u30b5\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/6ni91Z89zQt3R6K61GwH4L"
+    },
+    {
+      "album": {
         "name": "\u98a8\u306e\u5302\u3044",
         "url": "https://open.spotify.com/album/3I1m16JgYx31j6EJPIbfYO"
       },
@@ -18442,6 +18522,24 @@
       "duration_ms": 255468,
       "name": "\u8001\u4eba\u3068\u6d77",
       "url": "https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u3089\u3058\u3083\u306a\u304d\u3083\u30c0\u30e1\u306b\u306a\u3063\u3066",
+        "url": "https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235837,
+      "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"
     },
     {
       "album": {

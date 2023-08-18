@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,468 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,469 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 27 | [Manzano](https://open.spotify.com/track/3NOf0QLsXrP9Urv50nkA5L) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Manzano](https://open.spotify.com/album/5NwWXF2UL3jwK5WY5aZrdi) | 3:12 |
 | 28 | [bfly](https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:41 |
 | 29 | [Te Fuiste](https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Te Fuiste](https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC) | 3:16 |
-| 30 | [Nanai](https://open.spotify.com/track/5Gl6ibnuMpUU9jiJ6idF7Q) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 4:23 |
-| 31 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
-| 32 | [Me Gustas](https://open.spotify.com/track/0eeVBQ80pEKWMxKIIuwjFc) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 3:23 |
+| 30 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
+| 31 | [Me Gustas](https://open.spotify.com/track/0eeVBQ80pEKWMxKIIuwjFc) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 3:23 |
+| 32 | [Nanai](https://open.spotify.com/track/5Gl6ibnuMpUU9jiJ6idF7Q) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 4:23 |
 | 33 | [Amante](https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:51 |
 | 34 | [Algo Real \- Acústico](https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [No Me Detiene \(Acústico\)](https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs) | 2:28 |
 | 35 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz`
+Snapshot ID: `MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0`

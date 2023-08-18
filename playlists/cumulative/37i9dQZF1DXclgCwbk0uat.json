@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Quevedo.",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Jere Klein & Nicki Nicole.",
   "name": "\u00c9xitos Chile",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -1403,6 +1403,48 @@
     },
     {
       "album": {
+        "name": "Ese Corte (Remix)",
+        "url": "https://open.spotify.com/album/1uMmDZYSh4YBI8nk1uw5ZR"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Alexio",
+          "url": "https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411960,
+      "name": "Ese Corte - Remix",
+      "url": "https://open.spotify.com/track/7vuo2dgIMzZWejlFk9avrl"
+    },
+    {
+      "album": {
         "name": "ESE CULITO",
         "url": "https://open.spotify.com/album/04s8SgqUuaEBdElV1XwZxh"
       },
@@ -2596,7 +2638,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
@@ -2784,6 +2826,24 @@
       "duration_ms": 157793,
       "name": "Mi Bruja",
       "url": "https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
     },
     {
       "album": {
@@ -3776,7 +3836,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
@@ -4094,6 +4154,28 @@
       "duration_ms": 186096,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
     },
     {
       "album": {
@@ -5284,7 +5366,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
@@ -5576,6 +5658,28 @@
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "album": {
+        "name": "X ESO BB",
+        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193835,
+      "name": "X ESO BB",
+      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
     },
     {
       "album": {

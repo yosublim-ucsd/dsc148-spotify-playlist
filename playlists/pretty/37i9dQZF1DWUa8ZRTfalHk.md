@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,054,791 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,055,766 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 84 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 |
 | 85 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 
-Snapshot ID: `MCw3OTVjMGI1NGU5MzZlMjc1ZDljYTNiZDVlNjgyOTE5ZGRmOGE5OWY2`
+Snapshot ID: `MCw1OTI3ZmIwODNmNmY5NDg3ODgzZDMxYjNjMzNmZjNiOTJjY2Y2YWUz`

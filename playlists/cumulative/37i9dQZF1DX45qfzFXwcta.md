@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-105 songs - 5 hr 28 min
+106 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Drugs \- Instrumental](https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:19 | 2022-07-22 |  |
 | [DTFT \(Instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Yancey Boys \(Instrumentals\) Produced By Jay Dee Aka J Dilla](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:24 | 2023-06-15 |  |
 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 | 2022-07-22 |  |
+| [East Ward](https://open.spotify.com/track/4PMUz5gEkv4XphJ5lyDLE9) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [East Ward](https://open.spotify.com/album/04XhdiFJeyqFD3804vPDlf) | 3:00 | 2023-08-17 |  |
 | [Feel Me Flow \- Original Instrumental](https://open.spotify.com/track/5JXds2GdDVL603R6yqGmD9) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Feel Me Flow/Hang Out and Hustle](https://open.spotify.com/album/4zPfTvVB9wEfNlPITAsI8d) | 3:35 | 2022-07-22 |  |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2022-07-22 |  |
 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 | 2022-07-22 |  |

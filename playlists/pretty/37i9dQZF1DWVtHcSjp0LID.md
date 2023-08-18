@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,178 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,215 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 24 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 |
 | 25 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
 | 26 | [Perfect in a Way \- Ben Böhmer Remix](https://open.spotify.com/track/0G57FO3IP8Q6TTLiAMRLuc) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Kaktus Einarsson](https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Perfect in a Way \(Remixes\)](https://open.spotify.com/album/17doTJCIOkuz5LzMRioJvA) | 6:23 |
-| 27 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
-| 28 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |
+| 27 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |
+| 28 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
 | 29 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
 | 30 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
 | 31 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Nights](https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 5:44 |
 | 50 | [Occasional Magic \- Ulrich Schnauss Remix](https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Occasional Magic Remixes EP](https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n) | 5:30 |
 
-Snapshot ID: `MCwzNGMxNGE5OWQ0MjAyMGFlMmI0Y2U2YjZkZmJhYjMwNDlhZTZkOGQ5`
+Snapshot ID: `MCw3MDViODBiYTMxMzQzZWQ0NGYzMDkwZmFkNjU3MDBjZDI5ZDBkZWMw`

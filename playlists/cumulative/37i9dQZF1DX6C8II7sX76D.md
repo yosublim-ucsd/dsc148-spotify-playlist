@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-177 songs - 9 hr 39 min
+178 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 | 2022-10-11 |  |
 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 | 2022-03-05 | 2022-07-29 |
 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 | 2022-12-16 | 2023-02-11 |
-| [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 | 2023-04-25 |  |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-14 |  |
+| [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 | 2023-04-25 | 2023-08-18 |
 | [Pump](https://open.spotify.com/track/0N98QCESfFA46B7a6TTZKq) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Pump](https://open.spotify.com/album/108kdS4tGQLkHz2PHUMpN9) | 3:03 | 2021-12-03 | 2022-04-21 |
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-25 | 2023-06-28 |
 | [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-25 | 2022-07-29 |

@@ -8678,7 +8678,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -9125,6 +9125,24 @@
     },
     {
       "album": {
+        "name": "Gelato | Makarena Freestyle",
+        "url": "https://open.spotify.com/album/3DbluwO43NnzLLbVf2rj6M"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/5J8YMg4sdC4aRHjhumCrdc"
+    },
+    {
+      "album": {
         "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
         "url": "https://open.spotify.com/album/0vklKK8tv39Onnd9DnZlUt"
       },
@@ -9542,7 +9560,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
@@ -14052,7 +14070,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
@@ -14772,6 +14790,24 @@
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+    },
+    {
+      "album": {
+        "name": "Gelato | Makarena Freestyle",
+        "url": "https://open.spotify.com/album/3DbluwO43NnzLLbVf2rj6M"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208855,
+      "name": "Makarena Freestyle",
+      "url": "https://open.spotify.com/track/4k25c2gUCeVKvI9PDmqRrA"
     },
     {
       "album": {
@@ -15568,7 +15604,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 145920,
       "name": "Miasto",
       "url": "https://open.spotify.com/track/1j9Il4QzCLFJkiVisyGXYP"
@@ -17692,7 +17728,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 160481,
       "name": "Niech m\u00f3wi\u0105",
       "url": "https://open.spotify.com/track/40qD9qMnp7tmYJeNfncjiv"
@@ -19168,6 +19204,24 @@
       "duration_ms": 152571,
       "name": "Paczkomat",
       "url": "https://open.spotify.com/track/31byH0Nubza0y5CBqf7cZD"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "album": {
@@ -23760,7 +23814,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 117809,
       "name": "Speed Drive (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
@@ -27048,7 +27102,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 137999,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"

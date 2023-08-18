@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,508 likes - 60 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,294,257 likes - 60 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [I Want to See](https://open.spotify.com/track/6sA8RRNRRZ5Ok1510vWNTy) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [I Want to See](https://open.spotify.com/album/2kDJQphOzcayDoL4Ot1Dcg) | 4:05 |
 | 60 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 |
 
-Snapshot ID: `MCxkYTQ2OGUyYWQzOWQ0NzNhMjlmMzMzMWIwYjhjYTA1NWU3YjgzN2I4`
+Snapshot ID: `MCxkNmJjZDhhOWE1NWFjZjZkMzI1YmU4ODg2ODNjNzQxMDM3MzE1ZWE3`

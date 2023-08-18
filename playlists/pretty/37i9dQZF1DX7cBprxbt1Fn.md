@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cBprxbt1Fn.md) - [plain]
 
 > Gentle, relaxing classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,278 likes - 68 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,343 likes - 68 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cBprxbt1Fn.md) - [plain]
 | 5 | [Kinderszenen, Op\. 15: No\. 7, Träumerei](https://open.spotify.com/track/2KdY6MVuZMwlqtW2JUdD4O) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Zhu Xiao\-Mei](https://open.spotify.com/artist/7FYbeZiCZ6pRTx2fAbBW0H) | [R\. Schumann: Davidsbündlertänze, Op\. 6 & Kinderszenen, Op\. 15](https://open.spotify.com/album/6g6wxBGqm4GgJqYLZfZA24) | 2:27 |
 | 6 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/518hKWxnCK1L1fsYRl0OB5) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/59gnfcIkUBrYpXwsN5YWax) | 2:56 |
 | 7 | [Chants du Rhin, WD 52: Les rêves](https://open.spotify.com/track/0Kubohno5e03J30wNFg4B2) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Nathanaël Gouin](https://open.spotify.com/artist/6ycB2zc7NqE59KlP0WQCBl) | [Bizet sans Paroles](https://open.spotify.com/album/0UbRmtk4reK9XEzz1yk2P4) | 3:44 |
-| 8 | [Einaudi: Due Tramonti](https://open.spotify.com/track/3piSeZsUx79vyAJYMpODvy) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Marco Decimo](https://open.spotify.com/artist/11IgISNFApjwaLP6Y64tEz) | [Eden Roc](https://open.spotify.com/album/5jRyFJtnadQ4XkSwL8mUzM) | 4:52 |
+| 8 | [Due Tramonti](https://open.spotify.com/track/3piSeZsUx79vyAJYMpODvy) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Marco Decimo](https://open.spotify.com/artist/11IgISNFApjwaLP6Y64tEz) | [Eden Roc](https://open.spotify.com/album/5jRyFJtnadQ4XkSwL8mUzM) | 4:52 |
 | 9 | [Danses pour Harpe Chromatique: Danse profane](https://open.spotify.com/track/3XFzPxjP3KCHVG09I9xVEs) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Claire Jones](https://open.spotify.com/artist/1OO7rShikX2F9hlqObGsVI), [Paul Watkins](https://open.spotify.com/artist/7qE0skIc5hRIkJ5nyZe0t0), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Harp Concertos](https://open.spotify.com/album/3vATlxJ2q64ILzEOyQyVuC) | 5:09 |
 | 10 | [Piano Concerto in G Major, M\. 83: II\. Adagio assai](https://open.spotify.com/track/07fTgAFMroX0YMLFCxnS1r) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [Lionel Bringuier](https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB) | [Ravel](https://open.spotify.com/album/7whP0NhvOkitAntffyJHeL) | 8:19 |
 | 11 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cBprxbt1Fn.md) - [plain]
 | 67 | [Serenade In G Major "Eine Kleine Nachtmusik", K\. 525: II\. Romance \(Andante\)](https://open.spotify.com/track/180I6VEpaQwoyAvmDCid5D) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [The English Concert](https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA), [Andrew Manze](https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr) | [Mozart: Night Music \- Serenades Nos\. 6 & 13; A Musical Joke; Adagio & Fugue](https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT) | 5:39 |
 | 68 | [French Overture in B Minor, BWV 831: V\. Sarabande](https://open.spotify.com/track/2fteBRbyEj2Lo7Lr17xXgu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach: French Suite No\. 5; Overture in the French Style](https://open.spotify.com/album/1H3jcrrQmIbc8QNJBZwr2A) | 4:03 |
 
-Snapshot ID: `MCw4NTA2YWE3ZDA4MzFmMDIyZWYxNmUzZTQ0OGVjMzNmNWRlOWQzMTky`
+Snapshot ID: `MCxjNWIzMjM3MWE1OTc2OTYwMjA0YjZlNmU1YzczNWQ3NjU3MmY5YTlh`

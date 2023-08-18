@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 174891,
       "name": "Dordogne Peace",
       "url": "https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv"
@@ -5880,6 +5880,24 @@
       "duration_ms": 143229,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c"
+    },
+    {
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe"
+      },
+      "artists": [
+        {
+          "name": "Cecile Roy",
+          "url": "https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139924,
+      "name": "Lost Frequencies",
+      "url": "https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,942 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,082 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 46 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 |
 | 47 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
 | 48 | [Black Rum](https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Cake Pop 2](https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8) | 2:26 |
-| 49 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
-| 50 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
+| 49 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
+| 50 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
 | 51 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
 | 52 | [Drama](https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 2:00 |
 | 53 | [detest me](https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [detest me](https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV) | 1:58 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 70 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
 | 71 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
 | 72 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
-| 73 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
-| 74 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
+| 73 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
+| 74 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
 | 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 
-Snapshot ID: `MCxjZGM3NTE0NGViOTVhNDFjNzZiMjMxOTNiZmYxMGE4M2IxOGRjZDZh`
+Snapshot ID: `MCxkZjVhYjgwYzA2NzZkYjgwODY2OWNlMTJjNTAzMGVhYjcxYjc1MTJj`

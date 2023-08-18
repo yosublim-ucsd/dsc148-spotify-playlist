@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の夏に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,746 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,765 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 49 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 |
 | 50 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
 
-Snapshot ID: `MCxlNDU1Nzg3MTBmOTdjYzMyMDM2MmI5MWRmNDkwNzZhNjEyZGYwY2Nh`
+Snapshot ID: `MCwxNDYxZDY4MzQ5NzIyN2MzMzFiYzhkYjdlZmFmYzI4ZmE2OWExMTBh`

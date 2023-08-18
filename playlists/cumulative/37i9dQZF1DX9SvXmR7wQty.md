@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Evelyne Brochu
 
-1,980 songs - 4 day 9 hr 45 min
+1,981 songs - 4 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1845,7 +1845,7 @@
 | [Un autre hiver](https://open.spotify.com/track/6eLjr4UAIHYZvhBgjPlZ3L) | [Vice du Nord](https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm) | [Un autre hiver](https://open.spotify.com/album/146JbylMbF5nxNfrbWMVwu) | 3:21 | 2022-11-25 | 2022-12-17 |
 | [Un Bum](https://open.spotify.com/track/5V3yBZFCTUqeNkOoSar5gk) | [Thomas Argouin](https://open.spotify.com/artist/2YuO1O9h5zMxswHlFvs7b6) | [Un Bum](https://open.spotify.com/album/4pyfgT2L93E6dgNA36iHcz) | 4:19 | 2023-02-03 | 2023-02-18 |
 | [Un coup de génie](https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Un coup de génie](https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte) | 3:12 | 2022-02-04 | 2022-02-19 |
-| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 |  |
+| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-08-18 |
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-05-28 |
 | [Un jour ou l'autre](https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul) | [Pete](https://open.spotify.com/artist/40gbkGuMLWOxH0oGvH3MXk), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Un jour ou l'autre](https://open.spotify.com/album/2F6noOdaLKnBxtl78geaLW) | 3:02 | 2022-05-13 | 2022-05-28 |
 | [Un kid](https://open.spotify.com/track/2E1FCN9N6vNFejyksglQnZ) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Un kid](https://open.spotify.com/album/31rtUB4ct0i4tXJV0w6gPp) | 2:53 | 2022-11-18 | 2022-12-03 |
@@ -1950,6 +1950,7 @@
 | [À chaque année](https://open.spotify.com/track/7zOwCS6sB2VBuVmqDc9fUW) | [DAMES](https://open.spotify.com/artist/4OjnRMDyTYp17cyJlvnEpK) | [À chaque année](https://open.spotify.com/album/13Dl3AFvV7hA1IW9m3bAqa) | 3:08 | 2021-12-31 | 2022-01-22 |
 | [À chaque soir](https://open.spotify.com/track/3l1AwcGv2neIDou7n0rQXm) | [Sarah Cochrane](https://open.spotify.com/artist/6eSj4fjvUDJVX5L5vgqWJH) | [À chaque soir](https://open.spotify.com/album/1MaGx4asCVL7eErpYVbVVv) | 3:12 | 2022-04-08 | 2022-04-16 |
 | [À contresens](https://open.spotify.com/track/0T65sssvGaR9gnpEDiXAWV) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [À contresens](https://open.spotify.com/album/1D7JpG3f024RutOzgJEPSh) | 2:35 | 2023-06-02 | 2023-06-10 |
+| [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 | 2023-08-11 |  |
 | [À hauteur d'homme \- Live](https://open.spotify.com/track/4cdpUgva88X0YhKQo7nfu1) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [L'entends\-tu encore, Vallières? \(le spectacle intégral / Live\)](https://open.spotify.com/album/6xPHbBQOt3OHsJCYdEwHYn) | 3:50 | 2022-11-11 | 2022-11-26 |
 | [À l'aube](https://open.spotify.com/track/6TCqAnjf9GpTIeGIthLZg0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [À l'aube](https://open.spotify.com/album/6tNyzj2OVtD3W4rVoNFA0I) | 3:03 | 2022-05-13 | 2022-05-20 |
 | [À la danse](https://open.spotify.com/track/5hv4VnqMXXi4xD1dfOfigp) | [Émilie Landry](https://open.spotify.com/artist/09wVe7ulMAlyVMZpKEI5ar) | [À la danse](https://open.spotify.com/album/7AMrml4ZxzpDudV4IDEiis) | 3:26 | 2022-07-01 | 2022-07-16 |

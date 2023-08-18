@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 131863,
+  "num_followers": 131988,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWQ2M2VjMDZlMjE0MDkwMjE0MTM0YzhjMDQyNDlmMjkzZTU0MjJj",
+  "snapshot_id": "MCwwODQwOTQxYTY3OWM5NWE5ZDMwZDE3NGFkODU2Y2U3NzZhODg1ODNi",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
       },
       "artists": [
         {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+          "name": "House of Heroes",
+          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
         }
       ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+      "duration_ms": 200176,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Future Golden Age",
         "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 201240,
       "name": "Radio (NW Hesh)",
       "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
-      },
-      "artists": [
-        {
-          "name": "House of Heroes",
-          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
-      },
-      "artists": [
-        {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 199252,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 233906,
       "name": "Way You Love Me",
       "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        }
+      ],
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 258888,
       "name": "Angels vs Demons",
       "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
+      },
+      "artists": [
+        {
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
+        }
+      ],
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+        "name": "Rhema",
+        "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
       },
       "artists": [
         {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
         }
       ],
-      "duration_ms": 211906,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+      "duration_ms": 209128,
+      "name": "No Altars",
+      "url": "https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1563,6 +1563,22 @@
       "duration_ms": 253740,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1611,22 +1627,6 @@
       "duration_ms": 340000,
       "name": "Blood of the Son",
       "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Rhema",
-        "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "No Altars",
-      "url": "https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA"
     },
     {
       "added_at": "2023-08-04 12:11:34",

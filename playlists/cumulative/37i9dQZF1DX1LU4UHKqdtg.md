@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: STAYC
 
-698 songs - 1 day 14 hr 10 min
+699 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-06-15 |  |
 | [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-24 | 2023-06-30 |
 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 | 2022-07-28 | 2023-07-14 |
-| [Break Out](https://open.spotify.com/track/4i1A3pykqeJbZwLmIeVOFw) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Break Out](https://open.spotify.com/album/3LfNFWSbFEGYYO5DmuzHgW) | 3:07 | 2023-08-16 |  |
+| [Break Out](https://open.spotify.com/track/4i1A3pykqeJbZwLmIeVOFw) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Break Out](https://open.spotify.com/album/3LfNFWSbFEGYYO5DmuzHgW) | 3:07 | 2023-08-16 | 2023-08-18 |
+| [Break Out](https://open.spotify.com/track/4tfF89sZMaHPathB908W67) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [ポラリス](https://open.spotify.com/album/5J5odxYlO6OBDmN6bzeb3Y) | 3:07 | 2023-08-16 |  |
 | [BREATHE \-Japanese ver.\-](https://open.spotify.com/track/5vEvuoTTx7EAzO8X038yiq) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [ABSOLUTE 6IX](https://open.spotify.com/album/0aZqbkETzxarYTcSqg3kP3) | 3:40 | 2021-12-23 | 2022-01-14 |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-19 | 2023-07-21 |
 | [Broken Melodies](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:46 | 2023-07-20 |  |

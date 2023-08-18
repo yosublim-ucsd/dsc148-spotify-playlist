@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 165121,
       "name": "Christian lou",
       "url": "https://open.spotify.com/track/5kuVXm0eq1L0ZYQVD6pSUi"
@@ -11174,7 +11174,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 164118,
       "name": "I Believe (feat. Peruzzi)",
       "url": "https://open.spotify.com/track/4kzAGCScarLclDeZbaR9jE"
@@ -18344,6 +18344,24 @@
       "duration_ms": 188454,
       "name": "P.M.D",
       "url": "https://open.spotify.com/track/1a8xKXwgcbXpO8hYtXUs7h"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "album": {
@@ -28514,7 +28532,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 147530,
       "name": "\u00deorparinn",
       "url": "https://open.spotify.com/track/7b52kRhGxENOtAK08Zz87M"

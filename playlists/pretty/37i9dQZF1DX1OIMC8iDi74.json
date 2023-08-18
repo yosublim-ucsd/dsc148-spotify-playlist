@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 889807,
+  "num_followers": 889923,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzM0YjcwYWVkZjRjZWJlMGQzZTZjNmY1NGZiMTY2MjZmY2FmOWI0",
+  "snapshot_id": "MCw2Njg0MmNiNDEzOGYwNjA3ZDNlNDlmMTBiYjJjNjg3MDUwNTEzNjcy",
   "tracks": [
     {
       "added_at": "2023-08-11 13:35:31",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
+    },
+    {
+      "added_at": "2023-08-11 13:35:31",
+      "album": {
         "name": "Dark Night Sweet Light",
         "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 184273,
       "name": "Us",
       "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
-    },
-    {
-      "added_at": "2023-08-11 13:35:31",
-      "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
-    },
-    {
-      "added_at": "2023-08-11 13:35:31",
-      "album": {
         "name": "Tanglewood",
         "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 158961,
       "name": "Spanish Moss",
       "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+    },
+    {
+      "added_at": "2023-08-11 13:35:31",
+      "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
-    },
-    {
-      "added_at": "2023-08-11 13:35:31",
-      "album": {
         "name": "Rail Breaker (feat. Rico Act)",
         "url": "https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 225116,
       "name": "Rail Breaker (feat. Rico Act)",
       "url": "https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m"
+    },
+    {
+      "added_at": "2023-08-11 13:35:31",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
+        "name": "Zurna",
+        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Zurna",
+      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
+    },
+    {
+      "added_at": "2023-08-11 13:35:31",
+      "album": {
         "name": "Animal Vegetable Mineral Pt. 1",
         "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 229850,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
-    },
-    {
-      "added_at": "2023-08-11 13:35:31",
-      "album": {
-        "name": "Zurna",
-        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Zurna",
-      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
       },
       "artists": [
         {
@@ -1696,13 +1696,13 @@
           "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
         },
         {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+          "name": "Nessly",
+          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+      "duration_ms": 136615,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/2PzotD3c1kEvk1xxGrvPj4"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -1891,8 +1891,8 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
-        "name": "Back Again",
-        "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
       },
       "artists": [
         {
@@ -1900,13 +1900,13 @@
           "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
         },
         {
-          "name": "Nessly",
-          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Back Again",
-      "url": "https://open.spotify.com/track/2PzotD3c1kEvk1xxGrvPj4"
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2023-08-11 13:35:31",

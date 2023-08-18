@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-279 songs - 15 hr 43 min
+280 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 | 2022-04-12 |  |
 | [Bye bye my blue](https://open.spotify.com/track/06YoKAJrWxQkEEbjk5nat0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/34axgsjYgLBdKFZa1QreLp) | 3:23 | 2022-04-12 | 2022-07-29 |
 | [Bye bye my blue](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) | 3:23 | 2022-07-22 | 2023-08-06 |
+| [Bye Bye My Blue](https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye Bye My Blue](https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU) | 3:23 | 2023-07-31 |  |
 | [CAFFEINE 카페인](https://open.spotify.com/track/4UZAx9TdNHOSqMgLHsYpPx) | [CHOI\-MINJEONG 최민정](https://open.spotify.com/artist/0GauNnrEyiBO4TkCOJTbXD) | [CAFFEINE 카페인](https://open.spotify.com/album/2fZsUJXYNldnr10BeofZ7b) | 3:32 | 2022-04-12 | 2022-04-22 |
 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 | 2022-04-12 |  |
 | [Can you stay](https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [Can you stay \(From Semantic Error\)](https://open.spotify.com/album/2RBkeoL7bQvL2Ty0p0Uvhq) | 3:02 | 2022-04-12 | 2022-08-17 |
@@ -244,7 +245,7 @@
 | [To](https://open.spotify.com/track/1U4iZNR4mFlT4J7rfV85kq) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Ex](https://open.spotify.com/album/7LitfehzSpzc7YnYB4IzFx) | 2:53 | 2022-05-03 | 2022-05-12 |
 | [To be honest](https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [To be honest](https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74) | 3:10 | 2023-01-26 | 2023-02-15 |
 | [Touch Me Softly \(Feat\. Chohye, Jin\)](https://open.spotify.com/track/0NG4R1s89O8xlNTYJN42Ia) | [Stone Tiger](https://open.spotify.com/artist/69iwIYysHQ6tp9aa3Dpp38), [Chohye](https://open.spotify.com/artist/1ZcolE1oMWgDaomI8Og7YY), [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [Touch Me Softly \(Feat\. Chohye, Jin\)](https://open.spotify.com/album/3rdG6MmWgycIsTZ1icPxiA) | 4:00 | 2022-05-03 | 2022-07-22 |
-| [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 | 2022-04-12 |  |
+| [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 | 2022-04-12 | 2023-08-18 |
 | [u & i verse \(feat\. Jade\)](https://open.spotify.com/track/6dwIoyRFMSlnYs6NOtNmGz) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [u & i verse \(feat\. Jade\)](https://open.spotify.com/album/4QzEg7TjlH23dz5r7Psjm9) | 3:00 | 2022-04-21 | 2022-07-01 |
 | [U Hoo](https://open.spotify.com/track/5ld03oA3vIf6fPzPRHg5Gv) | [Shimgaeul](https://open.spotify.com/artist/7k6MvThCgQovANUKxMgtx4) | [U Hoo](https://open.spotify.com/album/2dNczNbMhBdSM1cldYekhX) | 3:27 | 2022-05-11 | 2022-06-10 |
 | [UH\-RA? \(feat\. dress\)](https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [UH\-RA? with KozyPop](https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib) | 3:37 | 2022-08-12 | 2022-09-06 |

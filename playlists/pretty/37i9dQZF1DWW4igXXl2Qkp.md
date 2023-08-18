@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:3yQMCDmPQPJlf6xJMzcnZL">Chow Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,049 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,122 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 14 | [Even Angels Cry](https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO) | [PETROS](https://open.spotify.com/artist/2kRc6Pdf9Jt1fJgrAysiOm) | [Even Angels Cry](https://open.spotify.com/album/1enh91yqFweTpPqDUP7I1g) | 1:58 |
 | 15 | [Like I thought](https://open.spotify.com/track/7I5r6GgSOT6EuWfIEMdVmp) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Like I thought](https://open.spotify.com/album/0GAUK3frr51WqLjhlb7O8H) | 2:45 |
 | 16 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 |
-| 17 | [C'mon](https://open.spotify.com/track/4zZEI1gBrPWpdYrPZWJHDM) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SJR](https://open.spotify.com/artist/2RRjr5GZ4WbrXcz9ySV4gY), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [YUHEAME](https://open.spotify.com/album/4uyOCYd8FfdEmpEecnmtVr) | 2:15 |
+| 17 | [C'mon](https://open.spotify.com/track/4zZEI1gBrPWpdYrPZWJHDM) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SJR](https://open.spotify.com/artist/2tWnD09f8jnLMtZuRRwerT), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [YUHEAME](https://open.spotify.com/album/4uyOCYd8FfdEmpEecnmtVr) | 2:15 |
 | 18 | [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 |
 | 19 | [Time Lost](https://open.spotify.com/track/4nEW595LAMPzRpkEJaDtDh) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Time Lost](https://open.spotify.com/album/1oDjaZuzYA2AR2UBeUYzlu) | 2:41 |
 | 20 | [Kick The Cup](https://open.spotify.com/track/7DCCPxnYlgJ4ygq0WkkmGJ) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [The Tale Of King Hendrix](https://open.spotify.com/album/77rPPDgoLg6lcdz6BiZKS0) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Dark Hunter](https://open.spotify.com/track/0xh0B9clrDt0gzmG4OpHsm) | [Gem Ceasar](https://open.spotify.com/artist/2Txm3BfqwwkWXBQBUqPGTd) | [Dark Hunter](https://open.spotify.com/album/1LSZ8hWTjtxjAJlrHqywhF) | 3:05 |
 | 75 | [Stones](https://open.spotify.com/track/2TmcoeozCAFmtIK1LWAqNt) | [Shame Gang](https://open.spotify.com/artist/3lERpk1kWnCnrau3vcC8MA), [Sonny Miles](https://open.spotify.com/artist/5H9W2VTCkxdGYTgkTbZM6J) | [Better Late Than Never](https://open.spotify.com/album/03G2w5Yq1wbXkRslJutzYB) | 3:45 |
 
-Snapshot ID: `MCw4Y2Y4ZWU5Y2RmZDcyZWM0MjMwNjMyNmE1N2IyZWRhYjBlNDJkNTZl`
+Snapshot ID: `MCxhMjgxZTczYjIyNTUzMTZiZmQyOGY5MDBjYzVjNGY3OWI2ODVmNjM2`

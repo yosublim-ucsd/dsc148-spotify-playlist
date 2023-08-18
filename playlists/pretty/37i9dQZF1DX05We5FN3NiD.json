@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 40119,
+  "num_followers": 40143,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE0ZGYwZjUyODRjYmVhNWE1ODhmOTdlYWU2NGFiMWYxNTBjMDNm",
+  "snapshot_id": "MCxiODRhODJmNDIyN2UwZTRhNWQzMjJlMjRhZDYzMTgyYWIwMjg2NDYy",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 137600,
       "name": "Sunflower (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG"
     },
     {
       "added_at": "2022-09-16 04:53:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=b34de8f3be7a4d91">Hillsong en Español</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,395 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,644 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 2 | [no te vas](https://open.spotify.com/track/3VWi1zSgfa9eVD68tWkypw) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [no te vas](https://open.spotify.com/album/0jMHTKEmiLGXQPT36OnSNi) | 4:25 |
 | 3 | [Hay Un Nombre](https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu Iglesia](https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP) | 4:58 |
 | 4 | [Algo Nuevo](https://open.spotify.com/track/2hTjF2hls2VmPYbwvfCPAh) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Algo Nuevo](https://open.spotify.com/album/06PGzCviaItn974P5DtCiT) | 5:33 |
-| 5 | [Aleluya \(Gloria al Rey\) \- Live](https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Armando Sanchez](https://open.spotify.com/artist/7q7TQRaFKtXF11dDH90IzI), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Aleluya \(Gloria al Rey\) \[Live\]](https://open.spotify.com/album/1dWPC7jkHgkohBmPz3zwZm) | 5:57 |
+| 5 | [Aleluya \(Gloria al Rey\) \- Live](https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Aleluya \(Gloria al Rey\) \[Live\]](https://open.spotify.com/album/1dWPC7jkHgkohBmPz3zwZm) | 5:57 |
 | 6 | [Sí a la Vida](https://open.spotify.com/track/2z6VjaBUXUUSEbF6YJhwLL) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Daliza Cont](https://open.spotify.com/artist/6Yl8liObROzQbjW7orGmdS) | [Maverick](https://open.spotify.com/album/2pksgG7EddFk0Gvl2S3PsH) | 4:11 |
 | 7 | [Gracias por la cruz](https://open.spotify.com/track/3dRCPJAPgupBQcotTgh2WU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No yo, sino Cristo](https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe) | 5:06 |
 | 8 | [Venga Tu Reino](https://open.spotify.com/track/3MoTudMnu8aolGYdvCb9Um) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Venga Tu Reino](https://open.spotify.com/album/6n8Uwc60deZ6nv6MAAQ45G) | 4:14 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 88 | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/track/6rX9TQKXlw09RqewRHLSCG) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj) | [Buscando una Señal \(Reimagined\)](https://open.spotify.com/album/4h3p0gYx5Ti6VFHS9ACMZy) | 4:33 |
 | 89 | [Dame De Beber](https://open.spotify.com/track/4wfgyTSPuSLezpBiAji1jB) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Elena Witt\-Guerra](https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka) | [Adoración Vol\. 1](https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8) | 4:38 |
 | 90 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 |
-| 91 | [Cuánto Te Amo \- Versión Radio](https://open.spotify.com/track/1iilyuN3BpRCT2OYqpzfLQ) | [Armando Sanchez](https://open.spotify.com/artist/7q7TQRaFKtXF11dDH90IzI), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo \(Versión Radio\)](https://open.spotify.com/album/3pMMO2wZVDpv2sWPFfbUjJ) | 4:58 |
+| 91 | [Cuánto Te Amo \- Versión Radio](https://open.spotify.com/track/1iilyuN3BpRCT2OYqpzfLQ) | [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo \(Versión Radio\)](https://open.spotify.com/album/3pMMO2wZVDpv2sWPFfbUjJ) | 4:58 |
 | 92 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 |
 | 93 | [Te Veo](https://open.spotify.com/track/020ZLoCGgsXIEGKFA1tLmc) | [Patty Gleason](https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ), [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Te Veo](https://open.spotify.com/album/6SQxGNsYYsYKEFcjMLrg1l) | 5:47 |
 | 94 | [LEÓN \(LION\)](https://open.spotify.com/track/4gWEajZcRRCSbxkfkmesA5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [LEÓN](https://open.spotify.com/album/1PFy3At4783o15yGZQleWZ) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [SÁNAME](https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [SÁNAME](https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ) | 3:41 |
 | 100 | [En Ti Esperamos](https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [En Ti Esperamos](https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG) | 3:38 |
 
-Snapshot ID: `MCw5MTA4ZGEyZWMyOTE0Y2M5MTk4ZGE3N2NlMGQzZTE5NjNlZjUwOTc2`
+Snapshot ID: `MCxmMWE4ZWQzNjI1OTdiM2M3N2I4OWYwYTUwNTcyMjQ0M2IwYzIwMTBi`

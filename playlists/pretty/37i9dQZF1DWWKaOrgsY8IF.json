@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 128657,
+  "num_followers": 128667,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWJhYTAxN2NmNWMwZmIyNWYxZDQ2MTZjMTA3M2I5MjE5MjIyZjc4",
+  "snapshot_id": "MCxkZjBlM2MyNDc3MGE2M2NkMDgyYjZmYWRjODk0MmI5YTJlNGNkOGNh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "D\u00f3nde Est\u00e1s",
         "url": "https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 153560,
       "name": "D\u00f3nde Est\u00e1s",
       "url": "https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Si T\u00fa La Quieres",
         "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2020-12-01 05:03:00",

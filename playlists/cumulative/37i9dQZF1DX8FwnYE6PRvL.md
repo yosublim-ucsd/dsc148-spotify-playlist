@@ -4,7 +4,7 @@
 
 > The ultimate rock party playlist!
 
-264 songs - 16 hr 43 min
+265 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cum on Feel the Noize](https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Quiet Riot \- Greatest Hits](https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy) | 4:47 | 2021-12-08 | 2022-07-28 |
 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 | 2022-04-08 |  |
 | [Don't Look Back In Anger](https://open.spotify.com/track/7H0jlAh4VoUtdeBUurXae9) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory](https://open.spotify.com/album/1FB977nQEiAr8jel6O2Zn3) | 4:47 | 2021-12-08 | 2022-07-13 |
-| [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 | 2022-11-24 |  |
+| [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 | 2022-11-24 | 2023-08-18 |
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2022-09-02 | 2022-12-16 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-07-14 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2022-07-14 | 2022-07-29 |
@@ -103,6 +103,7 @@
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2022-04-08 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:37 | 2021-12-08 | 2022-07-28 |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/0S7zL7ae0KpOSPKeFQpHo8) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/2PXlvqTzGBNetlGct7L5e6) | 2:53 | 2021-12-08 | 2022-07-15 |
+| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 | 2023-07-25 |  |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 | 2022-04-08 | 2022-04-19 |
 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 | 2022-07-14 |  |
 | [I Wanna Be Sedated](https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:29 | 2022-07-14 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 196801,
+  "num_followers": 197060,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDg5YWZjNGE2ZmUxY2NkOWJkYmUyNmFhNWVkNDZkMTI1NDc2NTA5",
+  "snapshot_id": "MCwzM2JlYzAwMTZmY2FhMjM3YTNkZmVlYTM4NTZjYmZiMjdhMjY4OTVi",
   "tracks": [
     {
       "added_at": "2023-08-16 07:56:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-16 07:56:20",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
-    },
-    {
-      "added_at": "2023-08-16 07:56:20",
-      "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 356626,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/0f2489MzoisF9pKduawvce"
+    },
+    {
+      "added_at": "2023-08-16 07:56:20",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
     },
     {
       "added_at": "2023-08-16 07:56:20",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-16 07:56:20",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
-    },
-    {
-      "added_at": "2023-08-16 07:56:20",
-      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 429266,
       "name": "Watermelon Man - Remastered",
       "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
+    },
+    {
+      "added_at": "2023-08-16 07:56:20",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
     },
     {
       "added_at": "2023-08-16 07:56:20",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-16 07:56:20",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
-    },
-    {
-      "added_at": "2023-08-16 07:56:20",
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 305186,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J"
+    },
+    {
+      "added_at": "2023-08-16 07:56:20",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
     },
     {
       "added_at": "2023-08-16 07:56:20",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-16 07:56:20",
       "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Eleanor Rigby - Remastered",
-      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
-    },
-    {
-      "added_at": "2023-08-16 07:56:20",
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 329613,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0"
+    },
+    {
+      "added_at": "2023-08-16 07:56:20",
+      "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Eleanor Rigby - Remastered",
+      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
     },
     {
       "added_at": "2023-08-16 07:56:20",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-08-16 07:56:20",
       "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
-    },
-    {
-      "added_at": "2023-08-16 07:56:20",
-      "album": {
         "name": "The Swingin's Mutual (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 250853,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
+    },
+    {
+      "added_at": "2023-08-16 07:56:20",
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
     },
     {
       "added_at": "2023-08-16 07:56:20",

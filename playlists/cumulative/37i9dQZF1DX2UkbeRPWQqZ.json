@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Guitar Lullabies",
+        "url": "https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Daisy Bell",
+      "url": "https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf"
+    },
+    {
+      "album": {
         "name": "Daisy Bell",
         "url": "https://open.spotify.com/album/5HC2rS5WLnB7hRakRJZcIY"
       },
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 135537,
       "name": "Gently Slow",
       "url": "https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ"
@@ -1604,6 +1622,24 @@
       "duration_ms": 139374,
       "name": "Goodnight Sweetheart, Goodnight",
       "url": "https://open.spotify.com/track/5PP6QALJTFPyb8rfCx3RIs"
+    },
+    {
+      "album": {
+        "name": "Goodnight teddy",
+        "url": "https://open.spotify.com/album/6bRKz8ZPbwWT8eKYhA7IUf"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120250,
+      "name": "Goodnight teddy",
+      "url": "https://open.spotify.com/track/6V8QIFMkCe3HhMa1Y5I7zc"
     },
     {
       "album": {
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 117363,
       "name": "See the Stars",
       "url": "https://open.spotify.com/track/1J9HqwN1K2RuEEifceye5Z"

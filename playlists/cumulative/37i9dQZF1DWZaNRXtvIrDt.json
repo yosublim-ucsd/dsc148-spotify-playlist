@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Fred again.. and Obongjayar",
+  "description": "a new world of alternative electronic music. Cover: 1tbsp",
   "name": "Portal",
   "tracks": [
     {
@@ -96,6 +96,28 @@
       "duration_ms": 286222,
       "name": "4 My Ladies",
       "url": "https://open.spotify.com/track/2anqDovtfF9nE8gnRQh4Do"
+    },
+    {
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/2DbU0PvxwnwNUD25K1jGqc"
+      },
+      "artists": [
+        {
+          "name": "3NDLES5",
+          "url": "https://open.spotify.com/artist/1UHjR5NxoDxWX9feUfS6jL"
+        },
+        {
+          "name": "Crazymike",
+          "url": "https://open.spotify.com/artist/0pqnRTJ9eQrOo7cpJzdAcF"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173337,
+      "name": "808",
+      "url": "https://open.spotify.com/track/1ZeZjflXJotwHx4uNX8QoK"
     },
     {
       "album": {
@@ -822,7 +844,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 240742,
       "name": "Big Hammer",
       "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
@@ -1527,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Coup De Gr\u00e2ce",
+        "url": "https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx"
+      },
+      "artists": [
+        {
+          "name": "Dugong Jr",
+          "url": "https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i"
+        },
+        {
+          "name": "IJALE",
+          "url": "https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223908,
+      "name": "Coup De Gr\u00e2ce",
+      "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
+    },
+    {
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/4GlSazlLDWRFoDTd1ChmuB"
       },
@@ -1560,7 +1604,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 133714,
       "name": "d(-_-)b dreaming of your latte art d(-_-)b",
       "url": "https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3"
@@ -2009,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
+    },
+    {
+      "album": {
         "name": "Face",
         "url": "https://open.spotify.com/album/6NehSz7c2uXH4uQYN2qX70"
       },
@@ -2425,6 +2487,32 @@
     },
     {
       "album": {
+        "name": "Freedom 2",
+        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206931,
+      "name": "Freedom 2",
+      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
+    },
+    {
+      "album": {
         "name": "Fuck what u heard",
         "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
       },
@@ -2596,7 +2684,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 205600,
       "name": "Going So Low",
       "url": "https://open.spotify.com/track/39E7cqcAPdFeFwULk8RIMW"
@@ -3102,7 +3190,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 148852,
       "name": "i've got a bf (best friend)",
       "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
@@ -3851,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3JIB4mCyKaYhxuxyp31vcJ"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293774,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/02IwpmWcx201kEvq51NA8s"
+    },
+    {
+      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -4330,7 +4436,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
@@ -4869,6 +4975,24 @@
     },
     {
       "album": {
+        "name": "Push Power ( a 1 )",
+        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249261,
+      "name": "Push Power ( a 1 )",
+      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "album": {
         "name": "Quiver",
         "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
       },
@@ -5088,7 +5212,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 174480,
       "name": "Ride For Me",
       "url": "https://open.spotify.com/track/7FqFB8cdeF0OLxK13fBnui"
@@ -5639,6 +5763,28 @@
     },
     {
       "album": {
+        "name": "Sirena Deep",
+        "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341500,
+      "name": "Sirena Deep",
+      "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
+    },
+    {
+      "album": {
         "name": "Palaces : The Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/3lGjGtDlA1E1fo7q4VeJng"
       },
@@ -5676,7 +5822,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 302830,
       "name": "Skinner",
       "url": "https://open.spotify.com/track/2HTmGmUw65VOkObvJAPZi6"
@@ -5778,7 +5924,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 175909,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a"
@@ -5796,7 +5942,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 171226,
       "name": "So Long",
       "url": "https://open.spotify.com/track/4sm6jKJ3UnbjOzmhmGif5p"
@@ -5880,6 +6026,24 @@
       "duration_ms": 257866,
       "name": "Sora",
       "url": "https://open.spotify.com/track/5MX2I1rGXXAFPsJaoKRf7r"
+    },
+    {
+      "album": {
+        "name": "Mosquito Love",
+        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195610,
+      "name": "Sour Berry",
+      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
     },
     {
       "album": {
@@ -6380,7 +6544,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 326232,
       "name": "Territory Day",
       "url": "https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS"
@@ -6594,7 +6758,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 253000,
       "name": "Time To Run",
       "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
@@ -7026,7 +7190,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 184827,
       "name": "We Run The Area - Flava D Jungle Remix",
       "url": "https://open.spotify.com/track/1B9sNBIMcJojeVM2gZcRxI"
@@ -7406,7 +7570,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 205078,
       "name": "Youngtimer",
       "url": "https://open.spotify.com/track/0UxbtBnGvWgfVZCviFwZoP"

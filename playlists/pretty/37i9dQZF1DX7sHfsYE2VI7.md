@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,802 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,854 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 49 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
 | 50 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 51 | [Les Nuits](https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO) | 6:19 |
-| 52 | [American Dream](https://open.spotify.com/track/51xIvzl5RvK4JOxjigU941) | [Jakatta](https://open.spotify.com/artist/2kQ4ttxqjuXRDMmsYXHlZD), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Visions](https://open.spotify.com/album/68k6KfoUCDxE7Vr7ivLCaO) | 4:29 |
-| 53 | [Drop the Pressure](https://open.spotify.com/track/2VtxdAH96cGcj1QzjpbHjA) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/2wdHHEDHe9dw71xVl1EgJZ) | 4:15 |
+| 52 | [Drop the Pressure](https://open.spotify.com/track/2VtxdAH96cGcj1QzjpbHjA) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/2wdHHEDHe9dw71xVl1EgJZ) | 4:15 |
+| 53 | [American Dream](https://open.spotify.com/track/51xIvzl5RvK4JOxjigU941) | [Jakatta](https://open.spotify.com/artist/2kQ4ttxqjuXRDMmsYXHlZD), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Visions](https://open.spotify.com/album/68k6KfoUCDxE7Vr7ivLCaO) | 4:29 |
 | 54 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 |
 | 55 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
 | 56 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 69 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 |
 | 70 | [With You Forever](https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE) | 3:34 |
 
-Snapshot ID: `MCw2YWU5Y2EyMzI1ZWE1YTZjMjI3YTA5ZDMxMTgyYzhhMzdhYjgyMjBh`
+Snapshot ID: `MCwxYjFkMTAyOGIwMzQ0OGIzOTk4NTdhODk0NTA3NGIzNDQ3OTIxMTEx`

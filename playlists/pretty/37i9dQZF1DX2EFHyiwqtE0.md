@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 
 > Latin tunes that both you and your little one can enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,420 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,455 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 | 5 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
 | 6 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 7 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 |
-| 8 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
+| 8 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 9 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 |
 | 10 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
-| 11 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
+| 11 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 12 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 4:55 |
 | 13 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
 | 14 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 | 20 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 21 | [Espacio sideral](https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 3:42 |
 | 22 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 |
-| 23 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
-| 24 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 |
+| 23 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 |
+| 24 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
 | 25 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 |
 | 26 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 27 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 | 59 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
 | 60 | [Oye](https://open.spotify.com/track/7k8Ykg4aJ1rSWB1nCBUQsI) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [gloria!](https://open.spotify.com/album/5bSHuTJy9CAEmbHHA5CgjO) | 4:39 |
 
-Snapshot ID: `MCwxM2I3YzYwZDY2NzEzNTAzMzU4Y2JmYWY1YmNlY2I0YzRlYWNhYTY4`
+Snapshot ID: `MCwxMjI1MTFiYjQwYjNkMjg4OGQwMDg3ZWYxNjg2NzhiYTNjZTRkODVh`

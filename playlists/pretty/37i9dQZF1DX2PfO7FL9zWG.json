@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 53132,
+  "num_followers": 53182,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjIyNGNkODAxMTE0ZTE5ZDk0NDg4MzllNWEyNTVmYWNhNWVhZGJl",
+  "snapshot_id": "MCwxNjhhMjA0MTg0ZWEwZTMzMzI4YmE4M2I3NDliODNhMDQxZTM0NjAy",
   "tracks": [
     {
       "added_at": "2023-04-21 14:07:22",
@@ -539,38 +539,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "The Pursuit of Happiness",
-      "url": "https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "The Pursuit of Happiness",
+      "url": "https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2023-04-21 14:07:22",

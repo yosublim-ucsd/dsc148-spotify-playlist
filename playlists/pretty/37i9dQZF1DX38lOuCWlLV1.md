@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > Eclectic love songs with delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,613 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,707 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 28 | [Nude](https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:15 |
 | 29 | [Love song](https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:49 |
 | 30 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
-| 31 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
+| 31 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
 | 32 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
-| 33 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
+| 33 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
 | 34 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 |
 | 35 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 |
 | 36 | [Video Games](https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:41 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 62 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 |
 | 63 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
 | 64 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
-| 65 | [What Kinda Woman](https://open.spotify.com/track/6CHz71rEBt1SligO9zx79A) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:14 |
-| 66 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
+| 65 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
+| 66 | [What Kinda Woman](https://open.spotify.com/track/6CHz71rEBt1SligO9zx79A) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:14 |
 | 67 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
 | 68 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 69 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 74 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
 | 75 | [A Real Hero](https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b), [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6) | [Innerworld \(Deluxe Edition\)](https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK) | 4:27 |
 
-Snapshot ID: `MCwzMDdlZjJiOWI2NDI0YTE2MjQ2YzM3NjEzM2MzZDZjMWIwZjkwZmU1`
+Snapshot ID: `MCxiYmVhMmIxMGIyYzU5MDJlZDFhYjFhYTJmMTU1ZWViZDQ4MzQ3NmNk`

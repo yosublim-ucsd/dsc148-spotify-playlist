@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 34666,
+  "num_followers": 34691,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2JjZjI3ZTE4MjU0ZGJjNTFiNjkyZmE5ZDlmMjE2YWMyNDRkYzRj",
+  "snapshot_id": "MCwzMGVkMDI3NjRhZjkzYmExZmFkOWZiNDhmODM4OGFkMzVkODUxYjBl",
   "tracks": [
     {
       "added_at": "2022-09-22 18:15:34",
@@ -559,8 +559,8 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Tambora, Vol. 3",
-        "url": "https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 187907,
-      "name": "Que Me Entierren Con La Banda",
-      "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"
+      "duration_ms": 184064,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -699,22 +699,6 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -899,6 +883,22 @@
       "duration_ms": 202373,
       "name": "Ando Que Me Lleva",
       "url": "https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
+      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
     }
   ],
   "unique_name": "La Dinast\u00eda de... Los Aguilar",

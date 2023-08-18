@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs – celebrating music’s greatest achievements by honoring the hottest names on the Billboard Charts\. Airing live May 15 on NBC! Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,985 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,988 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 40 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 |
 | 41 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 |
 | 42 | [Same Boat](https://open.spotify.com/track/4HD9SLK4s9rwRyuFt3n8N7) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:10 |
-| 43 | [Black Summer](https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:52 |
-| 44 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
+| 43 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
+| 44 | [Black Summer](https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:52 |
 | 45 | [Present](https://open.spotify.com/track/0PdwDpafg7Nz5TrL6U2anU) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 2:36 |
 | 46 | [Beer Never Broke My Heart](https://open.spotify.com/track/3t5CI2xqUBytrGJGsBqmUV) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
 | 47 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 49 | [Amazing Grace](https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 2:56 |
 | 50 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
 
-Snapshot ID: `MCxiMjM2NTVlNWNiODYyOTQ0ODQyZWQzODU5ZTU1ODA0YTkxN2FkMjI5`
+Snapshot ID: `MCw1N2NkN2U4MmI3NzIyNDAyYWZiYjgzNDE3ODNlMTNhMjRiMzY3MDZi`

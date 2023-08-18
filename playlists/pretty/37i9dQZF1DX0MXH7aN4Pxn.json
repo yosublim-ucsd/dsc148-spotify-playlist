@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689508,
+  "num_followers": 689529,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjYyOWRhMjJlZjVjMjNlZmViOGZmMDdjMzEwMjM2ODhlZTlmMDY3",
+  "snapshot_id": "MCwzN2FmODAwOTZjY2IxMjRkMDlhNjU1ODQ5YzNkOTQxZWJkOGI3Yzgw",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -595,26 +595,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Out Of Nowhere",
-        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
-      },
-      "artists": [
-        {
-          "name": "Bugzy Malone",
-          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
-        },
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Night Ends",
+        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Night Ends",
+      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Night Ends",
-        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
-      },
-      "artists": [
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Night Ends",
-      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1623,30 +1623,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/1PgWZgdROSbx0yRIRH078E"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 168289,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/1PgWZgdROSbx0yRIRH078E"
     },
     {
       "added_at": "2022-12-31 15:51:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the 90s\. Cover: Brandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,350,280 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,351,969 likes - 75 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 45 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
 | 46 | [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 |
 | 47 | [They Don't Know](https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:34 |
-| 48 | [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 |
-| 49 | [Can We Talk](https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:44 |
+| 48 | [Can We Talk](https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:44 |
+| 49 | [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 |
 | 50 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
 | 51 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
 | 52 | [He's Mine](https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9) | 4:14 |
 | 53 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
 | 54 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
 | 55 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
-| 56 | [Pony](https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Ginuwine..\. The Bachelor](https://open.spotify.com/album/4cEX2rhss4PBg5EU5Vs0Uj) | 5:24 |
-| 57 | [Still Not a Player \(feat\. Joe\)](https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 3:56 |
+| 56 | [Still Not a Player \(feat\. Joe\)](https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 3:56 |
+| 57 | [Pony](https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Ginuwine..\. The Bachelor](https://open.spotify.com/album/4cEX2rhss4PBg5EU5Vs0Uj) | 5:24 |
 | 58 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
 | 59 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
 | 60 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 72 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
 | 73 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
 | 74 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
-| 75 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
+| 75 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
 
-Snapshot ID: `MCxlZTQ2YjEyOWI0YWQxNTVmY2NlOGZmM2U2YzNlNzliYmE0NDRkMjE0`
+Snapshot ID: `MCxjMzkwNWNjNGVkZjk2NDU4NjMxMzdjNGQ5ZDAzNWNiMDY2YTQwYjAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,165 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,204 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 30 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 31 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 |
 | 32 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
-| 33 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
-| 34 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 |
+| 33 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 |
+| 34 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
 | 35 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 36 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
 | 37 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 56 | [Hands of Love](https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc) | 3:35 |
 | 57 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
 | 58 | [Om Mantra](https://open.spotify.com/track/3lSRMSkO5kSKrtst3OJ29L) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Om Mantra](https://open.spotify.com/album/2Rg8NshqLJejf4MgLJK5qZ) | 3:39 |
-| 59 | [Muladhara \(Root\) \[Chakra\]](https://open.spotify.com/track/0r2yr4DviP7pSCNlRDr0wU) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 6:01 |
-| 60 | [Our Beginning](https://open.spotify.com/track/48zUSuNPWf2yFkzGu0BTv8) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Long Distance \(Deep Sleep Drone Music\)](https://open.spotify.com/album/05IJiYAP4yFUioSrQ9GSGY) | 2:36 |
+| 59 | [Our Beginning](https://open.spotify.com/track/48zUSuNPWf2yFkzGu0BTv8) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Long Distance \(Deep Sleep Drone Music\)](https://open.spotify.com/album/05IJiYAP4yFUioSrQ9GSGY) | 2:36 |
+| 60 | [Muladhara \(Root\) \[Chakra\]](https://open.spotify.com/track/0r2yr4DviP7pSCNlRDr0wU) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 6:01 |
 | 61 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
 | 62 | [Meditation Winds](https://open.spotify.com/track/2yQpPMB09kt85h5cNibcmM) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Yoga Tribe](https://open.spotify.com/artist/3uC78ojWmi0c7NdLU7uwvY) | [Meditation & Yoga \- Flutes \(Native American Flute & Sounds of Nature for Yoga, Massage, New Age Spa, Zen & Chakra Healing\)](https://open.spotify.com/album/1kcv6KyNliiIB9DniMrBOG) | 5:21 |
 | 63 | [Mantra Stress Killer \- Indian Relaxing Chant, Bells and Flutes for Stress Relief](https://open.spotify.com/track/36uM3lN9QEt40k2gElDV3X) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [Indian Healing Music \(1 Hour Relaxing Indian Music for Yoga and Meditation Performed on Indian Flutes, Tablas, Sitar, Drums and Chants\)](https://open.spotify.com/album/5iAMQTamIMMWUIVRraiDzy) | 4:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 74 | [Om Zone 2.0 \- XIV](https://open.spotify.com/track/3tOpCsBzhi5I2ZyZpk1Ven) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [In the Om Zone 2.0](https://open.spotify.com/album/5GHnyBPAznBKbWccswmDKb) | 4:07 |
 | 75 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 
-Snapshot ID: `MCw3NThkOWJiYzgzYTBjMTNkOWI2Y2M1MzQyNjZiNTgwZDIzMTMwYTVj`
+Snapshot ID: `MCxkNDA1MDZhZDFhYzg2ZWFjODNkZDMxNDIzOTA3YzNiODQ4MTE0YjYw`

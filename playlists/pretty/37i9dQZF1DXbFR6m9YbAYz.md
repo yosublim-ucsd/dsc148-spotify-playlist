@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,947 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,055 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 29 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 30 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give](https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8) | 3:23 |
 | 31 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
-| 32 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
+| 32 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
 | 33 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 |
-| 34 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
+| 34 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
 | 35 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
-| 36 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 |
-| 37 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
+| 36 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
+| 37 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 |
 | 38 | [The Way I Talk](https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:28 |
 | 39 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 40 | [Dirt Road Anthem](https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:49 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 66 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 |
 | 67 | [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 |
 | 68 | [Simple](https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:05 |
-| 69 | [This Damn Song](https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:40 |
+| 69 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
 | 70 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
-| 71 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
+| 71 | [This Damn Song](https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:40 |
 | 72 | [TRUCK BED](https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [TRUCK BED](https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq) | 2:47 |
 | 73 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
 | 74 | [Hippies and Cowboys](https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa) | 5:00 |
 | 75 | [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 |
 
-Snapshot ID: `MCwyNmJmY2Q3MzM2MjQwMGQwYTEzN2YyYjk5ODllMjgwNjk4ZjEwZWI1`
+Snapshot ID: `MCw5OGM5ZjU0MTZmZjNhNDQ5M2FjMGM4ODE5MWMwYzI5ZDE5MmU0NjIz`

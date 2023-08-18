@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-604 songs - 1 day 2 hr 15 min
+605 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2021-12-07 | 2022-01-15 |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2021-12-07 | 2022-06-08 |
 | [Lost For Words](https://open.spotify.com/track/5NH7f7qokbw0GmEbztG9qv) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Miles Away](https://open.spotify.com/album/4Kl1CFQxhyCcdGB32jfSN8) | 2:47 | 2021-12-07 | 2022-05-21 |
+| [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 |  |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-12-07 | 2022-12-24 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
@@ -590,7 +591,7 @@
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 |  |
 | [When I Am With Her](https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG) | [Hattie Sanford](https://open.spotify.com/artist/5Y9w5YkP5VxVumV37PL7tU) | [When I Am With Her](https://open.spotify.com/album/1gHtrb53NvHOPooEuQls2e) | 2:40 | 2021-12-07 | 2022-09-24 |
-| [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 |  |
+| [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 | 2023-08-18 |
 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-06-07 | 2023-07-05 |
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-07-29 |
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-12-07 | 2022-12-24 |

@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-131 songs - 7 hr 20 min
+132 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dark](https://open.spotify.com/track/0CyE5fPcOtpkstZVW1cFxj) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:46 | 2023-03-29 | 2023-06-25 |
 | [De Vos](https://open.spotify.com/track/10umep0TNyuFyhKfx0z1Ew) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [De Vos](https://open.spotify.com/album/2dSepJ6uUSD9yE2LHUBAxy) | 4:57 | 2023-03-27 | 2023-06-24 |
 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 | 2023-07-28 |  |
-| [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-25 |  |
+| [Deseo](https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Deseo](https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe) | 3:09 | 2023-05-25 | 2023-08-18 |
 | [Deseo](https://open.spotify.com/track/3NDB4oAYoM5kd50COEOTUR) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv), [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [Deseo](https://open.spotify.com/album/0yxzynoJU2oS2piqELOsEa) | 3:24 | 2023-07-11 |  |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-05-11 | 2023-08-03 |
 | [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 | 2023-06-25 | 2023-07-21 |
@@ -81,6 +81,7 @@
 | [Limonadita Fresca](https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Limonadita Fresca](https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH) | 3:20 | 2023-08-03 |  |
 | [lo que no es sincero hoy](https://open.spotify.com/track/5e3fTt5d30qgNspCWeyxtY) | [El Alguacil](https://open.spotify.com/artist/1vw7wq0QVG1i1kYEImW7xa) | [lo que no es sincero hoy](https://open.spotify.com/album/5btwrK4Yktkg9xfhMReaD2) | 3:14 | 2023-07-12 |  |
 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-27 |  |
+| [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 | 2023-08-17 |  |
 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 | 2023-03-19 | 2023-05-28 |
 | [Mala Mia](https://open.spotify.com/track/1gPDUmzf3TviGRmSUnwst0) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Mala Mia](https://open.spotify.com/album/3WJ1EoQn4vKUaafZQKIVqi) | 3:09 | 2023-03-19 | 2023-04-19 |
 | [Me Da Igual](https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Me Da Igual](https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV) | 2:25 | 2023-08-06 |  |

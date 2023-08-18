@@ -4,7 +4,7 @@
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Poe Leos
 
-204 songs - 10 hr 37 min
+205 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [La Última Vez \- Deluxe](https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:12 | 2023-03-04 | 2023-05-27 |
 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 | 2023-04-21 | 2023-05-27 |
 | [LAS HISTORIAS SE ACABAN](https://open.spotify.com/track/2nC7BmTP4okoyeJI6JRMVb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:13 | 2022-09-14 | 2023-03-04 |
-| [left you](https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [left you](https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf) | 2:35 | 2023-05-26 |  |
+| [left you](https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [left you](https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf) | 2:35 | 2023-05-26 | 2023-08-18 |
+| [left you](https://open.spotify.com/track/4VLiS83F33CjGjWlqZoOkS) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [un millón de besos](https://open.spotify.com/album/3hPK0U97YAN53tPcCiirz3) | 2:35 | 2023-05-26 |  |
 | [Letter To You](https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Letter To You](https://open.spotify.com/album/43z6E9SS73YuthAj9pQKCW) | 2:43 | 2023-03-31 | 2023-05-27 |
 | [Lo Que Hiciste](https://open.spotify.com/track/1NXNgZuLTFadtH8F4fFvQL) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Lo Que Hiciste](https://open.spotify.com/album/6DATyBdgu9uVO0qZLjpBlD) | 3:59 | 2023-04-21 |  |
 | [lo siento](https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [lo siento](https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv) | 3:12 | 2023-03-03 | 2023-05-27 |

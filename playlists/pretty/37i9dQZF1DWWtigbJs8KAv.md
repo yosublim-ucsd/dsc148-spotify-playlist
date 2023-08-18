@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtigbJs8KAv.md) - [plain]
 
 > Canciones pa’ tra, tra, tra\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,553 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,420 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtigbJs8KAv.md) - [plain]
 | 8 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 9 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 10 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 |
-| 11 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 |
-| 12 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 |
+| 11 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 |
+| 12 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 |
 | 13 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 |
 | 14 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 |
 | 15 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 |
 | 16 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 |
-| 17 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 |
-| 18 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:57 |
+| 17 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:57 |
+| 18 | [Mami Chula](https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mami Chula](https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS) | 3:40 |
 | 19 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 |
-| 20 | [Mami Chula](https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mami Chula](https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS) | 3:40 |
+| 20 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 |
 | 21 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 |
 | 22 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
 | 23 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtigbJs8KAv.md) - [plain]
 | 49 | [AL CALLAO'](https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 4:02 |
 | 50 | [Hasta el Amanecer](https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:18 |
 
-Snapshot ID: `MCwwYzI3Mjg1YjliOTMyNDFmYWViODQzNTZkODNhYjkxZTMxNWJiODU4`
+Snapshot ID: `MCwxNmFhYWFhYWYwMTlhN2FhNzgwNjEzMTQzNzQ4ZDM4ZWE0MDI1NGUw`

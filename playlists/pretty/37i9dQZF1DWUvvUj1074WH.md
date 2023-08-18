@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > ¡Qué traigan más cheve que nos sobran copas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,662 likes - 150 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,934 likes - 150 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 20 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 21 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 |
 | 22 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 |
-| 23 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
-| 24 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
+| 23 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
+| 24 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
 | 25 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 26 | [Devuélveme a mi chica](https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:14 |
 | 27 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 36 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
 | 37 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 38 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
-| 39 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
+| 39 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 |
 | 40 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
-| 41 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 |
+| 41 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 42 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 43 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 44 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
@@ -96,16 +96,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 86 | [Boys Don't Cry \- Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:37 |
 | 87 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
 | 88 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
-| 89 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
-| 90 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
+| 89 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
+| 90 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
 | 91 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 |
 | 92 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 93 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 94 | [La Guitarra](https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Mi Vida Loca](https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5) | 3:38 |
 | 95 | [La Pachanga](https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:41 |
 | 96 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
-| 97 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
-| 98 | [Detroit Rock City](https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum](https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796) | 3:35 |
+| 97 | [Detroit Rock City](https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum](https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796) | 3:35 |
+| 98 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 99 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
 | 100 | [El Microbito](https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Fobia](https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G) | 2:37 |
 | 101 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 108 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 |
 | 109 | [La Negra Tomasa \- Bilongo \- Versión Tropical](https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 7:52 |
 | 110 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
-| 111 | [Kilómetros](https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:11 |
-| 112 | [Los Caminos de la Vida](https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Los Rayos](https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF) | 3:59 |
+| 111 | [Los Caminos de la Vida](https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Los Rayos](https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF) | 3:59 |
+| 112 | [Kilómetros](https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:11 |
 | 113 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
 | 114 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 115 | [Sognare](https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 5:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 149 | [Yo No Me Llamo Javier](https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 4:23 |
 | 150 | [El Diablo](https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:35 |
 
-Snapshot ID: `MCw4ZDI4ZmY2NTVmN2Q1NmVkMWE4MGNkNjNkMTk4OGNhOWM2YjE3NWI3`
+Snapshot ID: `MCw1NDQ3YzQwNmZjNTA4YjU1NTFlYjVjNWU1NmRhZTUwNDE2ZjgzMzA2`

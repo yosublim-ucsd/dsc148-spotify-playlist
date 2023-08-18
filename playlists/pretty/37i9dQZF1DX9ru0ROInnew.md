@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,928 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,017 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 94 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
 | 95 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 |
 | 96 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
-| 97 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
-| 98 | [Caro](https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:49 |
+| 97 | [Caro](https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:49 |
+| 98 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
 | 99 | [Soy Peor \- Remix](https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Soy Peor Remix](https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM) | 5:15 |
 | 100 | [Tu No Metes Cabra \- Remix](https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Tu No Metes Cabra Remix](https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD) | 5:31 |
 | 101 | [BENDICIONES](https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:35 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0`
+Snapshot ID: `MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1`

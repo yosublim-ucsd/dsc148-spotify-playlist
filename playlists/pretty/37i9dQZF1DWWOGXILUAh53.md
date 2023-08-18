@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: JEON SOMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,464 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,537 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 36 | [Whole Again](https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Whole Again](https://open.spotify.com/album/7oAsw6jZcotDQl8f1qECqo) | 3:35 |
 | 37 | [Beast](https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Beast](https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw) | 2:20 |
 | 38 | [Contemporary Love](https://open.spotify.com/track/5pYHdnHdmCYISSygrXYk45) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Contemporary Love](https://open.spotify.com/album/4PFXT8b4Zg4IvDpvulGjxB) | 2:47 |
-| 39 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
+| 39 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 40 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 |
 | 41 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 |
 | 42 | [M.I.A.](https://open.spotify.com/track/3ej0vZNkrbpTOscsIz8pRU) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Emma Muscat](https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX) | [M.I.A.](https://open.spotify.com/album/525tF5HcFtUr2k0tHVcI4t) | 2:41 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 62 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
 | 63 | [Where Do We Go From Here](https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Where Do We Go From Here](https://open.spotify.com/album/13yQEoJ6hDD560qMei009H) | 2:48 |
 | 64 | [Don't Talk to Me](https://open.spotify.com/track/3ilFtzVTwXQ7n1EpKiZBLr) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Don't Talk to Me](https://open.spotify.com/album/3bFALWArn4wRsCzEWsuyNt) | 2:52 |
-| 65 | [Let You Down \(feat\. Deza\)](https://open.spotify.com/track/1JRG26WhgNNt2bg4SCXtuE) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Let You Down \(feat\. Deza\)](https://open.spotify.com/album/3zYMzJAk8vrBwFSpZBOAts) | 3:10 |
+| 65 | [Let You Down \(feat\. Deza\)](https://open.spotify.com/track/1JRG26WhgNNt2bg4SCXtuE) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Let You Down \(feat\. Deza\)](https://open.spotify.com/album/3zYMzJAk8vrBwFSpZBOAts) | 3:11 |
 | 66 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 67 | [Let's Go MIA](https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Let's Go MIA](https://open.spotify.com/album/4oVQuTeU8QTlgKXqTAWIb1) | 3:00 |
 | 68 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 79 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 |
 | 80 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 |
 
-Snapshot ID: `MCw0N2QyODM5MTg3MjY1ODBkNDFhYTI5ZjFlOTZhOWEyZmYyYTc5ZDBl`
+Snapshot ID: `MCxhYjAwY2U5YjJiYjRmY2U5ZjBmYzU5OGMwYTE1NDUxMDViMjZlOWI1`

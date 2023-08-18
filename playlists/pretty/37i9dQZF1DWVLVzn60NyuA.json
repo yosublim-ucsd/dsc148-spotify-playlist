@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 277913,
+  "num_followers": 278088,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzYwM2VlYTYxYWIwNDIyMjgyYWUwZTI4YmExNWFjY2IxMjg3ODYy",
+  "snapshot_id": "MCxhYjE4N2ZkN2M0MzJjYzUzZTE1NDJhZDc0ZDc2NDI4NjNhNjE4ODRj",
   "tracks": [
     {
       "added_at": "2023-08-16 07:29:51",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-08-16 07:29:51",
       "album": {
+        "name": "Fleur froide (Donum Novae)",
+        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
+    },
+    {
+      "added_at": "2023-08-16 07:29:51",
+      "album": {
         "name": "We Caa Done (feat. Drake)",
         "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
-    },
-    {
-      "added_at": "2023-08-16 07:29:51",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2023-08-16 07:29:51",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-08-16 07:29:51",
       "album": {
-        "name": "Fleur froide (Donum Novae)",
-        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 197240,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2023-08-16 07:29:51",
@@ -1535,18 +1535,22 @@
     {
       "added_at": "2023-08-16 07:29:51",
       "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
       "artists": [
         {
           "name": "Adekunle Gold",
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2023-08-16 07:29:51",
@@ -1567,6 +1571,22 @@
     {
       "added_at": "2023-08-16 07:29:51",
       "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2023-08-16 07:29:51",
+      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -1583,22 +1603,6 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": "2023-08-16 07:29:51",
-      "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2023-08-16 07:29:51",
@@ -1643,22 +1647,18 @@
     {
       "added_at": "2023-08-16 07:29:51",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
       },
       "artists": [
         {
           "name": "Adekunle Gold",
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2023-08-16 07:29:51",

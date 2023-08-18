@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,056 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,082 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
 | 50 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 |
 
-Snapshot ID: `MCwxM2Q2NmVlMmFiZDBjODI3NWVmNzU3NWYwNGVhZmQ4YmQ1ZjkzNjA5`
+Snapshot ID: `MCw2OTU3NzZkMTE4NjY3NDU2MTU2YmRlNzI2ODYzMTczZmIyY2EwY2Ez`

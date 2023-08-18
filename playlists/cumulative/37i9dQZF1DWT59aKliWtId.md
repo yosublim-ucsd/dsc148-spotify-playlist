@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. boygenius
 
-827 songs - 2 day 2 hr 32 min
+828 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Double Blind](https://open.spotify.com/track/6cNNEIV8nghL2uLU0ftNXg) | [Tropical Gothclub](https://open.spotify.com/artist/2xTveN5GIbAP7sHYpUm7W9) | [Double Blind](https://open.spotify.com/album/53LHhE4JeFHvpuPwTGMCNa) | 3:59 | 2022-09-16 | 2022-11-05 |
 | [Double Life](https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Double Life](https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7) | 2:23 | 2023-06-09 |  |
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2021-12-10 | 2022-06-25 |
-| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-10 |  |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-10 | 2023-08-18 |
+| [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-08-14 |  |
 | [Déjà Vu \(ft\. Mavis Staples\)](https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:18 | 2023-04-14 | 2023-06-03 |
 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-12-02 | 2023-05-01 |
 | [Easier Said Than Done](https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 2:54 | 2023-04-28 | 2023-05-13 |

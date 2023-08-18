@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 
 > Le meilleur de la musique d'hier et d'aujourd'hui pour une journée parfaite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,726 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,875 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 | 59 | [It Ain’t Me \(with Selena Gomez\)](https://open.spotify.com/track/12GEpg2XOPyqk03JZEZnJs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [It Ain't Me](https://open.spotify.com/album/4VNy5ifZtW3E9SgffbGEti) | 3:40 |
 | 60 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 
-Snapshot ID: `MCxiMjhiM2JmZWRlYzFjNTQzYThkOWYwMjFkMjYyMmYzYjRkOTI4OGY3`
+Snapshot ID: `MCxkMzg3Y2JkYzNhMzY3NTZkNjQ0MGY2MDM4OGJmMGE0NjZjODYxNGI0`

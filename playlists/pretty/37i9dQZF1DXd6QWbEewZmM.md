@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,748 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,978 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 23 | [Fíjate Que Sí](https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Me Hiciste un Borracho](https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW) | 3:24 |
 | 24 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
 | 25 | [Tatuajes \- Deluxe](https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:18 |
-| 26 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
-| 27 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
+| 26 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
+| 27 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
 | 28 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
 | 29 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
-| 30 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 |
-| 31 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
-| 32 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 |
+| 30 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 |
+| 31 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 |
+| 32 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
 | 33 | [Tristeza Y Traicion](https://open.spotify.com/track/3otr23EypFovRCjnPODejZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:39 |
 | 34 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 35 | [Me Hiciste un Loco](https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:26 |
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 81 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
 | 82 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 |
 | 83 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
-| 84 | [Superando](https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB) | [Angel Arevalo](https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV) | [Superando...y Mas](https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7) | 4:20 |
-| 85 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 |
+| 84 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 |
+| 85 | [Superando](https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB) | [Angel Arevalo](https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV) | [Superando...y Mas](https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7) | 4:20 |
 | 86 | [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 |
-| 87 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
-| 88 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
+| 87 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
+| 88 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
 | 89 | [Eres Tu / </3](https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx) | 3:25 |
-| 90 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
-| 91 | [Olvidarte](https://open.spotify.com/track/5rsKkDbJrV0gN4HDuUIdZs) | [Grupo Digno](https://open.spotify.com/artist/0b1PRXHKnHHHT0kxcA15Ur) | [Olvidarte](https://open.spotify.com/album/1z8RqsiClrx1T60HQb0JcR) | 3:15 |
-| 92 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 |
-| 93 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
+| 90 | [Olvidarte](https://open.spotify.com/track/5rsKkDbJrV0gN4HDuUIdZs) | [Grupo Digno](https://open.spotify.com/artist/0b1PRXHKnHHHT0kxcA15Ur) | [Olvidarte](https://open.spotify.com/album/1z8RqsiClrx1T60HQb0JcR) | 3:15 |
+| 91 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
+| 92 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
+| 93 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 |
 | 94 | [Tony](https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 3:40 |
 | 95 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
 | 96 | [Loco Enamorado](https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Perdido en el Tiempo](https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua) | 1:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [komo llego el final](https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [komo llego el final](https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF) | 3:05 |
 | 100 | [Que Me Fallo](https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Me Fallo](https://open.spotify.com/album/3mIMczwXK7jgzsCTUhmUi0) | 4:02 |
 
-Snapshot ID: `MCxkNzMwMGQzMzI0NGUyZWQ2NzY2ZGNhY2IzN2RlMDZjZmFmYzgzNTgz`
+Snapshot ID: `MCxiMzMxZGI2N2EyMDg1MzRmZjI5Y2Q1ZjcyODQyNmVjMTNlOTE3Y2E2`

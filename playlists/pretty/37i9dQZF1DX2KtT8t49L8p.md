@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KtT8t49L8p.md) - [plain]
 
 > Awaken and connect through meditation with Theta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,034 likes - 63 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,096 likes - 63 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Air Theta 5hz](https://open.spotify.com/track/1HLhFUBUe3EVWindRioCB5) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Air Waves 5\-10hz](https://open.spotify.com/album/6gIiXBzCo5jD9B1D5QhS87) | 2:38 |
 | 2 | [Theta Mind Tranquility](https://open.spotify.com/track/6hCmfwKvr68H1v1GjLdihz) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Theta Binaural Beats](https://open.spotify.com/album/2mRSTgtIy2zAq1Ne3hxvSG) | 3:27 |
 | 3 | [Memory \(Theta 7 Hz\)](https://open.spotify.com/track/7G36qGQQHvi8Ez4WLeQGyq) | [Binaural Warrior](https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5) | [Binaural Warrior](https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL) | 3:12 |
-| 4 | [Theta Relax \(84Hz \- 91Hz\)](https://open.spotify.com/track/0rbnJUyp3FzKOEOc6PXZGb) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Frame of Mind](https://open.spotify.com/album/19BNqg67kGHHfX50FIYtIp) | 2:28 |
+| 4 | [Theta Relax \(84Hz \- 91Hz\)](https://open.spotify.com/track/0rbnJUyp3FzKOEOc6PXZGb) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Frame of Mind](https://open.spotify.com/album/19BNqg67kGHHfX50FIYtIp) | 2:28 |
 | 5 | [bravery within \(theta state\)](https://open.spotify.com/track/1JGbmqkZ4xYI4zM5XgckDP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [slowed time & bravery within \(theta binaural\)](https://open.spotify.com/album/79lFMqK222Nb8KVQkkPzwS) | 4:18 |
 | 6 | [Deep Skies \(Binaural Theta 93.1 Hz \- 85.7 Hz\)](https://open.spotify.com/track/4OXSCEIY7gVDCW17nuRiRe) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:41 |
 | 7 | [Lotus \(Theta 198 Hz \- 206 Hz\)](https://open.spotify.com/track/1OTLWciJzBeXHKRycakcPS) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Nearby & Lotus \(Theta Binaural\)](https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu) | 2:48 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KtT8t49L8p.md) - [plain]
 | 36 | [Lake Views \(Binaural Theta 104 Hz \- 98.5 Hz\)](https://open.spotify.com/track/4JfvAvu2mdZPM1s6d6sSXh) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:27 |
 | 37 | [Theta Drift 6 Hz](https://open.spotify.com/track/6XXY8bDfm9IvT2mZL14hir) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Drift](https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw) | 3:18 |
 | 38 | [Creativity Theta Drone](https://open.spotify.com/track/1bxUuXieTW8RVMF0Ga6qBC) | [Arctic Pads](https://open.spotify.com/artist/4AduPPid79418PHGKIodmw) | [Theta Binaural Meditation](https://open.spotify.com/album/21JtKIzMrJPjYmfJNJ8WZW) | 3:18 |
-| 39 | [Theta Flow \(101Hz \- 108Hz\)](https://open.spotify.com/track/0NzHTf3IWQZT414Qie8iUp) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:09 |
+| 39 | [Theta Flow \(101Hz \- 108Hz\)](https://open.spotify.com/track/0NzHTf3IWQZT414Qie8iUp) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:09 |
 | 40 | [Theta Waves Sleep Music](https://open.spotify.com/track/1HgdzuodiBcuHjYiC2u4R6) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r), [Binaural Beats Library](https://open.spotify.com/artist/5Mk1SfiKteGGUq5WDcRwOB), [Binaural Beats Deep Sleep](https://open.spotify.com/artist/0wmr2DRyX5KQcSv2jS6ydi) | [Binaural Beats Deep Sleep: Ambient Music, Isochronic Tones, Alpha Waves, Theta Waves and Relaxing Music For Sleeping, Sleep Music and Brainwave Entrainment](https://open.spotify.com/album/6Ss53oZMeKiWHOnj3yObSI) | 2:03 |
 | 41 | [Binaural Theta Sinus 100 Hz \- L 106 Hz \- R](https://open.spotify.com/track/3wkWpKHoPDmF0TfZlage3z) | [Dorthe Gretchen](https://open.spotify.com/artist/4SEREG9de5QCdwWGK0wYvp) | [Binaural Theta Sinus 100 Hz \- L 106 Hz \- R](https://open.spotify.com/album/3EGpIZLTLZuFdrsPi9vSnK) | 2:24 |
 | 42 | [Skies REM \(Theta version\)](https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:41 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KtT8t49L8p.md) - [plain]
 | 62 | [For Dreaming \- Theta Binaural Beats](https://open.spotify.com/track/7Mq2z9K1rv9rhODKLhVZgO) | [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1) | [Binaural Beats](https://open.spotify.com/album/51VyjQNF0KhcJCjhAXBSAR) | 20:00 |
 | 63 | [Binaural Theta Sinus 220Hz \- 226Hz](https://open.spotify.com/track/7MIq7As5oZfNjXhVzJugYN) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art Of Meditation and Creativity](https://open.spotify.com/album/05OdJyl7TctTFyUlHgg8EX) | 3:31 |
 
-Snapshot ID: `MCw2MzY1ZGE2MWE2MTdhNjgxYzI2NDYyZDQyNTVmNTlmYjE5MTdkMDlk`
+Snapshot ID: `MCw2NzM5MzA4ZjU1Njc1YmFmMWY4MzY3YjRiMDJiOGRjYTUzZGU3ZDA5`

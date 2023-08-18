@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155277,
+      "name": "She Feelin Nice (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0"
+    },
+    {
+      "album": {
         "name": "Man On The Moon III: The Chosen",
         "url": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w"
       },

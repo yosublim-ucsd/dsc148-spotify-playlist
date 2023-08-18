@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 394954,
+  "num_followers": 395056,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRmM2VjMzAwMWE0ZTI3YjlmZTUwN2E2ZTgxODk0NDljZDBkZWRk",
+  "snapshot_id": "MCxhZTYzMGFlZjhkZWM4YjM4MDA2MjhlOTUwMjZlMzEyNWI2ODhlOGE1",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Cobarde - Spotify Singles",
-      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "A Lo Cubano",
         "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 243696,
       "name": "A Lo Cubano",
       "url": "https://open.spotify.com/track/5RHsMuIxbJhGJoyd8DYmn8"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Cobarde - Spotify Singles",
+      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Bailables",
+        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Chocolat (Swing)",
+      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "El Caudal",
         "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 237619,
       "name": "El Caudal",
       "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Bailables",
-        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
-      },
-      "artists": [
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Chocolat (Swing)",
-      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -1031,38 +1047,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
-      },
-      "artists": [
-        {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Mettavolution",
-        "url": "https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mettavolution",
+        "url": "https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "bossa nova",
-        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 188070,
-      "name": "bossa nova",
-      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
         "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 162986,
       "name": "Un Telegrama",
       "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 188070,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
-        "url": "https://open.spotify.com/album/4JUwwqtbrYubzzARMb5j6C"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/6lWS8SoWjlAqX6Y21u8cny"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Arturo Sandoval",
         "url": "https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk"
       },
@@ -1371,18 +1351,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+        "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
+        "url": "https://open.spotify.com/album/4JUwwqtbrYubzzARMb5j6C"
       },
       "artists": [
         {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 208320,
-      "name": "El Chuchumb\u00e9",
-      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+      "duration_ms": 231493,
+      "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/6lWS8SoWjlAqX6Y21u8cny"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 167497,
       "name": "Around the World (Intro)",
       "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "El Chuchumb\u00e9",
+      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Libre y en Movimiento",
         "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Companeros De Mi Vida",
-        "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
       },
       "artists": [
         {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
         }
       ],
-      "duration_ms": 262989,
-      "name": "Maria Cristina",
-      "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 258845,
       "name": "Rosalie (Espa\u00f1ol)",
       "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Companeros De Mi Vida",
+        "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        }
+      ],
+      "duration_ms": 262989,
+      "name": "Maria Cristina",
+      "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Desde Lejos",
         "url": "https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 270000,
       "name": "Desde Lejos",
       "url": "https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
+      },
+      "artists": [
+        {
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2023-08-11 04:00:00",

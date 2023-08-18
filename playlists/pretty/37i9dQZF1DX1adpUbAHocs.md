@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,782 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,871 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 44 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 |
 | 45 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 46 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
-| 47 | [Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:30 |
-| 48 | [She Lit a Fire](https://open.spotify.com/track/4c2k3NdkIwhi0eogpTnteI) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:30 |
+| 47 | [She Lit a Fire](https://open.spotify.com/track/4c2k3NdkIwhi0eogpTnteI) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:30 |
+| 48 | [Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:30 |
 | 49 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 50 | [Find Your People](https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:14 |
 | 51 | [Witness](https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:54 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 60 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
 | 61 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
 | 62 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
-| 63 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
-| 64 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
+| 63 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
+| 64 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
 | 65 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
 | 66 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 |
 | 67 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 88 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 |
 | 89 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
 | 90 | [Beloved](https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:25 |
-| 91 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
-| 92 | [Going On A Feeling](https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:24 |
+| 91 | [Going On A Feeling](https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:24 |
+| 92 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
 | 93 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
 | 94 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
 | 95 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
 | 96 | [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 |
-| 97 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
-| 98 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 |
+| 97 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 |
+| 98 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
 | 99 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 100 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 |
 
-Snapshot ID: `MCwwYmZlYzhhN2MxZTRhMDZmMGQ2MjkxZGI1NzdhMDM2NTg3OTU5NTQ5`
+Snapshot ID: `MCwzOGVmN2EzZTNmMjE0MjFlOWZkNTNiODkyYjMzZWNmM2ViZTFiY2Yz`

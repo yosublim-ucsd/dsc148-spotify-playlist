@@ -2,7 +2,7 @@
 
 ### [Stretching](https://open.spotify.com/playlist/37i9dQZF1DX7FiQUm1UvSn)
 
-> ¡La mejor musica para relajarte y estirar tu cuerpo antes o después del entrenamiento!
+> The best soundtrack to relax and stretch your body before or after training!
 
 124 songs - 6 hr 37 min
 

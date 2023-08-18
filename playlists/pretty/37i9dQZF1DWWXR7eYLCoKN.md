@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,514 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,578 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 27 | [Samba Jambo](https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ) | [Jorge Mautner](https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg) | [Mil E Uma Noites De Bagdá](https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S) | 3:12 |
 | 28 | [Pago Pra Ver](https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Pago Pra Ver](https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD) | 4:32 |
 | 29 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 |
-| 30 | [Folhas Secas](https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Para Sempre](https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm) | 2:13 |
-| 31 | [Só Depois](https://open.spotify.com/track/7poBQMbIlkjWgnhXfXWxnI) | [MariaLuiza](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café Da MaLu Vol.03](https://open.spotify.com/album/7DR18KCa2LrwgmIU5nFf50) | 2:50 |
+| 30 | [Só Depois](https://open.spotify.com/track/7poBQMbIlkjWgnhXfXWxnI) | [MariaLuiza](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café Da MaLu Vol.03](https://open.spotify.com/album/7DR18KCa2LrwgmIU5nFf50) | 2:50 |
+| 31 | [Folhas Secas](https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Para Sempre](https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm) | 2:13 |
 | 32 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 |
 | 33 | [Para Ver As Meninas \- Remaster 2004](https://open.spotify.com/track/3DaD4cAaknPiZzgErG0gw8) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias, Crônicas e Declarações de Amor](https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL) | 3:52 |
 | 34 | [O Amanhã](https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Delirios Delicias](https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp) | 4:51 |
 | 35 | [Samba de um Minuto](https://open.spotify.com/track/3HLUpp7deS78Y3LE7xRbpw) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Que Belo Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/5q8JrwUqI6GcvxsDH6seKu) | 4:33 |
 | 36 | [Beijo Sem \- Ao Vivo](https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Pedro Baby](https://open.spotify.com/artist/7pMsZBaVjKibhLkNM9r4p0) | [Melhor Assim](https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m) | 3:34 |
-| 37 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 |
-| 38 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
+| 37 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
+| 38 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 |
 | 39 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 |
 | 40 | [Samba a Dois](https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7) | [Sambô](https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ) | [Samba a Dois](https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3) | 2:36 |
 | 41 | [Espiral de Ilusão](https://open.spotify.com/track/0uai6AmklcjcLR5gITivtI) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 | 100 | [Se Me Chamar, O Sorte!](https://open.spotify.com/track/1AkkRumTuA3MbfXMsmwEE7) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6tRtjhV934RrMZw4hkqXbN) | 3:38 |
 
-Snapshot ID: `MCxmYjkzYzhkNzVlYzFhZWNkNzgxNTYxOGNhNGNhYWE2NTY0ZGQyM2Ew`
+Snapshot ID: `MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx`

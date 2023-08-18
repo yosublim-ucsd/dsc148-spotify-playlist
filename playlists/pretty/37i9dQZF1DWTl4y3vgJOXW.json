@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in",
-  "num_followers": 2892125,
+  "num_followers": 2893007,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjFiZTIxYmY1MjdkODk3MzIyNmQwZmE0NDVjYWRkY2Q4OTAwNDM4",
+  "snapshot_id": "MCxlZmIzMTYxYTcyMjMwYTRhOGU5YmU3ZmQxMjg0MGEwYzUwM2ZiZmE5",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:17",
@@ -345,42 +345,6 @@
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
-      "added_at": "2023-07-20 23:10:55",
-      "album": {
-        "name": "Turn Yo Clic Up (feat. Future)",
-        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 230835,
-      "name": "Turn Yo Clic Up (feat. Future)",
-      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
-    },
-    {
-      "added_at": "2023-07-10 17:10:17",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Flooded The Face",
-      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
-    },
-    {
       "added_at": "2023-07-31 17:38:27",
       "album": {
         "name": "JEALOUSY (feat. Cardi B)",
@@ -399,6 +363,42 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "added_at": "2023-07-10 17:10:17",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Flooded The Face",
+      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
+    },
+    {
+      "added_at": "2023-07-20 23:10:55",
+      "album": {
+        "name": "Turn Yo Clic Up (feat. Future)",
+        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 230835,
+      "name": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
       "added_at": "2023-06-30 04:00:17",

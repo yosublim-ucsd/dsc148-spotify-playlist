@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Hot Chip",
+  "description": "New music off the beaten track. Cover: Supershy",
   "name": "OFF POP",
   "tracks": [
     {
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 208653,
       "name": "Because of You (feat. Isaac Delusion)",
       "url": "https://open.spotify.com/track/46HKDN72dkLckTwFV8TrLd"
@@ -1114,6 +1114,32 @@
       "duration_ms": 291626,
       "name": "Carbon Dioxide",
       "url": "https://open.spotify.com/track/5JTDPZDDetda3wazmZA3D0"
+    },
+    {
+      "album": {
+        "name": "Casualities (Yame Remix)",
+        "url": "https://open.spotify.com/album/0RCa4DV10reH3RS8S4HDnB"
+      },
+      "artists": [
+        {
+          "name": "Phonique",
+          "url": "https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz"
+        },
+        {
+          "name": "YAME",
+          "url": "https://open.spotify.com/artist/21pXVnPnafVqqIFAaUb7XW"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414193,
+      "name": "Casualities - YAME Remix",
+      "url": "https://open.spotify.com/track/0pAX8suClIReqkFfrA5TsV"
     },
     {
       "album": {
@@ -2694,7 +2720,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 256553,
       "name": "Fknow It",
       "url": "https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6"
@@ -3630,7 +3656,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 169472,
       "name": "I've Been In Love",
       "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
@@ -3692,6 +3718,32 @@
       "duration_ms": 217708,
       "name": "If Love Is A Skill",
       "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
+    },
+    {
+      "album": {
+        "name": "Immer",
+        "url": "https://open.spotify.com/album/2DcExJfAW7s0P6fS3XexAu"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "Deckert",
+          "url": "https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd"
+        },
+        {
+          "name": "Sargland",
+          "url": "https://open.spotify.com/artist/5nV7I7kKE57Z6lXvKbu15u"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199326,
+      "name": "Immer",
+      "url": "https://open.spotify.com/track/6Ryc8vAXGzR2yGcl7jBZAr"
     },
     {
       "album": {
@@ -4036,6 +4088,28 @@
       "duration_ms": 247499,
       "name": "Kandy",
       "url": "https://open.spotify.com/track/5TytypfM1sVy0GIX7MLUz8"
+    },
+    {
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "album": {
@@ -4718,7 +4792,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 229346,
       "name": "Loveher",
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
@@ -4758,7 +4832,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 163930,
       "name": "Lovin You",
       "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
@@ -4776,7 +4850,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 222242,
       "name": "Luna",
       "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
@@ -6089,6 +6163,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/7lvWOiTh8oMtOldgbB4EWi"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253219,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w"
+    },
+    {
+      "album": {
         "name": "Rockin - Poppin Full Tilting",
         "url": "https://open.spotify.com/album/1oneWyxtUUeTKXFuGfmhJ1"
       },
@@ -6126,6 +6218,24 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
+      "album": {
+        "name": "Rum 'n' Kola",
+        "url": "https://open.spotify.com/album/2V97BWHhvSa4Df0iM6xdKM"
+      },
+      "artists": [
+        {
+          "name": "Baby's Berserk",
+          "url": "https://open.spotify.com/artist/7qoypmsmoFKt8lXJcTcM8w"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236820,
+      "name": "Rum 'n' Kola",
+      "url": "https://open.spotify.com/track/1Crjjx5PvMKTanY2qT7kIZ"
     },
     {
       "album": {
@@ -6536,7 +6646,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 201640,
       "name": "Silly Walk",
       "url": "https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM"
@@ -6710,7 +6820,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 241550,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616"
@@ -6768,7 +6878,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 160000,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5A5bwcDikT756mRVs9gVCw"
@@ -6878,6 +6988,24 @@
       "duration_ms": 224480,
       "name": "strange love",
       "url": "https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m"
+    },
+    {
+      "album": {
+        "name": "strangers",
+        "url": "https://open.spotify.com/album/1bvEpPcV1whK3Kw94uydvJ"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174776,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/5uwfkHrHW6smpBtHoJEmeB"
     },
     {
       "album": {
@@ -7413,6 +7541,24 @@
     },
     {
       "album": {
+        "name": "The Way You Had Me",
+        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190423,
+      "name": "The Way You Had Me",
+      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
+    },
+    {
+      "album": {
         "name": "Tiger",
         "url": "https://open.spotify.com/album/0EFi9pNuGCalEEsWPSb6N4"
       },
@@ -7500,6 +7646,24 @@
       "duration_ms": 214200,
       "name": "Together We Stand",
       "url": "https://open.spotify.com/track/67JISBbKShmWCHHzbBHi48"
+    },
+    {
+      "album": {
+        "name": "Too Much Yayo",
+        "url": "https://open.spotify.com/album/0AGY3CMv8urFXrbzhZ07SO"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Too Much Yayo",
+      "url": "https://open.spotify.com/track/0fBrjGe5JD1XKifxYjwbbF"
     },
     {
       "album": {
@@ -8428,6 +8592,24 @@
       "duration_ms": 290753,
       "name": "Your Good Times Will Come",
       "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
+    },
+    {
+      "album": {
+        "name": "Your House",
+        "url": "https://open.spotify.com/album/4zplUtDo7bxG2GgQYG3Heg"
+      },
+      "artists": [
+        {
+          "name": "Rangleklods",
+          "url": "https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/5ljsY1nlzoYNDzleN2SMso"
     },
     {
       "album": {

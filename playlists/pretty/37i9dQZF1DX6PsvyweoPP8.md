@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,626 likes - 76 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,678 likes - 76 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 75 | [Na Sua Rota](https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [VK](https://open.spotify.com/artist/00fzfkVD3y9sfUfdaYDAGf) | [Smooth](https://open.spotify.com/album/4Tp411Bh9vDjXlJRHsSpLD) | 3:32 |
 | 76 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 
-Snapshot ID: `MCwzY2ZhYzg3NDY4NDJmNzQyNTRmN2Y4YTc3YTUyYzg4MTVkMDJkODBl`
+Snapshot ID: `MCxiZjE0M2Q5ZDQ4NTVkYmUyYjBhNWM0ZDEyZGZlMDgwYTEzOTk1ZTNm`

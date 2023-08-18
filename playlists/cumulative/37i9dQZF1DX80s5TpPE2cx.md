@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-92 songs - 5 hr 1 min
+93 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Breathing](https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [First Signs Of Me](https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo) | 3:49 | 2022-07-27 |  |
 | [Call on Me](https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Call on Me](https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb) | 3:00 | 2022-07-27 |  |
 | [Candy](https://open.spotify.com/track/6Wita44WcY7I72errJQ4aa) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Letters to Her](https://open.spotify.com/album/3zF3cwAPivQeGtOW1984RP) | 2:37 | 2022-07-27 |  |
-| [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 | 2022-07-27 |  |
+| [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 | 2022-07-27 | 2023-08-18 |
 | [Cash](https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 3:07 | 2022-07-27 | 2022-10-18 |
+| [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 | 2023-08-03 |  |
 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 | 2022-07-27 |  |
 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 | 2022-07-27 |  |
 | [Coconut Lips](https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Coconut Lips](https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q) | 3:35 | 2022-07-27 |  |
@@ -81,8 +82,8 @@
 | [Still II](https://open.spotify.com/track/6p3Ze7kZRPSAX8moYolJil) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/6c9KUWjLyQ8yxB9wGnbxfX) | 2:09 | 2022-07-27 | 2023-03-03 |
 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2022-07-27 |  |
 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 | 2022-07-27 |  |
-| [Take Me Home](https://open.spotify.com/track/4JP3dHzz9RwACJZePm2vqL) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 2:51 | 2022-07-27 | 2022-10-18 |
-| [Take Me Home](https://open.spotify.com/track/4RbhOqxDhVedWUAJeYTn7b) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 2:51 | 2022-07-27 |  |
+| [Take Me Home](https://open.spotify.com/track/4JP3dHzz9RwACJZePm2vqL) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 2:51 | 2022-07-27 |  |
+| [Take Me Home](https://open.spotify.com/track/4RbhOqxDhVedWUAJeYTn7b) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 2:51 | 2022-07-27 | 2023-08-18 |
 | [The Atlas](https://open.spotify.com/track/2QtMHkOVl28e5QOUbeLfkB) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Me in Me](https://open.spotify.com/album/0ie5Z0uCEmLVQaDlmja49u) | 4:28 | 2022-07-27 |  |
 | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/track/3zIiwUQogxtTieEgGPKB7B) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [King Zamir](https://open.spotify.com/artist/76e2rJtSnKai5gTBg1xFae) | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/album/3siHuAYwyA4ql8j4BltiyV) | 3:54 | 2022-07-27 |  |
 | [TheBox](https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Passport](https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig) | 3:55 | 2022-07-27 |  |

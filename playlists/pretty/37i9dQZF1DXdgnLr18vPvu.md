@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 
 > The right music can make a good tailgate great.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,999 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,014 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 88 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
 | 89 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 |
 | 90 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 |
-| 91 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
-| 92 | [I'll Name the Dogs](https://open.spotify.com/track/609qKv3KPAbdtp0LQH2buA) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texoma Shore](https://open.spotify.com/album/1Kc7TpYwJQ0mzVAssuWbB0) | 3:03 |
+| 91 | [I'll Name the Dogs](https://open.spotify.com/track/609qKv3KPAbdtp0LQH2buA) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texoma Shore](https://open.spotify.com/album/1Kc7TpYwJQ0mzVAssuWbB0) | 3:03 |
+| 92 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
 | 93 | [Tequila Little Time](https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:27 |
 | 94 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 |
-| 95 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
-| 96 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
+| 95 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
+| 96 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
 | 97 | [Cold Beer Calling My Name](https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Cold Beer Calling My Name](https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx) | 3:30 |
 | 98 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 |
 | 99 | [Knockin' Boots](https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Knockin' Boots](https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS) | 3:19 |
 | 100 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 
-Snapshot ID: `MCxiNzAzNWNkNDQwYzdiNGY2OGExNWVlZjI5N2JiMjQ3NWJkZGJmZTcz`
+Snapshot ID: `MCwyYWZiOTYyMjdmZmM5MWNkMjI3NDBlNzJiN2UxYjFkYjM5MmFmODAz`

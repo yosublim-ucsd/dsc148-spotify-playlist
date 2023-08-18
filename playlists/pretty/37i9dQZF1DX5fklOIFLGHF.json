@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: EMI",
-  "num_followers": 17689,
+  "num_followers": 17691,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmVlZTVlZmRmZGVjZWMwNGYyNDQ5OTAxNmRiZDRlMTU3Mzc0MWRm",
+  "snapshot_id": "MCwzNzc1MWJlZGZjYmM1MmE0YzI1ZTQxMzRjNjQzZDcyNTg2NjdlNTNj",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Porfiado",
         "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
       },
@@ -963,18 +947,34 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Physical Graffiti (Deluxe Edition)",
         "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 350400,
       "name": "Sultans of Swing",
       "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 289654,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 289654,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 256190,
-      "name": "M\u00edrenla",
-      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Voragine",
-        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Cae el Sol",
-      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+      "duration_ms": 256190,
+      "name": "M\u00edrenla",
+      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Presi\u00f3n",
-        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Una Nueva Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
       },
@@ -1559,22 +1543,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "Presi\u00f3n",
+        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+      "duration_ms": 277560,
+      "name": "Una Nueva Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Oktubre",
         "url": "https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     }
   ],
   "unique_name": "La Frecuencia",

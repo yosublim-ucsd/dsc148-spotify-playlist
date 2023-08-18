@@ -4,7 +4,7 @@
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-166 songs - 10 hr 9 min
+167 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Postcard to Nina](https://open.spotify.com/track/4ynAd2i1u4qZVsB4mBAHcd) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Night Falls Over Kortedala](https://open.spotify.com/album/2FUVQumH9Wr0WYdyUHACtQ) | 5:00 | 2022-02-10 | 2022-07-29 |
 | [A Teenager in Love](https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 3:19 | 2022-02-10 | 2023-04-29 |
 | [A Teenager in Love](https://open.spotify.com/track/0eFvq5en7MGkbzS1I6vUAG) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure At Heart](https://open.spotify.com/album/4QqUhGQe1QevExvfANIZ2X) | 3:19 | 2022-02-10 | 2022-07-29 |
+| [A Teenager in Love](https://open.spotify.com/track/5JMur5IZCCWUdFFRt7ekbf) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 3:19 | 2023-03-14 |  |
 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 | 2022-02-10 |  |
 | [America](https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 3:35 | 2022-02-10 |  |
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 | 2022-02-10 |  |
@@ -73,7 +74,7 @@
 | [I Was Never Young](https://open.spotify.com/track/3vPdanGZRJILGXC3jzIgYc) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia) | 3:30 | 2022-02-10 | 2022-07-29 |
 | [I Was Never Young](https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 3:30 | 2022-08-26 |  |
 | [I Wonder](https://open.spotify.com/track/1N7CPfmaGgfulHwmnBRanq) | [The Willowz](https://open.spotify.com/artist/2dG9gBa7T5yfZZVXvvHxPF) | [The Willowz](https://open.spotify.com/album/4Jf3B2ckkvhkVSWDkCeEHN) | 2:57 | 2022-02-10 | 2022-07-20 |
-| [I'm In Love With A Girl Who Doesn't Know I Exist](https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 1:38 | 2022-02-10 |  |
+| [I'm In Love With A Girl Who Doesn't Know I Exist](https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 1:38 | 2022-02-10 | 2023-08-18 |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 | 2022-02-10 |  |
 | [It's Okay](https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Some Are Lakes](https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo) | 4:54 | 2022-02-10 | 2023-05-02 |
 | [Keep It Clean](https://open.spotify.com/track/0hPHOFbf3uKhBL2VaZ9YGn) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:16 | 2022-02-10 | 2022-07-29 |

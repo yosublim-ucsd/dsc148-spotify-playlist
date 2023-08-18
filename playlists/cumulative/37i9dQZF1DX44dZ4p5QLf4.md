@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Kymara
 
-347 songs - 20 hr 47 min
+348 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Save You](https://open.spotify.com/track/4RENGaT8EpQK0bhUfW877V) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Songs That Made Me Feel](https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb) | 3:29 | 2021-12-16 | 2022-01-14 |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 |  |
 | [Screw My Head Back On](https://open.spotify.com/track/2tlhFFTqAcM2OgAF4NOAtY) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Len](https://open.spotify.com/artist/2iYJH0zXVSgpM6Ln6zslxj) | [Screw My Head Back On](https://open.spotify.com/album/41ipmhsYupEWd8N3rrNudY) | 2:56 | 2022-12-02 |  |
-| [sealand](https://open.spotify.com/track/0snUtOBX7IyyygQHflCUNj) | [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [sealand](https://open.spotify.com/album/3uoHVEX65eMnvDEsDc2IMG) | 4:18 | 2022-10-28 |  |
+| [sealand](https://open.spotify.com/track/0snUtOBX7IyyygQHflCUNj) | [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [sealand](https://open.spotify.com/album/3uoHVEX65eMnvDEsDc2IMG) | 4:18 | 2022-10-28 | 2023-08-18 |
+| [sealand](https://open.spotify.com/track/5vyHC9KyYoXTUH2eLUwK8P) | [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [sealand](https://open.spotify.com/album/4hcnXR0juT3ry1SXzSgu0A) | 4:18 | 2023-08-15 |  |
 | [Security Code](https://open.spotify.com/track/2ZOIl2JPKxTKNqJboeSrWd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 3:35 | 2022-10-28 |  |
 | [Send My Love](https://open.spotify.com/track/543xswdRTjGmimDJk9AlZN) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [What We Call Life](https://open.spotify.com/album/6Ifae2tRjg49lTQ9390iOD) | 4:04 | 2022-12-12 |  |
 | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe) | 6:27 | 2021-12-16 | 2022-12-03 |

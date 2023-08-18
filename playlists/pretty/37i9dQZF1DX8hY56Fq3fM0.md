@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,442 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,761 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 38 | [Sweet Talk](https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:12 |
 | 39 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
 | 40 | [Rollercoaster](https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:08 |
-| 41 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
-| 42 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
+| 41 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
+| 42 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
 | 43 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
 | 44 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 |
 | 45 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 76 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
 | 77 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
 | 78 | [Daft Pretty Boys](https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ) | 3:07 |
-| 79 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 |
-| 80 | [Unbelievers](https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:22 |
-| 81 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
+| 79 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
+| 80 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 |
+| 81 | [Unbelievers](https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:22 |
 | 82 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
 | 83 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
 | 84 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 |
-| 85 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
-| 86 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
+| 85 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
+| 86 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
 | 87 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
 | 88 | [Black Treacle](https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:37 |
 | 89 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 99 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 100 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
 
-Snapshot ID: `MCwwMTU4ZWRhYTMxZGNhZDdkNDQ0NjY4ZDA0ZDU2NGYxYjJjM2RhNzMz`
+Snapshot ID: `MCwyMGM3OWFkZDM2OWRkYzhiMWY3NjQ1YTQ2NTQ1MzFkMGEwMmUxY2Nh`

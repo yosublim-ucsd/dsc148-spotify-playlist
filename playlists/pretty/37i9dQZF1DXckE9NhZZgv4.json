@@ -1,12 +1,12 @@
 {
   "description": "Let's make this a day and night to remember. ",
-  "num_followers": 34680,
+  "num_followers": 34737,
   "original_name": "Bachelorette Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzc5OWU4MzFiYTU0NTdiMGM1ZmI1OGZjNWQwYTE0MjEwYTcxYmY5",
+  "snapshot_id": "MCxkNTE5MDkwODJiZTZkNjNjODQwMDZhNDA4MGUyMzg4MjE4MjU1NDI0",
   "tracks": [
     {
       "added_at": "2022-12-28 20:23:43",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
         "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194087,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
-      },
-      "artists": [
-        {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 173325,
-      "name": "Truth Hurts",
-      "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 173325,
+      "name": "Truth Hurts",
+      "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "MONTERO (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137875,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "MONTERO (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+      "duration_ms": 137875,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "All About That Bass",
-      "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 236093,
       "name": "Run the World (Girls)",
       "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
         "name": "Mamma Mia! The Movie Soundtrack",
         "url": "https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 187360,
       "name": "Honey, Honey - From 'Mamma Mia!' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6P4XyViJkq9QGEHtzfMIrH"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
     }
   ],
   "unique_name": "Bachelorette Party",

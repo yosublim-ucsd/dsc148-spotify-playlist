@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,399 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,593 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [Amor de Madre](https://open.spotify.com/track/7Ka96TnEA9S6aWG4pIS9RW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:50 |
 | 100 | [Asignatura Pendiente](https://open.spotify.com/track/4nYE8K5ozd9HNfB2RC8o2c) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Almas Del Silencio](https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2) | 3:56 |
 
-Snapshot ID: `MCw0M2NmMzFmNzllYjk4OGJkYTUxODdlNjI2NmI4ZTRhNzUwMTQ4ZGZh`
+Snapshot ID: `MCw4NTAxMzFkNGRmZmJjODdiMWNmODcxMjVjYmU5ZWJlZTE5MTEyYzUz`

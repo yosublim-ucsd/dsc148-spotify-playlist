@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-605 songs - 1 day 8 hr 36 min
+607 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Blue Ink](https://open.spotify.com/track/1LuCnD3kMp1KVT9AffvzDK) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sweet](https://open.spotify.com/album/3Ku32ojOASDbazhWQs2vr5) | 3:02 | 2022-06-07 | 2022-06-26 |
 | [Bond girl Sugushinu](https://open.spotify.com/track/3OEn6CmjNDxskFlVNjyIU6) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [3rd e.p](https://open.spotify.com/album/2tnBhc5J7XZjqf7cAB7Gqf) | 2:38 | 2022-10-18 | 2022-11-09 |
 | [Bored Rigid](https://open.spotify.com/track/6zXsdp7du4Y2tQ8fGYPuyk) | [Comeback My Daughters](https://open.spotify.com/artist/7wM7iIMQX2HrJCjASApbWW) | [EXPerience](https://open.spotify.com/album/20BflIUzszY4lTwqsI7dRj) | 4:53 | 2022-05-12 | 2022-07-16 |
-| [BOYSISM](https://open.spotify.com/track/1MHMtAXsUytkrFc2b5gb2K) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 1:30 | 2022-12-20 |  |
+| [BOYSISM](https://open.spotify.com/track/1MHMtAXsUytkrFc2b5gb2K) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 1:30 | 2022-12-20 | 2023-08-18 |
 | [BOYZ DON'T CRY](https://open.spotify.com/track/3nDBPRhYEIxQNMyydQiX2k) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/1BgMkzGUGBiMfweuPLtEd4) | 3:46 | 2022-08-18 | 2022-08-20 |
 | [BOYZ DON'T CRY](https://open.spotify.com/track/5LBuLQqHOkQwWOaB51hnFM) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [BOYZ DON'T CRY](https://open.spotify.com/album/0jj4wVi533xDTcI0FMOklf) | 3:46 | 2022-08-19 | 2022-09-15 |
 | [Brand New Day](https://open.spotify.com/track/0b2j6FUGUgMgrdMEDmu0RC) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Fresh Cheese Delivery](https://open.spotify.com/album/04dxT90eA6LOzUjMOxej12) | 1:48 | 2022-05-12 |  |
@@ -259,6 +259,7 @@
 | [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-14 | 2023-02-16 |
 | [No Answer](https://open.spotify.com/track/3WCHmmTGruMeMuYIBt0VzK) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-12 | 2022-07-28 |
 | [No more ステートメント](https://open.spotify.com/track/4OeYtOIASIY9bBF0v8MDqK) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [No more ステートメント](https://open.spotify.com/album/41HbWao46UHDzaD9GMOZHD) | 2:57 | 2022-06-07 | 2023-02-15 |
+| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 |  |
 | [NO ONE ELSE](https://open.spotify.com/track/3qFPvk2M5a949ryD5YCeXb) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [NO ONE ELSE](https://open.spotify.com/album/50JUFWlhL3o6LiFKXKepTD) | 2:48 | 2022-07-14 | 2022-07-28 |
 | [Nobody Can Stop Us Anymore](https://open.spotify.com/track/5bhPFNKlAxOMJTMjaQC433) | [Septaluck](https://open.spotify.com/artist/7CVOEk5qmi1ju2C7QJrSzT) | [Pieces Of The Puzzle](https://open.spotify.com/album/6By2m7JwomSCoIo72saATN) | 3:37 | 2022-05-17 | 2022-07-26 |
 | [None of Your Business](https://open.spotify.com/track/0FOcGLgUGmMzwT7IlM7hmU) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [SPECIES](https://open.spotify.com/album/4bhfca8CjqItlIeBYQ35JT) | 3:56 | 2022-06-14 | 2022-07-19 |
@@ -313,6 +314,7 @@
 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [ROLLIE](https://open.spotify.com/track/3gt8pHDISoVa9oqaUn7SVn) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [EXPLORING OF THE SPACE](https://open.spotify.com/album/1snGcjfyD9oSQdOcUsr6NG) | 2:56 | 2022-05-19 | 2023-01-04 |
 | [ROSSOMAN](https://open.spotify.com/track/1OdL36eXdoWhN7HaaDLUIv) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN](https://open.spotify.com/album/2G0498MGtXceWoTlTmnJMK) | 3:59 | 2022-05-12 | 2022-07-22 |
+| [Sadness Is Over](https://open.spotify.com/track/2eT5hxlWXRal174NX8YrFA) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Sadness Is Over](https://open.spotify.com/album/5ZqzhJQEyLdHcPdtqDWUEx) | 2:43 | 2023-08-17 |  |
 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 | 2023-06-07 |
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
@@ -391,7 +393,7 @@
 | [The Gift](https://open.spotify.com/track/7DTQOBUV8zMErJfPkf4zVr) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd) | 2:22 | 2022-05-19 | 2022-07-26 |
 | [THE NIGHT WITHOUT A STAR](https://open.spotify.com/track/5mqKM1gPH7247hZoE6Q0NR) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [EVERLASTING](https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D) | 2:56 | 2022-05-12 | 2022-07-25 |
 | [THE SOOTHING](https://open.spotify.com/track/3N56UMx9kEOzx97maRtHZY) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [THE SOOTHING](https://open.spotify.com/album/2gjSsAWMvLkhZbzHayDjrs) | 2:41 | 2022-05-12 | 2022-07-14 |
-| [The Sound Of Our Love](https://open.spotify.com/track/51VBY0UywtABoLmQVcexnu) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Father And Me](https://open.spotify.com/album/43nUn3KuZGmrkYRYMOCstZ) | 3:02 | 2023-08-15 |  |
+| [The Sound Of Our Love](https://open.spotify.com/track/51VBY0UywtABoLmQVcexnu) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Father And Me](https://open.spotify.com/album/43nUn3KuZGmrkYRYMOCstZ) | 3:02 | 2023-08-15 | 2023-08-18 |
 | [The Wristband of THE HIGH\-LOWS at My Parents' House](https://open.spotify.com/track/7pCrcx296Mz5B7FLRsHSkt) | [LETEPATHYS](https://open.spotify.com/artist/6mrp4Qwn9ekWEK73Vct3BM) | [Endangered Species](https://open.spotify.com/album/1QQpRsMfOvBk9kzIXJfhxz) | 1:14 | 2022-08-16 | 2022-09-15 |
 | [Time goes on](https://open.spotify.com/track/78YAWfKE8BZKvWX1ZwGCPK) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [GIZMOといっしょ](https://open.spotify.com/album/5MsWIbsWjgsHbIbA0YPonk) | 2:34 | 2022-06-07 | 2022-07-04 |
 | [TOKOSHIENI](https://open.spotify.com/track/2rn0JaKCLzRymIeV6H4Nmf) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [TOKOSHIENI](https://open.spotify.com/album/6EDHO33gg2AdhTBmTyScd3) | 4:06 | 2023-08-08 |  |

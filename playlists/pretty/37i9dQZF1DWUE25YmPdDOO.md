@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE25YmPdDOO.md) - [plain]
 
 > Canciones de rock con un toque de nostalgia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,557 likes - 70 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,669 likes - 70 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,22 +25,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE25YmPdDOO.md) - [plain]
 | 15 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 16 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
 | 17 | [Devuélveme a mi chica](https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:14 |
-| 18 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
-| 19 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |
+| 18 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |
+| 19 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 | 20 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 21 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 22 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 23 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 |
 | 24 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 |
-| 25 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
-| 26 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 25 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 26 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
 | 27 | [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 |
 | 28 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 29 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
 | 30 | [By the Way](https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:36 |
 | 31 | [Labios Rotos \- En Vivo Desde México / 2010](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
-| 32 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
-| 33 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 |
+| 32 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 |
+| 33 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
 | 34 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
 | 35 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
 | 36 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE25YmPdDOO.md) - [plain]
 | 69 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
 | 70 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/0Ruvs5IxqkGqQVWCO2oRpw) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Me Verás Volver \(Hits & Más\)](https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb) | 3:33 |
 
-Snapshot ID: `MCwzYjk2ZTM4OWQ1YTZiYTcxOGYxODZiMWFhZjVmOGY1ZDI1YjcyYjM4`
+Snapshot ID: `MCw0ZjUzYWJjYTZjZjNmNWNkOTU4NzNlYzQyYzg2NDcyNGM3NmQ3ODA4`

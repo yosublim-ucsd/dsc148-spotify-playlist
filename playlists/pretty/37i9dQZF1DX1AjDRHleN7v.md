@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,094 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,137 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 32 | [Sem Medo](https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sessão Aberta Acústico](https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI) | 4:05 |
 | 33 | [Me Beija](https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM) | [Mateus Menezes](https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz) | [Me Beija](https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk) | 2:59 |
 | 34 | [Garoa \- REWIND](https://open.spotify.com/track/5xKZkE6tJ2usQOZWriIVVa) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [REWIND: Marina Peralta 10 Anos](https://open.spotify.com/album/4CeavisdB3NP5ZdUaBNKoO) | 4:41 |
-| 35 | [Por aí](https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe) | [Por Aí](https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L) | 3:05 |
-| 36 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
+| 35 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 |
+| 36 | [Por aí](https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe) | [Por Aí](https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L) | 3:05 |
 | 37 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
 | 38 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6) | 4:28 |
 | 39 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 48 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
 | 49 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
 | 50 | [Volta pra Casa.](https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I) | [Dom Vinera](https://open.spotify.com/artist/6cbcX5qJMGAjqiQmpoKhhx), [Mariii Batista](https://open.spotify.com/artist/1hpaqFjce9vQVa4Bre9Wve) | [Volta pra Casa.](https://open.spotify.com/album/4LhRECtSYSozf5WQTYTZ8c) | 3:39 |
-| 51 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 |
-| 52 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
+| 51 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
+| 52 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 |
 | 53 | [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 |
 | 54 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
 | 55 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
-| 56 | [Que Vem do Mar](https://open.spotify.com/track/3XNjsb2GWwT9lU3aT4Bnmj) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem do Mar](https://open.spotify.com/album/2KoifypEyKpsQw7wrOJZph) | 4:00 |
-| 57 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
-| 58 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 |
-| 59 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
-| 60 | [O Amor Venceu](https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg) | [Luc DubWise](https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU) | [O Amor Venceu](https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl) | 3:07 |
+| 56 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
+| 57 | [O Amor Venceu](https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg) | [Luc DubWise](https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU) | [O Amor Venceu](https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl) | 3:07 |
+| 58 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
+| 59 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 |
+| 60 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
 
-Snapshot ID: `MCw1MzhjZGI5OGNkMGZkNTk1MTliY2U0ZmJhODdlYjJiYjRjNjI1NzNm`
+Snapshot ID: `MCwzYzU2OGExYzU2Y2ViYTk2NDdhNGJjMDhhM2MxMmQwNzk3YThmZDQw`

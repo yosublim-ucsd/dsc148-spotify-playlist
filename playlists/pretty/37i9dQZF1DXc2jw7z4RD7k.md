@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,726 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,836 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 | 46 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 47 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 48 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 49 | [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 |
-| 50 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 |
+| 49 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 |
+| 50 | [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 |
 | 51 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 |
 | 52 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
 | 53 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 | 74 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5pKJtX4wBeby9qIfFhyOJj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:31 |
 | 75 | [Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Deliver](https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp) | 2:58 |
 
-Snapshot ID: `MCw1MGNmMDA3MGJkNzQwMTNmMGQ4MDkyMTA5ZmQ4ZWZiMDg1MDk3ZDNm`
+Snapshot ID: `MCwzY2ViMjc3OTZiOTQwODcxN2FiZDIyYTJiMWM1NGMzMGE1NDJmZWVl`

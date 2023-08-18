@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Trueno",
-  "num_followers": 484324,
+  "num_followers": 484542,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTE4Mjk4ZGY3NmE2ODg5MzA1MzBhOTc0Y2EyZmYwMWY4Y2YzYjcw",
+  "snapshot_id": "MCwwMmI3YjM2NTQwZWMzMGMyYzA0NDcwMWRlODg0YjgxNDg5NWE2ODA0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "hARAkiRi",
-        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 169258,
-      "name": "hARAkiRi",
-      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Feria en el Sobre",
         "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "hARAkiRi",
+        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 169258,
+      "name": "hARAkiRi",
+      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Ni\u00f1os Peque\u00f1os",
+        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Ni\u00f1os Peque\u00f1os",
+      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "obst\u00e1culo",
         "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Ni\u00f1os Peque\u00f1os",
-        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Ni\u00f1os Peque\u00f1os",
-      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
-        "url": "https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 328346,
-      "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
-      "url": "https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 206645,
       "name": "7",
       "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
+        "url": "https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 328346,
+      "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
+      "url": "https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Trap Bandicoot",
+        "url": "https://open.spotify.com/album/4C0rxFMtSmialjEWZ5bLVq"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/56ieMJZ6jvwiQgEJQSWGz9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Stripper X",
         "url": "https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 234726,
       "name": "Una Pistola y Un Toque",
       "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Trap Bandicoot",
-        "url": "https://open.spotify.com/album/4C0rxFMtSmialjEWZ5bLVq"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Woo",
-      "url": "https://open.spotify.com/track/56ieMJZ6jvwiQgEJQSWGz9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "NUDE",
+        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 175718,
+      "name": "NUDE",
+      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Trap Life",
         "url": "https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 220341,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/0eNe9tTxrXzyoX3DSeJEDN"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "NUDE",
-        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 175718,
-      "name": "NUDE",
-      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 217228,
+      "name": "G-500",
+      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "LQRA Session #14",
         "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 193714,
       "name": "LQRA Session #14",
       "url": "https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 217228,
-      "name": "G-500",
-      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "ST\u00dcSSY",
-        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
-      },
-      "artists": [
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
-        }
-      ],
-      "duration_ms": 144714,
-      "name": "ST\u00dcSSY",
-      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Champion Indiscutible",
         "url": "https://open.spotify.com/album/4geT96evQHJEBEzIyddksu"
       },
@@ -2515,22 +2499,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Living Life",
-        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+        "name": "ST\u00dcSSY",
+        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
         }
       ],
-      "duration_ms": 234374,
-      "name": "Ta To Saldo",
-      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
+      "duration_ms": 144714,
+      "name": "ST\u00dcSSY",
+      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2551,6 +2531,26 @@
       "duration_ms": 175208,
       "name": "Seguimos Controlando",
       "url": "https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Ta To Saldo",
+      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
     },
     {
       "added_at": "2023-08-11 04:00:00",

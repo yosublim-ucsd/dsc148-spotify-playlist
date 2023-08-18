@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,764 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,825 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Da draussen](https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Fettes Brot lässt grüssen](https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL) | 5:20 |
 | 50 | [Nur noch Gucci](https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 3:32 |
 
-Snapshot ID: `MCxkMmJlZjQ3NWQyNmFlOGJmNGYwMTZlYzNjNTIyZmI0ZDg5ZGFiMDYx`
+Snapshot ID: `MCw2MmZhOWI0YWVmYmRkNmVhMDhmMGIwOGE5N2U4MjU0ODViYmE1YWUy`

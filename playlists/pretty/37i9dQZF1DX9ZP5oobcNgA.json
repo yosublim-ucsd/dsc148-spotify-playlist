@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 113110,
+  "num_followers": 113134,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTE2MmJjYmEyZTZlOTYxMWE5ZWM2ZjM0MzdkZjc5YmUxNjA4Yzlm",
+  "snapshot_id": "MCwzZWEzYTBmMTM0YzYyYTNjM2RmOWQ5YTQzMDc4NWQ3MjEwNzljMDI2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 70786,
-      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
-      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel - Messiah and other works",
         "url": "https://open.spotify.com/album/2qlWVekqnJi8P20XdwT6z4"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 255693,
       "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
       "url": "https://open.spotify.com/track/4tjILrO9lD8DC5ExpE520A"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 70786,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
+      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
         "url": "https://open.spotify.com/album/1vaSnKicMO4nHHMY77vAlv"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 134800,
       "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
       "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1403,34 +1403,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Peaceful Handel",
-        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Christina Wieland",
-          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
-        },
-        {
-          "name": "Frankfurt Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
-        },
-        {
-          "name": "Joachim Carlos Martini",
-          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
-      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Athalia",
         "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
       },
@@ -1479,6 +1451,34 @@
       "duration_ms": 309360,
       "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
       "url": "https://open.spotify.com/track/04OWdUznQBH1jS7WLPQvJL"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Christina Wieland",
+          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
+      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
     },
     {
       "added_at": "2022-06-28 08:56:25",

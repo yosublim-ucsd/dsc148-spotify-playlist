@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: DJ Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,106 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,128 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [So Sexy](https://open.spotify.com/track/7a27ScTnV7nspnzZb4ar90) | [Smiles Official](https://open.spotify.com/artist/72XaJt3fYO3JArMNGKfm5T), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [So Sexy](https://open.spotify.com/album/1mADtatGWI61WiR7IPCA6Y) | 2:27 |
 | 50 | [Cowboy Bebop](https://open.spotify.com/track/6KHx0lFbfsplQJhZxJNJRX) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Cowboy Bebop](https://open.spotify.com/album/5sMwxOdU1wyMJl8okwrzyQ) | 2:34 |
 
-Snapshot ID: `MCxlZmVmN2NlOGYxODJjZDAwM2RhNmFmNWVjNzRiZmZmZDNiOTA1Mjk3`
+Snapshot ID: `MCw5NGE2ZGViZTdjMDE5N2E5NGQ1ZDIzNjQ2MWExMmE1NjM5ZTdjZDQ5`

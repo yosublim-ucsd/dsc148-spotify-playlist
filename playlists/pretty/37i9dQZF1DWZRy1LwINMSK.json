@@ -1,12 +1,12 @@
 {
   "description": "La casa del trap chileno. Foto: King Savagge & Il Nene De Oro.",
-  "num_followers": 83328,
+  "num_followers": 83447,
   "original_name": "Trapperz Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTdlNGJkNGY2MTRjNGQ2MWNhZTY4MGJhMTQ3YmQ0ODA0ZjI0NWZm",
+  "snapshot_id": "MCxiYzI1NDNiMjIxODBlODE5YzY4NmIxY2FkNWNlZGMyYTZkNjcyZDQ3",
   "tracks": [
     {
       "added_at": "2023-08-11 18:08:16",
@@ -163,6 +163,22 @@
       "duration_ms": 148000,
       "name": "FILOTEAO",
       "url": "https://open.spotify.com/track/4OWmGj76zFIHnLgN9VAqQT"
+    },
+    {
+      "added_at": "2023-08-11 18:08:16",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 183121,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0"
     },
     {
       "added_at": "2023-08-11 18:08:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,233 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,270 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 40 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 41 | [Jelly Roll Blues](https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Sweet Emma Barrett And Her New Orleans Music](https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg) | 3:40 |
 | 42 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
-| 43 | [Tease Your Man](https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years \(Expanded Edition\)](https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp) | 4:20 |
+| 43 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
 | 44 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
-| 45 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
+| 45 | [Tease Your Man](https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years \(Expanded Edition\)](https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp) | 4:20 |
 | 46 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
 | 47 | [It's Tight Like That](https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4) | [Clara Smith](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH) | [I Ain't a Gamblin' Woman, I Got Such\-A Rowdy Ways](https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D) | 3:15 |
 | 48 | [Doctor Blues](https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE) | [Alberta Adams](https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw) | [Detroit Is My Home](https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk) | 4:28 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 61 | [Crazy Blues \(Alternate Take\)](https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Presenting Mamie Smith](https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F) | 3:24 |
 | 62 | [New That Ain't Right](https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L) | [Perline Ellison](https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh) | [Female Blues \- The Remaining Titles Vol\. 2 \(1938\-1949\)](https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU) | 2:59 |
 | 63 | [Evil Mama Blues](https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee) | [Ada Brown](https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI) | [Territory Singers Vol\. 1 \(1922\-1928\)](https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae) | 3:04 |
-| 64 | [Butcher Shop Blues](https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr) | [Bernice Edwards](https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA) | [Raunchy Business: Hot Nuts & Lollypops](https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx) | 3:06 |
-| 65 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
+| 64 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
+| 65 | [Butcher Shop Blues](https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr) | [Bernice Edwards](https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA) | [Raunchy Business: Hot Nuts & Lollypops](https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx) | 3:06 |
 | 66 | [Tight in Chicago](https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV) | [Mozelle Alderson](https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 2:59 |
 | 67 | [How Come You Do Me Like You Do?](https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL) | [Edith Wilson](https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH) | [Stationary Mama](https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E) | 2:48 |
 | 68 | [East and West Blues](https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2) | [Marie Grinter](https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr) | [East and West Blues](https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ) | 3:26 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 72 | [The Bluest Blues](https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo) | [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Fujiyama Mama](https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA) | 2:51 |
 | 73 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
 | 74 | [Dirty Moaner Blues](https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP) | [Fannie May Goosby](https://open.spotify.com/artist/4jFXUMT7f5Wgv0RyTiQs2n), [Peter Harris](https://open.spotify.com/artist/23VN21wIWQLjWFCRwQyUVz) | [Grievous Blues](https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly) | 2:43 |
-| 75 | [I'm His And He's Mine](https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB) | [The Soul Satisfiers Of Philadelphia](https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL) | [Powerhouse Gospel](https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ) | 2:36 |
+| 75 | [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 |
 
-Snapshot ID: `MCw3ZGNiMjRkN2MzMzFmNjhhMDMwYjNiMDc1OGJlNzk3ZjA1ZmY3MWQ5`
+Snapshot ID: `MCwzMzQ2NWYxYzg4ZTI1NGY5YTJlMzFhNDQ2YjE1YjY3YWZiMDkxMDRh`

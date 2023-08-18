@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Hailey Whitters
 
-334 songs - 18 hr 16 min
+335 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 | 2022-07-22 | 2023-07-01 |
 | [It Was Me](https://open.spotify.com/track/0FatYaF4WxO3cZllChfhzM) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [It Was Me](https://open.spotify.com/album/303CQclcn1Doj54LcUQz4B) | 4:43 | 2021-12-01 | 2022-07-29 |
 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 | 2021-12-01 | 2022-08-12 |
-| [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 | 2023-08-01 |  |
+| [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 | 2023-08-01 | 2023-08-18 |
+| [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 | 2023-08-01 |  |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2021-12-01 | 2022-05-17 |
 | [Just About Over You \- Radio Edit](https://open.spotify.com/track/4JFPLiaWIP5xqV1DCbSqeh) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Radio Edit\)](https://open.spotify.com/album/4dIQM906ytb1uhErDtkGJg) | 3:08 | 2021-12-01 | 2022-07-28 |
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-01 | 2022-07-29 |

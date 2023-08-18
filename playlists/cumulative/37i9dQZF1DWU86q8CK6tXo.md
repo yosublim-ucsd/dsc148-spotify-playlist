@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:1KCSPY1glIKqW2TotWuXOR”>P!nk</a>
 
-1,046 songs - 2 day 8 hr 5 min
+1,047 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [it's been a year](https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [it's been a year](https://open.spotify.com/album/0wsETlKs4fptjLrGDKY2U4) | 3:36 | 2023-01-04 | 2023-02-02 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2023-01-04 | 2023-02-02 |
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2023-01-04 | 2023-02-02 |
-| [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 | 2023-08-02 |  |
+| [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 | 2023-08-02 | 2023-08-18 |
+| [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 | 2023-08-02 |  |
 | [Janet](https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80) | 1:55 | 2023-07-05 | 2023-08-03 |
 | [Jealousy](https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk) | 2:30 | 2022-08-03 | 2022-09-09 |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-03-08 | 2022-04-07 |

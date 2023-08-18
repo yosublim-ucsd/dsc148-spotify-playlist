@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9CCxc3fffni.md) - [plain]
 
 > La belleza nunca pasa de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,109 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,492 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9CCxc3fffni.md) - [plain]
 | 26 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
 | 27 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 28 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
-| 29 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
-| 30 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
+| 29 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
+| 30 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 31 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 |
 | 32 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 33 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9CCxc3fffni.md) - [plain]
 | 47 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 48 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 49 | [Me cuesta tanto olvidarte](https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 2:54 |
-| 50 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
-| 51 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 50 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 51 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
 | 52 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 |
 | 53 | [¿Y Cómo Es Él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
 | 54 | [Un Año](https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 2:43 |
-| 55 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 |
-| 56 | [Bachata Rosa](https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:17 |
+| 55 | [Bachata Rosa](https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:17 |
+| 56 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 |
 | 57 | [Tabaco Y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
 | 58 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 |
 | 59 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9CCxc3fffni.md) - [plain]
 | 79 | [The Girl From Ipanema](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:20 |
 | 80 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 
-Snapshot ID: `MCwzODA3Y2NkYjZkOGNjYjNkOGIwNjgwZDU0YTdjMWViNGQ0ZTA2MDE5`
+Snapshot ID: `MCw3OGIyMzU3ODkxNjhmZDg3ZmMxMzZiNDM4MzI3OGVmMTczN2I4OWVl`

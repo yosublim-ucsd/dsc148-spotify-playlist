@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1230976,
+  "num_followers": 1231266,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTI5NDg4NjM5M2NkM2IxOWU5NjM1OTlmNTNlODI0OTIxNjcxMDU1",
+  "snapshot_id": "MCw3ZTA2OWM1NGRlMjk1YzA5MDczZmZjYmI1YzVmY2M1NDIxMDI0NDZh",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Let The Music Play - Single Version",
-      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "In the Name of Love: The Elektra Recordings 1979-1984",
         "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 237106,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Let The Music Play - Single Version",
+      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
     },
     {
       "added_at": "2021-02-18 10:25:36",

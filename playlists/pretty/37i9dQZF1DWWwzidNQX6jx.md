@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 
 > These songs rocked the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,714,200 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,714,615 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 36 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 | 37 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 |
 | 38 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
-| 39 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
-| 40 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 |
-| 41 | [Reelin' In The Years](https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 4:37 |
-| 42 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
+| 39 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 |
+| 40 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
+| 41 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
+| 42 | [Reelin' In The Years](https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 4:37 |
 | 43 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 44 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 45 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 84 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |
 | 85 | [Live And Let Die \- 2018 Remaster](https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway \(Archive Collection\)](https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy) | 3:12 |
 | 86 | [Wheel in the Sky](https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Infinity](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) | 4:12 |
-| 87 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
-| 88 | [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 |
+| 87 | [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 |
+| 88 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 89 | [Ramblin' Man](https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Super Deluxe\)](https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw) | 4:48 |
 | 90 | [Piano Man](https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 5:36 |
 | 91 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 99 | [Carry on Wayward Son](https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Essential Kansas](https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ) | 5:22 |
 | 100 | [All the Young Dudes](https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 3:31 |
 
-Snapshot ID: `MCxiM2E3YTViNjlkMGMyMmYwOTRhOGFjYjI2OWNlNDc3NmM1NWYxMWZl`
+Snapshot ID: `MCxkNzExY2Y2ZWE0M2ZiZDU1ODg3NGNhMDBhMGYxNTAwZGRlNjRiNzAz`

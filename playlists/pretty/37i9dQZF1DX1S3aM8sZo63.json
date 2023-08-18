@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 847011,
+  "num_followers": 847140,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmFkMWZjYTc1MTQxZThkM2Y3MzYzMWYwMjhhNzkxYjEwYjJkYjk3",
+  "snapshot_id": "MCwyYjEzODEzNTY2MTM0NjJjNzdhZGMwYjNhNjFiN2Y4MmZiYzgzN2E5",
   "tracks": [
     {
       "added_at": "2023-08-08 22:35:35",
@@ -291,18 +291,22 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
         }
       ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -323,6 +327,22 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
         "name": "Mi Mayor Anhelo",
         "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 209786,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
-        }
-      ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Hermosa Experiencia",
-      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 188778,
       "name": "365",
       "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Hermosa Experiencia",
+      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 156521,
       "name": "Bonito y Bello",
       "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 246131,
-      "name": "Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Acurrucar",
-        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        }
-      ],
-      "duration_ms": 178700,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Acurrucar",
+        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "duration_ms": 178700,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
+        "name": "Mi Complemento",
+        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201691,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 224378,
       "name": "Hermosura de Mujer",
       "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
-        "name": "Mi Complemento",
-        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201691,
-      "name": "Mi Complemento",
-      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
     }
   ],
   "unique_name": "Banda Rom\u00e1ntica",

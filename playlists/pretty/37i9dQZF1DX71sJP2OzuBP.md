@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,519 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,531 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [可不可以別做他的情人](https://open.spotify.com/track/3GMOQcoq6jz3hVyqmORmvM) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [可不可以別做他的情人](https://open.spotify.com/album/4HeuSX6eTyiRjdGou7DEmW) | 3:37 |
 | 100 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 |
 
-Snapshot ID: `MCw4NDZkMDdjOTUzYWJlY2FjNzJlYzgyZThhYzM2ZWI5OTQ1ZDc1NzQ5`
+Snapshot ID: `MCxjYWNkNjg5NWE1NTMwMDQ5ODMyNmIzMTRmOGU1OTUyYWIwZTZjOGMw`

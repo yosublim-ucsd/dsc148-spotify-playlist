@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,736 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,718 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 35 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
 | 36 | [Rome](https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:22 |
 | 37 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
-| 38 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
-| 39 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 38 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 39 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 40 | [Dancing Alone](https://open.spotify.com/track/3waZuM6xOriyiAu5tXDOLS) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:00 |
 | 41 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
 | 42 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 61 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
 | 62 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 63 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
-| 64 | [Still](https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 3:47 |
-| 65 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 64 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 65 | [Still](https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 3:47 |
 | 66 | [Timshel](https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 2:53 |
 | 67 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
 | 68 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 86 | [Now & Then](https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye) | 3:19 |
 | 87 | [Last To Make It Home](https://open.spotify.com/track/3cV2LIqOuroxPnpAYsfoLq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 5:21 |
 | 88 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 |
-| 89 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
-| 90 | [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 |
+| 89 | [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 |
+| 90 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
 | 91 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
 | 92 | [Delicious Things](https://open.spotify.com/track/0f1bOH82cQvNNZBmmkKv4d) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 5:04 |
 | 93 | [Rookery](https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 99 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 100 | [Glad I Got You](https://open.spotify.com/track/2M3hPwrDVmH6xdeITvfxqe) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject to Change](https://open.spotify.com/album/0tUNlUVBHtya0RTVv4Gd6e) | 2:40 |
 
-Snapshot ID: `MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0`
+Snapshot ID: `MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4`

@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 68736,
+  "num_followers": 68718,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0",
+  "snapshot_id": "MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 227698,
       "name": "Still",
       "url": "https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
-        "name": "Brutally",
-        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 208105,
-      "name": "Brutally",
-      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
-      },
-      "artists": [
-        {
-          "name": "Qazi & Qazi",
-          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Vanilla Sky",
         "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 236800,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
+      },
+      "artists": [
+        {
+          "name": "Qazi & Qazi",
+          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
     },
     {
       "added_at": "2022-12-02 19:02:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,275 likes - 161 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,312 likes - 161 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 127 | [Two Shots](https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Encore](https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51) | 2:50 |
 | 128 | [I’ve Gotta Get A Message To You \(feat\. Keith Urban\)](https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:14 |
 | 129 | [She's Everything to Me](https://open.spotify.com/track/0bHVsXJYoL1vFnIKoW5VCK) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [She's Everything to Me](https://open.spotify.com/album/67BuFJwLDQ3j7nutc1cBQt) | 3:43 |
-| 130 | [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 |
+| 130 | [Home Run](https://open.spotify.com/track/3XZyu7QgInEok7mk0lTm9Z) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Good Day for Living](https://open.spotify.com/album/0S2KcWY0lkBv3D6YPryaxc) | 3:05 |
 | 131 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 |
 | 132 | [Big Bertha \(feat\. Vince Gill\)](https://open.spotify.com/track/63zeH35ojREKtEyTZjisUW) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [A Better Word for Love](https://open.spotify.com/album/0t6BIT9pK7zzLtc4C0XdPM) | 3:04 |
 | 133 | [I Ain't Drunk \(feat\. Terri Clark\)](https://open.spotify.com/track/5hGeFMy9ilkY029FJz9QFv) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Diamonds in a Whiskey Glass \(Deluxe Diamond Edition\)](https://open.spotify.com/album/3LZL4DbzZ6hJAM7dMTk8XO) | 3:24 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 160 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 161 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCw1YWRlY2QxZmE2Y2Q4MjlhYzE5ZGVlNDNmZmUzYjAxOTJiNjk0ZjYy`
+Snapshot ID: `MCxkMjgxMDk1ZTFiYWJmMTM0MTJlZGZiMTFjZTI4YzZjMGFiY2VmMjk0`

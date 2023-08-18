@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,230 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,257 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 17 | [La Rajita De Canela](https://open.spotify.com/track/4sSpxTtKhdASbBQVo14Sx8) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:31 |
 | 18 | [De Quen Chon](https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [De Quen Chon](https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q) | 2:48 |
 | 19 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
-| 20 | [Cien Mil Cosas](https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Los Últimos De Celio González](https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8) | 2:45 |
-| 21 | [La Cotorra Gorrona](https://open.spotify.com/track/0e3IjmCKLzOxIQOQtBSwg0) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:11 |
+| 20 | [La Cotorra Gorrona](https://open.spotify.com/track/0e3IjmCKLzOxIQOQtBSwg0) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:11 |
+| 21 | [Cien Mil Cosas](https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Los Últimos De Celio González](https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8) | 2:45 |
 | 22 | [El Mudo](https://open.spotify.com/track/43iaHz5dLnKRovc3DLQApU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:19 |
 | 23 | [Lamento Borincano](https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 4:47 |
 | 24 | [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 63 | [Sábado D.F.](https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [Los Éxitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas](https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL) | 2:48 |
 | 64 | [El Cha Cha Cha de los Borrachitos](https://open.spotify.com/track/3TGYtWgHY0KjnrUiHGcvYC) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
 | 65 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
-| 66 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
-| 67 | [Las Maracas de Cuba](https://open.spotify.com/track/6f5sUQDtlcBcl1ex2yimSl) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Nostalgia de Cuba](https://open.spotify.com/album/3NnxjLyWoyMVHfwfabU4vV) | 2:55 |
+| 66 | [Las Maracas de Cuba](https://open.spotify.com/track/6f5sUQDtlcBcl1ex2yimSl) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Nostalgia de Cuba](https://open.spotify.com/album/3NnxjLyWoyMVHfwfabU4vV) | 2:55 |
+| 67 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
 | 68 | [Sabor A Guayaba](https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [A Bailar Se Ha Dicho](https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH) | 2:26 |
 | 69 | [El Manisero](https://open.spotify.com/track/6b8ZFIKJGomI4OgYgoQ5Ty) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Todos Sus Exitos](https://open.spotify.com/album/4vaptc3l16FcWm1WBQLdry) | 2:45 |
 | 70 | [Mambo del Politécnico](https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Plays Mucho Mambo..\. and Other Fantastic Compositions](https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCxjNTliZTY2ZTBjYWM4YTFhN2U3ZWY2ZjQ1MDEwYmUyMmVlY2FkNTE2`
+Snapshot ID: `MCw5ZmQ0NTViMDhmOGZjNjJmZmM2MjhjZWZjMjMwNTQ0MGZkZjhiMGNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,495 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,505 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 14 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
 | 15 | [Dali, Van, Picasso](https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:43 |
 | 16 | [Too Far](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 |
-| 17 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
-| 18 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 |
+| 17 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 |
+| 18 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
 | 19 | [under the ground \(feat\. Dean\)](https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [u n u, Pt\. 2](https://open.spotify.com/album/4R3JUAwCwCLp4vUDK5TLrZ) | 3:42 |
 | 20 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
 | 21 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 35 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 |
 | 36 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
 | 37 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
-| 38 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 |
+| 38 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
 | 39 | [gucci girl](https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:20 |
-| 40 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
+| 40 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 |
 | 41 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 |
 | 42 | [0&4](https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:30 |
 | 43 | [I Know](https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Shininryu](https://open.spotify.com/album/3QvaB5HzfSEz5yqbNCHtT3) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [been](https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:13 |
 | 50 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
 
-Snapshot ID: `MCw5ZTI1ZjJjYTRiYjc5MmQ4NTNmMGRlODhjMGQ4MTI5OGJmNmI0OGY5`
+Snapshot ID: `MCxkYWIwMDQ5YjJjMjU3ODMyYzMyMTk2MmFjZGIyZDU2OWE2MDhhYzZh`

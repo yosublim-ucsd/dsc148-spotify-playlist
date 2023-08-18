@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 > Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,915 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,246 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 15 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
 | 16 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
 | 17 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
-| 18 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
+| 18 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
 | 19 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 20 | [Molly's Chambers](https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd) | 2:14 |
 | 21 | [Bang Bang You're Dead](https://open.spotify.com/track/5ebF1fRVWiORoHm4xRU5WX) | [Dirty Pretty Things](https://open.spotify.com/artist/6fHETUBbKmdmgybtFOFQuc) | [Waterloo To Anywhere](https://open.spotify.com/album/64Vp0cw4uz50AHM3Doffdm) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 74 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
 | 75 | [Bandages](https://open.spotify.com/track/75pMEcHJjLRv0O8MHxQvdg) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/02KvZdz1ZwyGTok0Sl5g3a) | 3:32 |
 
-Snapshot ID: `MCw4OWJkZDQ0MjhjNWFlMzM1NjBiYjM5YTk4ZmM0NGVkOTkwZDMwN2Jh`
+Snapshot ID: `MCw4NmQ3NjFiZjhkZmNkOTYwN2IxOWVlMzM2ODZjNDY5NTZiNmMyNDEz`

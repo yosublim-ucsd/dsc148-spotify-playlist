@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,722 likes - 73 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,720 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 2 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
 | 3 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 4 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 |
-| 5 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
-| 6 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
+| 5 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
+| 6 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 7 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 |
 | 8 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
 | 9 | [Godzilla \(feat\. Juice WRLD\)](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:30 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 72 | [Wasted On You](https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:24 |
 | 73 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
 
-Snapshot ID: `MCw2ODQyYWExNWNkM2ZmOTU2NzA0MDkzYjBlNGY0ZGIzNzQ4OGQzOWE1`
+Snapshot ID: `MCxlMjFkMjAyZjZmMDJkZGY5NWVlNjYwMmRkZWQ2ZGY0MTFhZTNkZWRm`

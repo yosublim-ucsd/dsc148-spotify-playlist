@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-74 songs - 4 hr 35 min
+75 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 | 2021-11-03 | 2022-07-29 |
 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/5UGwIlr0mTtFdOM6SeY21Z) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/750iSHcA6T5zZMC0jvpJrN) | 3:56 | 2022-07-16 |  |
 | [Kangi Wanwan \- Live](https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan / Bobby Jeth \(Live\) \- Single](https://open.spotify.com/album/2Xgp2lbLFymILvM4XtqAKU) | 4:10 | 2021-11-03 |  |
+| [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 | 2023-08-17 |  |
 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 | 2022-07-16 |  |
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 | 2022-07-29 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |

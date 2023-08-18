@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509445,
+  "num_followers": 509429,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
+  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Behold",
         "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 195252,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Three Suites",
-        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
-      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Billie Holiday Love Songs",
         "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 174906,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Three Suites",
+        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Dave Brubeck Christmas",
-        "url": "https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn"
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
       },
       "artists": [
         {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
         }
       ],
-      "duration_ms": 212400,
-      "name": "To Us Is Given",
-      "url": "https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x"
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn"
       },
       "artists": [
         {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
         }
       ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+      "duration_ms": 212400,
+      "name": "To Us Is Given",
+      "url": "https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
       "artists": [
         {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+      "duration_ms": 186333,
+      "name": "What Are You Doing New Year's Eve?",
+      "url": "https://open.spotify.com/track/7DESENONjlQosUbxToDKOy"
     }
   ],
   "unique_name": "Christmas Jazz",

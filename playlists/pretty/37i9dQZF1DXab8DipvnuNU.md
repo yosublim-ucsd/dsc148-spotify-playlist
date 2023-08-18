@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,148 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,223 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 26 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
 | 27 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
 | 28 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
-| 29 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
-| 30 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
+| 29 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
+| 30 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
 | 31 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 |
 | 32 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 33 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 65 | [Candy](https://open.spotify.com/track/0Aj8EagrPfDoOe5OlUdrLC) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 5:39 |
 | 66 | [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 |
 | 67 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
-| 68 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
-| 69 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:13 |
+| 68 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:13 |
+| 69 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
 | 70 | [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 |
 | 71 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
 | 72 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 74 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 |
 | 75 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |
 
-Snapshot ID: `MCxhMWNhOTVhMWJjMTBiY2FlMjU0OWE3M2UzNjMzMzhkNDYyMWRjNzEz`
+Snapshot ID: `MCxjMTA3MzA0MTM2Mzc5MWVhOGEyNzFhMWRjMzY5OTZjMDQzZDQ5OTQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 
 > Get ready for good feels and fireworks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,051 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,028 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 37 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
 | 38 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 39 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
-| 40 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
-| 41 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 |
+| 40 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 |
+| 41 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
 | 42 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
 | 43 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
 | 44 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 67 | [Springsteen](https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 4:23 |
 | 68 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 69 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
-| 70 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
-| 71 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
+| 70 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
+| 71 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
 | 72 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 73 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
 | 74 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
 | 75 | [Body Like A Back Road](https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 2:42 |
 
-Snapshot ID: `MCw2MjU0NzQ4YmQyNzA2NjY0YTkxOWQ5N2YyNzliNTk3ZWIwMGM4YWFi`
+Snapshot ID: `MCxlNDQ2ODk4ZGQ4MWUyMTY5YWJhYmQxM2UyNjJiNGFkOWVkMmE0ZGZh`

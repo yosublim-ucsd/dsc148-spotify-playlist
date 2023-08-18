@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,341 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,605 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 30 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 |
 | 31 | [Ko Ko Bop](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:10 |
 | 32 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 |
-| 33 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
+| 33 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 | 34 | [Wave](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 |
 | 35 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
 | 36 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 67 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 |
 | 68 | [COME TO ME](https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:24 |
 | 69 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
-| 70 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
-| 71 | [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 |
-| 72 | [MOONLIGHT](https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [MOONLIGHT](https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch) | 2:41 |
+| 70 | [MOONLIGHT](https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [MOONLIGHT](https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch) | 2:41 |
+| 71 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
+| 72 | [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 |
 | 73 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 |
 | 74 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 |
 | 75 | [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 87 | [One of Those Nights](https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:10 |
 | 88 | [Be My Lover](https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:02 |
 | 89 | [Up](https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb) | 3:12 |
-| 90 | [Celebrate](https://open.spotify.com/track/26UXZp8fgaGTrSbFhSuyYr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 2:46 |
-| 91 | [Blue Lemonade](https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:16 |
-| 92 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 |
+| 90 | [Lullaby](https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:37 |
+| 91 | [Celebrate](https://open.spotify.com/track/26UXZp8fgaGTrSbFhSuyYr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 2:46 |
+| 92 | [Blue Lemonade](https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:16 |
 | 93 | [What If](https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:44 |
 | 94 | [Love U](https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2) | 3:10 |
-| 95 | [Lullaby](https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:37 |
+| 95 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 |
 | 96 | [AH YEAH](https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU) | 2:56 |
 | 97 | [PARADISE](https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:48 |
 | 98 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
 | 99 | [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 |
 | 100 | [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 |
 
-Snapshot ID: `MCw1MTVjZmFlNzdkYzIyMjllNzJhZWU2NzUxM2NmM2Q1ODI3Y2U4OTNm`
+Snapshot ID: `MCxmNzViNDhlYTMxYTdmZmVkNDRhMDE0YmVhOTU3ODc0ZDViZjI1YzM3`

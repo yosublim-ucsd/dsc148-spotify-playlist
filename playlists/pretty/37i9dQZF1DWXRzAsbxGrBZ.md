@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,649 likes - 50 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,768 likes - 50 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 7 | [HER](https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [Day Dream](https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu) | 6:13 |
 | 8 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 |
 | 9 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 |
-| 10 | [Deep Within](https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi) | 7:16 |
-| 11 | [Mend It \- Stimming Remix](https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq) | [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Mend It / Your Eyes Remixes](https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL) | 8:38 |
+| 10 | [Mend It \- Stimming Remix](https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq) | [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Mend It / Your Eyes Remixes](https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL) | 8:38 |
+| 11 | [Deep Within](https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi) | 7:16 |
 | 12 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
 | 13 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
 | 14 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 41 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
 | 42 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
 | 43 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
-| 44 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 |
-| 45 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
+| 44 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
+| 45 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 |
 | 46 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
 | 47 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
 | 48 | [Dark Snow \- Bones Remix](https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T) | [The Rudeman](https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z), [Keegs Bantom](https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6), [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn) | [Dark Snow](https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV) | 6:07 |
 | 49 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
 | 50 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 |
 
-Snapshot ID: `MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3`
+Snapshot ID: `MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1`

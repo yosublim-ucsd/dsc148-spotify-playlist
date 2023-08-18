@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Bringt dir good vibes + Sonne 😎😎😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,088 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,168 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 24 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 25 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
 | 26 | [So🤞](https://open.spotify.com/track/5EqZIbLptCkJARJXOdseF9) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [So🤞](https://open.spotify.com/album/1u0nZWNZsMCDHlMCOs3yBM) | 2:37 |
-| 27 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
+| 27 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 28 | [9 bis 9](https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [9 bis 9](https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb) | 2:11 |
 | 29 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
 | 30 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 69 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 70 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 |
 
-Snapshot ID: `MCwxZDBmYmQ3YWEyZjVlNmQzYjI0YzQ5ZTNiMTJlNTNhMDVlN2U3NjAz`
+Snapshot ID: `MCxjMWIwYzVlY2FhY2NkZGVhZGExZDUwNTM0ZjgxNDZiMWVlOTdjZDg0`

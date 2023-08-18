@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2023! Cover: Fred Again.\. + Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,460 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,475 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 74 | [Why Can’t I Have Two? \(2468\)](https://open.spotify.com/track/7ISQPiQJSInnKnMxBNSwFs) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
 | 75 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
 
-Snapshot ID: `MCw4MzNiMWZlMGMxM2QzOTAwZDIzYWJhNDY1NTFmNzAzNjU1YzVhZWQx`
+Snapshot ID: `MCw3ZTczYmUyOGY0YzZlNzM2ZTA2ZWVhMDIwYzgzZmFlYzY2NjZmMzZm`

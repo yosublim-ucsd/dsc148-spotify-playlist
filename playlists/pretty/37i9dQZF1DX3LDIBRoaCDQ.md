@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,490 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,812 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 48 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
 | 49 | [Gloria: In Excelsis Deo](https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 5:54 |
 | 50 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
-| 51 | [Corona](https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 2:25 |
-| 52 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 |
+| 51 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 |
+| 52 | [Corona](https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 2:25 |
 | 53 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:37 |
 | 54 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
 | 55 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [Anarchy Burger \(Hold The Government\)](https://open.spotify.com/track/3QebYR26gRT9Bso2VSnUOR) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Deluxe Edition\)](https://open.spotify.com/album/3jLxf9rmNQePi1nCXtaunV) | 1:53 |
 | 100 | [What Love Is](https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:10 |
 
-Snapshot ID: `MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy`
+Snapshot ID: `MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi`

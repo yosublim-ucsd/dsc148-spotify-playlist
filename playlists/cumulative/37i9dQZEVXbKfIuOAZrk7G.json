@@ -4124,7 +4124,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 323000,
       "name": "Broken Arrow",
       "url": "https://open.spotify.com/track/3B7Ls05la3sGj1ql53lP8t"
@@ -9463,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "Feeling Purdy Good",
+        "url": "https://open.spotify.com/album/0rb5gmXCKmPKnSXMURUmNx"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156235,
+      "name": "Feeling Purdy Good",
+      "url": "https://open.spotify.com/track/69deJvtc3As5msMX7NojOu"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -13236,7 +13254,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 140800,
       "name": "Hurts Me",
       "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga"
@@ -13960,6 +13978,24 @@
       "duration_ms": 193200,
       "name": "I Want Candy",
       "url": "https://open.spotify.com/track/7sruBwHu4S0DIo8RXKxsAY"
+    },
+    {
+      "album": {
+        "name": "I Want to go Home",
+        "url": "https://open.spotify.com/album/1SpmUKleqOTPwxROlBQFfG"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170971,
+      "name": "I Want to go Home",
+      "url": "https://open.spotify.com/track/6AF00PUvxgVktZBMs7Apd4"
     },
     {
       "album": {
@@ -15854,7 +15890,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -24710,6 +24746,24 @@
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "album": {
+        "name": "Rich Mans Gold",
+        "url": "https://open.spotify.com/album/6W0BK0FX7bEFmsZH6j9UFp"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136440,
+      "name": "Rich Mans Gold",
+      "url": "https://open.spotify.com/track/2DcCkjQPNR9XCspy4A6rNt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 79819,
+  "num_followers": 79857,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTM3NTNlYmFhODYyZDU5Mzk5OTQ5ODQ0MjQ2MDU2MmM4ZWM4YzJh",
+  "snapshot_id": "MCw1M2RhOGY4MjFmZWJiMzIyYWFjYWJjNmM4MGZiNTI2OGE5ZjVlZWIz",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Say It Like",
         "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "LAKAY",
         "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
       },
@@ -1659,6 +1659,26 @@
       "duration_ms": 171272,
       "name": "LAKAY",
       "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
+      },
+      "artists": [
+        {
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1691,26 +1711,6 @@
       "duration_ms": 177600,
       "name": "Foli",
       "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
-      },
-      "artists": [
-        {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
-        },
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "U.F.O.",
-      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "P's & Q's",
         "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 196433,
       "name": "P's & Q's",
       "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2023-08-11 04:00:00",

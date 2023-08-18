@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Jude York\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,139 likes - 110 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,178 likes - 110 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 109 | [recess](https://open.spotify.com/track/5RdJl8Qq03xSmM3Nj7EJAh) | [TOMMYY](https://open.spotify.com/artist/7nHQLYdRclNayYCjwT40WW) | [recess](https://open.spotify.com/album/5VQ4KGmt8s8uqUeLsR2EKn) | 2:35 |
 | 110 | [Equalise](https://open.spotify.com/track/0yNRJehBNI9WMnfgzRCAHZ) | [TŪRNR](https://open.spotify.com/artist/5w8pUtzfP4vtDMAKGWx5jd) | [Equalise](https://open.spotify.com/album/3hvzG89Y75xmlfGK5Q6ySv) | 3:02 |
 
-Snapshot ID: `MCw2NGJlZGRkMzAxOTliZDM0YWFlMDA0MDFkNzMzYjljMTgxZWE2NTQ0`
+Snapshot ID: `MCxhYWFlYzgwYTY2MjQzZTQ1YzMyMDNmNzllZTIwZGY4OGEwZmNkZWJk`

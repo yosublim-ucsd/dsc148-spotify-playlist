@@ -4,7 +4,7 @@
 
 > The best alternative rock tracks right now.
 
-422 songs - 1 day 0 hr 24 min
+423 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-31 | 2022-10-08 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-09-06 | 2023-02-03 |
 | [Dark Comedy](https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Dark Comedy](https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn) | 3:12 | 2022-02-17 | 2022-02-25 |
-| [Dark Sky](https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Dark Sky](https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3) | 3:11 | 2023-07-14 |  |
+| [Dark Sky](https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Dark Sky](https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3) | 3:11 | 2023-07-14 | 2023-08-18 |
+| [Dark Sky](https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:11 | 2023-07-28 |  |
 | [Day Glow](https://open.spotify.com/track/5s3kFS752dETmodfX9c6d2) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Day Glow](https://open.spotify.com/album/3AixyFVAQHT4tJHaEvh68C) | 4:31 | 2022-04-07 | 2022-05-13 |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-12 |  |
 | [Dead Wake](https://open.spotify.com/track/572Y0uRnjxPXYGzEAPChtb) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Dead Wake / Scavengers \(Acoustic\)](https://open.spotify.com/album/660CDua6AJT4ukoeursCgV) | 4:55 | 2022-05-19 | 2022-09-07 |

@@ -10083,6 +10083,24 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181479,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+    },
+    {
+      "album": {
         "name": "T.B.D.",
         "url": "https://open.spotify.com/album/6PCU5NyvqdaxJKoRAz79kD"
       },
@@ -10734,6 +10752,28 @@
       "duration_ms": 227812,
       "name": "Niji",
       "url": "https://open.spotify.com/track/6Cs6rGYGNKfjtSRDhnlfNl"
+    },
+    {
+      "album": {
+        "name": "No Muse",
+        "url": "https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC"
+      },
+      "artists": [
+        {
+          "name": "AFSHEEN",
+          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
+        },
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135850,
+      "name": "No Muse",
+      "url": "https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk"
     },
     {
       "album": {
@@ -13320,6 +13360,28 @@
       "duration_ms": 234528,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/0JlGsNUKNFpgga7TNM9Tgb"
+    },
+    {
+      "album": {
+        "name": "Shampoo (feat. Yu Hayami)",
+        "url": "https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Yu Hayami",
+          "url": "https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Shampoo (feat. Yu Hayami)",
+      "url": "https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a"
     },
     {
       "album": {
@@ -16020,7 +16082,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 202295,
       "name": "TOKYO 4AM",
       "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
@@ -16374,7 +16436,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 216000,
       "name": "TRUMAN",
       "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
@@ -22574,7 +22636,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 264117,
       "name": "\u30d6\u30eb\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/4kuKGST6Pj4iMZBpO6BYl4"
@@ -23752,7 +23814,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 220960,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
       "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
@@ -27864,6 +27926,24 @@
       "duration_ms": 305597,
       "name": "\u6c17\u5206",
       "url": "https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1"
+    },
+    {
+      "album": {
+        "name": "\u6c17\u5206\u306e\u305b\u3044\u3055",
+        "url": "https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d"
+      },
+      "artists": [
+        {
+          "name": "KUKIKODAN",
+          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278466,
+      "name": "\u6c17\u5206\u306e\u305b\u3044\u3055",
+      "url": "https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH"
     },
     {
       "album": {

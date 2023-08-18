@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,976 likes - 65 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,266 likes - 65 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 53 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
 | 54 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 |
 | 55 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 |
-| 56 | [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 |
-| 57 | [Just the Two of Us](https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [In the Name of Love: The Elektra Recordings 1979\-1984](https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf) | 3:57 |
+| 56 | [Just the Two of Us](https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [In the Name of Love: The Elektra Recordings 1979\-1984](https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf) | 3:57 |
+| 57 | [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 |
 | 58 | [Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Every Home Should Have One](https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU) | 3:35 |
 | 59 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 60 | [You Make Me Feel Brand New](https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz) | 4:48 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 64 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 65 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
 
-Snapshot ID: `MCxjMTI5NDg4NjM5M2NkM2IxOWU5NjM1OTlmNTNlODI0OTIxNjcxMDU1`
+Snapshot ID: `MCw3ZTA2OWM1NGRlMjk1YzA5MDczZmZjYmI1YzVmY2M1NDIxMDI0NDZh`

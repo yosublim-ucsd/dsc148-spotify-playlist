@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=ZpkfBbF4TqSPM8qZ9VMLuQ">Yallunder</a>.
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=4RdyfZQbRDerv26SnksJww">Mthandeni SK</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,281 likes - 51 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,342 likes - 51 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paris](https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Lwah Ndlunkulu](https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs) | [Paris](https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM) | 4:17 |
-| 2 | [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 |
-| 3 | [Wangisiza Baba](https://open.spotify.com/track/1hRuCvAysPnRtMdwhSeUfF) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Wangisiza Baba](https://open.spotify.com/album/5WxcBwXBr4w3W9LnI4TfhP) | 5:40 |
-| 4 | [Hlala Nam](https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [KUM](https://open.spotify.com/album/1NpVWcAz4p9bv0Q4Grzk2P) | 3:42 |
-| 5 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 |
+| 2 | [Wangisiza Baba](https://open.spotify.com/track/1hRuCvAysPnRtMdwhSeUfF) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Wangisiza Baba](https://open.spotify.com/album/5WxcBwXBr4w3W9LnI4TfhP) | 5:40 |
+| 3 | [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 |
+| 4 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 |
+| 5 | [Hlala Nam](https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [KUM](https://open.spotify.com/album/1NpVWcAz4p9bv0Q4Grzk2P) | 3:42 |
 | 6 | [Nguye](https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 4:03 |
 | 7 | [Buza Kunyoko](https://open.spotify.com/track/3MwXl9gwg7aG1NBHcGKaZo) | [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps), [King Shaka](https://open.spotify.com/artist/5iVLqqv8xXE8vQ43Psq5wL) | [Ikhumbi Ekweletayo](https://open.spotify.com/album/5nxPey17l6lXWUCsNqm6lF) | 5:49 |
 | 8 | [BAMPHAMBANISELA](https://open.spotify.com/track/293R0EgKi4hLD8EUF5kFRj) | [JAIVA ZIMNIKE](https://open.spotify.com/artist/14d1q3R8UjzYOeb4DO9UW3) | [BANGIHLINZA NGIPHILA](https://open.spotify.com/album/4kMnochB18f8pvg0XJCXkW) | 4:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 50 | [Ngeke Ungiphathe](https://open.spotify.com/track/2g1yV6PlYp2qYOdP6K2ui4) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Ngeke Ungiphathe](https://open.spotify.com/album/0G0VUPHu7fDuvVrCWlGJTM) | 4:40 |
 | 51 | [Ujola Wedwa](https://open.spotify.com/track/4ap6aES5uDnSV0LZUHHKUC) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Imeya KaZwelonke](https://open.spotify.com/artist/3zl4AeNCAnBdEVhjNt0PNQ) | [Fortaleza De Sol](https://open.spotify.com/album/4qp4clBnx37iNwbKlfNlzK) | 3:21 |
 
-Snapshot ID: `MCxkOWRkYzYzZDgyY2QyODZiMTdjNzhlMTFiMzdjODU3YTkwNWVlMDQz`
+Snapshot ID: `MCxiOTc1MWU3YzlhMTg4MDdlNzE3MGE0M2UyMTBmYzZjNzgyMzY4ZWZk`

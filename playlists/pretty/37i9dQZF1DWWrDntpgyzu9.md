@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,341 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,665 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 21 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 22 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
 | 23 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
-| 24 | [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 |
-| 25 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
+| 24 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
+| 25 | [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 |
 | 26 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 |
 | 27 | [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 |
 | 28 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 49 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 50 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 
-Snapshot ID: `MCwxZDg3MDliZGExMDIzZTZiNTI3MWViYjFiYjU3NDY2ZDAwMzUzOWI1`
+Snapshot ID: `MCw4ZWRiODIxNDA5NmFkZWI4OTVlOTYzNDJkNmI5Y2ZhNzEwNzcyZmNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,061 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,111 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 50 | [Tessellate](https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:01 |
 | 51 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
 | 52 | [Carry On](https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:38 |
-| 53 | [Ode to Viceroy](https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:53 |
-| 54 | [Two Fingers](https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:15 |
+| 53 | [Two Fingers](https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:15 |
+| 54 | [Ode to Viceroy](https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:53 |
 | 55 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
 | 56 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
 | 57 | [Blue Jeans \- Remastered 2011](https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:29 |
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 61 | [Something Good](https://open.spotify.com/track/3xqxETvPg43KWP0HOGiOmu) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:37 |
 | 62 | [Apocalypse Dreams](https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 5:56 |
 | 63 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
-| 64 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
-| 65 | [Fiction](https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:56 |
+| 64 | [Fiction](https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:56 |
+| 65 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
 | 66 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 67 | [Simple As This](https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:19 |
 | 68 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
 | 69 | [Taro](https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 5:14 |
 | 70 | [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 |
-| 71 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
-| 72 | [Sunset](https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 3:38 |
+| 71 | [Sunset](https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 3:38 |
+| 72 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
 | 73 | [No Diggity](https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M) | 3:41 |
 | 74 | [Only For You](https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Arrow](https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk) | 5:08 |
 | 75 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 99 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
 | 100 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
 
-Snapshot ID: `MCxjMzZkMWU2NDMyNWFmNzczMzdkNDZmNGU1MTMxYjc3YzQxNmEwNDBl`
+Snapshot ID: `MCw2YjU0NDA1NDJjN2NhZDM5YjFiMDYzNWViMDYyMTc2NDA3MTNlMjFh`

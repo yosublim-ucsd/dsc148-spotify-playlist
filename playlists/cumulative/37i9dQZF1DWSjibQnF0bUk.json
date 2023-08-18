@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
+    },
+    {
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -7224,7 +7242,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"

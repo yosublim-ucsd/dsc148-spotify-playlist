@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "PANIA is our new RADAR artist to watch!",
+  "description": "Teen Jesus and the Jean Teasers is our new RADAR artist to watch!",
   "name": "RADAR AU & NZ",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 201088,
       "name": "About A Girl",
       "url": "https://open.spotify.com/track/68A10gwRQs1VHy7BgSjQJA"
+    },
+    {
+      "album": {
+        "name": "Adored",
+        "url": "https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160786,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui"
     },
     {
       "album": {
@@ -450,7 +468,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 162857,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa"
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 173152,
       "name": "Get Inspired",
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
@@ -1278,6 +1296,24 @@
       "duration_ms": 157280,
       "name": "Get It Done",
       "url": "https://open.spotify.com/track/09V9jWMkfIhg1uCIuEWGBV"
+    },
+    {
+      "album": {
+        "name": "GETTN OVA U",
+        "url": "https://open.spotify.com/album/5IvrGvYLGSOnWGaLFAIze8"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160677,
+      "name": "GETTN OVA U",
+      "url": "https://open.spotify.com/track/0jXAREDtFuaLt8k6sMm0xh"
     },
     {
       "album": {
@@ -1779,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Home With Me",
+        "url": "https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe"
+      },
+      "artists": [
+        {
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167065,
+      "name": "Home With Me",
+      "url": "https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH"
+    },
+    {
+      "album": {
         "name": "How I'd Kill",
         "url": "https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b"
       },
@@ -1838,6 +1892,24 @@
       "duration_ms": 218400,
       "name": "How We Livin'",
       "url": "https://open.spotify.com/track/35KDwZwYeUx1BUgFINesrz"
+    },
+    {
+      "album": {
+        "name": "I Cannot Read Your Mind",
+        "url": "https://open.spotify.com/album/2j4WGxQ21PFvGr8DLW7QtB"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174242,
+      "name": "I Cannot Read Your Mind",
+      "url": "https://open.spotify.com/track/5uecy0FCxBnspHbGnoEcCx"
     },
     {
       "album": {
@@ -1985,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "I Used To Be Fun",
+        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161445,
+      "name": "I Used To Be Fun",
+      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
+    },
+    {
+      "album": {
         "name": "I Want Control",
         "url": "https://open.spotify.com/album/0vjK1Vwge6tfcporOhIBVl"
       },
@@ -2018,6 +2108,24 @@
       "duration_ms": 191573,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/1rb3JMv4B08skOrLHhCVuo"
+    },
+    {
+      "album": {
+        "name": "ifyoulikeitlikethat",
+        "url": "https://open.spotify.com/album/5gIagpf6GQbM6IenHhXwt5"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191088,
+      "name": "ifyoulikeitlikethat",
+      "url": "https://open.spotify.com/track/1DpM2IaLWHOCFinmyqhxpF"
     },
     {
       "album": {
@@ -2331,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3JIB4mCyKaYhxuxyp31vcJ"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293774,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/02IwpmWcx201kEvq51NA8s"
+    },
+    {
+      "album": {
         "name": "Magic (feat. BARKAA & MADAM3EMPRESS) [Remix]",
         "url": "https://open.spotify.com/album/2y7BeXWttwmaUt2Udad4qJ"
       },
@@ -2524,6 +2650,24 @@
       "duration_ms": 178725,
       "name": "Mid Years",
       "url": "https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as"
+    },
+    {
+      "album": {
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248135,
+      "name": "Midwest",
+      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
     },
     {
       "album": {
@@ -2807,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "Head Noise",
+        "url": "https://open.spotify.com/album/149BiguXHjEMV5lwOUTiwe"
+      },
+      "artists": [
+        {
+          "name": "Tia Gostelow",
+          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220170,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3DRUVDeCVBtvhhVpQ2cJQp"
+    },
+    {
+      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/3iI4UWVJeY91U86aqsg92H"
       },
@@ -2836,7 +2998,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 177777,
       "name": "Only With You",
       "url": "https://open.spotify.com/track/39PEvDhV4y50bAvwbJCtot"
@@ -2854,7 +3016,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 199111,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/0HP9SxexkUAX9SNhSxcW6T"
@@ -3090,6 +3252,24 @@
       "duration_ms": 221742,
       "name": "Price I Paid",
       "url": "https://open.spotify.com/track/6R8MZHzphXVrA0SBLCGD4I"
+    },
+    {
+      "album": {
+        "name": "rats in my walls",
+        "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312459,
+      "name": "rats in my walls",
+      "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
     },
     {
       "album": {
@@ -3594,6 +3774,42 @@
       "duration_ms": 199489,
       "name": "Sorry Instead",
       "url": "https://open.spotify.com/track/5rHD6gnDX7pyBiS5AuRMwT"
+    },
+    {
+      "album": {
+        "name": "Mosquito Love",
+        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195610,
+      "name": "Sour Berry",
+      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
+    },
+    {
+      "album": {
+        "name": "STARGAZING",
+        "url": "https://open.spotify.com/album/4DzFlutgVcuBtfHrY66Ieb"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178305,
+      "name": "STARGAZING",
+      "url": "https://open.spotify.com/track/3j9p8mytLdqHSYcGIkGYuq"
     },
     {
       "album": {

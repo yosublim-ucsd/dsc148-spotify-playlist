@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=gwz0e1ZRSK-Xp_kajrYT-A\">Loufi</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=t37Hl_ASTdWeFOa2L0Uebw\">Francois van Coke</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY?si=45WvUFO9R5G2H8_5yJFU8w\">Aya Nixon</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 314679,
       "name": "Millions of Us - Part 2",
       "url": "https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS"
@@ -4882,6 +4882,24 @@
       "duration_ms": 240000,
       "name": "Summer Sunshine",
       "url": "https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8"
+    },
+    {
+      "album": {
+        "name": "Supermark",
+        "url": "https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj"
+      },
+      "artists": [
+        {
+          "name": "Aya Nixon",
+          "url": "https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Supermark",
+      "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
     },
     {
       "album": {

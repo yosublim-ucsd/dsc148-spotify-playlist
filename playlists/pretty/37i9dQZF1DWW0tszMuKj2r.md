@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,536 likes - 125 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,641 likes - 125 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 35 | [Caricias Prohibidas](https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb) | 5:21 |
 | 36 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
 | 37 | [Nunca Te Diré Adiós](https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO) | [Max Torres](https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF) | [Nunca Te Diré Adiós](https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7) | 4:24 |
-| 38 | [A Pesar del Tiempo](https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 4:55 |
+| 38 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
 | 39 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 |
-| 40 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
+| 40 | [A Pesar del Tiempo](https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 4:55 |
 | 41 | [Ella Feat\. Luis Enrique](https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 5:48 |
 | 42 | [Mi Media Mitad](https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [20th Anniversary](https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW) | 4:52 |
 | 43 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 61 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
 | 62 | [Sombra Loca](https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:49 |
 | 63 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [El Original Y Unico](https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU) | 6:16 |
-| 64 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
+| 64 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 65 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:55 |
-| 66 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
+| 66 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
 | 67 | [Salvame](https://open.spotify.com/track/0YAWMG7kNuseJqSQ6LV8Tf) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Salvame](https://open.spotify.com/album/2h9xIl6f5tuosROGVtjAT0) | 4:39 |
 | 68 | [Día Tras Día](https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9) | [Cheo Andujar](https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe) | [Poder Íntimo](https://open.spotify.com/album/3EmOFHCxHyiuCnXBUWVM9c) | 4:22 |
 | 69 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 82 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 |
 | 83 | [Como la Quiero Cuanto la Extraño](https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 3:35 |
 | 84 | [Nadie Quien Te Quiera](https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR) | [Antonio Cartagena](https://open.spotify.com/artist/3ytvFBT8M647H3cNQdCjhF) | [Hermanos Cartagena](https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE) | 4:01 |
-| 85 | [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 |
-| 86 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
+| 85 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
+| 86 | [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 |
 | 87 | [El Nazareno](https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 5:39 |
 | 88 | [Agua Caliente](https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 3:59 |
 | 89 | [Arranca En Fa](https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 3:36 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 124 | [Tu Cariñito](https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Hot Latin Tracks](https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5) | 4:11 |
 | 125 | [Lluvia](https://open.spotify.com/track/7x755UIRuKP7ZpaVvHdgN1) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Sabrosa](https://open.spotify.com/album/4dYs67b6TGJLSmh8WbW0Zt) | 4:56 |
 
-Snapshot ID: `MCxiYjNlNjFmNWNkZjA4NTA2NWJjMTdlYjhjMDQxNzlmMmE2MTZkNmIy`
+Snapshot ID: `MCw1NmVmYmIzM2M4ZmJjYWZjYjIxZWYwNjkwNTc5MjIzNjgxMmE1OWU5`

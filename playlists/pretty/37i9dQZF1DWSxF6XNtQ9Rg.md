@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,462 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,613 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 74 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 |
 | 75 | [Blue Sky](https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Kepler](https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog) | 3:07 |
 | 76 | [Mon Cheri \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Dove Gli Occhi Non Arrivano](https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi) | 3:01 |
-| 77 | [Catrame \(feat\. Tedua\)](https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 3:20 |
-| 78 | [Rompo \(feat\. Boro\)](https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Filtri](https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut) | 2:49 |
+| 77 | [Rompo \(feat\. Boro\)](https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Filtri](https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut) | 2:49 |
+| 78 | [Catrame \(feat\. Tedua\)](https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 3:20 |
 | 79 | [Bimbi](https://open.spotify.com/track/4JJtZMgxQgTlBBg7E9Qeac) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Bimbi](https://open.spotify.com/album/1UrR17tCBddq6cbSKQQWA2) | 4:00 |
 | 80 | [Nulla Accade](https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:52 |
 | 81 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 |
 | 100 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 
-Snapshot ID: `MCw0MzExY2Y5ODBlNzBhZDRkM2U3ODBmNTU3ZWQ1YWIxM2UzMjVhZjMw`
+Snapshot ID: `MCxkZGE2YzhlNzM2MjRhZTJiMDAxYWVlYmI0NDYwOWEwOGE4YmQzOWI3`

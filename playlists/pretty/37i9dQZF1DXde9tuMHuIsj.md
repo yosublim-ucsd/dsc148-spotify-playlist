@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Eladio Carrión
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,527,097 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527,209 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 34 | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 |
 | 35 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 |
 | 36 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 |
-| 37 | [NOCHE PASAJERA II](https://open.spotify.com/track/409SgbFZ2LVObLOB4yAqlA) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NOCHE PASAJERA II](https://open.spotify.com/album/2pw0fy29GKTUZS30stt8J3) | 3:08 |
-| 38 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 |
+| 37 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 |
+| 38 | [NOCHE PASAJERA II](https://open.spotify.com/track/409SgbFZ2LVObLOB4yAqlA) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NOCHE PASAJERA II](https://open.spotify.com/album/2pw0fy29GKTUZS30stt8J3) | 3:08 |
 | 39 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
 | 40 | [Trending](https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:02 |
 | 41 | [La 2blea](https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [La 2blea](https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 49 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 3:51 |
 | 50 | [Nosotros](https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Nosotros](https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV) | 4:22 |
 
-Snapshot ID: `MCw0MmFiMmE3NzFhNTg2MmJmZDRhNWZlMzUzNmVhZjMxYzJjNDVhMTEw`
+Snapshot ID: `MCxmNTFkNTc2MjllNWMwNWM0YzBjY2M3NmYxNjZiZDU4NDhkYTY3ODIw`

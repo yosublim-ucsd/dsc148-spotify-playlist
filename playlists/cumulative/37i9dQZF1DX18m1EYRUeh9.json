@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 91580,
       "name": "7PM",
       "url": "https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 287890,
       "name": "Crying",
       "url": "https://open.spotify.com/track/5Aj5aaktyD2FUWHw98FTVv"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 370813,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/1A1w6Y198iavOeemQlGOPy"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 191253,
       "name": "DREAMS!",
       "url": "https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP"
@@ -574,6 +574,28 @@
       "duration_ms": 191372,
       "name": "Earthly Times - billy woods rework",
       "url": "https://open.spotify.com/track/13xE4sseIp2FSqcHWdQOBK"
+    },
+    {
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1xMxEZDSHfSfrdKgSfGD3v"
+      },
+      "artists": [
+        {
+          "name": "Farah Audhali",
+          "url": "https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182198,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/2Z8Oy280CsH1tjOxj7nyLk"
     },
     {
       "album": {
@@ -705,6 +727,24 @@
     },
     {
       "album": {
+        "name": "I'm Scanning Things I Can't See / Dark Dancing",
+        "url": "https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9"
+      },
+      "artists": [
+        {
+          "name": "Fievel Is Glauque",
+          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "I'm Scanning Things I Can't See",
+      "url": "https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5"
+    },
+    {
+      "album": {
         "name": "Hammarsdale",
         "url": "https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle"
       },
@@ -723,6 +763,50 @@
     },
     {
       "album": {
+        "name": "R\u00e1dio Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/7qk2Lb99r0A8ywmaiUhgZb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Martins",
+          "url": "https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5"
+        },
+        {
+          "name": "JD Beck",
+          "url": "https://open.spotify.com/artist/2eoP74ao4wWLXJUNyFtuBg"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203941,
+      "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
+      "url": "https://open.spotify.com/track/5iAlHXSoh1hMlHhXvHpRyC"
+    },
+    {
+      "album": {
+        "name": "I\u2019m The President",
+        "url": "https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L"
+      },
+      "artists": [
+        {
+          "name": "KNOWER",
+          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "I\u2019m The President",
+      "url": "https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU"
+    },
+    {
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/5FHbLW2ofN5Go7BlyPrno2"
       },
@@ -738,6 +822,50 @@
       "duration_ms": 208419,
       "name": "Juice",
       "url": "https://open.spotify.com/track/5PCewEk7WLgWMpjXZwoy2Z"
+    },
+    {
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179504,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
     },
     {
       "album": {
@@ -760,6 +888,24 @@
       "duration_ms": 156026,
       "name": "Let's Go to Trader Joe's",
       "url": "https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M"
+    },
+    {
+      "album": {
+        "name": "Between the Abstract",
+        "url": "https://open.spotify.com/album/08RkTLcmCy8RvbLD4MacKZ"
+      },
+      "artists": [
+        {
+          "name": "Zen in Space",
+          "url": "https://open.spotify.com/artist/3tCapIBvPdztdjuCnoout6"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357949,
+      "name": "Lost in a Bed of Flowers",
+      "url": "https://open.spotify.com/track/6jKRORjRyncMFPyMxsYyp1"
     },
     {
       "album": {
@@ -840,6 +986,24 @@
       "duration_ms": 338823,
       "name": "Much More - 30/70 Crushin Mix",
       "url": "https://open.spotify.com/track/4kXh3uCLSAaFQJa1geebum"
+    },
+    {
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206963,
+      "name": "My Dirty Desire",
+      "url": "https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io"
     },
     {
       "album": {
@@ -981,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Forever Forever",
+        "url": "https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207194,
+      "name": "Plate",
+      "url": "https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm"
+    },
+    {
+      "album": {
         "name": "poor man's boy",
         "url": "https://open.spotify.com/album/5jZKYpgLEzCohYyYejUD4L"
       },
@@ -992,7 +1174,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 224058,
       "name": "poor man's boy",
       "url": "https://open.spotify.com/track/37078l3sNWX5jqt6PockGR"
@@ -1072,6 +1254,28 @@
       "duration_ms": 287297,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ"
+    },
+    {
+      "album": {
+        "name": "Sirena Deep",
+        "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341500,
+      "name": "Sirena Deep",
+      "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
     },
     {
       "album": {
@@ -1229,6 +1433,42 @@
     },
     {
       "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326720,
+      "name": "That's Life (A Swamp)",
+      "url": "https://open.spotify.com/track/3q2rGkL2k9YHckjz0kG9Sx"
+    },
+    {
+      "album": {
+        "name": "portrait of a dog",
+        "url": "https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283477,
+      "name": "the speed of sound!",
+      "url": "https://open.spotify.com/track/1odpKYfJOpwiRAR0KyIPkU"
+    },
+    {
+      "album": {
         "name": "The World Is Here For You",
         "url": "https://open.spotify.com/album/5aDnjZgPThp7hgOXVAaGeI"
       },
@@ -1240,7 +1480,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 330590,
       "name": "The World Is Here For You",
       "url": "https://open.spotify.com/track/26KHeStct1X9bFpWSCOhjb"
@@ -1262,6 +1502,24 @@
       "duration_ms": 235312,
       "name": "Thinking Of Dub",
       "url": "https://open.spotify.com/track/4ZgTAsX7i7lgszJE0KoKjx"
+    },
+    {
+      "album": {
+        "name": "Tiny Bad Boy",
+        "url": "https://open.spotify.com/album/6swHlA2llJrvmi62Y0tzbr"
+      },
+      "artists": [
+        {
+          "name": "Bullant",
+          "url": "https://open.spotify.com/artist/7yNYzPpllrc7QPGN9HkyiO"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326141,
+      "name": "Tiny Bad Boy",
+      "url": "https://open.spotify.com/track/08ERVKvtgrOsb7x4BuIGlh"
     },
     {
       "album": {
@@ -1338,6 +1596,46 @@
       "duration_ms": 236575,
       "name": "Touchh",
       "url": "https://open.spotify.com/track/2WEeIp1jR1jAN4T8rq4Ppc"
+    },
+    {
+      "album": {
+        "name": "Transient",
+        "url": "https://open.spotify.com/album/1tizhOQtiHBSDH8w24Pps4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225495,
+      "name": "Transient",
+      "url": "https://open.spotify.com/track/1yJGKN9vVPbsRL6Lj5bGd7"
+    },
+    {
+      "album": {
+        "name": "Trip to Mars",
+        "url": "https://open.spotify.com/album/3DRL4b6dIxcHdCi4Ob83UZ"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229672,
+      "name": "Trip to Mars",
+      "url": "https://open.spotify.com/track/4Ck37ynkUxayjxsKST96uT"
     },
     {
       "album": {
@@ -1540,6 +1838,28 @@
       "duration_ms": 170147,
       "name": "You Don't Even Know",
       "url": "https://open.spotify.com/track/0fZCZuIkZMwOAb3Ygw2faP"
+    },
+    {
+      "album": {
+        "name": "your intuition is your friend (radio edit)",
+        "url": "https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB"
+      },
+      "artists": [
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Edward Wakili-Hick",
+          "url": "https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "your intuition is your friend - radio edit",
+      "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
     },
     {
       "album": {

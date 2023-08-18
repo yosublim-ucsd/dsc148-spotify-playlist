@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Malen. Updates every Wednesday.",
-  "num_followers": 171772,
+  "num_followers": 171817,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDhjZmMxNTA1ZTZmMTg1ODMzNmRjN2UwYTY5ODY1MzVmZTVjMjdi",
+  "snapshot_id": "MCw5YTgxYmNlZTQ4ZDM2OTlkMDJiODhlMWJmZjYyOWI0MWRiOWY1ODc2",
   "tracks": [
     {
       "added_at": "2023-08-16 14:00:57",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-08-16 14:00:57",
       "album": {
-        "name": "AMARILLO",
-        "url": "https://open.spotify.com/album/5m6LsBxIA5dfAyTkYwTgsS"
-      },
-      "artists": [
-        {
-          "name": "PLATANOS",
-          "url": "https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB"
-        }
-      ],
-      "duration_ms": 167827,
-      "name": "AMARILLO",
-      "url": "https://open.spotify.com/track/6hU4Ee2ttvDY3ZAWImWsyv"
-    },
-    {
-      "added_at": "2023-08-16 14:00:57",
-      "album": {
         "name": "Pa Lxs Ni\u00f1xs Tristes",
         "url": "https://open.spotify.com/album/3hjzDKMfph8AtfS5wC6F8X"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 172627,
       "name": "Tratando de olvidar",
       "url": "https://open.spotify.com/track/1dhFPv566hlN4IWaaQzcMk"
+    },
+    {
+      "added_at": "2023-08-16 14:00:57",
+      "album": {
+        "name": "AMARILLO",
+        "url": "https://open.spotify.com/album/5m6LsBxIA5dfAyTkYwTgsS"
+      },
+      "artists": [
+        {
+          "name": "PLATANOS",
+          "url": "https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "AMARILLO",
+      "url": "https://open.spotify.com/track/6hU4Ee2ttvDY3ZAWImWsyv"
     },
     {
       "added_at": "2023-08-16 14:00:57",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-16 14:00:57",
       "album": {
-        "name": "El Camino al Infierno Esta Lleno de Buenas Intenciones",
-        "url": "https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj"
-      },
-      "artists": [
-        {
-          "name": "Almirante Ackbar",
-          "url": "https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U"
-        }
-      ],
-      "duration_ms": 116084,
-      "name": "Universitario de Deportes",
-      "url": "https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91"
-    },
-    {
-      "added_at": "2023-08-16 14:00:57",
-      "album": {
         "name": "No Me Afecta",
         "url": "https://open.spotify.com/album/5MBx8BOImNR9MsFAgA3DSP"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 284571,
       "name": "No Me Afecta",
       "url": "https://open.spotify.com/track/5NdattxSDaevBwA4TXT3ZY"
+    },
+    {
+      "added_at": "2023-08-16 14:00:57",
+      "album": {
+        "name": "El Camino al Infierno Esta Lleno de Buenas Intenciones",
+        "url": "https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj"
+      },
+      "artists": [
+        {
+          "name": "Almirante Ackbar",
+          "url": "https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U"
+        }
+      ],
+      "duration_ms": 116084,
+      "name": "Universitario de Deportes",
+      "url": "https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91"
     },
     {
       "added_at": "2023-08-16 14:00:57",
@@ -499,6 +499,46 @@
     {
       "added_at": "2023-08-16 14:00:57",
       "album": {
+        "name": "Entr\u00e1",
+        "url": "https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1"
+      },
+      "artists": [
+        {
+          "name": "Floyd",
+          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
+        },
+        {
+          "name": "YOUNG KALIF",
+          "url": "https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi"
+        },
+        {
+          "name": "MIRACALI",
+          "url": "https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG"
+        }
+      ],
+      "duration_ms": 191068,
+      "name": "Entr\u00e1",
+      "url": "https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF"
+    },
+    {
+      "added_at": "2023-08-16 14:00:57",
+      "album": {
+        "name": "Solo x hoy",
+        "url": "https://open.spotify.com/album/0fR8o1bg9r7afA9YoUdfT3"
+      },
+      "artists": [
+        {
+          "name": "Ficci\u00f3n",
+          "url": "https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD"
+        }
+      ],
+      "duration_ms": 217730,
+      "name": "Solo x hoy",
+      "url": "https://open.spotify.com/track/1nePDxpBtQDuPuWdO0pi5d"
+    },
+    {
+      "added_at": "2023-08-16 14:00:57",
+      "album": {
         "name": "A Veces No Da",
         "url": "https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5"
       },
@@ -527,46 +567,6 @@
       "duration_ms": 175635,
       "name": "MESITA DE NOCHE",
       "url": "https://open.spotify.com/track/17HkrgZwApp0tCjZAzygAK"
-    },
-    {
-      "added_at": "2023-08-16 14:00:57",
-      "album": {
-        "name": "Solo x hoy",
-        "url": "https://open.spotify.com/album/0fR8o1bg9r7afA9YoUdfT3"
-      },
-      "artists": [
-        {
-          "name": "Ficci\u00f3n",
-          "url": "https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD"
-        }
-      ],
-      "duration_ms": 217730,
-      "name": "Solo x hoy",
-      "url": "https://open.spotify.com/track/1nePDxpBtQDuPuWdO0pi5d"
-    },
-    {
-      "added_at": "2023-08-16 14:00:57",
-      "album": {
-        "name": "Entr\u00e1",
-        "url": "https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1"
-      },
-      "artists": [
-        {
-          "name": "Floyd",
-          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
-        },
-        {
-          "name": "YOUNG KALIF",
-          "url": "https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi"
-        },
-        {
-          "name": "MIRACALI",
-          "url": "https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG"
-        }
-      ],
-      "duration_ms": 191068,
-      "name": "Entr\u00e1",
-      "url": "https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF"
     },
     {
       "added_at": "2023-08-16 14:00:57",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-08-16 14:00:57",
       "album": {
+        "name": "Era un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/6tPOW2Er9IhLJL2mjIS1G5"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "duration_ms": 168731,
+      "name": "Era un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5jZhkJOa7mL3HxzzKCOyrR"
+    },
+    {
+      "added_at": "2023-08-16 14:00:57",
+      "album": {
         "name": "Alg\u00fan D\u00eda",
         "url": "https://open.spotify.com/album/4Zw4jjmbIHKVix13PV6VhE"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-08-16 14:00:57",
       "album": {
-        "name": "Era un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/6tPOW2Er9IhLJL2mjIS1G5"
+        "name": "44",
+        "url": "https://open.spotify.com/album/2XgjGhHVzOdeaI5pLIqdMT"
       },
       "artists": [
         {
-          "name": "Dante Ouvi\u00f1a",
-          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+          "name": "Jard\u00edn Mojado",
+          "url": "https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx"
         }
       ],
-      "duration_ms": 168731,
-      "name": "Era un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5jZhkJOa7mL3HxzzKCOyrR"
+      "duration_ms": 222488,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5Zj3NEkdiVvUBEwn28CWhM"
     },
     {
       "added_at": "2023-08-16 14:00:57",
@@ -687,22 +703,6 @@
       "duration_ms": 151359,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/4SJtVttPzL6gV3M5jAOi2l"
-    },
-    {
-      "added_at": "2023-08-16 14:00:57",
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/2XgjGhHVzOdeaI5pLIqdMT"
-      },
-      "artists": [
-        {
-          "name": "Jard\u00edn Mojado",
-          "url": "https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx"
-        }
-      ],
-      "duration_ms": 222488,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5Zj3NEkdiVvUBEwn28CWhM"
     },
     {
       "added_at": "2023-08-16 14:00:57",

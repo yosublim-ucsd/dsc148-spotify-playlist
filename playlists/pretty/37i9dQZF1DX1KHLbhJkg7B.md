@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,235 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,303 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 57 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 |
 | 58 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
 | 59 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
-| 60 | [Make Me Want To](https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA) | 2:55 |
-| 61 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
+| 60 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
+| 61 | [Make Me Want To](https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA) | 2:55 |
 | 62 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 63 | [Jolene](https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:20 |
 | 64 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 91 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 92 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
 | 93 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
-| 94 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
-| 95 | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/track/6E7l20drqpZjMTqY5w3G8f) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC) | 4:19 |
+| 94 | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/track/6E7l20drqpZjMTqY5w3G8f) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC) | 4:19 |
+| 95 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
 | 96 | [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 |
 | 97 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 |
 | 98 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
 | 99 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 100 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 |
 
-Snapshot ID: `MCw1ZGFlNTU2NzIyMjI5OWQwN2VmM2Y4MWJiMTkyYzBlYjdlMWU4YTI0`
+Snapshot ID: `MCxiYjk1YTlhOWZhMzM0MmU0YjQ5MmQ4NzA1YTgwNzBmZDJkNGZhNTI3`

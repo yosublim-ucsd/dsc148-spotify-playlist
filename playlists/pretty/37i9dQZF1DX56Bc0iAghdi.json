@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 24806,
+  "num_followers": 24841,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQzODY1YTdiZmZkNzc4YzI5ZWVkZjNmZDViMWMxZmQwNmI4MGRl",
+  "snapshot_id": "MCwzYTI0ZWJkNzMyYjg1ZTYzYTNkZGY2YmQzZDU2MjI0ZDM1Y2Q2NWFj",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Even in the Valley",
-        "url": "https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg"
-      },
-      "artists": [
-        {
-          "name": "Kingly",
-          "url": "https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ"
-        },
-        {
-          "name": "John Strandell",
-          "url": "https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd"
-        }
-      ],
-      "duration_ms": 203301,
-      "name": "Even in the Valley",
-      "url": "https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 497289,
       "name": "Incense - Live",
       "url": "https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Even in the Valley",
+        "url": "https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg"
+      },
+      "artists": [
+        {
+          "name": "Kingly",
+          "url": "https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ"
+        },
+        {
+          "name": "John Strandell",
+          "url": "https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd"
+        }
+      ],
+      "duration_ms": 203301,
+      "name": "Even in the Valley",
+      "url": "https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 205556,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "NOT BY CHANCE",
         "url": "https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 230574,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 205556,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Caleb Crino",
-        "url": "https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa"
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp"
       },
       "artists": [
         {
-          "name": "Caleb Crino",
-          "url": "https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG"
+          "name": "Miqueas Lopez",
+          "url": "https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn"
         }
       ],
-      "duration_ms": 195102,
-      "name": "Lead the Way",
-      "url": "https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz"
+      "duration_ms": 187000,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN"
     }
   ],
   "unique_name": "Spirit",

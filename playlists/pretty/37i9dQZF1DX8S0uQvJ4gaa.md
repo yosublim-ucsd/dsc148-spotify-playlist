@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,007 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,834 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 75 | [Loose Cannon](https://open.spotify.com/track/3sXDgpJTEbjbLnrACFMjo1) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Loose Cannon](https://open.spotify.com/album/64vwXK5PDLDbuT4dCui4af) | 3:25 |
 | 76 | [Wine Country](https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Wine Country](https://open.spotify.com/album/4TsRlcxfxu5W3j4Ink2ruz) | 2:43 |
 | 77 | [Miss That Girl](https://open.spotify.com/track/2l2Izjvt7Vj4Q9823SZ6XE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/50uRwBAbSJNhpdgpFf9NQr) | 2:17 |
-| 78 | [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 |
+| 78 | [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 |
 | 79 | [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 |
 | 80 | [One Of Us](https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [One Of Us](https://open.spotify.com/album/23xj6FVIi4bGBMevFQWQn8) | 3:02 |
 | 81 | [Tails I Lose](https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
 | 100 | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/track/1BE14COOIAi5ZWUmDv0Cv6) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/album/1HhVL2289IZNqKseUGaybE) | 3:44 |
 
-Snapshot ID: `MCxkMzFkYjU3MjliMTExODZhMDA2MzY5OTBiZWJhZTBiNGJlMzA3OTFm`
+Snapshot ID: `MCxkNzdkZDkwZDVjYzI5M2MyZjI1NjFjNWUzOGJjZjU3YjJlMTlmOWQx`

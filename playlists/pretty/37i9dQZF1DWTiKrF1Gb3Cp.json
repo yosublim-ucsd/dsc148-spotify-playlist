@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 157649,
+  "num_followers": 157720,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQxYmU1OWM3MzliOTAzNTM0OWFhMDY0NjdkNWQ2MGUyYjg3Nzcz",
+  "snapshot_id": "MCxiYzUxZmFiMzI4OWJmMzEyOTNmOTAzYmQ1NGUxODZmOGMxODVhZmNj",
   "tracks": [
     {
       "added_at": "2023-07-28 20:09:33",
@@ -599,6 +599,42 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -623,42 +659,6 @@
       "duration_ms": 217954,
       "name": "Peso a Peso",
       "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Mexicano",
-      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "IceWeed-Man",
-        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "BeeJay",
-          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Desvielados",
-      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 229610,
       "name": "El Catr\u00edn (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "IceWeed-Man",
+        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "BeeJay",
+          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Desvielados",
+      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Derrochando Estilo",
-        "url": "https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt"
-      },
-      "artists": [
-        {
-          "name": "Chikis RA",
-          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
-        }
-      ],
-      "duration_ms": 167191,
-      "name": "Derrochando Estilo",
-      "url": "https://open.spotify.com/track/4I98VytVQXNTScYphARAGH"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 188181,
       "name": "Followers",
       "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Derrochando Estilo",
+        "url": "https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "duration_ms": 167191,
+      "name": "Derrochando Estilo",
+      "url": "https://open.spotify.com/track/4I98VytVQXNTScYphARAGH"
     },
     {
       "added_at": "2023-07-28 20:09:33",

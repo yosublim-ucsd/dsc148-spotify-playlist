@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 159785,
       "name": "Beauty and the Beach (feat. Flo Rida)",
       "url": "https://open.spotify.com/track/3LgyWMhXMMcMKxH56hdkxz"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 158602,
       "name": "Fall into You",
       "url": "https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 128200,
       "name": "Hyper Vacation",
       "url": "https://open.spotify.com/track/5dUg5ysqf9UIErEZKUQFpF"
@@ -2240,6 +2240,24 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "I'm a mess",
+      "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
     },
     {
       "album": {
@@ -2887,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181479,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN"
+    },
+    {
+      "album": {
         "name": "Takin' It Back (Deluxe)",
         "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
       },
@@ -3062,6 +3098,28 @@
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164103,
+      "name": "Oh My My! (In Love Again)",
+      "url": "https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9"
     },
     {
       "album": {
@@ -3406,7 +3464,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 272035,
       "name": "Psychedelic Switch",
       "url": "https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX"
@@ -3642,6 +3700,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166148,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
     },
     {
       "album": {
@@ -4682,7 +4758,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
@@ -5316,7 +5392,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 214920,
       "name": "\u3068\u304d\u3081\u304dpart1",
       "url": "https://open.spotify.com/track/5lGNDmdvtbvwaXLkalxA9r"

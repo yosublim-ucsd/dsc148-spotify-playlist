@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-385 songs - 20 hr 25 min
+389 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Future With You](https://open.spotify.com/track/1ndjWsO1Ft9kY6bqOTngmI) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 3:17 | 2022-08-17 |  |
 | [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 |  |
 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
+| [A Minute To Myself](https://open.spotify.com/track/0ZcjEawIY7jFDUTJdK9QkO) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [A Minute To Myself](https://open.spotify.com/album/2WzMQD7VpeIWG14dBHSTru) | 3:02 | 2023-08-17 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0fmlfBRcoK9vpKPxzcykWX) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH) | 4:04 | 2023-01-12 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 |  |
 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 | 2022-04-12 |  |
@@ -146,6 +147,7 @@
 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2022-04-12 | 2022-12-02 |
 | [I'd Never Lie to You](https://open.spotify.com/track/3js7K5ccTY41JFjFjHToeA) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:33 | 2023-03-16 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2022-04-12 |  |
+| [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 | 2023-08-11 |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/7433MybqQz6iILaFXwqCW3) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/73AlHfvtVAHZl6PyzE4tKW) | 3:27 | 2023-05-25 |  |
@@ -269,6 +271,7 @@
 | [Relief On A Shitty Day](https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Relief On A Shitty Day](https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp) | 3:08 | 2023-01-05 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-10 |  |
 | [Round Midnight](https://open.spotify.com/track/7ioE8qdziQjlYWlIuhflyg) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Round Midnight](https://open.spotify.com/album/63zAUuCZEx8JSOkNTVALFC) | 3:52 | 2022-04-12 |  |
+| [S Wonderful](https://open.spotify.com/track/7FMLsi2Ix1FkyADYRYMA8I) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [S Wonderful](https://open.spotify.com/album/2l9fjk2KJyZ8wWOihLvCCM) | 2:43 | 2023-08-17 |  |
 | [Sad Eyes](https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Sad Eyes](https://open.spotify.com/album/4fgNlENNCWFn1lnYYzih0B) | 3:44 | 2022-04-12 |  |
 | [Saint James Infirmary Blues](https://open.spotify.com/track/076g7APvGbCYC9wYiropf8) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Saint James Infirmary Blues](https://open.spotify.com/album/0UIZgy3M75tnAlxUKAxQPn) | 2:04 | 2022-08-30 |  |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-01 |  |
@@ -314,6 +317,7 @@
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-04-12 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
+| [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-17 |  |
 | [Sweet Or Sweeter](https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Sweet Or Sweeter](https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ) | 1:59 | 2023-04-20 |  |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-01-05 |  |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2022-04-12 |  |

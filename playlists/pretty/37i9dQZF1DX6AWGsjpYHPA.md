@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,152 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,299 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 16 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
 | 17 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
 | 18 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
-| 19 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
-| 20 | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/track/3vTkplYptoBlHph3eNeJA1) | [Gamblers](https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/album/2kbQLcZgLzs93zjxnuy8hu) | 2:18 |
+| 19 | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/track/3vTkplYptoBlHph3eNeJA1) | [Gamblers](https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/album/2kbQLcZgLzs93zjxnuy8hu) | 2:18 |
+| 20 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
 | 21 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
 | 22 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 23 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 52 | [Imagineering](https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 4:34 |
 | 53 | [Flowers](https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Flowers](https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks) | 8:52 |
 | 54 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
-| 55 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
-| 56 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
+| 55 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
+| 56 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
 | 57 | [Dearest Alfred \(MyJoy\)](https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 3:15 |
-| 58 | [How Did You Know \- Live At Electric Lady](https://open.spotify.com/track/4IvRMvYi3aszvNkvw2TnfD) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Live At Electric Lady](https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR) | 4:08 |
-| 59 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
+| 58 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
+| 59 | [How Did You Know \- Live At Electric Lady](https://open.spotify.com/track/4IvRMvYi3aszvNkvw2TnfD) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Live At Electric Lady](https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR) | 4:08 |
 | 60 | [Desmond's Empire](https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 4:36 |
 | 61 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
-| 62 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
-| 63 | [Sunshower](https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq) | 4:05 |
+| 62 | [Sunshower](https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq) | 4:05 |
+| 63 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
 | 64 | [Jazz Vol\. 1](https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Jazz Vol\. 1](https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV) | 6:37 |
 | 65 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
 | 66 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 | 75 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
 
-Snapshot ID: `MCwwMWNiMzViYzU5Yjc1ZGRlNDFkZjgwMDM0NmI5ZTA3NWE1MDg0NWZl`
+Snapshot ID: `MCwwYzM3OTc3NzQwM2M5YmRjNTI0MzA5ODYxNzUwOGI0YjUyZjc2Nzkx`

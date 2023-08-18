@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=HOFOxELGRXucmtRYYaKkyg">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,759 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,796 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 41 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
 | 42 | [Honest Decision](https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Honest Decision](https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T) | 2:19 |
 | 43 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 |
-| 44 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
+| 44 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
 | 45 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 |
 | 46 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 47 | [Tossmitoss](https://open.spotify.com/track/5d5GWx48aGuO0A1ZYJPAr7) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 59 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 |
 | 60 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
 
-Snapshot ID: `MCwzM2FmYTMyOGZkMTE4ZjJmM2RkOTZlZTkzNTY4YWZjOWRmOWVkOWI5`
+Snapshot ID: `MCw1YjFkMjhkZDc5YmMxNmVjZmNkNWQ1OGJiNTQ5MTNmMThiNTM0OTU0`

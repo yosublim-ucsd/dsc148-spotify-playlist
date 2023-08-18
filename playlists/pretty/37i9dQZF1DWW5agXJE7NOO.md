@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5agXJE7NOO.md) - [plain]
 
 > ¡Que pase la festejada a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,416 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,446 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5agXJE7NOO.md) - [plain]
 | 50 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 | 51 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 52 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
-| 53 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
-| 54 | [Suavemente](https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:26 |
-| 55 | [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoría](https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 |
+| 53 | [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoría](https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 |
+| 54 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
+| 55 | [Suavemente](https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:26 |
 | 56 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 |
 | 57 | [Echarme Al Olvido](https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 4:41 |
 | 58 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5agXJE7NOO.md) - [plain]
 | 78 | [Tiempo De Vals](https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Tiempo De Vals](https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR) | 4:07 |
 | 79 | [Amor A Primera Vista](https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:41 |
 | 80 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 |
-| 81 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
-| 82 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
+| 81 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
+| 82 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 83 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/2df5QsXucx4VLiHNGusXD5) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 4:13 |
 | 84 | [1 2 3](https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 3:39 |
 | 85 | [No rompas mi corazón \- Achy Breaky Heart](https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Trayectoria](https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5agXJE7NOO.md) - [plain]
 | 99 | [Disco samba](https://open.spotify.com/track/0G9BUTjG53BKcIN6NgXWJV) | [The Medley group](https://open.spotify.com/artist/0OEf5h54Ulgq45WC10j50S) | [Baila Samba](https://open.spotify.com/album/3xbld1nely7B7MtLP1j2uL) | 6:39 |
 | 100 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 |
 
-Snapshot ID: `MCxhMDc3ZGVjZDg0MjQ4OTY1YTg3NzFhOTQ1NzY4MjQ5NjAwZGM0NjQ2`
+Snapshot ID: `MCw0MmFkMWNjZGIyNzI2NzhmNjQwMWUxZjI4YTQ5MGFmMjc3ZmQxMjli`

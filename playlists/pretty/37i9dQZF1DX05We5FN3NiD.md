@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,119 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,143 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 69 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
 | 70 | [Doom Days](https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 2:18 |
 | 71 | [10/10](https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 2:26 |
-| 72 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 |
-| 73 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 |
+| 72 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 |
+| 73 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 |
 | 74 | [Fuzzybrain](https://open.spotify.com/track/5sVXCez77vrBgDoeJKfv4U) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:39 |
 | 75 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
 | 76 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 99 | [Naeem](https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 4:22 |
 | 100 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
 
-Snapshot ID: `MCxhNDE0ZGYwZjUyODRjYmVhNWE1ODhmOTdlYWU2NGFiMWYxNTBjMDNm`
+Snapshot ID: `MCxiODRhODJmNDIyN2UwZTRhNWQzMjJlMjRhZDYzMTgyYWIwMjg2NDYy`

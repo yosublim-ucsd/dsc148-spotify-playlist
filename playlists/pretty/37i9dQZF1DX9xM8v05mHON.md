@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 
 > Feed your focus with busy restaurant sounds, background chatter and coffee shop ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,100 likes - 72 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,119 likes - 72 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 | 71 | [Cafeteria Ambience \(Cafe Coffee Shop Restaurant People Talking\) \[Background Ambient Noise Sound Effect\]](https://open.spotify.com/track/3pOINHAWLUX2pn7hn6CDiB) | [Finnolia Sound Effects](https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ) | [Background Sound Effects](https://open.spotify.com/album/3RMnX0H77CFh8uNW6WbJuo) | 2:00 |
 | 72 | [Aroma Haven: A Coffee Shop in Paris](https://open.spotify.com/track/1KUlDvLhJ5PyFD3HcGoKPL) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Aroma Haven: A Coffee Shop in Paris](https://open.spotify.com/album/4gyQhQ1YbvGt5UVjLj7xDr) | 3:03 |
 
-Snapshot ID: `MCxkNDA3NDUxN2NiMGJkMjk4NGNjYTNkNGY2OGE0ZTlhZTE3ZmRjZThk`
+Snapshot ID: `MCw1MzhiOGI2ZDU5NmE4ZTQ1NjE3ZGY2ZmE3MzIwMzQ3MDM2ODAzYWY5`

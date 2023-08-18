@@ -1,79 +1,35 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 731845,
+  "num_followers": 731866,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTg4Y2RkN2JhNWU0MWZhZWQwMTUwMTYwNzk4ZDk5ZGQ3OTlmY2Ux",
+  "snapshot_id": "MCxiNWFkNTNjNjE4M2Q3Yzg3MGEzNGY2MTRlOTlmNWFlMzAyNjg2MjFl",
   "tracks": [
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/0OrXgNFMNUFlwddX4NnCtD"
+        "name": "Tar det tillbaka igen",
+        "url": "https://open.spotify.com/album/67HCYbP85kMzkH6T4YG1ln"
       },
       "artists": [
         {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Solen",
-        "url": "https://open.spotify.com/album/3OuuDKDCCgbDALjhbHr0lR"
-      },
-      "artists": [
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Solen",
-      "url": "https://open.spotify.com/track/3y3atUjUSfSxEpM1LEN00h"
+      "duration_ms": 127663,
+      "name": "Tar det tillbaka igen",
+      "url": "https://open.spotify.com/track/4s3JPsZs1hNPRUB9aQAk7L"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2023-08-14 09:48:22",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -97,7 +53,71 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/0OrXgNFMNUFlwddX4NnCtD"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Solen",
+        "url": "https://open.spotify.com/album/3OuuDKDCCgbDALjhbHr0lR"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Solen",
+      "url": "https://open.spotify.com/track/3y3atUjUSfSxEpM1LEN00h"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "AUSTIN",
         "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
@@ -113,7 +133,47 @@
       "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Soldat",
+        "url": "https://open.spotify.com/album/30rq6uVi2lypmp6787cImE"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Soldat",
+      "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -129,23 +189,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Occhi D\u2019Amore",
         "url": "https://open.spotify.com/album/0MBYnWVqa6trbDCCKuP1QB"
@@ -165,7 +209,23 @@
       "url": "https://open.spotify.com/track/1Tx7TwXLu2BQIAz0SRzf2k"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "INGEN KAN SL\u00c5 (BOTEN ANNA)",
         "url": "https://open.spotify.com/album/3wiC6E5VBDno4edLIFcWKY"
@@ -185,7 +245,7 @@
       "url": "https://open.spotify.com/track/1pLglW5mDscxmbo32uaf3U"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "TRAPEN TILL RADION",
         "url": "https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k"
@@ -209,23 +269,7 @@
       "url": "https://open.spotify.com/track/6y4Z3qrOwInrWJhocyiRcA"
     },
     {
-      "added_at": "2023-08-16 08:34:58",
-      "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
@@ -245,7 +289,7 @@
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
-      "added_at": "2023-08-14 09:48:22",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "bad idea right?",
         "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
@@ -261,7 +305,7 @@
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
@@ -277,7 +321,7 @@
       "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Satellit",
         "url": "https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep"
@@ -293,7 +337,23 @@
       "url": "https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "B\u00e4sta var du",
+        "url": "https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 198756,
+      "name": "B\u00e4sta var du",
+      "url": "https://open.spotify.com/track/544i2kupbLppslcGI1PhlL"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Standard",
         "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
@@ -313,7 +373,7 @@
       "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "STOR MAN",
         "url": "https://open.spotify.com/album/2zkfMfrIQicYXK6tEDlavG"
@@ -333,23 +393,7 @@
       "url": "https://open.spotify.com/track/3Ogy0Sog7JmnXBn43Dmyv0"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
@@ -365,31 +409,7 @@
       "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "\u00d6ver Broarna",
         "url": "https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Andas in andas ut",
         "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
@@ -429,23 +449,23 @@
       "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
-        "name": "Gl\u00f6mmer att gl\u00f6mma",
-        "url": "https://open.spotify.com/album/7nJ3twbm6IQyYCbb0b2rit"
+        "name": "Ser du hur bra jag m\u00e5r",
+        "url": "https://open.spotify.com/album/19aHEnRCAFS4xjYtjGyeiE"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Gl\u00f6mmer att gl\u00f6mma",
-      "url": "https://open.spotify.com/track/2k6rdaUYg1SF9MipMM7wij"
+      "duration_ms": 171123,
+      "name": "Ser du hur bra jag m\u00e5r",
+      "url": "https://open.spotify.com/track/3ULKS0ZKaf4rylg736VvMD"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Ride With Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "POLLEN",
         "url": "https://open.spotify.com/album/21PJSOuXESN1VkaEmNL3ea"
@@ -605,23 +625,7 @@
       "url": "https://open.spotify.com/track/7AfpaQEypz50V2r3IlwqVT"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Ser du hur bra jag m\u00e5r",
-        "url": "https://open.spotify.com/album/19aHEnRCAFS4xjYtjGyeiE"
-      },
-      "artists": [
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        }
-      ],
-      "duration_ms": 171123,
-      "name": "Ser du hur bra jag m\u00e5r",
-      "url": "https://open.spotify.com/track/3ULKS0ZKaf4rylg736VvMD"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
@@ -637,7 +641,7 @@
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -653,7 +657,7 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
@@ -669,7 +673,7 @@
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -693,7 +697,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "DISKOTEKA",
         "url": "https://open.spotify.com/album/6B3r8BialUCTnVf6o8D4yQ"
@@ -709,7 +713,7 @@
       "url": "https://open.spotify.com/track/16jNbcjTGEskPA06R4wbQz"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "F\u00e5nga mig n\u00e4r jag faller",
         "url": "https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG"
@@ -725,7 +729,7 @@
       "url": "https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Gr\u00e4t",
         "url": "https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp"
@@ -741,7 +745,23 @@
       "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Dum av dej",
         "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Under n\u00e5gon ny",
         "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "PRAPAPA",
         "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
@@ -861,23 +881,7 @@
       "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Starkare",
-        "url": "https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 145283,
-      "name": "Starkare",
-      "url": "https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "\u00c5lderdomshemmet",
         "url": "https://open.spotify.com/album/0HVvyd8hLIe5tdn5rH1bqX"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/7wcl1N4Mn1VlBbQQmOlgiO"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Beroendeframkallande",
         "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
@@ -909,7 +913,7 @@
       "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
     },
     {
-      "added_at": "2023-08-10 22:00:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,905 likes - 90 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,946 likes - 90 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
-| 2 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
-| 3 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 2 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 3 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
 | 4 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 5 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 6 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 7 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 8 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 9 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
-| 10 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
-| 11 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 10 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 11 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
 | 12 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
 | 13 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 14 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 66 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |
 | 67 | [Livin' On The Edge](https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 6:21 |
 | 68 | [Ava Adore](https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Adore \(Super Deluxe\)](https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz) | 4:30 |
-| 69 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 |
-| 70 | [Secret Smile](https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:39 |
+| 69 | [Secret Smile](https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine \(20th Anniversary Edition\)](https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T) | 4:39 |
+| 70 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 |
 | 71 | [All I Want](https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [fear](https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch) | 3:16 |
 | 72 | [Until It Sleeps](https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec) | 4:29 |
 | 73 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 75 | [Let's Get Rocked](https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:55 |
 | 76 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 | 77 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
-| 78 | [A Design for Life \- Remastered](https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 10th Anniversary Edition](https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2) | 4:17 |
-| 79 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 78 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 79 | [A Design for Life \- Remastered](https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 10th Anniversary Edition](https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2) | 4:17 |
 | 80 | [Cradle Of Love](https://open.spotify.com/track/5TSANSqPTD6nBG0NSJWmVB) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Charmed Life](https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ) | 4:41 |
 | 81 | [Slide](https://open.spotify.com/track/0eG5CqXwJpa5MBjYyg1lRm) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 3:33 |
 | 82 | [Tonight, Tonight \- Remastered 2012](https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 89 | [Awful](https://open.spotify.com/track/6O0hdCHa2K3zXM4OK9tsmA) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:16 |
 | 90 | [Doubleback](https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:56 |
 
-Snapshot ID: `MCw0OGFkMTU1NmRlZDM5ODJlZTdmYjM1YmM5NDk0MjMyNmE2YTgyMzAy`
+Snapshot ID: `MCxjMTQ1OTI0Y2U0NTc1MTIyNDZkYjZmZDgxMDczMGQ3YTBiMWEwN2Zi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,339 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,509 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 2 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 3 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 4 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
-| 5 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
+| 5 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
 | 6 | [Crazy](https://open.spotify.com/track/5W2F9xiUt0j5ZlzI4BSH0U) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [Crazy](https://open.spotify.com/album/2UqR8rP9TB0Oz6TqS5QwjA) | 3:59 |
-| 7 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
+| 7 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 8 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
 | 9 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 10 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 49 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
 | 50 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 |
 | 51 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
-| 52 | [On A Night Like Tonight](https://open.spotify.com/track/4aPiQTOqCCeSgfTgCh7SR5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:07 |
-| 53 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 |
+| 52 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 |
+| 53 | [On A Night Like Tonight](https://open.spotify.com/track/4aPiQTOqCCeSgfTgCh7SR5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:07 |
 | 54 | [Grow as We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 |
 | 55 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 |
 | 56 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 61 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 |
 | 62 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 |
 | 63 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
-| 64 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
-| 65 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 |
+| 64 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 |
+| 65 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 66 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
 | 67 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
 | 68 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 74 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 75 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 
-Snapshot ID: `MCw3ZDE3ZTM1MThjZGJhMWY5YjgxYTNmY2ZmMDk2MWUxNmI2NmRlNDFm`
+Snapshot ID: `MCwzMTNmZmY5ZGZmMzM1MjY0YjY4MDczOWY5ZTc1MzQ1NTgzODc3MTM5`

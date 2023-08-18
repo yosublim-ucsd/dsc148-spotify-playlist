@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 
 > A sad playlist for when the buildup to summer ends up being a bummer, ft Yahritza y Su Esencia
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,727 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,913 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 | 9 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 10 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 |
 | 11 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
-| 12 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 |
+| 12 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 13 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 14 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
+| 14 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 |
 | 15 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 |
 | 16 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
 | 17 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 | 22 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 23 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 |
 | 24 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
-| 25 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 |
-| 26 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 25 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 26 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 |
 | 27 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 28 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 | 29 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 | 39 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
 | 40 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 41 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
-| 42 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
-| 43 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
-| 44 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
+| 42 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
+| 43 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
+| 44 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 | 45 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 46 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 47 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIvMGe3ig7a.md) - [plain]
 | 49 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
 | 50 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 
-Snapshot ID: `MCw5NTdlNDVhMzc4MDAyMGE1ZDI0MTllOWFiMGRjMDIxODFkYzJhOTA3`
+Snapshot ID: `MCwzZDg1ZDU1MjM4Y2U4MDUyYTI0OGJmYWY4NDE4ZjE5YTFlMTZkZDlm`

@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-147 songs - 10 hr 17 min
+148 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-11-04 | 2023-01-14 |
 | [Carry On](https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf) | [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [We Are KING](https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7) | 3:53 | 2021-08-18 | 2022-08-13 |
 | [Chocolate Pomegranate](https://open.spotify.com/track/67M0ONQYZV4MmD7QyhNvz3) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Chocolate Pomegranate](https://open.spotify.com/album/4UM1e9jvy5D5gQX34Csknf) | 4:07 | 2021-08-18 | 2022-11-11 |
+| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 |  |
 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 | 2023-04-28 |  |
 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 | 2021-08-18 |  |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-18 |  |
@@ -83,7 +84,7 @@
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2023-04-14 |  |
 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 | 2023-02-03 |  |
 | [Livid](https://open.spotify.com/track/1sW4QPPGdTjbMOiomWyIqQ) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Livid](https://open.spotify.com/album/6f5Myi1i6uD0lWz82Kx8G9) | 4:29 | 2022-11-04 | 2022-11-13 |
-| [Livid](https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC) | 4:29 | 2022-07-28 |  |
+| [Livid](https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC) | 4:29 | 2022-07-28 | 2023-08-18 |
 | [Livid](https://open.spotify.com/track/7uP42ncMnsgL3adyj9px5c) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/532nyx17juALZHUgA46wly) | 4:29 | 2021-08-18 | 2022-07-29 |
 | [Love In Full Bloom](https://open.spotify.com/track/4LCxUSGC5gg291GXE0CUwL) | [Karla Felecia Scaife](https://open.spotify.com/artist/10cEgWO5EK436JaZkGQUKj) | [Love in Full Bloom](https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG) | 3:51 | 2021-11-30 | 2022-10-13 |
 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 | 2022-07-28 | 2022-10-13 |

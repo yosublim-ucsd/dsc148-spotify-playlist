@@ -4,7 +4,7 @@
 
 > The corridos our abuelos and parents listened to, viejitos y perrones!
 
-203 songs - 10 hr 32 min
+204 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Los Dos Amigos](https://open.spotify.com/track/03ypw8MVqto1iN0zLUqwkJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas \- 20 Corridos](https://open.spotify.com/album/0g8T6KQnur0Ws1u4lx6unT) | 2:59 | 2022-01-01 | 2022-07-29 |
 | [Los Dos Amigos](https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Homero Guerrero y Lupe Tijerina](https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:58 | 2022-01-01 |  |
 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 | 2022-01-01 | 2023-02-22 |
-| [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 | 2023-02-21 |  |
+| [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 | 2023-02-21 | 2023-08-18 |
 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 | 2023-02-21 |  |
 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 | 2023-02-21 |  |
 | [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 | 2023-02-21 |  |
@@ -157,6 +157,7 @@
 | [Mario Peralta](https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 | 2022-01-01 |  |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2022-01-01 | 2023-02-22 |
 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 | 2022-01-01 | 2023-02-22 |
+| [Mi Clavo](https://open.spotify.com/track/2jibTmnltzTASYyhKashO7) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/0izzBbwkHYapDNLCvz357B) | 2:16 | 2023-05-04 |  |
 | [Mi Clavo](https://open.spotify.com/track/3jYDA6ixEpSC0lwOKj18WQ) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Chacalosos con Banda Titanes Sinaloenses](https://open.spotify.com/album/2QYFXC2uGxBA72nuoXX0oq) | 2:16 | 2023-02-21 | 2023-05-30 |
 | [Mis Tres Animales](https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:43 | 2022-01-01 |  |
 | [Mis Tres Animales](https://open.spotify.com/track/72iz6CPNbpkLCkOh51hCUv) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/2w8fycIuJn9Q5iJbeBJZSY) | 2:43 | 2022-01-01 | 2022-07-29 |

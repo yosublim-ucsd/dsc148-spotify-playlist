@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Estevie & Cuco
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,961 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,971 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 5 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
 | 6 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
 | 7 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
-| 8 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 |
+| 8 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 | 9 | [Volando](https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Volando](https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx) | 3:15 |
-| 10 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
+| 10 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 |
 | 11 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
 | 12 | [Perdon](https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I) | [Ronny Dae](https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId) | [Perdon](https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u) | 3:13 |
 | 13 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 26 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 |
 | 27 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 |
 | 28 | [Amigos \(con Maria Becerra\) \- Bachata](https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\) \[Bachata\]](https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7) | 3:22 |
-| 29 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
-| 30 | [CRIMINAL](https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [CRIMINAL](https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB) | 3:00 |
+| 29 | [CRIMINAL](https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [CRIMINAL](https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB) | 3:00 |
+| 30 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
 | 31 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 |
 | 32 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 |
 | 33 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 |
 | 50 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 
-Snapshot ID: `MCwxZGNmZGE0YjJkYWQwZmM5YmNmYWRmMjgxNDBmZTc1YzU5NGNmZDkw`
+Snapshot ID: `MCw3ZWI2ODE0Y2RkNTA4NWNlZDYzM2RjMmRkYzQwNjEyY2NiMDg0YmMy`

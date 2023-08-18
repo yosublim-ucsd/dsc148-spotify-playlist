@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 45474,
+  "num_followers": 45522,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTc3MDNkOWJiOTNjYjgxZGM1ZTYwMzVlNmE2Y2I5MmU5YTBmOWIw",
+  "snapshot_id": "MCw5YThlZWUzZjgyMjkzZWRiMDllOGZkZTc3Y2NjOTQ3MWQ5ZDU4ZmQz",
   "tracks": [
     {
       "added_at": "2023-02-13 15:38:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Cuando Te Duermas",
         "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 162927,
       "name": "Cuando Te Duermas",
       "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Bolero Mientras Tanto",
-        "url": "https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z"
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
       "artists": [
         {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Bolero Mientras Tanto",
-      "url": "https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU"
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -519,52 +519,8 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
+        "name": "Bolero Mientras Tanto",
+        "url": "https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z"
       },
       "artists": [
         {
@@ -572,9 +528,25 @@
           "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
+      "duration_ms": 179000,
+      "name": "Bolero Mientras Tanto",
+      "url": "https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -595,6 +567,30 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Esperare",
         "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
       },
@@ -611,18 +607,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+        "name": "Una Flor En La Laguna",
+        "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
       },
       "artists": [
         {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+          "name": "Pepe Ramos",
+          "url": "https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
         }
       ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+      "duration_ms": 290426,
+      "name": "Una Flor En La Laguna",
+      "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -647,26 +647,6 @@
       "duration_ms": 171973,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Una Flor En La Laguna",
-        "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
-      },
-      "artists": [
-        {
-          "name": "Pepe Ramos",
-          "url": "https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
-        }
-      ],
-      "duration_ms": 290426,
-      "name": "Una Flor En La Laguna",
-      "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -703,6 +683,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
@@ -715,22 +711,6 @@
       "duration_ms": 148500,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -750,11 +730,15 @@
         {
           "name": "Felipe Gutierrez",
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+      "duration_ms": 191794,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Parece Que Fue Ayer",
         "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 168250,
       "name": "Parece Que Fue Ayer",
       "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Luna Lunera",
-        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
-      },
-      "artists": [
-        {
-          "name": "Cortando Troncos",
-          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -851,22 +835,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Guitarras Mexicanas, Vol. 2",
-        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
+        "name": "Luna Lunera",
+        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Duo: Ramos - Monterrubio",
-          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Serenata Campechana",
-      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
+      "duration_ms": 124500,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -919,18 +899,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+        "name": "Guitarras Mexicanas, Vol. 2",
+        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
       },
       "artists": [
         {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Duo: Ramos - Monterrubio",
+          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Europa - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
+      "duration_ms": 256613,
+      "name": "Serenata Campechana",
+      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Europa - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Llorando Estoy Por Ti",
         "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
       },
@@ -1067,338 +1067,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Si Me Faltas Tu",
-        "url": "https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT"
-      },
-      "artists": [
-        {
-          "name": "Marta Jobim",
-          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
-        }
-      ],
-      "duration_ms": 217588,
-      "name": "Si Me Faltas Tu",
-      "url": "https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 152663,
-      "name": "Me Estas Haciendo Falta",
-      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Flor de Terciopelo",
-        "url": "https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 135958,
-      "name": "Flor de Terciopelo",
-      "url": "https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Barracas Bird",
-        "url": "https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Barracas Bird",
-      "url": "https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Que no quede huella",
-      "url": "https://open.spotify.com/track/1IpS7AlHPQ4B4AXspsGAq3"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Moliendo Cafe",
-      "url": "https://open.spotify.com/track/36gjuOicU4G4yDFaorSoBF"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
-      },
-      "artists": [
-        {
-          "name": "Mau Soles",
-          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
-        }
-      ],
-      "duration_ms": 216064,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Ya Acabo",
-        "url": "https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/5saspiZn3XAYBfNBy9iAlN"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
-        }
-      ],
-      "duration_ms": 129199,
-      "name": "Rancho Abandonado",
-      "url": "https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Si Te Pudiera Mentir",
-        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 289565,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Me Vas A Extran\u0303ar",
-        "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
-      },
-      "artists": [
-        {
-          "name": "Los Vestidos Negros",
-          "url": "https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3"
-        }
-      ],
-      "duration_ms": 156210,
-      "name": "Me Vas A Extran\u0303ar",
-      "url": "https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Yo Ya No Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Yo Ya No Vuelvo Contigo",
-      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Piel canela",
-      "url": "https://open.spotify.com/track/5UH08BuqNSq3LsAdhftaRG"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "A Traves Del Vaso",
-        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Streep",
-          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
-        }
-      ],
-      "duration_ms": 200569,
-      "name": "A Traves Del Vaso",
-      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
-      },
-      "artists": [
-        {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Me La Avente",
-        "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Morenno",
-          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Exitos de Juan Zaizar",
-        "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
-      },
-      "artists": [
-        {
-          "name": "Juan Zaizar",
-          "url": "https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Cruz de olvido",
-      "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "La barca",
-      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Chacra",
         "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
       },
@@ -1435,24 +1103,24 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Y Todo Para Que",
-        "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
       },
       "artists": [
         {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 152372,
-      "name": "Y Todo Para Que",
-      "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
+      "duration_ms": 192000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
     },
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "La Puerta Negra",
-        "url": "https://open.spotify.com/album/73yWEfBEFLueOketILhoIg"
+        "name": "Yo Ya No Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
       },
       "artists": [
         {
@@ -1460,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
         }
       ],
-      "duration_ms": 147250,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
+      "duration_ms": 232727,
+      "name": "Yo Ya No Vuelvo Contigo",
+      "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1483,18 +1151,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
+        "name": "Y Todo Para Que",
+        "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
       },
       "artists": [
         {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
+      "duration_ms": 152372,
+      "name": "Y Todo Para Que",
+      "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1563,22 +1231,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "El Paciente",
-        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Pero Te Vas A Arrepentir",
         "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
       },
@@ -1591,6 +1243,22 @@
       "duration_ms": 266582,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "El Paciente",
+        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1663,22 +1331,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1723,6 +1375,22 @@
       "duration_ms": 200721,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
     },
     {
       "added_at": "2023-02-13 15:38:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 
 > Unwind in time to these 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,120 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,203 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 45 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 46 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 47 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
-| 48 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
-| 49 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 |
-| 50 | [Take Me Home, Country Roads \- Original Version](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
+| 48 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 |
+| 49 | [Take Me Home, Country Roads \- Original Version](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
+| 50 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 
-Snapshot ID: `MCw3MzNkMmRhYmY0ZGM4OWNhYWQ5NjhiYmFkMzY1MDQzNjJiOTA5Zjkz`
+Snapshot ID: `MCw5MGUyMGY0ZTI1ZmY5MGVmNmFkYjMzNzFkNDc4YmNlNzJiZDE4Mjk1`

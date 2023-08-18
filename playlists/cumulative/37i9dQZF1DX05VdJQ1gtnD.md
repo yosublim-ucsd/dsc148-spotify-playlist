@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-261 songs - 11 hr 54 min
+262 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Goldene Stunde](https://open.spotify.com/track/2G3rgeLeqMdvSvXtyjRvNE) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Goldene Stunde](https://open.spotify.com/album/3zqeWXqcSk7OW2H2MCoMzD) | 1:41 | 2023-04-28 |  |
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2022-05-13 | 2023-02-25 |
 | [Happy Wanderer](https://open.spotify.com/track/6ydFYQPOnhgzkUemov3BqX) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Happy Wanderer](https://open.spotify.com/album/4vWAtT75E0KWTo0pbhXuAq) | 1:57 | 2022-05-13 | 2023-02-25 |
+| [Hart Road](https://open.spotify.com/track/03RnXHco9ZFWCcN1lCIqNl) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Hart Road](https://open.spotify.com/album/7koG6f9dFfziqMRR7eNgIY) | 2:45 | 2023-08-17 |  |
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 |  |
 | [Headed to the Hillside](https://open.spotify.com/track/0SRfTC8lmnaVrmzrGxkmMN) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Brave New Promises](https://open.spotify.com/album/5wgqxwzeY7WL0BbAdMliHj) | 2:47 | 2022-10-28 | 2023-04-28 |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2023-06-23 |
@@ -158,7 +159,7 @@
 | [Loch Lomond](https://open.spotify.com/track/2cAOjBEOihwcAZmrNHVd7v) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Loch Lomond](https://open.spotify.com/album/1uAK1L5V9sG1g3vzbXrTIb) | 1:54 | 2022-08-12 |  |
 | [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 3:22 | 2022-05-13 |  |
 | [Long Gone](https://open.spotify.com/track/7oZeBMWwQtci8I9QfeUsmh) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 2:26 | 2022-05-13 | 2022-07-08 |
-| [Long Journey](https://open.spotify.com/track/730hK8fGoE6SQibPguBFJe) | [Anna Romulus](https://open.spotify.com/artist/3IGv8PO7kZnO1MUp9oHskB) | [Long Journey](https://open.spotify.com/album/5NpLRDWyo8VL9CjsG37sw1) | 3:10 | 2022-05-13 |  |
+| [Long Journey](https://open.spotify.com/track/730hK8fGoE6SQibPguBFJe) | [Anna Romulus](https://open.spotify.com/artist/3IGv8PO7kZnO1MUp9oHskB) | [Long Journey](https://open.spotify.com/album/5NpLRDWyo8VL9CjsG37sw1) | 3:10 | 2022-05-13 | 2023-08-18 |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-02-24 |  |
 | [Lovely](https://open.spotify.com/track/6vSsixLsVLvG21uoHogz39) | [TUNICA](https://open.spotify.com/artist/2DwiMaHVg8PMqq6SlKBMk7) | [Lovely](https://open.spotify.com/album/7fzyPMfrVmud2VlOkzhcmo) | 3:35 | 2022-09-09 | 2023-04-28 |
 | [Low Hanging Fruit](https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Low Hanging Fruit](https://open.spotify.com/album/1reJ7jRbbumaDTAabKziE6) | 3:59 | 2022-05-13 | 2023-04-28 |

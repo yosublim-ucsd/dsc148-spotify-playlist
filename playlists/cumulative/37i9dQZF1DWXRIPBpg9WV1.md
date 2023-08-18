@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-246 songs - 12 hr 21 min
+247 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [In My Life](https://open.spotify.com/track/1lht5O6NWqeXzlG1cpf2si) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [In My Life](https://open.spotify.com/album/3DRRgwbS1VFuoIn1tyMUUt) | 2:51 | 2023-03-17 |  |
 | [In Your Eyes](https://open.spotify.com/track/1AWyRQZP793viJUUU95omo) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:06 | 2022-05-20 | 2023-04-15 |
 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 | 2022-05-20 | 2023-05-05 |
-| [Iris](https://open.spotify.com/track/32710csZDUuG7Q65jUmyHF) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Iris](https://open.spotify.com/album/3UIw5d1XM2kD9azjb7jiWp) | 3:43 | 2022-05-20 |  |
+| [Iris](https://open.spotify.com/track/32710csZDUuG7Q65jUmyHF) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Iris](https://open.spotify.com/album/3UIw5d1XM2kD9azjb7jiWp) | 3:43 | 2022-05-20 | 2023-08-18 |
 | [Ironic](https://open.spotify.com/track/3m02CtIYAR53mHl0nhHMfI) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Ironic](https://open.spotify.com/album/1jpkk29vPtII4h64qz9WRR) | 2:02 | 2023-05-05 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/7uDZCXwbT3t66G8D5g8aRG) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 2:21 | 2023-03-17 | 2023-05-05 |
 | [Isn't She Lovely](https://open.spotify.com/track/7eI6DqHynamtKvtUWOk1Gn) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 1:54 | 2022-05-20 | 2023-05-05 |
@@ -147,6 +147,7 @@
 | [Make You Feel My Love](https://open.spotify.com/track/4fYnPn3bHaT5X2MQ2S1OpC) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Make You Feel My Love](https://open.spotify.com/album/7zic0sRHlU4yHJI08sIYn5) | 3:19 | 2022-05-20 |  |
 | [Man In The Mirror](https://open.spotify.com/track/5ACFr3JkSBYEBu3H4XLW1S) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Man In The Mirror](https://open.spotify.com/album/35lS2kcidLGiYuXx9L0s4D) | 2:24 | 2022-12-02 |  |
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-02 |  |
+| [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/6KpG42chPTbjaigDOyfO0M) | [Julius Reid](https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2) | [Mmm Mmm Mmm Mmm](https://open.spotify.com/album/1OGAxXCH1VkLBN38b8d1JK) | 3:24 | 2023-08-17 |  |
 | [Moon River](https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Moon River](https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE) | 3:34 | 2022-05-20 | 2023-05-05 |
 | [My Girl](https://open.spotify.com/track/4wye421ZuzNnDkriGPzp8j) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [My Girl](https://open.spotify.com/album/6dNpdBtcDpYkF3rjMe3fx6) | 1:59 | 2022-12-02 | 2023-05-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5QO0KMwL5KkXhQU8jaXDWE) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Nothing Compares 2 U](https://open.spotify.com/album/4hsnONUwdp2TtL2oUGLh4s) | 3:20 | 2023-05-05 |  |

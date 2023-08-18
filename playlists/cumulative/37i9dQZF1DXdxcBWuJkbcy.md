@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-664 songs - 1 day 9 hr 7 min
+665 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Don't Worry Bout Me \- Rudimental Remix](https://open.spotify.com/track/4R7ZSlYoJOIaxHJFHszQCR) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Don't Worry Bout Me \(Rudimental Remix\)](https://open.spotify.com/album/7094we3M30fGknUwYLiT5f) | 3:13 | 2020-10-20 | 2021-12-18 |
 | [Don’t Give Up On Me Now](https://open.spotify.com/track/46W9iEjOg5nkMvb6lo4Jwz) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Don’t Give Up On Me Now](https://open.spotify.com/album/3c75BN83lBpZC0sPBiSycu) | 2:07 | 2020-10-20 | 2021-12-19 |
 | [Don’t Tell Me](https://open.spotify.com/track/7gq9Mo03Zr417T2C5sgR03) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Don't Tell Me](https://open.spotify.com/album/24rekTPLd3gRRYAipE1pqq) | 2:53 | 2021-03-06 | 2021-12-21 |
-| [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ) | 2:05 | 2023-03-23 |  |
+| [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Dooh Dooh \(Stereo Sound\)](https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ) | 2:05 | 2023-03-23 | 2023-08-18 |
 | [Down For The Ride](https://open.spotify.com/track/0L8NzGlH4nmnbOUSg4gO72) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Down For The Ride](https://open.spotify.com/album/54h5f6arTVEerecJIR9g84) | 2:40 | 2021-11-12 | 2022-12-02 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-02-03 | 2023-05-05 |
 | [Drama](https://open.spotify.com/track/2q7iubF6zzuULaWF4pFcJm) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Crash & Smile in Dada Land \- July](https://open.spotify.com/album/0pMDx41vmFGTPOplpP96aS) | 2:40 | 2021-10-12 | 2021-12-21 |
@@ -190,6 +190,7 @@
 | [Every Battle](https://open.spotify.com/track/1LzCBjvOTj1vKFo8GduP3h) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Every Battle](https://open.spotify.com/album/2FYVe0lquh5aLgbT9aB6uz) | 3:32 | 2020-08-14\* | 2021-10-24 |
 | [Every Way](https://open.spotify.com/track/4xxyCh7xkK30LVBO81poif) | [Antonio Giacca](https://open.spotify.com/artist/0Nv2nsd3JNOZMWJoxIRWnO) | [Every Way](https://open.spotify.com/album/28kXv0cJnTbHJGCJYnugnq) | 2:46 | 2021-03-08 | 2021-03-23 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-09 |  |
+| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-08-17 |  |
 | [EXHALE \(feat\. Sia\) \- Hook N Sling Remix](https://open.spotify.com/track/6Ee4FnGvp1r6jvJNRHXpCD) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [EXHALE \(feat\. Sia\) \[Hook N Sling Remix\]](https://open.spotify.com/album/52FgqulIXZc4i2Bu6bgt7A) | 2:37 | 2020-08-14\* | 2022-05-25 |
 | [Expedition](https://open.spotify.com/track/2MlnLVsrTJmHmdpzJQcQ6w) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Expedition](https://open.spotify.com/album/5dJTiO7pf6dldn1Ln3XomS) | 2:30 | 2020-08-14\* | 2021-12-21 |
 | [F\*CKING SOCIETY](https://open.spotify.com/track/00CsDW3I9XueUvaXnAvGMm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:39 | 2022-12-01 | 2023-01-06 |

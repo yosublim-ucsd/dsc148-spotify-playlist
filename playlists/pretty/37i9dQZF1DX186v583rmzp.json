@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8009620,
+  "num_followers": 8012770,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTQ1M2JiZGQ5OGFkYTE3YmZhYTZhMWEwNjQ0YWU0ZTI5Y2JhMmQy",
+  "snapshot_id": "MCw0ZmM4ZTMzODA0MmFmOTM2YjU3ZWI4NmM5ODMyOGQ1NTE4ZTEwODc3",
   "tracks": [
     {
       "added_at": "2023-08-10 13:01:21",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "N.Y. State of Mind",
+      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 293973,
-      "name": "N.Y. State of Mind",
-      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
+      "duration_ms": 251573,
+      "name": "Can I Kick It?",
+      "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -607,22 +623,6 @@
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "Can I Kick It?",
-      "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "It Ain't Hard to Tell",
+      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 291066,
       "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "It Ain't Hard to Tell",
-      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Capital Punishment",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
-      },
-      "artists": [
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Twinz (feat. Fat Joe)",
-      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -1335,18 +1315,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+        "name": "Capital Punishment",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
       "artists": [
         {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
         }
       ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+      "duration_ms": 228173,
+      "name": "Twinz (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1363,6 +1347,22 @@
       "duration_ms": 216693,
       "name": "Check the Rhime",
       "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Hard To Earn",
-        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Mass Appeal",
-      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Hard To Earn",
+        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Mass Appeal",
+      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
     },
     {
       "added_at": "2023-08-10 13:01:21",

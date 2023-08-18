@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707,710 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,502 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 43 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 |
 | 44 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 |
 | 45 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
-| 46 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
-| 47 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
+| 46 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
+| 47 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
 | 48 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
 | 49 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 50 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 74 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
 | 75 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 |
 | 76 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
-| 77 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 |
-| 78 | [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 |
+| 77 | [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 |
+| 78 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 |
 | 79 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 |
-| 80 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 |
-| 81 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 |
+| 80 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 |
+| 81 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 |
 | 82 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 |
 | 83 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
 | 84 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 99 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 |
 | 100 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 
-Snapshot ID: `MCwyMzYzMzlkM2M0ZTIwNzJjYzIzYzVlMTNkYTY4YWI2ZjBmMDE0YjAy`
+Snapshot ID: `MCwzNTAwMjgxMTgzNjg0MjZiMjAwNjdiOGFjMTQyMTIwZmUwYWIzYmVm`

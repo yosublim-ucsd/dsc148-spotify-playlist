@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,243 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,617 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 35 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 36 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 |
 | 37 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
-| 38 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
-| 39 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 |
+| 38 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 |
+| 39 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 40 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 |
 | 41 | [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 |
 | 42 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 83 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 |
 | 84 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 |
 | 85 | [Antes](https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Edu García](https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK) | [Antes](https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s) | 2:33 |
-| 86 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 |
+| 86 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
 | 87 | [Celular](https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Celular](https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd) | 2:56 |
-| 88 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
+| 88 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 |
 | 89 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 90 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 |
 | 91 | [Soltera \(Remix\)](https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soltera \(Remix\)](https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 99 | [Bailando \- Spanish Version](https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 4:03 |
 | 100 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
 
-Snapshot ID: `MCw2MTAzOTJjN2E1NGRkOTZjMDA5ZDVmZjg5YzI3MzRlYWViMzJhNTZl`
+Snapshot ID: `MCw4MjU3ZjEyMGY1NmE1YjU4MDcyMTVhMDA3NmE1NTJkNWU2YjlkMWEx`

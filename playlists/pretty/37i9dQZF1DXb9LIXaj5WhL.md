@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,344,040 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,344,349 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
-| 2 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 1 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 2 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
 | 3 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
 | 4 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 5 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 6 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 7 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
-| 8 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 |
-| 9 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 8 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 9 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 |
 | 10 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 11 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
 | 12 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 33 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 | 34 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |
 | 35 | [Name](https://open.spotify.com/track/1G8jae4jD8mwkXdodqHsBM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [A Boy Named Goo](https://open.spotify.com/album/1JjGR7DtSA3aRpG99KbhxJ) | 4:30 |
-| 36 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
-| 37 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
+| 36 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
+| 37 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 | 38 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 |
 | 39 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 |
 | 40 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Kiss from a Rose \- Acoustic](https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3NehJpD5x3MUtpl8jDTHaa) | 5:24 |
 | 75 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
 
-Snapshot ID: `MCxjMGNlZGI5MjQyZWRhYjE1NWEwNjY3ZGQ1YWIzM2JhNzI4ZGYwZTBj`
+Snapshot ID: `MCw0NGQ2MjFkYTBlNWI5OTc0ODg1YzA4MTA0ODJlOGM2Zjc0MmM4MmQ1`

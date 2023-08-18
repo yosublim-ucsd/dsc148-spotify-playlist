@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,412 likes - 80 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,027 likes - 80 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 48 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
 | 49 | [Monitor](https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 5:34 |
 | 50 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 |
-| 51 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 |
-| 52 | [Wax And Wane](https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Garlands](https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29) | 4:04 |
+| 51 | [Wax And Wane](https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Garlands](https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29) | 4:04 |
+| 52 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 |
 | 53 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
 | 54 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 |
 | 55 | [Seemann](https://open.spotify.com/track/5zW8UE2pvxwZ1TRC6Q3CXr) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Reflections](https://open.spotify.com/album/3gJASTvUI7AYoZdOZl8zdw) | 4:42 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 67 | [Medusa](https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Medusa](https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv) | 5:53 |
 | 68 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
 | 69 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 |
-| 70 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
-| 71 | [I Walk the Line](https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp) | 4:51 |
+| 70 | [I Walk the Line](https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp) | 4:51 |
+| 71 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
 | 72 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 73 | [Не Смешно / Ne Smeshno](https://open.spotify.com/track/0eA4Bqcjt58ORsG9VFMSmt) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Monument](https://open.spotify.com/album/7I9n0t27YMnNqf8pIfTG9z) | 3:52 |
 | 74 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
-| 75 | [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 |
-| 76 | [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 |
-| 77 | [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 |
-| 78 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
+| 75 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
+| 76 | [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 |
+| 77 | [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 |
+| 78 | [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 |
 | 79 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |
 | 80 | [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 |
 
-Snapshot ID: `MCw1NDRjMGVlMjhhZGFkMmNiNTA4ZGU3MjIxMzY5MzIxMDA3ZmFiZjlm`
+Snapshot ID: `MCw4NDg3NDg4NDEyMjE1NjAyN2NjMWNmMDM1YmUxYmFmZDRkN2I5N2Ey`

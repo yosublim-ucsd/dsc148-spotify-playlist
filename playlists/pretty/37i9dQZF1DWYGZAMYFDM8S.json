@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 294573,
+  "num_followers": 294638,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTljM2I0YzBiMmIwODg3OWUxZThmNDgwN2U4ZmZlODdiYTJkZTg2",
+  "snapshot_id": "MCw2M2Q3NTI2NDM4OWNmZTU5OTdmYjQwMDdhNjQ1Nzc3ZGQ4ZGI1NzUx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
         "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Day by Day (Acoustic)",
-        "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 209714,
-      "name": "Day by Day - Acoustic",
-      "url": "https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Day My Father Died",
         "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 248533,
       "name": "Sweet Home",
       "url": "https://open.spotify.com/track/7IL4oYjqU58OrarBeQnn0x"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Day by Day (Acoustic)",
+        "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 209714,
+      "name": "Day by Day - Acoustic",
+      "url": "https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "Echo (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 211688,
+      "name": "Echo (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Projections",
         "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Angela (Single Version)",
-        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Angela (Single Version)",
-      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Angela (Single Version)",
+        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Angela (Single Version)",
+      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,332 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,388 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 17 | [水平線](https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [水平線](https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y) | 4:45 |
 | 18 | [燈](https://open.spotify.com/track/0tlp9m2rIsY4R6d9ZIuhfn) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/2YqVnb5lJqSNgeQarsqWs8) | 3:58 |
 | 19 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 |
-| 20 | [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 |
+| 20 | [少年讃歌](https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [少年讃歌](https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne) | 3:42 |
 | 21 | [Girl in the Mirror](https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Portrait](https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj) | 3:11 |
 | 22 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 |
 | 23 | [ターコイズ](https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ターコイズ](https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 49 | [Starting Over](https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Starting Over](https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF) | 3:10 |
 | 50 | [春愁](https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Love me, Love you](https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g) | 3:03 |
 
-Snapshot ID: `MCw1NjJmZWJjODVhYTRlNzk0NGVlY2Q0MDNlY2QyZTFmMjMyYjFiZTQy`
+Snapshot ID: `MCwyZTA5YWIzOWYyODU5YjdkYjA3MzUyMjI3ZDliNzliM2IwNjA4ZjUw`

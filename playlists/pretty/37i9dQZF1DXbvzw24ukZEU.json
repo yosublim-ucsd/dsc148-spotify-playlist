@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
-  "num_followers": 77820,
+  "num_followers": 77921,
   "original_name": "Latin Chillout 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2FkZWNiOTMwYzgxODEyY2EwMjRlNjMwNGU4Y2YxNWI0ZjhjYzU5",
+  "snapshot_id": "MCw0ODdjYTE5OTdiMDJlYWMzZjM5ZGFlY2ExMTI0M2U1OTE3MDkzYmNl",
   "tracks": [
     {
       "added_at": "2023-02-17 19:20:00",
@@ -535,22 +535,18 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 200586,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -571,18 +567,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+      "duration_ms": 200586,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -915,34 +915,6 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -975,6 +947,34 @@
       "duration_ms": 213311,
       "name": "Passion Whine",
       "url": "https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
     }
   ],
   "unique_name": "Latin Chillout 10s",

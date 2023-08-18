@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 69516,
+  "num_followers": 69641,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWFlMThlZTZmNGE1ODMxNDE5ZTgyYmQwNDA4MmNhYmRlYzlhNzRh",
+  "snapshot_id": "MCwxMTNmY2FkNzczYTg0MDJiYjI2MDE4MDk5ZTg1NzZhM2Y1ZDNlMDEw",
   "tracks": [
     {
       "added_at": "2023-08-16 08:36:54",
@@ -101,7 +101,7 @@
         }
       ],
       "duration_ms": 221413,
-      "name": "On The Street Where You Live - 1998 Remaster",
+      "name": "On The Street Where You Live - Remastered 1998",
       "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "May I Come In?",
-        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 124266,
-      "name": "Something Happens To Me",
-      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
+        "name": "May I Come In?",
+        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "Something Happens To Me",
+      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
+    },
+    {
+      "added_at": "2023-08-16 08:36:54",
+      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 110933,
       "name": "It's A Big Wide Wonderful World",
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
-    },
-    {
-      "added_at": "2023-08-16 08:36:54",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "Desafinado",
-        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
         }
       ],
-      "duration_ms": 239173,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
+      "duration_ms": 152960,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
     },
     {
       "added_at": "2023-08-16 08:36:54",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-08-16 08:36:54",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+        "name": "Desafinado",
+        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },
       "artists": [
         {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 152960,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
+      "duration_ms": 239173,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
     },
     {
       "added_at": "2023-08-16 08:36:54",

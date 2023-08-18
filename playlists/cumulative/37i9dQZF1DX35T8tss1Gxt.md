@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-406 songs - 1 day 0 hr 28 min
+407 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [EVERY LITTLE THING](https://open.spotify.com/track/4Yj3DWigyBkTbd3XW0dPMr) | [Brandyn Kalani](https://open.spotify.com/artist/6ev8LXeWUuAT6N78OVjPvA) | [EVERY LITTLE THING](https://open.spotify.com/album/2MnnGRRWDUjSyvLq0bQLef) | 2:49 | 2022-03-05 | 2022-04-09 |
 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 | 2022-02-19 | 2022-06-26 |
 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 | 2022-04-08 | 2022-04-26 |
+| [Exodus](https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 3:00 | 2023-07-21 |  |
 | [Exodus](https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Exodus](https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd) | 3:00 | 2022-07-17 | 2023-04-21 |
 | [Face to Face](https://open.spotify.com/track/4yUdZ5MKh2XWoxcUP1wKlQ) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Face to Face](https://open.spotify.com/album/01A6uwwSI6q3xMg5FrWkRu) | 3:57 | 2022-02-19 | 2022-06-23 |
 | [Fall Back In Love](https://open.spotify.com/track/1smBVdtxGxsNHA2UxW2cQT) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu) | [Fall Back In Love](https://open.spotify.com/album/2TQs7uUu0CjAJR6g3fqBJg) | 3:21 | 2022-04-01 | 2022-04-20 |
@@ -136,7 +137,7 @@
 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 | 2022-04-01 | 2022-04-30 |
 | [God Is Working](https://open.spotify.com/track/0xHo0tA2RYAPSpKGIo5pzy) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [God Is Working](https://open.spotify.com/album/0U7I05VlAZpSX6exVWlaSM) | 5:24 | 2022-02-19 | 2022-02-28 |
 | [God Made](https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [God Made](https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft) | 3:20 | 2022-04-01 | 2023-01-21 |
-| [God of Dreams](https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Hold It All Together](https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E) | 2:38 | 2022-07-17 |  |
+| [God of Dreams](https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Hold It All Together](https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E) | 2:38 | 2022-07-17 | 2023-08-18 |
 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 | 2022-06-25 | 2022-12-22 |
 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 | 2022-02-19 |  |
 | [Goin' Up \(feat\. Aaron Cole\)](https://open.spotify.com/track/2WGLMKLoN34qT6vTPVo3Xa) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [The N.O.W\. Experience](https://open.spotify.com/album/5alrAEikPq9l3uayhxDFb0) | 4:35 | 2022-02-19 | 2022-06-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 174777,
+  "num_followers": 174930,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWFlNGM1MzU5ZTZlNmMyNTdmM2ZkNzRkMDFlNDgwMzNlNTM3MjIz",
+  "snapshot_id": "MCwxM2FkM2MyNmIzZjA1MDlkNGVmOWQwZGYyYmJkOGQ2YWFmYmNiYWQ4",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -579,34 +579,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Purcell / Handel: Theatre Music",
-        "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "Nancy Argenta",
-          "url": "https://open.spotify.com/artist/6AWyB0AhI3gzsAbe9cksLF"
-        },
-        {
-          "name": "CBC Vancouver Orchestra",
-          "url": "https://open.spotify.com/artist/6dAIdF6nONpHdHJ1QPT6Sk"
-        },
-        {
-          "name": "Monica Huggett",
-          "url": "https://open.spotify.com/artist/4E2Rqf4KfXgR2aVt8FvIkh"
-        }
-      ],
-      "duration_ms": 85933,
-      "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
-      "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Into Silence: P\u00e4rt | Vasks | G\u00f3recki | Pel\u0113cis",
         "url": "https://open.spotify.com/album/7I6GRzGwHByDn59Y9cneeo"
       },
@@ -631,6 +603,34 @@
       "duration_ms": 377560,
       "name": "Concertino bianco: 1. Con intenerimento",
       "url": "https://open.spotify.com/track/4RCllHzuJX9PaV7kNHxmu0"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Purcell / Handel: Theatre Music",
+        "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Nancy Argenta",
+          "url": "https://open.spotify.com/artist/6AWyB0AhI3gzsAbe9cksLF"
+        },
+        {
+          "name": "CBC Vancouver Orchestra",
+          "url": "https://open.spotify.com/artist/6dAIdF6nONpHdHJ1QPT6Sk"
+        },
+        {
+          "name": "Monica Huggett",
+          "url": "https://open.spotify.com/artist/4E2Rqf4KfXgR2aVt8FvIkh"
+        }
+      ],
+      "duration_ms": 85933,
+      "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
+      "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -755,6 +755,30 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
+        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andreas Staier",
+          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
+      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
-        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Andreas Staier",
-          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
-        },
-        {
-          "name": "Alexander Melnikov",
-          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
-      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
         "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Kissin Plays Liszt",
-        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 375920,
-      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
-      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1019,6 +999,26 @@
       "duration_ms": 202240,
       "name": "Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/5ebC5YZw56vrVIkIbkbNvP"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Kissin Plays Liszt",
+        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 375920,
+      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
+      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
-        }
-      ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
         "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 54520,
       "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+        }
+      ],
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2023-02-09 09:05:31",

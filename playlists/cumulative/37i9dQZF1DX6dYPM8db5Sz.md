@@ -2,9 +2,9 @@
 
 ### [SAlt](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5?si=iP71mkvdQhOoN0MQNVTKPQ">Muzi</a>
+> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=jDi4XWhlQaaX7vBCLqxkag">Beatenberg</a>
 
-431 songs - 1 day 0 hr 56 min
+434 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 | 2023-03-02 | 2023-04-15 |
 | [Bad Boy](https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Bad Boy](https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV) | 2:55 | 2023-06-01 | 2023-07-29 |
 | [Bad For My Health](https://open.spotify.com/track/5b7Fs1ejAcHoD02OyDIqYB) | [SunMan](https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1) | [Bad For My Health](https://open.spotify.com/album/45mHDL2ssD8mlsWGLe0mCw) | 2:57 | 2023-03-02 | 2023-04-22 |
+| [bad for you](https://open.spotify.com/track/1ZDT1Iz7AmTAeLEzVjlXzc) | [Ananya](https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen) | [bad for you](https://open.spotify.com/album/1Zl3wokhmALoXoukyQDbJj) | 3:06 | 2023-08-17 |  |
 | [Bait](https://open.spotify.com/track/54Fs529fifiDt3qDBWaIjl) | [Chloe Theron](https://open.spotify.com/artist/4gt7EExnJtmS8Ed59AbAHa) | [Bait](https://open.spotify.com/album/2YsmbxnxeMuOAjhF0UKk0E) | 3:48 | 2023-03-02 | 2023-05-06 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 | 2023-06-22 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-08 | 2023-07-07 |
@@ -104,6 +105,7 @@
 | [Divina](https://open.spotify.com/track/09Z9HFT2Uh7MWmmuqSCXkw) | [James Speechly](https://open.spotify.com/artist/27vIyx3eOF94LAPd1GdGdo) | [Divina](https://open.spotify.com/album/4IFijvs2Xg64D8YA61Ixwx) | 3:30 | 2023-06-15 | 2023-07-07 |
 | [Dizzy](https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [Dizzy](https://open.spotify.com/album/3nw8WU1ZFdsdguO8xzspPt) | 3:20 | 2023-03-16 | 2023-05-19 |
 | [do you remember](https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [do you remember](https://open.spotify.com/album/32pIJshmDwpFGXsCEacwTC) | 2:27 | 2023-06-22 | 2023-08-05 |
+| [Don't Call Her Over To You](https://open.spotify.com/track/1RxTyElARYb3bzwnp51oNJ) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Don't Call Her Over To You](https://open.spotify.com/album/7tKlfQAkpLIVKILCbHwBcN) | 2:37 | 2023-08-17 |  |
 | [Don't Walk Away](https://open.spotify.com/track/6c8yTt07EyE1jc41GK98s7) | [Jonny Hayes](https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp) | [Don't Walk Away](https://open.spotify.com/album/1yZF9UfpLcSHDi8Sw46wk8) | 3:50 | 2022-11-10 | 2023-01-20 |
 | [DONT WORRY!](https://open.spotify.com/track/6rBLBZWk5veaGuOY9MscE9) | [JUCINDA](https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo) | [everything i couldn't remember is good.](https://open.spotify.com/album/4WJbDjZS0sLVUEOPZsrgyC) | 3:18 | 2023-05-18 | 2023-07-07 |
 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2023-01-12 | 2023-01-20 |
@@ -187,7 +189,7 @@
 | [I Won't Say No](https://open.spotify.com/track/3YTj8IYe4Ex0kfb1a0J8Kj) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [I Won't Say No](https://open.spotify.com/album/67fHJHgP1RkxVVPiiedIXd) | 2:29 | 2023-07-06 | 2023-08-12 |
 | [I'll Be There](https://open.spotify.com/track/2KBKgHyAZGEaz35kI8nF1J) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [I'll Be There](https://open.spotify.com/album/4eRtkYASppwiN9Et4oNaYK) | 2:57 | 2023-06-01 | 2023-07-07 |
 | [i'm gonna make it](https://open.spotify.com/track/32fGWDDzVNXfZNYsYepW0m) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [i'm gonna make it](https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG) | 3:17 | 2023-06-08 | 2023-07-07 |
-| [i'm gonna make it \- Kenza Remix](https://open.spotify.com/track/7r71J6drUQww0vTCgZWYIU) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [i'm gonna make it \- Remixes](https://open.spotify.com/album/4xjvfw8SS8KzfsO0muVe0o) | 3:49 | 2023-07-06 |  |
+| [i'm gonna make it \- Kenza Remix](https://open.spotify.com/track/7r71J6drUQww0vTCgZWYIU) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [i'm gonna make it \- Remixes](https://open.spotify.com/album/4xjvfw8SS8KzfsO0muVe0o) | 3:49 | 2023-07-06 | 2023-08-18 |
 | [If God Is The Pigeon](https://open.spotify.com/track/11hrQND5U7gbysfggLP30o) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [If God Is The Pigeon](https://open.spotify.com/album/58Ybnqt8CX2Ty3B2UsJLwW) | 4:45 | 2022-08-18 | 2022-12-09 |
 | [If You Want It](https://open.spotify.com/track/6mdTa1cq8lDcgj6PDlUg6l) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/1D1KB1Y0VcpA29YfK5zHmY) | 3:24 | 2022-09-02 | 2022-11-11 |
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-02 | 2023-04-15 |
@@ -407,6 +409,7 @@
 | [Waiting Forever](https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Waiting Forever](https://open.spotify.com/album/56aLlCwfr5e53TVYK0LOc5) | 3:06 | 2023-07-28 |  |
 | [Wanted](https://open.spotify.com/track/0gvzG2BRNZDJmlcBgLlpNb) | [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [Wanted](https://open.spotify.com/album/2IBAbknMI5iC2Z5qD6PtSr) | 5:06 | 2023-02-16 | 2023-04-07 |
 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 | 2023-01-12 | 2023-02-24 |
+| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-17 |  |
 | [Wasting time](https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl) | [TASH AYY](https://open.spotify.com/artist/78l0JJ6j5P4guKT4PzLDas), [LOTU$](https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU) | [Wasting time](https://open.spotify.com/album/3EY4fZZEYNKSC65gQO58jp) | 2:27 | 2023-07-06 | 2023-08-12 |
 | [WatchMeDance](https://open.spotify.com/track/0E7J90rpq6eq2i2m3fKmf1) | [Angel\-Ho](https://open.spotify.com/artist/39TepozBC9n9EZrCL6jYpS) | [WatchMeDance](https://open.spotify.com/album/75Ztmk09cecBj3Lky40tzF) | 4:22 | 2022-09-29 | 2022-11-11 |
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-03-02 | 2023-05-26 |

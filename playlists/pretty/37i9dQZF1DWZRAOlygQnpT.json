@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 72965,
+  "num_followers": 73034,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWI1ZTgxYjJiMzg4MTBjZDIzNDkyYWRjNjBlNjI2ZmUyMzBiODVl",
+  "snapshot_id": "MCxmYjAwN2Q4NTc4YjYyMDUzNDJiYzlmMjViMjUzMzkyNjZjMmU2NDUy",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -271,18 +271,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+        "name": "Como Lo Bailaron Tus Padres, Vol. 1",
+        "url": "https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu"
       },
       "artists": [
         {
-          "name": "Mario Quintero",
-          "url": "https://open.spotify.com/artist/1em8XoX89lrjj8DLdiPswM"
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/0wNONSo9o0XALusso60qwC"
         }
       ],
-      "duration_ms": 177815,
-      "name": "Nomas Contigo",
-      "url": "https://open.spotify.com/track/0iBQqqoq2Qa8EeM4NgNBP0"
+      "duration_ms": 187168,
+      "name": "Fue en un Cafe",
+      "url": "https://open.spotify.com/track/0FWq5DHMbw5XcohCJ956BX"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -323,18 +323,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Como Lo Bailaron Tus Padres, Vol. 1",
-        "url": "https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu"
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
       "artists": [
         {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/0wNONSo9o0XALusso60qwC"
+          "name": "Mario Quintero",
+          "url": "https://open.spotify.com/artist/1em8XoX89lrjj8DLdiPswM"
         }
       ],
-      "duration_ms": 187168,
-      "name": "Fue en un Cafe",
-      "url": "https://open.spotify.com/track/0FWq5DHMbw5XcohCJ956BX"
+      "duration_ms": 177815,
+      "name": "Nomas Contigo",
+      "url": "https://open.spotify.com/track/0iBQqqoq2Qa8EeM4NgNBP0"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Onda Juvenil 25 Aniversario",
-        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
-      },
-      "artists": [
-        {
-          "name": "Los Johnny Jets",
-          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Es Lupe (Hang on Sloopy)",
-      "url": "https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 186749,
       "name": "Siempre Sola",
       "url": "https://open.spotify.com/track/6bWDWlFoeqADIHVC5X3KFE"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Onda Juvenil 25 Aniversario",
+        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
+      },
+      "artists": [
+        {
+          "name": "Los Johnny Jets",
+          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Es Lupe (Hang on Sloopy)",
+      "url": "https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
+      },
+      "artists": [
+        {
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
+        }
+      ],
+      "duration_ms": 283689,
+      "name": "Se\u00f1or Apache",
+      "url": "https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 134306,
       "name": "Chica Ye Ye",
       "url": "https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Idolos del Rock",
-        "url": "https://open.spotify.com/album/796rbHwswuXttLOFmj8IJy"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 153338,
-      "name": "El Bikini Amarillo",
-      "url": "https://open.spotify.com/track/0zk9626vnVuwb3eEFKB69k"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Atras de la Raya",
-        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
+        "name": "Idolos del Rock",
+        "url": "https://open.spotify.com/album/796rbHwswuXttLOFmj8IJy"
       },
       "artists": [
         {
-          "name": "Los Apson Boys",
-          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 283689,
-      "name": "Se\u00f1or Apache",
-      "url": "https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty"
+      "duration_ms": 153338,
+      "name": "El Bikini Amarillo",
+      "url": "https://open.spotify.com/track/0zk9626vnVuwb3eEFKB69k"
     },
     {
       "added_at": "2020-04-17 21:51:59",

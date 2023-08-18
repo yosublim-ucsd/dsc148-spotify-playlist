@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 735029,
+  "num_followers": 735201,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTViMjZkNzFkZTJiYTE1MWRhNGEwOWE5MzJjZjdiOGUxMDUzZDM3",
+  "snapshot_id": "MCxjODZiMWFmNWFlYTI0Yzg2Y2UxZmQ5ODkxNzk2NDNkMzViZTUyYWE5",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 252120,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
-        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 251760,
       "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
       "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Daytime Friends: The Very Best Of Kenny Rogers",
+        "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
     },
     {
       "added_at": "2022-08-26 12:00:00",

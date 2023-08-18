@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 | 2021-09-07 |  |
-| [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 | 2021-09-07 |  |
+| [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 | 2021-09-07 | 2023-08-18 |
 | [Afuera](https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:48 | 2021-09-07 |  |
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2021-09-07 |  |
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2021-09-07 |  |
@@ -36,7 +36,7 @@
 | [Depende](https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:25 | 2021-09-07 |  |
 | [Desesperada](https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5) | [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Mujer](https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l) | 3:47 | 2021-09-07 |  |
 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 | 2021-09-07 |  |
-| [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 | 2021-09-07 | 2023-08-14 |
+| [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 | 2021-09-07 |  |
 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 | 2021-09-07 |  |
 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 | 2021-09-07 |  |
 | [El lado oscuro](https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:48 | 2021-09-07 |  |

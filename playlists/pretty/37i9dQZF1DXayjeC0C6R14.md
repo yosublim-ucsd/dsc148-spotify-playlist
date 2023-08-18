@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,035 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,137 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 32 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 33 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
 | 34 | [Atado a un Sentimiento](https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 3:17 |
-| 35 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 |
-| 36 | [Todos Tenemos Un Amor](https://open.spotify.com/track/6SgkilvKX94WfXRbhr3RCu) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:47 |
+| 35 | [Todos Tenemos Un Amor](https://open.spotify.com/track/6SgkilvKX94WfXRbhr3RCu) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:47 |
+| 36 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 |
 | 37 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 38 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 |
 | 39 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 49 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 |
 | 50 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 |
 
-Snapshot ID: `MCwzYTBiZDE2OWIwMjdkY2I5YzNhNTg4NDI0NGVhYWFjNzBlYmE4ZWQ4`
+Snapshot ID: `MCwzN2I3ZjYwNjdlZmE5MWVkMjkwZDRjZjFiYjQyMWMzNGU1MzgxMTA4`

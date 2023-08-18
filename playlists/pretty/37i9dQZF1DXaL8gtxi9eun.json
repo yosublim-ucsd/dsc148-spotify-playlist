@@ -1,12 +1,12 @@
 {
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: <a href=\"https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1?si=5pb0AGkmROSxz76iaQlKEA\"> Ramy Ayach</a>",
-  "num_followers": 105162,
+  "num_followers": 105209,
   "original_name": "Fresh Arabic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDYwMGM0NDcxYjQxYmVhYWMxNWM5OTUyZDczMWEyNGEyMDI5MjA2",
+  "snapshot_id": "MCwwZDIzNDIxNjYyZWVjOGE3YWU1N2UzYjlmNDI5OTJkZTRjMmNjMWZl",
   "tracks": [
     {
       "added_at": "2023-08-11 09:44:21",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
+        "name": "Tegy Nenbeset",
+        "url": "https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "Tegy Nenbeset",
+      "url": "https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI"
+    },
+    {
+      "added_at": "2023-08-11 09:44:21",
+      "album": {
         "name": "Mezlaaj",
         "url": "https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 194116,
       "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
       "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
-    },
-    {
-      "added_at": "2023-08-11 09:44:21",
-      "album": {
-        "name": "Tegy Nenbeset",
-        "url": "https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 198987,
-      "name": "Tegy Nenbeset",
-      "url": "https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI"
     },
     {
       "added_at": "2023-08-11 09:44:21",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
-        "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
-        "url": "https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo"
+        "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0645\u0646\u0647\u064a\u0647",
+        "url": "https://open.spotify.com/album/5XI16cGZpAQzd2Zv8Ztcyd"
       },
       "artists": [
         {
-          "name": "Asma Lmnawar",
-          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
         }
       ],
-      "duration_ms": 190769,
-      "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
-      "url": "https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr"
+      "duration_ms": 279750,
+      "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0645\u0646\u0647\u064a\u0647",
+      "url": "https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6"
     },
     {
       "added_at": "2023-08-11 09:44:21",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
-        "name": "Shabeah Rouhi",
-        "url": "https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 375833,
-      "name": "Shabeah Rouhi",
-      "url": "https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE"
-    },
-    {
-      "added_at": "2023-08-11 09:44:21",
-      "album": {
         "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
         "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
       },
@@ -523,34 +507,34 @@
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
-        "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0645\u0646\u0647\u064a\u0647",
-        "url": "https://open.spotify.com/album/5XI16cGZpAQzd2Zv8Ztcyd"
+        "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
+        "url": "https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Asma Lmnawar",
+          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
         }
       ],
-      "duration_ms": 279750,
-      "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0645\u0646\u0647\u064a\u0647",
-      "url": "https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6"
+      "duration_ms": 190769,
+      "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
+      "url": "https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr"
     },
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
-        "name": "Tetr Mosalsal Alnoon Wama Yalamoon",
-        "url": "https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl"
+        "name": "Shabeah Rouhi",
+        "url": "https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd"
       },
       "artists": [
         {
-          "name": "Aseel Hameem",
-          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
         }
       ],
-      "duration_ms": 169172,
-      "name": "Alnoon Wama Yalamoon",
-      "url": "https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi"
+      "duration_ms": 375833,
+      "name": "Shabeah Rouhi",
+      "url": "https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE"
     },
     {
       "added_at": "2023-08-11 09:44:21",
@@ -567,6 +551,22 @@
       "duration_ms": 200119,
       "name": "Bagheeb Bmzagy",
       "url": "https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT"
+    },
+    {
+      "added_at": "2023-08-11 09:44:21",
+      "album": {
+        "name": "Tetr Mosalsal Alnoon Wama Yalamoon",
+        "url": "https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "duration_ms": 169172,
+      "name": "Alnoon Wama Yalamoon",
+      "url": "https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi"
     },
     {
       "added_at": "2023-08-11 09:44:21",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
+        "name": "\u0627\u0644\u062d\u0628 \u0627\u0644\u0623\u0628\u062f\u064a",
+        "url": "https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        },
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 277537,
+      "name": "\u0627\u0644\u062d\u0628 \u0627\u0644\u0623\u0628\u062f\u064a",
+      "url": "https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z"
+    },
+    {
+      "added_at": "2023-08-11 09:44:21",
+      "album": {
         "name": "Aam Faker Fiya",
         "url": "https://open.spotify.com/album/4F3ad3v2zB6nNri9P0rpke"
       },
@@ -683,26 +703,6 @@
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
-        "name": "\u0627\u0644\u062d\u0628 \u0627\u0644\u0623\u0628\u062f\u064a",
-        "url": "https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0"
-      },
-      "artists": [
-        {
-          "name": "Majid Almohandis",
-          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
-        },
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 277537,
-      "name": "\u0627\u0644\u062d\u0628 \u0627\u0644\u0623\u0628\u062f\u064a",
-      "url": "https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z"
-    },
-    {
-      "added_at": "2023-08-11 09:44:21",
-      "album": {
         "name": "Ya Tayar",
         "url": "https://open.spotify.com/album/4TgabhACfeYjXuaefflF5f"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-11 09:44:21",
       "album": {
-        "name": "100 Marra",
-        "url": "https://open.spotify.com/album/69cehckqHuh188vST0MmTZ"
-      },
-      "artists": [
-        {
-          "name": "Mohamed el Majzoub",
-          "url": "https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS"
-        }
-      ],
-      "duration_ms": 153578,
-      "name": "100 Marra",
-      "url": "https://open.spotify.com/track/1H67bN6ZcTEE0W51qTRz3T"
-    },
-    {
-      "added_at": "2023-08-11 09:44:21",
-      "album": {
         "name": "Hala Nafseya",
         "url": "https://open.spotify.com/album/6UFbFT90oWax76tyfaV9pk"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 180909,
       "name": "Hala Nafseya",
       "url": "https://open.spotify.com/track/5SXqHZTMpymarvsycHICkf"
+    },
+    {
+      "added_at": "2023-08-11 09:44:21",
+      "album": {
+        "name": "100 Marra",
+        "url": "https://open.spotify.com/album/69cehckqHuh188vST0MmTZ"
+      },
+      "artists": [
+        {
+          "name": "Mohamed el Majzoub",
+          "url": "https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS"
+        }
+      ],
+      "duration_ms": 153578,
+      "name": "100 Marra",
+      "url": "https://open.spotify.com/track/1H67bN6ZcTEE0W51qTRz3T"
     },
     {
       "added_at": "2023-08-11 09:44:21",

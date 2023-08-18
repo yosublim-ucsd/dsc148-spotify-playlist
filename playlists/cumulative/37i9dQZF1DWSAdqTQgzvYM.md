@@ -119,7 +119,7 @@
 | [Who You Are](https://open.spotify.com/track/65lIGCfW59BxcEJnnIOCq3) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:50 | 2022-04-15 |  |
 | [Wings](https://open.spotify.com/track/4awRNvd5iC7QGVQOwSCffw) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Deluxe\)](https://open.spotify.com/album/2WRIExN0uRt1buVuJj7iUD) | 3:39 | 2022-04-15 | 2022-07-29 |
 | [Wings](https://open.spotify.com/track/3180WDzph4WrS4sLSNcGfa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:41 | 2022-04-15 |  |
-| [You Are the Best](https://open.spotify.com/track/15k7tANdjZsxPbLApkOvTz) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [The Triangle of Success: A Motivational, Inspirational Audio Guide to Achieving Your Dreams](https://open.spotify.com/album/7k0NsygiRajqOD4aNnjxoX) | 3:09 | 2022-04-15 |  |
+| [You Are the Best](https://open.spotify.com/track/15k7tANdjZsxPbLApkOvTz) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [The Triangle of Success: A Motivational, Inspirational Audio Guide to Achieving Your Dreams](https://open.spotify.com/album/7k0NsygiRajqOD4aNnjxoX) | 3:09 | 2022-04-15 |  |
 | [You're Unique](https://open.spotify.com/track/2rlQ3cT8avF9rby8KF3p5E) | [Andy And The Odd Socks](https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh) | [Who's in the Odd Socks?](https://open.spotify.com/album/07EfmAXI4etnBaaxX90WrN) | 3:51 | 2022-04-15 |  |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

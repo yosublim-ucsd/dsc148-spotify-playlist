@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > Indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,057 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,175 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 10 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
 | 11 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 |
 | 12 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
-| 13 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 |
-| 14 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
+| 13 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
+| 14 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 |
 | 15 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 16 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 |
 | 17 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 33 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 |
 | 34 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
 | 35 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 |
-| 36 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
-| 37 | [Fool](https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:04 |
+| 36 | [Fool](https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:04 |
+| 37 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
 | 38 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 |
 | 39 | [CAN'T GET OVER YOU \(feat\. Clams Casino\)](https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 1:47 |
 | 40 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 49 | [striptease](https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR) | 2:40 |
 | 50 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
 | 51 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 |
-| 52 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
-| 53 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 |
+| 52 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 |
+| 53 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
 | 54 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
 | 55 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 |
 | 56 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 60 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
 | 61 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 |
 | 62 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
-| 63 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 |
-| 64 | [Dontmakemefallinlove](https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:27 |
+| 63 | [Dontmakemefallinlove](https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:27 |
+| 64 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 |
 | 65 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
 | 66 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
 | 67 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 | 70 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
 
-Snapshot ID: `MCw1MjA3NTYzMTA0ZmFiYWU5YzcxYTFhNzYzZjQwOWEzZmRlMWI4YzAw`
+Snapshot ID: `MCxlZmZmYmE1ZGQ3MmE1NDFhMjhlMzQ5NGM4MmQwYjkzOWNiNzBlN2Fk`

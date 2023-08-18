@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,041 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,146 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 11 | [Unfinished Sympathy \- 2012 Mix/Master](https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Blue Lines \(2012 Mix/Master\)](https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf) | 5:08 |
 | 12 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
 | 13 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 |
-| 14 | [A Calf Born in Winter](https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Calf Born in Winter](https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0) | 3:29 |
+| 14 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 |
 | 15 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
 | 16 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
-| 17 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 |
+| 17 | [A Calf Born in Winter](https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Calf Born in Winter](https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0) | 3:29 |
 | 18 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 |
 | 19 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
 | 20 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/3iFrnwcE635aABiCZWULxP) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy), [Stephen Hague](https://open.spotify.com/artist/1PNOAWuRRAfd7MTaFzE5Ae) | [Slip Into Something More Comfortable](https://open.spotify.com/album/58ZEg8lRtbxqzeYzMdiH9u) | 4:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 55 | [Rattlesnakes](https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 4:10 |
 | 56 | [Koop Island Blues](https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg) | [Koop](https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Koop Islands](https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc) | 4:32 |
 | 57 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
-| 58 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
-| 59 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
+| 58 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
+| 59 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 60 | [DUST](https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71) | 4:38 |
 | 61 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 62 | [Postales](https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567) | 4:07 |
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 74 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 |
 | 75 | [Edge Of The Ocean](https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2) | 4:25 |
 | 76 | [The Cosmic Game](https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Cosmic Game](https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO) | 2:19 |
-| 77 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
-| 78 | [Purrfect](https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 4:50 |
+| 77 | [Purrfect](https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 4:50 |
+| 78 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
 | 79 | [Emkay](https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:25 |
 | 80 | [Come to Me](https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:55 |
 | 81 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
-| 82 | [Broken Together](https://open.spotify.com/track/7ItezsVpDJjSP2Y5mpnOnH) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X), [Mani Obeya](https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6) | [Superluminal](https://open.spotify.com/album/3l50IaIO1hQnl4MiTHTJsn) | 4:46 |
-| 83 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
+| 82 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
+| 83 | [Broken Together](https://open.spotify.com/track/7ItezsVpDJjSP2Y5mpnOnH) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X), [Mani Obeya](https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6) | [Superluminal](https://open.spotify.com/album/3l50IaIO1hQnl4MiTHTJsn) | 4:46 |
 | 84 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 85 | [The Garden](https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5) | [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [The Audience's Listening \(U.S\. Version\)](https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi) | 6:15 |
 | 86 | [Smile](https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |
 | 100 | [Before Today \- 2015 Remaster](https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 4:17 |
 
-Snapshot ID: `MCxiMTZlZDhkM2YyZTFhMGJmNGYwNWE4NzQ1MGY0ZTZhZmQwNjlhZjJi`
+Snapshot ID: `MCw5ZTJlOTUzMGIwZmJhNGJkZDE3N2JjZjEyZjM1ZWM1ZGIzZTk5NzBm`

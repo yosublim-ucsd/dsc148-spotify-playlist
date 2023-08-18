@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-852 songs - 2 day 5 hr 45 min
+854 songs - 2 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2022-11-08 | 2023-01-13 |
 | [ALIVE \- LycoReco Version](https://open.spotify.com/track/6d1bY43yAlhHwxJAuUYsll) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \(LycoReco Version\)](https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4) | 2:46 | 2022-10-11 | 2022-11-25 |
 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 | 2023-05-16 | 2023-07-27 |
-| [Alter Echo](https://open.spotify.com/track/1SBcIsauL5DZdHblkurmH5) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1tOcYccfvN0TZReaOf9H2p) | 3:34 | 2023-07-25 |  |
+| [Alter Echo](https://open.spotify.com/track/1SBcIsauL5DZdHblkurmH5) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1tOcYccfvN0TZReaOf9H2p) | 3:34 | 2023-07-25 | 2023-08-18 |
 | [Always and Forever](https://open.spotify.com/track/3K0cFv7cqIId26HwEkDHgp) | [SERRA](https://open.spotify.com/artist/2I3vpxuhRNZU69R2kGbBOk) | [Always and Forever](https://open.spotify.com/album/5vUK0yiI60vWqkp53ZvlLn) | 4:52 | 2023-04-11 | 2023-07-05 |
 | [AMBER](https://open.spotify.com/track/0Gq4an04Rw1eXUyKrUonve) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Hanabi](https://open.spotify.com/album/09dmy5adX95reP5MhtV4f9) | 3:54 | 2023-02-14 | 2023-04-14 |
 | [AMBER](https://open.spotify.com/track/5M5MbNaEoXqBiRA0q1dSMk) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [華灯](https://open.spotify.com/album/3ru7HsERi4MJq4VfV8rVdv) | 3:54 | 2023-02-14 | 2023-02-16 |
@@ -139,6 +139,7 @@
 | [Fantastic Future \- From CrosSing](https://open.spotify.com/track/6KiiBKRjWspZhQqdX1Oavb) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic Future \- From CrosSing](https://open.spotify.com/album/33aLRnXBdJJ80iVk3bPDv5) | 4:15 | 2023-01-17 | 2023-02-08 |
 | [Fantastic future \- from CrosSing](https://open.spotify.com/track/2L4IMezZdogiY0ndeYNitp) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic future \- from CrosSing](https://open.spotify.com/album/0kMgI0rrMO9cnNMyPvrOAq) | 4:15 | 2023-01-17 | 2023-01-19 |
 | [Far Middle](https://open.spotify.com/track/0xLdA7l1vOtMJTynqt7qkJ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [Far Middle](https://open.spotify.com/album/1SgmpdT9zS4CFjjbmAxov1) | 2:59 | 2023-01-17 | 2023-01-27 |
+| [Fashion](https://open.spotify.com/track/4cM4ZnZnS5YgzIb0TnuJpp) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Fashion](https://open.spotify.com/album/5HPtIZYkRKNzpnERaQTrsz) | 3:12 | 2023-08-17 |  |
 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2022-12-27 | 2023-01-18 |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 | 2022-06-03 |
 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 | 2022-11-02 | 2022-12-07 |
@@ -377,6 +378,7 @@
 | [RVR～ライジングボルテッカーズラップ～ \- モリーVer.](https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [モリ―\(CV:真堂圭\)](https://open.spotify.com/artist/0EYCrd7ZzqVl5vGOJ4Ols9) | [RVR～ライジングボルテッカーズラップ～ \(モリーVer.\)](https://open.spotify.com/album/5g4zaYfnYIuN5uXSJVDrI2) | 1:29 | 2023-07-27 |  |
 | [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 | 2023-07-27 | 2023-07-29 |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
+| [Salvia \- Anime Size](https://open.spotify.com/track/2vcO3eoQ9WME8dfHGt3sdm) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Salvia \(Anime Size\)](https://open.spotify.com/album/334tOSdOVCOPAbJKPg6c1h) | 1:29 | 2023-08-17 |  |
 | [Sarracenia \- Anime Size](https://open.spotify.com/track/5KtPFNqzEMHzFpqRF9EhmP) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Sarracenia \-Anime Size\-](https://open.spotify.com/album/3SZRbGsCc48IW8WKSDkqYM) | 1:28 | 2023-08-10 |  |
 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 | 2023-02-14 | 2023-03-08 |
 | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/track/7v0MgRpifpHrQXvR5vdJlX) | [三森すずこ](https://open.spotify.com/artist/4qpFBSWs6WGn1o5lyWgqdX) | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/album/0do7Fq6G1u8xZvtQYwLU3U) | 5:12 | 2023-02-14 | 2023-02-16 |
@@ -638,7 +640,7 @@
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 | 2022-12-29 |
 | [ファンタジック・パートナー](https://open.spotify.com/track/1prl1AtKjdOofWAwjL4usH) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ファンタジック・パートナー](https://open.spotify.com/album/7iaa4HGI4wfMl5Rvp8TtmN) | 4:16 | 2023-01-17 | 2023-02-22 |
 | [ファンファーレ](https://open.spotify.com/track/6pMnrJgFypPyIEDu6QSoZb) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [ファンファーレ](https://open.spotify.com/album/34r0zslutaY9teqGCCzITU) | 4:14 | 2023-07-04 | 2023-07-06 |
-| [フラッシュバック](https://open.spotify.com/track/7mohgpGIPJJFnu4htjKQ8G) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [フラッシュバック](https://open.spotify.com/album/2Ho2OzcpbmVqPTeNudHolK) | 3:30 | 2023-07-04 |  |
+| [フラッシュバック](https://open.spotify.com/track/7mohgpGIPJJFnu4htjKQ8G) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [フラッシュバック](https://open.spotify.com/album/2Ho2OzcpbmVqPTeNudHolK) | 3:30 | 2023-07-04 | 2023-08-18 |
 | [プライベート・ルーム](https://open.spotify.com/track/3qfWxIi9dsnZuYo0YM55Ao) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [プライベート・ルーム](https://open.spotify.com/album/2Yj0vtD6o8YM37DTibVl5g) | 3:55 | 2023-07-04 | 2023-07-19 |
 | [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 | 2022-08-25 |
 | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/track/1nzPt6k4X0jyNutJ0F8LCy) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo), [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [プレイメーカー feat.大野雄大\(from Da\-iCE\)](https://open.spotify.com/album/08AYBn8vne85ZsuZpydVIB) | 2:49 | 2022-10-01 | 2022-11-09 |

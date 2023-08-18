@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,121 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,174 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 21 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
 | 22 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 | 23 | [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 |
-| 24 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
+| 24 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
 | 25 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
 | 26 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
 | 27 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 29 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
 | 30 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
 | 31 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Once Upon a Dream \(from "Maleficent"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi) | 3:23 |
-| 32 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
+| 32 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
 | 33 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 |
 | 34 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
 | 35 | [Seasons \(Waiting on You\)](https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc) | 3:46 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 50 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 51 | [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 |
 | 52 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
-| 53 | [Homesick](https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:28 |
-| 54 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
-| 55 | [Talk Is Cheap](https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 3:38 |
+| 53 | [Talk Is Cheap](https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 3:38 |
+| 54 | [Homesick](https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:28 |
+| 55 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 56 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 57 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 2:50 |
 | 58 | [Yellow Flicker Beat](https://open.spotify.com/track/0Nf53RDPZEjFrQE4B5n6Vf) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Yellow Flicker Beat \(From The Hunger Games: Mockingjay Part 1\)](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 99 | [Two Weeks](https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6) | 4:07 |
 | 100 | [Hunger of the Pine](https://open.spotify.com/track/2mkv1b3dRFyiJ4Ybq31owf) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 4:59 |
 
-Snapshot ID: `MCxhMjc1NTAwOTEzZTM5OTM0MzU4Yzg3MTY0MzY4M2NjZmYxNzdlNzZi`
+Snapshot ID: `MCwyYmUyYzIyNzIwNGE4NDY5ZmRhMTczMzIwNGEwMDYzNTEwN2YxZmY4`

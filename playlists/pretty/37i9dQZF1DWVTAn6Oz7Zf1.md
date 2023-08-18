@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > In cerca di energie? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,200 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,201 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 51 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 |
 | 52 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
 | 53 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 |
-| 54 | [No Sleep](https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [No Sleep](https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p) | 2:50 |
+| 54 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 |
 | 55 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 |
-| 56 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 |
+| 56 | [No Sleep](https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [No Sleep](https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p) | 2:50 |
 | 57 | [Beautiful People \(feat\. Khalid\) \- NOTD Remix](https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Beautiful People \(feat\. Khalid\) \[NOTD Remix\]](https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2) | 2:42 |
 | 58 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 |
 | 59 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Waves of Blue](https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 3:28 |
 | 80 | [Never Love You Again](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 |
 
-Snapshot ID: `MCw4YTdlYTZmYmQwZDUzZTI5YmE5NmRlMjFlMGViYjM3OTNkZGM1ODlj`
+Snapshot ID: `MCw3ODEzNmI3YmYzYzZjMDgxNjE5MjA5YWIyMjA4NjFiYjE1NjMzZjRi`

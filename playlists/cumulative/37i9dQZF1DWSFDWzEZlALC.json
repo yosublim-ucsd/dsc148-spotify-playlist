@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/5H7rYopIRRjHTfzJDTSuQq"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "1996",
+      "url": "https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc"
+    },
+    {
+      "album": {
         "name": "21 N\u00e4chte wach",
         "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
       },
@@ -648,7 +666,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 173844,
       "name": "Bei dir melden",
       "url": "https://open.spotify.com/track/2ELLvcm0ygosQHVQwfBTKa"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 161562,
       "name": "Bleib doch noch",
       "url": "https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR"
@@ -929,6 +947,24 @@
     },
     {
       "album": {
+        "name": "boys don\u2019t cry",
+        "url": "https://open.spotify.com/album/4UDlvkucIuKcxmYhExbCwL"
+      },
+      "artists": [
+        {
+          "name": "CASTILLO",
+          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175809,
+      "name": "boys don\u2019t cry",
+      "url": "https://open.spotify.com/track/4D7gB2zqGluW3P4hU8WIEu"
+    },
+    {
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/3TvW1Tkol1epmVsPbcBr0B"
       },
@@ -998,6 +1034,24 @@
       "duration_ms": 160049,
       "name": "Da",
       "url": "https://open.spotify.com/track/60Ac16dw9YAxCVldTXMqWF"
+    },
+    {
+      "album": {
+        "name": "Da f\u00fcr dich",
+        "url": "https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196354,
+      "name": "Da f\u00fcr dich",
+      "url": "https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt"
     },
     {
       "album": {
@@ -3114,7 +3168,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 265032,
       "name": "Kurz vor Mitternacht",
       "url": "https://open.spotify.com/track/1VlweHpugA3HVSVSdklfWE"
@@ -3136,6 +3190,24 @@
       "duration_ms": 151573,
       "name": "K\u00f6nig der Nachbarschaft",
       "url": "https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65"
+    },
+    {
+      "album": {
+        "name": "K\u00f6nigin der Nacht",
+        "url": "https://open.spotify.com/album/1IlrO1vexqP55HwH78rsM8"
+      },
+      "artists": [
+        {
+          "name": "Sam James",
+          "url": "https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "K\u00f6nigin der Nacht",
+      "url": "https://open.spotify.com/track/27cs61wZgDAgKUVznXlTnm"
     },
     {
       "album": {
@@ -3404,7 +3476,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 199080,
       "name": "Lost Indieboy",
       "url": "https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK"
@@ -3773,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Nie mehr weg",
+        "url": "https://open.spotify.com/album/7k9BKJcvvcf6WWOFVdyC4f"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162523,
+      "name": "Nie mehr weg",
+      "url": "https://open.spotify.com/track/5qR2DOSkZufXivgcLTgbzR"
+    },
+    {
+      "album": {
         "name": "LEVIN LIAM LEAKS 2023",
         "url": "https://open.spotify.com/album/4BssOFPrpM2urmZK7JOQ43"
       },
@@ -4138,7 +4228,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 154394,
       "name": "PRiNZESSiN",
       "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"
@@ -4468,6 +4558,24 @@
       "duration_ms": 174960,
       "name": "Schreien!",
       "url": "https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A"
+    },
+    {
+      "album": {
+        "name": "schwarzes wasser",
+        "url": "https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157071,
+      "name": "schwarzes wasser",
+      "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
     },
     {
       "album": {
@@ -4815,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Stadtlabyrinth",
+        "url": "https://open.spotify.com/album/1mKhLj2jcTu29yJdCA2zBv"
+      },
+      "artists": [
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "Stadtlabyrinth",
+      "url": "https://open.spotify.com/track/0omb0by6wm45ijnQCXgCxn"
+    },
+    {
+      "album": {
         "name": "Stadtpark Insomnia",
         "url": "https://open.spotify.com/album/4nU2qhJUgxLtKoVeqnK3Gk"
       },
@@ -4906,7 +5032,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 140755,
       "name": "Superkraft",
       "url": "https://open.spotify.com/track/3pRsPjpPnnCDGgNJZZiATR"
@@ -5814,7 +5940,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 176250,
       "name": "Wenn Ich Reich Bin (Geht's Mir Gut)",
       "url": "https://open.spotify.com/track/6rCAwYurRkhImBk39Gzsmi"

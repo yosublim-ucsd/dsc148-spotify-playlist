@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 7929,
+  "num_followers": 7932,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTY3ODkyOTE4YjBlZTJhMDk1ZjBmMzJkMjU2Njg3NDRlNTVjMjkx",
+  "snapshot_id": "MCw3Nzc5ZWFjOWU1M2FlMjg1NDk3NTk2OTgxOGY5MzUxYjc5OWFlNjgz",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Zay",
-        "url": "https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp"
+        "name": "Up Next",
+        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
       },
       "artists": [
         {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Makeup",
-      "url": "https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ"
+      "duration_ms": 149363,
+      "name": "West Side",
+      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Up Next",
-        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
+        "name": "Zay",
+        "url": "https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
         }
       ],
-      "duration_ms": 149363,
-      "name": "West Side",
-      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
+      "duration_ms": 217600,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "PLG",
+      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "B\u00e2timent",
         "url": "https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 167418,
       "name": "B\u00e2timent",
       "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "PLG",
-      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dis moi",
-        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
+        "name": "Silence de mort",
+        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
       },
       "artists": [
         {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
         }
       ],
-      "duration_ms": 247170,
-      "name": "Dis Moi",
-      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
+      "duration_ms": 189344,
+      "name": "Entre toi et moi",
+      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1055,34 +1055,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Silence de mort",
-        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
+        "name": "Dis moi",
+        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
       },
       "artists": [
         {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
         }
       ],
-      "duration_ms": 189344,
-      "name": "Entre toi et moi",
-      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Fugueuse",
-      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
+      "duration_ms": 247170,
+      "name": "Dis Moi",
+      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/5mgVvKupgPLmq1hxNcOVCm"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Fugueuse",
+      "url": "https://open.spotify.com/track/5qOEGhBq7CUAOzW7EMnuEQ"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Bateaux Colombiens",
         "url": "https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT"
       },
@@ -1115,26 +1115,6 @@
       "duration_ms": 251495,
       "name": "OuinOuin",
       "url": "https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "5 dans la whip",
-        "url": "https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C"
-      },
-      "artists": [
-        {
-          "name": "Le Ice",
-          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
-        },
-        {
-          "name": "Peeda",
-          "url": "https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4"
-        }
-      ],
-      "duration_ms": 206216,
-      "name": "5 dans la whip",
-      "url": "https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1167,6 +1147,26 @@
       "duration_ms": 293760,
       "name": "L\u00e9gendaire",
       "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "5 dans la whip",
+        "url": "https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C"
+      },
+      "artists": [
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4"
+        }
+      ],
+      "duration_ms": 206216,
+      "name": "5 dans la whip",
+      "url": "https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Non Merci",
-        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
-      },
-      "artists": [
-        {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
-        }
-      ],
-      "duration_ms": 211970,
-      "name": "Non Merci",
-      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Oh Ma Loca",
         "url": "https://open.spotify.com/album/4lkzEyFaYSXp5pTm1W2VRC"
       },
@@ -1255,22 +1239,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "G-code",
-      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Encore Des Histoires De Trap",
         "url": "https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw"
       },
@@ -1295,6 +1263,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Non Merci",
+        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
+      },
+      "artists": [
+        {
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
+        }
+      ],
+      "duration_ms": 211970,
+      "name": "Non Merci",
+      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Gesamtkunstwerk",
         "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 481800,
       "name": "Explosif",
       "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "G-code",
+      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
-      },
-      "artists": [
-        {
-          "name": "TNGHT",
-          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Dollaz",
-      "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Blue Volvo",
         "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Dollaz",
+      "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1779,6 +1779,30 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "OUI (tout, tout, tout, toutttte)",
+        "url": "https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        },
+        {
+          "name": "Yen Dough",
+          "url": "https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG"
+        },
+        {
+          "name": "Cape Tula",
+          "url": "https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf"
+        }
+      ],
+      "duration_ms": 254445,
+      "name": "D\u00e9sir\u00e9e (feat. Cape Tula & Yen Dough)",
+      "url": "https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Canicule, Vol.1",
         "url": "https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP"
       },
@@ -1807,26 +1831,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "OUI (tout, tout, tout, toutttte)",
-        "url": "https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK"
+        "name": "wesh",
+        "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
       },
       "artists": [
         {
-          "name": "Yes*",
-          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+          "name": "Kirouac",
+          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
         },
         {
-          "name": "Yen Dough",
-          "url": "https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG"
-        },
-        {
-          "name": "Cape Tula",
-          "url": "https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf"
+          "name": "Kodakludo",
+          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
         }
       ],
-      "duration_ms": 254445,
-      "name": "D\u00e9sir\u00e9e (feat. Cape Tula & Yen Dough)",
-      "url": "https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf"
+      "duration_ms": 170351,
+      "name": "back",
+      "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1847,26 +1867,6 @@
       "duration_ms": 257544,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "wesh",
-        "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
-      },
-      "artists": [
-        {
-          "name": "Kirouac",
-          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
-        },
-        {
-          "name": "Kodakludo",
-          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
-        }
-      ],
-      "duration_ms": 170351,
-      "name": "back",
-      "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
     },
     {
       "added_at": "2022-03-11 05:02:00",

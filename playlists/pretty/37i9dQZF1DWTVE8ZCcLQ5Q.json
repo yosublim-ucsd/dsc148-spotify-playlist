@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421538,
+  "num_followers": 421520,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz",
+  "snapshot_id": "MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "JORGE",
-        "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
-      },
-      "artists": [
-        {
-          "name": "JOCA",
-          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
-        },
-        {
-          "name": "Nizaj",
-          "url": "https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr"
-        },
-        {
-          "name": "Reurbana",
-          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "JORGE",
-      "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Na Mente",
         "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
       },
@@ -1367,6 +1343,30 @@
       "duration_ms": 124948,
       "name": "Na Mente",
       "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "JORGE",
+        "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
+      },
+      "artists": [
+        {
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
+        },
+        {
+          "name": "Nizaj",
+          "url": "https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr"
+        },
+        {
+          "name": "Reurbana",
+          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "JORGE",
+      "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1407,46 +1407,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Ruas Perigosas",
-        "url": "https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV"
-      },
-      "artists": [
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Ruas Perigosas",
-      "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "24K o Spotify Que Paga",
         "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
       },
@@ -1467,6 +1427,46 @@
       "duration_ms": 180000,
       "name": "24K o Spotify Que Paga",
       "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Ruas Perigosas",
+        "url": "https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Ruas Perigosas",
+      "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
     },
     {
       "added_at": "2023-07-12 21:00:00",

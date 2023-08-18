@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,029 likes - 150 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,201 likes - 150 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 26 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
 | 27 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
 | 28 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
-| 29 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
-| 30 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 29 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 30 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 31 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
-| 32 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
-| 33 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 |
+| 32 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 |
+| 33 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 34 | [Fields Of Gold](https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 3:42 |
 | 35 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 |
 | 36 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 89 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
 | 90 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 |
 | 91 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 |
-| 92 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
-| 93 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
+| 92 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
+| 93 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
 | 94 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
 | 95 | [Nothing's Gonna Change My Love For You](https://open.spotify.com/track/1exLL81vN8mD55M9HMOt1t) | [Glenn Medeiros](https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN) | [Nothing's Gonna Change My Love For You](https://open.spotify.com/album/6Py0nKnjKSjmR4SlgLKmnr) | 3:51 |
 | 96 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
-| 97 | [Lady](https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Daytime Friends: The Very Best Of Kenny Rogers](https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ) | 3:51 |
-| 98 | [I Just Can't Stop Loving You \(feat\. Siedah Garrett\) \- 2012 Remaster](https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:11 |
+| 97 | [I Just Can't Stop Loving You \(feat\. Siedah Garrett\) \- 2012 Remaster](https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:11 |
+| 98 | [Lady](https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Daytime Friends: The Very Best Of Kenny Rogers](https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ) | 3:51 |
 | 99 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
 | 100 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
 | 101 | [Truly](https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 3:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 |
 | 150 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 
-Snapshot ID: `MCxkNTViMjZkNzFkZTJiYTE1MWRhNGEwOWE5MzJjZjdiOGUxMDUzZDM3`
+Snapshot ID: `MCxjODZiMWFmNWFlYTI0Yzg2Y2UxZmQ5ODkxNzk2NDNkMzViZTUyYWE5`

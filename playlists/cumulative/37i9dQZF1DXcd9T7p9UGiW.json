@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  Bob Marley, Skip Marley and Rema",
+  "description": "Catching flights and going global. Cover:  Giggs",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 247153,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0Z3WgEI6TL0cBa8t4lKvho"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 180860,
       "name": "And Just Like That (ft. Cruel Santino)",
       "url": "https://open.spotify.com/track/4ifo25iyx7xcgvuWNE68fW"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185083,
       "name": "Blessings - Remix",
       "url": "https://open.spotify.com/track/4yl5K1GQx8a5L5n5xzgCX5"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 189635,
       "name": "Bomz\u00e3o",
       "url": "https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 159338,
       "name": "Damn (feat. 6lack)",
       "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 199646,
       "name": "Designer",
       "url": "https://open.spotify.com/track/7dZsdVRJOf5SVRZN2LH6EH"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 167573,
       "name": "Djo",
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 199313,
       "name": "Falling Up (with Pharrell Williams & Nile Rodgers)",
       "url": "https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 126331,
       "name": "Finesse - feat. French Montana",
       "url": "https://open.spotify.com/track/1K1nl1dGNDX5LuLcDbT9ED"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 228000,
       "name": "Folel\u00e9",
       "url": "https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 142040,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
@@ -3217,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229339,
+      "name": "Hallelujah (feat. Lojay)",
+      "url": "https://open.spotify.com/track/0Zb004lei42rERugapZaSt"
+    },
+    {
+      "album": {
         "name": "Help (feat. Pheelz)",
         "url": "https://open.spotify.com/album/5xKdduUE9fNJW743rjCJib"
       },
@@ -3280,7 +3302,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 145794,
       "name": "Hi hi hi - Remix",
       "url": "https://open.spotify.com/track/7eLswGjmxdLaRIdrFEt3Ng"
@@ -3640,7 +3662,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 166271,
       "name": "imagine",
       "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
@@ -3980,7 +4002,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
@@ -4736,7 +4758,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 195834,
       "name": "Me and My Guitar - Midnight Snacks Remix",
       "url": "https://open.spotify.com/track/41HYPZh8oiWuR885sWezAa"
@@ -5612,7 +5634,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 188089,
       "name": "Notoriously Fast - Kai Whiston Remix",
       "url": "https://open.spotify.com/track/26xvHwasf7kNG3WpP6a7qq"
@@ -6208,7 +6230,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 148800,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0"
@@ -6730,7 +6752,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 291428,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8"
@@ -7420,7 +7442,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 187563,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/5AMAUUp1MlbrdaT2DzsiUh"
@@ -9085,6 +9107,28 @@
     },
     {
       "album": {
+        "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143692,
+      "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU"
+    },
+    {
+      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
       },
@@ -9166,7 +9210,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 186189,
       "name": "Wild Dreams (feat. Khalid)",
       "url": "https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu"

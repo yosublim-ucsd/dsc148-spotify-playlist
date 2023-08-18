@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
-  "num_followers": 530291,
+  "num_followers": 530642,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDg3ZmZkYmE3Y2Q3MWU3NDkyZDI3ZDgwNWM4NjYxMzA3ZDNmYTk2",
+  "snapshot_id": "MCwxNDgzOTkyMDNmNjU5MzJkNTNhYzBhZTcwOGMzYWNhNTVmNjljYmQ0",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In Streams",
-        "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
-      },
-      "artists": [
-        {
-          "name": "Centaur",
-          "url": "https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ"
-        }
-      ],
-      "duration_ms": 455000,
-      "name": "The Same Place",
-      "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 314706,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "In Streams",
+        "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
+      },
+      "artists": [
+        {
+          "name": "Centaur",
+          "url": "https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ"
+        }
+      ],
+      "duration_ms": 455000,
+      "name": "The Same Place",
+      "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/7cdeIVN0qTwcpO7uq3ASYR"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 236000,
       "name": "What Lies Beneath",
       "url": "https://open.spotify.com/track/3pkju2uZWb1chH7n2AgbU3"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Comforts of Madness (30th Anniversary Reissue)",
-        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 112265,
-      "name": "She Rides the Waves - John Peel Sessions",
-      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 167000,
       "name": "Thoughtforms - 2nd Version",
       "url": "https://open.spotify.com/track/7isrQebvzBb95uOCS9fleS"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Comforts of Madness (30th Anniversary Reissue)",
+        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 112265,
+      "name": "She Rides the Waves - John Peel Sessions",
+      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "A Strangely Isolated Place",
+        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 399720,
+      "name": "On My Own - 2019 remaster",
+      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Shelter (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3qIcbxymPhXoA1wOR98cLP"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "A Strangely Isolated Place",
-        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
+        "name": "Pure Mood",
+        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
       },
       "artists": [
         {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
         }
       ],
-      "duration_ms": 399720,
-      "name": "On My Own - 2019 remaster",
-      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
+      "duration_ms": 259957,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1087,22 +1103,6 @@
       "duration_ms": 305387,
       "name": "Sunshine Smile",
       "url": "https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Pure Mood",
-        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 259957,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Something More",
-      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Not The Time / Callous",
         "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In Ribbons",
-        "url": "https://open.spotify.com/album/0VmunE358t7BiH4hOint6k"
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
       "artists": [
         {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Ordeal",
-      "url": "https://open.spotify.com/track/2ve1LxvPazqDfcr92eL9UL"
+      "duration_ms": 198946,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1599,6 +1583,22 @@
       "duration_ms": 208994,
       "name": "Sword In the Stone",
       "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "In Ribbons",
+        "url": "https://open.spotify.com/album/0VmunE358t7BiH4hOint6k"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Ordeal",
+      "url": "https://open.spotify.com/track/2ve1LxvPazqDfcr92eL9UL"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Whirlpool - The Original Recordings",
+        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Breather",
+      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Mouth By Mouth",
         "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool - The Original Recordings",
-        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Breather",
-      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Comforts of Madness (30th Anniversary Reissue)",
         "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
       },
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8"
+        "name": "Parallel Universe Blues",
+        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
       },
       "artists": [
         {
-          "name": "Fragile Animals",
-          "url": "https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7"
+          "name": "Papercuts",
+          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Landing",
-      "url": "https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d"
+      "duration_ms": 344155,
+      "name": "Sing to Me Candy",
+      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Parallel Universe Blues",
-        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8"
       },
       "artists": [
         {
-          "name": "Papercuts",
-          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+          "name": "Fragile Animals",
+          "url": "https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7"
         }
       ],
-      "duration_ms": 344155,
-      "name": "Sing to Me Candy",
-      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
+      "duration_ms": 232333,
+      "name": "Landing",
+      "url": "https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d"
     },
     {
       "added_at": "2021-06-03 02:39:04",

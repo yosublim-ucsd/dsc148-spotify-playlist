@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho
 
-1,015 songs - 2 day 14 hr 27 min
+1,016 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-16 | 2023-05-26 |
 | [Night Out](https://open.spotify.com/track/0qO3nh7giIoryNbhpkA52V) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Night Out](https://open.spotify.com/album/3M5Zug7kp9osZEXxUBgLix) | 4:24 | 2022-12-06 | 2022-12-21 |
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-02-17 | 2022-03-23 |
+| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 |  |
 | [No.9](https://open.spotify.com/track/0b4cJRPCtjUbXek96CV9ry) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr) | [No.9](https://open.spotify.com/album/0xMoFUthDGNhftRVpwon4b) | 2:00 | 2022-03-01 | 2022-03-30 |
 | [Nobody Else](https://open.spotify.com/track/7o6gii1cpB6aKbPN1KcaFS) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Nobody Else](https://open.spotify.com/album/7DbB7h5iJFboC4W6cBB7uV) | 2:59 | 2022-04-27 | 2022-05-25 |
 | [NORLUSS](https://open.spotify.com/track/6Qcpizu30yYKN7rEFxcKWp) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Melody](https://open.spotify.com/album/4Nm8hiPsfTDjzzA0RalBNj) | 2:58 | 2022-11-15 | 2023-02-08 |
@@ -596,7 +597,7 @@
 | [woowee! zoowee!](https://open.spotify.com/track/6IQjOP0D4WTX2WKvSYVpnq) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [woowee! zoowee!](https://open.spotify.com/album/5ew5cApkfvwG6DRWoTvDbN) | 2:06 | 2022-10-25 | 2022-11-02 |
 | [World is Mine](https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS) | [鋭児](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [World is Mine](https://open.spotify.com/album/2vDiHS5Dy4cfKmT1O98G5d) | 3:10 | 2022-10-04 | 2022-12-21 |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
-| [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 |  |
+| [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-08-18 |
 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 | 2022-12-06 | 2023-01-13 |
 | [Yoake no Kimi e](https://open.spotify.com/track/0urrl38MfteFNwyfwnlEyP) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yoake no Kimi e](https://open.spotify.com/album/1edZyxFVUxuXKsNb2kuexd) | 3:59 | 2023-06-13 |  |
 | [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 | 2023-05-16 | 2023-08-09 |

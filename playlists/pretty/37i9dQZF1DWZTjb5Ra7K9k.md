@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,684 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,708 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 33 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
 | 34 | [Queen of California](https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Born and Raised](https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0) | 4:10 |
 | 35 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
-| 36 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
+| 36 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/3V4XaPTKFMigQEqzH9HDKS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 3:43 |
 | 37 | [Forever](https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 3:24 |
-| 38 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/3V4XaPTKFMigQEqzH9HDKS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 3:43 |
+| 38 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
 | 39 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
 | 40 | [No One Knows](https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Runtastic \- Power Workout \(Vol\. 1\)](https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey) | 4:13 |
 | 41 | [Young and Able](https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Protect Your Own](https://open.spotify.com/album/5go4cEu6ll2JbN7ANcJ1xd) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Pipeline](https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 2:59 |
 | 75 | [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 |
 
-Snapshot ID: `MCxkNmJiODYwYjEzZThkYjY4ZGNjMTg1ZjllMTBjYWMwMDE2NWViY2Ex`
+Snapshot ID: `MCxiYjQ0YTU1ZDIwOGJmNWM0MTJjNmNkM2E5Y2JlN2YxODllM2FkZTI5`

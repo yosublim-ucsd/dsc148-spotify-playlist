@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,597 likes - 60 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,665 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
 | 60 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
 
-Snapshot ID: `MCwzNWQ2MDFkZDZlOGQ1MzIwNjAzZDY4OTQyNmFlNTMwN2M0ZGFlN2M2`
+Snapshot ID: `MCw4MjNjNzhhNTE5NTVhYmRmN2UwN2ViMzRiMDcyMTQ5ZWE0NTkzOTZj`

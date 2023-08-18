@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 204217,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "don't give up on me",
+        "url": "https://open.spotify.com/album/7JzEyrvfRWletnCLkJPCRP"
+      },
+      "artists": [
+        {
+          "name": "44 Ardent",
+          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198984,
+      "name": "don't give up on me",
+      "url": "https://open.spotify.com/track/69dCUv9htSIGQ2Wrq36sD2"
+    },
+    {
+      "album": {
         "name": "Don't Really Care",
         "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
       },
@@ -590,6 +608,24 @@
       "duration_ms": 194067,
       "name": "DOWN",
       "url": "https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259424,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
     },
     {
       "album": {
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 257424,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
@@ -1802,7 +1838,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 206722,
       "name": "Right Here It's Only Love",
       "url": "https://open.spotify.com/track/68MdXrR2PIyzMfeFReryjK"
@@ -1941,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "Sirena Deep",
+        "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341500,
+      "name": "Sirena Deep",
+      "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
+    },
+    {
+      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
       },
@@ -1996,7 +2054,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 204723,
       "name": "Smile (feat. JAM)",
       "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
@@ -2018,6 +2076,24 @@
       "duration_ms": 229213,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
+    },
+    {
+      "album": {
+        "name": "Mosquito Love",
+        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195610,
+      "name": "Sour Berry",
+      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
     },
     {
       "album": {

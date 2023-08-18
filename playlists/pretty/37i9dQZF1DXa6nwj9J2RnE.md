@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,776 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,775 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 17 | [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [Navarone Cole](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 |
 | 18 | [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 |
 | 19 | [MEISJE IN WIT](https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [MEISJE IN WIT](https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U) | 2:22 |
-| 20 | [Waarheid](https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq) | 3:31 |
+| 20 | [Waarheid](https://open.spotify.com/track/4EAG6m9bVVbX8d3tAfqlUv) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/1wlYADby49rptkaWPxVoip) | 3:31 |
 | 21 | [Vanavond](https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Vanavond](https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy) | 2:34 |
 | 22 | [Bee Suits](https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB) | [LIJO](https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC) | [Bee Suits](https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ) | 3:51 |
 | 23 | [simpel leven](https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [Anishagf](https://open.spotify.com/artist/4jDEZRMVdx1wl08tjO4PFr) | [Simpel Leven](https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24) | 2:43 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 52 | [Karma \(Symphony In G Minor\)](https://open.spotify.com/track/6ekDpGPpRzBk7HZhWpNrvW) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 3:45 |
 | 53 | [The Great Hope Design](https://open.spotify.com/track/6D2whKQXHFzQtqPa5BXwPP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Great Hope Design](https://open.spotify.com/album/02KjMI6Z4XAJALVX9XjcEM) | 5:20 |
 | 54 | [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 |
-| 55 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 |
+| 55 | [Liar](https://open.spotify.com/track/4bBqtW6tslUJbzmEIKhjhq) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/4szdNUevCiLlpj5BKdZrFd) | 3:54 |
 
-Snapshot ID: `MCw5MTVmMjczZDBkNTIwYWQ2OGU0MzUwZjk0ZTkyZjE4OWZhMzY1ZjQx`
+Snapshot ID: `MCxjMWNhODhjMTQ5YjY1MzUxNWQwNzYwNzJkZTdjYjBiNmVjODliMjIx`

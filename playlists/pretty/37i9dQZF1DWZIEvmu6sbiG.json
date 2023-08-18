@@ -1,12 +1,12 @@
 {
   "description": "Scopa, paletta e musica!",
-  "num_followers": 79155,
+  "num_followers": 79168,
   "original_name": "Pulizie di Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2UwMmQ2YTdkNmI5ZjlkMTZjMmJmZGY3YjU4NjYzMDE5OThmN2E4",
+  "snapshot_id": "MCxiN2U1YWUxZmQ3NTlhNGU3ODczNGNkZjE0ZmMwMjkwODY2MGI5NTI2",
   "tracks": [
     {
       "added_at": "2023-07-14 13:59:48",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 268426,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+      "duration_ms": 214289,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1123,6 +1127,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214289,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "The Reason (15th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
     },
     {
       "added_at": "2023-07-14 13:59:48",

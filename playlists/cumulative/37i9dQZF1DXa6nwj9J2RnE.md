@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-89 songs - 4 hr 59 min
+91 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Into Your Head](https://open.spotify.com/track/5VY9wxhKgJJula88AQVOei) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/2mhAyi89acxMmBxj8hdWj4) | 2:52 | 2023-02-23 |  |
 | [just killing \(time\)](https://open.spotify.com/track/0yiXlHnykTqp7srRhFPYQ3) | [Socks;SportsSocks](https://open.spotify.com/artist/5iofxr31yEqGuxH0OIrAEq) | [just killing \(time\)](https://open.spotify.com/album/1dVLxrIx7iT4Vx1cLK9ZKA) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [Karma \(Symphony In G Minor\)](https://open.spotify.com/track/6ekDpGPpRzBk7HZhWpNrvW) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 3:45 | 2023-02-23 |  |
-| [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 | 2023-02-23 |  |
+| [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 | 2023-02-23 | 2023-08-18 |
+| [Liar](https://open.spotify.com/track/4bBqtW6tslUJbzmEIKhjhq) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/4szdNUevCiLlpj5BKdZrFd) | 3:54 | 2023-06-23 |  |
 | [Lila](https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4), [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs) | [Mirrors](https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0) | 4:17 | 2023-05-11 |  |
 | [Little Girl](https://open.spotify.com/track/78JPkgiUKtPk16rgVwzwId) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Little Girl](https://open.spotify.com/album/1RYifRrTMcLIrGKOxTyt6N) | 2:49 | 2023-02-23 |  |
 | [Longing](https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v) | [Wynnm](https://open.spotify.com/artist/5OKbhPqXR4Xve2CSXW4T5K) | [Longing](https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8) | 3:14 | 2023-02-23 |  |
@@ -88,7 +89,8 @@
 | [Verloren Tijd](https://open.spotify.com/track/4M8HWpd7FGfbyOpVmlwX4n) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Verloren Tijd](https://open.spotify.com/album/24oUDWENsdExX80f3CClSJ) | 3:46 | 2023-02-23 | 2023-03-18 |
 | [Vijver](https://open.spotify.com/track/0nxo2TJxgC0hd8wMvlzXon) | [Wolfskers](https://open.spotify.com/artist/3DGVNPZVfaueCYe9OP9I1M) | [Vijver](https://open.spotify.com/album/10i1NxqMsxbSPqjosPb6AG) | 3:20 | 2023-06-23 |  |
 | [Voor Mij](https://open.spotify.com/track/7pzkGhxM5Y99vKROli3Tpc) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:35 | 2023-02-23 | 2023-06-09 |
-| [Waarheid](https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq) | 3:31 | 2023-03-16 |  |
+| [Waarheid](https://open.spotify.com/track/4EAG6m9bVVbX8d3tAfqlUv) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/1wlYADby49rptkaWPxVoip) | 3:31 | 2023-06-23 |  |
+| [Waarheid](https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq) | 3:31 | 2023-03-16 | 2023-08-18 |
 | [Waarom /2](https://open.spotify.com/track/1BjpwQcgj54IukIeD9eMEs) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Waarom /2](https://open.spotify.com/album/2BIesNOHRfDIy0moaQc3gD) | 3:19 | 2023-02-23 | 2023-05-26 |
 | [Waiting On You \- Recorded Live](https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx) | [Lance Priester](https://open.spotify.com/artist/2c57pFinaNzjVJOUUqai3v) | [Waiting On You \(Recorded Live\)](https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK) | 5:04 | 2023-06-08 |  |
 | [Where Nothing Lives](https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [Where Nothing Lives](https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV) | 3:28 | 2023-02-23 |  |

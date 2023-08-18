@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 693630,
+  "num_followers": 693845,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmYyOTNiNjdlNzI0ZDYyOWRhM2NkNTg5ZDdhNTliYWFjMDZmMTYy",
+  "snapshot_id": "MCxmY2IzZjY3MDEzYTJkZjc5NzM2ZmY1ZjE3Yzg3MjNjOTA5ZDdiYjcy",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
+        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
       },
       "artists": [
         {
           "name": "Yasmin Santos",
           "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+      "duration_ms": 174178,
+      "name": "Para, Pensa e Volta - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
-        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
       "artists": [
         {
           "name": "Yasmin Santos",
           "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 174178,
-      "name": "Para, Pensa e Volta - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2023-02-10 03:01:00",

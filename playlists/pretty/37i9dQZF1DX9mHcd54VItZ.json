@@ -1,13 +1,29 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=gwz0e1ZRSK-Xp_kajrYT-A\">Loufi</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=t37Hl_ASTdWeFOa2L0Uebw\">Francois van Coke</a>",
-  "num_followers": 14000,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY?si=45WvUFO9R5G2H8_5yJFU8w\">Aya Nixon</a>",
+  "num_followers": 14013,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzQwMzM2ODY0YWM4ZjUyZjZiNjJlODZhNGE3Y2Y0MDZiMjhjZTEy",
+  "snapshot_id": "MCxhNTM2ZDFiOGFjZDNmMDFlMzY5MjM5ODVjOTJkODhkZDI2NDdjOWI0",
   "tracks": [
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Supermark",
+        "url": "https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj"
+      },
+      "artists": [
+        {
+          "name": "Aya Nixon",
+          "url": "https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Supermark",
+      "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
+    },
     {
       "added_at": "2023-08-11 08:29:40",
       "album": {
@@ -827,22 +843,6 @@
       "duration_ms": 232653,
       "name": "BEAUTIFUL LIES",
       "url": "https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "Millions of Us",
-        "url": "https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA"
-      },
-      "artists": [
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        }
-      ],
-      "duration_ms": 314679,
-      "name": "Millions of Us - Part 2",
-      "url": "https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS"
     }
   ],
   "unique_name": "SA Rock ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: David Guetta, Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,928 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,957 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 5 | [L'amour \- Spotify Singles](https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:19 |
 | 6 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 |
 | 7 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
-| 8 | [Ce soir \- j'suis dans ma tête](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 |
+| 8 | [Ce soir \- J’suis dans ma tête](https://open.spotify.com/track/5qSzv4wmieTXfVbQoTQfTI) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(J'suis dans ma tête\)](https://open.spotify.com/album/7kiTuoq7a71tOoGoiMK9Gu) | 2:20 |
 | 9 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 10 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
 | 11 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
 | 75 | [As de coeur](https://open.spotify.com/track/33IzNAqfPmXzc53qEofYKa) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [As de coeur](https://open.spotify.com/album/5x2p9Sk5OzgOIWfJB9rjyI) | 2:31 |
 
-Snapshot ID: `MCw4YjNkMzZkMWIzYmQxMDg1MDQwYjI0MmMzNGQ4YTViMmRmODkzODBm`
+Snapshot ID: `MCxmM2U2MWY2ZDJhZjVmZWMwNjMyOGRlZTFjMTViNWIyYWExZmExYzFk`

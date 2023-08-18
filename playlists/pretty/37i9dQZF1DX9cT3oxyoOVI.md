@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 
 > romanticizing indie music
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,820 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,223 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 23 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 24 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 |
 | 25 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 |
-| 26 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
-| 27 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |
+| 26 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |
+| 27 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
 | 28 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
 | 29 | [Sick Feeling](https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:35 |
 | 30 | [No Wind Resistance!](https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [DMZ](https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr) | 3:18 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 47 | [It's Been a Long Day](https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 4:04 |
 | 48 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 |
 | 49 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/1oPd8gfPWu6zeKQX9flbpk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:10 |
-| 50 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
-| 51 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
+| 50 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
+| 51 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
 | 52 | [Awkward Conversations](https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:19 |
 | 53 | [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 |
 | 54 | [UrbanAngel1999](https://open.spotify.com/track/6OjWT7MkkNFvvlRvILPg6v) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [UrbanAngel1999](https://open.spotify.com/album/2pIECUm6lJmCagILps1mKa) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 74 | [Je Suis la Pomme Rouge](https://open.spotify.com/track/5LVaQHjgN0jiKDYaoMQqFG) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 4:30 |
 | 75 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 |
 
-Snapshot ID: `MCxjMzNhMTg3NDMzMTc3Zjg0YTE3ZTBjOGFhYWI5ZWNjOGIyOGZiNDk1`
+Snapshot ID: `MCwxMWY2ZTZkNzYwMWY2YjBiZjZhYTY1MjAxZWQzODVjYTIwMWY0NmIz`

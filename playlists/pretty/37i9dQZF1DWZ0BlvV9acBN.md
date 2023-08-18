@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,076 likes - 70 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,237 likes - 70 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 17 | [Que o Cordeiro Receba \- Ao Vivo](https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75) | [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Santificado \(Ao Vivo\)](https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1) | 9:22 |
 | 18 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 |
 | 19 | [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 |
-| 20 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
-| 21 | [Nada Vai Me Parar](https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Nada Vai Me Parar](https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv) | 3:49 |
+| 20 | [Nada Vai Me Parar](https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Nada Vai Me Parar](https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv) | 3:49 |
+| 21 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
 | 22 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
 | 23 | [Onde Tem Lenha](https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Onde Tem Lenha](https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI) | 9:54 |
 | 24 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 | 70 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 |
 
-Snapshot ID: `MCxmNzY4Y2VhOTRjMDEyNjVhOTYxZDZkNjk2YjVhYTBhMjE3NTFlN2Iz`
+Snapshot ID: `MCxjN2IyN2I4NDY4MzEwY2JiMzg4ODU3NWIwMzUxMmI0ZTZkODk3YWMw`

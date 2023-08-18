@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-122 songs - 7 hr 16 min
+123 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2023-03-03 |  |
 | [Perfection Is A Promise](https://open.spotify.com/track/1k0YCmYXetIOdFcmxtUpg4) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Perfection Is A Promise](https://open.spotify.com/album/2dJCBYvfoqnGM7USl1wfAG) | 4:17 | 2023-04-14 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2023-03-03 | 2023-03-18 |
-| [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |
+| [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 | 2023-08-18 |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-03-03 |  |
 | [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-01 |  |
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2023-03-03 |  |
@@ -128,6 +128,7 @@
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2023-03-03 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2023-03-03 |  |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-03 |  |
+| [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 |  |
 | [You've Changed](https://open.spotify.com/track/03M7H0z2xqFrcHhohJUGoC) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [You've Changed](https://open.spotify.com/album/6HIB5zDrojpmjIoErkmfCi) | 2:42 | 2023-03-24 |  |
 | [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-03-03 |  |
 

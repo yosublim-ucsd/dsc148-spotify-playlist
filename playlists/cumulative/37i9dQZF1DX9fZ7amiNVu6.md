@@ -4,7 +4,7 @@
 
 > Kick back and enjoy these classic summer songs.
 
-161 songs - 9 hr 29 min
+162 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Hotel California \(Spanish Mix\)](https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [!Volare! The Very Best of the Gipsy Kings](https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id) | 5:46 | 2022-10-11 | 2022-11-13 |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 6:31 | 2022-05-13 | 2022-07-26 |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2022-07-14 |  |
-| [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 | 2022-05-13 |  |
+| [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 | 2022-05-13 | 2023-08-18 |
 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 | 2022-05-13 |  |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 | 2022-07-14 |  |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/0O7qtTVXI5fYIEJTNEZNxQ) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [20th Century Masters – The Millennium Collection: The Best Of](https://open.spotify.com/album/3dfUrPJtFPlqZxoxD2f0Kb) | 2:43 | 2022-05-13 | 2022-07-29 |
@@ -95,6 +95,7 @@
 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 | 2022-05-13 |  |
 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 | 2022-05-13 |  |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2022-05-13 |  |
+| [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 | 2023-07-24 |  |
 | [My Sweet Lord \- 2014 Remaster](https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 4:41 | 2022-10-11 |  |
 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 | 2022-05-13 | 2023-02-19 |
 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 | 2022-07-14 |  |

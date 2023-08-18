@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,155 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,381 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 69 | [You're The Reason Our Kids Are Ugly](https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Honky Tonk Girl: The Loretta Lynn Collection](https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb) | 2:34 |
 | 70 | [Drinkin' My Baby \(Off My Mind\) \- 2009 Remaster](https://open.spotify.com/track/0aH37hHD9bgClsjGngV974) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:25 |
 | 71 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 |
-| 72 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 |
+| 72 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
 | 73 | [San Antonio Stroll](https://open.spotify.com/track/2qXR5YWhvtYIoewHjvflss) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker's Greatest Hits](https://open.spotify.com/album/5T6WDAskZxpghDeEdHUtXn) | 2:50 |
 | 74 | [Funny Face](https://open.spotify.com/track/27145diX1C7BE6m6FzONqb) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/album/5YfLHOqGzEjVKZMTTgZnyn) | 2:46 |
-| 75 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
+| 75 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 |
 | 76 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
 | 77 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
 | 78 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Love In The Hot Afternoon](https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Love In The Hot Afternoon](https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77) | 3:19 |
 | 100 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 
-Snapshot ID: `MCw2ZmIzMDZjOGMzNWVjZDI0ZGM3YjJhOTEzODkwYmUzNDdhYjJlZTFl`
+Snapshot ID: `MCxjNzZhYTJhODg2ZDcxZmE4MTZiNzI5MGQ4MDlhYjQ3YTYwZWU1MTk0`

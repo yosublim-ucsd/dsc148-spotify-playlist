@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,319 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,329 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 71 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 72 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 73 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 |
-| 74 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
-| 75 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 74 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 75 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
 | 76 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
 | 77 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
 | 78 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 82 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 83 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 84 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 |
-| 85 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 86 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
+| 85 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
+| 86 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 87 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
 | 88 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 89 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
 | 90 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
-| 91 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
-| 92 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 |
+| 91 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 |
+| 92 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
 | 93 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 |
 | 94 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
 | 95 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 149 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 |
 | 150 | [Easy](https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 3:06 |
 
-Snapshot ID: `MCwzYmQ5ODMyYjQ1YTNmMDc5ZDNhM2U5NTMyMWE2NzdjYzM0YjM4ZjM5`
+Snapshot ID: `MCw0NGQ5NWQ0OTE5ODY4OGI0YjljNjcyMGQ3MTZlZjM0ZWQwMjYzODA2`

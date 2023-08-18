@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: P!nk
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,200 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,142 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 4 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
 | 5 | [Weißes Haus](https://open.spotify.com/track/5OXgrcI2K6erTLMTlEJ23H) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weißes Haus](https://open.spotify.com/album/76MbuCHFar5NafVYMqVopm) | 2:48 |
 | 6 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 |
-| 7 | [Nefes](https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:32 |
-| 8 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |
+| 7 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |
+| 8 | [Nefes](https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:32 |
 | 9 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 |
 | 10 | [Kolima](https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Kolima](https://open.spotify.com/album/31EO338Vqw3b1i8UUoFQCh) | 2:42 |
 | 11 | [Quiénes Son?](https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:42 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 13 | [C'est toi](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 |
 | 14 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 15 | [Ping Pong](https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ping Pong](https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15) | 2:39 |
-| 16 | [Piango In Discoteca](https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Piango In Discoteca](https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD) | 3:19 |
-| 17 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 |
+| 16 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 |
+| 17 | [Piango In Discoteca](https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Piango In Discoteca](https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD) | 3:19 |
 | 18 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 |
 | 19 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 |
 | 20 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 52 | [Solita Solita](https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Solita Solita](https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM) | 3:07 |
 | 53 | [קמה בבוקר](https://open.spotify.com/track/5q5feyyZOjf67AG8kszaui) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [קמתי לרקוד](https://open.spotify.com/album/6mkQst9FWyn45fyXwtpoF4) | 3:15 |
 | 54 | [На тусі](https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp) | [Gunna Chorna](https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1) | [На тусі](https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG) | 2:04 |
-| 55 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
-| 56 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
+| 55 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
+| 56 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
 | 57 | [Stranger](https://open.spotify.com/track/6bOqF7Qzk5GeIFVb4HjNsg) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Stranger](https://open.spotify.com/album/0Ls0tJstRIzJFgE6MvbPWO) | 3:08 |
 | 58 | [za wcześnie](https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [za wcześnie](https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty) | 2:09 |
 | 59 | [There's Nothing Else](https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [There's Nothing Else](https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [Portés par les ondes](https://open.spotify.com/track/7oL4Qda0vsg27yd8B09DGK) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt), [Palaster](https://open.spotify.com/artist/7uWI34JyJuk0bePBI8NZxC) | [Portés par les ondes](https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ) | 3:12 |
 | 75 | [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 |
 
-Snapshot ID: `MCw0ZmNlN2Q4YTc0YWEwZTQwYjczMDVlMDZmZTBhZGJmZTYzZDVhOTRi`
+Snapshot ID: `MCwwNGRkNDAzNjkxZWUwYjA2ZTMxMTNmMzM3M2JjYjRhMmM3NmIzYjFm`

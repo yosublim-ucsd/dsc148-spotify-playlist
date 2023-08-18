@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Typhoon",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Nielson & MAXINE",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 184716,
       "name": "Alles Al",
       "url": "https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 195386,
       "name": "Alles Kwijt - Live in Carr\u00e9 2023",
       "url": "https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 206378,
       "name": "Als Alles Wegvalt",
       "url": "https://open.spotify.com/track/4dcu7nIDBIYVDFXWtd5cf1"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 174000,
       "name": "Anne-Fleur Vakantie",
       "url": "https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m"
@@ -953,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/5aJiOr7wOCxeMZ08Jb5jbT"
+      },
+      "artists": [
+        {
+          "name": "Hiwot Music",
+          "url": "https://open.spotify.com/artist/6XA5RMPFFjXUEksZkHHCh7"
+        },
+        {
+          "name": "Hiwot",
+          "url": "https://open.spotify.com/artist/1I4MIUVnff0JGmxgjcXeX9"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/2QdLK8Px4ogArZbqV4fzyF"
+    },
+    {
+      "album": {
         "name": "Dans Alleen",
         "url": "https://open.spotify.com/album/7avUGmXbUaHSps49aQ0Zyo"
       },
@@ -968,6 +990,24 @@
       "duration_ms": 211188,
       "name": "Dans Alleen",
       "url": "https://open.spotify.com/track/0KRhxFEfJP8R4Q8dmVsjaV"
+    },
+    {
+      "album": {
+        "name": "Dansen In Het Donker",
+        "url": "https://open.spotify.com/album/6qXcyBnTbcX78WcGny0ZUI"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Dansen In Het Donker",
+      "url": "https://open.spotify.com/track/0m0Q9ty4ISWgeYDuWqk3Ne"
     },
     {
       "album": {
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 198399,
       "name": "Dat Ene Bankje",
       "url": "https://open.spotify.com/track/2d7evgttKIjUOFtnmg1DUQ"
@@ -1166,7 +1206,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 150151,
       "name": "De Nacht",
       "url": "https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi"
@@ -1278,6 +1318,24 @@
       "duration_ms": 199760,
       "name": "De Weg",
       "url": "https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7"
+    },
+    {
+      "album": {
+        "name": "De Wereld Draait Door",
+        "url": "https://open.spotify.com/album/5m0ee4WxZ811dh6OXQjeu9"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "De Wereld Draait Door",
+      "url": "https://open.spotify.com/track/5evob0U86hg19uVamG9ssV"
     },
     {
       "album": {
@@ -1478,6 +1536,28 @@
       "duration_ms": 178800,
       "name": "Down Met Jou",
       "url": "https://open.spotify.com/track/7zWceawn2oJgmlnSSXPxlm"
+    },
+    {
+      "album": {
+        "name": "Draaien",
+        "url": "https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        },
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Draaien",
+      "url": "https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5"
     },
     {
       "album": {
@@ -2180,7 +2260,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 176805,
       "name": "Hetzelfde",
       "url": "https://open.spotify.com/track/1mLP442VEMPztX02Gdsdfj"
@@ -2238,7 +2318,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 149819,
       "name": "Hoe Minder Je Weet",
       "url": "https://open.spotify.com/track/0nzO7opgxBudBTawZPao5X"
@@ -2814,7 +2894,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 164480,
       "name": "Koning Liefde",
       "url": "https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl"
@@ -3096,7 +3176,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 195692,
       "name": "Love Is Drugs",
       "url": "https://open.spotify.com/track/36odP6eL0ym0OPnNiN2s98"
@@ -3333,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "Mijn Stad",
+        "url": "https://open.spotify.com/album/0dpAll3S247sdlkRXBGtrL"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182193,
+      "name": "Mijn Stad",
+      "url": "https://open.spotify.com/track/38BGAS5sGF07IDiQBe9TpO"
+    },
+    {
+      "album": {
         "name": "Misdragen",
         "url": "https://open.spotify.com/album/0NBt3sOqxUtBxZAlquva3T"
       },
@@ -3486,6 +3584,28 @@
       "duration_ms": 196795,
       "name": "Naar Het Licht",
       "url": "https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan"
+    },
+    {
+      "album": {
+        "name": "Naar Huis",
+        "url": "https://open.spotify.com/album/468MMnsWRo8xYnZxaDncv4"
+      },
+      "artists": [
+        {
+          "name": "Maaike Ouboter",
+          "url": "https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn"
+        },
+        {
+          "name": "L\u00e9on Paul",
+          "url": "https://open.spotify.com/artist/0pDwk6nkLY7XjnffKNEqcU"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210800,
+      "name": "Naar Huis",
+      "url": "https://open.spotify.com/track/30JpaNQvqcoyt44nJZFwrk"
     },
     {
       "album": {
@@ -4000,7 +4120,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 134634,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/1GC9tmklZQlK4gae2qJUJa"
@@ -4025,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185261,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
+    },
+    {
+      "album": {
         "name": "Rommel",
         "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
       },
@@ -4036,7 +4174,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 196000,
       "name": "Rommel",
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
@@ -4148,7 +4286,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 132421,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn"
@@ -4502,7 +4640,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 207194,
       "name": "Terug In M'n Armen",
       "url": "https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc"
@@ -4520,7 +4658,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 154998,
       "name": "Terug Naar Huis",
       "url": "https://open.spotify.com/track/43NlqymyGXzfh1RJA5zxHJ"
@@ -4574,7 +4712,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185712,
       "name": "Thuis Bij Jou",
       "url": "https://open.spotify.com/track/4WnSGN8pi4jqxLoNkBFhBX"
@@ -4704,7 +4842,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 139155,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/2yEgte8dgqwF38TMT7Qxyw"
@@ -4820,6 +4958,24 @@
       "duration_ms": 201742,
       "name": "Ver Van Huis",
       "url": "https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW"
+    },
+    {
+      "album": {
+        "name": "Vergeven, Vergeten",
+        "url": "https://open.spotify.com/album/2hYdO6AFjcJVEqzcSwPAhE"
+      },
+      "artists": [
+        {
+          "name": "Huize Lucas",
+          "url": "https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214604,
+      "name": "Vergeven, Vergeten",
+      "url": "https://open.spotify.com/track/6ID5NQlBr7RikVeC0jkKdH"
     },
     {
       "album": {
@@ -5167,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Uit Het Hoofd",
+        "url": "https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210986,
+      "name": "We Vieren Het Toch",
+      "url": "https://open.spotify.com/track/0lGq8CN6aFfJ7LuOQbZn8f"
+    },
+    {
+      "album": {
         "name": "Wild Wild West",
         "url": "https://open.spotify.com/album/3ifeNIgF6ce5nNDW9uKlR9"
       },
@@ -5380,7 +5554,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 181034,
       "name": "Zwaaien Naar Het Verleden",
       "url": "https://open.spotify.com/track/608qQnvnuZUL8zEqCtXV5l"
@@ -5416,7 +5590,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 166200,
       "name": "Zweven",
       "url": "https://open.spotify.com/track/41kC0OKOvxxccg9AZcIVlg"

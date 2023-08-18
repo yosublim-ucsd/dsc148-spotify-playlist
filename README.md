@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6523\)
+## Playlists \(6525\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2058,6 +2058,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Getaway Rock 2012](/playlists/pretty/4mM7tVGeVv4dOFPTlftofk.md)
 - [Getaway Rock 2013](/playlists/pretty/4ftQXs8PU4QMqPLMaJG7QT.md)
 - [Getting Around](/playlists/pretty/37i9dQZF1DWWJsezdoqh4Q.md)
+- [Getting Ready 💋](/playlists/pretty/37i9dQZF1DWWp9JrEQN7W1.md)
 - [Ghaint Flow](/playlists/pretty/37i9dQZF1DX5OWRwJruafQ.md)
 - [Ghana Gospel Classics](/playlists/pretty/37i9dQZF1DX53URsQFhR0Q.md)
 - [Ghana Party](/playlists/pretty/37i9dQZF1DX7t977T5F4kQ.md)
@@ -2162,7 +2163,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- KAROL G](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- Marshmello & Young Miko](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)
@@ -6190,6 +6191,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [bohemia tranqui](/playlists/pretty/37i9dQZF1DX27Vvs8ZCWJn.md)
 - [bops.](/playlists/pretty/37i9dQZF1DX8XdqmB6xlX2.md)
 - [borderless](/playlists/pretty/37i9dQZF1DWZJmo7mlltU6.md)
+- [boygenius: Blueprint](/playlists/pretty/37i9dQZF1DWUWDUTr5d7Wq.md)
 - [boys cast](/playlists/pretty/0kfqBZx9obUKiLVDwTqGly.md)
 - [braids](/playlists/pretty/4fFfXVLYv59XIfPdUvMqKC.md)
 - [brb, at the gym being a hot latina baddie](/playlists/pretty/37i9dQZF1DXbQHrcOrasfs.md)

@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 357520,
+  "num_followers": 357775,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDNlMDcyNzM3NDlmNmQ2ZTAwNTMzMmJlMzAyNzViN2RhZjAzOWUz",
+  "snapshot_id": "MCxmZjMxY2NlNjIyZWMwYTRlNDZhNmRiNzBjNzVhMTgzZWQ3NzE1Nzli",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Happy Together",
         "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 176293,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -715,22 +731,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2023-05-23 07:27:41",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "30 Years Of Funk: 1969-1999 The Anthology",
-        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Some Kind Of Wonderful - Remastered 1999",
-      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 161960,
       "name": "Under the Boardwalk",
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "30 Years Of Funk: 1969-1999 The Anthology",
+        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Some Kind Of Wonderful - Remastered 1999",
+      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 119360,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 163000,
       "name": "No Particular Place To Go",
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 119360,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Real Thing",
-        "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
-      },
-      "artists": [
-        {
-          "name": "The Real Thing",
-          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "You To Me Are Everything",
-      "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "The Real Thing",
+          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
         }
       ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+      "duration_ms": 208840,
+      "name": "You To Me Are Everything",
+      "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1859,18 +1843,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
       "artists": [
         {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
         }
       ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1887,6 +1871,22 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Les Annees Petula",
-        "url": "https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Llllloco-Motion",
         "url": "https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 139120,
       "name": "The Locomotion",
       "url": "https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Les Annees Petula",
+        "url": "https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Perfect Angel",
-        "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 223143,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 135466,
       "name": "Oh! Carol",
       "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Perfect Angel",
+        "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 223143,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
     },
     {
       "added_at": "2023-01-03 15:04:36",

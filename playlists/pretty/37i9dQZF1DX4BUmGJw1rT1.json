@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 62791,
+  "num_followers": 62923,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjJjZWM3MzIzNTdkOGI2NWIwMzU1ODIyNTc3M2M0NmQ5ZmIxNDEx",
+  "snapshot_id": "MCw2ZTg1MzJjN2RmZDYxYTRkMWNlMTQzOWFjZGI0MzFiYjc4ZjkxZTVj",
   "tracks": [
     {
       "added_at": "2023-08-11 00:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 265640,
-      "name": "No Other Way",
-      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Love, Death & In Between",
-        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
       },
       "artists": [
         {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Will o' the Wisp",
-      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
+      "duration_ms": 265640,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Love, Death & In Between",
+        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Will o' the Wisp",
+      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "One Kind Favor (Deluxe)",
         "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 268000,
       "name": "Get These Blues Off Me",
       "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 210428,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 308893,
+      "name": "Third Degree",
+      "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "From the Cradle",
-        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 308893,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 180680,
       "name": "And That's Saying a Lot",
       "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
     },
     {
       "added_at": "2023-08-11 00:01:00",

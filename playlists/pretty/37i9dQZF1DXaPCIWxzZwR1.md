@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Jenna Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,929 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,296 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
 | 100 | [something's off](https://open.spotify.com/track/16dPXAC2RS7aYRpbJ6AS7K) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [something's off](https://open.spotify.com/album/6p5dKhiFwoLdZ4msjRCZmV) | 2:14 |
 
-Snapshot ID: `MCw4ZTQyYWE4NjE5NjQyMWU2NTM3ZWIwNTA1ZGQ0YmY1NWUwY2MwZGRm`
+Snapshot ID: `MCxkYTRmYTE4MTNiYzRhNGY5OWNmMjkwYWVmYzI2ZTI3ZjUyNTZjNTdh`

@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Wren Evans
 
-193 songs - 12 hr 22 min
+195 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2022-05-27 | 2022-06-29 |
 | [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 | 2023-02-23 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2022-07-05 | 2022-11-26 |
+| [Call Me](https://open.spotify.com/track/08GUMwJRpisuxHGyRzoSuu) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Call Me](https://open.spotify.com/album/7cyQGqqV7M5XxCJimEjX0j) | 3:34 | 2023-08-17 |  |
 | [Cho Ngày Không Còn Nhau](https://open.spotify.com/track/2bRouRW1FbegiYbDVcoscf) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Cho Ngày Không Còn Nhau](https://open.spotify.com/album/5wRyEOHa0HIrWF20N24D5g) | 3:57 | 2022-05-27 | 2023-02-01 |
 | [Chuyện Rằng](https://open.spotify.com/track/3VOeGtJwJh2jslvQAFaaEn) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chuyện Rằng](https://open.spotify.com/album/4LCUSz7bnPTF3IKerCv308) | 4:32 | 2022-05-27 | 2022-06-23 |
 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 | 2022-05-27 |  |
@@ -116,6 +117,7 @@
 | [Người Lạ Trong Danh Bạ \(feat\. Phuc Du\)](https://open.spotify.com/track/7jbnA8sL3dpOYRrFrVURf0) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Người Lạ Trong Danh Bạ \(feat\. Phuc Du\)](https://open.spotify.com/album/58VYZEMuhqP4PPhQCqzbjR) | 3:42 | 2023-05-28 | 2023-07-06 |
 | [NGƯỜI YÊU XỊN SÒ](https://open.spotify.com/track/4kRIgp08tpU6i2rgK5jxge) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [NGƯỜI YÊU XỊN SÒ](https://open.spotify.com/album/2zTp7nLM1CRb51E8WMSimC) | 2:59 | 2023-02-20 | 2023-03-06 |
 | [Người Ôm Pháo Hoa](https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Người Ôm Pháo Hoa](https://open.spotify.com/album/46D47ArgMXMIF13u0nFWTk) | 2:59 | 2023-04-27 | 2023-05-26 |
+| [người điên](https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:27 | 2023-08-17 |  |
 | [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 | 2023-07-05 | 2023-08-08 |
 | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y) | 3:12 | 2023-01-06 |  |
 | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/track/4MZkrUWN2C0dhc7Xn1LPug) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/album/4JjTQrduYfwIza24mYYZVv) | 2:52 | 2022-06-28 | 2022-07-12 |

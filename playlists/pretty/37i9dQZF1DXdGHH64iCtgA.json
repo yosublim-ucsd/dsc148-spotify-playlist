@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 65407,
+  "num_followers": 65451,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj",
+  "snapshot_id": "MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "I Feel Fantastic",
-        "url": "https://open.spotify.com/album/1imBqh217L161tQk9OUeWK"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I Feel Fantastic",
-      "url": "https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "I Feel Fantastic",
+        "url": "https://open.spotify.com/album/1imBqh217L161tQk9OUeWK"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I Feel Fantastic",
+      "url": "https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 155758,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Controller",
         "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 208460,
       "name": "Controller",
       "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Pain In The Ass",
-        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "Pain In The Ass - Original Mix",
-      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 267666,
       "name": "Little Fluffy Clouds",
       "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Pain In The Ass",
+        "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 400373,
+      "name": "Pain In The Ass - Original Mix",
+      "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1015,26 +1015,6 @@
       "duration_ms": 228480,
       "name": "Pick Up - Even Shorter Version",
       "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "Bara Nova",
-          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
-        }
-      ],
-      "duration_ms": 334586,
-      "name": "My Lullaby for You",
-      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1107,22 +1087,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Bromance #1 - Single",
-        "url": "https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt"
+        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
       },
       "artists": [
         {
-          "name": "Brodinski",
-          "url": "https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK"
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
         },
         {
-          "name": "Louisahhh",
-          "url": "https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW"
+          "name": "Bara Nova",
+          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
         }
       ],
-      "duration_ms": 311272,
-      "name": "Let the Beat Control Your Body",
-      "url": "https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP"
+      "duration_ms": 334586,
+      "name": "My Lullaby for You",
+      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1139,6 +1119,26 @@
       "duration_ms": 306118,
       "name": "Thank God I'm A Lizard",
       "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bromance #1 - Single",
+        "url": "https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt"
+      },
+      "artists": [
+        {
+          "name": "Brodinski",
+          "url": "https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK"
+        },
+        {
+          "name": "Louisahhh",
+          "url": "https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW"
+        }
+      ],
+      "duration_ms": 311272,
+      "name": "Let the Beat Control Your Body",
+      "url": "https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Fuck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "Fuck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Fuck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 244499,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        }
-      ],
-      "duration_ms": 244499,
-      "name": "The Ghost",
-      "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "LOFF IS ALL YOU SPEED",
-        "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        },
-        {
-          "name": "Sita Abellan",
-          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
-        }
-      ],
-      "duration_ms": 183936,
-      "name": "LOFF IS ALL YOU SPEED",
-      "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
         "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 642653,
       "name": "Silhouettes (I, II, III)",
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "LOFF IS ALL YOU SPEED",
+        "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "Sita Abellan",
+          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
+        }
+      ],
+      "duration_ms": 183936,
+      "name": "LOFF IS ALL YOU SPEED",
+      "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
     },
     {
       "added_at": "2023-07-07 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,428 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,752 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 43 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
 | 44 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 | 45 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 |
-| 46 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
-| 47 | [Don't Stand So Close To Me](https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:02 |
+| 46 | [Don't Stand So Close To Me](https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:02 |
+| 47 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 48 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 |
 | 49 | [Heat Of The Moment](https://open.spotify.com/track/1nmZ8yqKkfooOuYvtFctDp) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 3:47 |
 | 50 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:45 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 88 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 89 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
 | 90 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
-| 91 | [Roam](https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 4:55 |
-| 92 | [Mr\. Roboto](https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Kilroy Was Here](https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6) | 5:28 |
-| 93 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Idolize Yourself: The Very Best Of Billy Idol](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |
+| 91 | [Mr\. Roboto](https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Kilroy Was Here](https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6) | 5:28 |
+| 92 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Idolize Yourself: The Very Best Of Billy Idol](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |
+| 93 | [Roam](https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 4:55 |
 | 94 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 |
 | 95 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 | 96 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 99 | [In Your Eyes \- 2012 Remaster](https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:30 |
 | 100 | [Vacation](https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Vacation](https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0) | 2:59 |
 
-Snapshot ID: `MCxiYmY0YWEyMWUxODY1NWVjODJkYzNlNGJjMmRjNTc1OTEyMzIwZDNh`
+Snapshot ID: `MCxjNWZmMjFmNzZmZTM1MDEwYTA2Y2QzYWM3OWQ5N2Y3MTFjMDc4MTlk`

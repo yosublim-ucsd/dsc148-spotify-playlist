@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,859 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,954 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Playing Fiction](https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Great Heights & Nosedives](https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx) | 2:40 |
 | 100 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 |
 
-Snapshot ID: `MCxhNjE5MmQ5YmE3NzA0YjMwNGNhZjM1MzYxNjJmMTI3ODNmNGM4ZjRk`
+Snapshot ID: `MCw1MDNjZTIwYzdlYjVhYWYzYjdhZjBkMzQ4MDNmZjRjNDEyZTMzNTg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: A\. G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,780 likes - 101 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,045 likes - 101 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 8 | [every minute](https://open.spotify.com/track/3lQUZQQeLhQWeos7DbfB5B) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [every minute](https://open.spotify.com/album/2FwqkC9quZSOFD2NDLHbZF) | 2:13 |
 | 9 | [halo](https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [halo](https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M) | 3:03 |
 | 10 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
-| 11 | [remedy](https://open.spotify.com/track/4EIqHD0JXTORIeImuvvDI4) | [DESTROY BORING](https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [place4us](https://open.spotify.com/album/2VxNzf5TZoiTCgTlhwBoLD) | 3:11 |
+| 11 | [remedy](https://open.spotify.com/track/4EIqHD0JXTORIeImuvvDI4) | [DESTROY BORING](https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [place4us](https://open.spotify.com/album/2VxNzf5TZoiTCgTlhwBoLD) | 3:11 |
 | 12 | [drywall](https://open.spotify.com/track/2l2TH1JBclFldTIvs8Usi7) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m), [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [molecule](https://open.spotify.com/album/1sZhAMSxyVfitDVgv0xFuX) | 2:28 |
 | 13 | [American Terrorist](https://open.spotify.com/track/0CUkBj6wxcdUaB0K94frjT) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [American Terrorist](https://open.spotify.com/album/5eHaILhsj8cjHNb8PNOnMU) | 2:38 |
 | 14 | [buffalo '66](https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [the end](https://open.spotify.com/album/3yAtabXHQMk1uJ9tqaCDDL) | 2:36 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 27 | [dui](https://open.spotify.com/track/3RLI8S7KpEZs4SqePGjM2R) | [estelle allen](https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4) | [music 2](https://open.spotify.com/album/3mtpXUqqBnIkbEM9xauIRL) | 1:40 |
 | 28 | [Whatsername](https://open.spotify.com/track/4RAzZIVzqlF1kyOeXW3A4k) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [NoTrust](https://open.spotify.com/artist/0r3DnVZSyBB3P5UbYom47D) | [Whatsername](https://open.spotify.com/album/2RY35Nrcr5Q0taKn6dcwbQ) | 3:46 |
 | 29 | [why did we fall in love](https://open.spotify.com/track/4EMDeNLmnBDAjFWWDkRRbE) | [Psych](https://open.spotify.com/artist/0FUZiCIWR6cku5kKstgvrE) | [why did we fall in love](https://open.spotify.com/album/0c5kS0gnliws76WBAMxtUt) | 2:02 |
-| 30 | [Bizarre](https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre](https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs) | 2:43 |
+| 30 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs) | 2:43 |
 | 31 | [Up ∩^ω^∩](https://open.spotify.com/track/0tKTLYPrzgAyTLtSI7rIt9) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [CANDY+](https://open.spotify.com/album/1BZkcT5JJxS23VPL6zWqpd) | 3:29 |
 | 32 | [PROTECTION CHARM](https://open.spotify.com/track/5TTQ10ijO4jwCOfeCxmBmm) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [PROTECTION CHARM](https://open.spotify.com/album/72s2UUBqry4E113Txcp5o8) | 2:57 |
 | 33 | [sippin' drank](https://open.spotify.com/track/5z3eSt81RdTY4e9ZFozrb5) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Wenext](https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw) | [sippin' drank](https://open.spotify.com/album/3tCmrlzxUvLHfah3AS0nv5) | 2:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 100 | [FUMD](https://open.spotify.com/track/3cXAJVliJ6H19KpHUvNCd4) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FUMD](https://open.spotify.com/album/1v5W6yDZc3rlmcXSzTZNhb) | 2:20 |
 | 101 | [My Brain is Lasers](https://open.spotify.com/track/6d4cXluehWd5F0OBqjTt8K) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [SPRINKLES!: A.M\. Block](https://open.spotify.com/album/3ky1eVuWvfAbx4s9pPPfcV) | 2:32 |
 
-Snapshot ID: `MCxlZmZjMDVlM2JhYWJmOWExYWJlMDdlNzNmOTRkZTAyMGJkOTNmMjBk`
+Snapshot ID: `MCw0ZDY4YTczYjQ3M2M3NzhhNWFmZjIxYjkyMWYwMTIxM2E3YmFhYjA5`

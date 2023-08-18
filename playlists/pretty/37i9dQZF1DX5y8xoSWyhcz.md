@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,844 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,902 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Uncall It](https://open.spotify.com/track/2Tc7PJ7DpTL7zWE6hgvGB2) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/0syrwMCuSIKaBxQMjOB4oj) | 2:36 |
 | 125 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 |
 
-Snapshot ID: `MCwwYzIyYmM5MjhjZjhjN2RjNmQ2NmEzYjQ3ZjAyN2Q2YmVlZmRkYzc3`
+Snapshot ID: `MCxhOGQwMzRmZGViZDk5NTM4MjlhMGVjMWY3YzAyMWMyZGI4NDJkYjY3`

@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Acide",
+        "url": "https://open.spotify.com/album/0UjOOxQqX2guMInZQUUIsh"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159047,
+      "name": "Acide",
+      "url": "https://open.spotify.com/track/5OEKWNC6VYU1Hpc48YdgBj"
+    },
+    {
+      "album": {
         "name": "Act Up",
         "url": "https://open.spotify.com/album/1j8faQ7w6rOUUMZIJek2g9"
       },
@@ -8820,7 +8838,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 154285,
       "name": "Stack",
       "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"

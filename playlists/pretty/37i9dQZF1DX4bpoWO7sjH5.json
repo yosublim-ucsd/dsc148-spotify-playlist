@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 31817,
+  "num_followers": 31812,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy",
+  "snapshot_id": "MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl",
   "tracks": [
     {
       "added_at": "2022-12-10 23:01:18",
@@ -571,38 +571,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Hosanna (Naci\u00f3 el Salvador)",
-        "url": "https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 233578,
-      "name": "Hosanna - Naci\u00f3 el Salvador",
-      "url": "https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "A Bel\u00e9n Yo Voy",
-        "url": "https://open.spotify.com/album/1uIn8fOT0kUAboB8F938hh"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
-        }
-      ],
-      "duration_ms": 155728,
-      "name": "A Bel\u00e9n Yo Voy",
-      "url": "https://open.spotify.com/track/0Ge41eLiYuBbdMxaid75f3"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Navidad Con V\u00e1stago, Vol. 2",
         "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 217040,
       "name": "Un Cuento De Navidad",
       "url": "https://open.spotify.com/track/5xbCClguvpKvtwp03NIIsh"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "A Bel\u00e9n Yo Voy",
+        "url": "https://open.spotify.com/album/1uIn8fOT0kUAboB8F938hh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "duration_ms": 155728,
+      "name": "A Bel\u00e9n Yo Voy",
+      "url": "https://open.spotify.com/track/0Ge41eLiYuBbdMxaid75f3"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Hosanna (Naci\u00f3 el Salvador)",
+        "url": "https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 233578,
+      "name": "Hosanna - Naci\u00f3 el Salvador",
+      "url": "https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Lleg\u00f3 La Navidad",
-        "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 179895,
-      "name": "Jes\u00fas Naci\u00f3",
-      "url": "https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Navidad Vol. 1",
         "url": "https://open.spotify.com/album/11906jCVhIBhj5s5dBxQYb"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 175661,
       "name": "Al mundo paz",
       "url": "https://open.spotify.com/track/5rwDCjAAaUSqCs5IjYIaid"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Lleg\u00f3 La Navidad",
+        "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 179895,
+      "name": "Jes\u00fas Naci\u00f3",
+      "url": "https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "En Navidad",
-        "url": "https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Rodriguez",
-          "url": "https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad",
-      "url": "https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Santa la Noche",
         "url": "https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 215131,
       "name": "Navidad Perfecta",
       "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "En Navidad",
+        "url": "https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Rodriguez",
+          "url": "https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad",
+      "url": "https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
+        "name": "Tiempo de Navidad",
+        "url": "https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP"
       },
       "artists": [
         {
-          "name": "Riosquad",
-          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
+      "duration_ms": 247811,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj"
     }
   ],
   "unique_name": "Navidad Cristiana",

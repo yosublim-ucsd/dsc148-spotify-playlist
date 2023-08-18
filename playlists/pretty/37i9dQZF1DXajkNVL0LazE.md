@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,189 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,335 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 59 | [Special Death](https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC) | 2:32 |
 | 60 | [The Wrote & The Writ](https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [A Larum](https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih) | 4:07 |
 | 61 | [Ready, Able](https://open.spotify.com/track/5mIbLV3Aa4NcQDgMY4XgCT) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:17 |
-| 62 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
-| 63 | [Sons & Daughters](https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The Crane Wife](https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp) | 5:13 |
-| 64 | [Kettering](https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Hospice](https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD) | 5:11 |
+| 62 | [Kettering](https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Hospice](https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD) | 5:11 |
+| 63 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
+| 64 | [Sons & Daughters](https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The Crane Wife](https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp) | 5:13 |
 | 65 | [Something To Talk About](https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 3:40 |
 | 66 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 |
 | 67 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [If I Were](https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Lookaftering](https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n) | 2:15 |
 | 100 | [He Lays In The Reins](https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In The Reins](https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921) | 3:43 |
 
-Snapshot ID: `MCwyZGM4NTJhZWJiNTViMTAzNTAwMDgwYzM3ZDk0ZTMyMzQ1NmIwOTg1`
+Snapshot ID: `MCw5NTg5ZmFmMTliMDMzOTRmNDA0Y2JlNmZmZmUwNDYyMzMxYmQ1MGFm`

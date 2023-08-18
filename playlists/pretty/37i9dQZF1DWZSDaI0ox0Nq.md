@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,345 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,353 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 11 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 |
 | 12 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 13 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |
-| 14 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
+| 14 | [Tu Corazón](https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP) | [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln), [Donato Racciatti y Su Orquesta Típica](https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t) | [Tu Corazón](https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO) | 2:28 |
 | 15 | [Los Mareados](https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Tangos de Lengue](https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH) | 3:08 |
-| 16 | [Tu Corazón](https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP) | [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln), [Donato Racciatti y Su Orquesta Típica](https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t) | [Tu Corazón](https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO) | 2:28 |
+| 16 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
 | 17 | [Atenti pebeta](https://open.spotify.com/track/4aLT7Jg103QAoZI9K3cS5I) | [La Fulana Tango](https://open.spotify.com/artist/0A4dBvTbLRuAFzBmiOhepA) | [Atenti pebeta](https://open.spotify.com/album/4Dvuv4RNoWSiv0kUQcpoCp) | 2:50 |
 | 18 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
 | 19 | [Arrabalera](https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Tita De Buenos Aires](https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP) | 2:16 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 |
 | 55 | [Mano a Mano](https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Puñal de Sombra](https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh) | 3:33 |
 
-Snapshot ID: `MCw3NWMyMzA3YTVhNDk0YTJjYWQ3ODZlMzZjZDQ1MjMxY2E3MjFhMzRm`
+Snapshot ID: `MCw5MTM4MGFhNTI4YTVhNGU2MDJiMTMwM2U3ZGIyMDA4ZjJkZThlMDYx`

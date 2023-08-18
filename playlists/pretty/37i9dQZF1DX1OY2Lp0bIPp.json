@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 654032,
+  "num_followers": 654020,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmVjODFhNWJjZjQ5ODdkNjJiZWRjYWY5ZmRiMjQwZTI0ZDk5ZjQ1",
+  "snapshot_id": "MCwyYTk0ZDE2NzdlYjY1NDdlYjAwYTZjZDg2ODY4MDZjYjY0MjFjMzkz",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -111,22 +111,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -851,6 +851,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 193920,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -939,6 +939,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217984,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "#3",
         "url": "https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 202533,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2020-08-27 15:58:21",

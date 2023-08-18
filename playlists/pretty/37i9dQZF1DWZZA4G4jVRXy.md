@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,746 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,796 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 15 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
 | 16 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
 | 17 | [Underlay No.3](https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5) | [Jack Trombey](https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v) | 4:02 |
-| 18 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
-| 19 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
+| 18 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
+| 19 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
 | 20 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
 | 21 | [Song Of Old Hawaii](https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7) | [George de Fretes and his Royal Hawaiian Minstrels](https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M) | [The Home Recordings Vol\. 1](https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4) | 3:31 |
 | 22 | [So Nice \(Samba De Verao\) \- Remastered](https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO) | [Wanda De Sah](https://open.spotify.com/artist/53fV7ZIDRHAnZyHYAszLki), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Ultra\-Lounge: Bossa Novaville](https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM) | 2:17 |
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 67 | [Conjuration](https://open.spotify.com/track/09VEnlRzGS48WD5TCHzQqj) | [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [Voodoo!](https://open.spotify.com/album/4BDEbzbpRICKqfIqHZVdNq) | 2:22 |
 | 68 | [Xtabay \- Remastered](https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [The Best of Yma Sumac \(All Tracks Remastered 2014\)](https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF) | 3:21 |
 | 69 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 |
-| 70 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
-| 71 | [Bim\-Boo](https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP) | [Chaino](https://open.spotify.com/artist/6odPRDb7fKDOFYPZQvEQlp) | [Kirby Allen Presents: Eye Of The Spectre](https://open.spotify.com/album/5n6we7GWIrbonq6GeKWOkO) | 3:27 |
-| 72 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |
-| 73 | [Ringo Oiwake](https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1) | [Ethel Azama](https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV) | [Cool Heat + Exotic Dreams](https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK) | 2:34 |
-| 74 | [Sweet Leilani](https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2) | [Lawrence Welk & His Orchestra](https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R) | [Songs Of The Islands](https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x) | 2:18 |
+| 70 | [Sweet Leilani](https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2) | [Lawrence Welk & His Orchestra](https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R) | [Songs Of The Islands](https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x) | 2:18 |
+| 71 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
+| 72 | [Bim\-Boo](https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP) | [Chaino](https://open.spotify.com/artist/6odPRDb7fKDOFYPZQvEQlp) | [Kirby Allen Presents: Eye Of The Spectre](https://open.spotify.com/album/5n6we7GWIrbonq6GeKWOkO) | 3:27 |
+| 73 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |
+| 74 | [Ringo Oiwake](https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1) | [Ethel Azama](https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV) | [Cool Heat + Exotic Dreams](https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK) | 2:34 |
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCw0MDBkMGQ4MjVjN2JhZjVjMTM2MDEwOGM4NWE1OTRiMTFiZDhhZTZm`
+Snapshot ID: `MCw3YWFjNGFhZTRmZmRjMjExMjViZDY2ZjA4OGFlZjVmZmFkZTRjODRh`

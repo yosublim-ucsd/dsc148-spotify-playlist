@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,784,884 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785,784 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 21 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
 | 22 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
 | 23 | [Give Me Everything \(feat\. Ne\-Yo, Afrojack & Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 |
-| 24 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
-| 25 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
+| 24 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 |
+| 25 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 26 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 27 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 |
 | 28 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 49 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 50 | [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 |
 
-Snapshot ID: `MCxkM2QwMDE2YmJiMmJiZTI0YTQ1MmFiNGExMjYxZDMyOTE2OTk4ZTAx`
+Snapshot ID: `MCw2Zjk0OTBmZGMzMDk2ZTlmNTYxYWM4MTE3ZmU0NjU2Mjc5NGQyNTg0`

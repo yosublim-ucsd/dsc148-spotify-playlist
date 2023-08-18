@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,605 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,688 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 31 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 |
 | 32 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
 | 33 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 |
-| 34 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
-| 35 | [Dead in the Water](https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE) | [SPELLES](https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY) | [Dead in the Water](https://open.spotify.com/album/5MhrlWBZnRVQrTIRzKkElX) | 3:09 |
+| 34 | [Dead in the Water](https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE) | [SPELLES](https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY) | [Dead in the Water](https://open.spotify.com/album/5MhrlWBZnRVQrTIRzKkElX) | 3:09 |
+| 35 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 36 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 |
 | 37 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
 | 38 | [The Dark](https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Dark](https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06) | 3:01 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 41 | [You](https://open.spotify.com/track/4RAtSYcB1avIFHPhulXVxA) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [You](https://open.spotify.com/album/0tSfnn1iUiahyqp1m8y3TI) | 3:15 |
 | 42 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
 | 43 | [Dark River](https://open.spotify.com/track/34Kfv0tlD4bbv3f1Hvau79) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:24 |
-| 44 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
-| 45 | [Nightmare Machine](https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv) | [Olivia Reid](https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1) | [Nightmare Machine](https://open.spotify.com/album/7l3bigwzunjgakr32KbRns) | 4:19 |
+| 44 | [Nightmare Machine](https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv) | [Olivia Reid](https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1) | [Nightmare Machine](https://open.spotify.com/album/7l3bigwzunjgakr32KbRns) | 4:19 |
+| 45 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 |
 | 46 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 |
 | 47 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
 | 48 | [Let You Let Me Down](https://open.spotify.com/track/7KK4Fhe0GpGIQk2QqWWYaG) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 3:07 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 61 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
 | 62 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
 | 63 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
-| 64 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
-| 65 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
-| 66 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
-| 67 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
+| 64 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
+| 65 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
+| 66 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
+| 67 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
 | 68 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 69 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
 | 70 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 |
 
-Snapshot ID: `MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0`
+Snapshot ID: `MCw0MTAyZjlkN2JhNTQ4NTJhMTcxODM2YTA5ZWRkNDgxMWZhMjE1NGRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Davi Sacer, Simone
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,689 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,970 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCxkMzU1Y2YzYzljY2RjODc4ZGFkOGRkYjJjNGIzYmM4MzFiYTU1YTgx`
+Snapshot ID: `MCxiMWQzZDYxNjEzOGIyZTk2Y2M2YWEzYTdjNDc4MzlkMTJjNzZkZDNm`

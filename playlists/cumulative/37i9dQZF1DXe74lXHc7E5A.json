@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Travis Scott",
+  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Giggs",
   "name": "Hype List",
   "tracks": [
     {
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
@@ -2573,6 +2573,28 @@
     },
     {
       "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243883,
+      "name": "Incredible Sauce (feat. Dave)",
+      "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
+    },
+    {
+      "album": {
         "name": "INTERMISSION",
         "url": "https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7"
       },
@@ -2962,7 +2984,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 155204,
       "name": "Lavida Loca",
       "url": "https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg"
@@ -5522,6 +5544,28 @@
       "duration_ms": 144545,
       "name": "WDGAF (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/5E24FVNvb8mXpBAySTTr24"
+    },
+    {
+      "album": {
+        "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143692,
+      "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU"
     },
     {
       "album": {

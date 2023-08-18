@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 16345,
+  "num_followers": 16353,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWMyMzA3YTVhNDk0YTJjYWQ3ODZlMzZjZDQ1MjMxY2E3MjFhMzRm",
+  "snapshot_id": "MCw5MTM4MGFhNTI4YTVhNGU2MDJiMTMwM2U3ZGIyMDA4ZjJkZThlMDYx",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -239,18 +239,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        },
+        {
+          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
         }
       ],
-      "duration_ms": 183177,
-      "name": "Villa Crespo",
-      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
+      "duration_ms": 148293,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -271,22 +275,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
       "artists": [
         {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        },
-        {
-          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 148293,
-      "name": "Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
+      "duration_ms": 183177,
+      "name": "Villa Crespo",
+      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
     },
     {
       "added_at": "2023-08-11 14:55:17",

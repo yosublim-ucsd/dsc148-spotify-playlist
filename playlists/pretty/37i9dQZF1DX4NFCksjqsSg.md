@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,895 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,904 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 56 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
 | 57 | [Comment j'pourrais te l'dire](https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Marie\-Chantal Toupin](https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs) | 3:52 |
 | 58 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 |
-| 59 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
-| 60 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 |
+| 59 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 |
+| 60 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
 | 61 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 |
 | 62 | [Victoire \- Radio Edit](https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Victoire \(Radio Edit\)](https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6) | 3:16 |
-| 63 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
-| 64 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
-| 65 | [Lavez, lavez](https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Caribou](https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE) | 3:26 |
-| 66 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
+| 63 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
+| 64 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
+| 65 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
+| 66 | [Lavez, lavez](https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Caribou](https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE) | 3:26 |
 | 67 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
 | 68 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
 | 69 | [Un souvenir heureux](https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs) | [Les grands succès de Diane Dufresne](https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 75 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 
-Snapshot ID: `MCxjODI1ZDU0ZmU4YTU0OTg2NWFkNzEzNDZjNTEyZjc5NGRhMjk2N2Nk`
+Snapshot ID: `MCw0YzExNWM3NzE4ZWM3YzdlN2M1NDQ3YjAyOTFhY2U1YTMxMThiMjBj`

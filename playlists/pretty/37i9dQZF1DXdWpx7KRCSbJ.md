@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,455 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,439 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 56 | [E Essa Boca Aí? \- Ao Vivo](https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE) | [Bruninho & Davi](https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX) | [Bruninho & Davi ao Vivo no Ibirapuera \(Deluxe\)](https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA) | 3:01 |
 | 57 | [12 Horas \(Ao Vivo\)](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas \(Ao Vivo\)](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
 | 58 | [O Bebê](https://open.spotify.com/track/15YEYgT0kDso9gwOcJFAmV) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [O Bebê](https://open.spotify.com/album/7J4vpR8Rl5sB7GqBIk8A8h) | 2:58 |
-| 59 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
-| 60 | [Jogo do Amor](https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Jogo do Amor](https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS) | 2:24 |
-| 61 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
-| 62 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
-| 63 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
+| 59 | [Jogo do Amor](https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Jogo do Amor](https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS) | 2:24 |
+| 60 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
+| 61 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
+| 62 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
+| 63 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
 | 64 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
 | 65 | [Coladinha em Mim \- Ao Vivo](https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Coladinha em Mim \(Ao Vivo\)](https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA) | 2:50 |
 | 66 | [A Distância Tá Maltratando](https://open.spotify.com/track/5TE7Y9ycqyglDqKPEriXdR) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [A Distância Tá Maltratando](https://open.spotify.com/album/7G059SfagKnzI5dOXhOyzN) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 | 70 | [Tudo Ok](https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Mila](https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tudo Ok](https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA) | 2:58 |
 
-Snapshot ID: `MCxiYzk0OTRkMGE5ZDhiMTUyOGYxZTBmMjdjODBmZWIzNmFkNzJlYTVm`
+Snapshot ID: `MCw5Y2M4ODQzNzUwNDUwNGI4YzExMmRlYzc4MDU2OGU2N2ExMmRkMmI4`

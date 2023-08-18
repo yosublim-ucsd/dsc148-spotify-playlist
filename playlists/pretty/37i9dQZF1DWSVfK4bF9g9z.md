@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVfK4bF9g9z.md) - [plain]
 
 > Legendary Italian DJ <a href="spotify:artist:6PozOimyS8a9OxMddMSBCf">Molella</a> delivers a mix for the ages, featuring a blend of classics and new tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,606 likes - 21 songs - 58 min 17 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,609 likes - 21 songs - 58 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVfK4bF9g9z.md) - [plain]
 | 20 | [1x1 \- Mixed](https://open.spotify.com/track/4CWtEWfBZtC4vJB81tlEOL) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1 \(Mixed\)](https://open.spotify.com/album/0fNHNL4tOQpGapjjmBCtxs) | 2:24 |
 | 21 | [My Feelings For You \- Don Diablo Remix \- Mixed](https://open.spotify.com/track/5JYT3EsGniJeQPCczfFFYk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [My Feelings For You \- Don Diablo Remix \(Mixed\)](https://open.spotify.com/album/44mL5dyf2KEWdzIu6pmFOQ) | 3:52 |
 
-Snapshot ID: `MTY4NjgzNzEwMiwwMDAwMDAwMDVkNjdmODI3MzgyNDU5MzdmNWRjYTI3ZDdiMTgzNWRj`
+Snapshot ID: `MCw2ZTg1YTk2YzRmYzJiZTcwYWE2YzFiZWJmNDQyOGE0MzZlOTIxNjQw`

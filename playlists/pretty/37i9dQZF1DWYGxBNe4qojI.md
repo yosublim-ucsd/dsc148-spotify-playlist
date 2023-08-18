@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Cam'Ron
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,469 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,713 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 39 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
 | 40 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
 | 41 | [How's It Goin' Down](https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 4:42 |
-| 42 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
-| 43 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
+| 42 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
+| 43 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 | 44 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
 | 45 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
 | 46 | [I'll Be There For You/You're All I Need To Get By \- Puff Daddy Mix](https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Tical \(Deluxe Edition\)](https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
 | 50 | [Beware](https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:15 |
 
-Snapshot ID: `MCw1NTkwZWRjYmRlMGIwYzgxNWI1YjI0MTkwZTI5YjNlZTczZmYzNDA5`
+Snapshot ID: `MCw3OGUyNjZlNjc4MWFhNTEwYmFiODQ0Mzg4MDc4MTBlMWE0MTc5NGM4`

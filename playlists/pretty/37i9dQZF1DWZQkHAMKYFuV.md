@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,255 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,288 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 45 | [¡Corre!](https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:48 |
 | 46 | [Una Lady Como Tú](https://open.spotify.com/track/5jf0PmPCHefQ78uAzqIqbj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:33 |
 | 47 | [Muerte En Hawaii](https://open.spotify.com/track/3kNVYo6BJE9AENxzokM9YC) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 3:09 |
-| 48 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
-| 49 | [Prometiste](https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 5:05 |
+| 48 | [Prometiste](https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 5:05 |
+| 49 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
 | 50 | [En Peligro de Extinción](https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:54 |
 | 51 | [Olha A Explosão](https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Olha A Explosão](https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg) | 2:42 |
 | 52 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
-| 53 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
-| 54 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
+| 53 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
+| 54 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
 | 55 | [Bella](https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [Bella](https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe) | 3:17 |
 | 56 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 |
 | 57 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 84 | [Bailar \(feat\. Elvis Crespo\) \- Radio Edit](https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 2:17 |
 | 85 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
 
-Snapshot ID: `MCxjYjVlODlhMzM1MWUzNmUyOGQ1ZThlNjA2ODAyMGI3YWYyODg4NDhj`
+Snapshot ID: `MCwwYTQ4NmFiOTRjZGZmYjVhY2IyMTNmMDRhYzAyNjllNzlmOGEyMWQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Texas' own Parker McCollum is taking over to celebrate the release of his new album "Never Enough"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,801 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,950 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 70 | [White Trash Story](https://open.spotify.com/track/6h0FOQxhnq0iqVsf0I9WsZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Casey Donahew Band](https://open.spotify.com/album/6n3Xw5SEV5i3wuLHTYr2OU) | 3:40 |
 | 71 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 |
 | 72 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
-| 73 | [She's Like Texas](https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She's Like Texas](https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au) | 3:55 |
-| 74 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 |
+| 73 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 |
+| 74 | [She's Like Texas](https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She's Like Texas](https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au) | 3:55 |
 | 75 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
 | 76 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
 | 77 | [Some Things Never Change](https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:20 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 86 | [Feet Don't Touch the Ground](https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY) | [Stoney LaRue](https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ) | 4:08 |
 | 87 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 88 | [Live Forever](https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Tramp On Your Street](https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0) | 2:49 |
-| 89 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
-| 90 | [Don't Tell Me](https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:40 |
+| 89 | [Don't Tell Me](https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:40 |
+| 90 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
 | 91 | [17](https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN) | [Cross Canadian Ragweed](https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0) | [Cross Canadian Ragweed](https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI) | 5:19 |
 | 92 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |
 | 93 | [Shine Out](https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:53 |
 | 94 | ['Til It Does](https://open.spotify.com/track/2cUR2tZlH6fAlNpIjZ9RlQ) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 1](https://open.spotify.com/album/0fEg7eJ2ev0c0UOztpxBra) | 3:36 |
 | 95 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
 | 96 | [Every Single Kiss](https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Every Single Kiss](https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr) | 3:26 |
-| 97 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
-| 98 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
+| 97 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
+| 98 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
 | 99 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
 | 100 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 |
 
-Snapshot ID: `MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk`
+Snapshot ID: `MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw`

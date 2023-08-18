@@ -1,12 +1,12 @@
 {
   "description": "what's the move?",
-  "num_followers": 1991,
+  "num_followers": 2377,
   "original_name": "Pregame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTFhNWFkZDQ3OWRiYWIxYWExNWQwNTlhOTkxOTU4Y2M3OTNhYjQ3",
+  "snapshot_id": "MCwzOGI3MmM5ZmJhOTUxYjI3MTE3ZDNhNmI3NjZmMDlkMzA5ZDE3MjQ5",
   "tracks": [
     {
       "added_at": "2023-08-10 21:02:28",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Area Codes",
-        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 139325,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -335,26 +335,18 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -375,18 +367,26 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Bound 2",
-      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 99213,
       "name": "Break from Toronto",
       "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Love Sosa",
+      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
         "name": "D\u00c1KITI",
         "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Love Sosa",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Super Bass",
+      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
-        "name": "Pink Friday (Complete Edition)",
-        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Super Bass",
-      "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
         "name": "Red Ruby Da Sleeze",
         "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1451,22 +1467,6 @@
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "added_at": "2023-08-10 21:02:28",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-08-10 21:02:28",
       "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "added_at": "2023-08-10 21:02:28",
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": "2023-08-10 21:02:28",
-      "album": {
-        "name": "Still Striving",
-        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Plain Jane",
-      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
     },
     {
       "added_at": "2023-08-10 21:02:28",

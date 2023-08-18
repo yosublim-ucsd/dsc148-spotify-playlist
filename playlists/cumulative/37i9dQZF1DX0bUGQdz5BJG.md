@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Peytan Porter
 
-1,530 songs - 3 day 9 hr 55 min
+1,531 songs - 3 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1340,7 +1340,8 @@
 | [Thrive](https://open.spotify.com/track/27KeAEjlPZKTKtEHB39zqc) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 2:41 | 2021-12-31 | 2022-01-29 |
 | [Throw It Back](https://open.spotify.com/track/6gv3rXWwTSdUhYaZqg7ueD) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Throw It Back.](https://open.spotify.com/album/55pm5t7Fd4cp8LnzfoK0wD) | 2:35 | 2023-05-19 |  |
 | [Throw You Back](https://open.spotify.com/track/4SEqC1sPuPob2qB9huDhhd) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 2:35 | 2023-04-14 |  |
-| [Tie’r Down](https://open.spotify.com/track/0r1WSDfnjhB4ljAmKm2u4C) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Tie'r Down](https://open.spotify.com/album/2UdZbgxFn36Nk1RwV1xZ90) | 3:05 | 2023-07-21 |  |
+| [Tie’r Down](https://open.spotify.com/track/0r1WSDfnjhB4ljAmKm2u4C) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Tie'r Down](https://open.spotify.com/album/2UdZbgxFn36Nk1RwV1xZ90) | 3:05 | 2023-07-21 | 2023-08-18 |
+| [Tie’r Down](https://open.spotify.com/track/7uHWlapQcirLPRHvhPyvr7) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 3:05 | 2023-08-11 |  |
 | [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 | 2022-02-04 | 2022-05-20 |
 | [Til You Called My Name](https://open.spotify.com/track/444pHKlH7CHUCi75vyDoei) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Til You Called My Name](https://open.spotify.com/album/59rs4oWLLugzgkJGMs63P9) | 3:22 | 2023-06-16 |  |
 | [Till The Day I Die](https://open.spotify.com/track/0vw4joKnhKIPtsXs49pZMY) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Till The Day I Die](https://open.spotify.com/album/6bdHj1fSswKrWorhERLB3h) | 3:58 | 2023-04-28 |  |

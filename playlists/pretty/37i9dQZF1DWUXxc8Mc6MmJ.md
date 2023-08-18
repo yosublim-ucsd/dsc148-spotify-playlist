@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,942 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,418 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 25 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 |
 | 26 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 |
 | 27 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
-| 28 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
-| 29 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |
+| 28 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |
+| 29 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 30 | [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
 | 31 | [Here Always \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 32 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [All of My Days](https://open.spotify.com/track/2RBuzNyLuV1jXU8qi84Hiy) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu) | 3:58 |
 | 50 | [If](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hong Gil Dong OST](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) | 4:25 |
 
-Snapshot ID: `MCw2NWFlYWMxZmM0MzhkNzAyZGQ0MWJlMzAyNmY0ZDkyZGVmOWNlMWQ2`
+Snapshot ID: `MCw4ZTBkNTc0OTU1NGI4Mzg2OTMwZGM3YTIzN2ZlYzY2YmViOTkyNzUz`

@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "PHENOMENAL",
+        "url": "https://open.spotify.com/album/3lV8FV4uYEP0y0yH8fzK6m"
+      },
+      "artists": [
+        {
+          "name": "Diib",
+          "url": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Ghi Lmachakil",
+      "url": "https://open.spotify.com/track/1QVsVIfgVf7L2AdfkGP9d4"
+    },
+    {
+      "album": {
         "name": "\u0664in",
         "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
       },
@@ -2221,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "I HATE SUMMER",
+        "url": "https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "SOMNIFERE",
+      "url": "https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv"
+    },
+    {
+      "album": {
         "name": "SOY MAROCCINO",
         "url": "https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI"
       },
@@ -2406,7 +2442,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 168746,
       "name": "Sur la selle",
       "url": "https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4"
@@ -2884,7 +2920,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 164883,
       "name": "\u00d8KH\u00d8WA Pt. 2",
       "url": "https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV"

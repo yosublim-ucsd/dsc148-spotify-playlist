@@ -1539,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Scene Mone (From \"RDX\")",
+        "url": "https://open.spotify.com/album/3jWqNbSWuLPtCtyIuDIpth"
+      },
+      "artists": [
+        {
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
+        },
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206335,
+      "name": "Scene Mone (From \"RDX\")",
+      "url": "https://open.spotify.com/track/0OvNPwqO7vtruEZx88qUy3"
+    },
+    {
+      "album": {
         "name": "Scoot Scoot (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 
 > Porque el asado se prende con música.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,055 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,154 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 30 | [Pupilas Lejanas](https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love](https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa) | 3:55 |
 | 31 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 |
 | 32 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 |
-| 33 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 |
+| 33 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
 | 34 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
 | 35 | [Kintsukuroi](https://open.spotify.com/track/3Ib7O0KTQOLbbnJMciknVt) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Canción mata algoritmo](https://open.spotify.com/album/4HJ1j9Aepc2OKPXDOcbug4) | 2:51 |
 | 36 | [Ese Maldito Momento](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:05 |
-| 37 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
+| 37 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 |
 | 38 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
 | 39 | [Un Poco de Amor Francés](https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:26 |
 | 40 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 72 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
 | 73 | [Bicho de Ciudad](https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Civilización](https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN) | 5:20 |
 | 74 | [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 |
-| 75 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
-| 76 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
+| 75 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
+| 76 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
 | 77 | [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 |
 | 78 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
 | 79 | [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 85 | [Creo Que Me Enamoré](https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico 5](https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky) | 3:10 |
 | 86 | [Astros](https://open.spotify.com/track/6iVP8SnhHnFNy7WYrIw1JB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:12 |
 | 87 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
-| 88 | [Mujer Amante \- Vivo](https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:17 |
-| 89 | [Como Alí](https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx) | 3:31 |
+| 88 | [Como Alí](https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx) | 3:31 |
+| 89 | [Mujer Amante \- Vivo](https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:17 |
 | 90 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:21 |
 | 91 | [Antes y Después](https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:02 |
 | 92 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
 | 93 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 94 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
-| 95 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |
-| 96 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/291JIUH9vV7qveI5F3n8JQ) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Otras Canciones](https://open.spotify.com/album/7puiKW3huokZs5qtYK4o0K) | 3:48 |
-| 97 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
-| 98 | [La Calle Es Su Lugar](https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Vol I](https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s) | 4:26 |
-| 99 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 |
+| 94 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 |
+| 95 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
+| 96 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |
+| 97 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/291JIUH9vV7qveI5F3n8JQ) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Otras Canciones](https://open.spotify.com/album/7puiKW3huokZs5qtYK4o0K) | 3:48 |
+| 98 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
+| 99 | [La Calle Es Su Lugar](https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Vol I](https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s) | 4:26 |
 | 100 | [Encendedor](https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [El camino de la libertad](https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1) | 3:40 |
 
-Snapshot ID: `MCxmYmIyMzljZjI2MmY1Njg3NjQ0NjUxODczYTZkODc4YjRmNjc2NTAw`
+Snapshot ID: `MCwzY2VkMThhNWUyMTk1ZjllOGE2ZWZlZDcxOTM1ZDZlMWIxMzNkMDgy`

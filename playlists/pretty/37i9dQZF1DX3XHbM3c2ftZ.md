@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | 2 | [I Love You Daddy](https://open.spotify.com/track/0JUMkRana9MTtoyzBEIcjr) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 1:42 |
 | 3 | [Daddy Daughter Day](https://open.spotify.com/track/0SPiUBGdCz37xKl3CzCwei) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [J Gunn](https://open.spotify.com/artist/4YlGNqY6XyHNkQEMLlYBG9) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 3:15 |
 | 4 | [Cody's Father And Son Day](https://open.spotify.com/track/3pIr7dWddZ7x3l9u6m6VGE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 2:54 |
-| 5 | [Dad Jokes](https://open.spotify.com/track/4P2DCTzjAs1IHAD82yT3dg) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:01 |
+| 5 | [Dad Jokes](https://open.spotify.com/track/4P2DCTzjAs1IHAD82yT3dg) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:01 |
 | 6 | [Dear Old Dad](https://open.spotify.com/track/1o4hp0Rm5xST4llL6xuXSM) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w) | 2:30 |
 | 7 | [A Sky Full of Stars](https://open.spotify.com/track/2VeLdiYiILcCOEV0izfzEW) | [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:26 |
 | 8 | [Cool Dad](https://open.spotify.com/track/6TKG8t6wMW7xwPz89IVDlF) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P), [Billy B](https://open.spotify.com/artist/6q22S1wbS1Eg7NbOQVA04o) | [Cool Dad](https://open.spotify.com/album/4Gn2D9bQMnETCm9SbQrX34) | 1:36 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | 37 | [That's What Dads Are For](https://open.spotify.com/track/6OGvN8SQuFS7tgEddBBA27) | [Madaline Garcia](https://open.spotify.com/artist/3TV0dL70cwRcE7VxCYCfdm), [Michael Farren](https://open.spotify.com/artist/0KL1tXshbivm72a4PAWUjF) | [That's What Dads Are For](https://open.spotify.com/album/5afeQKHZfZcRCvMcdiQles) | 4:11 |
 | 38 | [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 2:03 |
 
-Snapshot ID: `MCw2YzMwMzdkYTBmOTdkZjlkZTg5NTc0OGIxODY5MWIwMjg3YWYxMjQ0`
+Snapshot ID: `MCwyYTgzZGJjOTc4OWNmM2IwYzBlZDVlMmQwZDllMWFjODMyMmRkYjI3`

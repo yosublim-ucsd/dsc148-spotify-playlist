@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-236 songs - 18 hr 46 min
+237 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-24 |  |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 | 2023-02-02 |
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2022-09-21 |  |
+| [Calico](https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [kanashī](https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp) | 4:51 | 2023-08-17 |  |
 | [Canone Infinito](https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito](https://open.spotify.com/album/6tbfwIkDEdGOURCQ2vMvYC) | 4:59 | 2021-10-15 | 2022-02-10 |
 | [Central Airport](https://open.spotify.com/track/2Lpy9IYrfMlWjWkugU2gdJ) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [BLESS Vol\. 2](https://open.spotify.com/album/0rXue3LLSLUXoMatPLmxuU) | 3:38 | 2021-10-15 | 2022-01-20 |
 | [Chaos Energy](https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/2uEgm3sxH1gHPPHGcjvJXc) | 5:13 | 2022-06-08 | 2022-07-16 |
@@ -210,7 +211,7 @@
 | [The Sequences](https://open.spotify.com/track/3JT33da3jtbOdtvsl62vo5) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Sequences](https://open.spotify.com/album/3K4iHalnCDvOoPOrpelvNI) | 3:44 | 2021-10-15 | 2022-01-15 |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK) | 4:30 | 2021-10-15 | 2022-01-22 |
 | [These Knits](https://open.spotify.com/track/1LYTKsBMfk7BNnajMRW3rH) | [Viggo Dyst](https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2) | [These Knits](https://open.spotify.com/album/4STTtWgMkdjmSnFTsJO5N6) | 5:48 | 2022-05-13 | 2022-09-22 |
-| [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-05-09 |  |
+| [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-05-09 | 2023-08-18 |
 | [TIOLI](https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb) | 4:38 | 2022-04-22 |  |
 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 | 2022-04-22 | 2023-08-12 |
 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2022-09-15 | 2023-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,879 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,205 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 49 | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui) | 2:59 |
 | 50 | [Vino Tinto](https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:51 |
 | 51 | [Niña Bonita](https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Niña Bonita](https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA) | 4:23 |
-| 52 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
+| 52 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
 | 53 | [Anhelos](https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Anhelos](https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy) | 3:42 |
 | 54 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 | 55 | [Lo Que Construimos](https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lo Que Construimos](https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M) | 3:28 |
 | 56 | [Quién Dice](https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Quién Dice](https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK) | 3:45 |
-| 57 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
+| 57 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
 | 58 | [Solo Aquí](https://open.spotify.com/track/7N3XV7eGhrnJLpghBEA15n) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 3:02 |
 | 59 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
 | 60 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 65 | [Es Verdad](https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Es Verdad](https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX) | 2:41 |
 | 66 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 |
 | 67 | [Elefante Rosado](https://open.spotify.com/track/0N4BGb7WrI2INcxrxRbnNG) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:12 |
-| 68 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 |
-| 69 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
-| 70 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
-| 71 | [Vete a la Chingada](https://open.spotify.com/track/2Eyhp0Y1c27MJPJNEVLs9n) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más > :\-\(](https://open.spotify.com/album/5wfGJBe1sQ4XbuL2fs0tkz) | 3:07 |
+| 68 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
+| 69 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 |
+| 70 | [Vete a la Chingada](https://open.spotify.com/track/2Eyhp0Y1c27MJPJNEVLs9n) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más > :\-\(](https://open.spotify.com/album/5wfGJBe1sQ4XbuL2fs0tkz) | 3:07 |
+| 71 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
 | 72 | [Despedida](https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Despedida](https://open.spotify.com/album/3SDScjJ7O8Vt3lXEf4JwSS) | 2:38 |
 | 73 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
 | 74 | [Si Nos Dejan](https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Si Nos Dejan](https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
 | 80 | [Al Final](https://open.spotify.com/track/6YwQwgNUvquozKP41xGmRs) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 3:17 |
 
-Snapshot ID: `MCwxZTVmZWY5MWM5ODI1ZmM2M2RkMjUyZTNkMjhhYTlhYWU2NmYyN2I3`
+Snapshot ID: `MCwyNTYyNWUyZGQzMzBhY2ZjNDM5YTAxMDMxMWI2MDIyM2IzOGQ5OTRk`

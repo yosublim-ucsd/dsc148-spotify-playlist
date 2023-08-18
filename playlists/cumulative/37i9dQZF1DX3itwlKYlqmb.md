@@ -4,7 +4,7 @@
 
 > Celebremos el amor con un buen pachangón.
 
-127 songs - 7 hr 50 min
+128 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 | 2023-01-16 |  |
 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 | 2023-01-16 |  |
 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 | 2023-01-16 |  |
-| [Sangoloteadito](https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido de Amores](https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST) | 3:02 | 2023-01-16 |  |
+| [Sangoloteadito](https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido de Amores](https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST) | 3:02 | 2023-01-16 | 2023-08-18 |
 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 | 2023-01-16 |  |
 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2023-01-16 |  |
 | [Tan Bella y Tan Presumida](https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida](https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici) | 3:01 | 2023-01-16 |  |
@@ -116,6 +116,7 @@
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2023-01-16 |  |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2023-01-16 |  |
 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 | 2023-01-16 |  |
+| [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoría](https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 | 2023-01-16 |  |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2023-01-16 |  |
 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-01-16 |  |
 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 | 2023-01-16 |  |

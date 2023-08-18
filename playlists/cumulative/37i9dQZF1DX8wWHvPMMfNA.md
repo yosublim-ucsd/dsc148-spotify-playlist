@@ -4,7 +4,7 @@
 
 > 
 
-591 songs - 1 day 14 hr 11 min
+592 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Anything Valuable](https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Anything Valuable](https://open.spotify.com/album/5WmYl5Ty01xWXOGBFndMcu) | 3:00 | 2023-08-10 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2023-06-01 |  |
 | [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 |  |
+| [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-17 |  |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-06-01 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-11-11 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-11-11 |  |
@@ -160,7 +161,7 @@
 | [Far Away](https://open.spotify.com/track/2ZHa8rERyPepL1OpQAtpMj) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Far Away](https://open.spotify.com/album/5CVFwTeaHhFg1d3fbJEruV) | 4:24 | 2023-06-01 |  |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-16 |  |
 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 | 2022-02-24 | 2023-08-13 |
-| [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-11 |  |
+| [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-11 | 2023-08-18 |
 | [Five Leaves](https://open.spotify.com/track/2tmAIIkIYNWvp93nMfi8Lw) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Five Leaves](https://open.spotify.com/album/7IfBIe2sTrJvldMPB61w5e) | 4:09 | 2023-08-10 |  |
 | [Flamenco Sketches \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/3R3fcrKaeBr3U6s9R2belr) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA) | 9:26 | 2021-12-16 | 2022-10-27 |
 | [Flatlands](https://open.spotify.com/track/2zI4BotlVn6HNOmCv3Nf75) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Flatlands](https://open.spotify.com/album/77J8FVf2roMDpGKHXjKIQC) | 3:14 | 2023-06-01 |  |
@@ -275,7 +276,7 @@
 | [Journee](https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Journee](https://open.spotify.com/album/2NFTbliyRp1FhC7gmJRzLa) | 3:38 | 2023-08-10 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-05-04 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-11 | 2023-01-20 |
-| [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 | 2023-08-17 |
+| [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 |  |
 | [Kept running](https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Kept running](https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt) | 2:44 | 2023-06-01 |  |
 | [Kingfisher](https://open.spotify.com/track/64w7l0VwTdnnoYvvIRoQ77) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Kingfisher](https://open.spotify.com/album/4qKUJXT0d7Sbn9Of1CwHGY) | 3:17 | 2023-06-01 |  |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-27 |  |
@@ -561,7 +562,7 @@
 | [Wear And Tear](https://open.spotify.com/track/5VWl5Jf2djqDX0itk48U97) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Wear And Tear](https://open.spotify.com/album/5jpuAoOi6pGfCtyieb3o9V) | 3:32 | 2023-06-01 |  |
 | [Weary Whispers](https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Weary Whispers](https://open.spotify.com/album/7pUujzA6emE3Th9X9Dbcv6) | 2:58 | 2023-08-10 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-11-11 |  |
-| [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-11-11 |  |
+| [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-11-11 | 2023-08-18 |
 | [What A Lovely Day](https://open.spotify.com/track/3D1jCXLmt2EMpNUjYS3pl8) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [What A Lovely Day](https://open.spotify.com/album/4TGAXUUwK6xyVqLjVl7oTG) | 3:12 | 2023-08-10 |  |
 | [What A Wonderful World](https://open.spotify.com/track/0s3HQstgfSJ3HYKRxcgkA4) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [What A Wonderful World](https://open.spotify.com/album/6SMXQ92Fqa6MJLx09Idi7T) | 2:50 | 2021-12-16 | 2022-05-04 |
 | [What Is This Thing Called Love?](https://open.spotify.com/track/6kpocYwFqMxws72HV8iVj3) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [What Is This Thing Called Love?](https://open.spotify.com/album/5UVZ4s0KCXmafIb6IqkNeB) | 3:49 | 2023-06-01 |  |

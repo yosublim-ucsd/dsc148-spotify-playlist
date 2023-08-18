@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 5398,
+  "num_followers": 5429,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
+  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        },
-        {
-          "name": "Rocco DeLuca",
-          "url": "https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Low Sudden",
-      "url": "https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Book of Life",
         "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 249159,
       "name": "Intransigence",
       "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        },
+        {
+          "name": "Rocco DeLuca",
+          "url": "https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "Low Sudden",
+      "url": "https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
       "artists": [
         {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
         }
       ],
-      "duration_ms": 435722,
-      "name": "Eye on the Sparrow",
-      "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+      "duration_ms": 250341,
+      "name": "We Search for the Lights",
+      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
       "artists": [
         {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
         }
       ],
-      "duration_ms": 250341,
-      "name": "We Search for the Lights",
-      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+      "duration_ms": 435722,
+      "name": "Eye on the Sparrow",
+      "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 298697,
-      "name": "Chonchos",
-      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Forgotten Hill",
-        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
       "artists": [
         {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
         }
       ],
-      "duration_ms": 321894,
-      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
-      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
+      "duration_ms": 298697,
+      "name": "Chonchos",
+      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -991,6 +975,22 @@
       "duration_ms": 292333,
       "name": "Narkopop 1",
       "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Forgotten Hill",
+        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 321894,
+      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
+      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 362609,
-      "name": "To All It",
-      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 249700,
-      "name": "Narkopop 4",
-      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1135,6 +1103,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 362609,
+      "name": "To All It",
+      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1155,6 +1139,22 @@
       "duration_ms": 333267,
       "name": "Cin",
       "url": "https://open.spotify.com/track/1pfpIws99akZNCWuLnO79T"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 249700,
+      "name": "Narkopop 4",
+      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+      },
+      "artists": [
+        {
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "soft rime",
+      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Nightmare Ending",
         "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "chapter",
-        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
-      },
-      "artists": [
-        {
-          "name": "Hirotaka Shirotsubaki",
-          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "soft rime",
-      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "American Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 134382,
       "name": "Bridgets' Theme",
       "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 748623,
+      "name": "Walking in a spiral towards the house: Side D",
+      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1371,22 +1387,6 @@
       "duration_ms": 201383,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/61HzV6rpIurltIeJG2ewQg"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 748623,
-      "name": "Walking in a spiral towards the house: Side D",
-      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Bring Me The Head of Kyle Bobby Dunn",
-        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
-      },
-      "artists": [
-        {
-          "name": "Kyle Bobby Dunn",
-          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
-        }
-      ],
-      "duration_ms": 489535,
-      "name": "An Evening With Dusty",
-      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Make Me Know You Sweet",
         "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 445241,
       "name": "AAE-KZT",
       "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Bring Me The Head of Kyle Bobby Dunn",
+        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
+      },
+      "artists": [
+        {
+          "name": "Kyle Bobby Dunn",
+          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
+        }
+      ],
+      "duration_ms": 489535,
+      "name": "An Evening With Dusty",
+      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Sunlight of Oneness and Very Amazing Now",
-        "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
       "artists": [
         {
-          "name": "Phillip Wilkerson",
-          "url": "https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp"
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
         }
       ],
-      "duration_ms": 556007,
-      "name": "Sunlight of Oneness",
-      "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
+      "duration_ms": 276636,
+      "name": "Reminiscence (Spring has come)",
+      "url": "https://open.spotify.com/track/37qs84hvGjeU7PegEaeFLd"
     }
   ],
   "unique_name": "Ambient 2010s",

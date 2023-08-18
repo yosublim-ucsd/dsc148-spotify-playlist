@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/0hvUnqf5B0RCXBRpSox8Ty"
+      },
+      "artists": [
+        {
+          "name": "Bossanova Tribute",
+          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/793uc8Nsi9zySPrqVYFsJ9"
+    },
+    {
+      "album": {
         "name": "Pure Shores (Bossa Nova)",
         "url": "https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu"
       },

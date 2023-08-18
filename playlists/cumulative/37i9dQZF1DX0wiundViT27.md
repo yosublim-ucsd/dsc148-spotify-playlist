@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-248 songs - 13 hr 47 min
+249 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 | 2022-06-17 | 2022-12-03 |
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-04-19 | 2023-05-20 |
 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 | 2020-08-20 | 2022-04-21 |
-| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-04-19 |  |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-04-19 | 2023-08-18 |
+| [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-08-11 |  |
 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 | 2023-01-20 | 2023-06-01 |
 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 | 2022-01-26 | 2022-12-03 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-04-01 | 2022-05-01 |

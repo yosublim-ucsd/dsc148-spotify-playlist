@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Aleesha
 
-323 songs - 17 hr 2 min
+325 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Drogas Caras](https://open.spotify.com/track/7AU8H4KWP6qEDHj9qcoiRN) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [1917](https://open.spotify.com/album/7bsEhVPhZ0ChPBkJ7FWWFC) | 4:51 | 2022-02-11 | 2022-03-03 |
 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 | 2022-09-13 | 2023-02-18 |
 | [El Día Que Me Odies](https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [El Día Que Me Odies](https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE) | 3:05 | 2022-02-11 | 2022-05-20 |
+| [El Father](https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [El Father](https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb) | 3:15 | 2023-08-17 |  |
 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 | 2022-05-20 | 2023-05-13 |
 | [Elige Bien](https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Elige Bien](https://open.spotify.com/album/65izBXafV2afavC0J3JX5y) | 3:41 | 2023-06-30 | 2023-07-03 |
 | [Emiliana](https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Drama Vol\. 1](https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM) | 2:44 | 2023-06-23 | 2023-07-24 |
@@ -172,7 +173,7 @@
 | [Libre](https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Letra Emece](https://open.spotify.com/artist/7LdWyUXrUSqKCS1CkX6KqM), [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Libre](https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ) | 3:53 | 2023-07-28 |  |
 | [Like A Dream](https://open.spotify.com/track/0ekElz0t65b4rA69t1BDJp) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Like A Dream](https://open.spotify.com/album/182SAZPVTQsNxKoNSWh1Ca) | 2:59 | 2022-02-11 | 2022-07-26 |
 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 | 2022-09-06 |  |
-| [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2022-05-20 |  |
+| [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2022-05-20 | 2023-08-18 |
 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 | 2023-05-12 |  |
 | [Lluvia de Verano](https://open.spotify.com/track/2mQMfGmg6hiCYKyhUVj2t0) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Lluvia de Verano](https://open.spotify.com/album/0XmxvGBUc7KYEuhXBmv83R) | 2:37 | 2022-07-26 | 2022-09-07 |
 | [Lluvia de Verano](https://open.spotify.com/track/3cz8p8UYy3YfalZWeRQ5Zx) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Lluvia de Verano](https://open.spotify.com/album/0r160EkID4SoGVLe6lUYqg) | 2:37 | 2022-02-11 | 2022-07-29 |
@@ -235,6 +236,7 @@
 | [oportUNO](https://open.spotify.com/track/7t2ghIdjkElp0FUb0RlzaM) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [oportUNO](https://open.spotify.com/album/3i8CtqJD1n76oXJeaKXAdQ) | 2:36 | 2022-09-06 | 2022-12-07 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-05-20 | 2022-08-06 |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-07-01 | 2022-12-07 |
+| [Palabras Sobran](https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Palabras Sobran](https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs) | 3:36 | 2023-08-17 |  |
 | [papacito](https://open.spotify.com/track/1nV5gbrDdxfua6ICkCVTgY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/0pZWmEVf32O4FD96hUwnGb) | 3:05 | 2022-05-20 | 2022-08-06 |
 | [PAPI](https://open.spotify.com/track/1wOar9mXxzn1vF8vuNNRaB) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [PAPI](https://open.spotify.com/album/0CYXBRNmeLu4YzSiXhGk8s) | 2:26 | 2023-07-07 |  |
 | [PARA AMARTE A TI](https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [PARA AMARTE A TI](https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT) | 3:35 | 2023-05-12 |  |
@@ -298,7 +300,7 @@
 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 | 2022-08-05 | 2023-05-13 |
 | [Tira La Puerta](https://open.spotify.com/track/0RyZbvuv6h5AeKXi1AYvJs) | [Claire Delić](https://open.spotify.com/artist/5I5LlQHGqDoz2RGXph2llc) | [Tira La Puerta](https://open.spotify.com/album/31vwz8em3IHKspVCw9hC3x) | 2:34 | 2022-02-11 | 2022-07-28 |
 | [todavía dueles](https://open.spotify.com/track/7n9xkY2W8QEQyBBuR2aLdB) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todavía dueles](https://open.spotify.com/album/6BjsUk9eHecrsCmPiSCf3g) | 2:54 | 2023-06-13 | 2023-07-19 |
-| [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 | 2022-12-06 |  |
+| [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 | 2022-12-06 | 2023-08-18 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-02-11 | 2023-05-13 |
 | [Track 11](https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Track 11](https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D) | 3:39 | 2022-02-11 | 2022-09-07 |
 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-02-11 | 2023-05-13 |

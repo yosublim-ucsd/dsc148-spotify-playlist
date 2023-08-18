@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,892,125 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,893,007 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 15 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
 | 16 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
 | 17 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
-| 18 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
+| 18 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 19 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 |
-| 20 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
+| 20 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 | 21 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
 | 22 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
 | 23 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 74 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
 | 75 | [Woah](https://open.spotify.com/track/4MsxMuC4eDGYv8pT7snwsn) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Woah](https://open.spotify.com/album/3m5inGobCQghEu6MWsKKXS) | 3:03 |
 
-Snapshot ID: `MCxlYjFiZTIxYmY1MjdkODk3MzIyNmQwZmE0NDVjYWRkY2Q4OTAwNDM4`
+Snapshot ID: `MCxlZmIzMTYxYTcyMjMwYTRhOGU5YmU3ZmQxMjg0MGEwYzUwM2ZiZmE5`

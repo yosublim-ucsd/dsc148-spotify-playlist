@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 112182,
+  "num_followers": 112210,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDZiNDgxMTUyOTQyMTkzNzRmZGVlYzRkZWE2MjAxOGI5OWFkNzI2",
+  "snapshot_id": "MCwzYzdlN2QxMDA4MjM3ZGNhNmVkNTRiNjIwNGRkZTk1ZmE3OGEwYzhk",
   "tracks": [
     {
       "added_at": "2023-07-28 04:26:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-07-28 04:26:00",
       "album": {
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
+    },
+    {
+      "added_at": "2023-07-28 04:26:00",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2023-07-28 04:26:00",
-      "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "Lose My Cool",
-      "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
     },
     {
       "added_at": "2023-07-28 04:26:00",

@@ -1,12 +1,12 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 3987590,
+  "num_followers": 3988709,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWQwYjJhZGM1NDY2MzkwNjAwODBlZGI1MzdmNDQzMzZkNWZkNGQx",
+  "snapshot_id": "MCwwMTFiNzIxNWQ3NmExNTQ2ZTYzZTRkZDIwZTczZWNiZWI1YWRkYjUz",
   "tracks": [
     {
       "added_at": "2023-02-17 11:17:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "Serotonin Dreams",
         "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 168066,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
     },
     {
       "added_at": "2023-03-31 11:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285935,
-      "name": "Love In The Dark",
-      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "blame's on me",
         "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },
@@ -1043,8 +1027,8 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
@@ -1052,25 +1036,9 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1087,6 +1055,22 @@
       "duration_ms": 255066,
       "name": "One More Light",
       "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1111,22 +1095,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1139,6 +1107,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 193546,
       "name": "Unsteady",
       "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Twelve Carat Toothache (Deluxe)",
-        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Waiting For Never",
-      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Twelve Carat Toothache (Deluxe)",
+        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Waiting For Never",
+      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "The Intro",
         "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 207973,
       "name": "Superficial Love",
       "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 141060,
       "name": "Best Friend Breakup",
       "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 194871,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -2615,6 +2595,22 @@
       "duration_ms": 236440,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Turning Tables",
+      "url": "https://open.spotify.com/track/4oy98QoABnGKpvapDkI525"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -2635,18 +2631,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Turning Tables",
-      "url": "https://open.spotify.com/track/4oy98QoABnGKpvapDkI525"
+      "duration_ms": 194871,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 190642,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 254506,
       "name": "River Of Tears",
       "url": "https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 190642,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq"
     },
     {
       "added_at": "2023-02-17 11:17:00",

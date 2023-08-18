@@ -4,7 +4,7 @@
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 14 min
+47 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Run It Up \(feat\. Pop Smoke\)](https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:59 | 2023-06-07 |  |
 | [Scenario](https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 4:01 | 2023-06-07 |  |
 | [Shake The Room \(feat\. Quavo\)](https://open.spotify.com/track/7rSnKi58HPIVC0FVyh04Q1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:45 | 2023-06-07 |  |
+| [She Feelin Nice \(feat\. Jamie Foxx\)](https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:35 | 2023-08-17 |  |
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2023-06-07 |  |
 | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Slide \(Remix\) \(feat\. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown\) \(feat\. Pop Smoke\)](https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t) | 4:56 | 2023-06-07 |  |
 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 | 2023-06-07 |  |

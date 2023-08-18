@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,178 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,212 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 18 | [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 |
 | 19 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 |
 | 20 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 |
-| 21 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 |
+| 21 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
 | 22 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
-| 23 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
+| 23 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 |
 | 24 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
 | 25 | [Let It Burn](https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Reality Show](https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh) | 3:43 |
 | 26 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 39 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
 | 40 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 |
 | 41 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 |
-| 42 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 |
-| 43 | [Right Back In It](https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Right Back In It](https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk) | 3:42 |
+| 42 | [Right Back In It](https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Right Back In It](https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk) | 3:42 |
+| 43 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 |
 | 44 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 45 | [A Muse](https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:42 |
 | 46 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Look At You](https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO) | [Keeyen Martin](https://open.spotify.com/artist/50rvEyhTLlWQ5gIjEM6ZxT), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Look At You](https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ) | 2:45 |
 | 100 | [Nu Beginning](https://open.spotify.com/track/35btHqeeA6qR7ToMRNKI3D) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/0cDn0DpGWprEjyZtH455xm) | 3:54 |
 
-Snapshot ID: `MCw1NjJjNGI1M2NkZWYyNzM2NDJjMjFhMGRhYWI2NTM5MTRhOTljMDlh`
+Snapshot ID: `MCwwNWMzMDJjZGY2ZWMwYmI4M2RlODE4MDJhNTg3NDlmMTMyOWIzMGMy`

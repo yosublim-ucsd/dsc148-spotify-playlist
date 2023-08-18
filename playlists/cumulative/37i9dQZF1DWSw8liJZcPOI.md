@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-424 songs - 1 day 5 hr 28 min
+425 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-06-24 |  |
 | [Binding Garden](https://open.spotify.com/track/1y5LJojJ8mvRRn7YPFupjO) | [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh), [Eyvind Kang](https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV), [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Hilmar Jensson](https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy) | [Sería](https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ) | 5:04 | 2020-12-04 | 2020-12-11 |
 | [Bird's Tail \- Slow Meadow Rework](https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Bird's Tail \(Slow Meadow Rework\)](https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf) | 5:43 | 2022-01-21 | 2023-08-17 |
-| [Black Dog](https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv) | [Autonomy](https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98) | [Black Dog](https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz) | 2:07 | 2020-10-20\* |  |
+| [Black Dog](https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv) | [Autonomy](https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98) | [Black Dog](https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz) | 2:07 | 2020-10-20\* | 2023-08-18 |
 | [Blood Family](https://open.spotify.com/track/6iLhDrW3ATqIyUtnTYIl6F) | [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Honey Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/610pt4TZf8kqG2zdiJ3ZnR) | 4:40 | 2021-01-18 | 2021-10-16 |
 | [Blossom](https://open.spotify.com/track/4aevsaCgjZ3MkXO5ctc0Km) | [Roary](https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd) | [Blossom](https://open.spotify.com/album/3tWkevxZNDag39cJiS2H91) | 4:24 | 2022-04-01 | 2022-04-21 |
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2021-11-21 | 2023-05-13 |
@@ -228,6 +228,7 @@
 | [Llŷr \- Tom Paul Soetaert Rework](https://open.spotify.com/track/0xflu1zYGTDOkY5B0HxxzS) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Tom Paul Soetaert](https://open.spotify.com/artist/6dhUICf4bs6Vu7DrHO2JpG), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Dear, Piano \#2](https://open.spotify.com/album/5KP9x3xuAhtIeDxvCNJWAG) | 3:32 | 2022-07-22 | 2022-07-25 |
 | [lodges](https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [lodges](https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5) | 3:51 | 2022-09-09 |  |
 | [Longhope \- Edit](https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Longhope](https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0) | 3:31 | 2021-01-16 |  |
+| [Looking in the Same Direction](https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU) | 4:04 | 2023-08-11 |  |
 | [Lost Time \- Strings Version](https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Lost Time \- Strings Version](https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9) | 2:21 | 2022-07-15 | 2023-08-05 |
 | [Love](https://open.spotify.com/track/4Tni0eZOEBwZ7Dd1Q4izKL) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Mirage](https://open.spotify.com/album/6cDsArOrAhLmf6zDWEdRjQ) | 6:18 | 2020-10-20\* | 2022-04-20 |
 | [LYR](https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK) | [Aeden Azora](https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX) | [LYR](https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H) | 3:00 | 2022-10-14 | 2023-04-02 |

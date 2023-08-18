@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Nickelback",
-  "num_followers": 59950,
+  "num_followers": 59996,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjljNDcyZGZhOWE3ZDc0ZGQwNTMzMjQ1YWEyNDJlODg3Y2VkMmRk",
+  "snapshot_id": "MCwwNTg1MjI1OTMyNGRjOWMzYzkzMjNiMmJlYmU5N2ZhY2Y5Y2Q1NTA4",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "...Like Clockwork",
-        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "I Sat by the Ocean",
-      "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Wake Up Call",
         "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 233173,
       "name": "Rx (Medicate)",
       "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "I Sat by the Ocean",
+      "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 254509,
-      "name": "Robbers",
-      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 254509,
+      "name": "Robbers",
+      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Ugly is Beautiful",
         "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 145147,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": "2023-07-21 04:00:00",

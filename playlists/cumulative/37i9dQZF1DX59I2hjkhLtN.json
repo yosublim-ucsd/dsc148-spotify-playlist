@@ -960,6 +960,24 @@
     {
       "album": {
         "name": "Backseat",
+        "url": "https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192864,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer"
+    },
+    {
+      "album": {
+        "name": "Backseat",
         "url": "https://open.spotify.com/album/4qZrQDICBbssRq3oPEQ9OG"
       },
       "artists": [
@@ -1336,6 +1354,28 @@
       "duration_ms": 283623,
       "name": "Brincar",
       "url": "https://open.spotify.com/track/6qLwg9k9MlWml8IdlGS2nr"
+    },
+    {
+      "album": {
+        "name": "BULLETPROOF",
+        "url": "https://open.spotify.com/album/0Ek1jntXmiUjJxCi6vsWvh"
+      },
+      "artists": [
+        {
+          "name": "Mozzy Jr",
+          "url": "https://open.spotify.com/artist/46FPvK1KPnpVOKHISFJhpB"
+        },
+        {
+          "name": "Hozox",
+          "url": "https://open.spotify.com/artist/4HDp803rQItfFEsVDjXY1i"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194575,
+      "name": "BULLETPROOF",
+      "url": "https://open.spotify.com/track/23v11hul5IayPeQJdaJMUG"
     },
     {
       "album": {
@@ -3816,7 +3856,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 224571,
       "name": "F\u00c9",
       "url": "https://open.spotify.com/track/4r8jUfYS7lX0pOtt7ijiLY"
@@ -6304,7 +6344,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 216862,
       "name": "Muito \u00e9 Pouco",
       "url": "https://open.spotify.com/track/6WYDt1j3xfETal6E2iIsOW"
@@ -7646,6 +7686,24 @@
       "duration_ms": 178101,
       "name": "Papa",
       "url": "https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble"
+    },
+    {
+      "album": {
+        "name": "O.P.O.R",
+        "url": "https://open.spotify.com/album/42EAQbn7KhADLlkwpBSP0i"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Stunna",
+          "url": "https://open.spotify.com/artist/76G7MhrDdGsmuLceSWlXRG"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/6p9WtxAiuqr5UsvuYLYu8A"
     },
     {
       "album": {
@@ -9314,6 +9372,28 @@
       "duration_ms": 276851,
       "name": "Sei para Onde Vou, Pt. 2",
       "url": "https://open.spotify.com/track/7uxISvCC385JTdpoR7UpfT"
+    },
+    {
+      "album": {
+        "name": "Sem Parar",
+        "url": "https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV"
+      },
+      "artists": [
+        {
+          "name": "Vicente Augusto",
+          "url": "https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7"
+        },
+        {
+          "name": "Ary Rafeiro",
+          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Sem Parar",
+      "url": "https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN"
     },
     {
       "album": {

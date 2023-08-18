@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 57030,
+  "num_followers": 57094,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzNiMGQ5MjEzOThkN2VmM2U2NjYxZjA1NDk3NjViYzBiODdiY2Uz",
+  "snapshot_id": "MCw1YzgwMjc5NjZmNzRiOTU0ZjY0NDIwMjFhOWU4NmNmMzM5NGUzNjFj",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -319,26 +319,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -787,38 +787,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298346,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
-        "name": "Puro Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Puro Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298346,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
     }
   ],
   "unique_name": "Salsa Lessons",

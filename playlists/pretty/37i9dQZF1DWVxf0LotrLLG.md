@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Grupo Frontera & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,333 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,354 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Amnesia](https://open.spotify.com/track/0Lw1dPuQMMSRVsqFRMDKjJ) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:32 |
 | 200 | [Vamos a pasarla bien](https://open.spotify.com/track/0KMlDciGH8kniqFnIn5Vai) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Charly Salas](https://open.spotify.com/artist/4IMyzWU8HAKXwl0b1d3fzw) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:40 |
 
-Snapshot ID: `MCw1YjJlMThkZDI0ZWMyZDhiMGM0OGIwYjJjMTEwMDYxYTdkMmFhOGIz`
+Snapshot ID: `MCwyOWZhN2ZkMTUxZjU1YjRlNDc5MWUxZGE1OWY0ZDdmZWZlZTUyNWFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 
 > Your favorite Latin anthems to get the party started!<br/>Cover: Daddy Yankee, Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091,284 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091,462 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 | 58 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
 | 59 | [Baila Baila Baila](https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:38 |
 | 60 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 |
-| 61 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
-| 62 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
+| 61 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
+| 62 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
 | 63 | [Escápate Conmigo \(feat\. Ozuna\)](https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 3:52 |
 | 64 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 |
 | 65 | [La Jeepeta \- Remix](https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Jeepeta \(Remix\)](https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4) | 5:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 | 99 | [MAMACITA](https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [MAMACITA](https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V) | 4:09 |
 | 100 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 4:49 |
 
-Snapshot ID: `MCxhYzgzZmM5NzFhMTNhNGUzOGQ5NjUxYjIxZDVhYTIwYzk1NWU1NTBm`
+Snapshot ID: `MCxiOTIyZjQxOWU4NDIwNDQwNTliMTM2MzljMGNhYmIzMTBlN2RjODRi`

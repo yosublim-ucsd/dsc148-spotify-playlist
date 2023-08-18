@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-116 songs - 5 hr 54 min
+117 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 | 2021-07-09 | 2023-02-24 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-02-24 |  |
 | [American Nightmare](https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [American Nightmare](https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3) | 3:11 | 2023-04-21 | 2023-08-11 |
-| [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 |  |
+| [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 | 2023-08-18 |
 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 | 2021-11-18 |  |
 | [BAD GUY](https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 1:32 | 2022-10-21 | 2022-12-13 |
 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 | 2022-06-09 | 2023-07-29 |
@@ -118,6 +118,7 @@
 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 | 2023-03-31 | 2023-06-17 |
 | [Walking On Water](https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Walking On Water](https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb) | 3:06 | 2023-02-10 | 2023-04-15 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-10-01 |  |
+| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 |  |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2021-09-17 |  |
 | [Wid It](https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Wid It](https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM) | 3:01 | 2021-08-20 | 2023-02-24 |
 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 | 2021-06-07 | 2023-03-08 |

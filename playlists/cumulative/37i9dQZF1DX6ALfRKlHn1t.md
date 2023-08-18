@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-253 songs - 14 hr 28 min
+254 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-06-24 |  |
 | [Doing Good](https://open.spotify.com/track/34eGAGPZsfuYf3EiNnWS7E) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/7zuqkqhGkTH3PSdywhLgY4) | 4:10 | 2021-03-24 | 2022-01-11 |
 | [Droptop](https://open.spotify.com/track/3tvgQO3IpSsbBvr5R0gLJj) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Droptop](https://open.spotify.com/album/5viPfwSX9W1neEKBnA87Yw) | 3:03 | 2021-06-25 | 2022-07-29 |
-| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-14 |  |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-14 | 2023-08-18 |
+| [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-05-31 |  |
 | [Ego](https://open.spotify.com/track/7JgYCXSih0sY1EnNImzwdH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/7zuqkqhGkTH3PSdywhLgY4) | 3:52 | 2021-03-24 | 2022-01-11 |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2021-03-24 |  |
 | [Electrified](https://open.spotify.com/track/5rYcKq7mpdhmGj3Z6WzhMa) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9) | [Episode I](https://open.spotify.com/album/3RrQW08C8THSayARHysvOU) | 3:31 | 2021-03-24 | 2022-04-28 |

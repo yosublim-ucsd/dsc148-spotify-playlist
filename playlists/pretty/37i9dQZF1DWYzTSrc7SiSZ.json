@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 665662,
+  "num_followers": 665764,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmNhYTgyMDRiODk3ZGRiMWY4YmRkODI2N2NiMTgyMDg0OWQ5MjNk",
+  "snapshot_id": "MCw0ZTljODRkNDlkOTczYzExZGNjYTVhYjVhZDg3ZmZlZTIzYmVkNWZl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Siempre tengo sue\u00f1o",
+        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 165909,
+      "name": "Siempre tengo sue\u00f1o",
+      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Fogata",
         "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 173200,
       "name": "Fogata",
       "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Siempre tengo sue\u00f1o",
-        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Siempre tengo sue\u00f1o",
-      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El D\u00eda Que Me Odies",
-        "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "El D\u00eda Que Me Odies",
-      "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Diecis\u00e9is",
         "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 212452,
       "name": "Cardenalito",
       "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "El D\u00eda Que Me Odies",
+        "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "El D\u00eda Que Me Odies",
+      "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "I Fell In Love",
         "url": "https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 260186,
       "name": "I Fell in Love",
       "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 321019,
       "name": "Camarones y Viniles",
       "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 205874,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 205874,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 164601,
-      "name": "habl\u00e9 con ella ayer",
-      "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "if you let me",
-        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
       "artists": [
         {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 160909,
-      "name": "if you let me",
-      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+      "duration_ms": 164601,
+      "name": "habl\u00e9 con ella ayer",
+      "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1791,6 +1775,22 @@
       "duration_ms": 172586,
       "name": "Esc\u00e1pate",
       "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "if you let me",
+        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "if you let me",
+      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
     }
   ],
   "unique_name": "Chill Latino",

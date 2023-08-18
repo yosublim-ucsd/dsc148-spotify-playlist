@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,241 likes - 75 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,270 likes - 75 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 36 | [Ayo](https://open.spotify.com/track/4mLmcxQbLDx6vDo3tJ2l5G) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Ayo](https://open.spotify.com/album/48jnyiVKYeQBDc5aeeXYxf) | 5:36 |
 | 37 | [This Is Hot \(Yes Indeedy\) \- Original Mix](https://open.spotify.com/track/7d1kfcrdz92icwzknr9Owi) | [Geoffrey C](https://open.spotify.com/artist/2DBZbTSJYWmrqf3VnepypB) | [This Is Hot \(Yes Indeedy\)](https://open.spotify.com/album/1DL3YpDtk0AwprDN1k7guF) | 6:42 |
 | 38 | [Take Flight](https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb) | [Take Flight EP](https://open.spotify.com/album/5cPX28V6vYst2hq01jwxTR) | 4:07 |
-| 39 | [Remember Me](https://open.spotify.com/track/6AeIkKjjxLWBCkQ301VZ1R) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Remember Me](https://open.spotify.com/album/5hgEy3cCnVxuGVEX4XqKp8) | 3:01 |
+| 39 | [Remember Me](https://open.spotify.com/track/36lYZjm25MiciLPbUUgt6w) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Remember Me](https://open.spotify.com/album/3jP2frJYvtUPw54MOjfkQ6) | 3:01 |
 | 40 | [Cruel Summer \- Musumeci Wax off Remix](https://open.spotify.com/track/15PJHoA91oxrgYkwVa3TVZ) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5q34nsGcAr0ElZVbq9wgMP) | 4:49 |
 | 41 | [Same Like Dope But Different](https://open.spotify.com/track/0GIPq4zQJPTlycINrUR0ST) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Same Like Dope But Different](https://open.spotify.com/album/6hWNRK4gZ1XuApm1XlPUsz) | 4:41 |
 | 42 | [Work \- Original Mix](https://open.spotify.com/track/4YmERu15RPaCWUAEBWtpBA) | [Nhan Solo](https://open.spotify.com/artist/1UhosJtmQlT9oJi38Zd2SU), [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Work](https://open.spotify.com/album/5twrWSneyeEXOLYmiFeR8N) | 5:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 74 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 |
 | 75 | [Rapture \(John Creamer & Stephane K\. Remix\) \[feat\. Nadia Ali\]](https://open.spotify.com/track/21s9uaVLfdKb1xEyiy0MBM) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Rapture Reconstruction, Platinum Edition \(feat\. Nadia Ali\)](https://open.spotify.com/album/4bOu5bLJpRBNfD0fb5apQf) | 9:58 |
 
-Snapshot ID: `MCw3OWMyMTJjYzUxNGQ5Y2ExMGZmYzk5ZGQ2NzYyMmQyNzEzOTg5YjFi`
+Snapshot ID: `MCwwMzlkZDUwNjFjOTdmZTdhZTlkMDUzOGMyYWUzODcxNGJlOWI5MTEy`

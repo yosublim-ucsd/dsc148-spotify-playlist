@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,788 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,798 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 7 | [Luv \(sic\)](https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:46 |
 | 8 | [summer nights.](https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Nion](https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0) | [summer nights.](https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc) | 1:24 |
 | 9 | [viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ) | 1:26 |
-| 10 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
-| 11 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
+| 10 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
+| 11 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
 | 12 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 |
 | 13 | [i love being with you](https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:36 |
 | 14 | [Soulful](https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Playtime](https://open.spotify.com/album/6CzAUWwXyMbD437lg1E7jL) | 3:40 |
@@ -44,26 +44,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 34 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 |
 | 35 | [Afternoon Calm](https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU) | 2:45 |
 | 36 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
-| 37 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
-| 38 | [Murmuration](https://open.spotify.com/track/6fkAGXwhsnGecBd1z3dDob) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [Directions](https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud) | 2:36 |
+| 37 | [Murmuration](https://open.spotify.com/track/6fkAGXwhsnGecBd1z3dDob) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [Directions](https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud) | 2:36 |
+| 38 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
 | 39 | [P a z](https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [v i d r i o](https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6) | 1:50 |
 | 40 | [another.wun](https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS) | 1:45 |
 | 41 | [train ride home](https://open.spotify.com/track/70vGzrfqPGC8sa6Oo5b88g) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:18 |
 | 42 | [Ladybug](https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Lucid Dreams](https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0) | 1:56 |
 | 43 | [Water](https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:58 |
 | 44 | [Open Window](https://open.spotify.com/track/703hSWNgehWT0F16awNLr1) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 2:28 |
-| 45 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
-| 46 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 |
-| 47 | [long ago.](https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB) | [long ago.](https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6) | 2:06 |
-| 48 | [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 |
+| 45 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 |
+| 46 | [long ago.](https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB) | [long ago.](https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6) | 2:06 |
+| 47 | [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 |
+| 48 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
 | 49 | [Where I Met You](https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Where I Met You](https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY) | 2:21 |
 | 50 | [belas](https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 3:01 |
 | 51 | [Rolling Papers](https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0) | 2:00 |
 | 52 | [sand castles](https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [corals 2](https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx) | 2:27 |
 | 53 | [Springtime](https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Mercy](https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD) | 2:00 |
-| 54 | [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 |
-| 55 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 |
-| 56 | [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 |
+| 54 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 |
+| 55 | [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 |
+| 56 | [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 |
 | 57 | [Take You There](https://open.spotify.com/track/7pn7E6FglPjV1dDaknCaD8) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Setsuna](https://open.spotify.com/album/7MFvFVNg8VQAar6XjEUj8R) | 2:32 |
 | 58 | [Lost Samurai](https://open.spotify.com/track/0LWoUEKzOpy7PWbSC67Oz6) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 2:13 |
 | 59 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Sunshine](https://open.spotify.com/track/67hguDDPd8uEwltmM4P2qz) | [Seneca B](https://open.spotify.com/artist/31q0UDtgTobClaGczO3KBk) | [Sunshine](https://open.spotify.com/album/2c91h6nSOG2dhU9O0GitYN) | 3:30 |
 | 75 | [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 |
 
-Snapshot ID: `MCxhNTQ1YTYzYzc4ZWFhYjE3ZWViNzg1MTA3MDVkMDlhZTE5ODI3MTFj`
+Snapshot ID: `MCwzZThlOTRhMzQxOTRhZjRkOTQ3OThhOTNlZmRiNDViMzI5NmYyYzQ3`

@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "All \u00f8llen eg drikke",
+        "url": "https://open.spotify.com/album/1J1GkO6nEllNVn0Rc4YfCW"
+      },
+      "artists": [
+        {
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "All \u00f8llen eg drikke",
+      "url": "https://open.spotify.com/track/2kMUeVstP7rQIgJmJ5Aho8"
+    },
+    {
+      "album": {
         "name": "Alt det der",
         "url": "https://open.spotify.com/album/645DPvuuUPRDfKiyEyq5uo"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
@@ -1318,6 +1336,28 @@
       "duration_ms": 136100,
       "name": "Du kan inte f\u00e5 min \u00f6l",
       "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
+    },
+    {
+      "album": {
+        "name": "Dum i haue",
+        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144808,
+      "name": "Dum i haue",
+      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
     },
     {
       "album": {
@@ -4088,7 +4128,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 127253,
       "name": "Neste \u00e5r",
       "url": "https://open.spotify.com/track/1wHXgxVlxS5esQRWWVrVfH"

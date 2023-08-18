@@ -2,7 +2,7 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3?si=G2I4C1gmTVuOB7myiTKiUQ">Steve Crown</a>
+> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v?si=GakCG2xPSeauG5aFjHfGWA">Quiz Tha Great</a>
 
 91 songs - 7 hr 59 min
 
@@ -11,7 +11,7 @@
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2023-04-07 |  |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2023-04-07 | 2023-08-05 |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-07-28 |  |
-| [Ayaaaa](https://open.spotify.com/track/7kNSQbZwZU6hhkFyuq98PH) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [Ayaaaa](https://open.spotify.com/album/7Dy3YwfcZwHtszp8T5u7Lg) | 11:55 | 2023-08-11 |  |
+| [Ayaaaa](https://open.spotify.com/track/7kNSQbZwZU6hhkFyuq98PH) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [Ayaaaa](https://open.spotify.com/album/7Dy3YwfcZwHtszp8T5u7Lg) | 11:55 | 2023-08-11 | 2023-08-18 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-05-26 |  |
 | [Baba Oh](https://open.spotify.com/track/7kOezDLrt87YbPZfgv7qub) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 5:23 | 2023-04-07 | 2023-05-26 |
 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 | 2023-06-16 |  |
@@ -86,7 +86,7 @@
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-07 |  |
 | [Unchangeable](https://open.spotify.com/track/2BQ9reSLLtXxcWuturEq6F) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Most High](https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS) | 5:17 | 2023-04-07 | 2023-05-27 |
 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 | 2023-04-07 | 2023-07-21 |
-| [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2023-04-07 | 2023-07-18 |
+| [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2023-04-07 |  |
 | [Victory Song](https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Victory Song](https://open.spotify.com/album/74aVBnCplKOcQiXHPJ0jx4) | 2:56 | 2023-06-16 | 2023-06-23 |
 | [Way Maker](https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/7gFZYUrRossdN7GEY938s1) | 5:06 | 2023-04-07 |  |
 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 | 2023-04-07 | 2023-04-24 |

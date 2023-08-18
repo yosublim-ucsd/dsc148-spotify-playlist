@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Dee Gatti
 
-541 songs - 1 day 4 hr 27 min
+542 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-18 | 2022-07-29 |
 | [Feelings 4 You](https://open.spotify.com/track/6FyadQAUc4Rrv9WT8sa8Ro) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/2kuH27HnAi396mXM1LqZ8q) | 4:16 | 2022-02-18 | 2022-02-26 |
 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 | 2022-05-20 | 2023-03-18 |
-| [Feels](https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [Feels](https://open.spotify.com/album/6pfRdR3FNPQ9O7WHQtEKwq) | 4:07 | 2023-05-12 |  |
+| [Feels](https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [Feels](https://open.spotify.com/album/6pfRdR3FNPQ9O7WHQtEKwq) | 4:07 | 2023-05-12 | 2023-08-18 |
 | [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 | 2022-12-09 |  |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 | 2023-07-08 |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-07-27 |
@@ -352,6 +352,7 @@
 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2022-09-09 | 2022-12-03 |
 | [Outside Freestyle](https://open.spotify.com/track/19fuiBJWyDl0vC2SZcxVXt) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/0bDbd9p3H6B9iXYUFHob0c) | 2:50 | 2023-02-24 | 2023-08-14 |
 | [Outside Freestyle](https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F) | 2:50 | 2023-02-24 | 2023-07-14 |
+| [Outside Freestyle](https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 2:50 | 2023-02-24 |  |
 | [Outside Like This](https://open.spotify.com/track/3XfN97RL32KMG83T35qDuw) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV) | [Outside Like This](https://open.spotify.com/album/5cLXrBZsVNkqfVy7ZpAQ7j) | 3:57 | 2023-01-27 | 2023-03-29 |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-01-27 | 2023-07-22 |
 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 | 2022-08-05 | 2023-03-18 |

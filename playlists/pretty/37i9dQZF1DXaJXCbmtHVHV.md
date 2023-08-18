@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,599 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,692 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 48 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 |
 | 49 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
 | 50 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
-| 51 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
-| 52 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 |
+| 51 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 |
+| 52 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 53 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 |
 | 54 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 | 55 | [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 86 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
 | 87 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 88 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
-| 89 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 |
-| 90 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
+| 89 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
+| 90 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 |
 | 91 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 |
 | 92 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
 | 93 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
 | 94 | [I'll Be Lovin' You](https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:09 |
 | 95 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 |
-| 96 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
-| 97 | [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 |
-| 98 | [Fires Don't Start Themselves](https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Fires Don't Start Themselves](https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9) | 3:45 |
+| 96 | [Fires Don't Start Themselves](https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Fires Don't Start Themselves](https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9) | 3:45 |
+| 97 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
+| 98 | [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 |
 | 99 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 |
 | 100 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 |
 
-Snapshot ID: `MCxiYTg5ZGE0ZjcxYzcwMjRlMjJiNWJlN2EwNzhiNWJjY2YyN2FjMTQ5`
+Snapshot ID: `MCwxYmEyNGY2NWMzYzliNjlkOWJiODNkYzgzNmE2OGQ3ODYxODlhY2Rk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,103 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,120 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 4 | [Digging Deeper](https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Digging Deeper](https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl) | 3:17 |
 | 5 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
 | 6 | [Navego](https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:19 |
-| 7 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
+| 7 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
 | 8 | [Estrella](https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Estrella](https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8) | 3:18 |
-| 9 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
+| 9 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
 | 10 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 |
 | 11 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 |
 | 12 | [Like A Saviour](https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Like A Saviour](https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb) | 3:40 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 42 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
 | 43 | [Se Eu Soubesse](https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [Cura](https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt) | 3:37 |
 | 44 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 |
-| 45 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
-| 46 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
-| 47 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 |
+| 45 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
+| 46 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 |
+| 47 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 48 | [6º](https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [6º](https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj) | 3:12 |
 | 49 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 |
 | 50 | [El Muro](https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [El Muro](https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8) | 3:43 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
 | 69 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 
-Snapshot ID: `MCxjZTE2NTc2NWIzMTBhMmJkOGM3NGY2OTJkYTRlMGFlNDZkMTBmMmQ1`
+Snapshot ID: `MCw1NDkzZjBlYTg1NjdmZTNkY2VhNjNjODNkNGNkMGNiOTk1NTk1MDg4`

@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-243 songs - 15 hr 41 min
+244 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Casual](https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Casual](https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL) | 3:40 | 2022-08-30 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-10 |  |
 | [Clouds \- 24\-Bit Mastering](https://open.spotify.com/track/65lfucKzmFE6YkXuXE5nt5) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [The Bossa Rio Sextet](https://open.spotify.com/artist/3z0bbBil34Ab1kL9t3o8S4) | [Cannonball's Bossa Nova](https://open.spotify.com/album/1TNOffWopiUF7z4WJGWWkI) | 4:51 | 2022-02-16 |  |
+| [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 | 2022-02-16 | 2023-05-12 |
 | [Crystal Blue](https://open.spotify.com/track/2xlbRcpwbECTrkzRD975lb) | [Jean\-Baptiste Rees](https://open.spotify.com/artist/5E0PYnAOEfcjASo2ZEK7nM) | [Crystal Blue](https://open.spotify.com/album/4Jr2IFJ19cGkh9XEHJjNlO) | 2:48 | 2022-06-14 | 2022-08-31 |
 | [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 | 2022-02-16 |  |
@@ -60,7 +61,7 @@
 | [Fridays](https://open.spotify.com/track/3Y23H0dJCyZ8Whxh59eJEB) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Fridays](https://open.spotify.com/album/5pvCfDy1k6koVQYUYSvEIb) | 3:05 | 2022-02-16 |  |
 | [From Paris with love](https://open.spotify.com/track/7Mrz01pIRqW3IGQro5IqDq) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [From Paris with love](https://open.spotify.com/album/3cCLtvehudXUYm2uw571LX) | 3:05 | 2023-03-03 |  |
 | [From This Day Until Forever](https://open.spotify.com/track/5iYYQ8CUMSPlaVOHhpB0Kw) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 3:51 | 2022-02-16 | 2023-05-12 |
-| [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-02-16 |  |
+| [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-02-16 | 2023-08-18 |
 | [Gentle rain](https://open.spotify.com/track/78S8rCKCJ3MUoGF3LCnpo4) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Jessica](https://open.spotify.com/album/4bDZq3KMHTqKIj9Rhkjgwl) | 4:16 | 2022-02-16 | 2023-05-12 |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-02-16 |  |
 | [Girl From Ipanema](https://open.spotify.com/track/07N8tsetcGqFiwyzBxyya3) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Morning Jazz](https://open.spotify.com/album/0JBpOJHie2i2KubS49lWme) | 3:53 | 2022-10-27 | 2022-11-14 |
@@ -82,7 +83,7 @@
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2023-03-03 |  |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-02-16 | 2022-06-01 |
 | [I Fly With You](https://open.spotify.com/track/3EZr7QTQPnvkgTRZVUyy9B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Someone Who Cares](https://open.spotify.com/album/3283AcxPjIXlPWsWsd4Kx2) | 4:00 | 2022-02-16 | 2023-05-12 |
-| [I Loves You, Porgy](https://open.spotify.com/track/4vDwDzzYGKylT26VE53elE) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [I Loves You, Porgy](https://open.spotify.com/album/6qVDn32CzWKFsB9NdBkcJO) | 5:23 | 2022-05-17 |  |
+| [I Loves You, Porgy](https://open.spotify.com/track/4vDwDzzYGKylT26VE53elE) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [I Loves You, Porgy](https://open.spotify.com/album/6qVDn32CzWKFsB9NdBkcJO) | 5:23 | 2022-05-17 | 2023-08-18 |
 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 | 2022-02-16 | 2023-06-16 |
 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 | 2022-02-16 |  |
 | [I'm An Old Cowhand](https://open.spotify.com/track/1HBrYLUou9PbQDp91wVA9f) | [The Josh Rogers Band](https://open.spotify.com/artist/4zfTyFGyjLJd9vAbxqTuNg) | [Love Letters](https://open.spotify.com/album/6f6WVUeFK2hnBn7TfefGWJ) | 2:23 | 2022-02-16 | 2023-05-12 |
@@ -196,7 +197,7 @@
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-10 |  |
 | [Stardust](https://open.spotify.com/track/7FeEoTg5tsJtTc8fu0PjDf) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 8:23 | 2022-02-16 |  |
 | [Summer Night](https://open.spotify.com/track/01dGlfV1esSbayq4lZ76WH) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tokyo '96](https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h) | 7:37 | 2022-02-16 | 2022-06-01 |
-| [Summer's Waltz](https://open.spotify.com/track/4EBquAsYHKm0vZzcJia0t4) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Badlands](https://open.spotify.com/album/2EeIcN2zjIZFJ373GlOdmq) | 5:28 | 2022-02-16 |  |
+| [Summer's Waltz](https://open.spotify.com/track/4EBquAsYHKm0vZzcJia0t4) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Badlands](https://open.spotify.com/album/2EeIcN2zjIZFJ373GlOdmq) | 5:28 | 2022-02-16 | 2023-08-18 |
 | [Sweet Lorraine](https://open.spotify.com/track/5KBn0ezpWIZCIQdZ6uQCl5) | [Lisa Gordan Trio](https://open.spotify.com/artist/5as2rPZvgwaMW96pHHPDTW) | [Stardust](https://open.spotify.com/album/3zzFdi4zMi1OwjrOvg6Au7) | 5:03 | 2022-02-16 |  |
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-28 | 2023-06-09 |
 | [Tenderly](https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:01 | 2022-02-16 | 2023-06-09 |

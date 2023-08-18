@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: La Isla Centeno",
-  "num_followers": 72279,
+  "num_followers": 72356,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzM2Y2QwOTg5MjQ4YzE4MzQzNWE3YjI1NzI0MjQ5MGViMmYwYjcz",
+  "snapshot_id": "MCw5OGVlMGVjZjVhODM3MDNhNjllZjMzMjE1NzNjNGQ2MzFmNWY4YjVk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "A Color",
-        "url": "https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
       },
       "artists": [
         {
-          "name": "El Otro Polo",
-          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
         }
       ],
-      "duration_ms": 170520,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -251,18 +247,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+        "name": "A Color",
+        "url": "https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X"
       },
       "artists": [
         {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+      "duration_ms": 170520,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Juntos Otra Vez",
         "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 157176,
       "name": "Odio Gitano",
       "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
     },
     {
       "added_at": "2023-08-11 04:00:00",

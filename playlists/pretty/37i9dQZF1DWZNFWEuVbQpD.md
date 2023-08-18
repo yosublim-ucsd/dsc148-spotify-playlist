@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNFWEuVbQpD.md) - [plain]
 
 > Perché...It’s Only Rock ’n Roll \(But We Like It\)!
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,743 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,874 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNFWEuVbQpD.md) - [plain]
 | 23 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 | 24 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 25 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
-| 26 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
+| 26 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
 | 27 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
-| 28 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
+| 28 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
 | 29 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 30 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 31 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 |
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNFWEuVbQpD.md) - [plain]
 | 61 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
 | 62 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 63 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
-| 64 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
-| 65 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
+| 64 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
+| 65 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 66 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 67 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
 | 68 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 |
 | 69 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 70 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 71 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
-| 72 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
-| 73 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 |
+| 72 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 |
+| 73 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
 | 74 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 75 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 76 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNFWEuVbQpD.md) - [plain]
 | 80 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 81 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
 | 82 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 83 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
-| 84 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
+| 83 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
+| 84 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 85 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 86 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 |
 | 87 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNFWEuVbQpD.md) - [plain]
 | 99 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 100 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 
-Snapshot ID: `MCw3ZmZlNzUwZmNlMjdkMjcyNzlkYjU1ZDgxMmE4OWRiZjI1ZTJiYmRh`
+Snapshot ID: `MCwxZGU3MTE1Mzk1Yzg4ODU4ZmMyYjRiY2RlNjA5MWNhYmFlMzBkNDlm`

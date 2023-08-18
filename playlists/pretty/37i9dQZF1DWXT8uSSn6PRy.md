@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 
 > The hottest tracks in the North\. Cover: Nicki Minaj & Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,317 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,472 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 | 74 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 |
 | 75 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 
-Snapshot ID: `MCw5MzM3NTEyNGVkMTUwNzM0YjJiODQwYWIwN2RhYWFjMzMyNzNlODgw`
+Snapshot ID: `MCw3NmMzNGNhMTZmZDdjYjRhN2EyNjA0Mjc0YWNmZjM4NzgxMmM5YjJh`

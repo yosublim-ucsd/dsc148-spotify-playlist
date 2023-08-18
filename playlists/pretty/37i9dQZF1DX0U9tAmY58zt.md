@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain]
 
 > Revive los increíbles momentos que presenciaste en el festival mientras escuchas esta playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,059 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,076 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain]
 | 63 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
 | 64 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 65 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
-| 66 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
+| 66 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 67 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 |
 | 68 | [Me And My Broken Heart](https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Let The Road](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) | 3:13 |
 | 69 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain]
 | 71 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
 | 72 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
 | 73 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
-| 74 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 74 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 75 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 76 | [Stole the Show](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:43 |
 | 77 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain]
 | 109 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 110 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 
-Snapshot ID: `MCxhOWIzNmEzZTBlOGNlZGJkMzgwZTE4NjJjZWFmYzI2M2VlNTZlOTZl`
+Snapshot ID: `MCxjNTBkMjMyNDkwYzY1MDcyMjZhZGE3NzY0OTAyMDQzNWEyMTViZTU4`

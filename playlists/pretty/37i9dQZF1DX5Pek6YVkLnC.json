@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228267,
+  "num_followers": 228282,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "TAN CAGAU",
-        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "TAN CAGAU",
-      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Porche Carrera",
         "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 188737,
       "name": "Porche Carrera",
       "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "TAN CAGAU",
+        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "TAN CAGAU",
+      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Right Thru",
-        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Right Thru",
-      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Randy Johnson",
         "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 152760,
       "name": "Randy Johnson",
       "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Right Thru",
+        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Right Thru",
+      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 134048,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 191891,
       "name": "11:11",
       "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 134048,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Tengo Un Draco",
-        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Tengo Un Draco",
-      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Respeto X Respeto",
         "url": "https://open.spotify.com/album/24UJw0M1giFfL1APlORrar"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 182400,
       "name": "Respeto X Respeto",
       "url": "https://open.spotify.com/track/1vrxkVgaOSQb02tyLtQnXD"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Tengo Un Draco",
+        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Tengo Un Draco",
+      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
     },
     {
       "added_at": "2023-06-09 20:20:12",

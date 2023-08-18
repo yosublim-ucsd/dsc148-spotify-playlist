@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-187 songs - 5 hr 9 min
+188 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [The Music Box](https://open.spotify.com/track/2t2W2gdVYe0wloYG3NVP9v) | [Emillie Nichols](https://open.spotify.com/artist/2JCF2kSrfmwKhRO1Q7L6xx) | [The Music Box](https://open.spotify.com/album/1dTk9VshRUU3g83tCPb1hr) | 1:43 | 2021-11-11 | 2022-04-23 |
 | [The Path](https://open.spotify.com/track/0aQHD3ja7WN5etAtmpaCde) | [Durward Moon](https://open.spotify.com/artist/7icgsEqWluxq2LfkpHbyFg) | [The Path](https://open.spotify.com/album/32jBuvuiRMjnmJ3L9rbTDt) | 1:45 | 2022-09-22 |  |
 | [The Peace of the Night](https://open.spotify.com/track/3oIPH7m0DAwD0VFK1Uycio) | [Orson Pierson](https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf) | [The Peace of the Night](https://open.spotify.com/album/5JimndzgmbOkh5dbaKjR0H) | 0:58 | 2021-11-11 | 2022-04-23 |
+| [The Red Little House](https://open.spotify.com/track/4097AnhLGCx0DD2a7QsMNP) | [Kaleb Terrell](https://open.spotify.com/artist/0oiz2oryJ2DOvJAA98fPIJ) | [The Red Little House](https://open.spotify.com/album/5PcZ9EhVGTTcQHi8J2JHav) | 1:42 | 2023-08-17 |  |
 | [The Rooster](https://open.spotify.com/track/3G691fRcbrkjBPeN5X2tO5) | [Kit Romilly](https://open.spotify.com/artist/0yI8CvVKPU5Ya1B1FVeBx1) | [The Rooster](https://open.spotify.com/album/6YrHZXpnoIHg2CbK73zUjY) | 1:26 | 2021-11-11 |  |
 | [The Sleepy Elephant Song](https://open.spotify.com/track/2ViNyGnb3YhNN2XYjg3IaJ) | [Aveline Auclair](https://open.spotify.com/artist/6FL5lxsl1kpKAEUeDliRoC) | [Music Box Fairytales](https://open.spotify.com/album/6mLKdRWCbi1WlUu6afxwzr) | 1:33 | 2023-03-23 | 2023-06-10 |
 | [The Song For You](https://open.spotify.com/track/1Tzz33d3lCreodYOyB3ptN) | [Saxon Howland](https://open.spotify.com/artist/1GWprHthhoUHxSFNDIzkI9) | [The Song For You](https://open.spotify.com/album/2o3htZyom2sLOLsPUlwxBx) | 1:20 | 2022-09-22 |  |

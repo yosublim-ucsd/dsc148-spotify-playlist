@@ -4,7 +4,7 @@
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-323 songs - 20 hr 47 min
+324 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Con Alma](https://open.spotify.com/track/4FavGxmQ0kAjmh8WjN8F0j) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 5:30 | 2021-12-14 | 2022-11-18 |
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-12 |  |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-05-18 | 2023-05-12 |
+| [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Trav'lin' Light](https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ) | 3:27 | 2022-02-10 | 2022-08-18 |
 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 | 2021-12-14 | 2022-09-22 |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2021-12-14 | 2022-11-25 |
@@ -330,6 +331,6 @@
 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 | 2021-12-14 | 2022-08-31 |
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-09-29 |  |
 | [Your Shining Eyes](https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Your Shining Eyes](https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm) | 3:06 | 2023-04-27 |  |
-| [Zero\-sum game](https://open.spotify.com/track/7vdtTzPYgvVuwyYgZ7oRYJ) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Zero\-sum game](https://open.spotify.com/album/6LgrhBvbpECgH7WWJjuXwo) | 3:24 | 2023-04-13 |  |
+| [Zero\-sum game](https://open.spotify.com/track/7vdtTzPYgvVuwyYgZ7oRYJ) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Zero\-sum game](https://open.spotify.com/album/6LgrhBvbpECgH7WWJjuXwo) | 3:24 | 2023-04-13 | 2023-08-18 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

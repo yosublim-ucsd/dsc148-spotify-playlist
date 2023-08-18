@@ -2,13 +2,14 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Michaël Brun and Joeboy
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Kaestyle & Leriq
 
-417 songs - 21 hr 1 min
+418 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 | 2023-03-10 | 2023-05-07 |
+| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Leriq](https://open.spotify.com/artist/3hQSJlOr4WnGv5eDk88Pq3) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 |  |
 | [234](https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh) | [DJ Savy](https://open.spotify.com/artist/5OXVSxR4R3fhxUIO6nJnNf), [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4), [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [234](https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s) | 3:10 | 2023-01-27 | 2023-02-17 |
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 |  |
 | [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 | 2023-07-14 |  |
@@ -149,7 +150,7 @@
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 | 2023-05-20 |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-10-14 | 2023-07-20 |
 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 | 2021-11-18 | 2022-03-23 |
-| [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-03 |  |
+| [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-03 | 2023-08-18 |
 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 |  |
 | [Genuine \(ft\. SOLIS\)](https://open.spotify.com/track/46siAqYfYeT5fWHStdXN28) | [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC), [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh) | [Jellyfish](https://open.spotify.com/album/4kLxWUzWC2ljw7QLHeWAUg) | 2:39 | 2022-04-21 | 2022-07-20 |
 | [Ghetto Luv](https://open.spotify.com/track/1I4TXR1BBf8uGPpW3tLadB) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:44 | 2023-01-19 | 2023-02-04 |

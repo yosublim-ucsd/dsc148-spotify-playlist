@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Peso Pluma en portada.
 
-638 songs - 1 day 10 hr 46 min
+639 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Deseo](https://open.spotify.com/track/6wCO32LfCHz8AwXRFBvZsi) | [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Efecto](https://open.spotify.com/album/2OF7tGEjqPHPeC4ua5TfBM) | 3:23 | 2023-01-27 | 2023-02-04 |
 | [Despues De Las 12](https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Despues De Las 12](https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW) | 3:14 | 2022-02-11 | 2022-04-26 |
 | [Después de las 12 \- Remix](https://open.spotify.com/track/5OrjaJWlswDGCqxWj9lxj0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Después de las 12 \(Remix\)](https://open.spotify.com/album/2alK8h5rD3pUuGksZJpYpo) | 4:47 | 2022-09-23 | 2023-01-14 |
-| [Destapando Botellitas](https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Destapando Botellitas](https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm) | 2:19 | 2023-07-07 |  |
+| [Destapando Botellitas](https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Destapando Botellitas](https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm) | 2:19 | 2023-07-07 | 2023-08-18 |
 | [Desvelado](https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Desvelado](https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt) | 3:30 | 2023-03-10 | 2023-05-20 |
 | [Devoto](https://open.spotify.com/track/5ggoKefe3Hk0UstyqSI8FA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Devoto](https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV) | 3:32 | 2022-10-28 | 2023-02-11 |
 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 | 2023-02-10 |  |
@@ -163,6 +163,7 @@
 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 | 2022-10-14 | 2022-11-12 |
 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-03-17 |  |
 | [Dile a Tu Orgullo \- En Vivo](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 | 2022-02-11 | 2022-04-25 |
+| [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:35 | 2023-08-11 |  |
 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 | 2022-08-18 | 2022-08-26 |
 | [Documentales](https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Giallo](https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo) | 3:43 | 2022-05-27 | 2022-06-18 |
 | [Domingo](https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:32 | 2022-07-15 | 2022-07-30 |

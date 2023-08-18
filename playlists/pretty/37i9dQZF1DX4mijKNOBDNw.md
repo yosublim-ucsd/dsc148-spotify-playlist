@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,134 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,149 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 57 | [Bruja](https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4) | [Jueves](https://open.spotify.com/artist/0QgjobhNIK7xjezjEl1giw), [Adryana Marroquín](https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh), [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Lúa Jenn](https://open.spotify.com/artist/7IxAfATN571mFtoyZHwCgE), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb), [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Bruja](https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj) | 2:33 |
 | 58 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
 | 59 | [Somos Hermanas](https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Somos Hermanas](https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR) | 4:25 |
-| 60 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
-| 61 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 |
-| 62 | [Piba Cumbia](https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Piba Cumbia](https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp) | 3:34 |
+| 60 | [Sororidad](https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestion y Resistencia](https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR) | 3:40 |
+| 61 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
+| 62 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 |
 | 63 | [Tenemos Voz](https://open.spotify.com/track/6f8kxxFWgxesyVsrbHn0Sh) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 3:43 |
-| 64 | [Sororidad](https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestion y Resistencia](https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR) | 3:40 |
+| 64 | [Piba Cumbia](https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Piba Cumbia](https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp) | 3:34 |
 | 65 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 |
 
-Snapshot ID: `MCw1YjQ4ZTRlOWE0OTdlN2VjYmRiMDIzMzFmYzk0M2NmNmM5MDBjNDQw`
+Snapshot ID: `MCw0MzkzNTAyN2JhNjE1MDM5YWI4M2M0ODUyZjFhOGQzZDAxNWEzZGUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,516 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,641 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 3 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 4 | [The Good Life](https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Wanna Be Around](https://open.spotify.com/album/11KbbI91LeZUkXALWALytD) | 2:14 |
 | 5 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
-| 6 | [On The Street Where You Live \- 1998 Remaster](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
+| 6 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 |
 | 7 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
 | 8 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 |
 | 9 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 35 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 36 | [What A Little Moonlight Can Do \- Remastered](https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:27 |
 | 37 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
-| 38 | [Something Happens To Me](https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [May I Come In?](https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA) | 2:04 |
+| 38 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
 | 39 | [Taking A Chance On Love](https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 2:24 |
-| 40 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
-| 41 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
+| 40 | [Something Happens To Me](https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [May I Come In?](https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA) | 2:04 |
+| 41 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
 | 42 | [Oh! Look At Me Now](https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 2:22 |
 | 43 | [Wandering \- Remastered](https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Motions & Emotions](https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV) | 2:54 |
 | 44 | [Sunny](https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH) | [Gemini Changes](https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB) | 2:10 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 65 | [What a Little Moonlight Can Do \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/0uWaNJQHQty3YkfLtiJSpT) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:56 |
 | 66 | [Give Me The Simple Life](https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie..\. At Home](https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0) | 2:05 |
 | 67 | [Is a Good Man Real?](https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 4:13 |
-| 68 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 |
+| 68 | [Let's Dance](https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 2:32 |
 | 69 | [Alright, Okay, You Win](https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:53 |
-| 70 | [Let's Dance](https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 2:32 |
+| 70 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 |
 | 71 | [This Time The Dream's On Me \- Remastered](https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:19 |
 | 72 | [One O'Clock Jump](https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 3:02 |
 | 73 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [Cocktails For Two](https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 2:12 |
 | 100 | [Farmer's Market](https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU) | [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy) | [Improvisations for the Human Voice](https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd) | 2:46 |
 
-Snapshot ID: `MCxlZWFlMThlZTZmNGE1ODMxNDE5ZTgyYmQwNDA4MmNhYmRlYzlhNzRh`
+Snapshot ID: `MCwxMTNmY2FkNzczYTg0MDJiYjI2MDE4MDk5ZTg1NzZhM2Y1ZDNlMDEw`

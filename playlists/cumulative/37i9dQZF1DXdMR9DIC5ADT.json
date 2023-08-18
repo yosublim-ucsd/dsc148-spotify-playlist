@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Noname",
+  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: d4vd",
   "name": "The WISHLIST",
   "tracks": [
     {
@@ -32,6 +32,24 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181639,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
     },
     {
       "album": {
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 116976,
       "name": "Calling Your Name",
       "url": "https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u"
@@ -772,6 +790,28 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268653,
+      "name": "Damage Gets Done",
+      "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
     },
     {
       "album": {
@@ -1262,7 +1302,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 220776,
       "name": "ghosts",
       "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
@@ -1284,7 +1324,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 174125,
       "name": "Give You Love (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
@@ -1898,10 +1938,28 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+    },
+    {
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
     },
     {
       "album": {
@@ -2341,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
+    },
+    {
+      "album": {
         "name": "nudis",
         "url": "https://open.spotify.com/album/3vQyTGxevul9xkDz3MNrIt"
       },
@@ -2374,7 +2450,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 192058,
       "name": "Number 9 (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
@@ -2770,7 +2846,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
@@ -3327,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "The Movie",
+        "url": "https://open.spotify.com/album/5BSIGN42U5I0Oc7WufATK1"
+      },
+      "artists": [
+        {
+          "name": "Doris Club",
+          "url": "https://open.spotify.com/artist/3VkvqhOXRjE6ShEbzzN7R7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "The Movie",
+      "url": "https://open.spotify.com/track/355or5j0gmz9qUHAIsBhd7"
+    },
+    {
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -3530,7 +3624,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 176160,
       "name": "Turn Your Phone Off",
       "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
@@ -3552,6 +3646,50 @@
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321333,
+      "name": "Uneasy (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI"
+    },
+    {
+      "album": {
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153366,
+      "name": "Unfinished House",
+      "url": "https://open.spotify.com/track/076OMje4i6IaJ6n9fp1aGZ"
     },
     {
       "album": {

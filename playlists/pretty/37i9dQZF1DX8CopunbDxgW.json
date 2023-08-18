@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Jungle",
-  "num_followers": 862349,
+  "num_followers": 862528,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQ1ZDU5MjBmNDg4ZWQ5MmI2OTBkMDk4MjVhOTI4MjhlNTgyZjQx",
+  "snapshot_id": "MCxlNzFkNmZhNzlhMzA3OTA4ZWY4NDkyMjAwNGJjZGI3ZTA1OGIxMDU4",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
     },
     {
-      "added_at": "2023-06-26 13:16:57",
-      "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
       "added_at": "2023-06-30 17:41:56",
       "album": {
         "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
@@ -651,6 +635,22 @@
       "duration_ms": 176730,
       "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
+    },
+    {
+      "added_at": "2023-06-26 13:16:57",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -953,20 +953,24 @@
       "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
     },
     {
-      "added_at": "2023-07-10 13:50:12",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Just The Once",
-        "url": "https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5"
+        "name": "No Nein",
+        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
       "artists": [
         {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
         }
       ],
-      "duration_ms": 204899,
-      "name": "Just The Once",
-      "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
+      "duration_ms": 151273,
+      "name": "No Nein",
+      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
     },
     {
       "added_at": "2023-08-02 00:40:25",
@@ -1005,24 +1009,36 @@
       "url": "https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "No Nein",
-        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
+        "name": "How To Fly On The Ground",
+        "url": "https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2"
       },
       "artists": [
         {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 151273,
-      "name": "No Nein",
-      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+      "duration_ms": 168426,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi"
+    },
+    {
+      "added_at": "2023-07-10 13:50:12",
+      "album": {
+        "name": "Just The Once",
+        "url": "https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 204899,
+      "name": "Just The Once",
+      "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1079,22 +1095,6 @@
       "duration_ms": 278081,
       "name": "Wagging Tongue - Wet Leg Remix",
       "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "How To Fly On The Ground",
-        "url": "https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "This Way",
-      "url": "https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
-      "added_at": "2023-04-21 17:35:52",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 165461,
-      "name": "dopamine - Version Fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Can\u2019t Let You Go",
@@ -1207,6 +1191,22 @@
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+    },
+    {
+      "added_at": "2023-04-21 17:35:52",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 165461,
+      "name": "dopamine - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa"
     },
     {
-      "added_at": "2023-06-09 14:15:06",
-      "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 202375,
-      "name": "When She Dance",
-      "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
-    },
-    {
       "added_at": "2023-05-05 14:11:14",
       "album": {
         "name": "Arrived Anxious, Left Bored",
@@ -1451,6 +1435,22 @@
       "duration_ms": 212242,
       "name": "Chalk 1.3.3 [2017 Export Wav]",
       "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
+    },
+    {
+      "added_at": "2023-06-09 14:15:06",
+      "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 202375,
+      "name": "When She Dance",
+      "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
     },
     {
       "added_at": "2023-07-14 14:00:00",
@@ -1593,6 +1593,22 @@
       "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
     },
     {
+      "added_at": "2023-07-10 13:50:12",
+      "album": {
+        "name": "A Little Bit Further",
+        "url": "https://open.spotify.com/album/1EyXqBrGIPPnKWOuGubCDb"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 302065,
+      "name": "A Little Bit Further",
+      "url": "https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "So Alive",
@@ -1613,22 +1629,6 @@
       "url": "https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA"
     },
     {
-      "added_at": "2023-07-10 13:50:12",
-      "album": {
-        "name": "A Little Bit Further",
-        "url": "https://open.spotify.com/album/1EyXqBrGIPPnKWOuGubCDb"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 302065,
-      "name": "A Little Bit Further",
-      "url": "https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "For Granted",
@@ -1643,26 +1643,6 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1685,6 +1665,42 @@
       "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
       "added_at": "2023-04-28 05:14:56",
       "album": {
         "name": "Replacements (feat. La Roux)",
@@ -1705,22 +1721,6 @@
       "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
-    },
-    {
       "added_at": "2023-06-09 14:15:06",
       "album": {
         "name": "All The Things We Say / Move Me",
@@ -1735,6 +1735,22 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "added_at": "2023-07-10 13:50:12",
+      "album": {
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Frisco",
+      "url": "https://open.spotify.com/track/10Y0kVI5FFhfPPnfnyEr3Y"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1757,38 +1773,6 @@
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
-      "added_at": "2023-07-10 13:50:12",
-      "album": {
-        "name": "Slugs of Love",
-        "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Frisco",
-      "url": "https://open.spotify.com/track/10Y0kVI5FFhfPPnfnyEr3Y"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Do Your Worst",
-        "url": "https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "OFF+ON",
@@ -1809,28 +1793,36 @@
       "url": "https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Palaces : The Remixes, Pt. 3",
-        "url": "https://open.spotify.com/album/3lGjGtDlA1E1fo7q4VeJng"
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 277865,
-      "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
-      "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
+      "duration_ms": 207413,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 117539,
+      "name": "Si Te Portas Bonito - Edit",
+      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
     }
   ],
   "unique_name": "metropolis",

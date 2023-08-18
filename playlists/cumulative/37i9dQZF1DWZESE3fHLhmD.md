@@ -4,7 +4,7 @@
 
 > Der Soundtrack für deinen Sommer ☀️
 
-73 songs - 3 hr 45 min
+74 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-26 |  |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-07-26 |  |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-07-26 |  |
-| [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-07-26 |  |
+| [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-07-26 | 2023-08-18 |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-07-26 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-26 |  |
 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-07-26 |  |
@@ -49,6 +49,7 @@
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2023-07-26 |  |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-07-26 |  |
 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 | 2023-07-26 |  |
+| [Maybe My Soulmate Died](https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj) | 1:54 | 2023-07-28 |  |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/5NBCTiyU4o57c3ClTFI3Wk) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/7AHXqAmIXflf6V96wJ33Q9) | 1:54 | 2023-07-26 | 2023-08-12 |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-07-26 |  |
 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 | 2023-07-26 |  |

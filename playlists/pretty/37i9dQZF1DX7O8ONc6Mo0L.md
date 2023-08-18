@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,380 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,547 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 52 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 |
 | 53 | [Intimidade \- Ao Vivo](https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Intimidade \(Ao Vivo\)](https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T) | 3:39 |
 | 54 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
-| 55 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 |
-| 56 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 |
+| 55 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 |
+| 56 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 |
 | 57 | [Espírito Santo \(feat\. Weslei Santos & Marcus Salles\) \- Ao Vivo no Sintonize](https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fernanda Brum Reunion no Sintonize \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN) | 4:59 |
 | 58 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
 | 59 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 |
 | 80 | [Estou Com Você \- Acústico](https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Estou Com Você \(Acústico\)](https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu) | 4:45 |
 
-Snapshot ID: `MCw2MGViNGMyMDFiYzJhNWQwZWM3OGI0OWQwNTc3YjcyN2U1NDEwODY0`
+Snapshot ID: `MCwwYTk1MjQ1MDc3NWRlZjk1NjU4NjIyMjhkMWJjN2VhMTJmZWI3OWFm`

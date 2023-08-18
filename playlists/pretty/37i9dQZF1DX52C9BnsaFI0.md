@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,271 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,486 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 16 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 17 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 | 18 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
-| 19 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
+| 19 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
 | 20 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 |
-| 21 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
+| 21 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
 | 22 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 |
 | 23 | [Mississippi Queen](https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Climbing!](https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP) | 2:31 |
 | 24 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 69 | [Jet \- 2010 Remaster](https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 4:08 |
 | 70 | [Double Vision](https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 3:44 |
 
-Snapshot ID: `MCw3ZmYwNTAzNzM1YmRhOGZmMTc1ODJhOTAzNzdhNmMxNWNhMWJiNDQw`
+Snapshot ID: `MCxjY2ZjMTExYTZlMTIyZTkzN2Q5YzkzNWQ5YjBmYTkzMmEwYzYzNjk5`

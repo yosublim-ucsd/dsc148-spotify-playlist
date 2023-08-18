@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,951 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,935 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 30 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 |
 | 31 | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K) | 3:49 |
 | 32 | [Tuesday \(feat\. Danelle Sandoval\)](https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Danelle Sandoval](https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF) | [Tuesday \(feat\. Danelle Sandoval\)](https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB) | 4:01 |
-| 33 | [Be Mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Be Mine](https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC) | 2:41 |
-| 34 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
+| 33 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
+| 34 | [Be Mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Be Mine](https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC) | 2:41 |
 | 35 | [ON](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 | 36 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 37 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 69 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i) | 3:20 |
 | 70 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
 
-Snapshot ID: `MCwwMjM5ZmM4NzA0MDU1NTg4NDFiODdlYzMwYTIyZjdiMDFmN2FkNjg5`
+Snapshot ID: `MCw2ZWU2NzcyMmZiYWEwOThmMjU0MGE1ZDg1OWEyNDE5ZWU0YzNlZWVj`

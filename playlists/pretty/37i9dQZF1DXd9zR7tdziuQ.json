@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 883578,
+  "num_followers": 883900,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmYyODc1YzBkZjUzYWVlYTk2OTFjNTIxOTQ5OTc4NzA1ZWQyMjM0",
+  "snapshot_id": "MCwzYWM4NGJkYmY1MmQwOWMxNTZjNTg2YzhjMTUwYzkxM2ZlYmExN2Jj",
   "tracks": [
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Cold Water",
         "url": "https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 181595,
       "name": "Cold Water",
       "url": "https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Crazy (Live Sessions)",
         "url": "https://open.spotify.com/album/6GlV1bUsj1Vjk6xHIJKhbC"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 176067,
       "name": "Crazy - Live Sessions",
       "url": "https://open.spotify.com/track/15byLK9MadQ44VM9opaGms"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Perfect Strangers (Acoustic)",
         "url": "https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 191206,
       "name": "Perfect Strangers - Acoustic",
       "url": "https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "Send Me on My Way [Acoustic (Cover)]",
+        "url": "https://open.spotify.com/album/1SXjeUTHmvRkWdt0H1kkZN"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 187812,
+      "name": "Send Me on My Way - Acoustic (Cover)",
+      "url": "https://open.spotify.com/track/6GwwLE8TEnCkjlr9w0uimV"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Passport Home - EP",
         "url": "https://open.spotify.com/album/3geJ2JihmZE86xCXINxDgx"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 253000,
       "name": "Jolene - Live",
       "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "Send Me on My Way [Acoustic (Cover)]",
-        "url": "https://open.spotify.com/album/1SXjeUTHmvRkWdt0H1kkZN"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 187812,
-      "name": "Send Me on My Way - Acoustic (Cover)",
-      "url": "https://open.spotify.com/track/6GwwLE8TEnCkjlr9w0uimV"
     },
     {
       "added_at": "2023-06-27 12:12:43",

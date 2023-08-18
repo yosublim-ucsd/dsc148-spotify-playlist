@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 187556,
       "name": "ALL U ARE - Just A Gent Remix",
       "url": "https://open.spotify.com/track/6lqt3XeLmeGfg8osgFql0z"
@@ -4679,6 +4679,28 @@
     },
     {
       "album": {
+        "name": "i luv ur smile",
+        "url": "https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP"
+      },
+      "artists": [
+        {
+          "name": "Harrisun",
+          "url": "https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa"
+        },
+        {
+          "name": "Teddy Roxpin",
+          "url": "https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247619,
+      "name": "i luv ur smile",
+      "url": "https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD"
+    },
+    {
+      "album": {
         "name": "I Need",
         "url": "https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX"
       },
@@ -6185,6 +6207,32 @@
     },
     {
       "album": {
+        "name": "NO PLACE IS TOO FAR (feat. Whethan & Sela Sol)",
+        "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Selah Sol",
+          "url": "https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180903,
+      "name": "NO PLACE IS TOO FAR (feat. Whethan & Sela Sol)",
+      "url": "https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR"
+    },
+    {
+      "album": {
         "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
       },
@@ -7667,7 +7715,7 @@
         },
         {
           "name": "SHIMA",
-          "url": "https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE"
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
         }
       ],
       "date_added": "2023-08-04",
@@ -8214,7 +8262,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 303750,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,248 likes - 132 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,271 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 77 | [Hard Carry](https://open.spotify.com/track/0QJk64Xo6tdXNjXg4RnqpI) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H) | 3:13 |
 | 78 | [Teenager](https://open.spotify.com/track/00epHVn0WOaXiT3UhpIINp) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:09 |
 | 79 | [If You Do](https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk) | 3:30 |
-| 80 | [A](https://open.spotify.com/track/2KAsxwOMeRSsLy6RcP9PWl) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT♡](https://open.spotify.com/album/2KrRof53R397vP2TROZO6N) | 3:02 |
+| 80 | [A](https://open.spotify.com/track/2KAsxwOMeRSsLy6RcP9PWl) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT♡](https://open.spotify.com/album/2KrRof53R397vP2TROZO6N) | 3:01 |
 | 81 | [Just Right](https://open.spotify.com/track/16dL6zhP5MLxEwX8sbqCOa) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Just Right](https://open.spotify.com/album/0hRtcVLlfHj4zkc1vZOku5) | 3:42 |
 | 82 | [I WON'T LET YOU GO](https://open.spotify.com/track/3cdHL2ljh7IFnOtRsUOnej) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I WON'T LET YOU GO \(Complete Edition\)](https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J) | 3:37 |
 | 83 | [You Are](https://open.spotify.com/track/5THFfbp23EcJsygTyiBDzJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:20 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 131 | [From Now](https://open.spotify.com/track/06aBqmxwpJU0mRuwvXHPpZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD) | 3:19 |
 | 132 | [No One Else](https://open.spotify.com/track/5QBZXB121DgCLxT5PGsW6v) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:22 |
 
-Snapshot ID: `MCxjYjAyOWE1ODMzNmNiMjk5MzliNDY1MTUwNjgxY2E5NGI2Yzg3YmU4`
+Snapshot ID: `MCw4OTljYTY1NzQzN2Q5ZjQwMjc5MDQxMmY2OWRlMTA0YjBkNTRlYTk0`

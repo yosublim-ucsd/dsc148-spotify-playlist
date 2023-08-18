@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 42428,
+  "num_followers": 42668,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTU2OGQyOTFiNWU3NTA3NDhiN2YzOGFjNTU5YTAwYjU5NGYwMmIz",
+  "snapshot_id": "MCxhMjBlOTE0MzQ3MGRmMmFhMWFlMWE0MDViZjM2NDlkODQ0OGZmNjVi",
   "tracks": [
     {
       "added_at": "2023-07-31 19:10:18",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-07-31 19:10:18",
       "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Perhaps Vampires Is A Bit Strong But\u2026",
+      "url": "https://open.spotify.com/track/6Slvi85s1hIaeykjvDe1xk"
+    },
+    {
+      "added_at": "2023-07-31 19:10:18",
+      "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 215320,
       "name": "Burn The Witch",
       "url": "https://open.spotify.com/track/7yyif2Ity1GipUXTdgofKw"
-    },
-    {
-      "added_at": "2023-07-31 19:10:18",
-      "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Perhaps Vampires Is A Bit Strong But\u2026",
-      "url": "https://open.spotify.com/track/2vVHf43MQ8V3gDbo8HRlnJ"
     },
     {
       "added_at": "2023-07-31 19:10:18",

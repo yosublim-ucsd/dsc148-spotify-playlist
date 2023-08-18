@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,835 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,971 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 33 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
 | 34 | [Avanti Morocha](https://open.spotify.com/track/411J3pP54W1K9PMo72Fg2w) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:46 |
 | 35 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 |
-| 36 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
+| 36 | [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 |
 | 37 | [Ella Usó Mi Cabeza Como Un Revólver \- Remasterizado 2007](https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:29 |
-| 38 | [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 |
+| 38 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
 | 39 | [Brillante sobre el mic](https://open.spotify.com/track/2dxRzFDDv3QcSMQ0vIgqMF) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:08 |
 | 40 | [Fondo Profundo](https://open.spotify.com/track/2g229Q3Relqxkj5CDnTjeE) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 3:44 |
 | 41 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 63 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 |
 | 64 | [Queso Ruso](https://open.spotify.com/track/3Zf6FUeAVlk0Rk1VIgBHlb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 4:52 |
 | 65 | [Violeta](https://open.spotify.com/track/2THmcJIDCd4jtjAu16u9PO) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [Violeta](https://open.spotify.com/album/1NL2YOtIloS3ByIqlNBurg) | 3:10 |
-| 66 | [Mary Poppins y el deshollinador](https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 4:07 |
+| 66 | [Pulsar](https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:54 |
 | 67 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
-| 68 | [Pulsar](https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:54 |
+| 68 | [Mary Poppins y el deshollinador](https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 4:07 |
 | 69 | [Mujer Amante](https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 6:03 |
 | 70 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
 | 71 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/2p44QtrD16WSiIZxbDOtxg) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Vasos Vacíos](https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4) | 3:59 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 77 | [Desde Lejos No Se Ve](https://open.spotify.com/track/4QdsQSL30AR51ORqBGqbph) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:41 |
 | 78 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
 | 79 | [Aquí no podemos hacerlo](https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 4:36 |
-| 80 | [La Yapa](https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:02 |
+| 80 | [Por primera vez](https://open.spotify.com/track/4T5F6QmjDC5I4w0Rqu0yCf) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Irremplazables](https://open.spotify.com/album/6LE66jIaVUHBNtiH0hXDAv) | 4:00 |
 
-Snapshot ID: `MCxiOWZjMDZkMGNjOGM1YmNlYTliZmU3MGIwZDJhY2JmNzE1YjAyMGZj`
+Snapshot ID: `MCw3MzQzZGQwNDFiYzc0NTdiMmI4ZTUzMTdjNjE3YmFlN2I3NDE0MDcy`

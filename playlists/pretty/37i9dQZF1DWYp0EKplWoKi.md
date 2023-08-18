@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Luis R Conriquez & Lunaty en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,898 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,975 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 |
 | 50 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 |
 
-Snapshot ID: `MCwwMzQ1ZDkyMGQ3YjZkNmJkYjY3MDc4MTk0NDcxNjE1NzkxZGJmZjBh`
+Snapshot ID: `MCw5Y2Y1NTNlY2JjZjZiZjM4YTkwNGI0MGM4ZTM0MmQzNWI2ZGM3OTQ3`

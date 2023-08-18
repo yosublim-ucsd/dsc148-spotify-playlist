@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-259 songs - 14 hr 16 min
+260 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Flowers](https://open.spotify.com/track/7b0pYUXR8163C4vwPsj6mS) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/1iKgYWtkwZdPihOVh2KaeH) | 2:34 | 2022-10-06 | 2023-01-27 |
 | [For A Minute](https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [For A Minute](https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS) | 1:48 | 2021-08-05 |  |
 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 | 2021-08-05 | 2023-01-27 |
+| [Fortune Cookie](https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Weather Report](https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn) | 3:11 | 2023-08-09 |  |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2021-08-05 | 2023-01-27 |
 | [fukced up.](https://open.spotify.com/track/3CPWUWSmbkKoV48apYPi5d) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [fukced up.](https://open.spotify.com/album/7yQRIySYJmZwqpMPbWGVTC) | 2:52 | 2021-10-13 | 2022-07-26 |
 | [Funny \(feat\. Childish Major\)](https://open.spotify.com/track/58nLMb5qqqwvfechq107Oh) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [Funny \(feat\. Childish Major\)](https://open.spotify.com/album/19obOmlq0RUz1TgM7fE3he) | 2:42 | 2023-08-09 |  |
@@ -152,7 +153,7 @@
 | [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-14 | 2022-10-13 |
 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 | 2022-10-06 |  |
 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 | 2021-12-14 | 2022-04-21 |
-| [Magic City](https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8) | 2:24 | 2023-08-09 |  |
+| [Magic City](https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8) | 2:24 | 2023-08-09 | 2023-08-18 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-08-05 |  |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-08-05 | 2023-01-27 |
 | [Malibu](https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Malibu](https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc) | 1:32 | 2021-11-12 |  |

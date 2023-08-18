@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 301352,
+  "num_followers": 301547,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
+  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -327,6 +327,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hand On The Torch",
         "url": "https://open.spotify.com/album/3lOv4MWFZGIJmHdyMXtlB5"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 279360,
       "name": "Cantaloop (Flip Fantasia)",
       "url": "https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Nakamarra",
-      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "urban lounge",
         "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 286600,
       "name": "Nothing Has Changed",
       "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",

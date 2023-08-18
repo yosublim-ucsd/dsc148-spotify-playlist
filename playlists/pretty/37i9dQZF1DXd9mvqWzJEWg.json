@@ -1,15 +1,51 @@
 {
   "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=bJrObwcCQVqioXx0m85mHA\">DJ Lag</a>.",
-  "num_followers": 52884,
+  "num_followers": 52909,
   "original_name": "GQOM Power House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDQ1N2JmNWM0MGJjNzkxMzZiZGFjZDUyY2Q2YWE3ZDYxNWQ1MDFl",
+  "snapshot_id": "MCw5ZDYxN2MyNTBhZDE2ZGY2NGQyYWUzOTZmYjM5N2YyNzVjM2E2ZGY3",
   "tracks": [
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Bhuwa's Party",
+        "url": "https://open.spotify.com/album/2TjEOCa9yiWD1Ud3w14NgN"
+      },
+      "artists": [
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Bhuwa G",
+          "url": "https://open.spotify.com/artist/6d1P6DJxCWIjnR6GI9qhdI"
+        },
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
+        },
+        {
+          "name": "Solan Lo",
+          "url": "https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq"
+        },
+        {
+          "name": "DJ Pepe",
+          "url": "https://open.spotify.com/artist/4I54IHr2hrvOAQjUF0smrI"
+        },
+        {
+          "name": "Kwah",
+          "url": "https://open.spotify.com/artist/1uJMiYEOwN2sqk8Nyd11SQ"
+        }
+      ],
+      "duration_ms": 338267,
+      "name": "Bhuwa's Party",
+      "url": "https://open.spotify.com/track/4pOKeo4Omk7ZjueaOr7IIM"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Non Greater",
         "url": "https://open.spotify.com/album/4KseeLWsWc5ymGt6Fk9Aan"
@@ -25,7 +61,7 @@
       "url": "https://open.spotify.com/track/44udvR3dQhCTNEL8gpxPdo"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/0QYvoihSPn22fsyyHFU459"
@@ -45,7 +81,27 @@
       "url": "https://open.spotify.com/track/03WpImRRBMoMSI8Ch8aayl"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "Where\u2019s Your Father",
+        "url": "https://open.spotify.com/album/11zHsMaJeCtPqGl9q2H65M"
+      },
+      "artists": [
+        {
+          "name": "QUE DJ",
+          "url": "https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka"
+        },
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        }
+      ],
+      "duration_ms": 292886,
+      "name": "Where\u2019s Your Father",
+      "url": "https://open.spotify.com/track/3XeBivr42lfpYyL3XLjvzj"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58"
@@ -65,7 +121,7 @@
       "url": "https://open.spotify.com/track/3nPRu3yG0hVuUOJOiW6zo3"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt"
@@ -85,7 +141,23 @@
       "url": "https://open.spotify.com/track/1Bailok9p8aLTZdcIM2hIv"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
+      "album": {
+        "name": "iSthin' iStory 2.0",
+        "url": "https://open.spotify.com/album/432ipGgv1T6zBkiXMGK80O"
+      },
+      "artists": [
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "duration_ms": 334576,
+      "name": "iSthin' iStory 2.0",
+      "url": "https://open.spotify.com/track/0VGuFGnnAreOKhk7LOMSUu"
+    },
+    {
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Sikilidi",
         "url": "https://open.spotify.com/album/7ts45rwys2sGnV6hpfY5Qc"
@@ -121,7 +193,7 @@
       "url": "https://open.spotify.com/track/23luTVNXuCGC05B59KV7gO"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Ey\u2019Ntabeni",
         "url": "https://open.spotify.com/album/2H8eY3UvbpLjYvI87mB4lQ"
@@ -153,7 +225,7 @@
       "url": "https://open.spotify.com/track/2WfJW9YQct5kBICCRVv4NX"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Amaketanga",
         "url": "https://open.spotify.com/album/6nrUhUWLwowLQvJKDeuCx0"
@@ -177,7 +249,7 @@
       "url": "https://open.spotify.com/track/06ACDPeo4Y86xw8w2F5lCn"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Back to Ebombeni",
         "url": "https://open.spotify.com/album/47jsuTeh9UiCr2QBozkoIS"
@@ -197,7 +269,7 @@
       "url": "https://open.spotify.com/track/60LrKAurxTVnWjmU9sQVtG"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Uhayizelani",
         "url": "https://open.spotify.com/album/18NjQSo84NAi032NOZSGVV"
@@ -217,7 +289,7 @@
       "url": "https://open.spotify.com/track/5HamRh4oj341Q336qcQZEE"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Coloured Goose",
         "url": "https://open.spotify.com/album/4HRCidNp6wRmrD3mUsGIg5"
@@ -237,7 +309,7 @@
       "url": "https://open.spotify.com/track/7wesfLW7BjVajGqFw6MimD"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "For The Wait",
         "url": "https://open.spotify.com/album/0X59ANGZKEZQPAJWjn7UYN"
@@ -253,27 +325,7 @@
       "url": "https://open.spotify.com/track/0MvzoUDnJRA6X1nMJIs1gS"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Where\u2019s Your Father",
-        "url": "https://open.spotify.com/album/11zHsMaJeCtPqGl9q2H65M"
-      },
-      "artists": [
-        {
-          "name": "QUE DJ",
-          "url": "https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka"
-        },
-        {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
-        }
-      ],
-      "duration_ms": 292886,
-      "name": "Where\u2019s Your Father",
-      "url": "https://open.spotify.com/track/3XeBivr42lfpYyL3XLjvzj"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Back To Ebombeni (Deluxe)",
         "url": "https://open.spotify.com/album/2PPmVL7PqOfCT2p12gSTYO"
@@ -293,27 +345,7 @@
       "url": "https://open.spotify.com/track/0sfYxexj1Sma2UfzLuCyhb"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Ngicela Ungivulele",
-        "url": "https://open.spotify.com/album/2DkrGSeIDruhJFWIvak2H9"
-      },
-      "artists": [
-        {
-          "name": "Abangani Bethu",
-          "url": "https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT"
-        },
-        {
-          "name": "Hopewell Rsa",
-          "url": "https://open.spotify.com/artist/5yrHS6lgMUaUslcUlvHmWa"
-        }
-      ],
-      "duration_ms": 281782,
-      "name": "Ngicela Ungivulele",
-      "url": "https://open.spotify.com/track/6KZcIH2LM1jVYvPK5vpCnq"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Ndixoleleni Bazali",
         "url": "https://open.spotify.com/album/2LvxX9LhtneU5DUpIM5xnV"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/64bgsr9AEftPmd7hrENA2n"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Buyisa Uthando",
         "url": "https://open.spotify.com/album/1OssZOUimnqEaEjsHPOB1E"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/5mM5a7foWvJ2F2cjK78am7"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Vutha",
         "url": "https://open.spotify.com/album/4rGWCrkgsLM61OiRmRhrmd"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/4dP2Dh9RcvuflSvXNwguCD"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Lokshin Gqom Wave",
         "url": "https://open.spotify.com/album/0XQbkUa14wTzXzFTUbkugi"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/4TXaFQYgrKmuZdCvHRA1JC"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "150K Streams Appreciation",
         "url": "https://open.spotify.com/album/13I5YuZW0RjZWL78sVkiKc"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/2HrBhE3ZQFsOPoIe8Eybnp"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "ITHUBA",
         "url": "https://open.spotify.com/album/3oMzLsQVDHx3OdnahkuS2x"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/4e9zJmzI6YbX3zChzpvjxv"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Iskhathi",
         "url": "https://open.spotify.com/album/5ENrExL7A2Fqd4kj6nGqgs"
@@ -461,7 +493,7 @@
       "url": "https://open.spotify.com/track/1n1DYCOXaHktV9u0sH4DGs"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Cruel Style",
         "url": "https://open.spotify.com/album/2YchdCwhiGqDvgi9KGDZ8d"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/1VNIGZyXG9s8s4MQ30ulwO"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Amaketanga",
         "url": "https://open.spotify.com/album/6nrUhUWLwowLQvJKDeuCx0"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/5EAiMT0YjRE8OeALSRtYEC"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "The Gqom Cartel",
         "url": "https://open.spotify.com/album/44UeAnhoCkfZDaEYHK5pXO"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/7K91DUq99r3KisZTWfwP97"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Lift Club",
         "url": "https://open.spotify.com/album/0XTMyT0IdxqTLh3XS3fhaj"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/4x1jmAGggUOK6BjykA0uRP"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Bashile",
         "url": "https://open.spotify.com/album/4y5mHx3H9adbds4WFmyzJn"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/3BmxRkVarNV3vWpQN0ouix"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/74WgBR29qv8O3dSi4sckoh"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Qala Phansi",
         "url": "https://open.spotify.com/album/5IgT9uVYSqiTJHOP29oEKu"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/4vDi7OUpnU8AU6ux8nNBjA"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "The Goats Ep",
         "url": "https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "We Are S.A.M, Vol. 4",
         "url": "https://open.spotify.com/album/0hSdddIjaUiKdj1whq1vIa"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/2KTINo3ozg7TELi3PHWitx"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Loluthando",
         "url": "https://open.spotify.com/album/6ocHrPCICNOGux2kg4lc3H"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/6XCzC2gTsp20Qrm5TALZ0i"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/0oR6mfFuulK6jJHX7Vi0Lk"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/24TbpmQWrUYjSnLMWaEhbv"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Abazalwane Ezingalweni",
         "url": "https://open.spotify.com/album/6Z2YL2VCKNFXYCDUjGUYkB"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/22E86Ci3ewtSAqIXEd3NLV"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Abantu Bethu (Gqom Mix)",
         "url": "https://open.spotify.com/album/0z9uNsUwOKyhy5Cj4ENARi"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/4gsMZZbXIahKmcboYFpfMU"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "World We Live In",
         "url": "https://open.spotify.com/album/5WPKN5VXyhdMUiHRX3gmwJ"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/5Aie9qiaZBJuPDMiqTk56S"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "AK47",
         "url": "https://open.spotify.com/album/6dDFU8LUav3oZnFVGXbewu"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/3QilMDeDIelmgWloV3cXa1"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Ibhasi",
         "url": "https://open.spotify.com/album/3bHIOci71PkzUQjMpNz9UU"
@@ -781,7 +813,7 @@
       "url": "https://open.spotify.com/track/17s4JoacgNUVQSR6G8s2Ql"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Imali",
         "url": "https://open.spotify.com/album/1QTu1sPc5EYFeufpGVVfnc"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/4u0RKHQuHzEiXySDbRYy1B"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Kumnandi ethekwin",
         "url": "https://open.spotify.com/album/0fgS3BSWTY7Lq9rT5j7yz1"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/3CpwqI9HC7JquiJLzKN19K"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "The time is now",
         "url": "https://open.spotify.com/album/5CRTcjD9F5GJKTISjzjY2I"
@@ -833,23 +865,7 @@
       "url": "https://open.spotify.com/track/6XScWDTmRpfd2Gi1stm1hR"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Underworld",
-        "url": "https://open.spotify.com/album/6MExFZ1jDwPkEpP6IQ61M9"
-      },
-      "artists": [
-        {
-          "name": "Woza Spice",
-          "url": "https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ"
-        }
-      ],
-      "duration_ms": 331363,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/3nMfPEFkrNxZSYbKVe99hf"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/6wc5kA4Opm6zkyoSAXjQTt"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/4al36LCHp4eEYc5op7O76p"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "State of Mind",
         "url": "https://open.spotify.com/album/3qRRaKC2D8NBLF49dBvd9U"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/3doLZmoiwsooXGiSWOB645"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Umuntu Ngumuntu",
         "url": "https://open.spotify.com/album/12ob8PXtfJfLJeqCPDVZa9"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/1WEPtoyDkzWDgB4iduxErM"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "RKO",
         "url": "https://open.spotify.com/album/4mIrRZd9lgR5rcP32X3yS9"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/4bwAwH7bHc68cmQHlgg483"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Umthakathi, Pt.2",
         "url": "https://open.spotify.com/album/3Ic3xqY8QCTsaOG21Q6PnU"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/54oNEsirfYyaJvbUZuTwoT"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Rock the Club",
         "url": "https://open.spotify.com/album/7clvgkwDTvqPXx2ulXmbUd"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/6ZORv7p5vbe1ugYijPebnH"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Shona Phantsi",
         "url": "https://open.spotify.com/album/7LRAb1nUeBBJtEnTnWjUBZ"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/14KEZJsz3lLCZaCKzNFc9B"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "More Fire",
         "url": "https://open.spotify.com/album/2YbGuailFUgeytbcyd0COq"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0Whz9ugj0IdnukqfhyeHEL"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-08-17 22:01:51",
       "album": {
         "name": "Umhlaka 2",
         "url": "https://open.spotify.com/album/06tkCF1OAZz0Z8XwDSpE6n"

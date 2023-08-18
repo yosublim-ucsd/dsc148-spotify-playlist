@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,029 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,031 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 11 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 |
 | 12 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 |
 | 13 | [Jekyll and Hyde](https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:26 |
-| 14 | [Bulletproof](https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:57 |
-| 15 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
+| 14 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
+| 15 | [Bulletproof](https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:57 |
 | 16 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
 | 17 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 18 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 |
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 23 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 24 | [When Legends Rise](https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:52 |
 | 25 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
-| 26 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
-| 27 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
+| 26 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
+| 27 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 28 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
 | 29 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
 | 30 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
 | 31 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 32 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
-| 33 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
-| 34 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
+| 33 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
+| 34 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
 | 35 | [The Safety of Disbelief](https://open.spotify.com/track/49ylH81Y53wUOlTHqXK1J2) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Revival](https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV) | 3:33 |
 | 36 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 37 | [Pet](https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:34 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 47 | [Low](https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Pressure](https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP) | 3:47 |
 | 48 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 |
 | 49 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 50 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
-| 51 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
+| 50 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
+| 51 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
 | 52 | [Lost In The Static](https://open.spotify.com/track/7zKoAeplPMS3bcqIZ4crp4) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K) | 4:33 |
 | 53 | [Masochist](https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Death of Me](https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1) | 4:07 |
 | 54 | [Warrior](https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:45 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 56 | [The Black](https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Black](https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V) | 4:41 |
 | 57 | [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 |
 | 58 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 |
-| 59 | [Bones Exposed](https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f) | 4:15 |
-| 60 | [Cross Off](https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Anesthetic](https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR) | 4:13 |
+| 59 | [Cross Off](https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Anesthetic](https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR) | 4:13 |
+| 60 | [Bones Exposed](https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f) | 4:15 |
 | 61 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
 | 62 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 63 | [Aftermath](https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [The Ghost Inside](https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z) | 4:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 69 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
 | 70 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
 
-Snapshot ID: `MCxkNjgwYzU0MDIzNTBmMjM0ZTVmZmFiNGQ2NDE5ZWU3NGRiY2RlOGVl`
+Snapshot ID: `MCxlMzExZjFhNjIzYzZlNzkwYjFlYTkyZWMzNmMyM2I5ODM2YjNiZDlj`

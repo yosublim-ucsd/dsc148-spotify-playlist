@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-222 songs - 12 hr 33 min
+223 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2021-06-22 | 2022-06-02 |
 | [Girls Like Sex](https://open.spotify.com/track/74KsTGXDYNCLXyIH6z3KBV) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part One](https://open.spotify.com/album/0xpGqHeRXVSovn5VEvgzHA) | 2:45 | 2021-06-22 | 2022-06-01 |
 | [Give N Take](https://open.spotify.com/track/7jWhV7NUWis2KZJT4TmAHK) | [Magic Island](https://open.spotify.com/artist/1hynEsM3auBViMFQdPR4xR) | [So Wrong](https://open.spotify.com/album/3r8QsDHn1HCGP9dXh3eTWI) | 3:22 | 2021-06-22 | 2022-06-01 |
-| [GODDESS](https://open.spotify.com/track/3USPJ2zADa19gYMZyRI61b) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 2:32 | 2023-06-01 |  |
+| [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 | 2023-06-01 |  |
+| [GODDESS](https://open.spotify.com/track/3USPJ2zADa19gYMZyRI61b) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 2:32 | 2023-06-01 | 2023-08-18 |
 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 | 2023-01-24 |  |
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2021-06-22 | 2022-06-01 |
 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 | 2023-06-01 | 2023-07-05 |

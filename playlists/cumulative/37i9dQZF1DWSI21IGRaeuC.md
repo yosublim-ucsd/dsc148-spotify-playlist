@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-195 songs - 16 hr 26 min
+196 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Ramona](https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 7:03 | 2023-03-17 | 2023-05-23 |
 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 | 2022-08-15 |  |
 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 | 2022-06-10 |  |
-| [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 | 2022-06-03 |  |
+| [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 | 2022-06-03 | 2023-08-18 |
 | [Rebola \(feat\. DoFlow\)](https://open.spotify.com/track/0FLhTpx3k2uU1qVGxpiLhs) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Teklow](https://open.spotify.com/artist/1EosnwOj5ddu5EyjpAUS9T), [DoFlow](https://open.spotify.com/artist/2dCbK9C2lQSWpDEMb2P4Vs) | [Rebola \(feat\. DoFlow\)](https://open.spotify.com/album/28G8TNrYXVLIYLsFPXGeyK) | 2:53 | 2023-03-17 | 2023-03-19 |
 | [Regulate](https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Regulate](https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO) | 2:34 | 2023-03-03 |  |
 | [Rizzla \- Mochakk Remix](https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \(Mochakk Remix\)](https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw) | 5:21 | 2022-08-19 |  |
@@ -166,6 +166,7 @@
 | [Take Me Back](https://open.spotify.com/track/6rMDUHBXp1yYr3qftxfXG5) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/4ZAMiJSXpoZeXZkRGxrJt4) | 3:17 | 2023-05-12 | 2023-05-27 |
 | [TAKE ME HIGH](https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TAKE ME HIGH](https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT) | 3:40 | 2023-03-17 |  |
 | [Take My Hand](https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Take My Hand](https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj) | 5:17 | 2022-08-19 | 2022-09-19 |
+| [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-11 |  |
 | [Te Voy A Dar](https://open.spotify.com/track/4eIsRh7sfRf94s4TtE4UWx) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc) | [Te Voy A Dar](https://open.spotify.com/album/0PQX0fBA76hR7jcrvzpRZX) | 3:05 | 2023-03-17 | 2023-04-03 |
 | [Testimony](https://open.spotify.com/track/702TT2q83VQlC75h807I1J) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Testimony](https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb) | 6:41 | 2022-06-03 | 2023-03-26 |
 | [That's Right](https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [That's Right / The Maze](https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS) | 5:58 | 2022-06-03 | 2022-07-28 |

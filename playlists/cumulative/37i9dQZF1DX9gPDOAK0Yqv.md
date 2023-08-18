@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-318 songs - 1 day 3 hr 29 min
+319 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 | 2023-03-03 | 2023-03-22 |
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-10 | 2023-03-11 |
 | [Eternity](https://open.spotify.com/track/1qolXijooNmOF6qs5Jz7Aq) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Eternity](https://open.spotify.com/album/0PUSgcVtMYG0RkeE6IQyxC) | 6:56 | 2022-11-23 | 2023-01-28 |
-| [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-28 |  |
+| [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-08-11 |  |
+| [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-28 | 2023-08-18 |
 | [Faceless](https://open.spotify.com/track/3kqt49NJLMtAkmjuAsQq79) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [Faceless](https://open.spotify.com/album/74BOGboC3BF4wz3IbThmDj) | 3:45 | 2022-12-28 | 2023-01-06 |
 | [Faces](https://open.spotify.com/track/1pJnlza96BNgidDe5uiAPI) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Near Life Experience](https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv) | 4:29 | 2022-11-23 | 2023-02-28 |
 | [Faceted Obsidian](https://open.spotify.com/track/0EVZvFOXx0QeRcYEBZJhX1) | [Incláme](https://open.spotify.com/artist/3jEvfxjUTWizkdT7TxUcWQ) | [Faceted Obsidian EP](https://open.spotify.com/album/5LJbIVBn4Vvupg2rtbEWc8) | 7:01 | 2023-06-30 | 2023-08-05 |

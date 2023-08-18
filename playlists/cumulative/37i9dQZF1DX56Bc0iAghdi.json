@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp"
+      },
+      "artists": [
+        {
+          "name": "Miqueas Lopez",
+          "url": "https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN"
+    },
+    {
+      "album": {
         "name": "Gang Signs & Prayer",
         "url": "https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW"
       },
@@ -774,7 +792,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 195102,
       "name": "Lead the Way",
       "url": "https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz"

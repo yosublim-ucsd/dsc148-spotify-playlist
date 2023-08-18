@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,476 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,827 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 62 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
 | 63 | [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 |
 | 64 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 |
-| 65 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
-| 66 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
+| 65 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
+| 66 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
 | 67 | [Never Come Back Again](https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9) | [Austin Plaine](https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN) | [Austin Plaine](https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN) | 3:16 |
-| 68 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
-| 69 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
+| 68 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
+| 69 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
 | 70 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 71 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 |
 | 72 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 81 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 82 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 |
 | 83 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |
-| 84 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
-| 85 | [Backyard Mafia](https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Backyard Mafia](https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ) | 3:35 |
-| 86 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 |
+| 84 | [Backyard Mafia](https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Backyard Mafia](https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ) | 3:35 |
+| 85 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 |
+| 86 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
 | 87 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 |
 | 88 | [Coffee](https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj) | 3:05 |
 | 89 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
 | 100 | [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 |
 
-Snapshot ID: `MCwyMDJlMDMyMDNkZTgwNWY2MmY0M2JjZGNmODc3YTRmMjQyZmE5ZDM3`
+Snapshot ID: `MCw4MGQ4MWU3NmE4OWZlOGZiY2RjODRhNjA2NGFmNDBjZWQxNzhmMDRj`

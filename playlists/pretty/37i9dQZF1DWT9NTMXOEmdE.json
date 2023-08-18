@@ -1,12 +1,12 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 477610,
+  "num_followers": 477744,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDUyMjcxZTcwYTRiYzU3Njk4MGVlOWYyYjNhMGYyMmU0ZGFiNGFl",
+  "snapshot_id": "MCw3YzE1YjAwZjc1Zjg0MjYxZTQyOTFhMWU3ZWVhNDFmNDcxYzExY2Vm",
   "tracks": [
     {
       "added_at": "2023-08-09 05:21:47",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-08-09 05:21:47",
       "album": {
+        "name": "Please Me",
+        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 200889,
+      "name": "Please Me",
+      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+    },
+    {
+      "added_at": "2023-08-09 05:21:47",
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
-    },
-    {
-      "added_at": "2023-08-09 05:21:47",
-      "album": {
-        "name": "Please Me",
-        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 200889,
-      "name": "Please Me",
-      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
     },
     {
       "added_at": "2023-08-09 05:21:47",

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 456916,
+  "num_followers": 456968,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTdhOWY3YTQ3OGZiMjQ4ZjMwNDRkN2M0ZWE5ZGZlNmU2YzE4OTY1",
+  "snapshot_id": "MCwzOTIwYTA1Nzg1NWE5ODE3ZjFmNWM5NTBlZGQwOWZhNTVhYTNjMTc1",
   "tracks": [
     {
       "added_at": "2023-07-28 21:29:53",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
-      "added_at": "2023-05-09 02:39:29",
+      "added_at": "2023-08-17 17:08:08",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+        "name": "kanashi\u0304",
+        "url": "https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         }
       ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+      "duration_ms": 291463,
+      "name": "Calico",
+      "url": "https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ"
     },
     {
       "added_at": "2023-07-28 21:29:53",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
+      "added_at": "2022-04-22 18:49:16",
+      "album": {
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
+    },
+    {
       "added_at": "2022-08-03 03:12:05",
       "album": {
         "name": "Sons Of",
@@ -293,22 +309,6 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
-      "added_at": "2022-04-22 18:49:16",
-      "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/0LHWXE2N0oByFLjTqcfrkb"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
-    },
-    {
       "added_at": "2022-02-25 03:39:39",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -323,26 +323,6 @@
       "duration_ms": 346588,
       "name": "Exotic Contents",
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
-      "added_at": "2022-02-25 05:12:51",
-      "album": {
-        "name": "April Dub",
-        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
-      },
-      "artists": [
-        {
-          "name": "Sancho Meiso Chaya",
-          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
-        },
-        {
-          "name": "Koyas",
-          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "April Dub (Koyas Mix)",
-      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
       "added_at": "2023-06-27 23:11:49",
@@ -363,6 +343,26 @@
       "duration_ms": 299190,
       "name": "Praha",
       "url": "https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK"
+    },
+    {
+      "added_at": "2022-02-25 05:12:51",
+      "album": {
+        "name": "April Dub",
+        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
+      },
+      "artists": [
+        {
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        },
+        {
+          "name": "Koyas",
+          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "April Dub (Koyas Mix)",
+      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
       "added_at": "2022-03-30 04:42:42",
@@ -429,6 +429,30 @@
       "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
     },
     {
+      "added_at": "2022-05-06 03:38:46",
+      "album": {
+        "name": "infina ad nausea: the remixes",
+        "url": "https://open.spotify.com/album/3CgouRSATvx4CKXupVEf2j"
+      },
+      "artists": [
+        {
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+        },
+        {
+          "name": "Daniel de Lara",
+          "url": "https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI"
+        },
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "duration_ms": 359152,
+      "name": "Blame Me - BAILE Remix",
+      "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
+    },
+    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -461,46 +485,6 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
-      "added_at": "2022-05-06 03:38:46",
-      "album": {
-        "name": "infina ad nausea: the remixes",
-        "url": "https://open.spotify.com/album/3CgouRSATvx4CKXupVEf2j"
-      },
-      "artists": [
-        {
-          "name": "QRTR",
-          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
-        },
-        {
-          "name": "Daniel de Lara",
-          "url": "https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI"
-        },
-        {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
-        }
-      ],
-      "duration_ms": 359152,
-      "name": "Blame Me - BAILE Remix",
-      "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
-    },
-    {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Put Your Head Above The Parakeets",
@@ -531,6 +515,22 @@
       "duration_ms": 331032,
       "name": "Surrounded By Neighbours",
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
+    },
+    {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
       "added_at": "2023-01-07 02:50:03",
@@ -657,20 +657,20 @@
       "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
+      "added_at": "2023-01-04 00:21:35",
       "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
       "added_at": "2022-04-29 18:24:26",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
       "added_at": "2023-03-03 04:19:45",
       "album": {
         "name": "VIOLENT GLARE",
@@ -703,22 +719,6 @@
       "duration_ms": 250200,
       "name": "SPIN FOREVER",
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
-    },
-    {
-      "added_at": "2023-01-04 00:21:35",
-      "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
       "added_at": "2023-06-01 23:13:49",

@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Celebra il 50° anniversario dell'hip hop ascoltando le più grandi hit rap italiane del momento 🔥 Cover: Rhove
+> La playlist urban più grande d'Italia 🔥 Cover: Shiva
 
 337 songs - 16 hr 40 min
 

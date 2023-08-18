@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 243236,
+  "num_followers": 243362,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDU3YTA0MzcyMTVmMDkyYTczNTMxNTI0MDZjYjJiMDJjNzRlMzdj",
+  "snapshot_id": "MCw4ODI4OTdkNzQ2ZmI0MjkyZTMwOTliODY5MjExOWNkYzEzOTNkZjRi",
   "tracks": [
     {
       "added_at": "2022-08-24 01:39:55",
@@ -27,18 +27,22 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 187520,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -59,22 +63,18 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Atado A Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 284466,
       "name": "Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2022-08-24 01:39:55",

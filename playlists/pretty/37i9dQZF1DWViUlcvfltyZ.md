@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. Lamante in cover questa settimana!
+> La playlist che è come andare ai concerti\. Bull Brigade in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,360 likes - 53 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,370 likes - 53 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
-| 2 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 |
-| 3 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
-| 4 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
-| 5 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
-| 6 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
+| 1 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
+| 2 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
+| 3 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
+| 4 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
+| 5 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
+| 6 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
 | 7 | [Il Ritorno \(feat\. Meganoidi\)](https://open.spotify.com/track/3wyr7X4CkSiOzwM1UZlPe5) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [Meganoidi](https://open.spotify.com/artist/0hE20Z0HAEHnVHM0v84MVR) | [Lunganotte](https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc) | 3:42 |
-| 8 | [Labbra in 3D](https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Armonia//Silenzio](https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq) | 3:25 |
-| 9 | [Bombshell](https://open.spotify.com/track/0GJKGQDeJXSGfcDTmyWHk6) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [Bombshell](https://open.spotify.com/album/2saB71JdODZFLge41smp0K) | 3:05 |
-| 10 | [Memories of Another Life](https://open.spotify.com/track/5OSZz2DRRgpBbKGpfsdiKA) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time / Memories Of Another Life](https://open.spotify.com/album/6wOe0POw1hh71BgjWZ5xeQ) | 3:43 |
-| 11 | [±](https://open.spotify.com/track/16huDK29H89DVqCKyh4Chr) | [Lechuck](https://open.spotify.com/artist/2unAHQEq1YbxvkNJOPHct5) | [±](https://open.spotify.com/album/0RIraoNc0KQ8vTXKFukeP2) | 3:45 |
-| 12 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
-| 13 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
-| 14 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
+| 8 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
+| 9 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
+| 10 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 |
+| 11 | [Labbra in 3D](https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Armonia//Silenzio](https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq) | 3:25 |
+| 12 | [Bombshell](https://open.spotify.com/track/0GJKGQDeJXSGfcDTmyWHk6) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [Bombshell](https://open.spotify.com/album/2saB71JdODZFLge41smp0K) | 3:05 |
+| 13 | [Memories of Another Life](https://open.spotify.com/track/5OSZz2DRRgpBbKGpfsdiKA) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time / Memories Of Another Life](https://open.spotify.com/album/6wOe0POw1hh71BgjWZ5xeQ) | 3:43 |
+| 14 | [±](https://open.spotify.com/track/16huDK29H89DVqCKyh4Chr) | [Lechuck](https://open.spotify.com/artist/2unAHQEq1YbxvkNJOPHct5) | [±](https://open.spotify.com/album/0RIraoNc0KQ8vTXKFukeP2) | 3:45 |
 | 15 | [CRISTALLI](https://open.spotify.com/track/4ZVyFW3LQyCuAogzMSaoox) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CRISTALLI](https://open.spotify.com/album/52KLBDTEnwxIkJCjh0gRpK) | 2:35 |
 | 16 | [Visa](https://open.spotify.com/track/0qTAPWGGIZbEWcCOdGBobH) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Visa](https://open.spotify.com/album/12wa6YY7SfSNj3i59LCxzQ) | 1:21 |
 | 17 | [sanguino](https://open.spotify.com/track/4kQhL1adPsW5kKTORVdZA4) | [Porpora](https://open.spotify.com/artist/2FUNKcLYXzzgrQmxeSD6LN) | [sanguino](https://open.spotify.com/album/1eGCDgJO0MIxMQqbiWdfEf) | 2:26 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 52 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 | 53 | [Radio](https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Radio](https://open.spotify.com/album/2JDZQBDwn6sQ5QMLolMR9o) | 2:44 |
 
-Snapshot ID: `MCw0Y2FiMzhiYmU1ZWEzNjE3ZmIxYmM2MmJhYTUxMWJmYzk4Yzk3ZDMw`
+Snapshot ID: `MCwxZGNkMDZjYTg3ZDIwM2M2MDViZjRmNDJiMTdkYzJmOTJmOGRkNzg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=e517b4900c76403b">Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,114 likes - 120 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,094 likes - 120 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [FR FR](https://open.spotify.com/track/1i0xpTfKXdUvbB6nFKakRy) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Big Boss](https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ) | 2:40 |
 | 120 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 
-Snapshot ID: `MCxiMWM5M2MyMzQ3MjA1MjQ5OTJkMmM5ZWMwZjNlMDVhMWMxOTcyMGYx`
+Snapshot ID: `MCwzYTgzYzBjNDhjZWY2YWMwOTM3YTM3Mzk3NmY5MjQ4ZTU2MGYzMmRm`

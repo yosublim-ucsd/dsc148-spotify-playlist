@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 512122,
+  "num_followers": 512332,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzc0OGY3MGE3ODIxYTM1YjllMzc0YmY5ZmI1Zjc2OTM4MDQxMjcz",
+  "snapshot_id": "MCw0ZjhjM2E4ZjQ2N2UyMTM2NTlkOWFmZGM4MjljMDdmNzg1NTMzYWQ1",
   "tracks": [
     {
       "added_at": "2023-07-07 06:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+      "duration_ms": 199733,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 199733,
-      "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "Eres Mi Religi\u00f3n",
         "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 267836,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1411,8 +1411,8 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
       "artists": [
         {
@@ -1420,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "Sus Huellas",
         "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 216737,
       "name": "Sus Huellas",
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -1739,18 +1739,26 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

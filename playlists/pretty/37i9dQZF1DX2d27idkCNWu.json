@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 263203,
+  "num_followers": 263240,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2Q4ZjA3ZmQ4ZmVmM2MyNWRkOWZiZTQxNWU3NDFlYmIzNWNlZjVh",
+  "snapshot_id": "MCwwMjk0MzkzZmQ0MDNkN2RiNjg4NDk4NGIzNmU3NWZlNWY2MGY3MWU4",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Human Nature (Acoustic)",
+        "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        },
+        {
+          "name": "Alex Francis",
+          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
+        }
+      ],
+      "duration_ms": 227763,
+      "name": "Human Nature - Acoustic",
+      "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
         "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 132727,
       "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
       "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Human Nature (Acoustic)",
-        "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        },
-        {
-          "name": "Alex Francis",
-          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
-        }
-      ],
-      "duration_ms": 227763,
-      "name": "Human Nature - Acoustic",
-      "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "FRIENDS (Acoustic)",
         "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 191953,
       "name": "Blue",
       "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2023-05-26 03:00:00",

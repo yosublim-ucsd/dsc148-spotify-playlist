@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino.",
-  "num_followers": 347813,
+  "num_followers": 347898,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWVkNDM5ZDczMzIyMGRlOTVkMTBlZWNlYTI3MDY5MzExY2IyNDkx",
+  "snapshot_id": "MCwxMWRkNDc4MTI4OWI0MjJiNzAwYjMyZmM2OWUzNWIwMDNlODRlOTU5",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -351,30 +351,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2023-08-04 03:01:00",

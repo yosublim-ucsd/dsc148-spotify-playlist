@@ -4,7 +4,7 @@
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-61 songs - 3 hr 51 min
+62 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Tears](https://open.spotify.com/track/5zYWxTEMDeydXj9Q4wZPSf) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Tears](https://open.spotify.com/album/3zEexxIy2ciEuhNjY0brkb) | 3:06 | 2023-07-25 |  |
 | [TIME](https://open.spotify.com/track/5QxVQtsN36qJXn1Iow3RFc) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [TIME](https://open.spotify.com/album/7CkTwAm1r9QJGYiyqlydlq) | 3:14 | 2023-07-25 |  |
 | [VANILLA SKY](https://open.spotify.com/track/3ps5WSAXrgvjN4IxIPchsV) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [VANILLA SKY](https://open.spotify.com/album/7kaCg3NQesrLpfsOEGMCQd) | 2:47 | 2023-07-25 |  |
-| [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 | 2023-07-25 |  |
+| [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 | 2023-07-25 | 2023-08-18 |
 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-07-25 |  |
 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-07-25 |  |
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-07-25 |  |
@@ -58,6 +58,7 @@
 | [億劫](https://open.spotify.com/track/2w65cyN27BCe45XnwCU30m) | [プランクトン](https://open.spotify.com/artist/4Q8UvCP77UmlQv1oSUMkYF) | [億劫](https://open.spotify.com/album/2CS4CKuvzh2DP5CrIliwXX) | 3:37 | 2023-07-25 |  |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-07-25 |  |
 | [夕方ジェネレーション](https://open.spotify.com/track/2zrkwF6k8fv6BzW5Pg5BS8) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [夕方ジェネレーション](https://open.spotify.com/album/5wRH839yau15M0iWjD8Lsw) | 5:00 | 2023-07-25 |  |
+| [少年讃歌](https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [少年讃歌](https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne) | 3:42 | 2023-08-17 |  |
 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-25 | 2023-08-11 |
 | [怪獣の花唄](https://open.spotify.com/track/10zz9RZt9DnqcxNWksRNrx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:44 | 2023-07-25 |  |
 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 | 2023-07-25 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,300 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,330 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mambo Italiano](https://open.spotify.com/track/5G4JTc4HlIsg7CyiDwoPV2) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:19 |
+| 1 | [Mambo Italiano](https://open.spotify.com/track/5G4JTc4HlIsg7CyiDwoPV2) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:19 |
 | 2 | [Mambo No 5](https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 2:42 |
 | 3 | [Tu Voz](https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:10 |
 | 4 | [Ran Kan Kan](https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Latin World Of Tito Puente](https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH) | 3:10 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 16 | [Que Rico El Mambo](https://open.spotify.com/track/4ucHP0s9uWaloTQ5HbVyiy) | [Mambo](https://open.spotify.com/artist/3QQyOPRmd24X1Q4ZbYCrQN) | [Mambo](https://open.spotify.com/album/5KAeqB0YySMuy7F7VXVjQo) | 4:40 |
 | 17 | [La Pelota](https://open.spotify.com/track/4DkK1PenbmoVjSEFMurUFp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Que Viva La Música](https://open.spotify.com/album/567VtThAiuol6fSWSPPTNV) | 4:18 |
 | 18 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
-| 19 | [Rico Vacilon](https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:44 |
-| 20 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
+| 19 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
+| 20 | [Rico Vacilon](https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:44 |
 | 21 | [Mambo Infierno](https://open.spotify.com/track/37IPOyonJjOLmOlns8RXhx) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/14u4OthZTF7D0z40hy7OmK) | 2:51 |
 | 22 | [Mamá Güela \- Live](https://open.spotify.com/track/4peboQ0PfWsLbjYNYSPgmB) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [A Man And His Music: El Inolvidable](https://open.spotify.com/album/7101EVthCwrld4QKetHmb6) | 2:42 |
 | 23 | [Mambo Manila](https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:10 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 40 | [Patricia](https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Greatest Hits](https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux) | 2:06 |
 | 41 | [No Cuentes Conmigo](https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 3:03 |
 | 42 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 |
-| 43 | [Por Que Me Enganas](https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 4:14 |
-| 44 | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/track/4gaeprgycCYuuSq2yvfuwh) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Manny Roman](https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap) | [Salsa With Me](https://open.spotify.com/album/5jAi3DPCaYYG9JDUwAnSZE) | 4:21 |
+| 43 | [Kimbya \(feat\. Manny Roman\)](https://open.spotify.com/track/4gaeprgycCYuuSq2yvfuwh) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Manny Roman](https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap) | [Salsa With Me](https://open.spotify.com/album/5jAi3DPCaYYG9JDUwAnSZE) | 4:21 |
+| 44 | [Por Que Me Enganas](https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 4:14 |
 | 45 | [El Yerbero](https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq) | [Charlie Palmieri and His Orchestra La Duboney](https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh) | [Salsa Na' Ma'](https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W) | 2:25 |
 | 46 | [Blen, Blen, Blen](https://open.spotify.com/track/0koL9KgFF8DiuNExstwl4X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito No\. 1](https://open.spotify.com/album/7CRlAAlopAiJb5jimIkCGn) | 3:17 |
 | 47 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Pachito E Che](https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Legends Of Cuban Music](https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR) | 3:32 |
 | 50 | [Babarabatiri](https://open.spotify.com/track/1MOoJPNFcH78lkqYAO9lLs) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [The Early Years](https://open.spotify.com/album/5Psz0qL5gppaidAzChMEZY) | 13:53 |
 
-Snapshot ID: `MCw5NDYxYjhmNzQ2ZGU4ZWM3NTNmMjQ0ZmUxOWM4YTI1Zjg0ZjA2ZThh`
+Snapshot ID: `MCwwZDc1OTg1ODc0MzQyMDQ1ZGJiNGI5NjYwNDQ2MjljYmI1OGNjYTIz`

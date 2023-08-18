@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-223 songs - 13 hr 12 min
+224 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [La olvidada](https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune 18 temas](https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k) | 2:13 | 2021-07-23 | 2022-07-11 |
 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 | 2021-07-23 | 2023-07-02 |
 | [La Oma](https://open.spotify.com/track/33m167IeZBbft2xQOuqjX3) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Leyenda](https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO) | 3:17 | 2023-06-22 |  |
-| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
+| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 | 2023-08-18 |
 | [La Pastorcita Perdida](https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [El Canto De La Tierra](https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb) | 3:31 | 2022-02-21 | 2022-11-13 |
 | [La Pomeña](https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY) | [Dúo Salteño](https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna) | [La Historia](https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI) | 3:53 | 2021-07-23 | 2023-04-18 |
 | [La Refranera](https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP) | [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Tinto](https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq) | 3:23 | 2021-07-23 | 2022-12-08 |
@@ -155,6 +155,7 @@
 | [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 | 2021-07-23 | 2023-08-07 |
 | [Lloraré](https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:10 | 2021-07-23 | 2022-07-27 |
 | [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 | 2022-02-21 |  |
+| [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-17 |  |
 | [Lucero Cantor](https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Los Copla](https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k) | 3:14 | 2021-07-23 | 2022-07-03 |
 | [Luna Cautiva](https://open.spotify.com/track/3SutPPyD0uGNBjGuRlkcKq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3hOcoCrLGJOwy1imKwFSt9) | 3:50 | 2021-07-23 | 2022-07-29 |
 | [Luna Cautiva](https://open.spotify.com/track/6RLy54zWiCxdbobwzSwBNq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7) | 3:50 | 2022-02-21 |  |

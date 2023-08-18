@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Anitta",
-  "num_followers": 487517,
+  "num_followers": 487623,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGMzNzMxMmMzN2MyMzdjMjE0NmY3M2ZlNmM0ODA5YWJjMjJiOGI4",
+  "snapshot_id": "MCw5ZTJlNmExNjk5YzRjN2YzMmFlMjJhOTZkZWRiOWJmZmExNTY1MGEx",
   "tracks": [
     {
       "added_at": "2023-08-07 15:21:25",
@@ -787,22 +787,22 @@
     {
       "added_at": "2023-08-07 15:21:25",
       "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": "2023-08-07 15:21:25",
@@ -827,22 +827,22 @@
     {
       "added_at": "2023-08-07 15:21:25",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+      "duration_ms": 187653,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
       "added_at": "2023-08-07 15:21:25",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-08-07 15:21:25",
       "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2023-08-07 15:21:25",
+      "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
-    },
-    {
-      "added_at": "2023-08-07 15:21:25",
-      "album": {
-        "name": "Monoton\u00eda",
-        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "Monoton\u00eda",
-      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "added_at": "2023-08-07 15:21:25",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2023-08-07 15:21:25",
       "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-08-07 15:21:25",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-08-07 15:21:25",
       "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+    },
+    {
+      "added_at": "2023-08-07 15:21:25",
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
-    },
-    {
-      "added_at": "2023-08-07 15:21:25",
-      "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-08-07 15:21:25",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-07 15:21:25",
       "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
-    },
-    {
-      "added_at": "2023-08-07 15:21:25",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -1551,6 +1535,30 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2023-08-07 15:21:25",
+      "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     }
   ],
   "unique_name": "Global X",

@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
@@ -1668,6 +1668,24 @@
       "duration_ms": 262520,
       "name": "Every Time the Sun Comes Up",
       "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
+    },
+    {
+      "album": {
+        "name": "Evicted",
+        "url": "https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ"
     },
     {
       "album": {

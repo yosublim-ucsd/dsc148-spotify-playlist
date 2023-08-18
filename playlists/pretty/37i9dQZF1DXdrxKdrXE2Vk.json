@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 881271,
+  "num_followers": 881363,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTQ3MTMxY2UyYjA0NDZlZWQxNDc1ZTI2ZmQ0ZWE5YzRjZDBhOTJh",
+  "snapshot_id": "MCw0MTVkZTNlODZmMDQ2MjExZjA0ZGI3ZGI4ZWJkZWVkNTI2NGU0MTY4",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
-        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 239857,
-      "name": "All Creatures (Sing the Harmony) - Live",
-      "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "The Dove (Live)",
         "url": "https://open.spotify.com/album/5zaE1TfsrPEiIy7ymSznyV"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 595375,
       "name": "The Dove - Live",
       "url": "https://open.spotify.com/track/0kY1gXASKakozyS63qLgIr"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 239857,
+      "name": "All Creatures (Sing the Harmony) - Live",
+      "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Miracle in Me",
-        "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 308864,
-      "name": "Miracle in Me",
-      "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 468208,
       "name": "Come Alive (Resurrection Power) - Live",
       "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Miracle in Me",
+        "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 308864,
+      "name": "Miracle in Me",
+      "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -939,22 +939,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "The Joy (Live)",
-        "url": "https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO"
+        "name": "Church (Live)",
+        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "David Dennis",
-          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 443833,
-      "name": "The Joy - Live",
-      "url": "https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P"
+      "duration_ms": 362500,
+      "name": "Manasseh - Live",
+      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -971,6 +967,26 @@
       "duration_ms": 305493,
       "name": "As The Deer",
       "url": "https://open.spotify.com/track/0O4JOPpHz1JdshdQ8PuGNe"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "The Joy (Live)",
+        "url": "https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        }
+      ],
+      "duration_ms": 443833,
+      "name": "The Joy - Live",
+      "url": "https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Praise Opens Prison Doors (Live)",
-        "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 323051,
-      "name": "Praise Opens Prison Doors - Live",
-      "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Praise Opens Prison Doors (Live)",
+        "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 323051,
+      "name": "Praise Opens Prison Doors - Live",
+      "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Our God Will See Us Through (Live)",
         "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
       },
@@ -1091,26 +1107,6 @@
       "duration_ms": 253652,
       "name": "This Is My Song - Live",
       "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Because Of You (Live)",
-        "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        },
-        {
-          "name": "Aodhan King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 361027,
-      "name": "Because Of You - Live",
-      "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1147,6 +1143,26 @@
       "duration_ms": 599001,
       "name": "Your Nature - Live",
       "url": "https://open.spotify.com/track/6DCtHdNZJ1y4vmHBAKsAF3"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Because Of You (Live)",
+        "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 361027,
+      "name": "Because Of You - Live",
+      "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1191,22 +1207,6 @@
       "duration_ms": 598000,
       "name": "Pour Over Me - Live",
       "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Church (Live)",
-        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "Manasseh - Live",
-      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Put Your Name On Me",
+        "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Tony Fresh",
+          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
+        }
+      ],
+      "duration_ms": 507068,
+      "name": "Put Your Name On Me (feat. Tony Fresh)",
+      "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Forever & Amen",
         "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
       },
@@ -1523,30 +1547,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Put Your Name On Me",
-        "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
-        },
-        {
-          "name": "Tony Fresh",
-          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
-        }
-      ],
-      "duration_ms": 507068,
-      "name": "Put Your Name On Me (feat. Tony Fresh)",
-      "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 336008,
       "name": "The Praise Is Yours - Live",
       "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 291342,
+      "name": "Burn - Live",
+      "url": "https://open.spotify.com/track/2XqPzwbRFaOVxOPzOUSY2d"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1639,34 +1639,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "SEVEN (Live)",
-        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
       },
       "artists": [
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 291342,
-      "name": "Burn - Live",
-      "url": "https://open.spotify.com/track/2XqPzwbRFaOVxOPzOUSY2d"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Finished Work of Christ",
-        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 258161,
-      "name": "Finished Work of Christ",
-      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1687,6 +1671,22 @@
       "duration_ms": 355278,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Finished Work of Christ",
+        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 258161,
+      "name": "Finished Work of Christ",
+      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1727,30 +1727,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Living Breathing Miracle (Live)",
-        "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
-      },
-      "artists": [
-        {
-          "name": "Victory Worship",
-          "url": "https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs"
-        },
-        {
-          "name": "Jeremiah Mateola",
-          "url": "https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY"
-        },
-        {
-          "name": "Rozanne Hodgetts",
-          "url": "https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl"
-        }
-      ],
-      "duration_ms": 385574,
-      "name": "Remain - Live",
-      "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Thin Place (Live)",
         "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 376541,
       "name": "Thin Place - Live",
       "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Living Breathing Miracle (Live)",
+        "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
+      },
+      "artists": [
+        {
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs"
+        },
+        {
+          "name": "Jeremiah Mateola",
+          "url": "https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY"
+        },
+        {
+          "name": "Rozanne Hodgetts",
+          "url": "https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl"
+        }
+      ],
+      "duration_ms": 385574,
+      "name": "Remain - Live",
+      "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Comfort (Live)",
-        "url": "https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 289398,
-      "name": "Comfort - Live",
-      "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Steady Light (Live from LO Conference)",
         "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
       },
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Comfort (Live)",
+        "url": "https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 289398,
+      "name": "Comfort - Live",
+      "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Heal My Heart (Live)",
         "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
       },
@@ -1843,42 +1843,6 @@
       "duration_ms": 458797,
       "name": "Heal My Heart - Live",
       "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "A Little Fire (Burn Brighter)",
-        "url": "https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o"
-      },
-      "artists": [
-        {
-          "name": "Every Nation Music",
-          "url": "https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0"
-        },
-        {
-          "name": "Victory Worship",
-          "url": "https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP"
-        }
-      ],
-      "duration_ms": 429515,
-      "name": "A Little Fire (Burn Brighter)",
-      "url": "https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Greater (Live)",
-        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 400897,
-      "name": "Victory Of Jesus - Live",
-      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1907,6 +1871,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "A Little Fire (Burn Brighter)",
+        "url": "https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o"
+      },
+      "artists": [
+        {
+          "name": "Every Nation Music",
+          "url": "https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0"
+        },
+        {
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP"
+        }
+      ],
+      "duration_ms": 429515,
+      "name": "A Little Fire (Burn Brighter)",
+      "url": "https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Revival Nights (Pt. 2) [Live]",
         "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 390666,
       "name": "Hurry - Live",
       "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Greater (Live)",
+        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 400897,
+      "name": "Victory Of Jesus - Live",
+      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1951,18 +1951,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "All To Jesus (Live)",
-        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+        "name": "Overcome (Live)",
+        "url": "https://open.spotify.com/album/2OsBS9sG3MzMDpLj9n7m0j"
       },
       "artists": [
         {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+          "name": "Metro Life Worship",
+          "url": "https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK"
+        },
+        {
+          "name": "Mary Alessi",
+          "url": "https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2"
+        },
+        {
+          "name": "Steph Alessi Mui\u00f1a",
+          "url": "https://open.spotify.com/artist/0YyhKuzuNV2wAYKkBKx5Gd"
         }
       ],
-      "duration_ms": 360690,
-      "name": "Abide - Live",
-      "url": "https://open.spotify.com/track/3WbMGg3SExCmKhDSFCinFg"
+      "duration_ms": 247773,
+      "name": "Victorious (Live)",
+      "url": "https://open.spotify.com/track/2WevAGXIXkcu96nNoP7S5v"
     }
   ],
   "unique_name": "Best of Live Worship",

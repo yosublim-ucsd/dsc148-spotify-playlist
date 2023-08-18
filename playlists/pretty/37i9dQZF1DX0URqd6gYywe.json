@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 84991,
+  "num_followers": 85104,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjEzMjg4ZDc3YjYyNDM3YzFlNzYzYTRhZWNjOTVjZDdiNzc2MmFk",
+  "snapshot_id": "MCwyYTViMjc2YjQ0NDkxMmVjMGFhZDk5ZWJkMzg3ZGUxYjBhZmVlMDdj",
   "tracks": [
     {
       "added_at": "2023-08-11 14:44:17",
@@ -867,8 +867,8 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+        "name": "Naranja Persa",
+        "url": "https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 302731,
-      "name": "El Farolito (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy"
+      "duration_ms": 271332,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv"
     },
     {
       "added_at": "2023-08-11 14:44:17",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
-        "name": "Naranja Persa",
-        "url": "https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd"
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 271332,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv"
+      "duration_ms": 302731,
+      "name": "El Farolito (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy"
     },
     {
       "added_at": "2023-08-11 14:44:17",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-08-11 14:44:17",
       "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2023-08-11 14:44:17",
+      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
-    },
-    {
-      "added_at": "2023-08-11 14:44:17",
-      "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2023-08-11 14:44:17",

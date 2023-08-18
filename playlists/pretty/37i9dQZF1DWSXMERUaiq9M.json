@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 101276,
+  "num_followers": 102623,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGNjNGEwZjRmOGZiY2ZhY2EyNzYzNzViNWQwZGNiYmJjMzI0YWNj",
+  "snapshot_id": "MCw0YzYwNWQxNGEzOTkwOGJiM2U1NjYwZDc2NTFmY2EwZmIzZTBkY2Jk",
   "tracks": [
     {
       "added_at": "2023-08-14 11:00:00",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-08-14 11:00:00",
       "album": {
-        "name": "Fluid Meditations",
-        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
+        "name": "All That She Wants (Helion Remix)",
+        "url": "https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW"
       },
       "artists": [
         {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        },
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
         }
       ],
-      "duration_ms": 364455,
-      "name": "Stream State",
-      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
+      "duration_ms": 167162,
+      "name": "All That She Wants - Helion Remix",
+      "url": "https://open.spotify.com/track/747OPJC1PujokY0T3rAajk"
     }
   ],
   "unique_name": "rave",

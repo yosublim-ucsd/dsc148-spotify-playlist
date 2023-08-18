@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,655 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,822 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 74 | [You Rascal You](https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS) | 2:21 |
 | 75 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:10 |
 | 76 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
-| 77 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
-| 78 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
+| 77 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
+| 78 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
 | 79 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 80 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 |
 | 81 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 94 | [Prisoner](https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Who You Selling For](https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA) | 3:00 |
 | 95 | [Rumble And Sway](https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Rumble And Sway EP](https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH) | 3:05 |
 | 96 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 |
-| 97 | [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 |
+| 97 | [Love Is All You Love](https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O) | 3:22 |
 | 98 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
-| 99 | [Love Is All You Love](https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O) | 3:22 |
+| 99 | [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 |
 | 100 | [Heartache Melody](https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g) | 2:52 |
 
-Snapshot ID: `MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5`
+Snapshot ID: `MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw`

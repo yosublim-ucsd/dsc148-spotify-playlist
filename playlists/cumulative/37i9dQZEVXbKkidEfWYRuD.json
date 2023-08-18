@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
@@ -4696,6 +4696,28 @@
       "duration_ms": 121296,
       "name": "i dont wna cry (haste)",
       "url": "https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY"
+    },
+    {
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "album": {
@@ -10398,7 +10420,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 98024,
       "name": "supernxva",
       "url": "https://open.spotify.com/track/1ERXtrPsABpmkCchv9GO0O"
@@ -14024,7 +14046,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 82285,
       "name": "\u0413\u043b\u0430\u0437 \u0438\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430",
       "url": "https://open.spotify.com/track/7v5yQnrwRP3suomfvpylDt"
@@ -23056,7 +23078,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"

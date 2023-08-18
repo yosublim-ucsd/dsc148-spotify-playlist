@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,297 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,436 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 9 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
 | 10 | [Right Or Wrong](https://open.spotify.com/track/1FAtkmz8kFmbq4VmOf79fb) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:37 |
 | 11 | [Ring of Fire](https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:35 |
-| 12 | [Gentle On My Mind \- Remastered 2001](https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Gentle On My Mind \(Remastered\)](https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE) | 2:58 |
-| 13 | [Honey](https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey](https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP) | 3:58 |
+| 12 | [Honey](https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey](https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP) | 3:58 |
+| 13 | [Gentle On My Mind \- Remastered 2001](https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Gentle On My Mind \(Remastered\)](https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE) | 2:58 |
 | 14 | [Act Naturally](https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:23 |
 | 15 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 16 | [The Race Is On](https://open.spotify.com/track/2LyRC7gfWFJd6JI5i8fTJe) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I Get Lonely In A Hurry](https://open.spotify.com/album/3yktxl8Ut7EDn4KBXMPYhZ) | 2:07 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 83 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
 | 84 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
 | 85 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
-| 86 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
+| 86 | [Above And Beyond](https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Buck Owens Country Legends](https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT) | 2:22 |
 | 87 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
-| 88 | [Above And Beyond](https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Buck Owens Country Legends](https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT) | 2:22 |
+| 88 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
 | 89 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
 | 90 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
 | 91 | [I've Been Everywhere \- Remastered](https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Girl On The Billboard](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 | 100 | [The Cold Hard Facts of Life](https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Cold Hard Facts of Life](https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie) | 3:12 |
 
-Snapshot ID: `MCwzNjRhOWJmMWQ0Zjc0ZjUxNTVjNDJiMjc0MWI3M2FjNDhhYThhYmJi`
+Snapshot ID: `MCxjOWU1OTg1NTQ0OWYxOTQ4Y2M4ZjhmZjRhN2UzMTBmYjU1NTE5NTFi`

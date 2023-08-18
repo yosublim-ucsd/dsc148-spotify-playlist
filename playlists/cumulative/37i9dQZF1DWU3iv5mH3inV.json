@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 268000,
       "name": "Cuchupla",
       "url": "https://open.spotify.com/track/3kjrdVisNFPu5SaWvO0p82"
@@ -7694,6 +7694,24 @@
       "duration_ms": 195492,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/292oKRwlsWMyHyURrU0Sey"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196684,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/1p2r2wD0ysSk7o63HgSg8T"
     },
     {
       "album": {

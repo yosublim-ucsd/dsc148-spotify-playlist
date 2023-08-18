@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,143 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,386 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 38 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 39 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 40 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
-| 41 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
-| 42 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 |
+| 41 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 |
+| 42 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 43 | [Fell On Black Days](https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 4:43 |
 | 44 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 |
 | 45 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Sometimes Always](https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned](https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb) | 2:31 |
 | 100 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 
-Snapshot ID: `MCw0ZmE2OWRlMDI3OTZlZWI4YmI1YzFiZmQ5NTk5OWExYmNkYzU1YjRh`
+Snapshot ID: `MCwzYTc2MDgwZGY4M2JiMGQwZjk0Mjk4ODY3YTFmMDM5N2NhZWNmMDZl`

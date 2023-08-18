@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 454265,
+  "num_followers": 454792,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGMwMjc3NDY1ZjA1ZWUzNDE0OGEyNWM2MGRjMzM5MDZiYmExMTY2",
+  "snapshot_id": "MCwzYzc1OGQxY2UyNjY5OTZhNzAyY2UzYWRmZTMwMWY1ZWJhMWUxNDcz",
   "tracks": [
     {
       "added_at": "2023-07-21 10:48:21",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -553,20 +553,20 @@
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
     },
     {
-      "added_at": "2023-07-21 10:48:21",
+      "added_at": "2023-08-08 22:15:15",
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
         }
       ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -637,36 +653,20 @@
       "url": "https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0"
     },
     {
-      "added_at": "2023-08-08 22:15:15",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2023-08-08 22:15:15",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
         }
       ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
     },
     {
+      "added_at": "2023-08-04 12:43:17",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+    },
+    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
         "name": "Ms. Poli Sci",
@@ -923,22 +939,6 @@
       "duration_ms": 128703,
       "name": "Ms. Poli Sci",
       "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
-    },
-    {
-      "added_at": "2023-08-04 12:43:17",
-      "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
     },
     {
-      "added_at": "2023-07-24 22:20:42",
-      "album": {
-        "name": "Backyard Boy (Stripped)",
-        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "Backyard Boy",
-      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
-    },
-    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
         "name": "MUNA",
@@ -1029,20 +1013,20 @@
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
     },
     {
-      "added_at": "2023-07-21 10:48:21",
+      "added_at": "2023-07-24 22:20:42",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Backyard Boy (Stripped)",
+        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
+      "duration_ms": 129240,
+      "name": "Backyard Boy",
+      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Canop\u00e9e",
-      "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 158536,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
+      "duration_ms": 276293,
+      "name": "Canop\u00e9e",
+      "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1315,6 +1299,22 @@
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 158536,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 212991,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 212991,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/2QF8FbGBTXTzm0CRUWqndE"
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
     }
   ],
   "unique_name": "Summer Indie",

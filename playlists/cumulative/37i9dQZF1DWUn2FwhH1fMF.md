@@ -4,7 +4,7 @@
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-239 songs - 12 hr 53 min
+240 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr) | 2:49 | 2021-12-01 | 2022-12-01 |
 | [Clouds](https://open.spotify.com/track/6uJdKvwRPpq35xuJlKyQMJ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Clouds](https://open.spotify.com/album/0NZcKr7jCGqxiCTLcsQN1F) | 3:10 | 2021-12-01 | 2022-12-01 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-12-01 | 2022-12-01 |
-| [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-11-30 |  |
+| [Consciousness](https://open.spotify.com/track/01X6etmb1Cz8ujgwHKQIDl) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 4:34 | 2022-11-30 |  |
+| [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-11-30 | 2023-08-18 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2021-12-01 | 2022-12-01 |
 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 | 2021-12-01 | 2022-12-01 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-11-30 |  |

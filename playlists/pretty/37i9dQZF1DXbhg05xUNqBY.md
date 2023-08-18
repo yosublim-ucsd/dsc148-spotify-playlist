@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,928 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,160 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 53 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 54 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 |
 | 55 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
-| 56 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 |
-| 57 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
+| 56 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
+| 57 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 |
 | 58 | [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 |
 | 59 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
 | 60 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 |
 | 70 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
 
-Snapshot ID: `MCxhZGI2NWZkYzQxZmEzMTIyNjhjNTg4ZjlkZjI2MTVkOWU1ZDk4ZGYy`
+Snapshot ID: `MCxkMjI0MWQ0NGE0MjMyMTQ0NTNmMzg5OTUyYzUzMTA2Y2FjMzBiZDI5`

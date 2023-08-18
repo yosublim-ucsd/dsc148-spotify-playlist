@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,160 songs - 2 day 11 hr 55 min
+1,161 songs - 2 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,7 +825,7 @@
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-30 | 2021-06-05 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-04-30 | 2021-06-05 |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-23 |  |
-| [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2023-03-07 |  |
+| [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2023-03-07 | 2023-08-18 |
 | [Ready](https://open.spotify.com/track/6l7lX8hJXVIUyPrTaabpqk) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Ready](https://open.spotify.com/album/0ypEjnegb85LxjkycDf1Zf) | 2:58 | 2019-07-27 | 2020-04-29 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2021-07-04 | 2021-10-16 |
 | [Red](https://open.spotify.com/track/1XV9wNlHkOFeYSU13SWwcK) | [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Red](https://open.spotify.com/album/0M21oVtTeT1PLZazMMJ7j1) | 3:27 | 2019-06-15 | 2019-07-03 |
@@ -1084,6 +1084,7 @@
 | [Used to You](https://open.spotify.com/track/520eu4nFIEgHUZAgQrsOof) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Used to You](https://open.spotify.com/album/72nRb0bdzsinEUNHUT0M7W) | 2:50 | 2021-09-24 | 2022-02-15 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-06-16 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-27 | 2023-03-08 |
+| [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-15 |  |
 | [vicious](https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [vicious](https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti) | 3:02 | 2020-07-04 | 2020-08-20 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-29 | 2021-09-11 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-14 | 2023-07-19 |

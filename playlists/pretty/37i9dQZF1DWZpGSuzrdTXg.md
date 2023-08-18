@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,289 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,277 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 17 | [Clown](https://open.spotify.com/track/0Hh0SRM2MUVEtMWLyI7irO) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifices](https://open.spotify.com/album/12Lmi0I5DuYNYCV9XGv2ed) | 3:15 |
 | 18 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 |
 | 19 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
-| 20 | [Those Were The Times](https://open.spotify.com/track/4bmo3t5W9JSZMNYhmm5yhK) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/69X4yVKaGRxvQToqwK0R9N) | 3:01 |
+| 20 | [Those Were The Times](https://open.spotify.com/track/2vQwvuPDgsxyJyzsg8bKNG) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/0bku58FOu05QQ989yvKWDI) | 3:01 |
 | 21 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |
 | 22 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 |
 | 23 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [The Beauty](https://open.spotify.com/track/2gGN3tZeL4YfLwLlABQOr6) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Self\-Realization](https://open.spotify.com/album/0NGSY2d3hlo6vKo6ecP2bu) | 4:15 |
 | 100 | [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 |
 
-Snapshot ID: `MCw0NjI1YmEyMTg3MDk0MzY4OGViZDMwODZiNTFmZjNkZDA3Yjg3Zjg2`
+Snapshot ID: `MCwzYjkzZWU0NjBhOWRmMWQ2MjkyYWQyYjNlZmQ1MzhmMjdjNzA4ZmFh`

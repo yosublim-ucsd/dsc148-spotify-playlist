@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,746 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,129 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 79 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 80 | [Hay cosas inolvidables](https://open.spotify.com/track/5Hjuu63Z7WiQ6hUYx9nTXl) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:52 |
 | 81 | [Tu inolvidable sonrisa \- Con banda](https://open.spotify.com/track/5HUXSbMwR3wRlJQ5JwJRXF) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Con Banda](https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5) | 2:46 |
-| 82 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
+| 82 | [Fue en un Cafe](https://open.spotify.com/track/2HQTezBLYHy67n3JCMb49m) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:03 |
 | 83 | [No Son Palabritas](https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
-| 84 | [Fue en un Cafe](https://open.spotify.com/track/2HQTezBLYHy67n3JCMb49m) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:03 |
+| 84 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
 | 85 | [Corazon de Roca](https://open.spotify.com/track/1zdYTb2KOgrdp0MPlcHyCl) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1wRZWdP0gam1RChALjDjGp) | 2:56 |
 | 86 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Baladas De Amor](https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h) | 3:42 |
 | 87 | [Qué Ironía](https://open.spotify.com/track/4Kh3E34bexvFQlJ0xwiggQ) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Serie De Colección 15 Autenticos Éxitos](https://open.spotify.com/album/4ajWl9nOJD3rVM4tmolANI) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 99 | [Soy Yo](https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | ["Gold"](https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0) | 3:33 |
 | 100 | [Olvidarte Nunca](https://open.spotify.com/track/3xRVnVY4uuNQZ1rmmRclhU) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [La Historia](https://open.spotify.com/album/42nZkX6kk4O3vpTuQa6UrK) | 2:57 |
 
-Snapshot ID: `MCw3ZjA0MDdmYTM3YzI0MjA2MTEzZjk3NmMwMDg5NDgyODUxN2YyNDlk`
+Snapshot ID: `MCwzZDM5MjE5NWI2NDI0ZDU0MWQxMjI5ZjQyYWVmMDJlZDE4ZWZkN2I0`

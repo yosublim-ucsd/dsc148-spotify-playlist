@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212601,
+  "num_followers": 212614,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI1NzEzODdiOTZkNjk3MmRjNmRiMGRmMTBlNWRkYTNkNDViZjMz",
+  "snapshot_id": "MCw1Y2VmMDRhODVlNWM2NzRlOTZiMDIzMzFlOGFkY2FiM2Y1MDk2MjNh",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Esp\u00edritu Combativo",
-        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
-      },
-      "artists": [
-        {
-          "name": "Malon",
-          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
-        }
-      ],
-      "duration_ms": 218729,
-      "name": "Castigador por Herencia",
-      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Bajo la Cruz",
         "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris",
-        "url": "https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn"
+        "name": "Esp\u00edritu Combativo",
+        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
         }
       ],
-      "duration_ms": 304586,
-      "name": "Guerrero Del Arco Iris",
-      "url": "https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg"
+      "duration_ms": 218729,
+      "name": "Castigador por Herencia",
+      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -687,22 +671,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Acero",
         "url": "https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 265720,
       "name": "El Vuelo Del Drag\u00f3n",
       "url": "https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris",
+        "url": "https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 304586,
+      "name": "Guerrero Del Arco Iris",
+      "url": "https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+      },
+      "artists": [
+        {
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     },
     {
       "added_at": "2023-04-28 03:00:00",

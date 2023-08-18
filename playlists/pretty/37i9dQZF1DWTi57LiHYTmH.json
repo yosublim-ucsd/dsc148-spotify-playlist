@@ -1,12 +1,12 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 28,
+  "num_followers": 79,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTM5N2E1MDYyODNkMzg4ZmYzYWI5ODBhZmJkMDkzYjk0MzAxYWQz",
+  "snapshot_id": "MCxiNTcyMDJmOTcxN2RiOWMzNzM5Y2RjYTJkMWU4YTcwMTQ5NmI4Mjc3",
   "tracks": [
     {
       "added_at": "2023-08-16 09:01:13",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 85906,
-      "name": "Lyric Pieces, Book 1, Op. 12: I. Arietta",
-      "url": "https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK"
-    },
-    {
-      "added_at": "2023-08-16 09:01:13",
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 93840,
       "name": "Henry V: Henry V: Touch her soft lips and part",
       "url": "https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ"
+    },
+    {
+      "added_at": "2023-08-16 09:01:13",
+      "album": {
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+        }
+      ],
+      "duration_ms": 85906,
+      "name": "Lyric Pieces, Book 1, Op. 12: I. Arietta",
+      "url": "https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK"
     },
     {
       "added_at": "2023-08-16 09:01:13",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
+        "name": "Schumann: Carnaval Op. 9, Fantasie Op. 17 & Mondnacht Op. 39 No. 5",
+        "url": "https://open.spotify.com/album/1kXYfEsNIZJVJF4NDwLQnp"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Emile Naoumoff",
+          "url": "https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Carnaval, Op. 9: No. 5. Eusebius (Adagio - Pi\u00f9 lento molto teneramente)",
+      "url": "https://open.spotify.com/track/73kFkK74uTO8fy8yBfMrTk"
+    },
+    {
+      "added_at": "2023-08-16 09:01:13",
+      "album": {
         "name": "Corelli: Concerti Grossi, Op. 6, Nos. 1-6",
         "url": "https://open.spotify.com/album/5emNyTE3FAXRUgeOVujFLv"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 68493,
       "name": "Concerto Grosso In D Major, Op. 6, No. 1 : I. Largo",
       "url": "https://open.spotify.com/track/2LYHlX00s7NTqWVrKu7xOE"
-    },
-    {
-      "added_at": "2023-08-16 09:01:13",
-      "album": {
-        "name": "Schumann: Carnaval Op. 9, Fantasie Op. 17 & Mondnacht Op. 39 No. 5",
-        "url": "https://open.spotify.com/album/1kXYfEsNIZJVJF4NDwLQnp"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Emile Naoumoff",
-          "url": "https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Carnaval, Op. 9: No. 5. Eusebius (Adagio - Pi\u00f9 lento molto teneramente)",
-      "url": "https://open.spotify.com/track/73kFkK74uTO8fy8yBfMrTk"
     },
     {
       "added_at": "2023-08-16 09:01:13",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
-        "name": "Larcher, Schumann & Bart\u00f3k\u2026For Children",
-        "url": "https://open.spotify.com/album/0Pjj3RQJOAxMk26duV8NEP"
+        "name": "Tchaikovsky: Piano Concerto No. 1",
+        "url": "https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF"
       },
       "artists": [
         {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
-          "name": "Lars Vogt",
-          "url": "https://open.spotify.com/artist/3xYzk2kbx3IEGo2YPeoggv"
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
         }
       ],
-      "duration_ms": 56906,
-      "name": "For Children Vol. 1, Sz. 42: No. 3 Quasi adagio",
-      "url": "https://open.spotify.com/track/2b12Hb86ANOA56DvXXHao6"
+      "duration_ms": 216284,
+      "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
+      "url": "https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u"
     },
     {
       "added_at": "2023-08-16 09:01:13",
@@ -1627,6 +1627,26 @@
       "duration_ms": 72813,
       "name": "33 Miniatures for Piano (Excerpts): No. 22, Grazioso",
       "url": "https://open.spotify.com/track/1m7xhfthPyNBdIJcGREuh1"
+    },
+    {
+      "added_at": "2023-08-16 09:01:13",
+      "album": {
+        "name": "Larcher, Schumann & Bart\u00f3k\u2026For Children",
+        "url": "https://open.spotify.com/album/0Pjj3RQJOAxMk26duV8NEP"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Lars Vogt",
+          "url": "https://open.spotify.com/artist/3xYzk2kbx3IEGo2YPeoggv"
+        }
+      ],
+      "duration_ms": 56906,
+      "name": "For Children Vol. 1, Sz. 42: No. 3 Quasi adagio",
+      "url": "https://open.spotify.com/track/2b12Hb86ANOA56DvXXHao6"
     },
     {
       "added_at": "2023-08-16 09:01:13",
@@ -1695,26 +1715,6 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
-        "name": "Tchaikovsky: Piano Concerto No. 1",
-        "url": "https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 216284,
-      "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
-      "url": "https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u"
-    },
-    {
-      "added_at": "2023-08-16 09:01:13",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq"
       },
@@ -1731,6 +1731,26 @@
       "duration_ms": 206162,
       "name": "Memories of a Promenade II",
       "url": "https://open.spotify.com/track/4bFdyisLdkeS7tmbAWpl13"
+    },
+    {
+      "added_at": "2023-08-16 09:01:13",
+      "album": {
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2023-08-16 09:01:13",
@@ -1807,26 +1827,6 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
-    },
-    {
-      "added_at": "2023-08-16 09:01:13",
-      "album": {
         "name": "Pfitzner: Symphony in C major - Schumann: Koncertst\u00fcck for Four Horns",
         "url": "https://open.spotify.com/album/3CG6jLjg64BZswmFZSkF96"
       },
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
-        "name": "Friedman: Piano Transcriptions",
-        "url": "https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b"
-      },
-      "artists": [
-        {
-          "name": "Ignaz Friedman",
-          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
-        },
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Joseph Banowetz",
-          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
-        }
-      ],
-      "duration_ms": 132760,
-      "name": "Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (arr. I. Friedman for piano)",
-      "url": "https://open.spotify.com/track/6snA8ljjHLaFZWZy3EfgNM"
-    },
-    {
-      "added_at": "2023-08-16 09:01:13",
-      "album": {
         "name": "Penderecki: Sinfoniettas - Oboe Capriccio",
         "url": "https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu"
       },
@@ -1915,6 +1891,30 @@
       "duration_ms": 133160,
       "name": "3 Pieces in Old Style: No. 1. Aria",
       "url": "https://open.spotify.com/track/2cnCYr5QgPJG0OJqYY4DGF"
+    },
+    {
+      "added_at": "2023-08-16 09:01:13",
+      "album": {
+        "name": "Friedman: Piano Transcriptions",
+        "url": "https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b"
+      },
+      "artists": [
+        {
+          "name": "Ignaz Friedman",
+          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Joseph Banowetz",
+          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
+        }
+      ],
+      "duration_ms": 132760,
+      "name": "Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (arr. I. Friedman for piano)",
+      "url": "https://open.spotify.com/track/6snA8ljjHLaFZWZy3EfgNM"
     },
     {
       "added_at": "2023-08-16 09:01:13",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
+        "name": "Danny Boy",
+        "url": "https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6"
+      },
+      "artists": [
+        {
+          "name": "Xuefei Yang",
+          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "\u4e39\u5c3c\u7537\u5b69",
+      "url": "https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5"
+    },
+    {
+      "added_at": "2023-08-16 09:01:13",
+      "album": {
         "name": "Field: Piano Music, Vol. 1",
         "url": "https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 223066,
       "name": "Nocturne No. 2 in C Minor",
       "url": "https://open.spotify.com/track/6cDytuMZ5Z4iMEhK65HiHL"
-    },
-    {
-      "added_at": "2023-08-16 09:01:13",
-      "album": {
-        "name": "Danny Boy",
-        "url": "https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6"
-      },
-      "artists": [
-        {
-          "name": "Xuefei Yang",
-          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "\u4e39\u5c3c\u7537\u5b69",
-      "url": "https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5"
     },
     {
       "added_at": "2023-08-16 09:01:13",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2023-08-16 09:01:13",
       "album": {
+        "name": "Inedito (Unpublished)",
+        "url": "https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582"
+      },
+      "artists": [
+        {
+          "name": "Lazar Berman",
+          "url": "https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ"
+        }
+      ],
+      "duration_ms": 63840,
+      "name": "Chaconne in sol maggiore : Variazione 9",
+      "url": "https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL"
+    },
+    {
+      "added_at": "2023-08-16 09:01:13",
+      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
         "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 212000,
       "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
       "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
-    },
-    {
-      "added_at": "2023-08-16 09:01:13",
-      "album": {
-        "name": "Inedito (Unpublished)",
-        "url": "https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582"
-      },
-      "artists": [
-        {
-          "name": "Lazar Berman",
-          "url": "https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ"
-        }
-      ],
-      "duration_ms": 63840,
-      "name": "Chaconne in sol maggiore : Variazione 9",
-      "url": "https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL"
     },
     {
       "added_at": "2023-08-16 09:01:13",

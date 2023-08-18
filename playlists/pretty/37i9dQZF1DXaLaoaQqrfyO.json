@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 335021,
+  "num_followers": 335069,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWNhYjE5MWIwMmRiZGQwN2U0NDdlMTA2ZTBhZmMxNTk2N2VmOTY5",
+  "snapshot_id": "MCw3NGJhZWJiNDg3YTNmY2UwZGMwZGFhMDhiYTU0MjU0MDI5NWRhNGI4",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
       "added_at": "2022-07-07 04:00:00",
       "album": {
         "name": "Show Me How",
@@ -203,6 +187,22 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 278373,
-      "name": "Dirty Paws",
-      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
     },
     {
       "added_at": "2022-07-28 21:47:07",
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+      "duration_ms": 278373,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
     },
     {
       "added_at": "2021-03-15 19:25:13",

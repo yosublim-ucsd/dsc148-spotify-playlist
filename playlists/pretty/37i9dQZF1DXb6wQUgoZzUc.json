@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 872072,
+  "num_followers": 872248,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2VjNTNmMWQyYjMyZmZmNDM3ZmZhOWFkNWEyMDVjNjFjMTgzMjgz",
+  "snapshot_id": "MCw4NTY0ZTVjODljYjM5YzBlOGEwNDRkOGJmMDBmOTljNDA0Yzg4ODdm",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Holanda",
         "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 231693,
       "name": "Holanda",
       "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Guatauba XXX",
         "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 193636,
       "name": "512",
       "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Mami Chula",
-        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Mami Chula",
-      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Mejor Que Yo",
         "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "SHORTY QUE TE VAYA BN <3",
         "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 219681,
       "name": "SHORTY QUE TE VAYA BN <3",
       "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Cuerpecito",
-        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Cuerpecito",
-      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/2WA4eZXER4ZLTBftVKvrnO"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/57Ba26w9eoXx8BBUNgRNLV"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Cuerpecito",
+        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Cuerpecito",
+      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Tiempos de Plan B",
-        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Tiempos de Plan B",
-      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "La T\u00f3xica",
         "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 180520,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "X 1 BESO",
-        "url": "https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 188862,
-      "name": "X 1 BESO",
-      "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Pichaera",
         "url": "https://open.spotify.com/album/20uPsnEFa0sfIWOycOvwL6"
       },
@@ -2011,6 +1991,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "X 1 BESO",
+        "url": "https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 188862,
+      "name": "X 1 BESO",
+      "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Ella Quiere Hmm... Haa... Hmm...",
         "url": "https://open.spotify.com/album/0D6DGiSFytv1dzqjAvy05D"
       },
@@ -2031,30 +2031,6 @@
       "duration_ms": 212035,
       "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
       "url": "https://open.spotify.com/track/0QN1rkBy3D6j9Yw3Czlcsc"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
-      },
-      "artists": [
-        {
-          "name": "Nesty La Mente Maestra",
-          "url": "https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 151360,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -2091,6 +2067,30 @@
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
+      },
+      "artists": [
+        {
+          "name": "Nesty La Mente Maestra",
+          "url": "https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 151360,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk"
     },
     {
       "added_at": "2023-08-04 06:00:00",

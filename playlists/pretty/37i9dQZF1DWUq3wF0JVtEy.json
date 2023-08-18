@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 933425,
+  "num_followers": 933614,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzVjNDgwN2Y3MmQ4Mjg5OTNjMGQzYjg3MmNlOTc4YmM3YjgyODgy",
+  "snapshot_id": "MCxhNjIwNjVmY2M3OWRhZGFhZTc3ODJmMWIwMjVhNDg2YTFmOTcxNmJk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Bumba Bass",
+        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "Bumba Bass",
+      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Bumba Bass",
-        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "Bumba Bass",
-      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1051,38 +1051,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Quick Highs",
-        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/66QmKxpY9JLUMbQrrqDgCT"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         },
         {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+          "name": "ANML KNGDM",
+          "url": "https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS"
         }
       ],
-      "duration_ms": 194243,
-      "name": "Quick Highs",
-      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
+      "duration_ms": 184782,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/6Qj1eG0u2XDdDs4c0ySess"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1111,18 +1095,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
       },
       "artists": [
         {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Quick Highs",
+        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 194243,
+      "name": "Quick Highs",
+      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1147,6 +1151,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Disco Tool (Remixes)",
         "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 217142,
       "name": "Disco Tool (Taiki Nulight Remix)",
       "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/66QmKxpY9JLUMbQrrqDgCT"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "ANML KNGDM",
-          "url": "https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS"
-        }
-      ],
-      "duration_ms": 184782,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/6Qj1eG0u2XDdDs4c0ySess"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Waiting for a Night",
+        "url": "https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 180451,
+      "name": "Waiting for a Night",
+      "url": "https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Gotta Let U Go",
         "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Waiting for a Night",
-        "url": "https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 180451,
-      "name": "Waiting for a Night",
-      "url": "https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Have Me All (feat. Jelita)",
         "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
       },
@@ -1471,42 +1471,6 @@
       "duration_ms": 170004,
       "name": "Have Me All (feat. Jelita)",
       "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Flexin",
-        "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 135705,
-      "name": "Flexin",
-      "url": "https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1531,22 +1495,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Patron",
-      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
+      "duration_ms": 135705,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1571,6 +1551,26 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Patron",
+      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 195268,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
@@ -1751,6 +1731,42 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Aspirin",
+        "url": "https://open.spotify.com/album/3qxIR5WOrNlTio5OZ0Mhg5"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 190535,
+      "name": "Aspirin",
+      "url": "https://open.spotify.com/track/0bsdo8CM58RrF4aXg9vZBs"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
       },
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Aspirin",
-        "url": "https://open.spotify.com/album/3qxIR5WOrNlTio5OZ0Mhg5"
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         }
       ],
-      "duration_ms": 190535,
-      "name": "Aspirin",
-      "url": "https://open.spotify.com/track/0bsdo8CM58RrF4aXg9vZBs"
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1803,6 +1819,30 @@
       "duration_ms": 215156,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+        }
+      ],
+      "duration_ms": 220898,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1863,6 +1903,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Push And Pull",
+        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Push And Pull",
+      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Wish He Knew",
         "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
       },
@@ -1875,66 +1931,6 @@
       "duration_ms": 157500,
       "name": "Wish He Knew",
       "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Kush",
-        "url": "https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        }
-      ],
-      "duration_ms": 156612,
-      "name": "Kush",
-      "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "NRG",
-        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Kota",
-          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
-        }
-      ],
-      "duration_ms": 220898,
-      "name": "NRG",
-      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     }
   ],
   "unique_name": "Shuffle Syndrome",

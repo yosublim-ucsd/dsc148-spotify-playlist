@@ -1,12 +1,12 @@
 {
   "description": "Pop Anglo para acompa\u00f1ar tus mejores momentos. Foto: Taylor Swift",
-  "num_followers": 113906,
+  "num_followers": 113988,
   "original_name": "Pop en Ingl\u00e9s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTI4Yjc3ZGYxMTkzOTMxYmFmNDRjYTlmMzRiZTdkY2VlOGIyMDAy",
+  "snapshot_id": "MCxhZTE4ZDc1YzE1ZDVmMjZhMjUxZGY3YTUwN2I5YWFkNGQ3ODgwNjM0",
   "tracks": [
     {
       "added_at": "2023-07-27 20:17:46",
@@ -23,22 +23,6 @@
       "duration_ms": 273186,
       "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
-    },
-    {
-      "added_at": "2023-07-27 20:17:46",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2023-07-27 20:17:46",
@@ -89,6 +73,22 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
+      "added_at": "2023-07-27 20:17:46",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
       "added_at": "2023-08-11 05:00:00",
       "album": {
         "name": "Desire (with Sam Smith)",
@@ -107,6 +107,22 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-08-17 23:22:53",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2023-08-04 14:10:52",
@@ -151,6 +167,30 @@
       "duration_ms": 135706,
       "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
+    },
+    {
+      "added_at": "2023-08-17 23:22:53",
+      "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
     },
     {
       "added_at": "2023-07-27 20:17:46",
@@ -1747,22 +1787,6 @@
     {
       "added_at": "2023-07-27 20:17:46",
       "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
-    },
-    {
-      "added_at": "2023-07-27 20:17:46",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -1779,22 +1803,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2023-07-27 20:17:46",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
       "added_at": "2023-07-27 20:17:46",

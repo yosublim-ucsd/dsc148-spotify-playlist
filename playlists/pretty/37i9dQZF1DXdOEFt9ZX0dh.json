@@ -1,12 +1,12 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
-  "num_followers": 916963,
+  "num_followers": 917601,
   "original_name": "Classic Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTcwMzY3NzcxMzI5NTY5OTY1YTI2NmU1ZmE4MWZmNjY2MTE4NDU0",
+  "snapshot_id": "MCwzYTgyMjMyMmUwZTY0NWYwZDBlNTM3OTcxMmZkNjU0ZWY2ZGIzMTVm",
   "tracks": [
     {
       "added_at": "2021-03-02 18:13:49",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Crimes Of Passion",
         "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 171266,
       "name": "Hit Me With Your Best Shot",
       "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Dreamboat Annie",
-        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 293440,
-      "name": "Crazy On You",
-      "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 323706,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "Crazy On You",
+      "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+      "duration_ms": 200213,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 254733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 324422,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1225,6 +1209,22 @@
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 324422,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
       "added_at": "2022-06-29 15:35:49",
       "album": {
         "name": "Ram Jam",
@@ -1239,6 +1239,22 @@
       "duration_ms": 238973,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Rock and Roll - Remaster",
+      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1291,22 +1307,6 @@
       "duration_ms": 188066,
       "name": "Hard To Handle",
       "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Rock and Roll - Remaster",
-      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
     },
     {
-      "added_at": "2022-04-08 19:07:59",
-      "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
@@ -1403,6 +1387,22 @@
       "duration_ms": 263333,
       "name": "Ramble On - 1990 Remaster",
       "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+    },
+    {
+      "added_at": "2022-04-08 19:07:59",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 251866,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Slow Ride / Save Your Loving (For Me)",
         "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 232533,
       "name": "Slow Ride - Edit",
       "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Straight Shooter",
         "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 313840,
       "name": "Feel like Makin' Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
-      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Bad Company (Deluxe)",
         "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 288053,
       "name": "Bad Company - 2015 Remaster",
       "url": "https://open.spotify.com/track/36vTL8WP4ZoD1bbUaW0V3E"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
     },
     {
       "added_at": "2021-03-02 18:13:49",

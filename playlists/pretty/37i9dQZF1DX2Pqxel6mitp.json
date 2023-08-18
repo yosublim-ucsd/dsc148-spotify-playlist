@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 63031,
+  "num_followers": 63108,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzg4YTczZmU0ODc2ZjI2MTZkNjFmOWFjMTEyNDY0MmFkOTM0YmMy",
+  "snapshot_id": "MCxjZDYyZjMzNjAwOTQ4MGFkNTBhNzk0ZTY5NGJlMzY1MmJmYzdjYTVi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:55:32",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Driftin' Blues - Single Version",
-      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 194321,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Driftin' Blues - Single Version",
+      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Brownie McGhee and Sonny Terry Sing",
         "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 184000,
       "name": "Better Day",
       "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Keep Sinking",
-      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Yellow Peril",
         "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 204986,
       "name": "Yellow Peril",
       "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Keep Sinking",
+      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 351960,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "Neckbone Stew",
         "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 351960,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "The 1928 Sessions",
         "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Call Me King",
         "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 174933,
       "name": "Call Me King",
       "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "Philadelphia Mississippi",
         "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 220560,
       "name": "If My Mind Don't Change (feat. Sharde Thomas)",
       "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
-      },
-      "artists": [
-        {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Navigation Blues",
         "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 296466,
       "name": "Navigation Blues",
       "url": "https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Mystery Man",
         "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
       },
@@ -1795,18 +1779,18 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
       },
       "artists": [
         {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Blues Chase up a Rabbit",
-      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1823,6 +1807,22 @@
       "duration_ms": 372440,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Blues Chase up a Rabbit",
+      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1863,38 +1863,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Empire State Express",
-        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Empire State Express",
-      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
       },
@@ -1915,22 +1883,34 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        },
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 188306,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1947,6 +1927,26 @@
       "duration_ms": 273573,
       "name": "Rollin' and Tumblin'",
       "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        },
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
     },
     {
       "added_at": "2023-07-21 15:55:32",

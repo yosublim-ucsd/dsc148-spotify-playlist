@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 
 > Os maiores hits do pop dos últimos tempos estão reunidos nesta playlist! Foto: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,582 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,755 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 30 | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:33 |
 | 31 | [Baby](https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:34 |
 | 32 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 33 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
-| 34 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
+| 33 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
+| 34 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 | 35 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
 | 36 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 37 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 45 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 |
 | 46 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
 | 47 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
-| 48 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
-| 49 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
+| 48 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
+| 49 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
 | 50 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 
-Snapshot ID: `MCw1NzZjMmQwMzI4OTZmMjY1ZDRlYzg4NmYxNTIxMjgzY2EyMzRhOGJl`
+Snapshot ID: `MCxjNmM5ZDk2ZDZmNDgwNDBkMTUxMmY0ZmQ0YjJlM2U2NGI1ZDdlNWNl`

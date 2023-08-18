@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Écoutez en boucle les hits algériens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,040 likes - 46 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,185 likes - 46 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 6 | [عمي صالح](https://open.spotify.com/track/2WS40EKnfgsLAO7iTtDkCi) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [عمي صالح](https://open.spotify.com/album/5bAfcA4BaWRBTU8kTqYBKv) | 4:24 |
 | 7 | [I Wanna Go](https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [I Wanna Go](https://open.spotify.com/album/7AIkWWjVVsrVk9vATMuFVo) | 3:50 |
 | 8 | [Chayef Ch'hal](https://open.spotify.com/track/4OtsNadXnYK0NDgmlZSCs8) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Chayef Ch'hal](https://open.spotify.com/album/78AH3bGTSnqg3TXCdKGvv3) | 3:19 |
-| 9 | [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 |
-| 10 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
-| 11 | [Normal](https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 2:41 |
+| 9 | [Normal](https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 2:41 |
+| 10 | [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 |
+| 11 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
 | 12 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 |
 | 13 | [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 |
 | 14 | [HINATA](https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [HINATA](https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p) | 2:55 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 45 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 |
 | 46 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 |
 
-Snapshot ID: `MCxiMzE5YjE1MTBmYWFjNTQ4NmNhNjE0OWE3NDE0Yjc2ZWZmZWQ0MzQ3`
+Snapshot ID: `MCw0NDgxOTkxZWViM2RjYjgxYzdhMjkxMzkwYzdlMmYyOGUwYjc5M2Q0`

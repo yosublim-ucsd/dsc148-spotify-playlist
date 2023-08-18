@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > The Skate Zone curates the playlist to offer a glimpse of their Atlanta roller rink.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,677 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,426 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 63 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 |
 | 64 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
 | 65 | [Feel so Good](https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:23 |
-| 66 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
-| 67 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
+| 66 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
+| 67 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 68 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 69 | [Push The Feeling On \- Mk Dub Revisited Edit](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Push The Feeling On](https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL) | 4:03 |
 | 70 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c) | 4:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 74 | [Beautiful](https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Uncle Charlie Wilson](https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B) | [The Best Of Snoop Dogg](https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8) | 4:59 |
 | 75 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 
-Snapshot ID: `MCw5YWNhN2RmZjI3NTBkOTgyNzVkMDY4MzAyN2I2ZTU4YzhmNTZjN2I0`
+Snapshot ID: `MCwxMGExYzAwMDZkMGNhMDQ1Zjg0NzRjNzk0NzZlMTBhNGNhNDRkMDNl`

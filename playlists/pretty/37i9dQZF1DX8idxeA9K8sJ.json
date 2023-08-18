@@ -1,12 +1,12 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 919681,
+  "num_followers": 919847,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2VmMDNhNGU5ZGZhZjhhMzg2ZDBmYjcyNjU4NTEzY2IzNjA5ZmQ5",
+  "snapshot_id": "MCxiNGVmYWZkMGM5ZjI4NTliZjI2ZTc0YTVkMDhmNjI2M2ZiYTRkZTA4",
   "tracks": [
     {
       "added_at": "2020-06-24 19:34:30",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "La Chica de Humo",
-      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "La Chica de Humo",
+      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "El Amor Acaba",
-      "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Que Hago Aqu\u00ed?",
         "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Doce Rosas",
-        "url": "https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
       "artists": [
         {
-          "name": "Lorenzo Antonio",
-          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 229668,
-      "name": "Doce Rosas",
-      "url": "https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R"
+      "duration_ms": 260026,
+      "name": "El Amor Acaba",
+      "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1187,6 +1171,22 @@
       "duration_ms": 261982,
       "name": "Castillos",
       "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Doce Rosas",
+        "url": "https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Antonio",
+          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Doce Rosas",
+      "url": "https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 166731,
+      "name": "Hagamos Un Trato",
+      "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 197000,
       "name": "Atado a un Sentimiento",
       "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Reflexiones",
+        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "\u00bfY Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4TZdC8azeblwQqbvFotNvS"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1291,22 +1323,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Reflexiones",
-        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "\u00bfY Qu\u00e9?",
-      "url": "https://open.spotify.com/track/4TZdC8azeblwQqbvFotNvS"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Hay Amores Y Amores",
         "url": "https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
       },
       "artists": [
         {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 166731,
-      "name": "Hagamos Un Trato",
-      "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
+      "duration_ms": 220466,
+      "name": "\u00bfY Qui\u00e9n Puede Ser?",
+      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Mudanzas",
-        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
       "artists": [
         {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
         }
       ],
-      "duration_ms": 231967,
-      "name": "Mudanzas",
-      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+      "duration_ms": 262973,
+      "name": "Mi Buen Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1403,34 +1419,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Rocio Durcal Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
+        "name": "Mudanzas",
+        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
         }
       ],
-      "duration_ms": 180333,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "\u00bfY Qui\u00e9n Puede Ser?",
-      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
+      "duration_ms": 231967,
+      "name": "Mudanzas",
+      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Mi Buen Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Rocio Durcal Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
     },
     {
       "added_at": "2020-06-24 19:34:30",

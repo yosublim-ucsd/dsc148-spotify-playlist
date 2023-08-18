@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,768 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,907 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 19 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 20 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 |
 | 21 | [櫂](https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 5:01 |
-| 22 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
-| 23 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
+| 22 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
+| 23 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 24 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 |
 | 25 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 26 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
-| 27 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
-| 28 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
+| 27 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
+| 28 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
 | 29 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 |
 | 30 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 |
 | 31 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 50 | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw) | 5:50 |
 
-Snapshot ID: `MCxhY2YzYzMwMGQ3ZWU4Njc2OTI0Y2ZiYmVhZjJjYWJiNjkwOGY5ZjZj`
+Snapshot ID: `MCwyNjVhMzg2ZWU1MTkwZmE3NThiZDc4MjFmODQ1ODk4MmQ3N2I0OGJl`

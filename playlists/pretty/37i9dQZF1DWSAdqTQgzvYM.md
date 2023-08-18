@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,520 likes - 88 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,519 likes - 88 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 4 | [Different is Beautiful \(Yeah, Yeah, Yeah\)](https://open.spotify.com/track/3YOYMflnybTtAkGncjcpqq) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Under the Big Umbrella](https://open.spotify.com/album/3EGoaqW3tguVFNOT985vpl) | 3:01 |
 | 5 | [Be Yourself](https://open.spotify.com/track/5dezcmeHDqLPVGpQ4Kflcf) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:31 |
 | 6 | [Joy Spice Soul](https://open.spotify.com/track/7hXJ5GAMKq1uUq7OINEWeC) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8), [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Joy Spice Soul](https://open.spotify.com/album/5P1qeQcfAEBzKQ7l1a6CYi) | 3:24 |
-| 7 | [You Are the Best](https://open.spotify.com/track/15k7tANdjZsxPbLApkOvTz) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [The Triangle of Success: A Motivational, Inspirational Audio Guide to Achieving Your Dreams](https://open.spotify.com/album/7k0NsygiRajqOD4aNnjxoX) | 3:09 |
+| 7 | [You Are the Best](https://open.spotify.com/track/15k7tANdjZsxPbLApkOvTz) | [Koo Koo](https://open.spotify.com/artist/6cDujwW0lcQjzhxvOkmIAd) | [The Triangle of Success: A Motivational, Inspirational Audio Guide to Achieving Your Dreams](https://open.spotify.com/album/7k0NsygiRajqOD4aNnjxoX) | 3:09 |
 | 8 | [Be The King](https://open.spotify.com/track/00kWP7HRLE3c0uI3W6DISD) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [Tha Cheat Code Reloaded](https://open.spotify.com/album/3UakmIN0DbXOxm1yNmnRz3) | 3:13 |
 | 9 | [Shine \(Melanin Remix\)](https://open.spotify.com/track/50TDL8QolQktQwBTeqohd4) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Shine \(Melanin Remix\)](https://open.spotify.com/album/2ZMN3LSZifIY2jFWHD4M7U) | 4:14 |
 | 10 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 87 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 88 | [Sing Your Song](https://open.spotify.com/track/0fjty03g806qqdJtz38ebJ) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:11 |
 
-Snapshot ID: `MCxmODljYmE2MjBlYmU4MzE2ZjUyNTRlYThmZDJlMThiZWUxZmJkMGU1`
+Snapshot ID: `MCxlZDhhMzJjOGE3YzYyODI0MmQ5Yjk1OTkxN2E3ZmM1ZWJmOWU5NzI2`

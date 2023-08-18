@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,368 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,441 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 7 | [Babylon](https://open.spotify.com/track/1sEDn0QkcjWGVoti0Da4kA) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:25 |
 | 8 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 9 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 10 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
-| 11 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 10 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 11 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
 | 12 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 13 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
 | 14 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 48 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
 | 49 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
 | 50 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
-| 51 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
+| 51 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 52 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 |
-| 53 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 53 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 54 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 55 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 56 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 91 | [VCR](https://open.spotify.com/track/65O4mmCwB46tKBNQhY79Ty) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:57 |
 | 92 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 |
 | 93 | [Why](https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 4:08 |
-| 94 | [I'm Gonna Getcha Good! \- Red Single Edit](https://open.spotify.com/track/6RH9SBaImgPfLCPEjpniVH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 4:02 |
-| 95 | [Call Me](https://open.spotify.com/track/1JEFsHZxUy24AvyC49GKVj) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Girl's in Love with You](https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5) | 3:57 |
+| 94 | [Call Me](https://open.spotify.com/track/1JEFsHZxUy24AvyC49GKVj) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Girl's in Love with You](https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5) | 3:57 |
+| 95 | [I'm Gonna Getcha Good! \- Red Single Edit](https://open.spotify.com/track/6RH9SBaImgPfLCPEjpniVH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 4:02 |
 | 96 | [God Only Knows \- Remastered 1999](https://open.spotify.com/track/0xb6220jAyOgKwukn1VxZ8) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Love Songs](https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq) | 2:51 |
 | 97 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 98 | [I Don't Want to Talk About It](https://open.spotify.com/track/7cE35BjpKtOIMTqsKGL8z8) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Idlewild](https://open.spotify.com/album/1C36Ww2wRq8wzTg7ZbsZor) | 4:18 |
 | 99 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/6dv99Xm7fEjm7K1ATHj1UG) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 3:05 |
 | 100 | [Diplomat's Son](https://open.spotify.com/track/0Dx352kZFiXR1NlcEMDJZx) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 6:01 |
 
-Snapshot ID: `MCw0Y2VjNWUwOGVkNDgzMzA4Mzk3Y2IyZmJjNjNmNDE5MTU2NWI3MmRj`
+Snapshot ID: `MCxhNDQzODk4N2IxMWI1ZDhhNmQ0NjdlMWY5MmE1ZmI5ODYxNWVlOTk2`

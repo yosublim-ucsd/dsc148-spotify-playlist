@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kelsea Ballerini, Cody Johnson, Luke Bryan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,909 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,178 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 59 | [Leavin' You](https://open.spotify.com/track/5XZq7KZco9CGnOXmxigMJR) | [Garrett Gregory](https://open.spotify.com/artist/4M21uVR94o70nHfuprIdvh) | [Leavin' You](https://open.spotify.com/album/155fGFvhi5so5ODsVp9Rcb) | 3:47 |
 | 60 | [Summer to Me](https://open.spotify.com/track/7eyjAColwSkNl117hr4OpS) | [Wayland](https://open.spotify.com/artist/5DG4mAvzfoF70wDbSd4wAJ) | [Summer to Me](https://open.spotify.com/album/3qgs08Ysi4hXtFEAqTTbwJ) | 3:08 |
 
-Snapshot ID: `MCxhZDA4MTM0MDlhYTZmZjhhZjYzNjgxMTQzNDkwNmVkNDMyZjNjNDJj`
+Snapshot ID: `MCwxZDM5YzFjMTMyZGE1YWQzMDQ3OTFkY2IyNGNhOGRmNTZmNzY1Y2Yz`

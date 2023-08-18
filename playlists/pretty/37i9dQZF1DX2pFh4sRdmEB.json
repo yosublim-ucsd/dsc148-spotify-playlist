@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 508776,
+  "num_followers": 508991,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjMyNWQ2ZmUzNjJiMzJlZGMwZjEzOTEyNDMzMGYzNDUwNWNhNjQ3",
+  "snapshot_id": "MCxmZmNhMjMwYWVhMGUwMTg2MjYwNmQ3NmZjODE2ZDYzMmMwNzhhZDhm",
   "tracks": [
     {
       "added_at": "2023-07-07 16:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "No Es Por Ac\u00e1",
-        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -643,22 +623,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "Mente Positiva",
-      "url": "https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "El Free",
         "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
       },
@@ -671,6 +635,42 @@
       "duration_ms": 163560,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "Mente Positiva",
+      "url": "https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
@@ -987,54 +967,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
       },
       "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
         {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 180946,
-      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1071,6 +1019,58 @@
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Deja De Chingarme",
+      "url": "https://open.spotify.com/track/1Uya8lQ4iNozpXJodcdbue"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Deja De Chingarme",
-      "url": "https://open.spotify.com/track/1Uya8lQ4iNozpXJodcdbue"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Cerrando Ciclos",
-      "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Cerrando Ciclos",
+      "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Un Cumbi\u00f3n Dolido",
-        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 235434,
-      "name": "Un Cumbi\u00f3n Dolido",
-      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+        "name": "Un Cumbi\u00f3n Dolido",
+        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
+      "duration_ms": 235434,
+      "name": "Un Cumbi\u00f3n Dolido",
+      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Me Hiciste un Borracho",
-        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "F\u00edjate Que S\u00ed",
-      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "Bodas De Enga\u00f1o",
         "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 212360,
       "name": "Viernes Sin Tu Amor",
       "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Me Hiciste un Borracho",
+        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "F\u00edjate Que S\u00ed",
+      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
+        "name": "Mi Amuleto Eres Tu",
+        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Mi Amuleto Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
         "name": "Cabrones y Vagos",
         "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 136615,
       "name": "Cabr\u00f3n y Vago",
       "url": "https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
-        "name": "Mi Amuleto Eres Tu",
-        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Mi Amuleto Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "Internacionalmente Norte\u00f1os",
         "url": "https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 172226,
       "name": "Carta Abierta",
       "url": "https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "La Loca (En Vivo)",
-        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 246251,
-      "name": "La Loca (En Vivo)",
-      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "Soy El Rat\u00f3n",
         "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
       },
@@ -2491,18 +2475,18 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+        "name": "La Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+      "duration_ms": 246251,
+      "name": "La Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2523,18 +2507,18 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda",
-        "url": "https://open.spotify.com/album/138YIGzaZfyGVySA21vgaK"
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
       "artists": [
         {
-          "name": "Estilo Al Norte",
-          "url": "https://open.spotify.com/artist/4a8CXjoDXfsk6okDkq2uUW"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 154911,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/3mQHv0VeDIJUJ4YgPh12XT"
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2551,6 +2535,22 @@
       "duration_ms": 164650,
       "name": "La Boca Les Callamos",
       "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/138YIGzaZfyGVySA21vgaK"
+      },
+      "artists": [
+        {
+          "name": "Estilo Al Norte",
+          "url": "https://open.spotify.com/artist/4a8CXjoDXfsk6okDkq2uUW"
+        }
+      ],
+      "duration_ms": 154911,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/3mQHv0VeDIJUJ4YgPh12XT"
     },
     {
       "added_at": "2023-07-07 16:00:00",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2023-07-07 16:00:00",
       "album": {
-        "name": "10 Corridos Pesados",
-        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suburban Dorada",
-      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
-    },
-    {
-      "added_at": "2023-07-07 16:00:00",
-      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 190413,
       "name": "Juan Martha",
       "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+    },
+    {
+      "added_at": "2023-07-07 16:00:00",
+      "album": {
+        "name": "10 Corridos Pesados",
+        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Suburban Dorada",
+      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
     }
   ],
   "unique_name": "La Troca",

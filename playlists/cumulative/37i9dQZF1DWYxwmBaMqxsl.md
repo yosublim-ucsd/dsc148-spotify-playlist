@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-289 songs - 18 hr 24 min
+292 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alone at Night](https://open.spotify.com/track/4HljpOZkfoUT97Ia7K3DFf) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [Alone at Night](https://open.spotify.com/album/4Ch9O6W16gFXTeL8FoGQGd) | 2:59 | 2022-04-01 |  |
 | [Alone Together \- Rudy Van Gelder Remaster 2006](https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S) | 3:10 | 2021-12-14 | 2023-03-18 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 |  |
+| [An Evening In Vienna](https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [An Evening In Vienna](https://open.spotify.com/album/3WfIRV65RyKAJeVTXR4WEr) | 3:04 | 2023-08-17 |  |
 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 | 2021-12-14 |  |
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-12 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2022-12-08 | 2023-04-28 |
@@ -172,7 +173,7 @@
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2022-08-10 |  |
 | [Myren](https://open.spotify.com/track/0ndyWE3s5txZ0p4YXMiVDj) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Myren](https://open.spotify.com/album/32wLo8nPlRDWr2aBvqStje) | 2:35 | 2021-12-14 | 2022-06-09 |
 | [Naima](https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps](https://open.spotify.com/album/7cZ6oBx0SEUPDAoxJtxNDh) | 4:18 | 2021-12-14 | 2022-07-29 |
-| [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 |  |
+| [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 | 2023-08-18 |
 | [Naima \- Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 4:25 | 2022-06-28 | 2022-08-11 |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 | 2021-12-14 | 2023-04-14 |
@@ -212,6 +213,7 @@
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:15 | 2022-01-26 | 2022-11-25 |
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2022-12-22 |  |
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-06-14 |  |
+| [Separate Ways](https://open.spotify.com/track/752oUyPd8uEhTwScC1NOFi) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Separate Ways](https://open.spotify.com/album/3VZAwaekAQLeLtF7malIjV) | 2:40 | 2023-08-17 |  |
 | [Seven Falls](https://open.spotify.com/track/0GoeKHEiKWSCYwCSHRzHTr) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/4sCDtwgXRr3G05gzpLX8Ui) | 4:04 | 2022-06-28 | 2022-09-07 |
 | [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 | 2021-12-14 | 2022-07-29 |
 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 | 2021-12-14 | 2022-11-11 |
@@ -245,6 +247,7 @@
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-06-28 |  |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2021-12-14 | 2023-04-14 |
 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2021-12-14 | 2023-01-06 |
+| [The French Quarter](https://open.spotify.com/track/144qoBAYReRqHR8Jd3mXc1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [The French Quarter](https://open.spotify.com/album/4zqTfeJuKZEh9ninMTrn3t) | 3:03 | 2023-08-17 |  |
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2021-12-14 | 2022-03-04 |
 | [The Imager](https://open.spotify.com/track/1mfuqzs480Ey1ia2Y7q7MH) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [The Imager](https://open.spotify.com/album/7y7VoIAYjag9EsvZpz4Dno) | 3:25 | 2022-08-10 | 2023-05-12 |
 | [The Masquerade Is Over](https://open.spotify.com/track/0dVNnHZ3v5rkmNW16XyUos) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [The Masquerade Is Over](https://open.spotify.com/album/16eMeIsGCIiC1FXUaDjNh3) | 4:31 | 2022-11-10 |  |

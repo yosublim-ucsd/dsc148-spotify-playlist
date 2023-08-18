@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-385 songs - 23 hr 32 min
+386 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-04-16 | 2022-07-29 |
 | [House Of Cards](https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:28 | 2022-01-26 | 2022-04-21 |
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-03-26 | 2022-07-28 |
-| [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 | 2021-03-26 |  |
+| [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 | 2021-03-26 | 2023-08-18 |
 | [I Always Wanna Die \(Sometimes\)](https://open.spotify.com/track/3HPpOFmDibEO06Z2q4ZN5u) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/7zuAt0boSPInT1b0sKyQMk) | 5:14 | 2021-03-26 | 2022-04-17 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-03-26 |  |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2021-03-26 | 2022-07-29 |
@@ -303,6 +303,7 @@
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-07 |  |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2021-03-26 | 2022-07-24 |
 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 | 2022-03-18 | 2022-07-24 |
+| [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-17 |  |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 | 2021-06-18 | 2022-04-21 |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2021-08-20 | 2022-04-20 |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2021-03-26 | 2022-04-20 |

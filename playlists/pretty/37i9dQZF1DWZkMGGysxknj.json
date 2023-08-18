@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 816482,
+  "num_followers": 816525,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2EzNjg4ZDhjYzRmNmY4ZjFlYjc4YTljMzM1YjliYWQ4NjNmZTAx",
+  "snapshot_id": "MCw2YzYxNTg3MTQyMDJjYzY5ZGQ0NDhjN2MyM2UwOTYwMzU5YTBkODli",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -123,34 +123,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Cannot Be, Whatsoever",
         "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
       },
@@ -163,22 +135,6 @@
       "duration_ms": 192040,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 271176,
-      "name": "Chemtrails Over The Country Club",
-      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -203,6 +159,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 271176,
+      "name": "Chemtrails Over The Country Club",
+      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -215,6 +187,34 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 187741,
       "name": "23",
       "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 246345,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 165697,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 246345,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 198712,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "We Saw Blue",
+        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 183502,
+      "name": "Ciranda",
+      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Here Comes Your Man",
         "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 254296,
       "name": "Graveyard - Acoustic",
       "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "We Saw Blue",
-        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 183502,
-      "name": "Ciranda",
-      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
       },
       "artists": [
         {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
+      "duration_ms": 218904,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
         }
       ],
-      "duration_ms": 218904,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Emily Alone",
-        "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 220189,
-      "name": "Shadow Bloom",
-      "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/4EgWz5C3nqZJSm2VQscdEs"
       },
@@ -1875,22 +1859,6 @@
       "duration_ms": 133440,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/4UjDKjzhP0GQXDv7X5zZXZ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 192981,
-      "name": "This Is What You Did",
-      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1911,6 +1879,38 @@
       "duration_ms": 304893,
       "name": "Softly - Mahogany Sessions",
       "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Emily Alone",
+        "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Shadow Bloom",
+      "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 192981,
+      "name": "This Is What You Did",
+      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
-      },
-      "artists": [
-        {
-          "name": "Parker Jenkins",
-          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -2179,18 +2163,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Parker Jenkins",
+          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
         }
       ],
-      "duration_ms": 187298,
-      "name": "Lado B",
-      "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
+      "duration_ms": 188712,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2207,6 +2191,22 @@
       "duration_ms": 238431,
       "name": "No Tears Left To Cry",
       "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 187298,
+      "name": "Lado B",
+      "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 125895,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "The Moons Detriment",
         "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 155000,
       "name": "The Moons Detriment",
       "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 125895,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
     },
     {
       "added_at": "2023-06-09 14:25:05",

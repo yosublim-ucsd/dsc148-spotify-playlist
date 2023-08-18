@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: flumpool
 
-741 songs - 2 day 1 hr 5 min
+742 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Let's go down the street](https://open.spotify.com/track/4PwtVSYLSDfGLE2kLMOKgq) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [The LEGEND](https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR) | 4:18 | 2023-03-21 | 2023-03-23 |
 | [Let's go down the street](https://open.spotify.com/track/09AwmUuIDnRtpCMVqRXUM3) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:20 | 2023-03-21 | 2023-04-20 |
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-23 | 2023-03-27 |
-| [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-28 |  |
+| [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-28 | 2023-08-18 |
 | [Light It Up](https://open.spotify.com/track/27H9AHFWDxMjxbUzIAzqwg) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light It Up](https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd) | 3:10 | 2022-09-08 | 2022-11-02 |
 | [Light it up](https://open.spotify.com/track/2vMoL8XqftPhCFE38Z8abj) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light it up](https://open.spotify.com/album/4sVEnfI07lxARCXUyTtZ6q) | 3:10 | 2022-09-08 | 2022-09-10 |
 | [Lightning\-Syndrome](https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY) | 3:39 | 2023-03-28 | 2023-05-10 |
@@ -240,6 +240,7 @@
 | [MERRY X'MAS IN SUMMER](https://open.spotify.com/track/2U99CkOaKJ000EV8GqMS1E) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [MERRY X'MAS IN SUMMER](https://open.spotify.com/album/60iBZ6OLMcN1CU11E3MNzw) | 5:05 | 2022-11-22 | 2022-12-14 |
 | [Merry\-Go\-Round](https://open.spotify.com/track/3tGXnGvZpT4fzua650wrRh) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Merry\-Go\-Round](https://open.spotify.com/album/4DTvXuio482igL0edC2jsZ) | 4:03 | 2022-05-12 | 2022-05-17 |
 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-19 | 2023-03-08 |
+| [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 | 2023-08-17 |  |
 | [midsummer sunset](https://open.spotify.com/track/5GkJ9PJ7Yokkn4wFRRyf9S) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [midsummer sunset](https://open.spotify.com/album/5zu1i14LSDhd9EdwMKtQiT) | 8:44 | 2022-10-11 | 2022-10-29 |
 | [Mirage](https://open.spotify.com/track/24B1pivOBr5KpJbwwIS05q) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Dream in Dream](https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX) | 4:27 | 2023-06-27 | 2023-07-12 |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-03-23 | 2023-03-29 |

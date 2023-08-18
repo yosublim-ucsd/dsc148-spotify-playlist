@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,550 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,625 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Over My Head](https://open.spotify.com/track/09drCTMXn1mMBEemI6AJeL) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Over My Head](https://open.spotify.com/album/1xZRvm07pp4SBxFUUitaqj) | 3:32 |
 | 100 | [Birds](https://open.spotify.com/track/665lYEawkx38NJfCwSEoiH) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Birds](https://open.spotify.com/album/1PNNzPuio6ikBfR8HdvxYk) | 3:16 |
 
-Snapshot ID: `MCw0ZTkzNjgxMmQ0OGMxNDE0ZTQwMTVjZGY5MmM5M2Q3OTM2YTIzZTA2`
+Snapshot ID: `MCwzYTBkMTVkYzYwOGI3Njg1MWVlOWE4NTFmZWEwMTQ1NmYwYjhmZWY4`

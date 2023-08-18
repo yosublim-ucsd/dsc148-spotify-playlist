@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Chayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,594 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,665 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 75 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 |
 | 76 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
 | 77 | [Tú 1ero](https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Tú 1ero](https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL) | 3:09 |
-| 78 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
-| 79 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 78 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 79 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
 | 80 | [A Mi Manera](https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Baby Lores](https://open.spotify.com/artist/5xRtCPL9lt9Gp1HP4JhAkl), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Eddy K](https://open.spotify.com/artist/6OEL2dR4ggFGWGhuQZAzy1), [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [Epicentro](https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf) | 5:42 |
 | 81 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 |
 | 82 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Nubes Negras](https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Nubes Negras](https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl) | 4:06 |
 | 100 | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ) | 4:58 |
 
-Snapshot ID: `MCw5ZmYxNTRiZWQ5MWJlNWM4OTRlN2YyZWI5ODQyZjBjNWRiYmE5NzEz`
+Snapshot ID: `MCw4MzcxNzllZWQ3ZWE0YWE1YzIzYzk5N2VjYzc5YWUzMWRhNThlNmNm`

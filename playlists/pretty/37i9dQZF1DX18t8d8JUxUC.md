@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Caloncho
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,633 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,660 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 14 | [Acurrucar](https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:54 |
 | 15 | [Otras Se Pierden](https://open.spotify.com/track/3SvbcJH2seu1zs0PMjPS6F) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:54 |
 | 16 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 |
-| 17 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
-| 18 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
+| 17 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
+| 18 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
 | 19 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
 | 20 | [Conticinio](https://open.spotify.com/track/66V8fWmTWOTcZTo0niDctU) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Conticinio](https://open.spotify.com/album/7iqnQQB4qkSdFGlO0F8MCn) | 3:32 |
 | 21 | [Me Gustas](https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Me Gustas](https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91) | 2:52 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 66 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
 | 67 | [Sagitario](https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Sagitario](https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E) | 3:21 |
 | 68 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 |
-| 69 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
-| 70 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 69 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 70 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
 | 71 | [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 |
 | 72 | [Recuerdo](https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:29 |
 | 73 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 |
 | 74 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 |
-| 75 | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Algunas Cosas de Ti Que Se Merecen una Canción](https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU) | 3:55 |
+| 75 | [hasta viejitos](https://open.spotify.com/track/24kcHSP9RuUB9xxk4wq5Tn) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [George Waves](https://open.spotify.com/artist/0yLl8k4ehq6YHgqjTAgf3P) | [hasta viejitos](https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM) | 4:04 |
 
-Snapshot ID: `MCwxOTc5ZWY4NmJmMjJlMDY5NTJlNWUxNTI0ZjNmYThlYTY3OGMxZGJk`
+Snapshot ID: `MCw1ZTZmOWQzOTJmZWVjMjJhYTAxNTRmMWJmMTcwNDZhNTEyYWY0M2Q1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 
 > ¡Con las Letras de estas canciones, no querrás soltar el micrófono!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,987 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,062 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 43 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 |
 | 44 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
 | 45 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
-| 46 | [La Planta](https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M) | [Caos](https://open.spotify.com/artist/7aTwbcPoqJOzeEh96WHxrp) | [La Vida Gacha](https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM) | 4:05 |
-| 47 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
+| 46 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
+| 47 | [La Planta](https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M) | [Caos](https://open.spotify.com/artist/7aTwbcPoqJOzeEh96WHxrp) | [La Vida Gacha](https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM) | 4:05 |
 | 48 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
 | 49 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
 | 50 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 77 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
 | 78 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
 | 79 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
-| 80 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
+| 80 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 
-Snapshot ID: `MCw0MDFkMWI0ZTM0NGJiMzlkMDAxYmMwOTQ2NzIwNDYzNzUwODI1MDM4`
+Snapshot ID: `MCxkNDI3NWQ4NmM1MTkyN2EyNDY1YzE1NzkxOWJmNTMxNjBmNDJmYzA2`

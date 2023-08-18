@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Carin Leon & Camilo",
-  "num_followers": 24839,
+  "num_followers": 24866,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTZjODE0MTUyZmQwMGVhZmQ5MDg1NThkNDZkZjMwYmEwOTQxZjg4",
+  "snapshot_id": "MCw5M2I0NDgxNzEyZWViYmFlNjhjN2U3YjAwNTc0NDhjZGM0MWY3ODlh",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Inseparables",
-        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Inseparables",
-      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Pacas Verdes (feat. Ovi)",
         "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 170925,
       "name": "Pacas Verdes",
       "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Me Met\u00ed en el Ruedo (Remix)",
-        "url": "https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb"
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
         }
       ],
-      "duration_ms": 174174,
-      "name": "Me Met\u00ed en el Ruedo - Remix",
-      "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
+      "duration_ms": 141105,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
+        "name": "Me Met\u00ed en el Ruedo (Remix)",
+        "url": "https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Drakeo the Ruler",
-          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 141105,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
+      "duration_ms": 174174,
+      "name": "Me Met\u00ed en el Ruedo - Remix",
+      "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
     },
     {
       "added_at": "2023-05-26 04:00:00",

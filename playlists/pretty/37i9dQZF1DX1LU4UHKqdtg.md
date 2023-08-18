@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: STAYC
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,765 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,076 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 8 | [TAXI](https://open.spotify.com/track/0LMqywHzZAAwSPWCfyfz9t) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [LOVE ALL](https://open.spotify.com/album/48XkMlSp71d4SzQsxiaij2) | 2:48 |
 | 9 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 |
 | 10 | [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 |
-| 11 | [Break Out](https://open.spotify.com/track/4i1A3pykqeJbZwLmIeVOFw) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Break Out](https://open.spotify.com/album/3LfNFWSbFEGYYO5DmuzHgW) | 3:07 |
+| 11 | [Break Out](https://open.spotify.com/track/4tfF89sZMaHPathB908W67) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [ポラリス](https://open.spotify.com/album/5J5odxYlO6OBDmN6bzeb3Y) | 3:07 |
 | 12 | [Vuja De](https://open.spotify.com/track/42UNd3AFYei50ztCyAKhWl) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Reality Show \- The 3rd Mini Album](https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b) | 3:06 |
 | 13 | [SMILEY\-Japanese Ver.\- \(feat.ちゃんみな\)](https://open.spotify.com/track/4RhkH4fGvvEzxvRlUcYH9L) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [SMILEY\-Japanese Ver.\- \(feat.ちゃんみな\)](https://open.spotify.com/album/405JFvqLG79ifF84IKlWJC) | 2:56 |
 | 14 | [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 |
 | 80 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 
-Snapshot ID: `MCwyYTQyMzdmY2JlZTBkZTdhODBlNDVmYjk2NjE2MDUzNGE0NjI1MWMz`
+Snapshot ID: `MCxmM2YwZWVmNTdjODQ0YzYzYmI0MmMyMzI4ODAwYjEzMjkzMzNkOWFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,864 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,863 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 10 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
 | 11 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 | 12 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
-| 13 | [Stronger Than That](https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 2:37 |
-| 14 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
+| 13 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
+| 14 | [Stronger Than That](https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 2:37 |
 | 15 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 2:50 |
 | 16 | [40 Day Dream \- 2019 \- Remaster](https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 3:52 |
 | 17 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 33 | [Wakin On A Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 |
 | 34 | [The General Specific](https://open.spotify.com/track/7kDhGzc1hgkQQyzpvBmKcX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:07 |
 | 35 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
-| 36 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
-| 37 | [Mr\. Tillman](https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 3:03 |
+| 36 | [Mr\. Tillman](https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd) | 3:03 |
+| 37 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
 | 38 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 |
 | 39 | [Penny, Heads Up](https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:27 |
 | 40 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 |
 | 50 | [Road to Joy](https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:53 |
 
-Snapshot ID: `MCxmZGI1ZmVhOTJhMTY0Y2Q3NTgzMjZhYjZjZThmZGIyMDQ5OTM5YjQx`
+Snapshot ID: `MCxmYjkzODExOWYwYzFiY2Q1Y2JjYTc5YmI5NDA1N2ZjNzg3ODVlYWNh`

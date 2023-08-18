@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,694 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,909 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 38 | [No Me Canso \(En Directo\)](https://open.spotify.com/track/3Fr0Xm46f8C2iIzTB6z7Ey) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt), [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [7300 Días, Pt\. 3 \(En Directo\)](https://open.spotify.com/album/53R1T85J5DBStrwnxsFzzE) | 4:54 |
 | 39 | [Por el Bulevar de los Sueños Rotos](https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esta Boca Es Mia](https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk) | 3:58 |
 | 40 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
-| 41 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
-| 42 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
+| 41 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
+| 42 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
 | 43 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
 | 44 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
 | 45 | [El Sitio De Mi Recreo](https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Oceano De Sol](https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp) | 3:10 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 77 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 |
 | 78 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 |
 | 79 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
-| 80 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
-| 81 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
+| 80 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
+| 81 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
 | 82 | [Coyotes \- Versión en Acústico El Embarcadero](https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Coyotes \(Versión en Acústico El Embarcadero\)](https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w) | 3:50 |
 | 83 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 84 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
 | 100 | [Comando Antivandálico, Pero Violento](https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Comando Antivandálico, Pero Violento](https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x) | 3:34 |
 
-Snapshot ID: `MCxkMmU2MmEzOGUxMjVlYjgzNjM0NzBlYzU2NTFmMjIxZTE5YTcyYzMx`
+Snapshot ID: `MCw3ZGVjMjdkMjk2MmE0YTY3ODk2ZjM1YTBkMDVmODQyZWQ3Mjg5MDA0`

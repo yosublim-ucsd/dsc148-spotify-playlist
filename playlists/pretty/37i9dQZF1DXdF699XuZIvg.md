@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,477 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,970 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 23 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
 | 24 | [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 |
 | 25 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
-| 26 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
-| 27 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
+| 26 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
+| 27 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 28 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
 | 29 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:37 |
 | 30 | [Times Like These](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:25 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 38 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 |
 | 39 | [Wild Side](https://open.spotify.com/track/669npuMwVlYFReOpYFYxwH) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:41 |
 | 40 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
-| 41 | [Bulletproof](https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:57 |
-| 42 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
+| 41 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
+| 42 | [Bulletproof](https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:57 |
 | 43 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
 | 44 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
 | 45 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [Last Day Under The Sun](https://open.spotify.com/track/6QrC8IQV29mwLgLMW1zGmm) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 4:47 |
 | 75 | [Boilermaker](https://open.spotify.com/track/27BEATf1JFhKDmwJdpGVSk) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:29 |
 
-Snapshot ID: `MCxlZGZlMThmZWRmMjY1ZGFkZDE3ZDFiOGUzZTBmNzU0ZjQ4MDYzMWVl`
+Snapshot ID: `MCxkZGZmMThiN2ZmNjg2YWVjZjRkOTAyZWJiMDIzNDZmYTcyMzIyODI1`

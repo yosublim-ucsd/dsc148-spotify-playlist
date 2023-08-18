@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,331 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,415 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 59 | [Afterglow](https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Afterglow](https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy) | 3:10 |
 | 60 | [Bridge](https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season \(Deluxe Edition\)](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 2:30 |
 | 61 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
-| 62 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
-| 63 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
+| 62 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
+| 63 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 64 | [Hunger Of The Pine \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx) | [Vaults](https://open.spotify.com/artist/0TytASn0kOZkCpjYTrXsBt), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 3:34 |
 | 65 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
 | 66 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 | 100 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 |
 
-Snapshot ID: `MCxjZGEwZWQ3OTJiMGE3N2QzMjYxZDM3NjgyZmE0ZGQxMzNiMmY1Zjg5`
+Snapshot ID: `MCxmZWY2OTc5NTE3MjBjYzEyMzQ1ODhjZmM4YWU3NmJkM2Q0ZGFhNDM2`

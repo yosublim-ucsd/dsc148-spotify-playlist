@@ -1,12 +1,12 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 94136,
+  "num_followers": 94651,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Q5NTk2NGVkNGY5Nzg2ZDYyOTJhYzdhYjkyZDUxZDJhMmJhZTk3",
+  "snapshot_id": "MCwyYTE4YTI2MDA3NDhhMzUwOWExZDAxY2Q1NTNhYzYyNGE1YTk4NWVi",
   "tracks": [
     {
       "added_at": "2023-08-15 09:36:48",
@@ -495,6 +495,30 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
+        "name": "Nest Egg",
+        "url": "https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "duration_ms": 145576,
+      "name": "Nest Egg",
+      "url": "https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/0eUrglnLadODz1h6yqu3io"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 154527,
       "name": "Iris",
       "url": "https://open.spotify.com/track/1lZj8bgdCrkLFCd7WXjTyd"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "Nest Egg",
-        "url": "https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "Slug",
-          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
-        },
-        {
-          "name": "No\u00e9 Mina",
-          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
-        }
-      ],
-      "duration_ms": 145576,
-      "name": "Nest Egg",
-      "url": "https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
+        "name": "Smooth Sunday Barbeque",
+        "url": "https://open.spotify.com/album/3248TWghWQaI4iwhukipLS"
+      },
+      "artists": [
+        {
+          "name": "Pat Kujala",
+          "url": "https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Smooth Sunday Barbeque",
+      "url": "https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
         "name": "MAINS",
         "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -879,38 +879,18 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Smooth Sunday Barbeque",
-        "url": "https://open.spotify.com/album/3248TWghWQaI4iwhukipLS"
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ"
       },
       "artists": [
         {
-          "name": "Pat Kujala",
-          "url": "https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK"
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
         }
       ],
-      "duration_ms": 197124,
-      "name": "Smooth Sunday Barbeque",
-      "url": "https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "Moons of Jupiter",
-        "url": "https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr"
-      },
-      "artists": [
-        {
-          "name": "Daylight Robbery!",
-          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
-        },
-        {
-          "name": "Benjamin Furman",
-          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "Galilean Moons",
-      "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
+      "duration_ms": 202120,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -931,6 +911,26 @@
       "duration_ms": 115108,
       "name": "Scrambled Eggs",
       "url": "https://open.spotify.com/track/7bTPwHHPyw83LN6dxLZgFF"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
+        "name": "Moons of Jupiter",
+        "url": "https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr"
+      },
+      "artists": [
+        {
+          "name": "Daylight Robbery!",
+          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
+        },
+        {
+          "name": "Benjamin Furman",
+          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "Galilean Moons",
+      "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -963,22 +963,6 @@
       "duration_ms": 213333,
       "name": "Stuck Inside",
       "url": "https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "Every Story / Pivot",
-        "url": "https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Pivot",
-      "url": "https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv"
+        "name": "Every Story / Pivot",
+        "url": "https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi"
       },
       "artists": [
         {
-          "name": "Stan Forebee",
-          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
         }
       ],
-      "duration_ms": 128248,
-      "name": "Delta",
-      "url": "https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL"
+      "duration_ms": 198546,
+      "name": "Pivot",
+      "url": "https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1055,6 +1039,22 @@
       "duration_ms": 135211,
       "name": "Amber",
       "url": "https://open.spotify.com/track/2vgb3IA5TbrEoenhqFdpmO"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv"
+      },
+      "artists": [
+        {
+          "name": "Stan Forebee",
+          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
+        }
+      ],
+      "duration_ms": 128248,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1219,30 +1219,18 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Brooklyn Brownstone",
-        "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
+        "name": "Leafy Greens",
+        "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
       },
       "artists": [
         {
-          "name": "faff",
-          "url": "https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF"
-        },
-        {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        },
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
+          "name": "Beats Me, Innit?",
+          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Brooklyn Brownstone",
-      "url": "https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92"
+      "duration_ms": 160750,
+      "name": "Leafy Greens",
+      "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1267,6 +1255,34 @@
       "duration_ms": 182000,
       "name": "Night Service",
       "url": "https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
+        "name": "Brooklyn Brownstone",
+        "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
+      },
+      "artists": [
+        {
+          "name": "faff",
+          "url": "https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        },
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Brooklyn Brownstone",
+      "url": "https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1323,38 +1339,18 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Leafy Greens",
-        "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
+        "name": "Billow",
+        "url": "https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog"
       },
       "artists": [
         {
-          "name": "Beats Me, Innit?",
-          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
         }
       ],
-      "duration_ms": 160750,
-      "name": "Leafy Greens",
-      "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
-      },
-      "artists": [
-        {
-          "name": "skyswimming",
-          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
-        },
-        {
-          "name": "koolmonke",
-          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
+      "duration_ms": 151127,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Billow",
-        "url": "https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
       },
       "artists": [
         {
-          "name": "Mattari",
-          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+          "name": "skyswimming",
+          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+        },
+        {
+          "name": "koolmonke",
+          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
         }
       ],
-      "duration_ms": 151127,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq"
+      "duration_ms": 146000,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Clap Clap",
-        "url": "https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        }
-      ],
-      "duration_ms": 159145,
-      "name": "Clap Clap",
-      "url": "https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
         "name": "Class",
         "url": "https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo"
       },
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Mad Summer",
-        "url": "https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9"
+        "name": "Clap Clap",
+        "url": "https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk"
       },
       "artists": [
         {
-          "name": "Nocatchphraze",
-          "url": "https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ"
-        },
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
         }
       ],
-      "duration_ms": 167999,
-      "name": "Mad Summer",
-      "url": "https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi"
+      "duration_ms": 159145,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1523,6 +1503,26 @@
       "duration_ms": 320388,
       "name": "As We Are",
       "url": "https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
+        "name": "Mad Summer",
+        "url": "https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9"
+      },
+      "artists": [
+        {
+          "name": "Nocatchphraze",
+          "url": "https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ"
+        },
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Mad Summer",
+      "url": "https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1591,6 +1591,30 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
+        "name": "Fever, Fever",
+        "url": "https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz"
+      },
+      "artists": [
+        {
+          "name": "Melatone",
+          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "Howden",
+          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
+        }
+      ],
+      "duration_ms": 164939,
+      "name": "Fever, Fever",
+      "url": "https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
         "name": "Lost Travelers",
         "url": "https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb"
       },
@@ -1647,30 +1671,6 @@
       "duration_ms": 140750,
       "name": "high downforce",
       "url": "https://open.spotify.com/track/6Ybsa98LVmJAr15DwXSbzl"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "Fever, Fever",
-        "url": "https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz"
-      },
-      "artists": [
-        {
-          "name": "Melatone",
-          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "Howden",
-          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
-        }
-      ],
-      "duration_ms": 164939,
-      "name": "Fever, Fever",
-      "url": "https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "Making It Rain / Buckets",
-        "url": "https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Making It Rain",
-      "url": "https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
         "name": "Jonde",
         "url": "https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k"
       },
@@ -1811,6 +1791,26 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
+        "name": "Making It Rain / Buckets",
+        "url": "https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Making It Rain",
+      "url": "https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
         "name": "Golden Age",
         "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
       },
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
+      },
+      "artists": [
+        {
+          "name": "Three Peats",
+          "url": "https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco"
+        }
+      ],
+      "duration_ms": 216144,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4"
       },
@@ -1867,6 +1883,30 @@
       "duration_ms": 209501,
       "name": "Pathways",
       "url": "https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs"
+    },
+    {
+      "added_at": "2023-08-15 09:36:48",
+      "album": {
+        "name": "A Bouquet of Flowers",
+        "url": "https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "c e c e l i e",
+          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR"
     },
     {
       "added_at": "2023-08-15 09:36:48",
@@ -1915,62 +1955,18 @@
     {
       "added_at": "2023-08-15 09:36:48",
       "album": {
-        "name": "A Bouquet of Flowers",
-        "url": "https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "c e c e l i e",
-          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
-        },
-        {
-          "name": "Louk",
-          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Sunflowers",
-      "url": "https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "Pineapple",
-        "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
-      },
-      "artists": [
-        {
-          "name": "Three Peats",
-          "url": "https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco"
-        }
-      ],
-      "duration_ms": 216144,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
-    },
-    {
-      "added_at": "2023-08-15 09:36:48",
-      "album": {
-        "name": "When Every Leaf Is A Flower",
-        "url": "https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ"
-      },
-      "artists": [
-        {
-          "name": "LESKY",
-          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
-        },
-        {
-          "name": "Beyond Moments",
-          "url": "https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4"
-        }
-      ],
-      "duration_ms": 123636,
-      "name": "Lavanta",
-      "url": "https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt"
+      "duration_ms": 260487,
+      "name": "Amethyst",
+      "url": "https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK"
     }
   ],
   "unique_name": "Smooth Jazz Beats",

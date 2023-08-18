@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP?si=cBA7hOhMR9SyDsqhGQHDrQQ\">Wilma Van Heerden</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=uK3kbGQ1SSC1lIRWZuwkoA\">Prop</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 170617,
       "name": "Afrika Son",
       "url": "https://open.spotify.com/track/6AmJU5Rtf7vXcubCYJitGa"
+    },
+    {
+      "album": {
+        "name": "Afrika Vrou",
+        "url": "https://open.spotify.com/album/4fXbmfFFKisbKf8KuLmJor"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9",
+          "url": "https://open.spotify.com/artist/1i27bTNA5Fx9OYMLFl0B8a"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241536,
+      "name": "Afrika Vrou",
+      "url": "https://open.spotify.com/track/2ZoIXfCaCNynEs5EoV3xgo"
     },
     {
       "album": {
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 242064,
       "name": "Die Langpad Gee Nie Om Nie",
       "url": "https://open.spotify.com/track/1MxOJWWOxVoORiLWiaprtE"
@@ -2527,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Gogga",
+        "url": "https://open.spotify.com/album/6NVlAxL1Q918yRq7dJ0ad8"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203362,
+      "name": "Gogga",
+      "url": "https://open.spotify.com/track/58byxA9vGXEwHgmYHVkINT"
+    },
+    {
+      "album": {
         "name": "Al Die Ysters",
         "url": "https://open.spotify.com/album/69iTs5usYIqkK6VHgBdh0H"
       },
@@ -3272,7 +3308,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 188833,
       "name": "IN MY DROME",
       "url": "https://open.spotify.com/track/6dCfA2DBPCNRsdSmlTWWRF"
@@ -3578,7 +3614,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 182474,
       "name": "Jy's Lief Vir My",
       "url": "https://open.spotify.com/track/01m0hnyrvtAm0g2mKszhTk"
@@ -4234,6 +4270,24 @@
       "duration_ms": 226000,
       "name": "Laat Jou Voete Praat",
       "url": "https://open.spotify.com/track/6qNaSzF7aySbSCsNhmari2"
+    },
+    {
+      "album": {
+        "name": "Laatnag Gedagtes",
+        "url": "https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174254,
+      "name": "Laatnag Gedagtes",
+      "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
     },
     {
       "album": {
@@ -4912,7 +4966,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 236786,
       "name": "Moeg",
       "url": "https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z"
@@ -6233,6 +6287,24 @@
     },
     {
       "album": {
+        "name": "Rigtingnaald",
+        "url": "https://open.spotify.com/album/0jlTHJ7HGit6w5G7mctR3Q"
+      },
+      "artists": [
+        {
+          "name": "Ray Dylan",
+          "url": "https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228355,
+      "name": "Rigtingnaald",
+      "url": "https://open.spotify.com/track/0S3S4LAhY89K9hjlIWuptV"
+    },
+    {
+      "album": {
         "name": "Rondry, Fliek en die Buitelewe",
         "url": "https://open.spotify.com/album/0efPfJkq7OwgRykVmZ2HoB"
       },
@@ -7250,10 +7322,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 262000,
       "name": "Super Sexy",
       "url": "https://open.spotify.com/track/2CO1I60LEmkuZVivtyXDZ0"
+    },
+    {
+      "album": {
+        "name": "Supermark",
+        "url": "https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj"
+      },
+      "artists": [
+        {
+          "name": "Aya Nixon",
+          "url": "https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Supermark",
+      "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
     },
     {
       "album": {
@@ -7763,6 +7853,24 @@
     },
     {
       "album": {
+        "name": "Vanaand Gaan Ons Terug",
+        "url": "https://open.spotify.com/album/4OPkDwVhr5rQ0J66mFBOxX"
+      },
+      "artists": [
+        {
+          "name": "Stefan Dixon",
+          "url": "https://open.spotify.com/artist/4DDa2QHyPVNaHhZ1suze3y"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "Vanaand Gaan Ons Terug",
+      "url": "https://open.spotify.com/track/1TlKuJPAQRLwwGCaYrUcba"
+    },
+    {
+      "album": {
         "name": "Net Liefde",
         "url": "https://open.spotify.com/album/0jGYdco9OrPMuQWRAsS2vp"
       },
@@ -8262,7 +8370,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 221573,
       "name": "Waar Ek Hoort",
       "url": "https://open.spotify.com/track/7bNLjtZNbbSXN7CaJQWDyA"

@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 586994,
+  "num_followers": 587037,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzU1NWJjZjYzM2IxNmVkMmI1MjdhZWVhZDQwNGRiMjVmZWNhNzA0",
+  "snapshot_id": "MCwyNWE3ZmM1N2NiN2ZiZTQ4Njc3YzEzYzQwMDJlYjljMTQ5N2I1NDAw",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 199440,
       "name": "There's Nothing Holdin' Me Back",
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
         "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": "2023-08-11 03:00:00",

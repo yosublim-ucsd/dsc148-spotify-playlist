@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20969,
+  "num_followers": 20968,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0MjMsMGRiNzQwOWY4MzFhM2M5N2ZkMTVmYjNiNWE0NGNmMWM1ZDJhODA1OA==",
+  "snapshot_id": "MTA0NDMsYjRlZTAwYThhMDAyN2EzMzJhNzYwYjg4ZTVjN2FlOGY0MDE1OTkyMQ==",
   "tracks": [
     {
       "added_at": "2023-08-16 15:10:22",
@@ -65,6 +65,26 @@
       "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
     },
     {
+      "added_at": "2023-08-17 01:17:33",
+      "album": {
+        "name": "Coup De Gr\u00e2ce",
+        "url": "https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx"
+      },
+      "artists": [
+        {
+          "name": "Dugong Jr",
+          "url": "https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i"
+        },
+        {
+          "name": "IJALE",
+          "url": "https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo"
+        }
+      ],
+      "duration_ms": 223908,
+      "name": "Coup De Gr\u00e2ce",
+      "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
+    },
+    {
       "added_at": "2023-07-20 01:12:32",
       "album": {
         "name": "Tennis Skirt (feat. Ella Boh)",
@@ -103,6 +123,22 @@
       "duration_ms": 181430,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/24fqHAeKYTZAx6gN9kc3DC"
+    },
+    {
+      "added_at": "2023-08-17 01:17:20",
+      "album": {
+        "name": "The Way You Had Me",
+        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "duration_ms": 190423,
+      "name": "The Way You Had Me",
+      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
     },
     {
       "added_at": "2023-04-20 18:26:56",
@@ -161,26 +197,6 @@
       "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
     },
     {
-      "added_at": "2023-07-20 01:08:34",
-      "album": {
-        "name": "Forgotten Feels",
-        "url": "https://open.spotify.com/album/1XHSrFR9VV4Yc2llQdVMgA"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/3lPO2CWQbbi2ojaMA5xmOK"
-    },
-    {
       "added_at": "2023-03-24 15:47:28",
       "album": {
         "name": "No Turning Back (feat. Namelle)",
@@ -199,42 +215,6 @@
       "duration_ms": 175500,
       "name": "No Turning Back (feat. Namelle)",
       "url": "https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c"
-    },
-    {
-      "added_at": "2023-06-16 01:01:16",
-      "album": {
-        "name": "over n over",
-        "url": "https://open.spotify.com/album/5BWL5L3fYAzC7BrOCt2Dvj"
-      },
-      "artists": [
-        {
-          "name": "Marty Valentine",
-          "url": "https://open.spotify.com/artist/7JCYYyIBno1eDpBqI436yk"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "over n over",
-      "url": "https://open.spotify.com/track/6TYhK78FWxSMhGZ1lAEjHV"
-    },
-    {
-      "added_at": "2023-02-24 21:31:58",
-      "album": {
-        "name": "Without u (feat. Holywatr)",
-        "url": "https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj"
-      },
-      "artists": [
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        },
-        {
-          "name": "Holywatr",
-          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
-        }
-      ],
-      "duration_ms": 185161,
-      "name": "Without u (feat. Holywatr)",
-      "url": "https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i"
     },
     {
       "added_at": "2023-04-20 18:27:23",
@@ -331,26 +311,6 @@
       "duration_ms": 250588,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/3gHgHC1iNLtivPNtd9y4pf"
-    },
-    {
-      "added_at": "2023-01-27 23:35:54",
-      "album": {
-        "name": "Moonlight (feat. Gianni Taylor)",
-        "url": "https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt"
-      },
-      "artists": [
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        },
-        {
-          "name": "GIANNI TAYLOR",
-          "url": "https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i"
-        }
-      ],
-      "duration_ms": 173061,
-      "name": "Moonlight (feat. Gianni Taylor)",
-      "url": "https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk"
     },
     {
       "added_at": "2023-03-24 21:20:38",
@@ -1661,114 +1621,6 @@
       "url": "https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw"
     },
     {
-      "added_at": "2023-05-01 00:11:58",
-      "album": {
-        "name": "Lavender Dreams & Scarlet Nightmares",
-        "url": "https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP"
-      },
-      "artists": [
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        },
-        {
-          "name": "Jolina El\u00edsh",
-          "url": "https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK"
-        }
-      ],
-      "duration_ms": 195371,
-      "name": "Lavender (feat. Jolina El\u00edsh)",
-      "url": "https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA"
-    },
-    {
-      "added_at": "2023-05-04 23:51:52",
-      "album": {
-        "name": "hold the world in your hands",
-        "url": "https://open.spotify.com/album/5pjBgBD67DAdelFMJnCb20"
-      },
-      "artists": [
-        {
-          "name": "44 Ardent",
-          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "hold the world in your hands",
-      "url": "https://open.spotify.com/track/2QJc1U3fWRA1fNfsCzuno0"
-    },
-    {
-      "added_at": "2023-05-24 20:36:48",
-      "album": {
-        "name": "Told You",
-        "url": "https://open.spotify.com/album/6IGKVVRsQtdAfWPPQiGryu"
-      },
-      "artists": [
-        {
-          "name": "MarMar",
-          "url": "https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "Told You",
-      "url": "https://open.spotify.com/track/5J0alUJFTAKP7onHlWPyff"
-    },
-    {
-      "added_at": "2023-05-26 16:46:02",
-      "album": {
-        "name": "Thinkin of You",
-        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Thinkin of You",
-      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
-    },
-    {
-      "added_at": "2023-05-27 01:18:57",
-      "album": {
-        "name": "Bad Communicator",
-        "url": "https://open.spotify.com/album/57BzNbjOo8ZzmkoymnXKjh"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 229765,
-      "name": "Bad Communicator",
-      "url": "https://open.spotify.com/track/400vCzbzkoYeW08ksWdXMJ"
-    },
-    {
-      "added_at": "2023-06-08 21:50:04",
-      "album": {
-        "name": "bones (sinking like stones)",
-        "url": "https://open.spotify.com/album/6k6xY3yJXv4Oahumtpeshj"
-      },
-      "artists": [
-        {
-          "name": "44 Ardent",
-          "url": "https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "bones (sinking like stones)",
-      "url": "https://open.spotify.com/track/1Tzysw6XT9b5hCdM3PS4wI"
-    },
-    {
       "added_at": "2023-06-09 19:32:24",
       "album": {
         "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
@@ -1785,50 +1637,6 @@
       "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
     },
     {
-      "added_at": "2023-06-15 20:32:56",
-      "album": {
-        "name": "Sleeves Touch My Elbows",
-        "url": "https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
-        }
-      ],
-      "duration_ms": 210109,
-      "name": "Sleeves Touch My Elbows",
-      "url": "https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ"
-    },
-    {
-      "added_at": "2023-06-16 17:48:47",
-      "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a"
-    },
-    {
       "added_at": "2023-06-20 02:34:38",
       "album": {
         "name": "Tear It to Pieces",
@@ -1843,26 +1651,6 @@
       "duration_ms": 175570,
       "name": "Tear It to Pieces",
       "url": "https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9"
-    },
-    {
-      "added_at": "2023-06-27 16:07:09",
-      "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/4t9ySdBRxL6KchQWrXL8Jz"
-      },
-      "artists": [
-        {
-          "name": "Maddy O'Neal",
-          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
-        },
-        {
-          "name": "Sofasound",
-          "url": "https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/6hBXPSKrmGBiRVD65Rpqot"
     },
     {
       "added_at": "2023-06-29 21:32:56",
@@ -1885,22 +1673,6 @@
       "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
     },
     {
-      "added_at": "2023-07-10 21:26:37",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/6Dp6WGj2CoNPJLx4brSRbq"
-      },
-      "artists": [
-        {
-          "name": "Modapit",
-          "url": "https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "It Goes Like",
-      "url": "https://open.spotify.com/track/4zXiKDr6LZaEQ4ALbpkyJm"
-    },
-    {
       "added_at": "2023-07-10 21:26:51",
       "album": {
         "name": "RUN IT",
@@ -1919,22 +1691,6 @@
       "duration_ms": 182126,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX"
-    },
-    {
-      "added_at": "2023-07-20 01:05:49",
-      "album": {
-        "name": "here",
-        "url": "https://open.spotify.com/album/7BqQhLeGdEyryHo6VKlvV2"
-      },
-      "artists": [
-        {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
-        }
-      ],
-      "duration_ms": 254743,
-      "name": "here",
-      "url": "https://open.spotify.com/track/4mBEkf0Sbl5hqL7xnDOpKu"
     },
     {
       "added_at": "2023-07-20 01:07:24",
@@ -2075,22 +1831,6 @@
       "duration_ms": 217846,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/1tpCENh4JDWpWGFeTz02fP"
-    },
-    {
-      "added_at": "2023-07-25 22:02:35",
-      "album": {
-        "name": "The Vortex",
-        "url": "https://open.spotify.com/album/0ji8HEJxJ9KnkhvquiP30g"
-      },
-      "artists": [
-        {
-          "name": "Gromo",
-          "url": "https://open.spotify.com/artist/0fZTPSPLC75QesDYUfSPdx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Vortex",
-      "url": "https://open.spotify.com/track/2XhfNg6trek448vkXR1zaW"
     },
     {
       "added_at": "2023-08-04 16:07:32",

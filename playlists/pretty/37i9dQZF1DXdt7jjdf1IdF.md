@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 
 > Bersiap untuk jatuh hati dan terjebak nostalgia di malam teristimewa \#RaisaGBK2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,948 likes - 27 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,971 likes - 27 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 | 26 | [Could It Be](https://open.spotify.com/track/6Khn20yWc0YGJy1wbkz3Be) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:41 |
 | 27 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 |
 
-Snapshot ID: `MCxhNWQ2MmQ5YmY4OGZmOTI3ODQwODYxNjc5MzdmMWJmNmE3NDU0YjYz`
+Snapshot ID: `MCw4ODE4NzZmZmExYjVkZjU3MmFiMDhjNDJmOWEzY2EwOGY4MTJlZWJj`

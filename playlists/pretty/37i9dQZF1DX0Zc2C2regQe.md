@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Zc2C2regQe.md) - [plain]
 
 > "When I need to turn down the noise, I listen to songs that remind me of really good times in my life\. This helps to regulate my mood and really bring me back to earth." Cover: Eli Rallo
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 31 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 31 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Zc2C2regQe.md) - [plain]
 | 30 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 |
 | 31 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 |
 
-Snapshot ID: `MCwwYzZlYjI3YzY2OTllZmY3YWYzMDUzYTllNDY0NmE5OGViNmY1YmNm`
+Snapshot ID: `MCw2ZGM5MTc5NGUxNTc2YTczZTJlM2ZjM2NhOTMzMWZkNTRjZTI1NmUz`

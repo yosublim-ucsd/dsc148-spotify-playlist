@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,990 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,132 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 33 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 34 | [Call You Home](https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Stop the Moment \(Deluxe\)](https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4) | 2:54 |
 | 35 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
-| 36 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
-| 37 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 36 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 37 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
 | 38 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 39 | [Steht Mir](https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 2:45 |
 | 40 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [We Can Be Just Friends](https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [We Can Be Just Friends](https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2) | 2:44 |
 | 70 | [girls like me don't cry](https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 3:33 |
 
-Snapshot ID: `MCxhODFiMDE1ZTIwY2JhNTRhYzQ2ZDFmOTk2OTdjYTVkZTA2OGVlYzIw`
+Snapshot ID: `MCwzZTJmOGViMzBiZTMzMGU2NGM5MGIzMDgxZjNjNjE0MmUxYWNmYTNm`

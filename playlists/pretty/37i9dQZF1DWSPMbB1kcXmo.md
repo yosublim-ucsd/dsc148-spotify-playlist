@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 
 > Viral classics\. Yup, we're at that stage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,902 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,213 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 | 20 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 |
 | 21 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 | 22 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
-| 23 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
-| 24 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
+| 23 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
+| 24 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 25 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
 | 26 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 |
 | 27 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
@@ -67,17 +67,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 | 57 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
 | 58 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 |
 | 59 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 |
-| 60 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
-| 61 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
+| 60 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
+| 61 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 62 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
-| 63 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
-| 64 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 63 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 64 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
 | 65 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 |
 | 66 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
 | 67 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 68 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 |
-| 69 | [What You Know Bout Love](https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:40 |
-| 70 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
+| 69 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
+| 70 | [What You Know Bout Love](https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:40 |
 | 71 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 |
 | 72 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 73 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 | 79 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 |
 | 80 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 |
 
-Snapshot ID: `MCxiNDViNGU3ODQ0NDcyNzc4MzRkZDBiMzUyZDg3MmE4ZWQ1ZjY4ZmM5`
+Snapshot ID: `MCxjMmRjYWJiYzdiMTc2NGM0MTBhOWVhMDVkZjAxOWYxN2EzNjQzOGM0`

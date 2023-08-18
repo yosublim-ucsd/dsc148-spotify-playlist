@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Travis Scott",
-  "num_followers": 152216,
+  "num_followers": 152431,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhhYzBkOWYwZDc5OTllYzdkNmE5Y2Q4MGY1NTAwNWRiMzEzMDVj",
+  "snapshot_id": "MCxjZjE1NDA0NDA2MWEzZTZjZDRlZTkyOWQ3ZGYyYTk4NzAxNzU0MTdk",
   "tracks": [
     {
       "added_at": "2023-08-14 04:00:00",
@@ -811,30 +811,6 @@
     {
       "added_at": "2023-08-01 04:00:00",
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    },
-    {
-      "added_at": "2023-08-01 04:00:00",
-      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+    },
+    {
+      "added_at": "2023-08-01 04:00:00",
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2023-08-01 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-01 04:00:00",
       "album": {
-        "name": "DiCaprio 2",
-        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 156780,
-      "name": "151 Rum",
-      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
-    },
-    {
-      "added_at": "2023-08-01 04:00:00",
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 194732,
       "name": "Never Recover (Lil Baby & Gunna, Drake)",
       "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
+    },
+    {
+      "added_at": "2023-08-01 04:00:00",
+      "album": {
+        "name": "DiCaprio 2",
+        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 156780,
+      "name": "151 Rum",
+      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
     },
     {
       "added_at": "2023-08-01 04:00:00",

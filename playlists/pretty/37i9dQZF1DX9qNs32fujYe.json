@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Avenged Sevenfold",
-  "num_followers": 1138359,
+  "num_followers": 1138840,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTA4Y2M3NjJjYjc1MTMwMTIzZWQwNTYwNmZhMWE0NmJiZWUyZmZm",
+  "snapshot_id": "MCwyYmI3MGVhN2EyZmY0ZjY3NWUyN2QyMWRiOWY5YjYwMmM1YmY3NGU5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 307644,
-      "name": "Protect The Land",
-      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 307644,
+      "name": "Protect The Land",
+      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 302466,
-      "name": "In Waves",
-      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 238866,
       "name": "No One Like You - 2015 Remaster",
       "url": "https://open.spotify.com/track/0hLQWHwB6GZlkASpS7DkdW"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 302466,
+      "name": "In Waves",
+      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Circle The Drain",
-      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "Wild Eyes",
-      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "Wild Eyes",
+      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 283186,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 227266,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2yvIw3QVg06yAZkRiLTYP3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 195653,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "We Love You",
-        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 236326,
       "name": "Where Angels Fear to Fly",
       "url": "https://open.spotify.com/track/1DhSJCZarZvqHt1f2BN0Ch"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "We Will Rise",
-        "url": "https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "The Fairies Dance",
-      "url": "https://open.spotify.com/track/4z4ZxpLwW5iw34kPLFk9BD"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -2351,18 +2335,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Urban Discipline",
-        "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
+        "name": "We Will Rise",
+        "url": "https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ"
       },
       "artists": [
         {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
         }
       ],
-      "duration_ms": 284066,
-      "name": "Punishment",
-      "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
+      "duration_ms": 237744,
+      "name": "The Fairies Dance",
+      "url": "https://open.spotify.com/track/4z4ZxpLwW5iw34kPLFk9BD"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2379,6 +2363,22 @@
       "duration_ms": 249439,
       "name": "Crimson Skies",
       "url": "https://open.spotify.com/track/0Jj1US4hB3vCZrgN8rHvRh"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Urban Discipline",
+        "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Punishment",
+      "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
     },
     {
       "added_at": "2023-05-26 04:00:00",

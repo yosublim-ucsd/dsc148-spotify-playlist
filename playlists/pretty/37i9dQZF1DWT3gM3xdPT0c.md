@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,436 likes - 133 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,471 likes - 133 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,11 +126,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 116 | [Alahazy Basin](https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Alahazy Basin](https://open.spotify.com/album/27fuxVWhEIMGis2Eu0hgk9) | 2:29 |
 | 117 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 |
 | 118 | [Sweet Disposition](https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT) | [Cody Lane](https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ) | [Ode To The Restless Heart](https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1) | 2:40 |
-| 119 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 |
-| 120 | [Last rose of summer](https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Last rose of summer](https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89) | 2:28 |
-| 121 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 |
-| 122 | [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 |
-| 123 | [Light on the Horizon](https://open.spotify.com/track/0ZJ3l5D3mVtv7JPS63OITC) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Light on the Horizon](https://open.spotify.com/album/6UVIzwrAE25SibE8HWlrFP) | 2:29 |
+| 119 | [Last rose of summer](https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Last rose of summer](https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89) | 2:28 |
+| 120 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 |
+| 121 | [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 |
+| 122 | [Light on the Horizon](https://open.spotify.com/track/0ZJ3l5D3mVtv7JPS63OITC) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Light on the Horizon](https://open.spotify.com/album/6UVIzwrAE25SibE8HWlrFP) | 2:29 |
+| 123 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 |
 | 124 | [Cozy](https://open.spotify.com/track/0X0h2w5ZSArxZOcs3k2HAV) | [Marucs Winford](https://open.spotify.com/artist/4olra7Ebf6ENkggpYzVJtW) | [Cozy](https://open.spotify.com/album/0e8TxgBqfiCWhbLPjaaKA7) | 2:04 |
 | 125 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 |
 | 126 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 132 | [Gentle Stream](https://open.spotify.com/track/7xV7FTZ8rvSco3lZRxF3rt) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Gentle Stream](https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN) | 2:40 |
 | 133 | [Pumori](https://open.spotify.com/track/1CLchOJrSa1K59IgJtBgAS) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Makalu](https://open.spotify.com/album/1T6ygMtSOuBoR1rMg4Ejh7) | 2:59 |
 
-Snapshot ID: `MCxjNTYwMTUxZTgzNjkzNjgyYTcyNTNiYWFkNTdiNGFmOTM5NGY2M2Q3`
+Snapshot ID: `MCw4YmY2MDBjYTU0ZDQ3ODMwOWNmNzM4YjA1NGE1NTExZWQwOTdkMDE3`

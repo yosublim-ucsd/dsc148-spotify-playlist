@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,584 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,748 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 28 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 |
 | 29 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
 | 30 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
-| 31 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
-| 32 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 31 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 32 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
 | 33 | [Hasta Que Te Conocí](https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 7:15 |
 | 34 | [Sin Él](https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:35 |
 | 35 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 40 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
 | 41 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 |
 | 42 | [Gloria](https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan](https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA) | 4:49 |
-| 43 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
+| 43 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
 | 44 | [Sola Con Mi Soledad](https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:49 |
 | 45 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 |
 | 46 | [Cama y Mesa \- Cama e Mesa](https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 2](https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK) | 3:15 |
 | 47 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 |
-| 48 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
+| 48 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
 | 49 | [Seré](https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 3:10 |
 | 50 | [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 |
 | 51 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 74 | [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 |
 | 75 | [Tan Enamorados](https://open.spotify.com/track/3CisdrXSDsYgGCMffTzP0y) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Volumen 2](https://open.spotify.com/album/0evTk687RCYqsRkkSpuN0Z) | 4:17 |
 
-Snapshot ID: `MCwxOWRjMmRkYzFmZWFjM2I4YmY3NGU2ZTA3OTM2YzAzMDdjOGU1ZGY4`
+Snapshot ID: `MCwwYzczNTU3M2ExNjU4Yzc3NmFhMTY1MjVlOWJiMzU0ZWU1NzBlZmEx`

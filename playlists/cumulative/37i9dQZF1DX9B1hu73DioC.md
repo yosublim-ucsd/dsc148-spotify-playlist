@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-667 songs - 1 day 16 hr 10 min
+668 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-06-01 |  |
 | [Bitter Streets](https://open.spotify.com/track/11FAIgRREb9YdaLxmeaSM8) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 4:02 | 2021-06-25 | 2022-04-19 |
 | [Black Willow \- Single Version](https://open.spotify.com/track/7sljgxqi3fK5vmV7t2St1l) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Black Willow](https://open.spotify.com/album/1vTTyzie3Urd2RABXxjTOe) | 3:59 | 2020-10-05\* | 2020-10-06 |
-| [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 |  |
+| [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-08-18 |
 | [BLEACH \- Beshken Remix](https://open.spotify.com/track/1hv6wWgnbqlTqEQivmdtvJ) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [SLEEP CYCLE Remixes](https://open.spotify.com/album/4WGEDA8ooTjCiOHgWz6sjT) | 3:23 | 2021-06-04 | 2022-07-19 |
 | [Blondie](https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 3:14 | 2020-12-31 | 2022-04-16 |
 | [Blood And Butter](https://open.spotify.com/track/5KE5Inz4uZKGb2EzETaOEe) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:27 | 2023-02-21 |  |
@@ -197,7 +197,8 @@
 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 | 2020-10-16 | 2022-11-12 |
 | [Drive Slow](https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Drive Slow](https://open.spotify.com/album/16hoKJlZ0Y3kt7zJ5eIP7R) | 2:57 | 2021-06-15 | 2022-07-09 |
 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 | 2022-03-07 |  |
-| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-10 |  |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-10 | 2023-08-18 |
+| [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-08-11 |  |
 | [Each Time You Fall in Love](https://open.spotify.com/track/4Qj1zpjp5ZPria4BlKaCda) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5OVcAB06ttNop0LKRUUKKD) | 4:50 | 2021-03-17 | 2022-04-21 |
 | [Early to the Party](https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 4:05 | 2020-10-16 | 2022-04-20 |
 | [Eastside](https://open.spotify.com/track/7MTmPkKezlfu5imj1irLpH) | [DAISY](https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq) | [Eastside](https://open.spotify.com/album/3hHlsvOtGLxPdL0XJDQ1dM) | 5:34 | 2021-10-08 | 2022-05-12 |
@@ -206,7 +207,7 @@
 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 | 2023-05-27 |
 | [Estrangers](https://open.spotify.com/track/1yZxKqkxctrFSkCXb8BLKV) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Estrangers](https://open.spotify.com/album/1rAPIqo0fRO0QiBiBLpmvS) | 3:19 | 2020-10-05\* | 2023-04-30 |
 | [Estrangers](https://open.spotify.com/track/6ZyJiCgtPz0gJrhubGLkud) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Estrangers](https://open.spotify.com/album/1mB8gNDaDUgY97MgmeMOQI) | 3:19 | 2023-04-21 |  |
-| [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2022-06-01 | 2023-07-15 |
+| [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2022-06-01 |  |
 | [Eventually](https://open.spotify.com/track/4IwbqQGvPYSJBSK5HhuPnF) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Eventually](https://open.spotify.com/album/6sVYppY4S9GYbjqU45jgsZ) | 2:41 | 2021-06-04 | 2022-04-03 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-07 | 2023-02-18 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2020-10-16 | 2022-04-09 |

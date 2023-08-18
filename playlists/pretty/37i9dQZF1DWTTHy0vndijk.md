@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: JO YURI\(조유리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,963 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,074 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 19 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 20 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 21 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
-| 22 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
+| 22 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 | 23 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
 | 24 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
 | 25 | [Me Gustas Tu](https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 2nd Mini Album 'Flower Bud'](https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7) | 3:40 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 |
 | 57 | [5th Season \(SSFWL\)](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [THE FIFTH SEASON](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) | 4:00 |
 
-Snapshot ID: `MCw4ZWE5YWExYzM1Yjc1OWUzZWIzYmZjMTg3MmNhMGYzMTAwYzMxYTNm`
+Snapshot ID: `MCwyNDc0NzY5NTBlZmUyMGVmNDUwMjViYzIzNjgzZjY4MDZhOTI4Yzcx`

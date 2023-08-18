@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Carnage",
+        "url": "https://open.spotify.com/album/5O5xtWzWK7BUWKDzChUfR6"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202167,
+      "name": "Carnage",
+      "url": "https://open.spotify.com/track/0xEET5KnxdohPyrPMgnY3P"
+    },
+    {
+      "album": {
         "name": "Cigarette",
         "url": "https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 392991,
       "name": "FANTASIZE",
       "url": "https://open.spotify.com/track/155OwUtXixaS773beh6FBD"
@@ -1266,6 +1284,24 @@
       "duration_ms": 153128,
       "name": "For your safety",
       "url": "https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6"
+    },
+    {
+      "album": {
+        "name": "FRAULEIN B",
+        "url": "https://open.spotify.com/album/0O8zVFS6l712Lct2D83ct2"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409598,
+      "name": "FRAULEIN B",
+      "url": "https://open.spotify.com/track/6cgKtmVhQpD041ECgvcnCn"
     },
     {
       "album": {
@@ -1740,7 +1776,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 167772,
       "name": "I'll Quit Music (prod. by Jinka)",
       "url": "https://open.spotify.com/track/1qlnowCZe0rfUUiOHHBM6m"
@@ -2294,7 +2330,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 121630,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu"
@@ -3540,6 +3576,28 @@
       "duration_ms": 163576,
       "name": "The World's Thing",
       "url": "https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq"
+    },
+    {
+      "album": {
+        "name": "Theater\u2605",
+        "url": "https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155670,
+      "name": "Theater\u2605",
+      "url": "https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw"
     },
     {
       "album": {

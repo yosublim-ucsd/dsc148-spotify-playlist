@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 224000,
       "name": "1st Soundscape",
       "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 106370,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/1ES7kph925ytu5O7lJhtav"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 193946,
       "name": "better off",
       "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 273960,
       "name": "Branches",
       "url": "https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w"
@@ -546,6 +546,24 @@
       "duration_ms": 300048,
       "name": "Broken Hearted Kota - Suzanne Kraft Remix",
       "url": "https://open.spotify.com/track/7natbLjSlCXaRzwCOnBrw6"
+    },
+    {
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT"
     },
     {
       "album": {
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 186390,
       "name": "CD",
       "url": "https://open.spotify.com/track/0MxfrxF46gT6S3oz6CbNbF"
@@ -698,7 +716,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 185715,
       "name": "Charge It",
       "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 327000,
       "name": "Connected",
       "url": "https://open.spotify.com/track/27OsoxZ8JX6WtxBm7NpSCW"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 177520,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 193360,
       "name": "I Hate Myself",
       "url": "https://open.spotify.com/track/0oW8vPVlQ0qeQeiJT8VSKx"
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 140338,
       "name": "I\u2019ll Keep You Safe",
       "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 196140,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/2AmftacZfB4ryvX6mzWvP4"
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 203846,
       "name": "Neon wo Keshite",
       "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
@@ -2738,6 +2756,24 @@
       "duration_ms": 174335,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/29bRdPxTr1RbPW9IaRs69w"
+    },
+    {
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "album": {
@@ -3410,7 +3446,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 222173,
       "name": "Shadow Dance - Prod. MONDO GROSSO",
       "url": "https://open.spotify.com/track/7DMaLKXvfctMtkInTv05gL"
@@ -3684,7 +3720,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
@@ -3829,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "Streets Of Heaven",
+        "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188854,
+      "name": "Streets Of Heaven",
+      "url": "https://open.spotify.com/track/1cnmxp3Na8HxQFLArjTwRI"
+    },
+    {
+      "album": {
         "name": "Strike (Holster)",
         "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
       },
@@ -3880,7 +3934,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 200653,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
@@ -4036,7 +4090,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 178722,
       "name": "The Surge - Edit",
       "url": "https://open.spotify.com/track/7zgqpFBkgX3ycNALKpVdhQ"
@@ -4120,7 +4174,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -4414,7 +4468,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 274164,
       "name": "View 4",
       "url": "https://open.spotify.com/track/1yaOmrXya2YvrVk6ypnnlW"
@@ -4574,7 +4628,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 246333,
       "name": "When Will the Sun Rise Again",
       "url": "https://open.spotify.com/track/0zDr3eeCehW8JZQR4fAh2l"
@@ -4622,7 +4676,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
@@ -4662,7 +4716,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"

@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 364297,
+  "num_followers": 364436,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjRhOWJmMWQ0Zjc0ZjUxNTVjNDJiMjc0MWI3M2FjNDhhYThhYmJi",
+  "snapshot_id": "MCxjOWU1OTg1NTQ0OWYxOTQ4Y2M4ZjhmZjRhN2UzMTBmYjU1NTE5NTFi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Gentle On My Mind (Remastered)",
-        "url": "https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Gentle On My Mind - Remastered 2001",
-      "url": "https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 238733,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Gentle On My Mind (Remastered)",
+        "url": "https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Gentle On My Mind - Remastered 2001",
+      "url": "https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+        "name": "Buck Owens Country Legends",
+        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Make the World Go Away",
-      "url": "https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4"
+      "duration_ms": 142956,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Buck Owens Country Legends",
-        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
         }
       ],
-      "duration_ms": 142956,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
+      "duration_ms": 157826,
+      "name": "Make the World Go Away",
+      "url": "https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4"
     },
     {
       "added_at": "2023-05-19 04:01:00",

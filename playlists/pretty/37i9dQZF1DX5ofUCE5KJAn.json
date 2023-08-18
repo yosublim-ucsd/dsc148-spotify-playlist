@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 169229,
+  "num_followers": 169307,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzE5NTMzZGE4MzM3NzA5MjE3YTY1NGVhMDdkYThjNDA2OTExMmMw",
+  "snapshot_id": "MCw1MWYyNDE1OWRjYmU4ZjJmMjYzZThjN2Q1OWI5YWY2ZTYyZWEyNzg5",
   "tracks": [
     {
       "added_at": "2023-08-08 22:27:59",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "No Es Por Ac\u00e1",
-        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 209786,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Gu\u00e1rdame Esta Noche",
         "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 176320,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
       "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "La bikina - En vivo",
+      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
       },
       "artists": [
         {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -983,6 +983,22 @@
       "duration_ms": 228013,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1019,26 +1035,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -1059,6 +1055,26 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 263100,
-      "name": "T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Mejor As\u00ed",
         "url": "https://open.spotify.com/album/0fa1WYDpSKEHiCj3YTtsDq"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+      "duration_ms": 263100,
+      "name": "T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1307,6 +1291,22 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Soy Todo Tuyo",
+        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "Soy Todo Tuyo",
+      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Por Siempre (Deluxe)",
         "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 213791,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Soy Todo Tuyo",
-        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "Soy Todo Tuyo",
-      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "D\u00e9jenla Que Sea Feliz",
+        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
+      },
+      "artists": [
+        {
+          "name": "Chacho Y Su Vagancia",
+          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "D\u00e9jenla Que Sea Feliz",
+      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "El Cuatrero",
         "url": "https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "D\u00e9jenla Que Sea Feliz",
-        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
-      },
-      "artists": [
-        {
-          "name": "Chacho Y Su Vagancia",
-          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "D\u00e9jenla Que Sea Feliz",
-      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
     }
   ],
   "unique_name": "La Pozoliza",

@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30257,
+  "num_followers": 30280,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGYwMWFmNzhmZTc1YTFjYmJmY2YwOGRhZTE3ZTlmNzEyNzdhYmY0",
+  "snapshot_id": "MCxlM2NkODQyMGMyNjk3M2I3YzFlMjJjNzZiYjA2ZDJiOGFlMmZmZTNl",
   "tracks": [
     {
       "added_at": "2023-08-11 11:32:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "The Sacrificial Code",
-        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 653904,
-      "name": "Spectacle Of Ritual",
-      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "Under the Lilac Sky",
         "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "duration_ms": 653904,
+      "name": "Spectacle Of Ritual",
+      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 170613,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 170613,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "Holotropica",
+        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Ubiquitous",
+      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
         "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "Holotropica",
-        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Ubiquitous",
-      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Sleepstep. Sonar Poems for my sleepless friends",
-        "url": "https://open.spotify.com/album/5ovHVxNuBJgiX94yZBQJQI"
-      },
-      "artists": [
-        {
-          "name": "Dasha Rush",
-          "url": "https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4"
-        }
-      ],
-      "duration_ms": 61909,
-      "name": "Intro - Space Privet for Cosmonauts",
-      "url": "https://open.spotify.com/track/2Mm9hlYzCgXyBcoDL4s4uO"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 242000,
       "name": "Springtime in Croatia",
       "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "Sleepstep. Sonar Poems for my sleepless friends",
+        "url": "https://open.spotify.com/album/5ovHVxNuBJgiX94yZBQJQI"
+      },
+      "artists": [
+        {
+          "name": "Dasha Rush",
+          "url": "https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4"
+        }
+      ],
+      "duration_ms": 61909,
+      "name": "Intro - Space Privet for Cosmonauts",
+      "url": "https://open.spotify.com/track/2Mm9hlYzCgXyBcoDL4s4uO"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "Healing Is A Miracle - Extended Versions",
+        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 640034,
+      "name": "Inspirit - Extended Version",
+      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "The Spring of Dreams",
         "url": "https://open.spotify.com/album/5RByB1SOfHYoRaG2HHa8xT"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 302303,
       "name": "The Space of Love",
       "url": "https://open.spotify.com/track/6ObHLa9Rmr2aAGiZeKgWLR"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "Healing Is A Miracle - Extended Versions",
-        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 640034,
-      "name": "Inspirit - Extended Version",
-      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "duration_ms": 296681,
+      "name": "Lost At Sea - Kelly Moran remix",
+      "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "Hope Dealers",
         "url": "https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ"
       },
@@ -1439,22 +1459,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 296681,
-      "name": "Lost At Sea - Kelly Moran remix",
-      "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1475,34 +1491,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+        "name": "Maquishti",
+        "url": "https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Patricia Brennan",
+          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
         }
       ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "Chain Reaction at Dusk",
-        "url": "https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 448119,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa"
+      "duration_ms": 343594,
+      "name": "Sonnet",
+      "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Maquishti",
-        "url": "https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc"
+        "name": "Chain Reaction at Dusk",
+        "url": "https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP"
       },
       "artists": [
         {
-          "name": "Patricia Brennan",
-          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
         }
       ],
-      "duration_ms": 343594,
-      "name": "Sonnet",
-      "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
+      "duration_ms": 448119,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Night Changes Many Thoughts",
+      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 674042,
       "name": "You, at the End - Laurel Halo Version",
       "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Night Changes Many Thoughts",
-      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1668,13 +1668,13 @@
       },
       "artists": [
         {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
         }
       ],
-      "duration_ms": 868000,
-      "name": "Pipe Inversions",
-      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
+      "duration_ms": 835000,
+      "name": "Firmamento",
+      "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1684,13 +1684,13 @@
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 835000,
-      "name": "Firmamento",
-      "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
+      "duration_ms": 868000,
+      "name": "Pipe Inversions",
+      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
     }
   ],
   "unique_name": "EQUAL Ambient",

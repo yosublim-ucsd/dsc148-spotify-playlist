@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 202239,
+  "num_followers": 202297,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmMwMWJmNTBmMmUwYzNiMmUyODQ0Y2NjMWVkMGY0Y2MyNTI0M2Yy",
+  "snapshot_id": "MCw0MGY5ZDA3OTU4MzYyNzA3ZTVkZWMwZWMyOWQ4N2FiMTY4ODMyZTlh",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 230000,
       "name": "Always Will Be",
       "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "More Than Halfway",
-        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "More Than Halfway",
-      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Jireh (Reyer Remix)",
         "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Step Into The Fight (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
+        "name": "More Than Halfway",
+        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
       },
       "artists": [
         {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 213868,
-      "name": "Step Into The Fight - Gregatron Remix",
-      "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
+      "duration_ms": 221453,
+      "name": "More Than Halfway",
+      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1175,6 +1159,22 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Step Into The Fight (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "duration_ms": 213868,
+      "name": "Step Into The Fight - Gregatron Remix",
+      "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "The Same Jesus (Reyer Remix)",
+        "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Oleven",
+          "url": "https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "The Same Jesus - Reyer Remix",
+      "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
@@ -1303,26 +1327,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "The Same Jesus (Reyer Remix)",
-        "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
       },
       "artists": [
         {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Oleven",
-          "url": "https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB"
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
         }
       ],
-      "duration_ms": 181661,
-      "name": "The Same Jesus - Reyer Remix",
-      "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "whisper",
         "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Happy Day - Retain Remix",
-        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
-      },
-      "artists": [
-        {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
-        }
-      ],
-      "duration_ms": 200903,
-      "name": "Happy Day - Retain Remix",
-      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 226295,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Happy Day - Retain Remix",
+        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        }
+      ],
+      "duration_ms": 200903,
+      "name": "Happy Day - Retain Remix",
+      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
     }
   ],
   "unique_name": "Pop for Life",

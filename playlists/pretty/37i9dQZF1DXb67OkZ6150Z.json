@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 284178,
+  "num_followers": 284220,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM4YTJkZjk3YjNkNGE5YTcwYWQ0MTc2ZjAwYzk4N2RlNWQ0ZGZm",
+  "snapshot_id": "MCxiNzMxODM5ODFiZmMyYmNlZDJmNTJmZmIzNTI5MTMwY2Y3OGYyNDcw",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -433,20 +433,24 @@
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-08-08 14:58:46",
       "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
         }
       ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
+      "duration_ms": 265772,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -463,6 +467,22 @@
       "duration_ms": 263870,
       "name": "Home",
       "url": "https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -519,26 +539,6 @@
       "duration_ms": 210136,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
-    },
-    {
-      "added_at": "2023-08-08 14:58:46",
-      "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Fix You",
@@ -847,6 +831,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
-        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
-      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Lost",
@@ -1039,6 +1023,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
+        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
+      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 242181,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Three Hours",
@@ -1407,22 +1423,6 @@
       "duration_ms": 272567,
       "name": "Three Hours",
       "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 242181,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1649,26 +1649,6 @@
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
     },
     {
-      "added_at": "2023-07-20 17:51:58",
-      "album": {
-        "name": "Broken Glass, Vol. 1",
-        "url": "https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        },
-        {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Dreams",
@@ -1699,6 +1679,26 @@
       "duration_ms": 164779,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR"
+    },
+    {
+      "added_at": "2023-07-20 17:51:58",
+      "album": {
+        "name": "Broken Glass, Vol. 1",
+        "url": "https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV"
     },
     {
       "added_at": "2023-05-05 17:19:46",

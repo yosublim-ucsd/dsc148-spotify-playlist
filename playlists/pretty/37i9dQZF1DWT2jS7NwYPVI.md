@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,538 likes - 129 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,640 likes - 129 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 74 | [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 |
 | 75 | [Spiral City](https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Spiral City](https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5) | 2:29 |
 | 76 | [Little Bit Lonely](https://open.spotify.com/track/1TbyXPimQ5GBFARdBJvWv7) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Little Bit Lonely](https://open.spotify.com/album/4p7ru5v5uMbWdcUjZcY0uY) | 3:32 |
-| 77 | [Shakin' Yer Hips](https://open.spotify.com/track/6l1dFhJPPbBPkz3uM6F30O) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Shakin' Yer Hips](https://open.spotify.com/album/0WtqIVwmpFTOjuVNzrgQvX) | 2:51 |
+| 77 | [Shakin' Yer Hips](https://open.spotify.com/track/6l1dFhJPPbBPkz3uM6F30O) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Shakin' Yer Hips](https://open.spotify.com/album/0WtqIVwmpFTOjuVNzrgQvX) | 2:56 |
 | 78 | [Racecar](https://open.spotify.com/track/76pfVPGA4aLABgTmxIECdy) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Racecar](https://open.spotify.com/album/23hXAexOyAYC7ib8DBqNnu) | 3:09 |
 | 79 | [Wicked Styley](https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Wicked Styley](https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX) | 2:32 |
 | 80 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 128 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 |
 | 129 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 
-Snapshot ID: `MCxjNWU4MGY3MjA3ZDk2NDhhNDYxYWZiZTI4ZWUxNmRiNmM3NTdjNGNh`
+Snapshot ID: `MCxhMzc4NDI3YjJmMTBkMWJhYTU1MzMzZjNhNDFiYTgyZmJkMGZmYjUw`

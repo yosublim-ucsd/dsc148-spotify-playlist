@@ -4,7 +4,7 @@
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-127 songs - 7 hr 34 min
+128 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 | 2023-02-23 |  |
 | [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 | 2023-02-23 |  |
 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 | 2023-02-23 |  |
-| [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 | 2023-02-23 |  |
+| [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 | 2023-02-23 | 2023-08-18 |
 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 | 2023-02-23 |  |
 | [La Ética](https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [A La Caza](https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4) | 2:53 | 2023-02-23 |  |
 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 | 2023-02-23 |  |
@@ -85,6 +85,7 @@
 | [Mama Cumbia](https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88) | 3:21 | 2023-02-23 |  |
 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2023-02-23 |  |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 | 2023-02-23 |  |
+| [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 | 2023-02-23 |  |
 | [Mi Razón De Ser](https://open.spotify.com/track/54DNKF0WvYJtt9FrCiKJUC) | [Junior Klan](https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI) | [Al Cien Por Ciento](https://open.spotify.com/album/77zvLPqnbqTkaS7X59hAbZ) | 3:57 | 2023-02-23 |  |
 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 | 2023-02-23 |  |
 | [Mis Sentimientos](https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl) | 3:36 | 2023-02-23 |  |

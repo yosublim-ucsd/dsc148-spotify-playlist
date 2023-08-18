@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: KAROL G",
-  "num_followers": 153287,
+  "num_followers": 153479,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzU5YTM3MDg5Yjk2MGU1NzA3MzIyZjA1ZGI4YzRlMzFjOTdkNzYx",
+  "snapshot_id": "MCxjNTY1ZjI4ZTQ2N2VmMTVlZDlmZDQxYzcxMTRlNTAzNDMyNGU1Mjdl",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "69",
         "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "VENTE CONMIGO",
-        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "VENTE CONMIGO",
-      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "SI TE PEGAS",
-      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "SI TE PEGAS",
+      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -943,8 +943,8 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "qu\u00e9 le pasa conmigo?",
-        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+        "name": "DISPARA ***",
+        "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
       },
       "artists": [
         {
@@ -952,13 +952,13 @@
           "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 167251,
-      "name": "qu\u00e9 le pasa conmigo?",
-      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+      "duration_ms": 143935,
+      "name": "DISPARA ***",
+      "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Celular",
         "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 176017,
       "name": "Celular",
       "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "DISPARA ***",
-        "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
       "artists": [
         {
@@ -1128,13 +1128,13 @@
           "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 143935,
-      "name": "DISPARA ***",
-      "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
     },
     {
       "added_at": "2023-08-11 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 9938,
+  "num_followers": 10024,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWU1YmJlZDkyYzk5NzNiNTFlMjI4MTVjMDVkYmQ1ZTQyYTRlYmVl",
+  "snapshot_id": "MCwxMDZkMWExYmQ1NGUxN2E0ZjE4MzU5MDJlOGYwNjJlNDgxOTNlOTkw",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 200293,
       "name": "Keep on Loving You",
       "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
-      },
-      "artists": [
-        {
-          "name": "John Waite",
-          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
+      },
+      "artists": [
+        {
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 271533,
       "name": "Ode To My Family",
       "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "God Shuffled His Feet",
         "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 235173,
       "name": "Mmm Mmm Mmm Mmm",
       "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Shake Your Money Maker",
         "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 329400,
       "name": "She Talks To Angels",
       "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     }
   ],
   "unique_name": "Easy Rock",

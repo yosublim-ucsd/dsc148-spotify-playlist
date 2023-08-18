@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Francisca Valenzuela & Ximena Sari\u00f1ana.",
-  "num_followers": 54854,
+  "num_followers": 54859,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzlkMTBjNzg4YzM1OTk2YTk5YjliMjE1NWI1ZDE3YzEyMThhOWY5",
+  "snapshot_id": "MCwzM2Q3NjA5YTA0NmExMjU2NmRlNDU2ODhiZjdmZWZmOWQzMmNiYTMy",
   "tracks": [
     {
       "added_at": "2023-08-11 14:41:47",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
         "name": "Caf\u00e9 con Miel",
         "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 195437,
       "name": "Caf\u00e9 con Miel",
       "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
-        "name": "El Olvido",
-        "url": "https://open.spotify.com/album/4CoRBu3efY2P1QkJENdAg3"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 184559,
-      "name": "El Olvido",
-      "url": "https://open.spotify.com/track/6AAZTWONcwtb1exqHb4Qp6"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
         "name": "El Plan Mayor",
         "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/4CoRBu3efY2P1QkJENdAg3"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 184559,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/6AAZTWONcwtb1exqHb4Qp6"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
+      },
+      "artists": [
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        },
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
         "name": "Milanesa al Pan",
         "url": "https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL"
       },
@@ -971,42 +991,6 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
-        "name": "Una Temporada M\u00e1s",
-        "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Una Temporada M\u00e1s",
-      "url": "https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
-      },
-      "artists": [
-        {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        },
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
         "name": "Instante Eterno de Felicidad",
         "url": "https://open.spotify.com/album/5yhABD33uH530lInv5JqFB"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 188210,
       "name": "Instante Eterno de Felicidad",
       "url": "https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "Una Temporada M\u00e1s",
+        "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Una Temporada M\u00e1s",
+      "url": "https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
-        "name": "El Film",
-        "url": "https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT"
-      },
-      "artists": [
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 181703,
-      "name": "El Film",
-      "url": "https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -1071,6 +1055,42 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "El Film",
+        "url": "https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT"
+      },
+      "artists": [
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 181703,
+      "name": "El Film",
+      "url": "https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "Un Espejismo",
+        "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Un Espejismo",
+      "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1103,26 +1123,6 @@
       "duration_ms": 142106,
       "name": "<3",
       "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
-        "name": "Un Espejismo",
-        "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Un Espejismo",
-      "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
-        "name": "En una",
-        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
       "artists": [
         {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        },
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 219647,
-      "name": "En una",
-      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1211,54 +1207,6 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
-        "name": "Track",
-        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        }
-      ],
-      "duration_ms": 204241,
-      "name": "Track Track",
-      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1295,6 +1243,58 @@
       "duration_ms": 198310,
       "name": "Pelicul\u00f3n",
       "url": "https://open.spotify.com/track/2MbHcrOARNtKVb5upQb4Kg"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "En una",
+        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 219647,
+      "name": "En una",
+      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "Track",
+        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "duration_ms": 204241,
+      "name": "Track Track",
+      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 243501,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
+        "name": "Cuando Estemos Solos",
+        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 193025,
+      "name": "Cuando Estemos Solos",
+      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
-        "name": "Cuando Estemos Solos",
-        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 193025,
-      "name": "Cuando Estemos Solos",
-      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
     },
     {
       "added_at": "2023-08-11 14:41:47",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-08-11 14:41:47",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
-      },
-      "artists": [
-        {
-          "name": "martuli",
-          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
-        }
-      ],
-      "duration_ms": 186608,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
-    },
-    {
-      "added_at": "2023-08-11 14:41:47",
-      "album": {
         "name": "parkour",
         "url": "https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 230292,
       "name": "parkour",
       "url": "https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY"
+    },
+    {
+      "added_at": "2023-08-11 14:41:47",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
+      },
+      "artists": [
+        {
+          "name": "martuli",
+          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
+        }
+      ],
+      "duration_ms": 186608,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
     }
   ],
   "unique_name": "mandarina",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276589,
+  "num_followers": 276629,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj",
+  "snapshot_id": "MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Lullaby (Acoustic)",
         "url": "https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 237923,
       "name": "Lullaby - Acoustic",
       "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Ferrari (Acoustic)",
-        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "Ferrari - Acoustic",
-      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Lighter (feat. KSI & Ella Henderson) [Acoustic]",
         "url": "https://open.spotify.com/album/6INxj18FKxPT0rnS5ZZ7rL"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 151974,
       "name": "Lighter (feat. KSI & Ella Henderson) - Acoustic",
       "url": "https://open.spotify.com/track/7AKVU7SsXyPlWvRJPSTWHV"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Ferrari (Acoustic)",
+        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "Ferrari - Acoustic",
+      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2023-03-20 20:19:53",

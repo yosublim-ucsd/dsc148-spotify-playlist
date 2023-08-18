@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: James Bay
 
-232 songs - 13 hr 23 min
+235 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-02-23 | 2023-03-31 |
 | [Back to the Start](https://open.spotify.com/track/4Zr5c2IKhbduZutqAumnWu) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Back to the Start](https://open.spotify.com/album/3uQ44aGvEopFp2QtvWzPXE) | 3:54 | 2023-04-06 |  |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 | 2023-06-09 |
+| [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-17 |  |
 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 | 2023-06-22 |  |
 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-02-23 | 2023-04-29 |
 | [Best Damn Day](https://open.spotify.com/track/0MgfP0e6VkyQXSvjfNZ7bM) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Best Damn Day](https://open.spotify.com/album/2a1m48rQO8BWkeIApM0Iu5) | 3:12 | 2023-02-23 | 2023-03-03 |
@@ -36,7 +37,7 @@
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-06-01 |  |
 | [Broken Promises](https://open.spotify.com/track/269deQv0LzWjMK4R1Zvb2b) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:02 | 2023-02-23 | 2023-03-25 |
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 | 2023-05-10 |
-| [Burning Daylight](https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ), [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Burning Daylight](https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK) | 3:04 | 2023-03-02 |  |
+| [Burning Daylight](https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ), [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Burning Daylight](https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK) | 3:04 | 2023-03-02 | 2023-08-18 |
 | [Calling](https://open.spotify.com/track/5K6GUtP1zxBbxYaf2FGSBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:19 | 2023-02-23 | 2023-04-07 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2023-02-23 | 2023-08-01 |
 | [Can't Get Enough](https://open.spotify.com/track/2qx9v2aAKz5AQ2PaXMDdb1) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Can't Get Enough](https://open.spotify.com/album/0C4H93VXSWTYU9rRqLhtSg) | 3:51 | 2023-03-30 |  |
@@ -94,7 +95,8 @@
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-03 |  |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 | 2023-06-09 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-26 |  |
-| [Hold You](https://open.spotify.com/track/3IBKRmiZRn3HlVTnIkUm3d) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hold You](https://open.spotify.com/album/4JN5t0hCi1Lg1iFX7lLvoz) | 3:07 | 2023-06-22 |  |
+| [Hold You](https://open.spotify.com/track/2dZSb6MmOWdzqRLJgZ9TK8) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hold You](https://open.spotify.com/album/73b2pnXNe6g8geL9EjPHkW) | 3:07 | 2023-08-17 |  |
+| [Hold You](https://open.spotify.com/track/3IBKRmiZRn3HlVTnIkUm3d) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hold You](https://open.spotify.com/album/4JN5t0hCi1Lg1iFX7lLvoz) | 3:07 | 2023-06-22 | 2023-08-18 |
 | [Hot Stuff](https://open.spotify.com/track/3IP5E8pxMDhLSGtjwV2y8C) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Hot Stuff](https://open.spotify.com/album/31bKsiZ9ydgT6yhh2q5GfY) | 3:19 | 2023-03-24 | 2023-08-04 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-02-23 | 2023-04-14 |
 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 | 2023-05-18 |  |
@@ -115,6 +117,7 @@
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:27 | 2023-02-23 |  |
 | [In The Water](https://open.spotify.com/track/4gmT46chkdugzbucgiHQbb) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [In The Water](https://open.spotify.com/album/2khuB7jsFLFzJWPRwjjMA7) | 3:36 | 2023-02-23 | 2023-08-01 |
 | [Invincible](https://open.spotify.com/track/1WHK0kQxNqsBJySg4E2djx) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Invincible](https://open.spotify.com/album/6vPoWFO0UtMIGJvIbzmJIQ) | 2:54 | 2023-02-23 | 2023-06-23 |
+| [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2023-08-17 |  |
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-03-30 |  |
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-05-09 | 2023-08-12 |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
@@ -219,7 +222,7 @@
 | [Trade it for the Night \- Single Version](https://open.spotify.com/track/2cuxy7AW3bLGFfEK0ugD6L) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/0wdUPsYwH8Z1lGQf0Jqej6) | 3:48 | 2023-02-23 | 2023-08-01 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-23 | 2023-07-21 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-20 |  |
-| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-02-23 |  |
+| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-02-23 | 2023-08-18 |
 | [Voor Mijn Hart](https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Voor Mijn Hart](https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL) | 3:04 | 2023-03-30 |  |
 | [Wait For The Summer](https://open.spotify.com/track/6ZV4dfKmO4oJEi1uSkNFOD) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Wait For The Summer](https://open.spotify.com/album/6gIbXS0BOPX00WE5LLfQBs) | 3:00 | 2023-08-11 |  |
 | [Waste Me](https://open.spotify.com/track/5j7xAAC6wM40T7AI6aweHt) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Nowhere Near the Sky](https://open.spotify.com/album/3IUhNyQcjQvhcPGufNPgdG) | 3:25 | 2023-02-23 | 2023-03-11 |

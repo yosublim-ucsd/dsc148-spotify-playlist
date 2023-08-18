@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,034 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,054 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 30 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
 | 31 | [Steal A Dime](https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Suzie's Funeral](https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc) | 3:20 |
 | 32 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 |
-| 33 | [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 |
+| 33 | [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 |
 | 34 | [Happy Hour \(feat\. Okuntakinte\)](https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Økuntakinte](https://open.spotify.com/artist/0o8UK8VeLVZdOYyb04klZ9) | [Happy Hour \(feat\. Okuntakinte\)](https://open.spotify.com/album/2Jedf85FITOVIpd8VzGc4J) | 4:20 |
 | 35 | [Sober](https://open.spotify.com/track/7pBEDsYAcHwCGkR3kG3SlF) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h), [Ansah Live](https://open.spotify.com/artist/0hbJqr0rLt4pCA9iDLJfup) | [Sober](https://open.spotify.com/album/0IN8fuulfc7nrzWWgfNUn3) | 3:40 |
 | 36 | [Fluid](https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 2:25 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 41 | [Freaky](https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Freaky](https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h) | 3:57 |
 | 42 | [Lagos \(Everyday\)](https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Lagos \(Everyday\)](https://open.spotify.com/album/2TRyXEwy28yebRSUMZVide) | 3:33 |
 | 43 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 |
-| 44 | [Take Me Home](https://open.spotify.com/track/4RbhOqxDhVedWUAJeYTn7b) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 2:51 |
+| 44 | [Take Me Home](https://open.spotify.com/track/4JP3dHzz9RwACJZePm2vqL) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 2:51 |
 | 45 | [Feel Alright](https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Poe](https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2) | [Feel Alright](https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4) | 4:18 |
 | 46 | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/track/3zIiwUQogxtTieEgGPKB7B) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [King Zamir](https://open.spotify.com/artist/76e2rJtSnKai5gTBg1xFae) | [The Other Side \(feat\. Odunsi & King Zamir\)](https://open.spotify.com/album/3siHuAYwyA4ql8j4BltiyV) | 3:54 |
 | 47 | [H.I.G.H\. \(Her In Greater Heights\)](https://open.spotify.com/track/2t8J9awuC3vFZZRKvaTXI6) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [H.I.G.H\. \(Her In Greater Heights\)](https://open.spotify.com/album/6vXfiaiDdaBkzgHUrdY7om) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 79 | [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 |
 | 80 | [In The Night](https://open.spotify.com/track/5G6qUca8Er653hnwIE7Bwe) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [In The Night](https://open.spotify.com/album/15MaGSCTIq6lnBoz8QIdt8) | 2:47 |
 
-Snapshot ID: `MCwyYjdmZmJiYjczZDcyYTRhODNhYWE3YmZjZjc3MWZjZjY4YTRjNzYx`
+Snapshot ID: `MCxlMWEyMDg5MDY3ZGM1ODExZjRiNjhhM2E5MmM5ZDUyZTQ2ZDc0Zjg0`

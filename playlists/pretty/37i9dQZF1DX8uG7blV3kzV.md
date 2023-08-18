@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 
 > The hottest in hip\-hop, R&B and Afrobeats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,679 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,689 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 |
 | 2 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
-| 3 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
-| 4 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
+| 3 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
+| 4 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 5 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 6 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 7 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uG7blV3kzV.md) - [plain]
 | 49 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
 | 50 | [Forever \(feat\. Fridayy\)](https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:47 |
 
-Snapshot ID: `MCxmMjJkZGY5ODkwZjYzNDU1MjZlYjZjYmNmNzg1ZjkxM2MxNjAyZjM2`
+Snapshot ID: `MCw1ODA5ZDBhNmNlYmNiYTkyY2VlN2JjOWYyOWM4NjFhMzU4ZDUyYmU3`

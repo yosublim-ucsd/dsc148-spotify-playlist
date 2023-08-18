@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-556 songs - 1 day 7 hr 22 min
+557 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-11-02 |
 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 | 2022-08-12 | 2022-09-17 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-11-18 | 2021-07-04 |
+| [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-11 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-02 | 2023-08-14 |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2020-10-13\* | 2020-11-18 |
 | [I Met Sarah in the Bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [I Met Sarah in the Bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 | 2021-07-18 | 2021-07-31 |
@@ -397,7 +398,7 @@
 | [pretend \(2003\) \(with Tennyson\)](https://open.spotify.com/track/0wjQx6amJQ61K8tFQaDkgw) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [why can't we just pretend?](https://open.spotify.com/album/3yzDE04dMgYvyZHzJm1p2b) | 2:56 | 2022-04-15 | 2022-05-20 |
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2021-07-10 | 2021-10-02 |
 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 | 2022-10-21 | 2023-04-14 |
-| [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-07 |  |
+| [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-07 | 2023-08-18 |
 | [Put Me Back Together](https://open.spotify.com/track/6LpxEWeuvaMrrsGgX5CSQv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Put Me Back Together](https://open.spotify.com/album/73c8BJyjru0OCXe2tHGs9u) | 3:29 | 2020-10-13\* | 2021-07-04 |
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-01-21 | 2022-04-17 |
 | [Real Love](https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Real Love](https://open.spotify.com/album/3NWJXg0aK1Wo2EPhv46IRP) | 3:18 | 2022-06-17 | 2022-07-24 |

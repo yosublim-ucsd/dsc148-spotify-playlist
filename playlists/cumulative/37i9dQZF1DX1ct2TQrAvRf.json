@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hip-Hop from India. Cover- Divine & Sidhu Moose Wala",
+  "description": "Best of Hip-Hop from India. Cover- DG IMMORTALS & Elvish Yadav.",
   "name": "RAP 91",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 270000,
       "name": "295",
       "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+    },
+    {
+      "album": {
+        "name": "Punya Paap",
+        "url": "https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272197,
+      "name": "3:59 AM",
+      "url": "https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo"
     },
     {
       "album": {
@@ -295,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183756,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
+    },
+    {
+      "album": {
         "name": "Chhod Dala",
         "url": "https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT"
       },
@@ -528,6 +564,24 @@
       "duration_ms": 201379,
       "name": "Desi Dan Bilzerian",
       "url": "https://open.spotify.com/track/78tqiIz7GGnBnDRmPdvkLr"
+    },
+    {
+      "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
     },
     {
       "album": {
@@ -812,7 +866,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 168827,
       "name": "GUESS",
       "url": "https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK"
@@ -834,6 +888,24 @@
       "duration_ms": 163404,
       "name": "Gunehgar",
       "url": "https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl"
+    },
+    {
+      "album": {
+        "name": "Haryana Hood",
+        "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Haryana Hood",
+      "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
     },
     {
       "album": {
@@ -888,7 +960,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 181212,
       "name": "Illuminaughty (From \"Bajao\")",
       "url": "https://open.spotify.com/track/1meDneuv818z2sRDMbI72N"
@@ -1122,7 +1194,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 144000,
       "name": "Kya Bolti Public",
       "url": "https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl"
@@ -1350,7 +1422,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 279120,
       "name": "Pablo",
       "url": "https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo"
@@ -1756,10 +1828,28 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 171162,
       "name": "Sunn Na",
       "url": "https://open.spotify.com/track/7b8BHkjW0vfgT54yXp0Lvn"
+    },
+    {
+      "album": {
+        "name": "Systumm",
+        "url": "https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154463,
+      "name": "Systumm",
+      "url": "https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV"
     },
     {
       "album": {

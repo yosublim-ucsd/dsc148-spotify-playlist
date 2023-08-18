@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-403 songs - 22 hr 21 min
+404 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ahí Les Va](https://open.spotify.com/track/1pyoLEEfKhGMFjVBjO6svK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ahí Les Va](https://open.spotify.com/album/5dT7lDmrlnSTGjO4vBQZY0) | 3:13 | 2022-05-12 | 2022-12-09 |
 | [Alma Enamorada](https://open.spotify.com/track/3yS8KJmIqB8CFBGKi4SNZF) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida Vol\. 2](https://open.spotify.com/album/3sVXSzrTDtqu3SazsdAKzb) | 2:36 | 2022-05-12 | 2022-12-09 |
 | [Alma Enamorada \- En Vivo](https://open.spotify.com/track/5aFyH3gM15qZGmWe1C38Uf) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7) | 2:31 | 2022-12-08 | 2023-07-22 |
+| [Alma Enamorada \- En Vivo](https://open.spotify.com/track/75zniuVinswzFhlxBZNndT) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r) | 2:31 | 2023-06-16 |  |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2022-12-08 |  |
 | [Amor Prisionero \- En Vivo Desde Culiacán Sinaloa](https://open.spotify.com/track/3oTtoY5Yf5COtlHdNcoDxD) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Con Las Guitarritas En Vivo \(Vol.1\)](https://open.spotify.com/album/4hto1Ddn0eue9lYlAKxWRb) | 3:12 | 2022-05-12 | 2022-12-09 |
 | [Ando Bien Pedo](https://open.spotify.com/track/6aGdRGfVl7t9fL6aWbaFGd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:56 | 2022-05-12 |  |
@@ -335,7 +336,7 @@
 | [Popurrí de Los Morros \(Chivo Tatemado/ Los Primos/ El Ultimo Billete\)](https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw) | [Milicia Del Rancho](https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi) | [La Vieja Escuela](https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD) | 2:51 | 2022-12-08 |  |
 | [Popurrí De Los Tigres Del Norte \- En Vivo](https://open.spotify.com/track/2AtUcoBaExy62jqza3rXE9) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [En Vivo Desde El Rancho](https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N) | 5:18 | 2022-05-12 | 2022-12-09 |
 | [Popurrí El Primer Tonto / Eres Mi Droga](https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Los De La Noria En Vivo](https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF) | 4:17 | 2023-03-17 |  |
-| [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 | 2022-05-12 |  |
+| [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 | 2022-05-12 | 2023-08-18 |
 | [Por Las Calles De Chihuahua](https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:42 | 2023-03-17 |  |
 | [Por Que Te Vas De Mi \- En Vivo](https://open.spotify.com/track/17gXGLgaVeONySly2voFIY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:22 | 2023-03-17 |  |
 | [Por Tu Amor \- En Vivo](https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn) | [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Por Tu Amor \(En Vivo\)](https://open.spotify.com/album/5ops1wzh5py3wKUkqQBcKQ) | 3:36 | 2022-05-12 | 2022-12-09 |

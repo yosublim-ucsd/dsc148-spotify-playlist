@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Moderatto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,949 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,146 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 34 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 35 | [Samba Pa Ti](https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:44 |
 | 36 | [Poli](https://open.spotify.com/track/5WsHtvVnbfY17VNF93rQ7w) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:20 |
-| 37 | [Noreste Caliente](https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [The Pre End Of The World Soundtrack](https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd) | 3:14 |
+| 37 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 38 | [La Negra Tomasa \- Bilongo \- Versión Tropical](https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 7:52 |
 | 39 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
-| 40 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
+| 40 | [Noreste Caliente](https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [The Pre End Of The World Soundtrack](https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd) | 3:14 |
 | 41 | [Desde Que](https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:38 |
 | 42 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
 | 43 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 89 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
 | 90 | [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 |
 | 91 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
-| 92 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
+| 92 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 | 93 | [Cheve](https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:44 |
-| 94 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
+| 94 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 95 | [Afroman](https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 3:39 |
 | 96 | [Maldito](https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Saga Mama](https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE) | 2:55 |
 | 97 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 99 | [Voto Latino](https://open.spotify.com/track/3w8eRp9mjGY48zpmIJ920R) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 2:58 |
 | 100 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
 
-Snapshot ID: `MCw5MDUxMzNiZTY4N2I0ZTIzNzRiNzA1YWVlNzA4ODFkMzMxMjMyOTIy`
+Snapshot ID: `MCw3NDZkMDlmY2E3ZGFhN2FlZmI4MDYwOGZiZTQ1ODMzNWZiM2FkZjBh`

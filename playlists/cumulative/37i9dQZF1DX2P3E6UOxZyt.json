@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: \u7981\u85e5\u738b & \u6817\u5b50\n(Asiaboy & Lizi)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: 163 braces",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 259680,
       "name": "Can't Find",
       "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Way out",
+        "url": "https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj"
+      },
+      "artists": [
+        {
+          "name": "\u58de\u7279 ?te",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185829,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/6Db5AeCh3992YJIM7IH8ye"
+    },
+    {
+      "album": {
         "name": "FIRE 2022",
         "url": "https://open.spotify.com/album/3jRbqMrhPxhAbGLbvdUtMl"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 223293,
       "name": "Friends Or ?",
       "url": "https://open.spotify.com/track/6cd94309FnLgWru6RfSYR4"
@@ -1058,10 +1076,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 196625,
       "name": "IDFK",
       "url": "https://open.spotify.com/track/44E9HHcE62Bd4wQH95BtgV"
+    },
+    {
+      "album": {
+        "name": "filter",
+        "url": "https://open.spotify.com/album/3ZOANcz0gC0tgkJMLpe3S4"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218928,
+      "name": "IHTS",
+      "url": "https://open.spotify.com/track/5U7svsVIuZX19FQFhk5AMW"
     },
     {
       "album": {
@@ -1490,7 +1526,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 216480,
       "name": "Morning Babe (feat. Pei-Yu Hung)",
       "url": "https://open.spotify.com/track/5fdAxkfY5GC7PW21btNDE9"
@@ -1640,6 +1676,24 @@
       "duration_ms": 237782,
       "name": "OH HEY",
       "url": "https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU"
+    },
+    {
+      "album": {
+        "name": "OIK",
+        "url": "https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "OIK",
+      "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
     },
     {
       "album": {
@@ -3113,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Be a Lover",
+        "url": "https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "\u4f60\u8aaa\u9019\u53eb\u5929\u79e4\u5ea7\u4f46\u4f60\u559c\u6b61",
+      "url": "https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj"
+    },
+    {
+      "album": {
         "name": "\u4f86\u4e0d\u53ca\u7684\u544a\u767d (\u6771\u68ee\u96fb\u8996\u81ea\u88fd\u6232\u5287\u300a\u984d\u5916\u65c5\u7a0b\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb"
       },
@@ -3342,7 +3414,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 197813,
       "name": "\u518d\u4e00\u8d77\u52aa\u529b\u5427",
       "url": "https://open.spotify.com/track/4wW1VuLbZRMjrOmlcO0ZHj"
@@ -4969,6 +5041,32 @@
     },
     {
       "album": {
+        "name": "\u300c\u661f\u7403\u6f02\u79fb\u300d\u8bf4\u5531\u97f3\u4e50\u4f01\u5212",
+        "url": "https://open.spotify.com/album/3D1Qbpv9MtYMT5J1WA5YLu"
+      },
+      "artists": [
+        {
+          "name": "Ice Paper",
+          "url": "https://open.spotify.com/artist/35kMWGEVOOesE5U0CdP3Zo"
+        },
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        },
+        {
+          "name": "\u5170\u54f2Jerry",
+          "url": "https://open.spotify.com/artist/2A8zzbtSNxX7KZkD1LE8ue"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214948,
+      "name": "\u624d\u6ca1\u6709\u6c38\u8fdc",
+      "url": "https://open.spotify.com/track/2IHjpxbh7SeoSp37pcRkxo"
+    },
+    {
+      "album": {
         "name": "\u6328\u4f60\u4e00\u67aa",
         "url": "https://open.spotify.com/album/7jwuZcuW6pK95pUTa06gxi"
       },
@@ -5070,7 +5168,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 200000,
       "name": "\u6642\u9593",
       "url": "https://open.spotify.com/track/1tFVSjwr5MNVvvb9W1Yk0u"
@@ -6105,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "\u7b28\u86cb",
+        "url": "https://open.spotify.com/album/0EpBEMnAxBm58kUDQBc2dm"
+      },
+      "artists": [
+        {
+          "name": "KUNG \u9f94\u656c\u6587",
+          "url": "https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229575,
+      "name": "\u7b28\u86cb",
+      "url": "https://open.spotify.com/track/6IeWsmiTBpHv6zmV1CDtt1"
+    },
+    {
+      "album": {
         "name": "\u7b49\u5f85\u88ab\u7406\u89e3\u7684\u4eba",
         "url": "https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF"
       },
@@ -6770,7 +6886,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 165168,
       "name": "\u9032\u5165\u4e0b\u4e00\u5c64\u65b0\u7684\u5922\u4e4b\u524d",
       "url": "https://open.spotify.com/track/2LmNW7kMeYp2wUqMpIAge6"
@@ -6992,7 +7108,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 249721,
       "name": "\u932f\u904e",
       "url": "https://open.spotify.com/track/7rIwDvcfedU6IfqIcweezM"

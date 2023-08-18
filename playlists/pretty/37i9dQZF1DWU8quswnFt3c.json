@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 921200,
+  "num_followers": 921142,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmNlN2Q4YTc0YWEwZTQwYjczMDVlMDZmZTBhZGJmZTYzZDVhOTRi",
+  "snapshot_id": "MCwwNGRkNDAzNjkxZWUwYjA2ZTMxMTNmMzM3M2JjYjRhMmM3NmIzYjFm",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Nefes",
-        "url": "https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS"
-      },
-      "artists": [
-        {
-          "name": "Derya Ulu\u011f",
-          "url": "https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj"
-        }
-      ],
-      "duration_ms": 152374,
-      "name": "Nefes",
-      "url": "https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Udh Di Phiran",
         "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 221538,
       "name": "Udh Di Phiran",
       "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Nefes",
+        "url": "https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS"
+      },
+      "artists": [
+        {
+          "name": "Derya Ulu\u011f",
+          "url": "https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj"
+        }
+      ],
+      "duration_ms": 152374,
+      "name": "Nefes",
+      "url": "https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Piango In Discoteca",
-        "url": "https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD"
-      },
-      "artists": [
-        {
-          "name": "Mara Sattei",
-          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
-        }
-      ],
-      "duration_ms": 199845,
-      "name": "Piango In Discoteca",
-      "url": "https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Can I Shower At Yours",
         "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 114004,
       "name": "Can I Shower At Yours",
       "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Piango In Discoteca",
+        "url": "https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "duration_ms": 199845,
+      "name": "Piango In Discoteca",
+      "url": "https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
-        "url": "https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s"
-      },
-      "artists": [
-        {
-          "name": "C\u1ea7m",
-          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
-      "url": "https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 128710,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
+        "url": "https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
+      "url": "https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2"
     },
     {
       "added_at": "2023-08-02 04:00:00",

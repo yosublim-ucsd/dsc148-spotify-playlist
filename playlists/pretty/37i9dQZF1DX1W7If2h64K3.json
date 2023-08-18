@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 42464,
+  "num_followers": 42489,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGMxYjgzNmMxNzVlZjRkNTNkNzIzMDQwZjE3Njk4NWJiOTRmNjJh",
+  "snapshot_id": "MCxlNjBkYmFiZGFkYzAwMWI3Mzg1YjUyMDFkYjBkNTI5YWMwNzkzNzE3",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -315,6 +315,38 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Das Paradies und die Peri",
+        "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Symphony Chorus",
+          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Simon Halsey",
+          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
+      "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Cello Concerto (Works for Cello and Piano)",
         "url": "https://open.spotify.com/album/3G6V68IICMcwQMrYIOb49P"
       },
@@ -351,38 +383,6 @@
       "duration_ms": 176920,
       "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
       "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Das Paradies und die Peri",
-        "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "London Symphony Chorus",
-          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "Simon Halsey",
-          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
-      "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
-        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Wilhelm Kempff",
-          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
-      "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
         "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 593373,
       "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
       "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
+        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
+      "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 332160,
-      "name": "Arabeske in C Major, Op. 18",
-      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
         "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 108253,
       "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
       "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -959,30 +959,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
-        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Sebastian Bluth",
-          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
-        },
-        {
-          "name": "Anita Keller",
-          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
-        }
-      ],
-      "duration_ms": 116200,
-      "name": "Liederkreis, Op. 39: In der Fremde",
-      "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
         "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 316800,
       "name": "Adagio and Allegro, Op. 70: Allegro",
       "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
+        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sebastian Bluth",
+          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
+        },
+        {
+          "name": "Anita Keller",
+          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
+        }
+      ],
+      "duration_ms": 116200,
+      "name": "Liederkreis, Op. 39: In der Fremde",
+      "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann Recital",
-        "url": "https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr"
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
       "artists": [
         {
@@ -1064,13 +1064,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
         }
       ],
-      "duration_ms": 234986,
-      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
-      "url": "https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy"
+      "duration_ms": 773000,
+      "name": "Symphony No. 2 in C, Op. 61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1095,6 +1099,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
         "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 436266,
       "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: 4\u672c\u306e\u30db\u30eb\u30f3\u3068\u7ba1\u5f26\u697d\u306e\u305f\u3081\u306e\u30b3\u30f3\u30c4\u30a7\u30eb\u30c8\u30b7\u30e5\u30c8\u30a5\u30c3\u30af \u30d8\u9577\u8abf\u4f5c\u54c186 \u7b2c1\u697d\u7ae0",
       "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 773000,
-      "name": "Symphony No. 2 in C, Op. 61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
-      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
-        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
-        }
-      ],
-      "duration_ms": 427653,
-      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
-      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Liederkreis; Romances and Ballades",
         "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 207000,
       "name": "\"Mein Wagen rollet langsam\", Op. 142, No. 4",
       "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
+        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "duration_ms": 427653,
+      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
+      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
     },
     {
       "added_at": "2022-11-04 13:17:00",

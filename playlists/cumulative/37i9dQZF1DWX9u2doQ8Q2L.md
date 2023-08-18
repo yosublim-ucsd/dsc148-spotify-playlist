@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-922 songs - 2 day 9 hr 2 min
+923 songs - 2 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Secret Path](https://open.spotify.com/track/0sYJyR15HTyCOPay0uVjng) | [BESPER](https://open.spotify.com/artist/5789BJLcwL0l01iK4OPlyX) | [Orbit](https://open.spotify.com/album/4fpqwqvKAKxOA8OtGFohTm) | 4:01 | 2022-12-06 | 2022-12-28 |
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2023-04-25 | 2023-06-28 |
 | [September \- Daydream Remix \-](https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September \- Daydream Remix \-](https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS) | 3:18 | 2022-10-27 | 2022-11-02 |
+| [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8) | 3:09 | 2023-08-17 |  |
 | [Sherbet](https://open.spotify.com/track/56jXepSKHL0ZiIstrSpoMz) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Tio](https://open.spotify.com/artist/7LzfAWU6jvqg8fVeNc0fqB), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sherbet](https://open.spotify.com/album/4KhKPafupvHCvSb8lt6CAj) | 3:25 | 2022-09-13 | 2022-10-22 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-27 | 2023-02-15 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-01-24 | 2023-06-07 |
@@ -843,7 +844,7 @@
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-05-26 | 2022-06-24 |
 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 | 2023-07-04 |  |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 | 2023-07-07 |
-| [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-11 |  |
+| [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-11 | 2023-08-18 |
 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 | 2023-01-31 | 2023-02-24 |
 | [安心と慢心](https://open.spotify.com/track/6zRR7wIb63JAY8FY7H5MGW) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [安心と慢心](https://open.spotify.com/album/3zIWzQaUt0rdFDd5t5eJp6) | 4:54 | 2023-07-11 | 2023-07-19 |
 | [宝船](https://open.spotify.com/track/7kJ8JbfuFYKF1IUiyWUsvp) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [宝船](https://open.spotify.com/album/7o8SgwRmF7fLqKWyMDuSqK) | 4:33 | 2023-07-20 | 2023-07-26 |

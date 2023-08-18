@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,672 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,898 likes - 62 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 34 | [Ya pararan](https://open.spotify.com/track/0PeEB0KTtlFkwAgtvZpZ0m) | [Mario Manzanares](https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt), [Sergio Alvarez](https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [Miguel Castro](https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF) | [Sergio Alvarez: Cuba, Cuba! \- The Most Popular Songs](https://open.spotify.com/album/6LucKJfqdrd4Mzh4BjXVbN) | 3:35 |
 | 35 | [Dulce amor](https://open.spotify.com/track/53o2MJgllsz2TkumCRCtTI) | [Jorge Anibal Mendoza](https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt), [Teresa Gonzáles Feldmann](https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS) | [World Dance: Cuba](https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP) | 3:07 |
 | 36 | [Sigue regando](https://open.spotify.com/track/1BMKOWQEZvzVq7o6Brxq92) | [Rolando Sanchez and Salsa Hawaii](https://open.spotify.com/artist/1JsffFPaZPlmCrFDswWCfl) | [Rolando Sanchez and Salsa Hawaii Band: Salsa](https://open.spotify.com/album/7j4OCjSYPV9rHEOkfcGYML) | 3:00 |
-| 37 | [El Gallo De Moron](https://open.spotify.com/track/4u9ncLvMpp4mEyoE9ZC3Gh) | [Pío Leiva](https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H), [Septeto Nacional Ignacio Piñeiro](https://open.spotify.com/artist/67yMeHb5yvyDRabVSMZu8Z) | [Esta Es Mi Rumba](https://open.spotify.com/album/08goQFOlOClDPtGQZl7d2o) | 4:14 |
+| 37 | [El Gallo De Moron](https://open.spotify.com/track/4u9ncLvMpp4mEyoE9ZC3Gh) | [Pío Leiva](https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H), [Septeto Nacional de Ignacio Piñeiro](https://open.spotify.com/artist/5qiN4a3Vf62zWPlq68ZVhj) | [Esta Es Mi Rumba](https://open.spotify.com/album/08goQFOlOClDPtGQZl7d2o) | 4:14 |
 | 38 | [Fundamento](https://open.spotify.com/track/1ZnNb0y9cGIGJ9KqfGHZ7H) | [Pedro Luis Ferrer](https://open.spotify.com/artist/67rqEUFkr7S787s9ywsDws) | [Rústico](https://open.spotify.com/album/7pW3HnnRyAscMxMyg0MsNo) | 4:03 |
 | 39 | [Los Sitio Asere](https://open.spotify.com/track/6FiODLlwCn0J7sqQgVNXfT) | [Los Gardenias](https://open.spotify.com/artist/1Z3e3MP52dQjW6Vhdj2FGz) | [Café Cuba](https://open.spotify.com/album/0oMN5tFErJAZRwuvp6tY4z) | 6:15 |
 | 40 | [El rincón caliente](https://open.spotify.com/track/3t1XXF8kQQBNsDw3iYRQps) | [Manuel Guajiro Mirabal](https://open.spotify.com/artist/0STnzOo1kc5Ll215NgLiGm) | [Buena Vista Social Club Presents Manuel 'Guajiro' Mirabal](https://open.spotify.com/album/66sFJspZ4Fjg9Gh0g3ovdy) | 4:46 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 61 | [Habanera](https://open.spotify.com/track/5fJ59hC02dd43Ej9I1Zyyp) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 3:42 |
 | 62 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 |
 
-Snapshot ID: `MCwyNTQ2YjExMzFhMTA0YTFlZjFlMzc4ZDRiMzAzMjVmZjRjZjliYmY2`
+Snapshot ID: `MCwwZWY1ZmY4MDNlNWVlMGVlNmM3OTEwZmQ0NWI4ZmRlYWM1N2M1OGMy`

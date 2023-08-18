@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 
 > Mellow songs from the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,194 likes - 150 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,516 likes - 150 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 26 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
 | 27 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 28 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 29 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
-| 30 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
+| 29 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
+| 30 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
 | 31 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 |
-| 32 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
-| 33 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
+| 32 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
+| 33 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
 | 34 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
-| 35 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
-| 36 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 |
+| 35 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 |
+| 36 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
 | 37 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 38 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
 | 39 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 67 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 | 68 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 |
 | 69 | [Hate That I Love You](https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:38 |
-| 70 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
-| 71 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
+| 70 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
+| 71 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
 | 72 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
 | 73 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 74 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 99 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 |
 | 100 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
 | 101 | [Fuck It \(I Don't Want You Back\)](https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [I Don't Want You Back](https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx) | 3:45 |
-| 102 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
-| 103 | [Best In Me](https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:13 |
+| 102 | [Best In Me](https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:13 |
+| 103 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
 | 104 | [Go On Girl](https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:21 |
 | 105 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 5:11 |
 | 106 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 119 | [Home](https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 3:45 |
 | 120 | [You Raise Me Up](https://open.spotify.com/track/5XQavlXrNHBBvlN4IJqhqW) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 4:01 |
 | 121 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
-| 122 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |
-| 123 | [Vanilla Twilight](https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 3:51 |
+| 122 | [Vanilla Twilight](https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 3:51 |
+| 123 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |
 | 124 | [Hero](https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix) | 4:24 |
 | 125 | [Don't Dream It's Over](https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Divine Discontent](https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0) | 4:03 |
 | 126 | [Hometown Glory](https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 4:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 149 | [Have You Ever](https://open.spotify.com/track/4Xm0G6DRlWUjCgpKh5OPyv) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [Sunshine](https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0) | 3:21 |
 | 150 | [When You Tell Me That You Love Me \(with Diana Ross\)](https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 3:56 |
 
-Snapshot ID: `MCw1NjEwMzQ2ZmY5ZTU1MWZlNGNmYTFlMDI5YTczNWU2MjE4N2FmNzNk`
+Snapshot ID: `MCwwNzE0OTUyMGU3OTViMmRiODJkOWU1MzllMzA1N2IyZmRkZGVmZWQ2`

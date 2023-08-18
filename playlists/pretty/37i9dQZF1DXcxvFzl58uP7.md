@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,932 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,289 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 31 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 |
 | 32 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 |
 | 33 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 |
-| 34 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
-| 35 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
+| 34 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
+| 35 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
 | 36 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 37 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 |
 | 38 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 47 | [Waltzing Back](https://open.spotify.com/track/3JcvpTfI64SmXxUl7XUvQI) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5j49mR7hcvrACDJZNVTmpu) | 3:12 |
 | 48 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 49 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 |
-| 50 | [i'd find you](https://open.spotify.com/track/3oxjt9spq7O1WtCYb1SjAW) | [phendste](https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH) | [under the rug](https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt) | 2:45 |
-| 51 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
+| 50 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
+| 51 | [i'd find you](https://open.spotify.com/track/3oxjt9spq7O1WtCYb1SjAW) | [phendste](https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH) | [under the rug](https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt) | 2:45 |
 | 52 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
 | 53 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 | 54 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 99 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 |
 | 100 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 |
 
-Snapshot ID: `MCw1ZTUyNDM1MzliZGFmNzMwYzM1ZjcyNzQ5YzBiODEwOTYzNTNmZTlk`
+Snapshot ID: `MCxiNTljNzNkZGY3MzQxYWI3ZjFiODM0NTJiY2ZlZGIwZmVlYWI2ZDQy`

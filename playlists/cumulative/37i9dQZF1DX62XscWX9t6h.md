@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-101 songs - 6 hr 55 min
+102 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 |  |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-13 |  |
 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 | 2021-10-20 |  |
-| [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2021-10-20 |  |
+| [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2021-10-20 | 2023-08-18 |
 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 | 2021-10-20 |  |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2021-10-20 |  |
 | [Pelota \(Cut a Rug Mix\)](https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 5:01 | 2021-10-20 |  |
@@ -88,6 +88,7 @@
 | [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 | 2021-10-20 |  |
 | [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 | 2022-12-29 |  |
 | [Te Ao Mārama / Solar Power](https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 3:10 | 2021-10-20 |  |
+| [Tears of the Ancestors](https://open.spotify.com/track/2EGO35LATKIcw2DXZDDn7f) | [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Good Evening Black Buddha](https://open.spotify.com/album/3rbpuBfLjoR2bdXMEt3s3W) | 4:12 | 2022-09-29 |  |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-02-03 |  |
 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 | 2021-10-20 |  |
 | [Time \(You and I\)](https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 5:42 | 2021-10-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you bro\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,419 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,807 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 9 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 10 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 11 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
-| 12 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
-| 13 | [ball w/o you](https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:15 |
+| 12 | [ball w/o you](https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:15 |
+| 13 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 |
 | 14 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
 | 15 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
 | 16 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 35 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 |
 | 36 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
 | 37 | [F.N](https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:44 |
-| 38 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 |
+| 38 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
 | 39 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
-| 40 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
+| 40 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 |
 | 41 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 |
 | 42 | [Hollywood's Bleeding](https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:36 |
 | 43 | [Love Me](https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:57 |
 | 44 | [Happiest Year](https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something \(Deluxe\)](https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p) | 3:48 |
 | 45 | [Half A Man](https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 2:59 |
-| 46 | [Taking A Walk](https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 2:01 |
-| 47 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
+| 46 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
+| 47 | [Taking A Walk](https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 2:01 |
 | 48 | [Chosen 1](https://open.spotify.com/track/40QrLHWdsxyXLAdjJG4Rxs) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:07 |
 | 49 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 |
 | 50 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
 
-Snapshot ID: `MCwyOWY4NzM4YmU2OTgyNTQ5MzU0MWI4ODRjMjE0YzMzYjZmYjIwMWNj`
+Snapshot ID: `MCwwYjk3YzA4ZTk4ZTFkNjBlZDNmNjg3Mjg1ZmJlOGEzYWQ3YzM3N2Ew`

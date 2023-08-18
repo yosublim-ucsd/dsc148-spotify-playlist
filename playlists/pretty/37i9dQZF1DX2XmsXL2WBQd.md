@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,420 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,871 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 24 | [It's Like That](https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 4:50 |
 | 25 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
 | 26 | [I Ain't No Joke](https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:52 |
-| 27 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
-| 28 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
+| 27 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
+| 28 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
 | 29 | [White Lines \(Don't Do It\)](https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf) | [Grandmaster Flash](https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0) | [Grandmaster Flash, Grandmaster Melle\-Mel & The Furious Five: The Greatest Hits](https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9) | 4:29 |
 | 30 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
 | 31 | [Don't Believe The Hype](https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:19 |
@@ -58,17 +58,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 48 | [The Bridge Is Over](https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 |
 | 49 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |
 | 50 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
-| 51 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
-| 52 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
+| 51 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
+| 52 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
 | 53 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
 | 54 | [Follow The Leader](https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH) | 5:36 |
 | 55 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
 | 56 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 |
 | 57 | [Top Billin \- Acapella](https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [What More Can I Say](https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6) | 2:55 |
 | 58 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
-| 59 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
-| 60 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 |
-| 61 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |
+| 59 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 |
+| 60 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |
+| 61 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
 | 62 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 | 63 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz) | 4:49 |
 | 64 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [The Adventures of Grandmaster Flash on the Wheel of Steel](https://open.spotify.com/track/2wfAWoybEH26oAQJAS31OL) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
 | 70 | [The Godfather](https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0) | [Spoonie Gee](https://open.spotify.com/artist/33xY3kRRRiPLsDjnfE3Lpw) | [Godfather of Hip Hop](https://open.spotify.com/album/41kmQPw8502C7ZMbIbwWWB) | 4:53 |
 
-Snapshot ID: `MCxjZTcyODAzNjViZjRkN2Q1MzJkZmMzNGMwNTA0M2RhZTM3ZTYzNjE4`
+Snapshot ID: `MCwzYTkyYWE1NWQ1YTJiODEyZTIzY2Y3MGJlNDhmNGI4OWJjMjdkZDE3`

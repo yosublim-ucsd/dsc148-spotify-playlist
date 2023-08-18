@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Big Makamasi & Co.",
+        "url": "https://open.spotify.com/album/4HljX1IzyMREWoPJSCAALZ"
+      },
+      "artists": [
+        {
+          "name": "Swahili Papi",
+          "url": "https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Big Makamasi",
+      "url": "https://open.spotify.com/track/1vIsMO3ZjadxOWvo93UyKS"
+    },
+    {
+      "album": {
         "name": "Blue Ticks (feat. Femi One)",
         "url": "https://open.spotify.com/album/2TNxPFOTblCkmnndT4Z3Ki"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 90749,
       "name": "GVNG",
       "url": "https://open.spotify.com/track/2x0IbiX2uIrA3rH8G3Nzb3"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 164861,
       "name": "MOTOWN",
       "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 236000,
       "name": "Shrap in Rage",
       "url": "https://open.spotify.com/track/7rHVA6faZqOaxt58d9f5bK"
@@ -2396,10 +2414,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 122266,
       "name": "STAKI KUBONGA MOB",
       "url": "https://open.spotify.com/track/3Al64p5TiG2KsDMRbaTdLC"
+    },
+    {
+      "album": {
+        "name": "Starshine",
+        "url": "https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186462,
+      "name": "Starshine",
+      "url": "https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF"
     },
     {
       "album": {
@@ -2863,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Wash It",
+        "url": "https://open.spotify.com/album/1EHQnbog97Tt2PFizjyPmW"
+      },
+      "artists": [
+        {
+          "name": "Octopizzo",
+          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142585,
+      "name": "Wash It",
+      "url": "https://open.spotify.com/track/02LtDIWAgaDZAQPrwtDCy8"
+    },
+    {
+      "album": {
         "name": "BIGGS",
         "url": "https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y"
       },
@@ -2990,6 +3044,36 @@
       "duration_ms": 120805,
       "name": "Woo",
       "url": "https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq"
+    },
+    {
+      "album": {
+        "name": "YKTD",
+        "url": "https://open.spotify.com/album/2m9Kfunek8BbhHkTYbckpu"
+      },
+      "artists": [
+        {
+          "name": "King Kerby",
+          "url": "https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z"
+        },
+        {
+          "name": "RVMP",
+          "url": "https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv"
+        },
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        },
+        {
+          "name": "Terrianne Iraki",
+          "url": "https://open.spotify.com/artist/2IQSH6zp92t5AaGMx2PltM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205393,
+      "name": "YKTD",
+      "url": "https://open.spotify.com/track/43nz8zSHKEY2fZrlrx9MFL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN"

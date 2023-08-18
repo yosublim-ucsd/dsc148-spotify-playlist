@@ -4,7 +4,7 @@
 
 > more than just a lifestyle
 
-74 songs - 4 hr 5 min
+75 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2022-07-27 |  |
 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 | 2022-07-27 |  |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-07-27 |  |
-| [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 | 2022-07-27 |  |
+| [Cash](https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 3:07 | 2022-07-27 | 2023-08-18 |
 | [Cash](https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 3:07 | 2022-07-27 | 2022-10-18 |
+| [Cash](https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Cash](https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf) | 3:07 | 2023-07-13 |  |
 | [Caution](https://open.spotify.com/track/4g1TUIuoKWYYnJD0a8hrzb) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Caution / Turn Around](https://open.spotify.com/album/6ieHdWLpsg8RMJT4du72IB) | 2:35 | 2022-07-27 |  |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-07-27 |  |
 | [Chop Life \- Remix](https://open.spotify.com/track/2Xy2VaKdByJ1zMyGTy0T0L) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN) | [Chop Life \(Remix\)](https://open.spotify.com/album/5EldLnHAzHgBxsqv6S6XDd) | 3:02 | 2022-07-27 | 2023-03-18 |

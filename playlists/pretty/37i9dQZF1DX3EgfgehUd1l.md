@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,157 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,203 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 34 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
 | 35 | [April Love](https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:41 |
 | 36 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
-| 37 | [It Doesn't Matter Anymore](https://open.spotify.com/track/38s1KAGSzopcquTCeN6jnj) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:03 |
-| 38 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
+| 37 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
+| 38 | [It Doesn't Matter Anymore](https://open.spotify.com/track/38s1KAGSzopcquTCeN6jnj) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:03 |
 | 39 | [Blue Moon \- Take 9/M](https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:42 |
 | 40 | [\('Til\) I Kissed You](https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:26 |
 | 41 | [Catch a Falling Star \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:28 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 51 | [Magic Moments \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/165n9dxHacuguzneup0HXQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [The Essential Perry Como](https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw) | 2:40 |
 | 52 | [Three Coins In The Fountain](https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:45 |
 | 53 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
-| 54 | [When](https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp) | [Kalin Twins](https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH) | [The Kalin Twins](https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE) | 2:26 |
-| 55 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
+| 54 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
+| 55 | [When](https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp) | [Kalin Twins](https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH) | [The Kalin Twins](https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE) | 2:26 |
 | 56 | [Island In The Sun](https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Essential Harry Belafonte](https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi) | 3:21 |
 | 57 | [What Do You Want to Make Those Eyes at Me for](https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs) | [Emile Ford & The Checkmates](https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC) | [What Do You Want to Make Those Eyes At Me For?](https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv) | 2:04 |
 | 58 | [Whatever Will Be, Will Be \(Que Sera, Sera\) \- Single Version](https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [16 Most Requested Songs](https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m) | 2:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
 | 80 | [It's Only Make Believe \- Re\-recorded](https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7) | 2:30 |
 
-Snapshot ID: `MCwwN2FkOTkzNjYzMjBkZDA5NTFjYzk1OTRlZTMwMDkwNWQzM2U5MzE3`
+Snapshot ID: `MCw5ZWE5MjE1MTVlZjAxMDg2MWMzODZiZGFkYTM0OWNiOTY0NDFmNDE2`

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9coutez en boucle les hits alg\u00e9riens du moment.",
-  "num_followers": 113040,
+  "num_followers": 113185,
   "original_name": "DZ Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzE5YjE1MTBmYWFjNTQ4NmNhNjE0OWE3NDE0Yjc2ZWZmZWQ0MzQ3",
+  "snapshot_id": "MCw0NDgxOTkxZWViM2RjYjgxYzdhMjkxMzkwYzdlMmYyOGUwYjc5M2Q0",
   "tracks": [
     {
       "added_at": "2023-08-16 05:49:31",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-08-16 05:49:31",
       "album": {
+        "name": "La vie de Many",
+        "url": "https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc"
+      },
+      "artists": [
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps"
+    },
+    {
+      "added_at": "2023-08-16 05:49:31",
+      "album": {
         "name": "Classico",
         "url": "https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 363154,
       "name": "Ndamt 3Lik",
       "url": "https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d"
-    },
-    {
-      "added_at": "2023-08-16 05:49:31",
-      "album": {
-        "name": "La vie de Many",
-        "url": "https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc"
-      },
-      "artists": [
-        {
-          "name": "Anas",
-          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
-        }
-      ],
-      "duration_ms": 161693,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps"
     },
     {
       "added_at": "2023-08-16 05:49:31",

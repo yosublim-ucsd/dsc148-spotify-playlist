@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,556 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,608 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 23 | [Adderall \(End of the Line\)](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 | 24 | [Flying](https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:46 |
 | 25 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 |
-| 26 | [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 |
-| 27 | [Big](https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 1:45 |
+| 26 | [Big](https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 1:45 |
+| 27 | [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 |
 | 28 | [wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO), [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [wollte nie](https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO) | 3:15 |
 | 29 | [Creatures](https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 |
 | 30 | [Concrete](https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH) | 3:34 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 |
 | 55 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
 
-Snapshot ID: `MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh`
+Snapshot ID: `MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz`

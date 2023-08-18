@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,998 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,104 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 80 | [Hotel Song](https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:27 |
 | 81 | [Get Me Away From Here, I'm Dying](https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI) | 3:25 |
 | 82 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw) | 4:16 |
-| 83 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
-| 84 | [So Nice So Smart](https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Juno \- Music From The Motion Picture](https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG) | 2:45 |
+| 83 | [So Nice So Smart](https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Juno \- Music From The Motion Picture](https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG) | 2:45 |
+| 84 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
 | 85 | [Oh to Be in Love](https://open.spotify.com/track/7FcnFSwGquIEDhJ18tHWd4) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/6LPR2A12So7G9V2WoZgTwd) | 3:18 |
 | 86 | [Lived In Bars](https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:44 |
 | 87 | [Hideaway](https://open.spotify.com/track/3SCtycBwTTM49VNNuXwp4Z) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [The Kids](https://open.spotify.com/artist/5ITDRCbxYSx3gd19M8DFVx) | [Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids](https://open.spotify.com/album/58lyF4XIJENuFrTI0W2wXf) | 5:10 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 89 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
 | 90 | [You Should All Be Murdered](https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 4:38 |
 | 91 | [Seventeen](https://open.spotify.com/track/2CQZalbSGicedttPGtY06n) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Let Yourself Go](https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP) | 3:28 |
-| 92 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
-| 93 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
+| 92 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
+| 93 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
 | 94 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
 | 95 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
 | 96 | [Here We Go](https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF) | [Punch\-Drunk Love](https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB) | [Punch\-Drunk Love \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ) | 4:46 |
 | 97 | [Cinnamon](https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm) | 4:12 |
 | 98 | [Glow Worms](https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:16 |
 | 99 | [I Was Never Young](https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 3:30 |
-| 100 | [I'm In Love With A Girl Who Doesn't Know I Exist](https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 1:38 |
+| 100 | [A Teenager in Love](https://open.spotify.com/track/5JMur5IZCCWUdFFRt7ekbf) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 3:19 |
 
-Snapshot ID: `MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw`
+Snapshot ID: `MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi`

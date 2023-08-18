@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The African & West Indian diaspora united\. Cover: J Hus
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,649 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,705 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 43 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 |
 | 44 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
 | 45 | [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 |
-| 46 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
-| 47 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 |
-| 48 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
-| 49 | [Tek Buddy](https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Vibes Don't Lie](https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU) | 2:28 |
+| 46 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 |
+| 47 | [Tek Buddy](https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Vibes Don't Lie](https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU) | 2:28 |
+| 48 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
+| 49 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
 
-Snapshot ID: `MCxjNjVmYWM5ZjE0MDRkMDZiYWJiNDkyODI3YTc1MjFmYTAwMjI0Yzcx`
+Snapshot ID: `MCxmYmNiODE2YTZkOWUwNDE2OWE2OGY2YTNmMzA1NzM0N2YzNjdiNzU2`

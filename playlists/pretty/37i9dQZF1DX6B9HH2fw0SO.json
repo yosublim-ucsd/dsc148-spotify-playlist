@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 52416,
+  "num_followers": 52447,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWY0YTZiYzBhYmNlMWFhNDE4ZjJiYjhiMmMwYjVkOTZjZDYzNjMw",
+  "snapshot_id": "MCw4YjczY2U0N2UwMThlN2NkY2EzNDJlYTdiZTg0YzgyMzIwOTEwNjU5",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sunset Lover",
-        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
         }
       ],
-      "duration_ms": 237792,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 200360,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 198337,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Hold My Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 188106,
       "name": "All This Could Be Yours",
       "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 198337,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
     },
     {
       "added_at": "2021-09-14 05:14:45",

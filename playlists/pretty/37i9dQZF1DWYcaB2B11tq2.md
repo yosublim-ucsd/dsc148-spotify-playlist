@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,455 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,681 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 69 | [Pintas el Aire](https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 4:00 |
 | 70 | [Fullness](https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Speak Revival](https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V) | 6:07 |
 | 71 | [Cielo](https://open.spotify.com/track/7ziyHwHIJ81y5uaw8la5q6) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Nuevo Comienzo](https://open.spotify.com/album/5g3M3W1QqI4YYTFLjjnSfa) | 3:50 |
-| 72 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
-| 73 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
+| 72 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
+| 73 | [Tiempo Para Perder](https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Tiempo Para Perder](https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC) | 3:40 |
 | 74 | [Digno Es El Señor](https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Ha Vencido, Ha Triunfado](https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl) | 6:01 |
 | 75 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
 
-Snapshot ID: `MCwxM2U5Y2Q5ZTcwZWE3Yjc4Zjc4MGI3ODUzZjdkYmVjYWEzMDJlNzc5`
+Snapshot ID: `MCwxYjUwYjg2OTk1ZjliZDQ3OTcxNWExMjMyODk5MGExN2VhNzllNWVk`

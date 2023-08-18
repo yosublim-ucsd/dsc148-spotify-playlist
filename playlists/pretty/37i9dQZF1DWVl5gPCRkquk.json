@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 873605,
+  "num_followers": 873714,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWVlZTNiMzczOGU4NDNlNTZkMjEwMTExZWNhZTIwNzYyYTlhYzVm",
+  "snapshot_id": "MCxmYmNkNmM1YjY3YmNjNzkxMjVmZTlkZTc0OWMxMjdjYTliMWIxZDY0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Feathers & Fishhooks",
-        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Feathers & Fishhooks",
+        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 280978,
-      "name": "Middle of the Morning",
-      "url": "https://open.spotify.com/track/7LQWSJaHKYMSGmffJSujdu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Summer Isles",
         "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
         }
       ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+      "duration_ms": 280978,
+      "name": "Middle of the Morning",
+      "url": "https://open.spotify.com/track/7LQWSJaHKYMSGmffJSujdu"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -875,6 +859,22 @@
       "duration_ms": 245160,
       "name": "Till the Flame Turns Blue",
       "url": "https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 216746,
       "name": "Nothing\u2019s Gonna Happen",
       "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Before the Bridge",
-        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Easy Rider",
-      "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "That Spell",
         "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 193333,
       "name": "Take Back Thy Gift",
       "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Before the Bridge",
+        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Celebrants",
-      "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Celebrants",
+      "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Inwards & Onwards",
-        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 138939,
-      "name": "How Come My Body",
-      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Inwards & Onwards",
+        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 138939,
+      "name": "How Come My Body",
+      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
     },
     {
       "added_at": "2023-08-11 04:00:00",

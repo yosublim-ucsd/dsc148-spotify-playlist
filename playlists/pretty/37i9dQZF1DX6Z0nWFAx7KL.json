@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 34558,
+  "num_followers": 34572,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Y0NmQwMWYyNzE1ZTY2ZWYwMTRmMzVjMGZlNWRhNmExMzczMDRk",
+  "snapshot_id": "MCw3Njk3NDNhYmM3MjYwOWFhZGM0ODdmOTk5ZmEzNzZkNTk2OTdhOTEw",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 162310,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 192133,
       "name": "Here",
       "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -627,22 +627,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
       },
       "artists": [
         {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 139010,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
+      "duration_ms": 129975,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -667,18 +663,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
       },
       "artists": [
         {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
         }
       ],
-      "duration_ms": 129975,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
+      "duration_ms": 139010,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+        "name": "Feeling Lost Tonight",
+        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
       },
       "artists": [
         {
@@ -1300,9 +1300,25 @@
           "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
         }
       ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+      "duration_ms": 106315,
+      "name": "Feeling Lost Tonight",
+      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
+      },
+      "artists": [
+        {
+          "name": "Watching Colours",
+          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
+        }
+      ],
+      "duration_ms": 124772,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1347,22 +1363,6 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
-      },
-      "artists": [
-        {
-          "name": "Watching Colours",
-          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
-        }
-      ],
-      "duration_ms": 124772,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Feeling Lost Tonight",
-        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
       },
       "artists": [
         {
@@ -1432,29 +1432,9 @@
           "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
         }
       ],
-      "duration_ms": 106315,
-      "name": "Feeling Lost Tonight",
-      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 161463,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1491,6 +1471,26 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 161463,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
     },
     {
       "added_at": "2023-07-27 22:01:00",

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring SIDEPIECE
 
-1,225 songs - 2 day 22 hr 46 min
+1,226 songs - 2 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Amor](https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O) | [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [Amor](https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd) | 3:42 | 2023-03-17 | 2023-04-30 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-26 | 2022-04-29 |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-28 | 2023-05-13 |
-| [Another Planet \- Bruno Furlan VIP](https://open.spotify.com/track/6FJtJq6fVyADQJurbdDXBc) | [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Another Planet \(Bruno Furlan VIP\)](https://open.spotify.com/album/4YgWh4U4JvmwYBAGxJtmQC) | 5:48 | 2023-08-11 |  |
+| [Another Planet \- Bruno's VIP Mix](https://open.spotify.com/track/6FJtJq6fVyADQJurbdDXBc) | [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Another Planet \(Bruno's VIP Mix\)](https://open.spotify.com/album/4YgWh4U4JvmwYBAGxJtmQC) | 5:48 | 2023-08-11 |  |
 | [Apache](https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Apache](https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi) | 2:36 | 2023-08-11 |  |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
 | [Around Me](https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Around Me](https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf) | 3:17 | 2023-07-07 |  |
@@ -119,6 +119,7 @@
 | [Black Box](https://open.spotify.com/track/08w46oZu1UyD8sBRbTe5uh) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:49 | 2022-12-28 | 2023-01-06 |
 | [Bliss](https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Bliss](https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS) | 3:40 | 2023-08-04 |  |
 | [Blisters on My Feet](https://open.spotify.com/track/1lshJx941qq57U0OSWw6qH) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/7cJdhK0qniYWKodYxK6LPP) | 2:56 | 2023-07-28 | 2023-08-09 |
+| [Blisters on My Feet](https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF) | 2:56 | 2023-08-11 |  |
 | [Blow My Mind](https://open.spotify.com/track/0ZJYKFYQYO0kL8lYuILAGx) | [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [Nadim](https://open.spotify.com/artist/04r4bpYoO5pcJD0Ga8u6T6), [AmeliaCee](https://open.spotify.com/artist/5Cs12AhGIsXew1VY65kvFV) | [Blow My Mind](https://open.spotify.com/album/3ZiXEgZ2wwzScYcxvkvwR1) | 2:15 | 2023-01-27 | 2023-04-01 |
 | [Blow Up](https://open.spotify.com/track/70U9s6WTk47vHL2Wo6CE6G) | [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Blow Up](https://open.spotify.com/album/4eufwrLtfhsEBtjDiLUKaB) | 3:34 | 2023-02-03 | 2023-03-05 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2021-11-26 | 2022-03-12 |
@@ -144,7 +145,7 @@
 | [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-06-16 |  |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-08-06 |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-25 | 2022-06-11 |
-| [Buck](https://open.spotify.com/track/7jIgr15l4MF8wm9m3r2tPr) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Buck](https://open.spotify.com/album/0eyiDFC2XrUgmVrrN9v7kx) | 3:29 | 2023-06-30 |  |
+| [Buck](https://open.spotify.com/track/7jIgr15l4MF8wm9m3r2tPr) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Buck](https://open.spotify.com/album/0eyiDFC2XrUgmVrrN9v7kx) | 3:29 | 2023-06-30 | 2023-08-18 |
 | [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 | 2023-04-17 |
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 | 2023-04-22 |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |

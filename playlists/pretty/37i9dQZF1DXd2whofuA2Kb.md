@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 
 > Because once you were a hipster, and now you are an indie parent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,475 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,549 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 | 13 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 14 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 15 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
-| 16 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
-| 17 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
-| 18 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
+| 16 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 17 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
+| 18 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 19 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 20 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 21 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 | 23 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
 | 24 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 |
 | 25 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
-| 26 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 26 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 27 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 28 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
 | 29 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 | 53 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 54 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
 | 55 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
-| 56 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
-| 57 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
+| 56 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
+| 57 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
 | 58 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 |
 | 59 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 60 | [Welcome Home, Son](https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 4:47 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 | 65 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
 | 66 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
 | 67 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
-| 68 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
-| 69 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 |
+| 68 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 |
+| 69 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 | 70 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 71 | [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 |
 | 72 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2whofuA2Kb.md) - [plain]
 | 74 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 75 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
 
-Snapshot ID: `MCwwNTc0NDlhMjY4YjcyZGQwZjJiYWM5NzQ0Mzg4NmUyZTkwZWQ0MDNk`
+Snapshot ID: `MCw1ZWNkMjgxY2QyNzhiNWJiNmFjMGNhMTYxZmE4ODRhY2JlODRhNmI5`

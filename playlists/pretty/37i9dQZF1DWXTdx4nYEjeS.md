@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 
 > Música para acompañar esas rondas interminables de mate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,221 likes - 90 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,443 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 50 | [BANDIDO](https://open.spotify.com/track/5aQtcr0PfEtk4FZCz5rLdV) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [BANDIDO](https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq) | 4:14 |
 | 51 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
 | 52 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 |
-| 53 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 |
-| 54 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
+| 53 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
+| 54 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 |
 | 55 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
 | 56 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 |
 | 57 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 75 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 |
 | 76 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 77 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 |
-| 78 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
-| 79 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
-| 80 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 |
+| 78 | [BLENDER](https://open.spotify.com/track/1xnsTtYlN5GYO30FqYLG1i) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:27 |
+| 79 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
+| 80 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
 | 81 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 82 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
 | 83 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 87 | [Tan Solo](https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 4:00 |
 | 88 | [Un Misil En Mi Placard \- MTV Unplugged](https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:34 |
 | 89 | [Deseos de Cosas Imposibles \(with Abel Pintos\) \- Directo Primera Fila](https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 3:57 |
-| 90 | [Disfruto, La Quiero a Ella](https://open.spotify.com/track/6Yu0lPp8iWZEIPYw8YzePn) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto, La Quiero a Ella](https://open.spotify.com/album/1EviGLb1bEqdomEAiuxnA4) | 6:03 |
+| 90 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 |
 
-Snapshot ID: `MCw2YzhlMzNjMWRmYTU4NmQ5NTcwYzdiNWJhZjlkNGRlNjk3NzBjNjU0`
+Snapshot ID: `MCxlNzEyYzg4Mjc0OWE3Y2FhMjkwN2ZhNmViN2M5NmVjNmJlY2M2YjZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,255 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,352 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Jerusalema \(feat\. Nomcebo Zikode\) \- Edit](https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z) | 3:08 |
 | 60 | [House Arrest](https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [House Arrest](https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx) | 3:36 |
 
-Snapshot ID: `MCwxMDEzMWQ2Y2ZmMjYwM2I5ZDJhMWM4YWJmMDZhYzhmOTg3ODM4MjEz`
+Snapshot ID: `MCxhMmYyOTMzZDk2NTQ2MjBmZmFjOWFlMWNiNmNlMjgyYzFlMTJkNWM0`

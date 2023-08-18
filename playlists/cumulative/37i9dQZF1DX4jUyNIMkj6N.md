@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-211 songs - 13 hr 5 min
+213 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 |  |
 | [Alle snakker sant](https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle snakker sant](https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3) | 2:48 | 2021-12-02 | 2022-07-27 |
 | [alyosha \- Edit](https://open.spotify.com/track/2hNwB2oLvX8jye2RwVuldg) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [alyosha](https://open.spotify.com/album/6JC3W3tS8vzlIj1o1eXRdS) | 4:53 | 2023-03-30 | 2023-04-07 |
+| [America](https://open.spotify.com/track/5l2JI0XPhFKWJwERHOIqkN) | [Nina Kinert](https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O) | [America](https://open.spotify.com/album/1sd88SXXNbNQijDo8ngbOq) | 5:28 | 2023-08-17 |  |
 | [Angel \- Acoustic String Version](https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:40 | 2023-07-13 |  |
 | [Aprilgitar](https://open.spotify.com/track/3J7ZctjNMenFKXSkXbHGsN) | [Hanne Hukkelberg](https://open.spotify.com/artist/0pGsKU60aKi7MK8rQENGwZ) | [Sommerbarna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EwLd11ZOFFaO0YLNgYHnn) | 2:39 | 2022-05-26 | 2022-07-29 |
 | [Astoria](https://open.spotify.com/track/4ZTOrqZ171TP9z7ubj2LEt) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [And Then the Sun Came Up](https://open.spotify.com/album/0ARbTN291oZy3KePCs36Uq) | 4:51 | 2022-09-29 | 2022-12-03 |
@@ -93,13 +94,13 @@
 | [House by the Sea](https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set The House on Fire](https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP) | 3:38 | 2021-12-02 | 2022-06-10 |
 | [How Can I Know](https://open.spotify.com/track/4WMbHn5MP9t5D1WTmLgHd5) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [How Can I Know](https://open.spotify.com/album/6CEfPLzkQ0Qju7dOoDd6sx) | 3:40 | 2022-06-09 | 2022-07-01 |
 | [Hunting Sky](https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr) | 3:15 | 2021-12-02 | 2022-07-16 |
-| [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 | 2022-07-14 |  |
+| [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 | 2022-07-14 | 2023-08-18 |
 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 | 2023-04-27 |  |
 | [I Waited For You](https://open.spotify.com/track/5FDm33MpQRTmQ8GNcJEwcU) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/1Sxc4lT1ZIF56J4C3WkcjL) | 3:24 | 2021-12-02 | 2022-07-29 |
 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 | 2022-07-14 | 2023-04-29 |
 | [I Wanna Be Sedated \(feat\. Mirel Wagner\)](https://open.spotify.com/track/2Cr9TOmo36WLtDfKwKofdA) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/6k9ZeshOIpS8OCXEk9x5pF) | 3:38 | 2021-12-02 | 2022-07-28 |
 | [I Was Just Thinking](https://open.spotify.com/track/7gRiW3eFoQWUNe5h7ggGHt) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/34oIehPYK5k45VsV6nCM1M) | 3:31 | 2021-12-02 | 2022-07-25 |
-| [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 | 2022-07-14 |  |
+| [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 | 2022-07-14 | 2023-08-18 |
 | [I'll Be Here for You](https://open.spotify.com/track/38FPp7vjhk1Z6YXiaxfBJr) | [Cocktail Slippers](https://open.spotify.com/artist/6vNj2NchLaDiqBH8nBAF2g) | [I'll Be Here for You](https://open.spotify.com/album/3PgiPyzy6glPCRBRsjhXpK) | 4:25 | 2021-12-02 | 2022-07-27 |
 | [Imposter](https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Imposter](https://open.spotify.com/album/3cer7gQMvhKVZKcMc45sbA) | 3:57 | 2022-07-07 | 2022-12-24 |
 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 | 2023-06-08 |  |
@@ -193,6 +194,7 @@
 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 | 2023-02-16 |  |
 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 | 2022-07-14 | 2023-02-25 |
 | [Waiting](https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j) | 3:04 | 2021-12-02 | 2022-07-28 |
+| [waiting](https://open.spotify.com/track/5RJ0y1evuKlh05OLkoGo2X) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [waiting](https://open.spotify.com/album/5wIi277EIR8RPjTyhBcet0) | 4:01 | 2023-08-17 |  |
 | [Was There Nothing?](https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Was There Nothing?](https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC) | 3:48 | 2021-12-02 | 2022-07-26 |
 | [Was There Nothing?](https://open.spotify.com/track/1IwlH20GMbWBZoXOddGxe1) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:49 | 2022-07-14 | 2022-11-13 |
 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2022-03-24 |  |

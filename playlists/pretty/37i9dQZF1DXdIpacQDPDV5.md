@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Felix Cartal & Karen Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,308 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,313 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 33 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
 | 34 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
 | 35 | [Cry For You](https://open.spotify.com/track/65YiCW1XCs3Py2bwxgFxEd) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Cry For You](https://open.spotify.com/album/01koLdFgQfB9mVNERvdsin) | 2:05 |
-| 36 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
+| 36 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 37 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 38 | [Take It](https://open.spotify.com/track/1sAZGCJEM8X7HeA93T7DcA) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Take It](https://open.spotify.com/album/4AWaBv2m15Ax6PC9qsCb9U) | 5:27 |
 | 39 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Close 2 U](https://open.spotify.com/track/35pDv7illobZwBuAESRD6g) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Close 2 U](https://open.spotify.com/album/7aMPbn9Qj4BMb8Y27UEMQF) | 3:01 |
 | 65 | [Aphrodite](https://open.spotify.com/track/0HHQK3hnRPKHJZzIPcNE3M) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Aphrodite](https://open.spotify.com/album/1jta1AymwSA45U2uTZPYLk) | 4:01 |
 
-Snapshot ID: `MCxlYzQ0NDBjMjc3M2E3YWZhMDBjZmRmZTJmZjBkMzRlN2UyMTkzZWU1`
+Snapshot ID: `MCw2MDM0MTJiNDYzZmNiNTZiMmUxMzY4NmNkMDBjYmZlMmVjNjE0NmI0`

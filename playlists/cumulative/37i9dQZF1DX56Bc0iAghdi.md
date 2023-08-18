@@ -4,10 +4,11 @@
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-73 songs - 4 hr 27 min
+74 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 | 2023-02-18 |  |
 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0YwZuKtyHptLlCcacS7EqJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 3:50 | 2023-02-18 |  |
 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 | 2019-09-20 | 2023-03-18 |
 | [Bridges](https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Bridges](https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk) | 3:36 | 2019-09-20 |  |
@@ -47,7 +48,7 @@
 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 | 2019-09-20 |  |
 | [JOYBOY](https://open.spotify.com/track/0kioCLrwCsgwl7Fd8mrDnp) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9) | 2:24 | 2019-09-20 | 2022-12-03 |
 | [Joyboy](https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 2:24 | 2019-09-20 |  |
-| [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 | 2023-02-18 |  |
+| [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 | 2023-02-18 | 2023-08-18 |
 | [Like You](https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lyfe](https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6) | 2:33 | 2019-09-20 |  |
 | [Listen More](https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 2:50 | 2019-09-20 |  |
 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 | 2019-09-20 |  |

@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Eme MalaFe en portada.
 
-204 songs - 10 hr 38 min
+205 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Modo Vuelo](https://open.spotify.com/track/0uqNJ3WdaFNHt4KOsK5o5k) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Modo Vuelo](https://open.spotify.com/album/7CVOUsa2OugJkofhEFQUw6) | 3:11 | 2022-09-09 | 2022-12-03 |
 | [Moreno 80](https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Moreno 80 \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO) | 3:02 | 2021-12-17 |  |
 | [México Bélico](https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [México Bélico](https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq) | 4:06 | 2023-04-14 | 2023-07-22 |
+| [Música Y Vino](https://open.spotify.com/track/68d2glVYVHwkhmT5Hkb7Fb) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Música Y Vino](https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa) | 2:49 | 2023-07-21 |  |
 | [Negro Como La Pantera](https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Negro Como La Pantera](https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr) | 2:09 | 2023-02-24 |  |
 | [Ni Mis Padres Saben Que Rollo](https://open.spotify.com/track/5LbyrPgyNvJJCsNYeklVor) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Miro Lo Que Otros No Miran](https://open.spotify.com/album/2f0ZAy2JyvNIJGLEVHAp4t) | 3:14 | 2021-12-17 | 2022-11-08 |
 | [Niño De Oro](https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Niño De Oro \(Deluxe Version\)](https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz) | 2:56 | 2023-01-13 |  |
@@ -204,7 +205,7 @@
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-06-04 |  |
 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 | 2022-09-30 | 2022-11-19 |
 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 | 2023-02-24 |  |
-| [VIDA LOK4](https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [VIDA LOK4](https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78) | 3:13 | 2023-07-07 |  |
+| [VIDA LOK4](https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [VIDA LOK4](https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78) | 3:13 | 2023-07-07 | 2023-08-18 |
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2021-12-17 | 2023-07-22 |
 | [VRGCRA](https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VRGCRA](https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx) | 3:58 | 2023-07-21 |  |
 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 | 2022-12-30 |  |

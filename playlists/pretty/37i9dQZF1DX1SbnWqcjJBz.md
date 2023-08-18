@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,527 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,744 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 37 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 | 38 | [Slow Down](https://open.spotify.com/track/2OsEJFTfzfjG4oC92cuP2c) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:30 |
 | 39 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
-| 40 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
-| 41 | [G.U.Y.](https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:52 |
+| 40 | [G.U.Y.](https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:52 |
+| 41 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
 | 42 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |
 | 43 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 |
 | 44 | [Wasabi](https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 2:34 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 63 | [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 |
 | 64 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 |
 | 65 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
-| 66 | [I Drove All Night](https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 4:00 |
-| 67 | [React](https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz) | 3:24 |
+| 66 | [React](https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz) | 3:24 |
+| 67 | [I Drove All Night](https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 4:00 |
 | 68 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 |
 | 69 | [When I Rule the World](https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [When I Rule the World](https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v) | 3:05 |
 | 70 | [Pink Pony Club](https://open.spotify.com/track/6rcuy6XqlB9bqvtIRDl25u) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/7p5A0E4ivsJ6Gv4iKriANy) | 4:18 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 72 | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU) | 3:20 |
 | 73 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 | 74 | [Cool](https://open.spotify.com/track/469RmLzEsicj8VSn9aIuKV) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:09 |
-| 75 | [Hush Hush; Hush Hush / I Will Survive \- Medley](https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Hush Hush; Hush Hush](https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU) | 4:12 |
-| 76 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
+| 75 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
+| 76 | [Hush Hush; Hush Hush / I Will Survive \- Medley](https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Hush Hush; Hush Hush](https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU) | 4:12 |
 | 77 | [Break the Rules](https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Break the Rules](https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs) | 3:23 |
 | 78 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 |
 | 79 | [Your Body](https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 99 | [Love You Like That](https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Love You Like That](https://open.spotify.com/album/4bQ7I6MzchpBs3tJh1mwoW) | 2:57 |
 | 100 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MCw3M2E5NGM0ZmI4ZjZhMWU0M2NjNjA4M2Q3NDAxYjEwMGNiMjE2M2Q5`
+Snapshot ID: `MCw3OTg4MjAwNDY3ODdjZjcxNmM5ZTEwYWI5NDFkN2JhNzI0NjNiN2U5`

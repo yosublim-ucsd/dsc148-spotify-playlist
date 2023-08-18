@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 237133,
       "name": "Genyo",
       "url": "https://open.spotify.com/track/2YVjGPH1suANfQWCtFn4Ts"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 286402,
       "name": "recall",
       "url": "https://open.spotify.com/track/04Wk3MtRXqnX7iNbcqszMQ"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 165733,
       "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
       "url": "https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU"
@@ -1496,6 +1496,24 @@
       "duration_ms": 197269,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30d2\u30fc\u30ed\u30fc",
+        "url": "https://open.spotify.com/album/1mh2PX6poD1q8gyuJcJuog"
+      },
+      "artists": [
+        {
+          "name": "606\u53f7\u5ba4",
+          "url": "https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190968,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30d2\u30fc\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/6GiCMsPnQ1FN5zLyQCF3Bs"
     },
     {
       "album": {
@@ -1877,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208937,
+      "name": "\u5206\u304b\u3063\u3066\u306a\u3044\u3088",
+      "url": "https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG"
+    },
+    {
+      "album": {
         "name": "\u5411\u65e5\u8475",
         "url": "https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr"
       },
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 253538,
       "name": "\u56de\u8ee2\u3057\u3066\u304b\u3089\u8003\u3048\u308b",
       "url": "https://open.spotify.com/track/7w69JQtytnNBDltP8LBqgl"
@@ -2039,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "\u5c11\u5e74\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne"
+      },
+      "artists": [
+        {
+          "name": "Sano ibuki",
+          "url": "https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222700,
+      "name": "\u5c11\u5e74\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT"
+    },
+    {
+      "album": {
         "name": "\u5e7b\u967d",
         "url": "https://open.spotify.com/album/4iTDgRLajqImZ6lnImUaD3"
       },
@@ -2086,7 +2140,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 209246,
       "name": "\u604b\u30bb\u30e8\u4e59\u5973",
       "url": "https://open.spotify.com/track/0YV0aJFQ3ZZpzQsfaraaC8"
@@ -2216,6 +2270,24 @@
       "duration_ms": 269760,
       "name": "\u6625\u6642\u96e8",
       "url": "https://open.spotify.com/track/2r8JOEVYE1zfKmibXja6Hz"
+    },
+    {
+      "album": {
+        "name": "\u6669\u590f\u306e\u8a3c",
+        "url": "https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345999,
+      "name": "\u6669\u590f\u306e\u8a3c",
+      "url": "https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU"
     },
     {
       "album": {
@@ -2468,6 +2540,24 @@
       "duration_ms": 233433,
       "name": "\u7fa4\u9752\u8b33\u6b4c",
       "url": "https://open.spotify.com/track/5qghy9FhJe4NP4639zFjMn"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u3089\u3058\u3083\u306a\u304d\u3083\u30c0\u30e1\u306b\u306a\u3063\u3066",
+        "url": "https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235837,
+      "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"
     },
     {
       "album": {

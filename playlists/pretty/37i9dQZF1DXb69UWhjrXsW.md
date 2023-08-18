@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 
 > Songs from some of the greatest films in the history of cinema.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,138 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,508 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 | 15 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
 | 16 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 |
 | 17 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
-| 18 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
+| 18 | [Stayin' Alive](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
 | 19 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
-| 20 | [Stayin' Alive](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
+| 20 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
 | 21 | [Father And Son](https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:41 |
 | 22 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 |
 | 23 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 | 49 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0EvykocuR3aWthETr0OfFr) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 2:49 |
 | 50 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
 
-Snapshot ID: `MCw4MjQwZjYzMDc4MDJmNDZmNTMxZjk5OWIyYjFhYzgwNzdjYTMyMGI4`
+Snapshot ID: `MCxlY2VmNmZiNGYzMGFmOWJkMjkxNWRmMThkN2U1MTAzMWM1YWUyZGFm`

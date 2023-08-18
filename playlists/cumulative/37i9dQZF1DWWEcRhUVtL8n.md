@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Bennett Coast
 
-1,641 songs - 3 day 14 hr 34 min
+1,642 songs - 3 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Black Cat](https://open.spotify.com/track/2wQoKMGGqhndLMjEgdnQi1) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Black Cat](https://open.spotify.com/album/2u0K1niKQ8thzgF22Y20tO) | 2:56 | 2020-10-13\* | 2021-03-27 |
 | [Black Coffee](https://open.spotify.com/track/5XFnuOu9ReQ1BjyV7qUxqU) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2022-01-14 | 2022-07-24 |
 | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/1kOzY6GwBam1lTWxD7OloO) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2021-08-04 | 2022-04-15 |
-| [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 |  |
+| [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 | 2023-08-18 |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 |  |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-30 |  |
 | [Blame Game](https://open.spotify.com/track/23YKtFHHfoCCgPN3jE7Ye0) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Blame Game](https://open.spotify.com/album/2ROajNedjFylk0fhSUeE2E) | 3:34 | 2021-01-15 | 2021-02-02 |
@@ -184,7 +184,7 @@
 | [Blood Sugar](https://open.spotify.com/track/60iDIlOnohKwxEKW8yGdXg) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Blood Sugar](https://open.spotify.com/album/2UdbPu3HA7s9HljWGZAkA9) | 3:07 | 2020-10-13\* | 2022-04-15 |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-02 |  |
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-08-06 | 2022-04-13 |
-| [BLOOM](https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [BLOOM](https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN) | 3:26 | 2023-06-16 |  |
+| [BLOOM](https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [BLOOM](https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN) | 3:26 | 2023-06-16 | 2023-08-18 |
 | [Bloom \- Remix](https://open.spotify.com/track/1WWXRNfFhZWbLD3jGcC8T0) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp), [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Birthday Boy \(Party Favors\)](https://open.spotify.com/album/2ZjzdxS9GOQn9IEdOmWen1) | 3:48 | 2020-11-20 | 2021-02-28 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-04-03 | 2021-05-26 |
 | [Blue Eyed Boy](https://open.spotify.com/track/2Pa3wJwBskgjo3CXz5y0n1) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Blue Eyed Boy](https://open.spotify.com/album/5NhlbhBmjU4q0BPTf4J47V) | 2:43 | 2023-07-07 | 2023-07-22 |
@@ -608,10 +608,11 @@
 | [Half Life](https://open.spotify.com/track/7EpbGGZSj9wsXVHmQg7gyN) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Half Empty](https://open.spotify.com/album/0gKxpdLLqf2611EmOCA7mI) | 3:28 | 2020-11-10 | 2021-05-21 |
 | [Halloween](https://open.spotify.com/track/1qx755YI9plWMkHAoPq1lH) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Halloween](https://open.spotify.com/album/08MVxeBRotNzwJZhx5mNzY) | 2:35 | 2020-10-16 | 2021-01-15 |
 | [Halloweenie III: Seven Days](https://open.spotify.com/track/0OStKKAuXlxA0fMH54Qs6E) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie III: Seven Days](https://open.spotify.com/album/1UdHs4K8sjSKy3BJJP1h8q) | 2:30 | 2020-10-24 | 2020-11-15 |
-| [Hallucinate](https://open.spotify.com/track/53khINup0uLYSDNiU7nKuL) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Hallucinate](https://open.spotify.com/album/2LzZKyFO0COd6mbeDeGVPb) | 2:59 | 2023-07-28 | 2023-08-17 |
+| [Hallucinate](https://open.spotify.com/track/53khINup0uLYSDNiU7nKuL) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Hallucinate](https://open.spotify.com/album/2LzZKyFO0COd6mbeDeGVPb) | 2:59 | 2023-07-28 |  |
 | [Hang My Head](https://open.spotify.com/track/2Qm5gg9NZIrtURqpIalMyy) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hang My Head](https://open.spotify.com/album/66Jgk4cIkmqjVjwO4VxIin) | 3:26 | 2021-06-03 | 2021-06-04 |
 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-17 | 2023-02-25 |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2020-11-10 | 2022-04-16 |
+| [Happiest Girl](https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Happiest Girl](https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c) | 2:47 | 2023-08-14 |  |
 | [Happiness In Liquid Form](https://open.spotify.com/track/5KRyn0z6znMxUUojq0NzuQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness In Liquid Form](https://open.spotify.com/album/6BMG6KHqfPfw0oZaxNMmym) | 3:32 | 2021-02-23 | 2022-04-15 |
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-05-20 | 2022-06-01 |
 | [happy for me](https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [happy for me](https://open.spotify.com/album/5BMliAH2ieqeKktKa1qsbK) | 3:11 | 2021-09-10 | 2022-06-01 |

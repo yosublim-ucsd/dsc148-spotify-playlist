@@ -4,7 +4,7 @@
 
 > Please stand for your personal anthems\. Cover: Fall Out Boy
 
-368 songs - 20 hr 16 min
+369 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 | 2022-04-08 | 2022-11-13 |
 | [Above Me](https://open.spotify.com/track/45ZjRrEFgHJhCQ72qKDeem) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Perhaps, I Suppose](https://open.spotify.com/album/0mKXj9hXclmhvassTP0LCw) | 3:11 | 2022-04-08 | 2022-04-19 |
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 | 2021-09-02 | 2023-04-10 |
+| [Addicted](https://open.spotify.com/track/1B8MHa0NveCF1ViBEOZWO5) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:52 | 2023-02-10 |  |
 | [Adrenaline](https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 3:21 | 2021-09-02 | 2022-07-26 |
 | [Afloat](https://open.spotify.com/track/3eI3DS4MyOBMwJ40NmccM7) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [Thoughtless](https://open.spotify.com/album/1Xix18mrxKexVrOhEyfsU5) | 4:02 | 2022-04-08 | 2022-04-21 |
 | [After Midnight](https://open.spotify.com/track/6Gl8JpiZrZMuUQf0GEgO2q) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Explicit Version\)](https://open.spotify.com/album/6MCx7ReBDhywHOUgmCLpwd) | 3:25 | 2022-04-08 | 2022-06-17 |
@@ -280,7 +281,7 @@
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2021-09-02 |  |
 | [Stay Alive](https://open.spotify.com/track/7FKNUVrgyau621w3hUDRho) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC), [Matt Skiba](https://open.spotify.com/artist/7qVz2CTVWQynqvLaaxZXw6) | [The Shadow Side](https://open.spotify.com/album/49MRU1ggalf6nWxNjSopID) | 4:08 | 2022-04-08 | 2022-04-21 |
 | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK) | 2:31 | 2021-09-02 | 2022-01-27 |
-| [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 | 2023-01-25 |  |
+| [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 | 2023-01-25 | 2023-08-18 |
 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2021-09-02 |  |
 | [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 | 2022-06-16 | 2022-12-30 |
 | [Still Waiting](https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 2:38 | 2022-06-16 |  |

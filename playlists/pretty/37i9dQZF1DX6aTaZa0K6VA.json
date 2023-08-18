@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits! Foto: Olivia Rodrigo",
-  "num_followers": 6702442,
+  "num_followers": 6703367,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzk5NmVhY2NkYWU2N2RkNzVkYTM3ODI0OGU0ZjlkNTE4M2E1YzZi",
+  "snapshot_id": "MCxhZWFlMGM1NTA1N2FmNTIyZWE4Yjk0NDc0ZjI2MjY0MDQyNTUzYjE5",
   "tracks": [
     {
       "added_at": "2023-08-11 06:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -439,22 +455,6 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -779,30 +779,18 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -827,18 +815,30 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+      "duration_ms": 219453,
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Hits Different",
-      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "- (Deluxe)",
         "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "added_at": "2023-08-11 06:00:00",

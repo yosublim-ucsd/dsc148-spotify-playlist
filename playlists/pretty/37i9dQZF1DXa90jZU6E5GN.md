@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > make the whole place shimmer ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,971 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,336 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 56 | [Something To Talk About](https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:47 |
 | 57 | [Brokenhearted](https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:47 |
 | 58 | [Good Girl](https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 3:25 |
-| 59 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
+| 59 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 60 | [80s Mercedes](https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 |
 | 61 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 |
-| 62 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 62 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
 | 63 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 64 | [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 |
 | 65 | [Undo It](https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 99 | [Diane](https://open.spotify.com/track/6UJnsETEQRL6kZtSUy2nFF) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:32 |
 | 100 | [I CAN'T HELP MYSELF](https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:21 |
 
-Snapshot ID: `MCw3YmExZDhlNTFhZGI1MGMwZTYwY2Q3ZTE0M2YxMDg4NjU3NzdhOWUy`
+Snapshot ID: `MCxmMjgwZjBhM2MyMzBlYmM2OThjYzRmNjA1MDllN2NjN2M2MjliNTQ2`

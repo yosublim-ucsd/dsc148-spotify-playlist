@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 57614,
+  "num_followers": 57646,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzVlZmY1NmM2ZjE2MmE4N2MwYjE0NGU1MDZkNjQ4ODNkNDg0ZGM3",
+  "snapshot_id": "MCwxMDBhYjYyOGQ0YjE5YWFkY2M5MGZkMGJjOTI5ZTZkMWI5Y2I4M2Qx",
   "tracks": [
     {
       "added_at": "2023-08-14 03:13:26",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-08-14 03:13:26",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-08-14 03:13:26",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "added_at": "2023-08-14 03:13:26",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "added_at": "2023-08-14 03:13:26",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-08-14 03:13:26",
       "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2023-08-14 03:13:26",
+      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-08-14 03:13:26",
-      "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2023-08-14 03:13:26",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-08-14 03:13:26",
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "added_at": "2023-08-14 03:13:26",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
-    },
-    {
-      "added_at": "2023-08-14 03:13:26",
-      "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
     },
     {
       "added_at": "2023-08-14 03:13:26",

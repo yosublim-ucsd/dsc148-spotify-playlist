@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: The Band CAMINO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,745 likes - 126 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,808 likes - 126 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Does It Rain on You?](https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [In Separation](https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo) | 3:02 |
 | 126 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
 
-Snapshot ID: `MCw5YmZlOWI0ZTM0NzNhZGQzNDQ5M2E4N2ViZDZmMDcyZDI0MjQ3MTUz`
+Snapshot ID: `MCxlNDRjODQ1NTYwYjhlMTMwNTIzMDIzZDIzMjE1OGVkNzg0ODZkYjJj`

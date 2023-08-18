@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Trippie Redd & Lil Wayne, DJ Khaled, and Travis Scott!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,932 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,935 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [Kant Nobody \(feat\. DMX\)](https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Kant Nobody](https://open.spotify.com/album/6Qi8Hf2PW97oZP2a4Tvd24) | 3:00 |
 | 75 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 |
 
-Snapshot ID: `MCwwMTVmMTM5M2NhYjRjMmM2MGMyZmZiZmY5ZGM4NWUwMTBhZWQ4NGY3`
+Snapshot ID: `MCwyNDAwZWRhZjU3YTU5NDFmMmMwY2I4Y2ZmMzBkZWZhNzFlOTFkNGYz`

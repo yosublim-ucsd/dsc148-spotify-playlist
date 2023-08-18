@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7?si=\-inelc4KTWyiF65c12fYEQ">Oufadafada</a>
 
-140 songs - 13 hr 59 min
+142 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,10 +53,10 @@
 | [Ke Mang \- Live](https://open.spotify.com/track/4PhX4M2Ahh14sqthX6PSt1) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 6:47 | 2018-10-15 |  |
 | [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-30 |  |
 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 | 2023-07-14 |  |
-| [Ke Tshepile Wena \- Amapiano Remix](https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Amapiano Remix\)](https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh) | 5:14 | 2023-08-04 |  |
+| [Ke Tshepile Wena \- Amapiano Remix](https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Amapiano Remix\)](https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh) | 5:14 | 2023-08-04 | 2023-08-18 |
 | [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 | 2023-07-28 | 2023-08-04 |
 | [Keep me](https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G) | 4:08 | 2023-07-28 |  |
-| [Khuleka](https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx) | [Nhlanhla Dube](https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp), [MoloJazz](https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn) | [Khuleka](https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA) | 3:51 | 2023-07-14 |  |
+| [Khuleka](https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx) | [Nhlanhla Dube](https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp), [MoloJazz](https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn) | [Khuleka](https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA) | 3:51 | 2023-07-14 | 2023-08-18 |
 | [Konyana ya Modimo \- Live](https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 10:18 | 2022-01-06 |  |
 | [Lion of Judah \(Live\)](https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 5:09 | 2018-09-24 |  |
 | [Liyez'Ixesha](https://open.spotify.com/track/5W6xoNGYkme6joSMEc5atz) | [Lusanda Spiritual Group](https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz) | [Ndiyabulela](https://open.spotify.com/album/3zKfcm9BarI8Y8fDcIChit) | 4:36 | 2023-06-30 |  |
@@ -121,6 +121,7 @@
 | [Ungikhathalele](https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX) | [Jumbo](https://open.spotify.com/artist/3WsA13hdiZ1K7NwjemXvz9) | [Ungikhathalele](https://open.spotify.com/album/24bzMduuwBDsGtapX9lqnG) | 5:06 | 2018-09-24 | 2023-05-06 |
 | [Ungubaba](https://open.spotify.com/track/6e3EkJFMU2NALtPkC20IUp) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 4:17 | 2020-08-28 | 2023-06-16 |
 | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/track/2GrEouhLr4QoieMsy1LD8u) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/album/3NbtHoVq45LvFW1yS9Tjzn) | 7:14 | 2022-09-15 |  |
+| [Unjalo wena Kuphakama](https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Unjalo wena Kuphakama](https://open.spotify.com/album/6mlXloaetu8glEQSiVsROw) | 2:48 | 2023-08-18 |  |
 | [UThixo Babhem](https://open.spotify.com/track/6hohFbVUUZ8nLXwVFzQcyh) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U) | [UThixo Babhem](https://open.spotify.com/album/0ziZSA0rjmw4O0hIuNeT3G) | 4:10 | 2023-05-05 | 2023-06-09 |
 | [Uyalalelwa \- Live](https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 21: Heal Our Land \(Live\)](https://open.spotify.com/album/2FWAwOo6n6E0eQvoYcj5Yq) | 6:10 | 2023-06-16 |  |
 | [Uzokuphendula](https://open.spotify.com/track/2AEfhL3jyC37LUoFj1tVLm) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Icebo Le Nkosi](https://open.spotify.com/album/7u3wRzBQ19vBWhYN5kvher) | 5:51 | 2022-09-15 | 2023-03-18 |
@@ -148,5 +149,6 @@
 | [You Will Never Leave Me](https://open.spotify.com/track/7c800fIUf9VBIYaemw5vgW) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 6:43 | 2019-10-07 | 2023-03-18 |
 | [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 | 2019-10-07 | 2023-03-12 |
 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 | 2020-03-13 |  |
+| [Zonke](https://open.spotify.com/track/16WWnfjYPxZ8vPAFGZkeeQ) | [Shaik Omar](https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Zonke](https://open.spotify.com/album/33eNdn70pZjbv8CsRKomtm) | 4:13 | 2023-08-18 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

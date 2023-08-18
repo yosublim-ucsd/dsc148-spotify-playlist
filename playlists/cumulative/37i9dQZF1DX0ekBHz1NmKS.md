@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-743 songs - 1 day 15 hr 17 min
+746 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 | 2023-02-14 |
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 |  |
+| [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 |  |
 | [Du kommer dra](https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tills alla glömt oss](https://open.spotify.com/album/4d0B1xECMoQLXQwt10W2pa) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [Du sa \(det kanske var fult\)](https://open.spotify.com/track/2FOYQ8TV3xcH8FBZlnSbww) | [Vibefabriken](https://open.spotify.com/artist/4OoB00ctLYR2VL8FdseAVW) | [Du sa \(det kanske var fult\)](https://open.spotify.com/album/7cLCVo7ZkZ0TQc5XGaYmux) | 2:42 | 2022-02-26 | 2022-04-01 |
 | [Du är allt jag vill ha](https://open.spotify.com/track/6jMDUl6rExqyjRzYavMFuy) | [Oscar Enestad](https://open.spotify.com/artist/1rfH6kxUn8tYlzejKr3894) | [Du är allt jag vill ha](https://open.spotify.com/album/6SwhrL9xj9ujMVNrKmFU6m) | 3:00 | 2022-04-28 | 2022-07-29 |
@@ -178,7 +179,7 @@
 | [Dör För Er Skull](https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Dör För Er Skull](https://open.spotify.com/album/021aTp0HEvlzTIkGKGvOTY) | 2:44 | 2022-03-10 | 2022-05-13 |
 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 | 2023-06-15 |  |
 | [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 |  |
-| [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-13 |  |
+| [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-13 | 2023-08-18 |
 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 | 2023-04-13 | 2023-07-16 |
 | [Elevator Eyes](https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Elevator Eyes](https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ) | 2:58 | 2023-08-10 |  |
 | [En fattig munk från Skara](https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT) | [Gustaf & Viktor Norén](https://open.spotify.com/artist/7wgjhOBlEERCRSA6iloMvt) | [Samlade sånger](https://open.spotify.com/album/53W6Wvkzo0eWW2YcwWX0CL) | 4:29 | 2021-12-16 | 2022-07-22 |
@@ -189,7 +190,7 @@
 | [Ensamvarg](https://open.spotify.com/track/4raZ0nYoiJ4mmeXlKgtNFI) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Ensamvarg](https://open.spotify.com/album/5SNsjFUqouam47L3HTtqXf) | 3:35 | 2022-06-16 | 2022-07-10 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
-| [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 |  |
+| [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 | 2023-08-18 |
 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-02 | 2023-04-26 |
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
@@ -469,7 +470,7 @@
 | [Nåt på fickan](https://open.spotify.com/track/4NCi8meUtDzj04ovWWyDTr) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Nåt på fickan](https://open.spotify.com/album/0Oh2dhmJjIxXz2sh5dV7mT) | 2:30 | 2022-05-05 | 2022-07-29 |
 | [Nåt äkta](https://open.spotify.com/track/0GijOgh6mFH7J0UIhOBKnk) | [Adam Chia](https://open.spotify.com/artist/2pyhqBRwNtetqduSFHxaUX), [MAYKA](https://open.spotify.com/artist/4qVmTeHPsnwfF0QcQCGpnl) | [Hellre än mig själv](https://open.spotify.com/album/0pISOIFj7YO5fhpoBlzHoW) | 3:40 | 2022-06-09 | 2022-07-29 |
 | [Oas](https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:17 | 2023-04-01 |  |
-| [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 |  |
+| [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 | 2023-08-18 |
 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 | 2021-12-16 | 2022-05-13 |
 | [Okomplicerat](https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Okomplicerat](https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk) | 2:39 | 2023-05-04 |  |
 | [Old Bad Habit](https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL) | [Ella Sandberg](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Old Bad Habit](https://open.spotify.com/album/6D0kdMFXdmHr6Du1WYK6vI) | 3:41 | 2022-05-26 | 2022-07-28 |
@@ -612,6 +613,8 @@
 | [Sugar](https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sugar](https://open.spotify.com/album/69KXYbtGSjqKjQ7aBBZbGw) | 2:56 | 2021-12-16 | 2022-03-11 |
 | [sugar](https://open.spotify.com/track/2d6CmdLPd1rOi7zdQK6kBg) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [sugar](https://open.spotify.com/album/15RYAPvGvUvil1Vu8sI5Xi) | 3:05 | 2022-06-02 | 2022-07-19 |
 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 | 2021-12-16 | 2022-04-01 |
+| [Summer 16](https://open.spotify.com/track/52SIiW51Nr9JwtM9pJ5Mn3) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Summer 16](https://open.spotify.com/album/4aPNYejXgOmwAstK7XJLRD) | 2:57 | 2023-08-17 |  |
+| [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 | 2023-08-17 |  |
 | [Sun](https://open.spotify.com/track/4xMPJOd0L8RbrKVHW1x0t3) | [Name The Pet](https://open.spotify.com/artist/3ud4LE50NSFZxHYDSURGyM), [Janne Schaffer](https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU) | [Sun](https://open.spotify.com/album/4thDfq25JgSDpeTdrypZLM) | 3:45 | 2021-12-16 | 2022-02-16 |
 | [Sun In Her Eyes](https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Sun In Her Eyes](https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj) | 3:20 | 2023-06-08 |  |
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |

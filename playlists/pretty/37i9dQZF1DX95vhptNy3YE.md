@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Vulgo FK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,767 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,947 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 35 | [gucci con tacchini!](https://open.spotify.com/track/3QIA1Kfl592xCUnN6It6Qs) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 2:42 |
 | 36 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
 | 37 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 |
-| 38 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
-| 39 | [Mun Rá](https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Mun Rá](https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl) | 3:28 |
+| 38 | [Mun Rá](https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Mun Rá](https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl) | 3:28 |
+| 39 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 40 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 41 | [Frozone](https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [Frozone](https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs) | 2:58 |
 | 42 | [Chove Chuva](https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Chove Chuva](https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Kenner](https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj) | [Jovem Sam](https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [shots!](https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49) | [OCF](https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL) | 2:12 |
 | 50 | [Gostosa de Air Max](https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj) | [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo) | [Gostosa de Air Max](https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1) | 2:15 |
 
-Snapshot ID: `MCw0YjI5MjA0YWE4OTU1OWZkMjFjMGM4ODRlM2ExNWVjZGE2NWYxMzMy`
+Snapshot ID: `MCw4YTIxOTQyNmIwMzMzODUzOWY2YTRiZTNkZGRhZTQ3NGE4NGJjNzBk`

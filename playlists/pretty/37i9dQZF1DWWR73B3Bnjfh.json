@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 98117,
+  "num_followers": 98225,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2ZlNDZkNGYzMWIzMTdkYTExMGE5M2IyMWYyNDJiMjMxNzQyZmNh",
+  "snapshot_id": "MCw1MDlmZTU1NjkyNzczMGE0MDBkMGY1NTI3ODczMzRhYTE4OWE3YWJm",
   "tracks": [
     {
       "added_at": "2023-08-16 09:56:51",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
+        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 377546,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
+    },
+    {
+      "added_at": "2023-08-16 09:56:51",
+      "album": {
         "name": "Adam's Apple (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 266226,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
-    },
-    {
-      "added_at": "2023-08-16 09:56:51",
-      "album": {
-        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 377546,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
     },
     {
       "added_at": "2023-08-16 09:56:51",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
+        "name": "The Opener (Remastered)",
+        "url": "https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH"
+      },
+      "artists": [
+        {
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "A Lovely Way To Spend An Evening",
+      "url": "https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo"
+    },
+    {
+      "added_at": "2023-08-16 09:56:51",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 252893,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
-    },
-    {
-      "added_at": "2023-08-16 09:56:51",
-      "album": {
-        "name": "The Opener (Remastered)",
-        "url": "https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH"
-      },
-      "artists": [
-        {
-          "name": "Curtis Fuller",
-          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "A Lovely Way To Spend An Evening",
-      "url": "https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo"
     },
     {
       "added_at": "2023-08-16 09:56:51",
@@ -871,6 +871,30 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
+    },
+    {
+      "added_at": "2023-08-16 09:56:51",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 237640,
       "name": "The Midnight Sun Will Never Set",
       "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
-    },
-    {
-      "added_at": "2023-08-16 09:56:51",
-      "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
     },
     {
       "added_at": "2023-08-16 09:56:51",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
-        "name": "Gerry Mulligan Meets Ben Webster",
-        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 442506,
-      "name": "Chelsea Bridge",
-      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
-    },
-    {
-      "added_at": "2023-08-16 09:56:51",
-      "album": {
         "name": "Blue And Sentimental (Remastered)",
         "url": "https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 448866,
       "name": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb"
+    },
+    {
+      "added_at": "2023-08-16 09:56:51",
+      "album": {
+        "name": "Gerry Mulligan Meets Ben Webster",
+        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 442506,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
     },
     {
       "added_at": "2023-08-16 09:56:51",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
+    },
+    {
+      "added_at": "2023-08-16 09:56:51",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -1195,38 +1211,6 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
-        "name": "Night Hawk",
-        "url": "https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 629733,
-      "name": "Night Hawk",
-      "url": "https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG"
-    },
-    {
-      "added_at": "2023-08-16 09:56:51",
-      "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
-    },
-    {
-      "added_at": "2023-08-16 09:56:51",
-      "album": {
         "name": "Stan Getz Plays (Clef Records LPR)",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 176973,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
+    },
+    {
+      "added_at": "2023-08-16 09:56:51",
+      "album": {
+        "name": "Night Hawk",
+        "url": "https://open.spotify.com/album/7jQTsdUGYRJWOGoPQRFM1t"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 629733,
+      "name": "Night Hawk",
+      "url": "https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG"
     },
     {
       "added_at": "2023-08-16 09:56:51",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+    },
+    {
+      "added_at": "2023-08-16 09:56:51",
+      "album": {
         "name": "Inner Urge (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 442200,
       "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
-    },
-    {
-      "added_at": "2023-08-16 09:56:51",
-      "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "Intermezzo",
-      "url": "https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4"
     },
     {
       "added_at": "2023-08-16 09:56:51",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-08-16 09:56:51",
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+      "duration_ms": 216080,
+      "name": "Intermezzo",
+      "url": "https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4"
     },
     {
       "added_at": "2023-08-16 09:56:51",

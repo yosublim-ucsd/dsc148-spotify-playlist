@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-146 songs - 9 hr 52 min
+147 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,10 +114,11 @@
 | [Mi Burrito Sabanero](https://open.spotify.com/track/28CjlMRoxzAfOZn4xLtPFE) | [Adrienne Houghton](https://open.spotify.com/artist/3v2b4owGaN9d2bSdsZMWxR), [Freddy Bailon](https://open.spotify.com/artist/0ESKplh2Ij1mnqLPBEVFEg), [Claudette Bailon](https://open.spotify.com/artist/2vY0NRoqIMLAONc7BDA6m7), [Beau Harper](https://open.spotify.com/artist/6ZPbnYYAIkLm4yWlOYfAV8), [Jet Marie](https://open.spotify.com/artist/2rjwCF0hFlm3cWhWOERBCI) | [New Tradiciones](https://open.spotify.com/album/5v1TBoDdIpAYApHIESFKVl) | 4:32 | 2022-11-25 |  |
 | [Mi Navidad No Se Apaga](https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Mi Navidad No Se Apaga](https://open.spotify.com/album/29vshU5rVpWYdzJvim2952) | 3:09 | 2022-11-25 | 2023-08-17 |
 | [MI REGALO](https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [MI REGALO](https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO) | 2:13 | 2022-11-25 | 2023-08-17 |
-| [Mi Regalo Favorito](https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Parranda All\-Stars: Navidad \- Edición Especial](https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9) | 3:56 | 2022-11-25 |  |
+| [Mi Regalo Favorito](https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Parranda All\-Stars: Navidad \- Edición Especial](https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9) | 3:56 | 2022-11-25 | 2023-08-18 |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-11-25 |  |
 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 | 2022-12-18 |  |
 | [Montados en Bicicleta](https://open.spotify.com/track/7vK2y43KQm04iH0C3DHI2T) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Montados en Bicicleta](https://open.spotify.com/album/2Zih48eHIEcLOgJdZopLkS) | 4:00 | 2023-08-16 |  |
+| [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 | 2023-08-16 |  |
 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 | 2022-11-25 |  |
 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 | 2022-12-18 | 2023-08-17 |
 | [Navidad Es Amor](https://open.spotify.com/track/58VzmExhFVXfOuqP24e8Q9) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Lourdes Robles](https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 4:21 | 2022-12-18 |  |

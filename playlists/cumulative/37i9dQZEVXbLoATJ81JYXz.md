@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,458 songs - 3 day 3 hr 21 min
+1,459 songs - 3 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-08-15 | 2022-08-28 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-08-21 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-28 | 2021-10-31 |
-| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-16 |  |
+| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-16 | 2023-08-18 |
 | [Baddie](https://open.spotify.com/track/1H2DnpRik7Rg2UFgkHrtr1) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Baddie](https://open.spotify.com/album/7kzDj5EnJcr0434Hf1faOL) | 2:20 | 2022-06-18 | 2022-06-25 |
 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 | 2021-03-27\* | 2021-04-17 |
 | [Ballar Ur](https://open.spotify.com/track/3l8gp1PEPNrUiQCUY5l51N) | [Mange Makers](https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC) | [Ballar Ur](https://open.spotify.com/album/1FhH8p8OExFdr3ZuOnoJ8I) | 2:57 | 2021-04-23 | 2021-04-26 |
@@ -969,6 +969,7 @@
 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2021-08-01 | 2021-08-04 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-19 | 2021-05-22 |
 | [PAIN BABY](https://open.spotify.com/track/2VneLFgPiLNPVlFZMqiY5Z) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:58 | 2022-05-07 | 2022-05-08 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-17 |  |
 | [PAKET](https://open.spotify.com/track/7LtgVT3e9MfQo5AWnakby2) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:58 | 2022-06-11 | 2022-06-24 |
 | [PANG! BOOM!](https://open.spotify.com/track/5FTmPaZPNPL3RlxHBN0QID) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [PANG! BOOM!](https://open.spotify.com/album/6DorMD9NgkADVFd4yHGos8) | 2:31 | 2022-10-15 | 2022-10-21 |
 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-07-08 | 2023-07-10 |

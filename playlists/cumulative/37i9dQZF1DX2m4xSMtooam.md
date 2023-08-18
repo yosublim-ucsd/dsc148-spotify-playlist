@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-230 songs - 14 hr 47 min
+231 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Call Me](https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 4:10 | 2022-06-28 |  |
 | [Call Me](https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 4:10 | 2022-05-13 | 2022-07-29 |
 | [Caminhos Cruzados](https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:58 | 2022-05-13 | 2022-07-29 |
-| [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 | 2022-06-28 |  |
+| [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 | 2022-06-28 | 2023-08-18 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2023-01-13 |  |
 | [Cavaquinho](https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa) | [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Braziliana](https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST) | 2:13 | 2022-05-13 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-11-11 |  |
@@ -78,6 +78,7 @@
 | [Favela](https://open.spotify.com/track/4TtDDJT3b9ardn5stlCc2u) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba](https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28) | 4:00 | 2022-05-13 | 2022-07-29 |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2022-06-28 |  |
 | [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 | 2022-08-17 |  |
+| [Florianópolis](https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [Florianópolis](https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB) | 3:10 | 2023-08-15 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-05-13 |  |
 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 | 2022-05-13 |  |
 | [Foz Do Iguaçu](https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Foz Do Iguaçu](https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW) | 3:26 | 2023-01-19 |  |

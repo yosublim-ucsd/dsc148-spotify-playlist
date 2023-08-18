@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-316 songs - 14 hr 43 min
+317 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Another Love \- Sped Up](https://open.spotify.com/track/1su2jtKXE4a4jihfRJUsG2) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH), [Dybbukk Covers](https://open.spotify.com/artist/65etXZIRd8KjC0pCYhD9wI) | [Another Love \(Sped Up\)](https://open.spotify.com/album/2c8GNl2HpBZ8XxjnnghyQS) | 3:23 | 2022-11-08 | 2023-01-14 |
 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 | 2022-05-06 | 2022-07-29 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-31 | 2023-06-06 |
+| [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-07-13 |  |
 | [Assagiare](https://open.spotify.com/track/5tXkJqcEdCaHRrzpMLAFlT) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [Primo Nero in Italia](https://open.spotify.com/album/2FAfKpNjS2N6oGLMMy769v) | 2:01 | 2022-06-17 | 2022-07-23 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-09-06 | 2022-09-23 |
 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 | 2022-11-07 | 2023-02-26 |
@@ -171,7 +172,7 @@
 | [Megablast](https://open.spotify.com/track/4kSF9vv3i4IrMVew2uwMCs) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Butterfly Tetrad](https://open.spotify.com/album/2CBjTGZPlSwhBb5XhXKiXt) | 1:27 | 2022-06-03 | 2022-07-04 |
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2022-05-06 | 2022-10-14 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-09-20 |  |
-| [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-17 |  |
+| [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-17 | 2023-08-18 |
 | [MISA & LIGHT](https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [Hen848](https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo) | [MISA & LIGHT](https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY) | 2:50 | 2022-05-06 | 2022-07-27 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-05 |  |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-12 | 2023-04-13 |

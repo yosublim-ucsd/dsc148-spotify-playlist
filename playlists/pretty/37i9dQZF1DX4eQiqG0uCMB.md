@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,744 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,769 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 49 | [Peru \- Acoustic](https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru \(Acoustic\)](https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC) | 2:52 |
 | 50 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
 
-Snapshot ID: `MCxmMTExYjQ4MGRlMDAyZmExNzYxMGJmMzgzMGRhMmE4MDVkZDgwNDVl`
+Snapshot ID: `MCwwZTM4ZWM1MDNiM2E2M2E3ZmE4YzdjMzIxZDQzMTA3MTg0MmMwZmRi`

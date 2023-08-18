@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,637 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,660 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 53 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 |
 | 54 | [El Próximo Verano](https://open.spotify.com/track/6Ff9Z5bPflRCCRFBt6jtk0) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:29 |
 | 55 | [Mentiroso Miente](https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Mentiroso Miente](https://open.spotify.com/album/6fr6AARElMTnBKHTziuWPK) | 2:46 |
-| 56 | [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [Ying Yaang's](https://open.spotify.com/artist/2OuDDouyhn0ab4Uu5Re6o5) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 |
+| 56 | [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 |
 | 57 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 |
 | 58 | [No Voy a Salir de la Cama](https://open.spotify.com/track/7gZnkVesq9YHoXpe6Jmoh4) | [La Real Academia](https://open.spotify.com/artist/4Rin3fJL3HmFKZsoJ2OzZm) | [Programa](https://open.spotify.com/album/22bH5HAEXK1gBETj87xxXm) | 2:26 |
 | 59 | [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 74 | [Llueve](https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Llueve](https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo) | 2:15 |
 | 75 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 |
 
-Snapshot ID: `MCw1NDc1YzY3YjljOGNkOGE3NjkwN2M0Nzg0YTQ3M2JkYTFhNjhkZWIw`
+Snapshot ID: `MCwxZWNkZjQ0YzFlZTdhNTljMGY0N2YzZjdlODA1YzRhZjVlNDIzY2Y0`

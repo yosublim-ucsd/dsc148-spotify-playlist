@@ -2,9 +2,9 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Billie Eilish
+> The hottest tracks with the freshest hits! Cover: Doja Cat
 
-77 songs - 4 hr 7 min
+78 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-06-15 | 2023-06-23 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-06-15 | 2023-08-11 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-06-15 |  |
+| [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-08-17 |  |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-15 | 2023-07-14 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-15 |  |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 |  |
@@ -77,7 +78,7 @@
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-08-03 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-15 |  |
 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-15 | 2023-06-26 |
-| [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-25 |  |
+| [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-25 | 2023-08-18 |
 | [The Kind of Love We Make](https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:44 | 2023-08-15 |  |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2023-06-15 |  |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-06-15 | 2023-07-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,432 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,455 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 57 | [Lagrima](https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 1:49 |
 | 58 | [Just Feeling Great](https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Just Feeling Great](https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S) | 2:01 |
 | 59 | [Senior Emilio](https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Senior Emilio](https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda) | 4:38 |
-| 60 | [Brigas, Nunca Mais](https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 2:47 |
-| 61 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 |
+| 60 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 |
+| 61 | [Brigas, Nunca Mais](https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 2:47 |
 | 62 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
 | 63 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 |
 | 64 | [Girl](https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX) | [Notis Mavroudis](https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK) | [The Beatles for Classical Guitar](https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 |
 | 75 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 
-Snapshot ID: `MCxiYzliNDM2OWRmZWVmMjIxMDI4ZmU5Y2I4MWQ4ZTA1ODg1M2E4MzA4`
+Snapshot ID: `MCxiMTcyYWU5MGU5ODE1Y2EyODYwYTYxM2NlN2NlODI0MTIyNDk4YjU5`

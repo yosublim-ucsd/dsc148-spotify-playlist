@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 257695,
       "name": "Fe Hetta Tanya",
       "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 195048,
       "name": "Hayaty Msh Tamam",
       "url": "https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg"
@@ -2741,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Zay El Wara2",
+        "url": "https://open.spotify.com/album/0ySeeh7VlH8uItqVKroo34"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0645\u0632",
+          "url": "https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Zay El Wara2",
+      "url": "https://open.spotify.com/track/2J1NzFZ91MgX6Mexv2K6Si"
+    },
+    {
+      "album": {
         "name": "\u0623\u062a\u0639\u062f\u064a \u062d\u062f\u0648\u062f\u064a",
         "url": "https://open.spotify.com/album/6GIKO9KvzuF4njYBJIYNot"
       },
@@ -3164,6 +3182,24 @@
       "duration_ms": 235520,
       "name": "\u0634\u0641\u062a \u0628\u0639\u064a\u0646\u064a\u0627",
       "url": "https://open.spotify.com/track/4aVeUf3RC1VKiqFT2FNyFp"
+    },
+    {
+      "album": {
+        "name": "\u0637\u0645\u0646\u0647\u0627",
+        "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244428,
+      "name": "\u0637\u0645\u0646\u0647\u0627",
+      "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
     },
     {
       "album": {

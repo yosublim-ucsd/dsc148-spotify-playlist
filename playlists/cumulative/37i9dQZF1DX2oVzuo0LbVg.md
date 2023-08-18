@@ -4,13 +4,14 @@
 
 > Pop Anglo para acompañar tus mejores momentos\. Foto: Taylor Swift
 
-158 songs - 8 hr 43 min
+160 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2023-03-10 | 2023-03-25 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-07-21 |  |
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2023-03-10 |  |
+| [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-08-17 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-03-10 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-03-10 |  |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-21 |  |
@@ -20,7 +21,7 @@
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-11 |  |
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2023-05-26 | 2023-08-12 |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2023-03-10 |  |
-| [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2023-03-10 |  |
+| [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2023-03-10 | 2023-08-18 |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-07 | 2023-07-15 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2023-03-10 |  |
 | [Blisters](https://open.spotify.com/track/1ytnxZRMYJ8QsTMBqD9GXb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Greatest Thing I’ll Never Learn](https://open.spotify.com/album/4wdBZxpMVkbKFpHZPcsV5S) | 3:21 | 2023-05-26 | 2023-07-15 |
@@ -104,6 +105,7 @@
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-04-21 | 2023-07-08 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2023-03-10 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2023-03-10 |  |
+| [Not Fair](https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ) | 2:43 | 2023-08-17 |  |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 | 2023-03-10 |  |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2023-03-10 |  |
 | [On Our Own](https://open.spotify.com/track/2eYY70bP48YwOO0986dJPx) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60) | [On Our Own](https://open.spotify.com/album/6fE9mQ6l90vC9wfUnrTIuE) | 2:45 | 2023-03-10 |  |
@@ -141,7 +143,7 @@
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2023-03-10 |  |
 | [Superficial](https://open.spotify.com/track/6xShwxe9hzJuKOsjVyoSSQ) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Superficial](https://open.spotify.com/album/5N9KBw4M6P9lRPYrzQJ8XF) | 2:26 | 2023-04-07 | 2023-04-22 |
 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 | 2023-03-10 | 2023-04-22 |
-| [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2023-03-10 |  |
+| [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2023-03-10 | 2023-08-18 |
 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 | 2023-03-10 |  |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2023-03-10 |  |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2023-03-10 |  |

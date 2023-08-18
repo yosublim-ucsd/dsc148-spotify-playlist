@@ -4,12 +4,13 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-133 songs - 11 hr 59 min
+134 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2021](https://open.spotify.com/track/2dgbGjFtZzUMq6iyDC39a6) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [2021](https://open.spotify.com/album/6m2Lew9fzZPIXJfjsHKsQG) | 2:08 | 2022-06-01 |  |
 | [9](https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [Lycka till med musiken](https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL) | 9:04 | 2022-06-01 | 2023-08-15 |
+| [Adam](https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Adam](https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw) | 8:18 | 2023-08-16 |  |
 | [Almost Romance](https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [No City, No Tree, No Lake](https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C) | 2:35 | 2022-06-01 |  |
 | [And They All Came Marching Out Of The Woods](https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Gefion](https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT) | 4:30 | 2022-06-01 |  |
 | [Anthem](https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:16 | 2022-06-01 |  |
@@ -58,7 +59,7 @@
 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 | 2022-06-01 |  |
 | [Kakonita](https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Solid Ether](https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R) | 4:59 | 2022-06-01 |  |
 | [Kingdom of Coldness](https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Kingdom of Coldness](https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY) | 7:37 | 2023-01-26 |  |
-| [Krystall Revisited](https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Krystall Revisited](https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde) | 6:27 | 2022-06-01 |  |
+| [Krystall Revisited](https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Krystall Revisited](https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde) | 6:27 | 2022-06-01 | 2023-08-18 |
 | [Kun Lun](https://open.spotify.com/track/1klS4kVAikIo3w4AxKLBSl) | [Fredrik Ljungkvist and the Yun Kan 5](https://open.spotify.com/artist/3PeIu9Iid94d06zGuE99xa) | [Badaling](https://open.spotify.com/album/5FLgahjtdZpbijATZ7IwUZ) | 5:30 | 2022-06-01 | 2022-09-17 |
 | [Landkjenning](https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Landkjenning](https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG) | 3:35 | 2023-06-22 |  |
 | [Langsam](https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [Kurzsam and Fulger](https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15) | 6:13 | 2022-06-01 | 2023-08-05 |

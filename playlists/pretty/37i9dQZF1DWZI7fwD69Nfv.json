@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho. ",
-  "num_followers": 98778,
+  "num_followers": 98875,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjQzOGFkZGE1OTA4MDRkNGNhM2NjMmM5NWIwOGIwYWQ0MmUyMmFj",
+  "snapshot_id": "MCwxMDg5MGFiYjc4Y2RlOWQ1OWM2ZGU0NDRjNTdlYzM4MGNjOGY4NWVk",
   "tracks": [
     {
       "added_at": "2023-04-10 22:34:37",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -763,6 +763,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -827,22 +843,6 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -943,6 +959,38 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -967,54 +1015,6 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
         "name": "Intimidades",
         "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -1059,6 +1059,22 @@
       "duration_ms": 167514,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
-        "name": "Solo Un Dia\u2026",
-        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
-      },
-      "artists": [
-        {
-          "name": "Adan Romero",
-          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Solo Un Dia (Ahora Te Amo)",
-      "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "Solo Un Dia\u2026",
+        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
+      },
+      "artists": [
+        {
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Solo Un Dia (Ahora Te Amo)",
+      "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -1395,6 +1395,22 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
+        "name": "Pedazo De Tonto",
+        "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "Pedazo De Tonto",
+      "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 235821,
       "name": "Spanish Girl",
       "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
-        "name": "Pedazo De Tonto",
-        "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "Pedazo De Tonto",
-      "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
+        "name": "Borrachera Con los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
         "name": "Antolog\u00eda, Vol. 1",
         "url": "https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
-        "name": "Borrachera Con los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2023-04-10 22:34:37",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-04-10 22:34:37",
       "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
+    },
+    {
+      "added_at": "2023-04-10 22:34:37",
+      "album": {
         "name": "Live Selena",
         "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
-    },
-    {
-      "added_at": "2023-04-10 22:34:37",
-      "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
     },
     {
       "added_at": "2023-04-10 22:34:37",

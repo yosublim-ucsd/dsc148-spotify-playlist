@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: FISHER & Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,058,508 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,058,775 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 28 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 |
 | 29 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
 | 30 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:53 |
-| 31 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
+| 31 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 32 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 |
 | 33 | [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 |
 | 34 | [Pose](https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
 | 75 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 
-Snapshot ID: `MCwyNTQxMzc4MTk4NDY5ZWI3ODgzZWEyNWRmNDc2MjYyOTFiYTJjYmNh`
+Snapshot ID: `MCxmNjgzNmMxYWM1ZTE0YjRmM2ZjMTNkOTZlYThhNTc0YWYyZDY2Nzc2`

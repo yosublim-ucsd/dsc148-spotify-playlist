@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > la primavera non è una stagione, è un mood 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,764 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,769 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
-| 2 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 |
+| 1 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 |
+| 2 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 3 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 4 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 | 5 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 56 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 |
 | 57 | [Spirits](https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 3:23 |
 | 58 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
-| 59 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
-| 60 | [Blindsided](https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:50 |
-| 61 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
+| 59 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
+| 60 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
+| 61 | [Blindsided](https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:50 |
 | 62 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
 | 63 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 |
 | 64 | [Up&Up](https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 6:45 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 66 | [Little Bit of Love](https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:46 |
 | 67 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 68 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
-| 69 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
-| 70 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 |
+| 69 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 |
+| 70 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
 | 71 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 | 72 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
 | 73 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 99 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 100 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 |
 
-Snapshot ID: `MCxkNzM0MmJkNmJjMGU0ZmRkZTFhNjc4MDAzOWMxY2M3NzhlZmRkN2I1`
+Snapshot ID: `MCw3ZTE0OTBlNDNiMGJkMDUzZTBhMGQ2ZTkyMDA2MDU3N2YxMjhiYzRj`

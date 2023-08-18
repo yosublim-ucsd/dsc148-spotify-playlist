@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,913 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,940 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,24 +59,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 49 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 50 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 |
 | 51 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
-| 52 | [Efeito](https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Efeito](https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO) | 2:31 |
-| 53 | [Jura](https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Jura](https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif) | 2:52 |
-| 54 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
-| 55 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 56 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
-| 57 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
+| 52 | [Jura](https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Jura](https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif) | 2:52 |
+| 53 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
+| 54 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
+| 55 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
+| 56 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
+| 57 | [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 |
 | 58 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
-| 59 | [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 |
+| 59 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 60 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 61 | [Low Battery](https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Low Battery](https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov) | 2:33 |
-| 62 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
-| 63 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
-| 64 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 |
-| 65 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
-| 66 | [Voei](https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy) | [Curly](https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er) | [Voei](https://open.spotify.com/album/4PrPoQtU1ixXHvFUAnjnFf) | 2:44 |
-| 67 | [Alter Ego](https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Alter Ego](https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY) | 2:21 |
-| 68 | [Quero\-te a Ti](https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw) | [FdAN](https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3) | [Quero\-te a Ti](https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW) | 2:45 |
-| 69 | [Conexões](https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Conexões](https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB) | 3:33 |
-| 70 | [Só olho para ti](https://open.spotify.com/track/7aqz6k0m8jUth3c95Y4ALZ) | [KSOLD](https://open.spotify.com/artist/54uMKld8qCEiU2vvUjxWSS) | [Só olho para ti](https://open.spotify.com/album/5Db4FLME5HlDzslgwcOuHV) | 2:04 |
+| 61 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
+| 62 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
+| 63 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 |
+| 64 | [Tudo Se Repete](https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su) | [Miguel](https://open.spotify.com/artist/7a4kyJ95ewEhOmBeDFH5Qz) | [Tudo Se Repete](https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe) | 3:06 |
+| 65 | [Ohhh](https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Ohhh](https://open.spotify.com/album/3yRusfv9KZ0EFI2HWpO77p) | 3:38 |
+| 66 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 |
+| 67 | [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 |
+| 68 | [Não Liga Pra Mim](https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Não Liga Pra Mim](https://open.spotify.com/album/6DQkKTTgkyn0vajNSZTwer) | 2:45 |
+| 69 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
+| 70 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 |
 
-Snapshot ID: `MCw1MjZlNzJhMTc3MzJmZDNhMmU0ZmRhNjZmNjhjY2JiNWU2YzFkY2Ni`
+Snapshot ID: `MCxkYmYxZjFjNjVlZmFiNzhjZjc1MTM5YmJkYTE2ZDVlMDM1ODVlMTEw`

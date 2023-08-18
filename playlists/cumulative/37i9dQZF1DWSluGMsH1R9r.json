@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Bird of Passage",
+        "url": "https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO"
+      },
+      "artists": [
+        {
+          "name": "Carmelito",
+          "url": "https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127313,
+      "name": "Bird of Passage",
+      "url": "https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN"
+    },
+    {
+      "album": {
         "name": "Black coal of dream",
         "url": "https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4"
       },
@@ -3805,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "Ing\u00e9nue",
+        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
+      },
+      "artists": [
+        {
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147639,
+      "name": "Ing\u00e9nue",
+      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
+    },
+    {
+      "album": {
         "name": "Inmersion",
         "url": "https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1"
       },
@@ -5418,7 +5454,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 188500,
       "name": "Minute By Minute",
       "url": "https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr"
@@ -6768,7 +6804,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 139977,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa"
@@ -8633,6 +8669,24 @@
     },
     {
       "album": {
+        "name": "The Might",
+        "url": "https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv"
+      },
+      "artists": [
+        {
+          "name": "Freya R\u00e4\u00e4f",
+          "url": "https://open.spotify.com/artist/25K3sG1vlM4RnpPiWHHIzn"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "The Might",
+      "url": "https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I"
+    },
+    {
+      "album": {
         "name": "The Moon Tells Me a Secret",
         "url": "https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M"
       },
@@ -9706,7 +9760,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 162729,
       "name": "Westwood",
       "url": "https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg"

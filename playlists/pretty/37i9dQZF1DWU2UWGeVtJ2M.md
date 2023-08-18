@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,904 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,970 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 31 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
 | 32 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 33 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 |
-| 34 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
-| 35 | [Where Were You In The Morning?](https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:20 |
+| 34 | [Where Were You In The Morning?](https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:20 |
+| 35 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 36 | [Grateful](https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Grateful](https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs) | 3:05 |
 | 37 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 38 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 43 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 |
 | 44 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 |
 | 45 | [Live or Die](https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Live or Die](https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72) | 3:14 |
-| 46 | [Breakup Season](https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season](https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY) | 3:12 |
-| 47 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 |
+| 46 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 |
+| 47 | [Breakup Season](https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season](https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY) | 3:12 |
 | 48 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 49 | [daydreams](https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:35 |
 | 50 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 61 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
 | 62 | [What About Me \(feat\. Sosamann\)](https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:36 |
 | 63 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 |
-| 64 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
-| 65 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
+| 64 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
+| 65 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 66 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 67 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 68 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 88 | [Real](https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Real](https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG) | 2:43 |
 | 89 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 |
 | 90 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
-| 91 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 |
-| 92 | [Heat](https://open.spotify.com/track/7hn5uXhjeHwGWbqCPdBtwY) | [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [Heat](https://open.spotify.com/album/6NQYvAcFnLvL3c7dk0HngW) | 3:10 |
+| 91 | [Heat](https://open.spotify.com/track/7hn5uXhjeHwGWbqCPdBtwY) | [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [Heat](https://open.spotify.com/album/6NQYvAcFnLvL3c7dk0HngW) | 3:10 |
+| 92 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 |
 | 93 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
 | 94 | [Seventeen](https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Seventeen](https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd) | 4:25 |
 | 95 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
 | 100 | [Oceansize](https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:43 |
 
-Snapshot ID: `MCw1ZDgzODUwZTIxM2U5MWMzYzZmNDBhZWQxZWJjOTVmMTM4NWU1ZWZl`
+Snapshot ID: `MCxkYzI1YzQ3Yzc4NWRlNTA1MDA2ODAwZjI0NDNjMmJlNTBjNzljZTA1`

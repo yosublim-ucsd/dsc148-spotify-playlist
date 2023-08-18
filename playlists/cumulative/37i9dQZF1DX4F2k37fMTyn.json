@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: KAROL G",
+  "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Anitta\n",
   "name": "Girl On Fire",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -246,6 +246,24 @@
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/5R8lOiAXEKj6IS1wJROpr7"
     },
     {
       "album": {
@@ -690,7 +708,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
@@ -770,6 +788,32 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "album": {
+        "name": "Coming Your Way (with Anne-Marie & Becky G)",
+        "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145122,
+      "name": "Coming Your Way (with Anne-Marie & Becky G)",
+      "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
     },
     {
       "album": {
@@ -860,7 +904,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 176730,
       "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
@@ -918,7 +962,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 174173,
       "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
       "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
@@ -998,7 +1042,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -1786,7 +1830,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 147596,
       "name": "Me & Me",
       "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
@@ -1928,6 +1972,28 @@
       "duration_ms": 171622,
       "name": "nice 2 me",
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
+    },
+    {
+      "album": {
+        "name": "No Muse",
+        "url": "https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC"
+      },
+      "artists": [
+        {
+          "name": "AFSHEEN",
+          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
+        },
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135850,
+      "name": "No Muse",
+      "url": "https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk"
     },
     {
       "album": {
@@ -2135,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146234,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
+    },
+    {
+      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -2168,7 +2252,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 272035,
       "name": "Psychedelic Switch",
       "url": "https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX"
@@ -2194,6 +2278,24 @@
       "duration_ms": 162666,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169885,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22"
     },
     {
       "album": {
@@ -2676,7 +2778,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 202706,
       "name": "Super Star",
       "url": "https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE"
@@ -3013,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+    },
+    {
+      "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
       },
@@ -3118,7 +3238,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 128710,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
@@ -3220,7 +3340,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
@@ -3282,7 +3402,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 199266,
       "name": "\u7dda\u9999\u82b1\u706b - feat. \u5e7e\u7530\u308a\u3089",
       "url": "https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ"

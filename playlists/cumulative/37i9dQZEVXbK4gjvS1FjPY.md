@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-924 songs - 2 day 5 hr 14 min
+925 songs - 2 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2023-06-20 | 2023-06-25 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-01 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
-| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-08-17 |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 |  |
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2021-03-27\* | 2021-04-01 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-27\* | 2021-04-04 |
 | [Foolish One \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:11 | 2023-07-08 | 2023-07-14 |
@@ -337,7 +337,7 @@
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-07-01 | 2021-07-04 |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-12 |
 | [Here With Me](https://open.spotify.com/track/0xyHxzJBnU9xSB3i4AACBw) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Pride Hits 2023](https://open.spotify.com/album/0SR9GVUhtfNMNhTaH49F9C) | 4:02 | 2023-06-14 | 2023-06-16 |
-| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-31 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-31 | 2023-08-18 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-17 | 2023-06-01 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-07-02 | 2022-04-06 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-31 | 2023-02-04 |
@@ -492,7 +492,7 @@
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-01-11 | 2023-02-16 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-25 | 2023-04-02 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-13 |
-| [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 | 2023-06-03 |  |
+| [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 | 2023-06-03 | 2023-08-18 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-04-25 |
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-12-03 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-28 | 2022-09-09 |
@@ -585,6 +585,7 @@
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-21 |
 | [Over Me](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) | [Overdose](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:12 | 2023-04-08 | 2023-04-12 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-14 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-17 |  |
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-02-12 | 2023-02-18 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-07 |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2023-06-20 | 2023-06-25 |

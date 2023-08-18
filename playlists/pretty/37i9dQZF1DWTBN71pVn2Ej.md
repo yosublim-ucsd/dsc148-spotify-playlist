@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,418 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,483 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 17 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
 | 18 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
 | 19 | [Kill the Moth](https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Kill the Moth](https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS) | 2:21 |
-| 20 | [Dark Sky](https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Dark Sky](https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3) | 3:11 |
+| 20 | [Dark Sky](https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:11 |
 | 21 | [Sink Or Swim](https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Sink Or Swim](https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal) | 2:47 |
 | 22 | [Never Fucked Up Once](https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:20 |
 | 23 | [Done](https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Nothing's Stopping Me Now](https://open.spotify.com/track/4UjQm1Qfdjh4NXdisHSuve) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Nothing's Stopping Me Now](https://open.spotify.com/album/7KwlS3OCShHi4ArDNFyyRf) | 3:06 |
 | 50 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 |
 
-Snapshot ID: `MCw4OTNiNjVkNTMyMDliMzkzMGZiMWVhNTU5ZDkyZDc0YTQ1YmQyZGIw`
+Snapshot ID: `MCxkYjZiZmZjZTM5ZmQzMmI0ZWJmYjg2NDEyNDNiNTA2ZWZlNTdkZTQy`

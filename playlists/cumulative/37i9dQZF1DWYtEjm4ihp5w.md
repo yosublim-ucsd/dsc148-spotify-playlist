@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
 
-146 songs - 7 hr 45 min
+148 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-14 | 2023-07-21 |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 |  |
 | [GEL](https://open.spotify.com/track/58dy49Z54lreezffBIugSd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [GEL](https://open.spotify.com/album/4clLEBezykev9vyaAlqrbB) | 2:51 | 2022-11-15 | 2022-11-24 |
+| [Ghi Lmachakil](https://open.spotify.com/track/1QVsVIfgVf7L2AdfkGP9d4) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [PHENOMENAL](https://open.spotify.com/album/3lV8FV4uYEP0y0yH8fzK6m) | 3:20 | 2023-08-17 |  |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/4MXfLQoPe89uPqVd7NApfn) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:38 | 2023-01-06 | 2023-02-12 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-11-14 | 2023-01-06 |
 | [Gova](https://open.spotify.com/track/2poCHmrHxB704EPoQ1GdcU) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gova](https://open.spotify.com/album/1eSWpdKHSupOJeAtTGKUul) | 3:42 | 2022-11-14 | 2023-04-09 |
@@ -122,6 +123,7 @@
 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 | 2022-11-14 | 2023-07-14 |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 |  |
 | [Sociopath](https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Sociopath](https://open.spotify.com/album/7bHaIDfBfqYkEhy361w3yB) | 3:28 | 2022-11-25 | 2023-03-03 |
+| [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 | 2023-08-17 |  |
 | [SOY MAROCCINO](https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [SOY MAROCCINO](https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI) | 2:18 | 2022-12-06 | 2022-12-25 |
 | [Sparadra](https://open.spotify.com/track/1ybqgwCcCt5kztLdVFFGlC) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/1Gd7I1x7td1pLFS0p8IIG1) | 2:13 | 2023-03-29 | 2023-06-16 |
 | [Sparadra](https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:13 | 2022-11-14 | 2023-04-01 |
@@ -131,7 +133,7 @@
 | [Sucré Salé](https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS) | 2:20 | 2022-11-14 | 2023-04-03 |
 | [Sucré Salé](https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/75mFVbvIfN96IFsX2TbJvT) | 2:20 | 2023-04-03 | 2023-08-11 |
 | [SUPER NANA](https://open.spotify.com/track/5lNiW5yNPQnjWe9CHAMhoe) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [SUPER NANA](https://open.spotify.com/album/6OctgQC5OPss9hNieHZ2lb) | 2:17 | 2022-11-14 | 2023-02-11 |
-| [Sur la selle](https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Sur la selle](https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY) | 2:48 | 2022-12-13 |  |
+| [Sur la selle](https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Sur la selle](https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY) | 2:48 | 2022-12-13 | 2023-08-18 |
 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-14 | 2023-05-19 |
 | [Taline](https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm) | 2:56 | 2022-11-14 | 2023-04-01 |
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-29 | 2023-07-12 |
@@ -152,7 +154,7 @@
 | [Yeah ho v4](https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Yeah ho v4](https://open.spotify.com/album/2sZqUzLCEM3H4oh1ahKbdI) | 4:49 | 2023-08-12 |  |
 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 | 2022-11-14 | 2023-05-13 |
 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 | 2023-07-28 |  |
-| [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 | 2023-01-26 |  |
+| [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 | 2023-01-26 | 2023-08-18 |
 | [عُمر المُختار](https://open.spotify.com/track/1kTCib48ZJyIp66dgdZS9l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [عُمر المُختار](https://open.spotify.com/album/4zdv7TVPcXeALi2xOPEOtE) | 2:36 | 2022-11-25 | 2023-05-28 |
 
 \*This playlist was first scraped on 2022-11-17. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-135 songs - 8 hr 5 min
+136 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2021-06-15 | 2023-05-19 |
 | [High Drama](https://open.spotify.com/track/1p8FGKTfZMp2aiOBci2JRq) | [Laakso](https://open.spotify.com/artist/4chKPJr2tkdsT0ghHNSUi7) | [My Gods](https://open.spotify.com/album/6gDeHvqMae3KmWyst7LKeF) | 3:11 | 2021-06-15 | 2022-07-28 |
 | [Hitten](https://open.spotify.com/track/54UNpUQpReMOmfoJw9SlJ4) | [Those Dancing Days](https://open.spotify.com/artist/5JTKRNH8lzbZcSvOqZSehS) | [In Our Space Hero Suits](https://open.spotify.com/album/1iIgApla4V6CAiqJAAJpZx) | 3:32 | 2021-06-15 | 2022-07-29 |
-| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2021-06-15 |  |
+| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2021-06-15 | 2023-08-18 |
+| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 | 2021-06-15 |  |
 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 | 2021-06-15 |  |
 | [I Surrender \(Bonus Track\)](https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Must Exist](https://open.spotify.com/album/1D3OftGf5JVBPyf7TiqfZ3) | 3:42 | 2021-06-15 | 2022-07-29 |
 | [I Will Always Be Your Soldier](https://open.spotify.com/track/4n0TkiApnLXv1RSk17gOBH) | [Marit Bergman](https://open.spotify.com/artist/1Z8YLeRzSedy0jT5D08pVU) | [Baby Dry Your Eye](https://open.spotify.com/album/64AW9sxYJpSs3b8H5Ny5ae) | 3:50 | 2021-06-15 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,449 likes - 89 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,502 likes - 89 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 65 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
 | 66 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
 | 67 | [Resistencia indígena \- Remaster 2023](https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [SIG RAGGA \(Remaster 2023\)](https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy) | 5:08 |
-| 68 | [Señorita](https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E) | [Lumumba Oficial](https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Raices y Cultura](https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx) | 4:41 |
-| 69 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
+| 68 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
+| 69 | [Señorita](https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E) | [Lumumba Oficial](https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Raices y Cultura](https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx) | 4:41 |
 | 70 | [La Tierra del Desencanto](https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc) | [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [La Tierra del Desencanto](https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn) | 4:09 |
 | 71 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 72 | [No Mires Atras](https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 4:20 |
-| 73 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
+| 73 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 74 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 |
-| 75 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
+| 75 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
 | 76 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
 | 77 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
 | 78 | [La Pipa](https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Sergio Colombo Presenta el Natty Combo](https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s) | 5:49 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 89 | [Mi Dulce Amor](https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC) | 3:09 |
 
-Snapshot ID: `MCxjNmY5YmY1ODcyODYzYjIwODlmMzM5YjhlYzMxYjRiYzkxMDc3YTA2`
+Snapshot ID: `MCxlYThiY2VjMzZhYmVjMTUzMGQyY2RmMjc5NDM0MjlkZDhkZWY4NTg1`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:0t9dGS12PMZmiJiZa9vpyk\">DJ Sliink</a>'s favorite tracks. Updated regularly. Curated by DJ Sliink. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 19980,
+  "num_followers": 20004,
   "original_name": "DJ Sliink's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWVmMmM4YmE5YWQ4OWQ3ZTU1NmMxOGQxMDU2YTc0NWJjYmRlYTEz",
+  "snapshot_id": "MCwyODNhNzY0YmViODgyNjg3NTllMWYzNTU3MTgxOWQ4Nzg0ZjY5NTc3",
   "tracks": [
     {
       "added_at": "2023-04-26 21:31:59",
@@ -67,6 +67,26 @@
       "duration_ms": 158400,
       "name": "Millions - Jumbo Sounds Mix",
       "url": "https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q"
+    },
+    {
+      "added_at": "2023-04-26 21:31:59",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a Liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2023-04-26 21:31:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,932 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,134 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 46 | [Overcome \- Safari Riot Remix](https://open.spotify.com/track/5THOIfDsTT1EQBQSlPB8SK) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc), [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:15 |
 | 47 | [Lights](https://open.spotify.com/track/1dutX7b1fabgcMBZzWJAvw) | [Catalynx](https://open.spotify.com/artist/4cPEmrosnBbtt7XEuOsDxC) | [Galaxies EP](https://open.spotify.com/album/4V4byG2XaWjyO1tmscCQsu) | 9:39 |
 | 48 | [Parte Di Me](https://open.spotify.com/track/07MUsUQo2YJUGTUJHMtvZJ) | [Son Foc](https://open.spotify.com/artist/6dwBt1srcIiRWrnXnSnZod) | [Battaglia Storica](https://open.spotify.com/album/1ebkDifC3m38ZUTZ6YHjXe) | 2:28 |
-| 49 | [Come to Play](https://open.spotify.com/track/4JW0wko97pint9Q7mGmlVK) | [Andrey Tatarinov](https://open.spotify.com/artist/0H6dLr0u8ZG6XgtZzbeBUX), [Nathan Bodiker](https://open.spotify.com/artist/1w3hZYAkeJgtpR9jf5PFJw), [Ty Frankel](https://open.spotify.com/artist/4DBLbQhhkjakBkjLK6qKbL) | [Supernatural Electro](https://open.spotify.com/album/5onl1JGIiTItlMfu1uFr8R) | 2:16 |
+| 49 | [Come to Play](https://open.spotify.com/track/4JW0wko97pint9Q7mGmlVK) | [Ty Frankel](https://open.spotify.com/artist/4DBLbQhhkjakBkjLK6qKbL), [Andrey Tatarinov](https://open.spotify.com/artist/0H6dLr0u8ZG6XgtZzbeBUX), [Nathan Bodiker](https://open.spotify.com/artist/1w3hZYAkeJgtpR9jf5PFJw) | [Supernatural Electro](https://open.spotify.com/album/5onl1JGIiTItlMfu1uFr8R) | 2:16 |
 | 50 | [It Takes A Fool To Remain Sane](https://open.spotify.com/track/5S8EZuiSNFR2N5eG58oISQ) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [We Are The Ark](https://open.spotify.com/album/4zvEPDfNKoC15SoNOAEkBR) | 3:56 |
 | 51 | [Remember](https://open.spotify.com/track/4vJXbym2xwq68Ip4uGP1sy) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Omar Covers](https://open.spotify.com/album/3VKqWgbccERmvm6fH3iIEC) | 2:56 |
 | 52 | [I Heard That Beat Before](https://open.spotify.com/track/60ajhZmRPuzmH9jnayGu5Z) | [Marc Ferrari](https://open.spotify.com/artist/7FYH7enU7w5FUO1uxI9Gmp), [Michael McGregor](https://open.spotify.com/artist/6BndouHJESYwXzhP6y7BkO) | [Dance 5](https://open.spotify.com/album/1ziixXqMWbg91tA9pvL0dA) | 3:02 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 58 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MCxkNWU1ZGQzNzI5ZjZiODdkMzNlYjRmYWI1NTdkYzRiMjE4YTIzYzFi`
+Snapshot ID: `MCwwOGUzNTQ2ZTZjZjc2NmNhZjA4Y2MxODdiZmZhZGQwZTgwNGY1NGYw`

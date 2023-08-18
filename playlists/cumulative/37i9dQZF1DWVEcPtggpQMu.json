@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=ZBDdjm6qTJyZaePWEZcYeA\">K.Keed</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP?si=JqRvBZlfTaiiiZI0Li2fpA\">PatrickxxLee</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -5461,6 +5461,32 @@
     },
     {
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/3BFycHsaqsT47qV7noTMXI"
+      },
+      "artists": [
+        {
+          "name": "PatricKxxLee",
+          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/52Lx0tQv8sfjDbeXbXSGJE"
+    },
+    {
+      "album": {
         "name": "A Pity Party",
         "url": "https://open.spotify.com/album/1WKfM5C56Xlha4DAnn0xB7"
       },
@@ -7862,7 +7888,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 131768,
       "name": "POP IT",
       "url": "https://open.spotify.com/track/5ZT7FegY0IJQwgBQQtFsHo"
@@ -8152,6 +8178,32 @@
       "duration_ms": 254896,
       "name": "Ragga Ragga",
       "url": "https://open.spotify.com/track/5kkZ8HEDP5GlicN4aprvwn"
+    },
+    {
+      "album": {
+        "name": "Rainy Days",
+        "url": "https://open.spotify.com/album/78Oxrkz2nQyEDh7V7Mc4TR"
+      },
+      "artists": [
+        {
+          "name": "Soul T iDyan",
+          "url": "https://open.spotify.com/artist/6OH67mahkAZ1jIsFbwTWHi"
+        },
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "O'Hara",
+          "url": "https://open.spotify.com/artist/75OaJ8EhiBH0aDnuh050WP"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/1bDbFYl5Wlzgkd2Tr4iWqB"
     },
     {
       "album": {
@@ -9202,6 +9254,32 @@
       "duration_ms": 115685,
       "name": "Sistine Chapel",
       "url": "https://open.spotify.com/track/5wbu811arscgby6HcCDe5m"
+    },
+    {
+      "album": {
+        "name": "ROOM 37",
+        "url": "https://open.spotify.com/album/0BPvFN6colgg1nT9P3kbzr"
+      },
+      "artists": [
+        {
+          "name": "PatricKxxLee",
+          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Six",
+      "url": "https://open.spotify.com/track/5fitiEwmfSL7U5fZLF5ilR"
     },
     {
       "album": {
@@ -10790,7 +10868,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 164571,
       "name": "timing (feat. Blxckie)",
       "url": "https://open.spotify.com/track/4vg4ouYt7n6tU5MGrQn695"
@@ -11122,7 +11200,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 210863,
       "name": "Twice",
       "url": "https://open.spotify.com/track/1Po23ny87Sx3gMB9DFqf1B"

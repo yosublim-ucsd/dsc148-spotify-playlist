@@ -35806,7 +35806,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
@@ -37822,6 +37822,24 @@
       "duration_ms": 155993,
       "name": "\u00c0 contresens",
       "url": "https://open.spotify.com/track/0T65sssvGaR9gnpEDiXAWV"
+    },
+    {
+      "album": {
+        "name": "\u00c0 deux (Extrait de la Bande Originale du film \u00ab Les D\u00e9guns 2 \u00bb)",
+        "url": "https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170640,
+      "name": "\u00c0 deux - Extrait de la Bande Originale du film \u00ab Les D\u00e9guns 2 \u00bb",
+      "url": "https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq"
     },
     {
       "album": {

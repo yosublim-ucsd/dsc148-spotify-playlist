@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,021 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,069 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 8 | [Someone That Loves You](https://open.spotify.com/track/2a5Ml671R56tzRB0WMaCfC) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:04 |
 | 9 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
 | 10 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
-| 11 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
-| 12 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 |
+| 11 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 |
+| 12 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
 | 13 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
 | 14 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 15 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 46 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 47 | [Some Nights](https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:37 |
 | 48 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
-| 49 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 |
+| 49 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
 | 50 | [Sutphin Boulevard](https://open.spotify.com/track/2NtqI3Ylig7bB36esIwYuE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 3:34 |
-| 51 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
+| 51 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 |
 | 52 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
 | 53 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 54 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 99 | [Sun](https://open.spotify.com/track/0fdaCKYxdhL0SAlNM2yZq2) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv) | 3:07 |
 | 100 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 |
 
-Snapshot ID: `MCw1NWNhYjE5MWIwMmRiZGQwN2U0NDdlMTA2ZTBhZmMxNTk2N2VmOTY5`
+Snapshot ID: `MCw3NGJhZWJiNDg3YTNmY2UwZGMwZGFhMDhiYTU0MjU0MDI5NWRhNGI4`

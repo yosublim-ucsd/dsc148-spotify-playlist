@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Sun Cell. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: WHYLUCAS. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -962,7 +962,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 196607,
       "name": "Bossa Trippin'",
       "url": "https://open.spotify.com/track/79pGOUU4NvIMt47CCaj7V0"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 214401,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0Ap3cJ4QMTgqhXDzH2zd5d"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 189333,
       "name": "CHASE",
       "url": "https://open.spotify.com/track/3vwpWdcA1WgcYeosN1qOE3"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 192000,
       "name": "GET THIS RIGHT",
       "url": "https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p"
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 116033,
       "name": "Keeping Love",
       "url": "https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX"
@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 178085,
       "name": "lake buena vista",
       "url": "https://open.spotify.com/track/5OGCgTXFPqhPG4fHGBWImi"
@@ -4635,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "Lonely People",
+        "url": "https://open.spotify.com/album/3FNvjChh58SNEviGimHWRd"
+      },
+      "artists": [
+        {
+          "name": "WHYLUCAS",
+          "url": "https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205405,
+      "name": "Lonely People",
+      "url": "https://open.spotify.com/track/73jttJCbEqljrZewmisf7D"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/0nFg4crU27OsnuSNdV23vU"
       },
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 241600,
       "name": "love... at first sight?",
       "url": "https://open.spotify.com/track/6VeYLbQeExx8mVcLM4g2Lk"
@@ -5981,6 +5999,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Guy",
+        "url": "https://open.spotify.com/album/7ti9szwek9LxRCucMU5Qr0"
+      },
+      "artists": [
+        {
+          "name": "Tasneem Bolhassan",
+          "url": "https://open.spotify.com/artist/19f5yf8YgG07oyEKNjuauc"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Ordinary Guy",
+      "url": "https://open.spotify.com/track/5nkY579qWS3WxPr1dbu3Hh"
+    },
+    {
+      "album": {
         "name": "Orion's Apartment",
         "url": "https://open.spotify.com/album/640b2S6el0Q65iV5Odg66s"
       },
@@ -6115,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/4QTIboaOqBewzLLS6pES9Y"
+      },
+      "artists": [
+        {
+          "name": "Reiklytokyo",
+          "url": "https://open.spotify.com/artist/3CoxnqdIPx4y03sqIcXeFx"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152711,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/4x5lQxwFxtcw3JsGaV2MCy"
+    },
+    {
+      "album": {
         "name": "party",
         "url": "https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW"
       },
@@ -6159,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "Party Trick",
+        "url": "https://open.spotify.com/album/4r8nfQcmlG5bZhe0c197m2"
+      },
+      "artists": [
+        {
+          "name": "aeriqah",
+          "url": "https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256465,
+      "name": "Party Trick",
+      "url": "https://open.spotify.com/track/0slTP2DqrsL1bEefemJOjv"
+    },
+    {
+      "album": {
         "name": "patterns",
         "url": "https://open.spotify.com/album/0tNRfOMisa2o4GRlRXQ92H"
       },
@@ -6174,6 +6246,24 @@
       "duration_ms": 248785,
       "name": "patterns",
       "url": "https://open.spotify.com/track/3tDY2gPHumQcyQc98Rnno5"
+    },
+    {
+      "album": {
+        "name": "Pay Me a Visit",
+        "url": "https://open.spotify.com/album/5rOziaBMxJjON2h5uu9r2I"
+      },
+      "artists": [
+        {
+          "name": "Ishbel Warifa",
+          "url": "https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300810,
+      "name": "Pay Me a Visit",
+      "url": "https://open.spotify.com/track/3RkI5G0jECSB1NIa0KXISA"
     },
     {
       "album": {
@@ -6568,7 +6658,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 220942,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX"
@@ -6778,6 +6868,24 @@
       "duration_ms": 168510,
       "name": "SAFETY FIRST",
       "url": "https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO"
+    },
+    {
+      "album": {
+        "name": "SAIL",
+        "url": "https://open.spotify.com/album/4nenOxLrMqG66v4rcdLVQn"
+      },
+      "artists": [
+        {
+          "name": "Chriskris",
+          "url": "https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "SAIL",
+      "url": "https://open.spotify.com/track/5gIF5zxOzuctbpqXoaVXzj"
     },
     {
       "album": {
@@ -8023,6 +8131,28 @@
     },
     {
       "album": {
+        "name": "Thirty Whateva",
+        "url": "https://open.spotify.com/album/4zmOHIt7k7IsPBGkj6Bf3J"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Nose",
+          "url": "https://open.spotify.com/artist/01Fii9vuxgK2KhdPlJI9Jz"
+        },
+        {
+          "name": "Man Hoi",
+          "url": "https://open.spotify.com/artist/3smrhx3Did8YKfuez2L3PV"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Thirty Whateva",
+      "url": "https://open.spotify.com/track/0ZpwtjknPvpruNWd7sLw4e"
+    },
+    {
+      "album": {
         "name": "THUNDER N\u2019 LIGHTNING",
         "url": "https://open.spotify.com/album/41M8bkeuc5nEh3PrqtyRp5"
       },
@@ -8038,6 +8168,28 @@
       "duration_ms": 221487,
       "name": "THUNDER N\u2019 LIGHTNING",
       "url": "https://open.spotify.com/track/0MyDQQ7v5WMb7PaQ0boFkL"
+    },
+    {
+      "album": {
+        "name": "Till Dawn",
+        "url": "https://open.spotify.com/album/0DyAmCJeFwGwwOy5FJLq0R"
+      },
+      "artists": [
+        {
+          "name": "Micki Jayy",
+          "url": "https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ"
+        },
+        {
+          "name": "Shahrizal",
+          "url": "https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196433,
+      "name": "Till Dawn",
+      "url": "https://open.spotify.com/track/4J1buNjEODX0jrPpXoTVNn"
     },
     {
       "album": {
@@ -8522,7 +8674,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 210000,
       "name": "VISITOR",
       "url": "https://open.spotify.com/track/7mx5vfxsKjRv22PY7zq5Rk"
@@ -8602,7 +8754,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 216428,
       "name": "Waiting All Day",
       "url": "https://open.spotify.com/track/5hFydN9mm1cqvumco2tPM5"
@@ -9078,6 +9230,28 @@
       "duration_ms": 216000,
       "name": "WHO YOU",
       "url": "https://open.spotify.com/track/0XAGzsOMJpmDUrXJbCf88z"
+    },
+    {
+      "album": {
+        "name": "Why Did You Change",
+        "url": "https://open.spotify.com/album/3GLA56z0ROIWs5KaKGMTNa"
+      },
+      "artists": [
+        {
+          "name": "Brielle Kaga",
+          "url": "https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu"
+        },
+        {
+          "name": "Leomi",
+          "url": "https://open.spotify.com/artist/6ngSry1P8aRuy3dQaw4BSh"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "Why Did You Change",
+      "url": "https://open.spotify.com/track/1wFnzv3QUuECjrtksB617J"
     },
     {
       "album": {

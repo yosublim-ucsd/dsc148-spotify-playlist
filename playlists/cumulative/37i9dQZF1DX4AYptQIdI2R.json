@@ -168,6 +168,24 @@
     {
       "album": {
         "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/2KrRof53R397vP2TROZO6N"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "A",
+      "url": "https://open.spotify.com/track/2KAsxwOMeRSsLy6RcP9PWl"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
         "url": "https://open.spotify.com/album/71Wa5uY1X8SPiAzpoVzS04"
       },
       "artists": [
@@ -200,24 +218,6 @@
       "duration_ms": 182613,
       "name": "A",
       "url": "https://open.spotify.com/track/1dHGpyLRqLnBqyWzlfvyFh"
-    },
-    {
-      "album": {
-        "name": "GOT\u2661",
-        "url": "https://open.spotify.com/album/2KrRof53R397vP2TROZO6N"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "date_added": "2022-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182613,
-      "name": "A",
-      "url": "https://open.spotify.com/track/2KAsxwOMeRSsLy6RcP9PWl"
     },
     {
       "album": {

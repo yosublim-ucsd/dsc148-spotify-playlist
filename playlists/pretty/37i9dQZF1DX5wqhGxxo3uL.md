@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 
 > hairbrush as a microphone type songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,692 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,913 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 29 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 30 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 31 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
-| 32 | [Pink](https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:23 |
+| 32 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 |
 | 33 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
-| 34 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 |
+| 34 | [Pink](https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:23 |
 | 35 | [Save Your Tears \(Remix\) \(with Ariana Grande\) \- Bonus Track](https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [After Hours \(Deluxe\)](https://open.spotify.com/album/4ZyeHIgdujClXSjC2cSqSb) | 3:11 |
 | 36 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
 | 37 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 72 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
 | 73 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 |
 | 74 | [Thumbs](https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:36 |
-| 75 | [Olivia](https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 2:57 |
+| 75 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 
-Snapshot ID: `MCw1NzA3NjkxZTAyNjZmYTBjYzAzNjMwZDViNjQ4NzcxZDdhM2Q5MTIy`
+Snapshot ID: `MCw0YTJhNTIzZDQ1NjRhNjA2NTIzNTc5YzY5MGI4NDM2ZmZiMjhmNTM1`

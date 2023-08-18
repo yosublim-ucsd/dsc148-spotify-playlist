@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,068 likes - 61 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,369 likes - 61 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 16 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
 | 17 | [Me Chama](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 |
 | 18 | [Uns Dias](https://open.spotify.com/track/6l7MxuPoclbfq9bEfk0W2k) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 4:04 |
-| 19 | [Todo Amor Que Houver Nessa Vida](https://open.spotify.com/track/175WlvkHzAeMgD2aXEZsiv) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:16 |
+| 19 | [Todo O Amor Que Houver Nessa Vida](https://open.spotify.com/track/175WlvkHzAeMgD2aXEZsiv) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:16 |
 | 20 | [Família](https://open.spotify.com/track/7MFq7ihwl8ZolUaPCc4sKh) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Titãs \- iCollection](https://open.spotify.com/album/7sH8F9Nh0ud7Q4q4OrmV6A) | 3:33 |
 | 21 | [Nem Luxo Nem Lixo](https://open.spotify.com/track/5Pn7ldcp8uOZmwPJ3rUf7b) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:05 |
 | 22 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 60 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 61 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MCwyNDAxOTEwZGEyMjBmNTg3NTUzMWZmMTg5YzM5NTNjMThkZDIzMTRl`
+Snapshot ID: `MCxmNjExMGRlYTk5ZDJmNmQwZjIxYmRhYmMxZDgzODViYjRlMjljMTA5`

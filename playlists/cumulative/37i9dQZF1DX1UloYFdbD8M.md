@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Job Kurian
 
-104 songs - 7 hr 16 min
+105 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 |  |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 |  |
 | [Ettam Pattu](https://open.spotify.com/track/1Qdtb5KTgYNN5U6eeuw2jA) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:49 | 2023-07-27 |  |
+| [Falling for You](https://open.spotify.com/track/7eKt7ajY0UA5xsVdL2JWVd) | [Niranjan](https://open.spotify.com/artist/01sCIUZlkdLjCuEKOpBlml) | [Falling for You](https://open.spotify.com/album/7N0P2TIIKmoOvoiFRmRXHO) | 2:08 | 2023-08-17 |  |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-12-22 |  |
 | [FLYHIGH](https://open.spotify.com/track/7ityoGyYiTmp1kx67xKpFa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [FLYHIGH \- Malayalam](https://open.spotify.com/album/2RcxDrHSWRep3bFlpkXd2D) | 3:55 | 2023-07-01 | 2023-07-28 |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 |  |

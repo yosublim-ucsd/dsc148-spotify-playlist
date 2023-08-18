@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/taylorrooks/\">Taylor Rooks</a> ",
-  "num_followers": 25,
+  "num_followers": 31,
   "original_name": "Taylor Rook's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTA4NTFkNzUyYTgzM2ZhODg5Y2QyZmM2ZDZjMjFmYmE3NDE0MDY3",
+  "snapshot_id": "MCxmZWRkNjg0OGQ3MmJmMGRkOWFiNTE1YjM3OGU3ODNiZmVkNzMxOWMy",
   "tracks": [
     {
       "added_at": "2023-08-01 18:49:51",
@@ -615,22 +615,18 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "CHERRY SORBET (ft. Sevyn Streeter)",
-        "url": "https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh"
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
       },
       "artists": [
         {
-          "name": "DIXSON",
-          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 186413,
-      "name": "CHERRY SORBET (ft. Sevyn Streeter)",
-      "url": "https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f"
+      "duration_ms": 239316,
+      "name": "Time For Me",
+      "url": "https://open.spotify.com/track/6972gesJzavKyykRcriN0A"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+        "name": "CHERRY SORBET (ft. Sevyn Streeter)",
+        "url": "https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
         }
       ],
-      "duration_ms": 239316,
-      "name": "Time For Me",
-      "url": "https://open.spotify.com/track/6972gesJzavKyykRcriN0A"
+      "duration_ms": 186413,
+      "name": "CHERRY SORBET (ft. Sevyn Streeter)",
+      "url": "https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f"
     },
     {
       "added_at": "2023-08-01 18:49:51",

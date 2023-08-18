@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: Snoh Aalegra
 
-563 songs - 1 day 7 hr 18 min
+564 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Lindsay's Freestyle](https://open.spotify.com/track/0xOnej2rwWRGRAwXFvTaYa) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Lindsay's Freestyle](https://open.spotify.com/album/5qU1eX4515l80GTqll49eV) | 2:56 | 2022-04-22 | 2022-07-27 |
 | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6XemQkX3lgqDC21nNdbdVw) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3WsN9dZsEjTvA1bBQF0nZc) | 2:46 | 2022-04-01 | 2022-04-14 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-04-01 |  |
+| [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2023-08-17 |  |
 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 | 2022-04-01 | 2022-07-29 |
 | [Love is a losing game](https://open.spotify.com/track/2oI1Avedp7KK4Wytv2Dx0O) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Malaika Khadijaa](https://open.spotify.com/artist/6xMconhkZz3GpS44xF6Fd0) | [Love Songs For No One](https://open.spotify.com/album/6o4708T5sd3UIRsvTbyBwe) | 3:00 | 2022-04-01 | 2022-05-05 |
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-06-03 |  |
@@ -534,7 +535,7 @@
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 | 2022-04-01 | 2022-07-29 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-03-11 | 2023-01-06 |
 | [Want You](https://open.spotify.com/track/1N5BQbp8mCUB3W2tEfCdfT) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [L.O.V.E.](https://open.spotify.com/album/05Lf2rOVxRGGJdI3N3F8xi) | 3:11 | 2022-04-01 | 2022-07-29 |
-| [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-03-11 |  |
+| [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-03-11 | 2023-08-18 |
 | [Waves of Blue](https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Waves of Blue](https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD) | 3:28 | 2022-03-11 | 2022-07-29 |
 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 | 2022-06-17 | 2022-08-19 |
 | [We Went Our Own Ways](https://open.spotify.com/track/3S9dLUmwHtG5biX8wb484C) | [Matt Storm](https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ) | [We Went Our Own Ways](https://open.spotify.com/album/2e5MSRRuyl9qJazFIAwrqM) | 3:38 | 2022-04-01 | 2022-04-20 |

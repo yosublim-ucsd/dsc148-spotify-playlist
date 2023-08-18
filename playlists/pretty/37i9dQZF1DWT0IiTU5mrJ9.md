@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0IiTU5mrJ9.md) - [plain]
 
 > Power through your chores with these upbeat tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,074 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,285 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0IiTU5mrJ9.md) - [plain]
 | 61 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 62 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 |
 | 63 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
-| 64 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
-| 65 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
+| 64 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
+| 65 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
 | 66 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
 | 67 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 68 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0IiTU5mrJ9.md) - [plain]
 | 79 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
 | 80 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
 
-Snapshot ID: `MCw2MzUyZDMzOWUwZWE5ZWJmNGEzNTIzMmMzNTU2NDczZGM5ODc0MzQ0`
+Snapshot ID: `MCxmMzBjOWViZGY0YTAwZDI2NTY3NmY1ZTc2NmVlNmI3MTFmOTQwNTUy`

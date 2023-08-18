@@ -768,10 +768,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 234109,
       "name": "Liar",
       "url": "https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE"
+    },
+    {
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4szdNUevCiLlpj5BKdZrFd"
+      },
+      "artists": [
+        {
+          "name": "Boy Bianchi",
+          "url": "https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234109,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4bBqtW6tslUJbzmEIKhjhq"
     },
     {
       "album": {
@@ -1550,6 +1568,24 @@
     {
       "album": {
         "name": "Fractalnoia",
+        "url": "https://open.spotify.com/album/1wlYADby49rptkaWPxVoip"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Onck",
+          "url": "https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211628,
+      "name": "Waarheid",
+      "url": "https://open.spotify.com/track/4EAG6m9bVVbX8d3tAfqlUv"
+    },
+    {
+      "album": {
+        "name": "Fractalnoia",
         "url": "https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq"
       },
       "artists": [
@@ -1560,7 +1596,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 211628,
       "name": "Waarheid",
       "url": "https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp"

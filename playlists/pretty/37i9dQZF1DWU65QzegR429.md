@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,307 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,314 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 10 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 |
 | 11 | [Dream Girl](https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Dream Girl](https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p) | 2:42 |
 | 12 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 |
-| 13 | [Mi Regalo Mas Bonito](https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Mi Regalo Mas Bonito](https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9) | 2:31 |
-| 14 | [Solo $exo](https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Icy Hot](https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG) | 3:09 |
+| 13 | [Solo $exo](https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Icy Hot](https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG) | 3:09 |
+| 14 | [Mi Regalo Mas Bonito](https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Mi Regalo Mas Bonito](https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9) | 2:31 |
 | 15 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 |
 | 16 | [TU ME QUIERES?](https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TU ME QUIERES?](https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB) | 2:45 |
 | 17 | [No Me Rajo](https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [No Me Rajo](https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv) | 2:45 |
 | 18 | [Una Perla En San Juan](https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:36 |
-| 19 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
-| 20 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 |
+| 19 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 |
+| 20 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
 | 21 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 |
 | 22 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj) | 2:55 |
 | 23 | [Chivirika](https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/4en63LsV1rqze6270c9wBn) | 3:30 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 27 | [Rosa Melo](https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Rosa Melo](https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX) | 2:44 |
 | 28 | [Acurrucao](https://open.spotify.com/track/7aOWxZ4KoVg4cKF8x2iiGI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sofia LaSanta](https://open.spotify.com/artist/7FKAgyZsXEwIWvCC9uwRl0) | [Acurrucao](https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s) | 3:06 |
 | 29 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 |
-| 30 | [Dembow Dominicano](https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Dembow Dominicano](https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za) | 2:36 |
+| 30 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 |
 | 31 | [Taka Taka](https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Taka Taka](https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G) | 2:35 |
-| 32 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 |
+| 32 | [Dembow Dominicano](https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Dembow Dominicano](https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za) | 2:36 |
 | 33 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
 | 34 | [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 |
 | 35 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 58 | [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 |
 | 59 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
 
-Snapshot ID: `MCxlMmYyMzlhMTFhNDRhMjI1YjRmZDQ0YjdlODdlMzRmMDJmODFiMDBj`
+Snapshot ID: `MCw4MTBlYTVjMDA1ZjNjM2JiYTA4OWQ0NjE4MDcwNjYwMTM5M2Q0Yzkx`

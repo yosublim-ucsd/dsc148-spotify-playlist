@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 127995,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
@@ -4442,6 +4442,24 @@
       "duration_ms": 211000,
       "name": "Longhope - Edit",
       "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
+    },
+    {
+      "album": {
+        "name": "Looking in the Same Direction",
+        "url": "https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Looking in the Same Direction",
+      "url": "https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi"
     },
     {
       "album": {

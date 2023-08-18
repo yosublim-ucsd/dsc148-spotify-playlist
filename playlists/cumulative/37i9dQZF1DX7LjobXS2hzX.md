@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: David Guetta, Bebe Rexha
 
-280 songs - 14 hr 46 min
+281 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-07-09 | 2022-08-27 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 |  |
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-09 |  |
-| [Ce soir \- j'suis dans ma tête](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 | 2023-05-12 |  |
+| [Ce soir \- j'suis dans ma tête](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 | 2023-05-12 | 2023-08-18 |
+| [Ce soir \- J’suis dans ma tête](https://open.spotify.com/track/5qSzv4wmieTXfVbQoTQfTI) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(J'suis dans ma tête\)](https://open.spotify.com/album/7kiTuoq7a71tOoGoiMK9Gu) | 2:20 | 2023-08-11 |  |
 | [Ce soir je danse](https://open.spotify.com/track/7A2RNX0JUMC9ZYWl7a5pyC) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:09 | 2022-07-09 | 2022-12-06 |
 | [Central Park La Fontaine](https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Central Park La Fontaine](https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl) | 3:20 | 2023-06-18 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-21 | 2023-08-05 |

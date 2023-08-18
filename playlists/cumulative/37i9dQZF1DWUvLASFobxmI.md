@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Enigma Norteño & Carin León en portada.
 
-365 songs - 19 hr 48 min
+366 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 | 2022-09-02 |  |
 | [Enseñame a Olvidar \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/17NvNZU6xNjXgpFwwGpdhf) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 4:28 | 2023-06-07 |  |
 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 | 2022-12-22 |  |
-| [Eres Libre](https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Eres Libre](https://open.spotify.com/album/76KzDILvX2jA1gSgeeBRnF) | 2:51 | 2023-01-27 |  |
+| [Eres Libre](https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Eres Libre](https://open.spotify.com/album/76KzDILvX2jA1gSgeeBRnF) | 2:51 | 2023-01-27 | 2023-08-18 |
 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2021-12-17 |  |
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2022-12-09 | 2022-12-24 |
 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2022-04-15 | 2022-07-12 |
@@ -241,6 +241,7 @@
 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 | 2023-05-26 |  |
 | [Nadie](https://open.spotify.com/track/7jwqJhuyPK50TcltlkI7NF) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre \(Vol\. II\)](https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk) | 2:48 | 2022-09-30 | 2023-01-10 |
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-17 |  |
+| [Neta Que No](https://open.spotify.com/track/19cazderNza33zgCCpxLxH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC) | 2:44 | 2023-08-11 |  |
 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 | 2023-01-27 | 2023-02-25 |
 | [Ni Con Labios Prestados](https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ni Con Labios Prestados](https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx) | 4:04 | 2022-07-15 | 2022-11-05 |
 | [Ni Volviendo a Nacer](https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Ni Volviendo a Nacer](https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W) | 2:46 | 2022-08-29 | 2023-02-10 |

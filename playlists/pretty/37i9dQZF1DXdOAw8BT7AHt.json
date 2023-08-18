@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: BIG SPECIAL",
-  "num_followers": 49635,
+  "num_followers": 49646,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzYwODc1Yjc4Y2FlMzBhZmNlZjU5YTQ0MDBiNjIxMWQ2NGQyMTll",
+  "snapshot_id": "MCwxZWUzZDYwNDY0ZTQ5YjJmMWYwMDM2ODA1YWYyZmU5ZjVlNzlmNjli",
   "tracks": [
     {
       "added_at": "2023-07-05 20:38:23",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 219133,
       "name": "Knees Deep",
       "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Silence Is Golden",
+      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
         "name": "Diaspora Problems",
         "url": "https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 227000,
       "name": "Gold Chain Punk (whogonbeatmyass?)",
       "url": "https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
         "name": "Girl God Gun",
         "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 205854,
       "name": "Girl God Gun",
       "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Silence Is Golden",
-      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 142124,
-      "name": "Talking To Myself",
-      "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 134640,
       "name": "Rob the Supermarket",
       "url": "https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 142124,
+      "name": "Talking To Myself",
+      "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
     },
     {
       "added_at": "2023-07-05 20:38:23",

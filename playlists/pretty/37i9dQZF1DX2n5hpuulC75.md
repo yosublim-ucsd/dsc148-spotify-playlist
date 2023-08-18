@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,680 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,736 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 33 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
 | 34 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
 | 35 | [\(Interlude\)](https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [VIII](https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl) | 2:10 |
-| 36 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
-| 37 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
+| 36 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
+| 37 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
 | 38 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
 | 39 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
 | 40 | [Never Meant To Call](https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S) | 2:57 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 55 | [Do You Feel](https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Do You Feel](https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW) | 3:54 |
 | 56 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
 | 57 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG) | 2:56 |
-| 58 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
-| 59 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
-| 60 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
+| 58 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
+| 59 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
+| 60 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
 
-Snapshot ID: `MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi`
+Snapshot ID: `MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 219584,
+  "num_followers": 219922,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWVmMmY1ZWJlMWQwOWQwYjg1OThmMmJiOTY1NmY1NjE2NGJlYzNh",
+  "snapshot_id": "MCw0ZjlkNDQ3MzIyYmFmYjIyOGY3Y2RjOWIxMDc4OGM2Y2UwMTY0NWM4",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -223,26 +223,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 209970,
-      "name": "Photo ID (with Dominic Fike)",
-      "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "We Love Dogs!",
+        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 209970,
+      "name": "Photo ID (with Dominic Fike)",
+      "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Real Cultural Shit",
         "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 194645,
       "name": "Little Miss Dynamite",
       "url": "https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 174524,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "I'm A Woman",
+        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "duration_ms": 147086,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 209693,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "I'm A Woman",
-        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 147086,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 230854,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Lovin You",
-        "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 163930,
-      "name": "Lovin You",
-      "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Freeway (with Estelle)",
         "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Hot Summer Love",
+        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "duration_ms": 254072,
+      "name": "Hot Summer Love",
+      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Colors (The Knocks Remix)",
         "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hot Summer Love",
-        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+        "name": "Lovin You",
+        "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
       },
       "artists": [
         {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 254072,
-      "name": "Hot Summer Love",
-      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
+      "duration_ms": 163930,
+      "name": "Lovin You",
+      "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1463,6 +1463,26 @@
       "duration_ms": 277225,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
+      "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1551,22 +1571,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
+        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) [Horse Meat Disco Remix]",
+        "url": "https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r"
       },
       "artists": [
         {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "Horse Meat Disco",
+          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
         }
       ],
-      "duration_ms": 199191,
-      "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
-      "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
+      "duration_ms": 173000,
+      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) - Horse Meat Disco Remix",
+      "url": "https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1651,30 +1675,6 @@
       "duration_ms": 197277,
       "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
       "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) [Horse Meat Disco Remix]",
-        "url": "https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) - Horse Meat Disco Remix",
-      "url": "https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Street Player (Dimitri From Paris Remixes)",
         "url": "https://open.spotify.com/album/2v1rNv1sKK9iIEsscwv05V"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 606862,
       "name": "Street Player - Dimitri From Paris Super Disco Blend, Pt. I & II",
       "url": "https://open.spotify.com/track/1wI96BJ059iyAajxqWPTa4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "If You Want It",
-        "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1903,66 +1903,58 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "You're in My System (Dennis Quin Remixes)",
-        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
+        "name": "Take It Back (feat. Davie)",
+        "url": "https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
         },
         {
-          "name": "Jerome Sydenham",
-          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
-        },
-        {
-          "name": "Troy Denari",
-          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
         }
       ],
-      "duration_ms": 351219,
-      "name": "You're in My System - Dennis Quin Club Mix",
-      "url": "https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz"
+      "duration_ms": 216020,
+      "name": "Take It Back (feat. Davie)",
+      "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
     },
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "do I really scare you?",
-        "url": "https://open.spotify.com/album/5LfpokYXn1BI20ScEELq8h"
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM"
       },
       "artists": [
         {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+          "name": "Sparkee",
+          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
+        },
+        {
+          "name": "Liinks",
+          "url": "https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY"
         }
       ],
-      "duration_ms": 180000,
-      "name": "do I really scare you?",
-      "url": "https://open.spotify.com/track/0CvIGlsdn8QT4cT3EzMnYS"
+      "duration_ms": 164501,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU"
     },
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "See Me Out",
-        "url": "https://open.spotify.com/album/6kOj8OeGCo05T99N2LExYO"
+        "name": "Boys Don't Sob",
+        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
       },
       "artists": [
         {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        },
-        {
-          "name": "Cim\u00f3n",
-          "url": "https://open.spotify.com/artist/2ScWWtrV7DOYYeb4vO0rG8"
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
         }
       ],
-      "duration_ms": 149749,
-      "name": "See Me Out",
-      "url": "https://open.spotify.com/track/28fbZR6LGCoqBjBp2z7xrO"
+      "duration_ms": 176017,
+      "name": "Boys Don't Sob",
+      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
     }
   ],
   "unique_name": "Poolside Disco",

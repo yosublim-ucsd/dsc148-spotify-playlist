@@ -184,7 +184,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 223636,
       "name": "Badboy Flow",
       "url": "https://open.spotify.com/track/2ADGeDmnEQ73HtLf2EEnfV"
@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1vozxbiPOwTB8r7rhX1015"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147514,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6jJNiNyWspgKLVwe9vhHsc"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
       },
@@ -422,7 +444,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 235862,
       "name": "DAMAGE DONE",
       "url": "https://open.spotify.com/track/72Fda3WMmhSCw73rzblSOC"
@@ -1229,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "I Like That (Jungle Music)",
+        "url": "https://open.spotify.com/album/3W1Cqs1zmAbkFKGH39IEx4"
+      },
+      "artists": [
+        {
+          "name": "Sempra",
+          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239372,
+      "name": "I Like That (Jungle Music)",
+      "url": "https://open.spotify.com/track/7xNuZqcNRFoGAMafD20EbH"
+    },
+    {
+      "album": {
         "name": "I Walk This Earth All By Myself",
         "url": "https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo"
       },
@@ -1446,6 +1486,24 @@
       "duration_ms": 292413,
       "name": "Lofi Love",
       "url": "https://open.spotify.com/track/5F210oygZ6fMAvbznWrjwJ"
+    },
+    {
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/5DgnHAx4WiRSEXClI0Auso"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405702,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/4vlHKFZn8QUVBpxUiDmJV7"
     },
     {
       "album": {
@@ -2322,6 +2380,24 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2n0lPOStK5EVaQxiTKsF3Z"
+      },
+      "artists": [
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6tlDHlKIvabhyhlGP1Tkh9"
     },
     {
       "album": {

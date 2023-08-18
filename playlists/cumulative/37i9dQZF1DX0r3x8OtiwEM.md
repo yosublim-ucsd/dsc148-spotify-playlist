@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-598 songs - 2 day 12 hr 5 min
+599 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Exhilaration](https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 6:54 | 2021-12-17 | 2022-07-28 |
 | [Expander](https://open.spotify.com/track/6hZZ6ZPpkAauDA3Al6za5T) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Expander](https://open.spotify.com/album/7B2lPcnbOvIUpCwFRvPtRZ) | 7:24 | 2022-09-30 | 2022-10-08 |
 | [Explore](https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Explore](https://open.spotify.com/album/2LkepPSBrgwEiLavKjk49L) | 4:59 | 2022-09-30 | 2022-10-08 |
-| [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-04-28 |  |
+| [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-06-30 |  |
+| [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-04-28 | 2023-08-18 |
 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 | 2022-07-01 |  |
 | [Fading](https://open.spotify.com/track/0BjH7OEBTqqqjX03iBhErp) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Fading](https://open.spotify.com/album/52BqwuUYV9KTvX1jStO5Y9) | 3:30 | 2021-10-10 | 2022-07-25 |
 | [Fading Time](https://open.spotify.com/track/3zx3EZWy77gcFSHKi1JsID) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Fading Time](https://open.spotify.com/album/0pblXGAsI7dUWAei182NvX) | 7:19 | 2020-09-19 | 2020-11-14 |
@@ -256,7 +257,7 @@
 | [I Feel](https://open.spotify.com/track/4LIWlYAo7Ee2nl5GVuvCNC) | [INURE](https://open.spotify.com/artist/5NvzCumjwyLbFqorYKqIXd) | [I Feel](https://open.spotify.com/album/1GPFvq8fng96P1Isom1ZCZ) | 4:48 | 2020-07-25 | 2021-02-07 |
 | [I Love You \- Moonwalk Remix](https://open.spotify.com/track/3jH9UhX0OjoHxfrVKbT8wz) | [Phil Kieran](https://open.spotify.com/artist/0wYXLd7wXHW3aQbfdlOmO6), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [I Love You \(Moonwalk Remix\)](https://open.spotify.com/album/7N2vcrsK3ZwkkeT2FsbZNc) | 6:57 | 2019-12-25 | 2020-01-03 |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-02-18 | 2022-10-13 |
-| [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 | 2022-10-07 |  |
+| [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 | 2022-10-07 | 2023-08-18 |
 | [I'm Alive](https://open.spotify.com/track/2ZSWJOnDpZXsVCh7gtNMwy) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [I'm Alive](https://open.spotify.com/album/115XXy41d9qCcE3YoR2dLQ) | 4:10 | 2020-06-12 | 2020-11-21 |
 | [Iela](https://open.spotify.com/track/3nUMd9BAvtt7r0RZnecRh3) | [Sascha Kloeber](https://open.spotify.com/artist/1Rle6CpNbJy2S3nJVTjpNU) | [Iela](https://open.spotify.com/album/4e2toS8yoSBgyxG4aHvGhB) | 5:28 | 2021-10-12 | 2022-07-22 |
 | [Ignition](https://open.spotify.com/track/34ZLVo5BSTwvUs2INNmwnZ) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ignition](https://open.spotify.com/album/5mjMMPcdAu0EMK4ZqaP2W7) | 7:17 | 2020-05-30 | 2021-09-29 |
@@ -596,7 +597,7 @@
 | [When Comes the Night](https://open.spotify.com/track/5T5DVG9Ym69motMYiVFgaL) | [Hidden Face](https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A) | [When Comes the Night](https://open.spotify.com/album/57NL4w6BTRqzCKONQ4NRvF) | 3:52 | 2020-05-30 | 2022-02-09 |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw) | 3:57 | 2022-10-07 | 2023-07-01 |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-03-06 | 2022-10-17 |
-| [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 | 2023-04-05 | 2023-08-16 |
+| [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 | 2023-04-05 |  |
 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 | 2021-06-05 |  |
 | [Wildlands](https://open.spotify.com/track/3hlwSv1rRVguTBGRH813Pw) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Wildlands](https://open.spotify.com/album/3MpQaMH6DFQcBnVSUEA7fn) | 3:24 | 2022-06-24 | 2022-07-29 |
 | [X](https://open.spotify.com/track/0pORLCI6Ep1eyqHJXbUPKG) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:33 | 2021-05-07 | 2021-05-28 |

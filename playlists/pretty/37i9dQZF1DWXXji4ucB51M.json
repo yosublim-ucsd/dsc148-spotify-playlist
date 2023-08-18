@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 104722,
+  "num_followers": 104720,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODQyYWExNWNkM2ZmOTU2NzA0MDkzYjBlNGY0ZGIzNzQ4OGQzOWE1",
+  "snapshot_id": "MCxlMjFkMjAyZjZmMDJkZGY5NWVlNjYwMmRkZWQ2ZGY0MTFhZTNkZWRm",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "everything i wanted",
         "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 245425,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
       "added_at": "2020-08-24 22:19:29",

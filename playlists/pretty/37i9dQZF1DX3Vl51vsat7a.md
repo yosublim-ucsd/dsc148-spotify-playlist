@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,679 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,701 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 |
-| 2 | [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 |
-| 3 | [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 |
-| 4 | [Voices](https://open.spotify.com/track/31jjzf6a02K6vzE3jvzDer) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Voices](https://open.spotify.com/album/1gr2ElW62Qg00AybMlJdw0) | 2:49 |
-| 5 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 |
-| 6 | [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 |
-| 7 | [Cabriolet](https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Cabriolet](https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf) | 2:29 |
-| 8 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
-| 9 | [Novaacation](https://open.spotify.com/track/6TO8fVn8D5jVyGOK7p1kjz) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Novaacation](https://open.spotify.com/album/0Z0zEpXCB3RfEDTVQIfWm4) | 3:20 |
-| 10 | [Mirror](https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Feel Alone These Days](https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia) | 4:08 |
-| 11 | [Seit du da bist](https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Seit du da bist](https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh) | 2:30 |
-| 12 | [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 |
-| 13 | [Tempo](https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Tempo](https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2) | 2:11 |
-| 14 | [WOW](https://open.spotify.com/track/1oMc6wSttdm9hUmovca5RJ) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [WOW / OBAMA FREESTYLE](https://open.spotify.com/album/4seApoijgdNaChd2Y2JrDx) | 1:55 |
-| 15 | [ALL I REALLY WANT](https://open.spotify.com/track/2w88pnj10jrdX2jJyaAUKT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [ALL I REALLY WANT](https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf) | 5:58 |
+| 2 | [Carnage](https://open.spotify.com/track/0xEET5KnxdohPyrPMgnY3P) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Carnage](https://open.spotify.com/album/5O5xtWzWK7BUWKDzChUfR6) | 3:22 |
+| 3 | [Theater★](https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Theater★](https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS) | 2:35 |
+| 4 | [FRAULEIN B](https://open.spotify.com/track/6cgKtmVhQpD041ECgvcnCn) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FRAULEIN B](https://open.spotify.com/album/0O8zVFS6l712Lct2D83ct2) | 6:49 |
+| 5 | [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 |
+| 6 | [Tempo](https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Tempo](https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2) | 2:11 |
+| 7 | [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 |
+| 8 | [Voices](https://open.spotify.com/track/31jjzf6a02K6vzE3jvzDer) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Voices](https://open.spotify.com/album/1gr2ElW62Qg00AybMlJdw0) | 2:49 |
+| 9 | [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 |
+| 10 | [Cabriolet](https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Cabriolet](https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf) | 2:29 |
+| 11 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
+| 12 | [Mirror](https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Feel Alone These Days](https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia) | 4:08 |
+| 13 | [Seit du da bist](https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Seit du da bist](https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh) | 2:30 |
+| 14 | [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 |
+| 15 | [WOW](https://open.spotify.com/track/1oMc6wSttdm9hUmovca5RJ) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [WOW / OBAMA FREESTYLE](https://open.spotify.com/album/4seApoijgdNaChd2Y2JrDx) | 1:55 |
 | 16 | [SKELETON](https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SKELETON](https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO) | 2:48 |
 | 17 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 |
 | 18 | [Zerrissen](https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Zerrissen](https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur) | 3:24 |
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 29 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 |
 | 30 | [nie wieder wegrennen](https://open.spotify.com/track/1E9inOEvd8MyLeosUaOFNP) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nie wieder wegrennen](https://open.spotify.com/album/2PuC50H1fnvm82PWEG4sja) | 2:10 |
 | 31 | [Du + Ich](https://open.spotify.com/track/5VcPgaKtvn1JJfv7flYtWr) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Du + Ich](https://open.spotify.com/album/7pyXX3U3j5LzPDeWiqAxzO) | 2:26 |
-| 32 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
-| 33 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
-| 34 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 |
-| 35 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 |
-| 36 | [I'll Quit Music \(prod\. by Jinka\)](https://open.spotify.com/track/1qlnowCZe0rfUUiOHHBM6m) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT) | [I'll Quit Music \(prod\. by Jinka\)](https://open.spotify.com/album/3SQ7WDdEhigjfI4HFW1xZO) | 2:47 |
+| 32 | [Novaacation](https://open.spotify.com/track/6TO8fVn8D5jVyGOK7p1kjz) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Novaacation](https://open.spotify.com/album/0Z0zEpXCB3RfEDTVQIfWm4) | 3:20 |
+| 33 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
+| 34 | [ALL I REALLY WANT](https://open.spotify.com/track/2w88pnj10jrdX2jJyaAUKT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [ALL I REALLY WANT](https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf) | 5:58 |
+| 35 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
+| 36 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 |
 | 37 | [Walls](https://open.spotify.com/track/4cMDIe5aH8h6B8MzF18xty) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Walls](https://open.spotify.com/album/4baIsWWMXbmfBg8d93VAU1) | 2:59 |
-| 38 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 |
-| 39 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 |
-| 40 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 |
+| 38 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 |
+| 39 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 |
+| 40 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 |
 | 41 | [DREI2EINS](https://open.spotify.com/track/5sJw10xQQv0yEO6g6O5TOn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [DREI2EINS](https://open.spotify.com/album/2BThnUgTLMb7XLDabWnlFR) | 2:07 |
 | 42 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 |
 | 43 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 | 60 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 |
 
-Snapshot ID: `MCwzNGE2NGIzYTY2ODNiMmFhMjgyY2I3YzlhNGE2YmJlNmJiMGNhZjU0`
+Snapshot ID: `MCw0NjE5Nzc0YjQ5NzkwNTFhZDhlNjhhZDEwMjZjZTkyMzM0YzZmZWMx`

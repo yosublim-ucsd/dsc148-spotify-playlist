@@ -4,7 +4,7 @@
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-59 songs - 4 hr 12 min
+60 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2022-05-05 |  |
 | [Digital Versicolor](https://open.spotify.com/track/5WQwLtyRifa7JQdaYHBHBO) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [B/E/A/T/B/O/X](https://open.spotify.com/album/34HdlwbafaANIXhwqNTnlb) | 5:58 | 2022-05-05 |  |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2022-05-05 |  |
+| [Dos Extraños](https://open.spotify.com/track/6L8Jed13lCQn7pPiKOqIkf) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Dos Extraños](https://open.spotify.com/album/7mJvMAtknGnFQD93Eb5Ng9) | 3:20 | 2022-05-05 |  |
 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 | 2022-05-05 | 2023-08-12 |
 | [Escape From LA](https://open.spotify.com/track/1sOW4PuG5X3Ie3EXUhAopJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 5:55 | 2023-01-03 |  |
 | [Eyes Without a Face](https://open.spotify.com/track/04YObtYkElo3sNcr9hUe1w) | [Marsheaux](https://open.spotify.com/artist/71kSWeYFioviuty6e3aj5k) | [E\-Bay Queen Is Dead](https://open.spotify.com/album/78xdXx85GxYUezK9kGO3yd) | 4:46 | 2022-05-05 |  |
@@ -45,7 +46,7 @@
 | [Otra Era](https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:04 | 2022-05-05 | 2023-08-12 |
 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 | 2022-05-05 |  |
 | [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 | 2023-01-03 |  |
-| [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 | 2022-05-05 |  |
+| [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 | 2022-05-05 | 2023-08-18 |
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2022-05-05 |  |
 | [Se Eu Soubesse](https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [Cura](https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt) | 3:37 | 2022-05-05 | 2023-07-25 |
 | [Slumlord](https://open.spotify.com/track/6O1G9pwLEidT5QTjuZw3tL) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [VEGA INTL\. Night School](https://open.spotify.com/album/5qA9yoz0W5eHKYOr45Rkc4) | 5:15 | 2022-05-05 |  |

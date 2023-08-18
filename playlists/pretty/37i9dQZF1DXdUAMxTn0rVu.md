@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Dilated Peoples
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,190 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,542 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 47 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
 | 48 | [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 |
 | 49 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
-| 50 | [Fortfied Live](https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mr Man](https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 5:11 |
+| 50 | [Answers](https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP), [Quasimoto](https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 4:43 |
 
-Snapshot ID: `MCxiZDVmMjczNjYyZDAxZjE2MDkyYjU3MTA3NjRiODU3YjdhN2Y1MTkz`
+Snapshot ID: `MCwzZjc2YWViODdkNWE5YTNkYzNhZmE4YjFmMzJkY2IwNzE0OWY3M2Jl`

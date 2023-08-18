@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: LE SSERAFIM\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,538 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,277 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 45 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
 | 46 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
 | 47 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
-| 48 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
+| 48 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 |
 | 49 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
-| 50 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 |
+| 50 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 | 51 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 |
 | 52 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 53 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 69 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 |
 | 70 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
 | 71 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
-| 72 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 |
-| 73 | [O.O](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 |
+| 72 | [O.O](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 |
+| 73 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 |
 | 74 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 |
 | 75 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 |
 | 76 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 90 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 |
 | 91 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 | 92 | [Secret Story of the Swan](https://open.spotify.com/track/7G6WuVZuTbF6JcnA9wOvsD) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/1XuKR0Qguy1b0Vne8hv5Pd) | 3:12 |
-| 93 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
-| 94 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
+| 93 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
+| 94 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
 | 95 | [LATATA](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:22 |
 | 96 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 97 | [Stamp On It](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:52 |
 | 98 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 |
 | 99 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 |
-| 100 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
+| 100 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 
-Snapshot ID: `MCxhZjIxMTcwYTdiZDJkZmQzOWUxMThhYWQ3MDg4NmU2ZWVkZDJmYTQ2`
+Snapshot ID: `MCwxODk5Y2MyYWZkOTY5Zjk5MmRlMzY1ZGZlYWU3MGVjMzhkMzU2MjFi`

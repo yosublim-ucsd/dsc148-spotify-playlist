@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > songs that feel like new and old friends, all stitched together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,739 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,726 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 19 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 |
 | 20 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
 | 21 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
-| 22 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
-| 23 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 22 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 23 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 24 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
 | 25 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
 | 26 | [Perfume](https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:27 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 40 | [Hard Talk](https://open.spotify.com/track/1SvYIGg7hL6Zh0hePhElcA) | [Bedroom High Club](https://open.spotify.com/artist/47goKZMpou37YRLLGmK92s) | [Above The Belt](https://open.spotify.com/album/7f3Ac5yXZMciL2rX7y5Jda) | 3:19 |
 | 41 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
 | 42 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 |
-| 43 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 |
-| 44 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
+| 43 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
+| 44 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 |
 | 45 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
-| 46 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
-| 47 | [Something Good Can Work](https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:44 |
-| 48 | [Shatter](https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:40 |
+| 46 | [Shatter](https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:40 |
+| 47 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
+| 48 | [Something Good Can Work](https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:44 |
 | 49 | [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:16 |
 | 50 | [TV](https://open.spotify.com/track/5gnOGcUA9Thwa611bn3Rp2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 1:15 |
 | 51 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 65 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 |
 | 66 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 67 | [Diet Mountain Dew](https://open.spotify.com/track/21xo9jhNSsYyNk8TRKBkY0) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 3:42 |
-| 68 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
-| 69 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 68 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 69 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
 | 70 | [Masterpiece](https://open.spotify.com/track/2orcl4a2qxEpbsYeZXKsyR) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 3:50 |
 | 71 | [Change](https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:57 |
 | 72 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 94 | [Human Condition](https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:07 |
 | 95 | [Isombard](https://open.spotify.com/track/3aP1BuaScFyqfqST2KB3VN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:43 |
 | 96 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 |
-| 97 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
-| 98 | [April](https://open.spotify.com/track/7l94AyvXRwnQgKccUU3PRN) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 3:18 |
+| 97 | [April](https://open.spotify.com/track/7l94AyvXRwnQgKccUU3PRN) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 3:18 |
+| 98 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
 | 99 | [Glory](https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:20 |
 | 100 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 |
 
-Snapshot ID: `MCwyZDk0M2JjODYwNTJhZDgyNTFmZTEwMmY2ODk3ZmEyYzBmYmUzZDBi`
+Snapshot ID: `MCw4NmNhODZhMmU2ODg0Mjk3YjcyODZmM2QyZjhmOTdjNDE3YmFjNGU3`

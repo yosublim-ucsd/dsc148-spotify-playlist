@@ -3127,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
+    },
+    {
+      "album": {
         "name": "Two Weeks Ago",
         "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
       },
@@ -3138,7 +3156,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 179453,
       "name": "Two Weeks Ago",
       "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"

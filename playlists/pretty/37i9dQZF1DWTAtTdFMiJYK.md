@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Prateeksha Srivastava
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,967 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,078 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
-| 2 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
-| 3 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 |
+| 2 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 |
+| 3 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
 | 4 | [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 |
 | 5 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 |
 | 6 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 |
 | 75 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
 
-Snapshot ID: `MCw3NDUzZjFkMjE1ZTZkY2JjZWZiMjFlY2ZjNTA4ZTFkOTdmYTRlMTQ4`
+Snapshot ID: `MCw3MTliN2M1ODJmMmRlNGU4NmMzYTUxMjM0ZTAxNWMyMmMxZjk4OWUw`

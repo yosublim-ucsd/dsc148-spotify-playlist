@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0WYp1bHRFZdzS3yaIqSGUO"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190251,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/174PWcf9jFqxW60KACVAaX"
+    },
+    {
+      "album": {
         "name": "Amanda Pressure",
         "url": "https://open.spotify.com/album/79nzFswc8DosSGcWkYxb4J"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 310409,
       "name": "Ngisize Nami",
       "url": "https://open.spotify.com/track/4fyfjQNKxLTKBid9m3XMQc"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 182459,
       "name": "Niata",
       "url": "https://open.spotify.com/track/1mtlYmtelBzQWEbHm07q1o"
@@ -3384,6 +3402,24 @@
       "duration_ms": 158399,
       "name": "Oshe (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
+    },
+    {
+      "album": {
+        "name": "OTD",
+        "url": "https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "OTD",
+      "url": "https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd"
     },
     {
       "album": {

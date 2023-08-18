@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,943 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,018 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 54 | [Love Myself](https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0) | 3:38 |
 | 55 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
 | 56 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 |
-| 57 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
-| 58 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |
+| 57 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |
+| 58 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
 | 59 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 60 | [Blow Me \(One Last Kiss\)](https://open.spotify.com/track/4k80K0b6KZ2QjAYkXON7q6) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:15 |
 | 61 | [Elastic Heart](https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:17 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 65 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
 | 66 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 |
 | 67 | [Sue Me](https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:59 |
-| 68 | [Your New Boyfriend](https://open.spotify.com/track/4vLBnQtece15fFhqWxZvJP) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your New Boyfriend](https://open.spotify.com/album/7krAqKWEJpVnJfH4eOqA6F) | 3:59 |
+| 68 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 69 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:13 |
-| 70 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
+| 70 | [Your New Boyfriend](https://open.spotify.com/track/4vLBnQtece15fFhqWxZvJP) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your New Boyfriend](https://open.spotify.com/album/7krAqKWEJpVnJfH4eOqA6F) | 3:59 |
 | 71 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
 | 72 | [All My Exes' Moms](https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [All My Exes' Moms](https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx) | 2:05 |
 | 73 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
 | 74 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
 | 75 | [Good In Goodbye](https://open.spotify.com/track/1GVF9369j7InydwGztCDIZ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Good In Goodbye](https://open.spotify.com/album/1VJJaEzHs2SHX4ZobSFAVh) | 2:21 |
 
-Snapshot ID: `MCwxODM3ODFjZmNhZTQ4OTVhNmNkZDEzYzZmMDBhNGMxODkxNzZhOTg3`
+Snapshot ID: `MCxkYzc0ZmQ0ZTNjMzQwN2ZhY2MwYWFkMjA0NWI1NjExZWNkYjJlYTEw`

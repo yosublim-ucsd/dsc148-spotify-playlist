@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,375 likes - 85 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,639 likes - 85 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 84 | [That's What Friends Are For \(with Elton John, Gladys Knight & Stevie Wonder\)](https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Greatest Hits 1979\-1990](https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo) | 4:16 |
 | 85 | [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:26 |
 
-Snapshot ID: `MCxhYTI3NTI2YjdmOGVmYmUwMjVlMDhmMzcwZTdjYjg4ZmJlY2RhYzll`
+Snapshot ID: `MCwxN2U0NGJiNTk3NWY3MTcxZjQ3MWI0NjU1YmRlNjRhNzYzZjExNzg5`

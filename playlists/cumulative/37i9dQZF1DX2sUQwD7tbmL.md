@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-577 songs - 1 day 8 hr 37 min
+578 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-07-22 |  |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-05-01 | 2022-03-12 |
 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 | 2021-05-01 | 2023-06-28 |
-| [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-14 | 2023-08-16 |
+| [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-14 |  |
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2021-05-01 | 2022-07-29 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-07 | 2023-03-18 |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-17 |  |
@@ -157,7 +157,8 @@
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2021-05-01 | 2022-04-14 |
 | [Dreaming on the Bus \- Ra Ra Riot Remix](https://open.spotify.com/track/5fTDFgodYR6VDoBecROzFl) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Dreaming on the Bus \(Ra Ra Riot Remix\)](https://open.spotify.com/album/3QRKsmsUgheSIqfBJu9AiI) | 4:59 | 2021-05-01 | 2022-04-14 |
 | [Dræm Girl](https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Summer Break Mixtape](https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65) | 3:54 | 2022-04-13 |  |
-| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-03 |  |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-03 | 2023-08-18 |
+| [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-05-26 |  |
 | [Easier Said Than Done](https://open.spotify.com/track/6oAD3YoVRl1RsNfVsBTmM9) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Easier Said Than Done](https://open.spotify.com/album/2jQYIG9wE9pArx2ZQUXnvn) | 3:45 | 2021-05-01 | 2022-06-22 |
 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 | 2021-05-01 | 2022-04-14 |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2022-04-13 | 2023-07-25 |
@@ -278,7 +279,7 @@
 | [It’s A Shame](https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Pink Feathers](https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW) | [EGO](https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34) | 3:00 | 2022-11-30 | 2023-01-04 |
 | [Japanese](https://open.spotify.com/track/5mVKOml3VuRIe4Y5pPyyYx) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Japanese / A Whole Month Of You](https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY) | 3:12 | 2022-04-13 | 2022-04-19 |
 | [Japanese Posters](https://open.spotify.com/track/19mIMQ8rNN4jmfR1UXVNBQ) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Subway Songs](https://open.spotify.com/album/3zfsyrUc2lWulBUcDzaos7) | 2:36 | 2022-04-13 | 2022-07-29 |
-| [Japanese Posters](https://open.spotify.com/track/4EKD6FGZOQQmKWXZiZx3fh) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Japanese Posters](https://open.spotify.com/album/2RsHKX2dgI6GAN9UNPkIGZ) | 2:36 | 2022-11-07 |  |
+| [Japanese Posters](https://open.spotify.com/track/4EKD6FGZOQQmKWXZiZx3fh) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Japanese Posters](https://open.spotify.com/album/2RsHKX2dgI6GAN9UNPkIGZ) | 2:36 | 2022-11-07 | 2023-08-18 |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-07-22 | 2022-10-15 |
 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 | 2022-04-13 | 2022-07-29 |
 | [Jessica WJ](https://open.spotify.com/track/5Wu3CBUUlPU2pZv8Y3E8DD) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Jessica WJ](https://open.spotify.com/album/1Uv7tbO4AGwtdupFwmAPa0) | 3:17 | 2021-05-01 | 2022-04-13 |

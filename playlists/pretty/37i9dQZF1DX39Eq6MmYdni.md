@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,415 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,458 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 42 | [Vámonos a Marte](https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Vámonos a Marte](https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9) | 3:11 |
 | 43 | [Sin Parar](https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesus Ojeda](https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr) | [Sin Parar](https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS) | 2:32 |
 | 44 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
-| 45 | [Me gustas \- En vivo](https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me gustas \(En Vivo\)](https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1) | 3:04 |
+| 45 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
 | 46 | [Beses a Quien Beses](https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Beses a Quien Beses](https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj) | 2:57 |
 | 47 | [Pa Quererte](https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Pa Quererte](https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF) | 3:17 |
-| 48 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
+| 48 | [Me gustas \- En vivo](https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me gustas \(En Vivo\)](https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1) | 3:04 |
 | 49 | [Que Vas a Hacer](https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 3:05 |
 | 50 | [Nena Ven](https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Nena Ven](https://open.spotify.com/album/0VowgdMO0zg5SAsvTvFTb3) | 3:17 |
 
-Snapshot ID: `MCw4YjJjMzlkZWViYjJmYmI0OTQyZWEwZTUyMDA1OGFkYjBlMWQ3ZjQ2`
+Snapshot ID: `MCwxOTdmZjhjZTBmZmIzMjFmOWJiYmI1NDc3N2U3MjYwNzg4NTgyYmZj`

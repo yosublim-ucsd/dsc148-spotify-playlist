@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Johnny Hooker",
-  "num_followers": 429906,
+  "num_followers": 429945,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZkYjdhZTEzMzQ0NGIyYWQ0NDcxNTQ5OWE0NTA3ZWQyYTg2OGFk",
+  "snapshot_id": "MCw4MmU3Zjg2OWEwNDNjYTA4ZDM0NTE2ODMxZDcyZDczNDU1MDNjNDcx",
   "tracks": [
     {
       "added_at": "2023-08-15 16:54:23",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
-        "name": "Ela \u00c9 S\u00f3 Dela",
-        "url": "https://open.spotify.com/album/4sZAzREscCzfftBTpg5Eev"
-      },
-      "artists": [
-        {
-          "name": "Gabi Luthai",
-          "url": "https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV"
-        }
-      ],
-      "duration_ms": 176325,
-      "name": "Ela \u00c9 S\u00f3 Dela",
-      "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
-    },
-    {
-      "added_at": "2023-08-15 16:54:23",
-      "album": {
         "name": "Paix\u00e3o Nacional",
         "url": "https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 187133,
       "name": "Boate Qualquer",
       "url": "https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr"
+    },
+    {
+      "added_at": "2023-08-15 16:54:23",
+      "album": {
+        "name": "Ela \u00c9 S\u00f3 Dela",
+        "url": "https://open.spotify.com/album/4sZAzREscCzfftBTpg5Eev"
+      },
+      "artists": [
+        {
+          "name": "Gabi Luthai",
+          "url": "https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV"
+        }
+      ],
+      "duration_ms": 176325,
+      "name": "Ela \u00c9 S\u00f3 Dela",
+      "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
     },
     {
       "added_at": "2023-08-15 16:54:23",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
+        "name": "Friozinho",
+        "url": "https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Como c\u00ea t\u00e1?",
+      "url": "https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX"
+    },
+    {
+      "added_at": "2023-08-15 16:54:23",
+      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 135555,
       "name": "Esperando C\u00ea Voltar",
       "url": "https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g"
-    },
-    {
-      "added_at": "2023-08-15 16:54:23",
-      "album": {
-        "name": "Friozinho",
-        "url": "https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Como c\u00ea t\u00e1?",
-      "url": "https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX"
     },
     {
       "added_at": "2023-08-15 16:54:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
-    },
-    {
-      "added_at": "2023-08-15 16:54:23",
-      "album": {
         "name": "De Onde Eu Venho",
         "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
       },
@@ -1047,22 +1031,6 @@
       "duration_ms": 143400,
       "name": "De Onde Eu Venho",
       "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
-    },
-    {
-      "added_at": "2023-08-15 16:54:23",
-      "album": {
-        "name": "isso \u00e9 t\u00e3o a gente :)",
-        "url": "https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2"
-      },
-      "artists": [
-        {
-          "name": "Bia Jord\u00e3o",
-          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
-        }
-      ],
-      "duration_ms": 190507,
-      "name": "isso \u00e9 t\u00e3o a gente :)",
-      "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
     },
     {
       "added_at": "2023-08-15 16:54:23",
@@ -1083,6 +1051,22 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
+    },
+    {
+      "added_at": "2023-08-15 16:54:23",
+      "album": {
         "name": "Andando pela Orla",
         "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 112023,
       "name": "Andando pela Orla",
       "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
+    },
+    {
+      "added_at": "2023-08-15 16:54:23",
+      "album": {
+        "name": "isso \u00e9 t\u00e3o a gente :)",
+        "url": "https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2"
+      },
+      "artists": [
+        {
+          "name": "Bia Jord\u00e3o",
+          "url": "https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU"
+        }
+      ],
+      "duration_ms": 190507,
+      "name": "isso \u00e9 t\u00e3o a gente :)",
+      "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
     },
     {
       "added_at": "2023-08-15 16:54:23",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
-        "name": "Sustentar",
-        "url": "https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        },
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Sustentar",
-      "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
-    },
-    {
-      "added_at": "2023-08-15 16:54:23",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
+        "name": "Sustentar",
+        "url": "https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        },
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Sustentar",
+      "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
+    },
+    {
+      "added_at": "2023-08-15 16:54:23",
+      "album": {
         "name": "Cear\u00e1",
         "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 132636,
       "name": "Cear\u00e1",
       "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
-    },
-    {
-      "added_at": "2023-08-15 16:54:23",
-      "album": {
-        "name": "Com.Fuso",
-        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 169539,
-      "name": "Terminou Bem",
-      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
     },
     {
       "added_at": "2023-08-15 16:54:23",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
+        "name": "Com.Fuso",
+        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 169539,
+      "name": "Terminou Bem",
+      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
+    },
+    {
+      "added_at": "2023-08-15 16:54:23",
+      "album": {
         "name": "My Loco",
         "url": "https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-15 16:54:23",
       "album": {
-        "name": "M\u00faltipla",
-        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "Nem Eu Me Entendo",
-      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
-    },
-    {
-      "added_at": "2023-08-15 16:54:23",
-      "album": {
         "name": "Tempo Demais",
         "url": "https://open.spotify.com/album/4PuaH09i9aiaXA4cx6Xlxd"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 168459,
       "name": "Tempo Demais",
       "url": "https://open.spotify.com/track/3zsqFsBtZZZaFigmgE3ohh"
+    },
+    {
+      "added_at": "2023-08-15 16:54:23",
+      "album": {
+        "name": "M\u00faltipla",
+        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 161540,
+      "name": "Nem Eu Me Entendo",
+      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
     },
     {
       "added_at": "2023-08-15 16:54:23",

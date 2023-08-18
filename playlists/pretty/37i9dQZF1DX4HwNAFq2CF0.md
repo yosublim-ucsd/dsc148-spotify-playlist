@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,950 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,996 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 27 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 |
 | 28 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 |
 | 29 | [Courtesy Call](https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn) | 3:56 |
-| 30 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
-| 31 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
+| 30 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
+| 31 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 32 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
 | 33 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |
 | 34 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 53 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 54 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 55 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
-| 56 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
-| 57 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
+| 56 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
+| 57 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
 | 58 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
 | 59 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
 | 60 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
@@ -74,17 +74,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 64 | [Zombie](https://open.spotify.com/track/1eadPrzB2P0ikQcqhKSAtv) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 4:14 |
 | 65 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 |
 | 66 | [War](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:29 |
-| 67 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
-| 68 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
+| 67 | [Help](https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
+| 68 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
 | 69 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 70 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
 | 71 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 |
 | 72 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 |
 | 73 | [I'm Born To Run](https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 3:26 |
-| 74 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 |
+| 74 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
 | 75 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
-| 76 | [Hurt](https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:25 |
-| 77 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
+| 76 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 |
+| 77 | [Hurt](https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:25 |
 | 78 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 79 | [Nobody Praying For Me](https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:17 |
 | 80 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 99 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 100 | [River](https://open.spotify.com/track/4tvmsvV1aUmbPKdzl19Or9) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [BRKN LOVE \(Deluxe Edition\)](https://open.spotify.com/album/78fyPzuOJp724AbTZ9Vg2s) | 3:45 |
 
-Snapshot ID: `MCw0YjljNDcyZGZhOWE3ZDc0ZGQwNTMzMjQ1YWEyNDJlODg3Y2VkMmRk`
+Snapshot ID: `MCwwNTg1MjI1OTMyNGRjOWMzYzkzMjNiMmJlYmU5N2ZhY2Y5Y2Q1NTA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shekhar Ravjiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,937 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,992 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Tu Meri Baarish Hai](https://open.spotify.com/track/3cnukucAHNoRJccqDWwWWI) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Tu Meri Baarish Hai](https://open.spotify.com/album/1nscZSDwGkyfSKe4wrFvdd) | 4:28 |
 | 50 | [Mere Sanam Ke Khwaab](https://open.spotify.com/track/11XpKGPvaWClvMtRzuumZk) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Mere Sanam Ke Khwaab](https://open.spotify.com/album/2XoOzgwVUgujp5pgdZo707) | 3:54 |
 
-Snapshot ID: `MCxmNTU2NjA4NzEyODA0OTkzMzhhMzE3NWE5MjFhOWJiMTZmMjFjY2U4`
+Snapshot ID: `MCwwNzlmNjE0YzUxNDRmYmU0N2ZlNDM4MzE4MzE1YmExMDFkODE4OTcy`

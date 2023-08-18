@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,677 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,766 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 48 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
 | 49 | [Pinch Me](https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Maroon](https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc) | 4:45 |
 | 50 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
-| 51 | [Sweet City Woman](https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO) | [Stampeders](https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp) | [Against the Grain](https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd) | 3:27 |
-| 52 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 |
+| 51 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 |
+| 52 | [Sweet City Woman](https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO) | [Stampeders](https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp) | [Against the Grain](https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd) | 3:27 |
 | 53 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
 | 54 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 |
 | 55 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 |
 | 75 | [Balenciaga](https://open.spotify.com/track/408tRAknfYFqNE9F6tr6zg) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [In Good Time](https://open.spotify.com/album/2JARrIac1A7awY7zEmAra7) | 3:28 |
 
-Snapshot ID: `MCwzODAxMTllYjg5MGQwZTAwZDliOTJiYTNiZTVjNWI1Y2YxMDhkMzNk`
+Snapshot ID: `MCw0NGU1ZGUzZGFjNWEyYTM1MzhiNmEzZjVhYjU2YzVjYTNhZjFkMWJj`

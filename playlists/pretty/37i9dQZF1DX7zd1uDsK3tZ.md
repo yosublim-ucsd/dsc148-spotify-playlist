@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,283 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,399 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 24 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 25 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 26 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
-| 27 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
+| 27 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
 | 28 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
-| 29 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
+| 29 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 30 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 31 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 32 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 55 | [Sunny Afternoon](https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa) | 3:30 |
 | 56 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 57 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
-| 58 | [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 |
-| 59 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
+| 58 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
+| 59 | [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 |
 | 60 | [Solsbury Hill](https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered Version\)](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) | 4:21 |
 | 61 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 62 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 71 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
 | 72 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 |
 | 73 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 |
-| 74 | [I Saw the Light](https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:02 |
-| 75 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
+| 74 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
+| 75 | [I Saw the Light](https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:02 |
 
-Snapshot ID: `MCwyOTRmZTUwZDkzZjJjNWJmNGY2YjY3OGQxYmEwMTY0MmY1OTA2NDYw`
+Snapshot ID: `MCwwZTgyOWE2YjdhODEyYzFmNzU0N2Y4NjBlZGRiZmEyNTI2ZTk3N2Zk`

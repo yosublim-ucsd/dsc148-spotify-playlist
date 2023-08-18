@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,150 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,176 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 28 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 |
 | 29 | [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 |
 | 30 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
-| 31 | [Sopra](https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Punk](https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW) | 3:13 |
-| 32 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
+| 31 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
+| 32 | [Sopra](https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Punk](https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW) | 3:13 |
 | 33 | [Questa nostra stupida canzone d'amore](https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 4:09 |
 | 34 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
 | 35 | [Margarita \(con Marracash\)](https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [Oggi Sono Io](https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [it.pop](https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t) | 3:48 |
 | 50 | [Un attimo ancora](https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n) | [Gemelli Diversi](https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ) | [Gemelli Diversi](https://open.spotify.com/album/2win94a4gptG9kru2p6Hka) | 4:00 |
 
-Snapshot ID: `MCxlYmRhYWE4M2Q5MjAyZDliZjA1MDllOTQ3ZmU2MTg5OGE2YzY0Mjdj`
+Snapshot ID: `MCw2MWQ5M2Q3NzZhZmM0OTExOGVjZmQ4Y2NjNTNkYWUxMjM1ZWJmOWY4`

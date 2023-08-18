@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 440313,
+  "num_followers": 440422,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGU0NTg0NDMzM2E1YTAwY2I2NGY0NjgwODQ5MzAwMmMwNDRjMjFj",
+  "snapshot_id": "MCwxOTNlZTY5MjIxYWM0YjY5Yjc3ZmZjNmNiMDRjM2VhNDRlMWJkZmYy",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -243,6 +243,26 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+        }
+      ],
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 221533,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
-        }
-      ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "I'll Stand by You",
-        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
-      },
-      "artists": [
-        {
-          "name": "Jake Wesley Rogers",
-          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
-        }
-      ],
-      "duration_ms": 204854,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Tennis Court",
         "url": "https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 222362,
       "name": "Swingin Party",
       "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "I'll Stand by You",
+        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "duration_ms": 204854,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 165309,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 254640,
       "name": "Champagne Supernova (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love (Bonus)",
       "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Robyn Sherwell",
         "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 163342,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 274506,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 163342,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Undercover Bros.",
-        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
-      },
-      "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        }
-      ],
-      "duration_ms": 248590,
-      "name": "How Deep is Your Love",
-      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 154360,
       "name": "I'm On Fire - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Undercover Bros.",
+        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        }
+      ],
+      "duration_ms": 248590,
+      "name": "How Deep is Your Love",
+      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
       "added_at": "2022-03-22 14:40:29",

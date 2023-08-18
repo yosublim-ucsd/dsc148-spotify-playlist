@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > We're celebrating the 20th anniversary of Brad Paisley's hit album "Mud on the Tires" on 2000s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,704 likes - 125 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,225 likes - 125 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 25 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
 | 26 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 |
 | 27 | [Courtesy Of The Red, White And Blue \(The Angry American\)](https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:15 |
-| 28 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
-| 29 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
+| 28 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
+| 29 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
 | 30 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 31 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 |
 | 32 | [Big Green Tractor](https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:24 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 61 | [Love Like Crazy](https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Love Like Crazy](https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8) | 3:37 |
 | 62 | [Travelin' Soldier](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 5:43 |
 | 63 | [Three Wooden Crosses](https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:21 |
-| 64 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 |
+| 64 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 |
 | 65 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
-| 66 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 |
+| 66 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 |
 | 67 | [Red High Heels](https://open.spotify.com/track/7dFSHwa7BNZvWlOuYsvFpy) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Small Town Girl](https://open.spotify.com/album/5bFtvUDukm5P0idSnW7M7n) | 3:42 |
 | 68 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
 | 69 | [I Love This Bar](https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 5:35 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 81 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
 | 82 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 83 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
-| 84 | [Ain't Nothing 'Bout You](https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:19 |
-| 85 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
+| 84 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
+| 85 | [Ain't Nothing 'Bout You](https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:19 |
 | 86 | [That's What I Love About Sunday](https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:21 |
 | 87 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
 | 88 | [Mr\. Mom](https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Let's Be Us Again](https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY) | 3:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [Making Memories Of Us](https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:56 |
 | 125 | [My Next Thirty Years](https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:37 |
 
-Snapshot ID: `MCw2ODVkNzFkZDM0ZGMxYTIwZGE3YWUwOGFiODBiNTNiZjY5MzkyZDYy`
+Snapshot ID: `MCwxYmJkNmM0NzVlYTZkODljNWJlMDVkZjFlNjk1NjJhOWExZGRmODA4`

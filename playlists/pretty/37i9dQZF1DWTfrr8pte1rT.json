@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 313475,
+  "num_followers": 313624,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTk2YmFlODgxNTkyYTk0NWU4OWJmNjBjOWI1MjhlYzRiNTNiNmVm",
+  "snapshot_id": "MCw4MTZlNTRmZmI3ZmM1ZDdhZTQyZDEwZjE1NDlkOWQ5MWQyZDk4NDQz",
   "tracks": [
     {
       "added_at": "2023-08-11 13:36:25",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
-      },
-      "artists": [
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
         "name": "Beyond the Senses",
         "url": "https://open.spotify.com/album/3pYfGgnd7jxga8VzEMOniD"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 209416,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1660w15xd64WxBUirN9e4E"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
       },
@@ -1571,22 +1555,18 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
         }
       ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -1611,6 +1591,26 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
         "name": "Loving You Kills Me",
         "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
+        "name": "Let Them Only See Butterflies",
+        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "SURRENDER PEACE!",
+      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -1759,22 +1775,6 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Let Them Only See Butterflies",
-        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "SURRENDER PEACE!",
-      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
         "name": "Enemy Brain Entertainment Suite",
         "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
       },
@@ -1787,42 +1787,6 @@
       "duration_ms": 251511,
       "name": "Enemy Brain",
       "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
-      },
-      "artists": [
-        {
-          "name": "Mausio",
-          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
-      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -1863,22 +1827,38 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Tear You Apart (feat. Aaron Gillespie)",
-        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
         }
       ],
-      "duration_ms": 143180,
-      "name": "Tear You Apart (feat. Aaron Gillespie)",
-      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+      "duration_ms": 208000,
+      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
+      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
+      },
+      "artists": [
+        {
+          "name": "Mausio",
+          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -1899,6 +1879,50 @@
       "duration_ms": 215172,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
+        "name": "Tear You Apart (feat. Aaron Gillespie)",
+        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "duration_ms": 143180,
+      "name": "Tear You Apart (feat. Aaron Gillespie)",
+      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
+        "name": "demolition (Ruined by Glass Petals)",
+        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "demolition (Ruined by Glass Petals)",
+      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -1939,30 +1963,6 @@
       "duration_ms": 171243,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
-        "name": "demolition (Ruined by Glass Petals)",
-        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "demolition (Ruined by Glass Petals)",
-      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -2043,26 +2043,6 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -2099,6 +2079,50 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
+      },
+      "artists": [
+        {
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
+        },
+        {
+          "name": "PatFromLastYear",
+          "url": "https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
@@ -2131,6 +2155,22 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
         "name": "Do Or Die (Alternate Versions)",
         "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
       },
@@ -2151,46 +2191,6 @@
       "duration_ms": 148153,
       "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
       "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
-      },
-      "artists": [
-        {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
-      },
-      "artists": [
-        {
-          "name": "DVRKCLOUD",
-          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
-        },
-        {
-          "name": "PatFromLastYear",
-          "url": "https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -2231,26 +2231,6 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
-    },
-    {
-      "added_at": "2023-08-11 13:36:25",
-      "album": {
-        "name": "Pursuit of Violence",
-        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Pursuit of Violence",
-      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -2319,6 +2299,26 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
+        "name": "Pursuit of Violence",
+        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Pursuit of Violence",
+      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
+    },
+    {
+      "added_at": "2023-08-11 13:36:25",
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2383,22 +2383,22 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "UMBRA",
-        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
+        "name": "Cute Without The E (Ziri)",
+        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
       "artists": [
         {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 217600,
-      "name": "UMBRA",
-      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
+      "duration_ms": 202105,
+      "name": "Cute Without The E (Ziri)",
+      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -2423,22 +2423,22 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Cute Without The E (Ziri)",
-        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
+        "name": "UMBRA",
+        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
         },
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Cute Without The E (Ziri)",
-      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+      "duration_ms": 217600,
+      "name": "UMBRA",
+      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
     },
     {
       "added_at": "2023-08-11 13:36:25",
@@ -2483,22 +2483,26 @@
     {
       "added_at": "2023-08-11 13:36:25",
       "album": {
-        "name": "Walk On Water (with Danni Carra)",
-        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
       },
       "artists": [
         {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
         },
         {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
         }
       ],
-      "duration_ms": 182844,
-      "name": "Walk On Water (with Danni Carra)",
-      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
     }
   ],
   "unique_name": "Rocktronic",

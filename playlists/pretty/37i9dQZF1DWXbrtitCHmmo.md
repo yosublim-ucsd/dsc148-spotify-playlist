@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Christina Aguilera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,018 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,142 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 19 | [Te Mando Flores](https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazón](https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx) | 3:48 |
 | 20 | [Mi primer millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
 | 21 | [Na De Na](https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw) | 3:22 |
-| 22 | [Todavia \- Radio Edit](https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac) | [La Factoría](https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf) | [Todavia \(Radio Edit\)](https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8) | 3:23 |
-| 23 | [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 |
+| 22 | [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 |
+| 23 | [Todavia \- Radio Edit](https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac) | [La Factoría](https://open.spotify.com/artist/3lxRO5odRiOgZaSPvjfVIf) | [Todavia \(Radio Edit\)](https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8) | 3:23 |
 | 24 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 |
 | 25 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 26 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 49 | [Ave María](https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 3:29 |
 | 50 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 |
 
-Snapshot ID: `MCwxNTRmYjRkYTE1Yjk2ZGU0NTdkMmRhMjM0YjkxMjY0YjllNzUwNmI4`
+Snapshot ID: `MCw2NGE2Y2UyY2FhN2RiMWUwNTFiMzg0YmM3YTA1NGVlYzBjN2QyMTU4`

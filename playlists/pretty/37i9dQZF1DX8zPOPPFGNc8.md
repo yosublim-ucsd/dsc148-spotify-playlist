@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,503 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,523 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 30 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 |
 | 31 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 32 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
-| 33 | [Oh Boy](https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:24 |
-| 34 | [Candy \(feat\. Trippie Redd\)](https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:36 |
+| 33 | [Candy \(feat\. Trippie Redd\)](https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:36 |
+| 34 | [Oh Boy](https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:24 |
 | 35 | [No More Parties In LA](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:14 |
 | 36 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 |
 | 37 | [True Colors](https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zPOPPFGNc8.md) - [plain]
 | 49 | [Fade](https://open.spotify.com/track/3cCxoOgfi6hgt8MNteuiiD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:13 |
 | 50 | [Blood On The Leaves](https://open.spotify.com/track/42GcjriRK6srwHkfbkBqVl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:59 |
 
-Snapshot ID: `MCxmNzdkOGIxY2FkNjY0ZTkzOTg2MmIwYmYwOTExZWU2ODU2YTBhYjZm`
+Snapshot ID: `MCw4MDYzYzBkNDVjMmMwNGYxNjNjNDVmODJhNTljYzY1NmJlNDVhZTA5`

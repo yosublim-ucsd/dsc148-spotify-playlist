@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-320 songs - 15 hr 46 min
+321 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Revolution](https://open.spotify.com/track/3CTLH5sQ7doPG5ZQrF7NN5) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Revolution](https://open.spotify.com/album/3gWdVvk4ba5ibey7MBDEvd) | 2:31 | 2023-06-15 |  |
 | [Ricochet](https://open.spotify.com/track/6tGXmjNXIZ0AHvmQzeApaj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Ricochet](https://open.spotify.com/album/3FBiuG25koQiNpp39km7g1) | 3:25 | 2022-06-27 | 2022-06-29 |
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-05-06 |  |
-| [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 | 2022-05-06 |  |
+| [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 | 2022-05-06 | 2023-08-18 |
 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C) | 2:45 | 2023-04-07 |  |
 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-04 | 2023-05-07 |
 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-04 |  |
@@ -294,6 +294,7 @@
 | [The Feeling](https://open.spotify.com/track/1Cx3Lpnto8xJ5dsfU3DPus) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [The Feeling](https://open.spotify.com/album/7HQicNqN0vt4eVPcIcem2c) | 2:56 | 2022-05-06 | 2022-05-18 |
 | [The One That Got Away](https://open.spotify.com/track/0GnPdea2JxqU0LUtMyjoqa) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [The One That Got Away](https://open.spotify.com/album/1elHd0i7c7smBDYaGugWFP) | 2:46 | 2022-05-06 | 2022-07-29 |
 | [The Power](https://open.spotify.com/track/3P4Njv41xI7nh769UNxQ8b) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [The Power](https://open.spotify.com/album/3gRSOzzY4aD1bAp6jioomH) | 3:21 | 2022-12-20 | 2023-03-22 |
+| [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-17 |  |
 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 | 2022-07-22 | 2023-03-18 |
 | [Touch](https://open.spotify.com/track/6Zvls4aPdB7gl6qBQn17Ow) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Touch](https://open.spotify.com/album/1xGKi8I29hO7K0a94hYzsS) | 2:37 | 2022-07-05 | 2022-07-24 |
 | [Unconditional](https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Unconditional](https://open.spotify.com/album/4FNKXpTgL0M2Tnkw5p5Q8M) | 2:15 | 2022-05-06 | 2022-05-22 |

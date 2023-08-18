@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 
 > The soundtrack to being to best version of you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,720 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,790 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 44 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
 | 45 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
 | 46 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
-| 47 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
-| 48 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
+| 47 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
+| 48 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
 | 49 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 50 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 |
 
-Snapshot ID: `MCxkZTU4ZmQzNTQyYjg4YWQ2ZTZkZTUyNGIyMzM2NGUxZWY0NzE4N2Zh`
+Snapshot ID: `MCw2NzY5YTg0MjczNWIwNzQ3YWQ0MjcyNTQxNjFkZjQwYjhlMjQ0YjQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 
 > Pop gems to help you concentrate and stay focused.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,299 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,339 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 18 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 |
 | 19 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
 | 20 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
-| 21 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
-| 22 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
-| 23 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 |
+| 21 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
+| 22 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
+| 23 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 24 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
-| 25 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 25 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 |
 | 26 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 |
 | 27 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 28 | [Scars To Your Beautiful](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 59 | [Ocean \(feat\. Khalid\)](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ocean \(feat\. Khalid\)](https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH) | 3:36 |
 | 60 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
 
-Snapshot ID: `MCxmMzNmNTkzMmM5NGE4NjYwOGUwMjA1NTVkZDk3ODcwMDg3MmJmZTkw`
+Snapshot ID: `MCwyNzgxZjM2MGY0MjY2YjUwNTcxN2I4YmUyODM2NjIzMzNiOGQ2NDVi`

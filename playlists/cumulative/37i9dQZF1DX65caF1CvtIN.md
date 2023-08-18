@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-181 songs - 8 hr 8 min
+182 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Danser sur l'eau](https://open.spotify.com/track/1xD8zsDs5DrdgAt5nLjld3) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Danser sur l'eau](https://open.spotify.com/album/5FvZePn0rnfnsc1OrxoElH) | 3:06 | 2022-08-03 | 2022-12-07 |
 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 | 2023-08-01 |  |
 | [Dear Mom](https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV) | [Silke Böhm](https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8) | [Dear Mom](https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm) | 2:40 | 2022-08-03 |  |
-| [Dernière Maison](https://open.spotify.com/track/2RuC6Qw0PI5dOKmsx0jugB) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Dernière Maison](https://open.spotify.com/album/1l2rtplpp2AjuJCFNfkLqs) | 3:49 | 2022-08-03 |  |
+| [Dernière Maison](https://open.spotify.com/track/2RuC6Qw0PI5dOKmsx0jugB) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Dernière Maison](https://open.spotify.com/album/1l2rtplpp2AjuJCFNfkLqs) | 3:49 | 2022-08-03 | 2023-08-18 |
+| [Dernière Maison](https://open.spotify.com/track/5Zwq7RkrAa4dvDsXHaguTw) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Dernière Maison](https://open.spotify.com/album/3vlILO84L8JhztRlW4jsLN) | 3:49 | 2023-08-01 |  |
 | [Divide Us](https://open.spotify.com/track/0h9uZ8bs4oKsGQ2PTmWVZw) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Divide Us](https://open.spotify.com/album/04HWxSrMObA0BehN4545yu) | 2:30 | 2022-08-03 | 2023-06-21 |
 | [Dobranoc](https://open.spotify.com/track/0ymQYGkndtxeVfKkz1DRUk) | [Linda Rum](https://open.spotify.com/artist/0Bg5HlN25RTMhZd6dXdQsA) | [Dobranoc](https://open.spotify.com/album/7g6V92PRci3rWH9wc6MHrd) | 1:34 | 2023-01-26 |  |
 | [Dream if I May](https://open.spotify.com/track/4BKyaEiMkhd82gOp47YvLv) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Dream if I May](https://open.spotify.com/album/7x0Jc1HcCjOcbWqpqWzM8X) | 2:29 | 2022-10-24 |  |

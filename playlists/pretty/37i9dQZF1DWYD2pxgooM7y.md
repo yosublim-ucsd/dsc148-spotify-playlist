@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,026 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,042 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 45 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 46 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 |
 | 47 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
-| 48 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
-| 49 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
+| 48 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
+| 49 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
 | 50 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
 | 51 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 52 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 59 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 |
 | 60 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 |
 
-Snapshot ID: `MCxkYjgzNTdkNzIwMzdmNTcxZjY2MWUxY2NlZDQ1ZjZiZjc0N2IyNWMy`
+Snapshot ID: `MCwzNzkzY2YyYTU2Mjk0NGI0MWM5NDg3MzQ1OWEwZjE2NmU5NTlkNjE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,279,025 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,278,575 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 65 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 |
 | 66 | [A Holly Jolly Christmas](https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 2:22 |
 | 67 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
-| 68 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
-| 69 | [Jingle Bells](https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:02 |
+| 68 | [Jingle Bells](https://open.spotify.com/track/4KV9bM7a1KDc7b7OakFZic) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:02 |
+| 69 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
 | 70 | [Ring Out The Bells](https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Ring Out The Bells](https://open.spotify.com/album/0YieGjIrwXOYgt4IBDTGbn) | 3:59 |
 | 71 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
 | 72 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
-| 73 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
-| 74 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
+| 73 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 |
+| 74 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
 | 75 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [White Christmas \(Spotify Singles \- Holiday, Recorded at Air Studios, London\)](https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0) | 3:12 |
-| 76 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 |
+| 76 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
 | 77 | [Santa Baby](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 2:50 |
 | 78 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:35 |
 | 79 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 99 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 |
 | 100 | [Under The Mistletoe](https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Under The Mistletoe](https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U) | 3:45 |
 
-Snapshot ID: `MCxjYjQ0MjY0ODE0MTU2ZTY1OTg3MzNlOTQyMGY1ZTJhNDU5ZTdjMTg1`
+Snapshot ID: `MCwxNWExNjdhYzA2MDU1ZjEyOGUwZjU3NDVhOTE1NzliNDJiODhkNGU0`

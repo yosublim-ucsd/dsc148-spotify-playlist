@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-598 songs - 1 day 8 hr 8 min
+599 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2021-03-27\* | 2021-07-02 |
 | [HERIDAS AL FUEGO](https://open.spotify.com/track/1a1yKhVDTGjAenCIwqYoD6) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:52 | 2022-11-12 | 2022-11-18 |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-24 |  |
+| [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 | 2023-08-17 |  |
 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 | 2022-10-12 | 2022-12-04 |
 | [Hoy Volvi a Verte \- Remix](https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [El Retutu](https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Hoy Volvi a Verte \(Remix\)](https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0) | 2:42 | 2022-01-02 | 2022-04-24 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-01-03 | 2023-02-06 |
@@ -582,7 +583,7 @@
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2021-07-11 | 2022-04-14 |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-08-05 | 2021-12-27 |
 | [WACHA](https://open.spotify.com/track/5RmSunLqeDqNWww8LWhAiK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [WACHA](https://open.spotify.com/album/6DHfMP3XhSQYlxs5a9l7s4) | 3:26 | 2021-04-04 | 2021-07-29 |
-| [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-01-25 |  |
+| [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-01-25 | 2023-08-18 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-20 |  |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-08-09 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-15 | 2021-08-27 |

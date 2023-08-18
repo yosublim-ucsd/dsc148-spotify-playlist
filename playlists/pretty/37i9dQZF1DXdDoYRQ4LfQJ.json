@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Fuerza Regida",
-  "num_followers": 218862,
+  "num_followers": 219042,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWM2YjlkNjUwNGE0MWNjMmIyM2ZjOWRmZWM2ZWMyMzY3YzZkOWNk",
+  "snapshot_id": "MCw3OTQwYzg1ZTlhMGMwMzQ2MjE2MDE3N2U4M2VlODllMTQ4OGViYWI2",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 172056,
       "name": "Mi Terre CLN",
       "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -495,22 +495,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+        "name": "Billete Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 182133,
-      "name": "En Corto",
-      "url": "https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C"
+      "duration_ms": 163940,
+      "name": "Billete Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -571,22 +571,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Billete Grande (En Vivo)",
-        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 163940,
-      "name": "Billete Grande (En Vivo)",
-      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+      "duration_ms": 182133,
+      "name": "En Corto",
+      "url": "https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Ch y la Pizza",
+        "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 136913,
+      "name": "Ch y la Pizza",
+      "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 225152,
       "name": "Como Jordan",
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Pancake",
-      "url": "https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -735,28 +735,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ch y la Pizza",
-        "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 136913,
-      "name": "Ch y la Pizza",
-      "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Como Es Arriba Es Abajo",
-        "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
       },
       "artists": [
         {
@@ -764,13 +744,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 165351,
-      "name": "Como Es Arriba Es Abajo",
-      "url": "https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP"
+      "duration_ms": 182666,
+      "name": "Pancake",
+      "url": "https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -883,22 +863,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+        "name": "Como Es Arriba Es Abajo",
+        "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         }
       ],
-      "duration_ms": 174275,
-      "name": "Aerol\u00ednea Carrillo",
-      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
+      "duration_ms": 165351,
+      "name": "Como Es Arriba Es Abajo",
+      "url": "https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -915,6 +895,26 @@
       "duration_ms": 163893,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 174275,
+      "name": "Aerol\u00ednea Carrillo",
+      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Don Chon (En Vivo)",
         "url": "https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 226500,
       "name": "Don Chon (En Vivo)",
       "url": "https://open.spotify.com/track/0OeX94j6rMIBHX7DGlOGzB"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Hay Niveles",
-        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 122111,
-      "name": "Hay Niveles",
-      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "El Fugitivo (En Vivo)",
         "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 178050,
       "name": "El Fugitivo (En Vivo)",
       "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 122111,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
     },
     {
       "added_at": "2023-06-30 04:00:00",

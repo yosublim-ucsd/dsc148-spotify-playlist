@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > the best of the best from oldies to new classics\. Cover: boygenius \- Phoebe Bridgers, Lucy Dacus & Julien Baker.
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,306 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,741 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 46 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 47 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 48 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
-| 49 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 50 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
+| 49 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
+| 50 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 51 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 | 52 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 53 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 100 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
 
-Snapshot ID: `MCw0Y2QwMGE4MTg3ZDkyNDUyNzg1YzNkYjQyMjNjNzUzYzc4NTAwNTg2`
+Snapshot ID: `MCw3YWEzYTE5OTI0MjUyMGVlMTc5MmQxZTQ3YjY0ZmUyMzg5MDRkNGIy`

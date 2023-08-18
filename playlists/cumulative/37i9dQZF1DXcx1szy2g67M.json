@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 171562,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/02hEGjpkW2JyvtB8eel4gP"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
@@ -1238,6 +1238,24 @@
       "duration_ms": 164041,
       "name": "Down In Atlanta",
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
       "album": {
@@ -2727,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf"
       },
@@ -2942,6 +2978,24 @@
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+    },
+    {
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/6IGDQuZ2OPeIR7FluRkdOp"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131357,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/42UehjzjbsPaN3Xq0B8F2D"
     },
     {
       "album": {
@@ -3614,7 +3668,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"

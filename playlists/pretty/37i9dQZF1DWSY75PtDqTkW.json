@@ -1,12 +1,12 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 81135,
+  "num_followers": 81182,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDc3ZjVmMGQ0YmEyZmE0MDFjMzBkYzRkYWQyN2Y3ZGY4NGZmZmVk",
+  "snapshot_id": "MCw5YmQxMjVlNzgxYTIwZGMwNjZiNDU3MjY4ZjBhNzk2YzRiZTU4YTQ5",
   "tracks": [
     {
       "added_at": "2023-07-20 15:40:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Follow The Sun",
-      "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Follow The Sun",
+      "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Talkin' Bout a Revolution",
-      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Talkin' Bout a Revolution",
+      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 285000,
       "name": "While My Guitar Gently Weeps - Remastered 2009",
       "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Miss You - Remastered",
-      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "All the Lost Souls",
         "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 280026,
       "name": "1973",
       "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Miss You - Remastered",
+      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 196986,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 264546,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
       },
@@ -2811,6 +2795,22 @@
       "duration_ms": 218000,
       "name": "About A Girl",
       "url": "https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },
@@ -2991,18 +2975,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3019,6 +3003,22 @@
       "duration_ms": 291200,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3119,22 +3119,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
-      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -3147,6 +3131,22 @@
       "duration_ms": 235666,
       "name": "Save Room",
       "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3363,22 +3363,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Lost in Music - 1995 Remaster",
-      "url": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "So (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
       },
@@ -3391,6 +3375,22 @@
       "duration_ms": 311986,
       "name": "Sledgehammer - 2012 Remaster",
       "url": "https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Lost in Music - 1995 Remaster",
+      "url": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3623,22 +3623,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Ghostboy",
-        "url": "https://open.spotify.com/album/56cm9bMgceSRTLxMNMU10F"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Rios",
-          "url": "https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Broad Daylight",
-      "url": "https://open.spotify.com/track/5S8QeiTS2ehiXtzNDV2yR8"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
@@ -3651,6 +3635,22 @@
       "duration_ms": 240912,
       "name": "Pain and Misery",
       "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Ghostboy",
+        "url": "https://open.spotify.com/album/56cm9bMgceSRTLxMNMU10F"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Rios",
+          "url": "https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Broad Daylight",
+      "url": "https://open.spotify.com/track/5S8QeiTS2ehiXtzNDV2yR8"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3719,22 +3719,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Robert Cray",
-        "url": "https://open.spotify.com/album/7jFlpHRQMaYHxKP5z0ZqiL"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 258853,
-      "name": "Right Next Door (Because Of Me)",
-      "url": "https://open.spotify.com/track/23YyyUiEZYlT3MkzpZhRbW"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -3747,6 +3731,22 @@
       "duration_ms": 197346,
       "name": "Right As Rain",
       "url": "https://open.spotify.com/track/6oW04c2E7lebl09WHsBAWO"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Robert Cray",
+        "url": "https://open.spotify.com/album/7jFlpHRQMaYHxKP5z0ZqiL"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 258853,
+      "name": "Right Next Door (Because Of Me)",
+      "url": "https://open.spotify.com/track/23YyyUiEZYlT3MkzpZhRbW"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -4003,22 +4003,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Powerful People",
-        "url": "https://open.spotify.com/album/4nvSQNHUXTqJgfzAnyBI8V"
-      },
-      "artists": [
-        {
-          "name": "Gino Vannelli",
-          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "People Gotta Move",
-      "url": "https://open.spotify.com/track/2ZZrWIvrGh6P6Hhabf8FtB"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "All This Dancin' around",
         "url": "https://open.spotify.com/album/4BnvRP9X47bdGj6NRNoEMq"
       },
@@ -4031,6 +4015,22 @@
       "duration_ms": 213551,
       "name": "I Follow Rivers - Live @ Giel!",
       "url": "https://open.spotify.com/track/6HUCDcXf4M59NBZ5EOtd5T"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Powerful People",
+        "url": "https://open.spotify.com/album/4nvSQNHUXTqJgfzAnyBI8V"
+      },
+      "artists": [
+        {
+          "name": "Gino Vannelli",
+          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "People Gotta Move",
+      "url": "https://open.spotify.com/track/2ZZrWIvrGh6P6Hhabf8FtB"
     },
     {
       "added_at": "2023-07-20 15:40:53",

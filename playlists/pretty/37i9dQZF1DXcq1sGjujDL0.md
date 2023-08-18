@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,999 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,070 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 26 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 27 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 28 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 |
-| 29 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
-| 30 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
+| 29 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
+| 30 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
 | 31 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
 | 32 | [Stayin' Alive](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
 | 33 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 59 | [Via con me](https://open.spotify.com/track/3Ltil0t3nFOcGrlUF1itBs) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [I primi tempi](https://open.spotify.com/album/2orZA4uo3End7RLL5USkHb) | 2:46 |
 | 60 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 |
 
-Snapshot ID: `MCw3MzllMWU3NTI3MmI5MTM4ZDA3M2U1ZDExZDczYWQ1NmM4NjI2MGVk`
+Snapshot ID: `MCwxMDJlZTYyODZjOTQzYmQxYTg3ZTc4N2JmYjAzMzkzYjViNTMzNzZh`

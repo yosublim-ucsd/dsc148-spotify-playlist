@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Gordo & Maluma ",
+  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Skrillex",
   "name": "mint Japan",
   "tracks": [
     {
@@ -569,6 +569,36 @@
     },
     {
       "album": {
+        "name": "Badders",
+        "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "Badders",
+      "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
+    },
+    {
+      "album": {
         "name": "BANG BANG! (My Neurodivergent Anthem)",
         "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
       },
@@ -708,7 +738,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
@@ -778,7 +808,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 170976,
       "name": "Call Your Name",
       "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
@@ -918,7 +948,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 304615,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd"
@@ -984,7 +1014,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 151992,
       "name": "Cho-chocolate drip - TREKKIE TRAX CREW Remix",
       "url": "https://open.spotify.com/track/7wjemV3dbDKdCRxUXyVBKf"
@@ -1169,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Blueprint for The New Paradise EP",
+        "url": "https://open.spotify.com/album/11C435OHLrwgdPfnJQrSp2"
+      },
+      "artists": [
+        {
+          "name": "andrew",
+          "url": "https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260820,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0cDL24bVUylhb8kw1BOeoQ"
+    },
+    {
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1236,7 +1284,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 159375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
@@ -1456,7 +1504,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
@@ -1567,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "album": {
         "name": "Family Affair (Dance For Me)",
         "url": "https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH"
       },
@@ -1578,7 +1644,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 158391,
       "name": "Family Affair (Dance For Me)",
       "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
@@ -1614,7 +1680,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 124462,
       "name": "Feel It - Club Edit",
       "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
@@ -1776,7 +1842,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 172319,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
@@ -1824,7 +1890,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 175032,
       "name": "Good Morning (feat. YOU)",
       "url": "https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV"
@@ -1898,7 +1964,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 174794,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
@@ -2012,7 +2078,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
@@ -2144,7 +2210,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 198867,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
@@ -2507,6 +2573,32 @@
     },
     {
       "album": {
+        "name": "Locked Up (ft. Akon)",
+        "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147170,
+      "name": "Locked Up (ft. Akon)",
+      "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
+    },
+    {
+      "album": {
         "name": "Lose You (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
       },
@@ -2624,7 +2716,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 216363,
       "name": "Mahoya",
       "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"
@@ -2760,7 +2852,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 247272,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
@@ -2926,6 +3018,32 @@
       "duration_ms": 170184,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
+    },
+    {
+      "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
     },
     {
       "album": {
@@ -3144,12 +3262,12 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        },
-        {
           "name": "Sam Tompkins",
           "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
       "date_added": "2023-07-13",
@@ -3722,7 +3840,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 175748,
       "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
@@ -3938,7 +4056,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 148571,
       "name": "Still Cutting Shapes",
       "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
@@ -4390,7 +4508,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 149642,
       "name": "We Could Be Together",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
@@ -4636,7 +4754,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 201360,
       "name": "Won't Forget This Time ft. John Martin",
       "url": "https://open.spotify.com/track/5q8Z8P353nbfsiXz4Jdho9"

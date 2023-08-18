@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,657 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,790 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 63 | [Mujer Alegre](https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Mujer Alegre](https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat) | 3:37 |
 | 64 | [Volveré](https://open.spotify.com/track/6EcODHnvkLbnm8sXPqq8qT) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Volveré](https://open.spotify.com/album/0wfZvpbKHbH6ChRnZKQs0x) | 2:27 |
 | 65 | [El Toro De Once \(En Vivo\)](https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 1:59 |
-| 66 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
-| 67 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
-| 68 | [La Gitanilla \- En VIvo](https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(En Vivo\)](https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj) | 3:12 |
+| 66 | [La Gitanilla \- En VIvo](https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(En Vivo\)](https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj) | 3:12 |
+| 67 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
+| 68 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
 | 69 | [El Torito de Petate \- La Fiesta del Carnaval](https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [Y Seguimos Loqueando!](https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq) | 4:04 |
 | 70 | [La Feria de Cali](https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 2:41 |
 | 71 | [Recuerdos a Hernán](https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [De Michoacán al Guamuchil \(Los Mejores Sones de Jaripeo\)](https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ) | 3:03 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 80 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |
 | 81 | [El Tecolotito](https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Arriba Mi Rancho](https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ) | 3:45 |
 | 82 | [Popurrí: Bésame Morenita / La Loba del Mal / Las Guilotas](https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Y de Aquí Pal Real \- La Herencia del Rey](https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR) | 4:34 |
-| 83 | [La Amachona \- Sones para Jaripeo](https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:00 |
-| 84 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
+| 83 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
+| 84 | [La Amachona \- Sones para Jaripeo](https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:00 |
 | 85 | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02) | [Banda Perla De Michoacán](https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84) | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9) | 2:46 |
 | 86 | [Los Once Pueblos](https://open.spotify.com/track/3r6RZczKIOru45X6M7YzQQ) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:15 |
 | 87 | [Arriba Pichantaro \(En Vivo\)](https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl) | [Banda Imperio De Colima](https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s) | [En Vivo Desde Colima, Vol\. 2](https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCwxYWQxNjVhZjljNmI4YjAzZTRhODM5NzgzNDM1MTMzYjAzNWI5Nzhi`
+Snapshot ID: `MCxlNzI5ZGMzNWE0Y2EwZWU4MzFhOTg0ODI2MTY1NGM4NWY2MzJmMzM1`

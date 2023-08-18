@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,137 likes - 110 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,896 likes - 110 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,20 +76,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 66 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 |
 | 67 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 |
 | 68 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 |
-| 69 | [Still of the Night \- 2018 Remaster](https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 6:37 |
-| 70 | [The Unforgiven II](https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD) | 6:36 |
+| 69 | [The Unforgiven II](https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD) | 6:36 |
+| 70 | [Still of the Night \- 2018 Remaster](https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 6:37 |
 | 71 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 72 | [Voice of the Soul](https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 3:43 |
 | 73 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
-| 74 | [Without You](https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:30 |
-| 75 | [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 |
+| 74 | [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 |
+| 75 | [Without You](https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:30 |
 | 76 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
 | 77 | [Wasted Time](https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 5:48 |
 | 78 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
 | 79 | [Hold on to Memories](https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 5:03 |
 | 80 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 |
-| 81 | [I Won't Forget You \- Remastered](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
-| 82 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
+| 81 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
+| 82 | [I Won't Forget You \- Remastered](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
 | 83 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 84 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 |
 | 85 | [Blue on Black](https://open.spotify.com/track/1ADRAy7q7FjRak0uQva68H) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 4:34 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 88 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
 | 89 | [We Are One](https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 4:41 |
 | 90 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
-| 91 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
-| 92 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
+| 91 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
+| 92 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 | 93 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
 | 94 | [The Unforgiven III](https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06) | 7:46 |
 | 95 | [Windowpane](https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Damnation](https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9) | 7:44 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 109 | [You're All I Need](https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(2021 \- Remaster\)](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:33 |
 | 110 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
 
-Snapshot ID: `MCxjZmYwZWQyZDk1ZDdkM2JiZDYwMjRjMmYwZDFmNDM4YmM4YmNhOWNl`
+Snapshot ID: `MCw0MDRkNTIwMWIzZGEzMjU1YTIyNzM5MjhkN2RkM2M3Njg1ZjAzOGE4`

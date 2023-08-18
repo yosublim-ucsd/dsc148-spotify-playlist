@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,118 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,364 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 13 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 | 14 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 15 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
-| 16 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
-| 17 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
+| 16 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
+| 17 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
 | 18 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 19 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 20 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 70 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
 | 71 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
 | 72 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
-| 73 | [The Emperor's New Clothes](https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 5:16 |
+| 73 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 74 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 |
-| 75 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
+| 75 | [The Emperor's New Clothes](https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 5:16 |
 | 76 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
-| 77 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
-| 78 | [Stand By Me \- Remastered](https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:55 |
+| 77 | [Stand By Me \- Remastered](https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:55 |
+| 78 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
 | 79 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 |
 | 80 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
 
-Snapshot ID: `MCw1NjIyMzdhM2ZhNjBiMDRkZjFiOWFlNmVmNzQwNDBjMWE2ZTBjNmEz`
+Snapshot ID: `MCw0YmM1MDNhYTE1Y2RlNTJhMTExY2ZlMTBkMGY3ZTczZTIzZTEwYzY0`

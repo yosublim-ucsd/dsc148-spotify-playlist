@@ -4,7 +4,7 @@
 
 > El soundrack del verano 2023 🏝️ Cover: Marshmello & Manuel Turizo
 
-238 songs - 13 hr 0 min
+239 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [CHASING THE SUN](https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:31 | 2021-11-10 | 2022-07-29 |
 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2021-11-10 |  |
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-06-08 |  |
+| [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-08-17 |  |
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-07-11 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-11-10 |  |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-07 |  |
@@ -207,7 +208,7 @@
 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 | 2022-08-02 | 2022-12-31 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2022-01-24 |  |
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2021-11-10 |  |
-| [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 | 2021-11-10 |  |
+| [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 | 2021-11-10 | 2023-08-18 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-06-14 |  |
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2021-11-10 | 2023-03-29 |
 | [Te Perdí](https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Te Perdí](https://open.spotify.com/album/7kYuBysyq8f3BfcV3jJ7J7) | 3:17 | 2022-12-30 | 2023-03-29 |

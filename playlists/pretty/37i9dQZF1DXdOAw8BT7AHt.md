@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in new punk rock music\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,635 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,646 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,22 +43,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 33 | [Tequila](https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz) | 1:45 |
 | 34 | [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 |
 | 35 | [Teenage Runaways](https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 2:59 |
-| 36 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 |
-| 37 | [New England](https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 3:38 |
+| 36 | [New England](https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 3:38 |
+| 37 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 |
 | 38 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
 | 39 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 40 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
-| 41 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
-| 42 | [Knees Deep](https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 3:39 |
+| 41 | [Knees Deep](https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 3:39 |
+| 42 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
 | 43 | [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 |
 | 44 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
 | 45 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
 | 46 | [Losing My Mind](https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Losing My Mind](https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf) | 3:52 |
-| 47 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 |
-| 48 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
+| 47 | [Silence Is Golden](https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 2:56 |
+| 48 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 |
 | 49 | [Cry To Heaven](https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Cry To Heaven](https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM) | 4:29 |
-| 50 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
-| 51 | [Silence Is Golden](https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 2:56 |
+| 50 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
+| 51 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
 | 52 | [Bubblegum Infinity](https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 3:10 |
 | 53 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 |
 | 54 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 72 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 |
 | 73 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 74 | [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 |
-| 75 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 |
-| 76 | [Rob the Supermarket](https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:14 |
+| 75 | [Rob the Supermarket](https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:14 |
+| 76 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 |
 | 77 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 |
 | 78 | [Bricks](https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | ['Til the Wheels Fall Off](https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y) | 3:33 |
 | 79 | [Your Turn](https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Cairn](https://open.spotify.com/artist/6KxIsdPhNIBjLcChkonQsv) | [Your Turn](https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59) | 2:23 |
 | 80 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 
-Snapshot ID: `MCxlNzYwODc1Yjc4Y2FlMzBhZmNlZjU5YTQ0MDBiNjIxMWQ2NGQyMTll`
+Snapshot ID: `MCwxZWUzZDYwNDY0ZTQ5YjJmMWYwMDM2ODA1YWYyZmU5ZjVlNzlmNjli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,970 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,976 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 34 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 35 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 36 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
-| 37 | [Dawn Chorus](https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 3:55 |
-| 38 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 |
+| 37 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 |
+| 38 | [Dawn Chorus](https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 3:55 |
 | 39 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 40 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 |
 | 41 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 |
 | 50 | [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 |
 
-Snapshot ID: `MCxhYzI3NmQwMGYxNDRiMmRhNzA1OTZmMDU1ODFkMjBkYTcwMTc1YTlj`
+Snapshot ID: `MCw3YTM1NmI2NTEzOGY4NmVhM2E2ODliYTg1MGZiZDllZTdiNjc1NWU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,788,002 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,788,181 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 67 | [Sweetest Thing](https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7) | 3:38 |
 | 68 | [Part of Me](https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2) | 3:02 |
 | 69 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
-| 70 | [The One You Love](https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Kate Miller Heidke](https://open.spotify.com/artist/1ChKcTlKCWZxWAvmyUhB3t) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:02 |
-| 71 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
+| 70 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
+| 71 | [The One You Love](https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Kate Miller Heidke](https://open.spotify.com/artist/1ChKcTlKCWZxWAvmyUhB3t) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:02 |
 | 72 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
 | 73 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 |
 | 74 | [Gold](https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz), [Maggie Peake](https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN) | [Gold](https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
 | 100 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
 
-Snapshot ID: `MCw0M2Q1NmVjNTI0ZTRmZDRhOWVmNTk4NGI3MjEyMGUxMmY2ZDRjM2Q2`
+Snapshot ID: `MCxkNTBhODdjMDkzZjNjZjUxNTdiMThiYTExOTc4NzYwZmYzNWJjN2Rj`

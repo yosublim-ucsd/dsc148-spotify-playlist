@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Tove Lo",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Charlie Puth",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
+    {
+      "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165056,
+      "name": "16",
+      "url": "https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy"
+    },
     {
       "album": {
         "name": "5 AM",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185147,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/2vZ8h5CXVsOlClCXj89DDW"
@@ -68,7 +86,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 176454,
       "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "url": "https://open.spotify.com/track/2yjeXq5ahx6UUg2rHaUe6X"
@@ -90,6 +108,42 @@
       "duration_ms": 200911,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
+    },
+    {
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/54sLwWesyZgbm1a14PYq9X"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187713,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/04jQY5VHHilNqaWCabuSzz"
+    },
+    {
+      "album": {
+        "name": "At Your Worst",
+        "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167201,
+      "name": "At Your Worst",
+      "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
     },
     {
       "album": {
@@ -212,7 +266,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -332,6 +386,28 @@
       "duration_ms": 190633,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a"
+    },
+    {
+      "album": {
+        "name": "don't shop when ur hungry !! (feat. vaultboy)",
+        "url": "https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140853,
+      "name": "don\u2019t shop when ur hungry !! (feat. vaultboy)",
+      "url": "https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl"
     },
     {
       "album": {
@@ -712,7 +788,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 213706,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/7DD5C8Dxq3acjvwDUCvuQQ"
@@ -770,7 +846,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 185933,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS"
@@ -828,6 +904,42 @@
       "duration_ms": 256528,
       "name": "Kollage",
       "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
+    },
+    {
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/1H6XatdVMrvJMvokzH2Kef"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/1mreBnJEA5A6uIOTzkKq8Z"
+    },
+    {
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
     },
     {
       "album": {
@@ -972,7 +1084,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 162587,
       "name": "Never Look Back",
       "url": "https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M"
@@ -1095,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146234,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
       },
@@ -1106,7 +1236,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
@@ -1124,7 +1254,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -1168,6 +1298,24 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
     },
     {
       "album": {
@@ -1360,7 +1508,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 149653,
       "name": "UNHEALTHY (feat. Shania Twain)",
       "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
@@ -1476,7 +1624,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 199280,
       "name": "World Class Sinner / I\u2019m A Freak",
       "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"

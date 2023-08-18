@@ -1,12 +1,12 @@
 {
   "description": "Der Soundtrack f\u00fcr deinen Sommer \u2600\ufe0f",
-  "num_followers": 1271083,
+  "num_followers": 1271341,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmQyNTc3OTI3MTY2ZTMyZGEyZDg2M2NmMmJmNDU2NDdkN2FlMzNi",
+  "snapshot_id": "MCxkM2QzMWI0ZjdjNjgxN2E2OGE5NGRkNjZiOWE1YWVjZWU3NjQ3M2U3",
   "tracks": [
     {
       "added_at": "2023-07-28 08:47:36",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
         "name": "Blame Brett",
         "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "Bedroom Exile",
-        "url": "https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 198970,
-      "name": "Bedroom Exile",
-      "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
+        "name": "Bedroom Exile",
+        "url": "https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 198970,
+      "name": "Bedroom Exile",
+      "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sie",
+      "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
         "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
         "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "Sie",
-        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Sie",
-      "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -1147,26 +1163,6 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
-        "name": "do u really?",
-        "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "do u really? (with Ruth B.)",
-      "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
     }
   ],
   "unique_name": "Sommergef\u00fchle",

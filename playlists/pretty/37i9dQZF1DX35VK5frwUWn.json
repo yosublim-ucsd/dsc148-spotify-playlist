@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1387,
+  "num_followers": 1388,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzI2NWY1YTRmN2QxNzliZjUxNTE2MzA2MGI0OWQ2YTgyN2QyZmYz",
+  "snapshot_id": "MCwwNjIzMDNiNGE4ZDMwZjdmNjcyMjQwZTI4YTEyODgyMmVjMWQxZTY0",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 184833,
       "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I Hate YoungBoy",
+        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "I Hate YoungBoy",
+      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I Hate YoungBoy",
-        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "I Hate YoungBoy",
-      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
     },
     {
       "added_at": "2022-11-01 04:00:00",

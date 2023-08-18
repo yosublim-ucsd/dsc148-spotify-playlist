@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: ARTBEAT v \(아트비트 v\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,082 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,330 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 19 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 |
 | 20 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 21 | [Psycho](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:30 |
-| 22 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
-| 23 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 |
+| 22 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 |
+| 23 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 | 24 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
 | 25 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
 | 26 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 39 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 |
 | 40 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 |
 
-Snapshot ID: `MCwxYzgxNmY2ZWRkYjQ1NzUyMDk4N2VhNzczMzAwZDIzOGNkMzE0ZmNh`
+Snapshot ID: `MCwxNjM1MDM2OGI0YjZlNTY3ZDNhMTQxY2JhMDU2YmJmZWJlNTdhYjM3`

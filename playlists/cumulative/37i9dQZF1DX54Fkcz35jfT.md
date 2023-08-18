@@ -2,13 +2,13 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: BABYMETAL
 
-129 songs - 7 hr 27 min
+130 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2023-07-20 |  |
+| [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2023-07-20 | 2023-08-18 |
 | [ALVA](https://open.spotify.com/track/1WsN1q1NTWYEJbw81KWsws) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/14gl92ZGLwr2pEJvhsMenp) | 4:00 | 2023-07-20 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-07-20 |  |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-07-20 |  |
@@ -63,11 +63,12 @@
 | [MAGIC TIME](https://open.spotify.com/track/5bNd9b7Uo65IBAf51un2QJ) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/3G6Zoq3MHR6dlBCyxitVjI) | 2:36 | 2023-08-15 |  |
 | [MEITEI EXCITE](https://open.spotify.com/track/5jQyTZB2Izc3NXHtut5SVE) | [PRAISE](https://open.spotify.com/artist/301xcRUdsWFXu49ELyWxUs) | [MEITEI EXCITE](https://open.spotify.com/album/03ta7GAyYavhFhLIaANBMO) | 3:00 | 2023-07-25 | 2023-08-02 |
 | [METAL KINGDOM](https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 5:51 | 2023-07-20 |  |
+| [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 | 2023-08-17 |  |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-07-20 |  |
 | [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 | 2023-07-20 |  |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-07-20 |  |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 |  |
-| [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2023-07-20 |  |
+| [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2023-07-20 | 2023-08-18 |
 | [Neppa Mappa](https://open.spotify.com/track/1yk0SSa84LDFar4tcBLVDM) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Neppa Mappa](https://open.spotify.com/album/0q8ovRRn70ximHNiFdd6Fu) | 3:22 | 2023-08-08 |  |
 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 | 2023-08-01 |  |
 | [One step forward](https://open.spotify.com/track/4lgr7mrXi5JM34HZrZTaOd) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [One step forward](https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9) | 1:52 | 2023-07-20 | 2023-07-26 |
@@ -93,7 +94,7 @@
 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 | 2023-07-20 |  |
 | [St.ROSALIA](https://open.spotify.com/track/4FoMGVrUBRZh7D4JDirfyE) | [Nicotine](https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki) | [St.ROSALIA](https://open.spotify.com/album/0YxhoTCRy9YPRHVMCFSrXv) | 4:55 | 2023-08-01 | 2023-08-09 |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-20 |  |
-| [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2023-07-20 | 2023-08-16 |
+| [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2023-07-20 |  |
 | [SUPER YABAI](https://open.spotify.com/track/0x2uTiLUzZcmuDGxQeYVcK) | [PRAISE](https://open.spotify.com/artist/301xcRUdsWFXu49ELyWxUs) | [SUPER YABAI](https://open.spotify.com/album/3Qi48Pfzq8FldO2nv4KlVw) | 2:51 | 2023-07-25 | 2023-08-09 |
 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 | 2023-07-20 |  |
 | [SYOKISHODO](https://open.spotify.com/track/08JA6xRSgOcycZ94PqzJoE) | [HIKAGE](https://open.spotify.com/artist/5GmWKtZuqNYrBrrHlhY9DO) | [SYOKISHODO](https://open.spotify.com/album/7nchzTfUv6iZxjSFvWj3Yr) | 3:08 | 2023-08-15 |  |

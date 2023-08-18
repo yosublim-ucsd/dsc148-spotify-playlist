@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-166 songs - 9 hr 35 min
+167 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Lay Down With You](https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Lay Down With You](https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In) | 3:02 | 2022-07-29 |  |
 | [Little Miss Saturday Night](https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Little Miss Saturday Night](https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j) | 3:20 | 2022-05-13 | 2023-03-18 |
 | [Livin' On Love](https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:48 | 2022-02-17 |  |
-| [Lonesome Drinkers](https://open.spotify.com/track/4VAzdlWsoSkjCcdL0YFGIv) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:20 | 2023-01-20 |  |
+| [Lonesome Drinkers](https://open.spotify.com/track/0dRjCdlwKP9TOddQI8CVjF) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/3iT8ACbErKCSxNmN19frzy) | 3:20 | 2023-08-04 |  |
+| [Lonesome Drinkers](https://open.spotify.com/track/4VAzdlWsoSkjCcdL0YFGIv) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:20 | 2023-01-20 | 2023-08-18 |
 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 | 2022-02-17 | 2023-06-06 |
 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 | 2022-02-17 |  |
 | [Love, Cold Beer, Cheap Smoke](https://open.spotify.com/track/4DkcQ60CkQtf5oYtfPu3la) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:19 | 2022-02-17 | 2022-07-30 |

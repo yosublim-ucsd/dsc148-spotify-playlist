@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFV9Asvj1J9.md) - [plain]
 
 > Our editorial picks for best hip\-hop songs of the year!<br/>Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,937 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,928 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFV9Asvj1J9.md) - [plain]
 | 49 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
 | 50 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 |
 
-Snapshot ID: `MCwzNDJhNDk3M2NjYzlmODczMTUwZDc3MGNjM2RhZjdlNTgxYjNjOWIz`
+Snapshot ID: `MCxmYTU3NWYwMzc3ZGY1MTEyN2U1N2Y4YTg3N2YxYWMxOWJhMGE4ODk2`

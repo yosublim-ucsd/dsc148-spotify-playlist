@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 5966,
+  "num_followers": 5967,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
+  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Gl\u00f3ria e Aleluia (Christmas)",
+        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 234663,
+      "name": "Gl\u00f3ria e Aleluia - Christmas",
+      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Gl\u00f3ria e Aleluia (Christmas)",
-        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 234663,
-      "name": "Gl\u00f3ria e Aleluia - Christmas",
-      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 396266,
-      "name": "Noite Santa (Cantique de Noel)",
-      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Outra Vez, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 282500,
       "name": "Como Um de N\u00f3s - Ao Vivo",
       "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 396266,
+      "name": "Noite Santa (Cantique de Noel)",
+      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
     },
     {
       "added_at": "2022-12-09 06:26:14",

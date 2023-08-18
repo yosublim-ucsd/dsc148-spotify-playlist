@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,757 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,864 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 67 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 68 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
 | 69 | [There Is Something on Your Mind](https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 3:22 |
-| 70 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 |
-| 71 | [This Feeling](https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:28 |
+| 70 | [This Feeling](https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:28 |
+| 71 | [Change](https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Change](https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C) | 1:30 |
 | 72 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
-| 73 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
-| 74 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
+| 73 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
+| 74 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
 | 75 | [I Live for You \- 2014 Remaster](https://open.spotify.com/track/1eFccw33XTqCpSPi5luJ8j) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:37 |
 | 76 | [Is There a Place I Can Go](https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Junkyard Jazz](https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP) | 4:38 |
 | 77 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [Help Me Down](https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:40 |
 | 100 | [Woman](https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz) | 3:49 |
 
-Snapshot ID: `MCw2MWQyN2ViMzY4MjNhNGUyOGQzNGViMGM3MDVkZmVmNGFjNDkzMGU4`
+Snapshot ID: `MCxmY2E4OTVkM2Y4NTM1NzhiMTU3OThkM2ZiZmUxYTExMWQ5ZDFhMjNm`

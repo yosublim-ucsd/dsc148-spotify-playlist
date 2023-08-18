@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,687 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,786 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 30 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
 | 31 | [Nothing No More](https://open.spotify.com/track/0kLyVOwCvlxsT7Z3dSJpNg) | [JB and the Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW) | [Nothing No More](https://open.spotify.com/album/0yJqJ8of9DVX60BsRP1qEf) | 3:12 |
 | 32 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 |
-| 33 | [Give It Some Time](https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Give It Some Time](https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD) | 3:22 |
-| 34 | [West Texas Weather](https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [West Texas Weather](https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP) | 3:07 |
+| 33 | [West Texas Weather](https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [West Texas Weather](https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP) | 3:07 |
+| 34 | [Give It Some Time](https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Give It Some Time](https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD) | 3:22 |
 | 35 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
 | 36 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 |
 | 37 | [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 76 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 |
 | 77 | [Classic Again](https://open.spotify.com/track/1BquNUtf3tpIY1XaAPrXkk) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Classic Again](https://open.spotify.com/album/3ZyAS99kwhBRExYV6GY4tN) | 3:30 |
 | 78 | [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 |
-| 79 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
+| 79 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
 | 80 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 |
-| 81 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
+| 81 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 | 82 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 |
 | 83 | [Don't It Make You Wanna Dance?](https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Josh Abbott Band and Friends, Vol\. 1](https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl) | 4:39 |
 | 84 | [Family Affair](https://open.spotify.com/track/4ImB5tDz8EHehkCSLe6Ep7) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Family Affair](https://open.spotify.com/album/0zUXeQ5pqqy0FBCAiK4qWx) | 3:57 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 95 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
 | 96 | [See You Again](https://open.spotify.com/track/4Rr95j82AomVqqbAOewgex) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [See You Again](https://open.spotify.com/album/7MmU8U3Vkjrl2ZAHZ5qvni) | 3:35 |
 | 97 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
-| 98 | [Bad Dreams & Amphetamines](https://open.spotify.com/track/1yJal0J2SLmfQVIurNdUwV) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 4:03 |
-| 99 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 |
+| 98 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 |
+| 99 | [Bad Dreams & Amphetamines](https://open.spotify.com/track/1yJal0J2SLmfQVIurNdUwV) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 4:03 |
 | 100 | [Country Nights](https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Country Nights](https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5) | 3:37 |
 
-Snapshot ID: `MCxmMjAyNWE1NjYwNWU1Zjk3OGQ4OTI2NTFhOTg4YWE4ODc2YjA5MmJi`
+Snapshot ID: `MCwzMWRlYjFhOTU0ZDZiZDc2ZGVlNTFkYzU2NjI3Y2Q3MjBlYTFiYzQ1`

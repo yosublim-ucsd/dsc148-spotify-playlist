@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 95919,
+  "num_followers": 96020,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Q2YjE4ZmZlMDQ4NjFhNDk1OWJhNTI1NzcyNDlkNjg2NjAxYjFi",
+  "snapshot_id": "MCw4MThhOGMzY2M1ZTcyZmIwMWUxYjcxNGZhMTZmYTIyMTlmOWIzOWM4",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -27,18 +27,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+        "name": "Tu Amor O Tu Desprecio",
+        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+      "duration_ms": 209506,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Tu Amor O Tu Desprecio",
-        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 209506,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Por El Amor",
+        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Por El Amor",
-        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
+        "name": "Tu Amor Secreto",
+        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
       },
       "artists": [
         {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
         }
       ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
+      "duration_ms": 214293,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 206913,
       "name": "Del Signo Libra",
       "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Tu Amor Secreto",
-        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Tu Traici\u00f3n",
-      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 198213,
       "name": "Fuiste Mala",
       "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1189,20 +1189,20 @@
       "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
+      "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+        "name": "16 Exitos Super Tropicales",
+        "url": "https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+      "duration_ms": 124995,
+      "name": "El Zancudito Loco",
+      "url": "https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1221,20 +1221,20 @@
       "url": "https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
+      "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "16 Exitos Super Tropicales",
-        "url": "https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4"
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
       "artists": [
         {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 124995,
-      "name": "El Zancudito Loco",
-      "url": "https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj"
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Exitos Para Amanecer Bailando",
+        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124604,
+      "name": "El Pipiripau",
+      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Cumbias Con Amor",
         "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 171600,
       "name": "Cumbia de los Pajaritos",
       "url": "https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Exitos Para Amanecer Bailando",
-        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
-      },
-      "artists": [
-        {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
-        }
-      ],
-      "duration_ms": 124604,
-      "name": "El Pipiripau",
-      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
     },
     {
       "added_at": "2023-01-10 17:48:12",

@@ -4,7 +4,7 @@
 
 > All the indie disco platters that matter.
 
-279 songs - 17 hr 50 min
+280 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/track/4jFLw7QqWlv3lZr980HyYW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/album/5sb0O03rnoBqD1iDPOSkkf) | 3:38 | 2022-11-27 |  |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2022-11-27 |  |
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2022-11-27 |  |
-| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2022-11-27 |  |
+| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2022-11-27 | 2023-08-18 |
+| [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 | 2023-07-21 |  |
 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2022-11-27 |  |
 | [I Can Talk](https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:57 | 2022-11-27 |  |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-11-27 | 2023-04-19 |

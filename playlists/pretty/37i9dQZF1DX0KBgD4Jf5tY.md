@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3dA6K34y5FCgngffHJTjpY">Red Roses</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,196 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,199 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
 | 50 | [monocromo](https://open.spotify.com/track/5YZfmc8O3lxWq6EqrONHHv) | [NXXSE](https://open.spotify.com/artist/7uO8L2XSELB1DBwiZjdBab) | [monocromo](https://open.spotify.com/album/73kJACGPaBorRo5F6oDEBu) | 2:19 |
 
-Snapshot ID: `MCxhOTZkNDA0YzZlNDkwYTY5NmE5ZjZjN2RkMmMzMzRkNTZkNmQ4ZDk5`
+Snapshot ID: `MCxhYWVmODY4ZWM3Y2VhMWI2ODQxNmE2ZjU1MTRiODIyNTAyYjEyY2Y5`

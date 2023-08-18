@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,582 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,640 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 70 | [ใจเดียว](https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ใจเดียว](https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl) | 3:49 |
 | 71 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
 | 72 | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/track/6d5a3i4bA9uGrmgZt1WR0d) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/album/6NzUzhfx9gpoPXhrABoWml) | 3:06 |
-| 73 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 |
-| 74 | [หวง\(You're Mine\)](https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง\(You're Mine\)](https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa) | 3:36 |
+| 73 | [หวง\(You're Mine\)](https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง\(You're Mine\)](https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa) | 3:36 |
+| 74 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 |
 | 75 | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [เธอเหมือนเดือนกุมภา](https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff) | 3:23 |
 | 76 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 77 | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [DJ ONO](https://open.spotify.com/artist/5y5uIxi74ZKx7GvuevA7CU), [Pimtha](https://open.spotify.com/artist/4aK59Ov4CA7YAnuKHKsnSu) | [มีเธอทุกวันก็โอนิ](https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H) | 3:04 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 87 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 88 | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on) | 2:58 |
 | 89 | [ไม่ปล่อยมือ \(Coming of Age\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3aqxAWiWENQZ1pSY3o0Q86) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 4:25 |
-| 90 | [จริงๆนะ](https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER) | [The 38 Years Ago](https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8) | [จริงๆนะ](https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo) | 3:30 |
-| 91 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
-| 92 | [พรหมลิขิต](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 4:13 |
+| 90 | [พรหมลิขิต](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 4:13 |
+| 91 | [จริงๆนะ](https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER) | [The 38 Years Ago](https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8) | [จริงๆนะ](https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo) | 3:30 |
+| 92 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
 | 93 | [Hidden Track](https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [TRINITY : THE 1ST MINI ALBUM “THE ELEMENTS”](https://open.spotify.com/album/2PFKJTwY7Zqh2uTl5ZkDKz) | 4:04 |
 | 94 | [แต่งครับ](https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ) | [แต่งครับ](https://open.spotify.com/album/4ONMohUWPUXBwhld8J1sy4) | 3:27 |
 | 95 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 |
 | 100 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 |
 
-Snapshot ID: `MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj`
+Snapshot ID: `MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3`

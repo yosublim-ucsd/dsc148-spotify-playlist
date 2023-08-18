@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\" https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5?si=sG3Nb6LkRJqfJjiiIE57gQ\">Muzi</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\" https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=3ZE-ub4-TWqqnKY5QnhNIg\">Oscar Mbo</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -4066,6 +4066,24 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "album": {
+        "name": "D2MA 2",
+        "url": "https://open.spotify.com/album/10AS3bpEwNTAEzokQgJT3E"
+      },
+      "artists": [
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402801,
+      "name": "D2MA 2",
+      "url": "https://open.spotify.com/track/5jGIn2VfNEUXPwEEMML8ps"
     },
     {
       "album": {
@@ -15754,7 +15772,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 209601,
       "name": "Summer Breeze - Fka Mash Re-glitch Edit",
       "url": "https://open.spotify.com/track/3vW0t4lGNMSt0WapWyuOvR"

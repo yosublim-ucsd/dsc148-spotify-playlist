@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: The Last Dinner Party
+> The best in current indie rock\. Cover: Etta Marcus
 
-464 songs - 1 day 2 hr 1 min
+467 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-10-06 | 2023-02-11 |
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-09-29 |  |
 | [In My Head](https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [In My Head](https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ) | 3:18 | 2023-03-17 | 2023-06-02 |
-| [in my room](https://open.spotify.com/track/5Agp3RTISLHx8KlWibUsU5) | [Trout](https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy) | [in my room](https://open.spotify.com/album/6htcXAU5WurWe4bKWYEJUJ) | 3:44 | 2023-07-21 |  |
+| [in my room](https://open.spotify.com/track/5Agp3RTISLHx8KlWibUsU5) | [Trout](https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy) | [in my room](https://open.spotify.com/album/6htcXAU5WurWe4bKWYEJUJ) | 3:44 | 2023-07-21 | 2023-08-18 |
 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 | 2023-02-10 | 2023-03-23 |
 | [In The Moment](https://open.spotify.com/track/2Ry0YB7zRaPnMKt7USlSnx) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [In The Moment](https://open.spotify.com/album/3udKOUv6iwFSWGuVeQGLzR) | 5:24 | 2023-04-13 | 2023-07-01 |
 | [Iron Lung](https://open.spotify.com/track/2XpOjMiHSOCfEPfvtZoqW9) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Wrong Girl, Honey](https://open.spotify.com/album/5TZUx1zHRakzdtq7kPY7oJ) | 3:01 | 2021-03-09 | 2022-01-17 |
@@ -345,7 +345,7 @@
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Say It](https://open.spotify.com/track/6gvLsy6dkUJyPqBDhzEgtc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Banshee](https://open.spotify.com/album/5KKwrFNlCb3XcjGxnxdA8Y) | 3:14 | 2022-08-18 | 2022-09-30 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 | 2023-07-17 |
-| [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 | 2022-10-21 |  |
+| [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 | 2022-10-21 | 2023-08-18 |
 | [Seconds](https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Seconds](https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn) | 3:07 | 2023-05-18 | 2023-07-28 |
 | [Security](https://open.spotify.com/track/1IyNQIczrOabSeU3HEJNwT) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/7BbLKYoBNvPRnHnFQq1Fkt) | 3:47 | 2021-07-30 | 2022-07-29 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-04-01 | 2022-08-19 |
@@ -395,6 +395,7 @@
 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 | 2023-01-20 |  |
 | [Superblue](https://open.spotify.com/track/2xeyM4a9TxmBjPR13AG7CG) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Superblue](https://open.spotify.com/album/3Pu25k3w3yE4Qfli9VqFP4) | 3:19 | 2022-11-25 | 2022-12-20 |
 | [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 | 2023-03-03 | 2023-08-07 |
+| [Sweat](https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2) | [JAWS](https://open.spotify.com/artist/3E3NOIlw2s1ZPU9GRB9jaq) | [Sweat](https://open.spotify.com/album/7BXae87zZyq9Y1nDcHDJjU) | 3:46 | 2023-08-17 |  |
 | [Sweat Patch](https://open.spotify.com/track/6Qk4Z5yyI4CQe3k90mizqb) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Sweat Patch](https://open.spotify.com/album/3ELbAANuW2XZZOOq1tZJXA) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Sweeter Things](https://open.spotify.com/track/6TOpX6PrdVwYZ0vkFHxuJc) | [Jacqueline Tucci](https://open.spotify.com/artist/3C8jNP8KucAySqnpvVTsyL) | [Sweeter Things](https://open.spotify.com/album/6htfjXRYortoaprlglShQe) | 2:23 | 2021-03-09 | 2022-01-17 |
 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 | 2022-08-18 |  |
@@ -420,13 +421,14 @@
 | [The Way It Shatters](https://open.spotify.com/track/1In1QZhWhMiYjHTWHhhGDR) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:22 | 2022-04-01 | 2022-09-02 |
 | [The Way It Shatters](https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The Way It Shatters](https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl) | 4:22 | 2022-02-04 | 2022-07-29 |
 | [The Year I Broke](https://open.spotify.com/track/7tdoduOQJNzwq7f8CdMLBw) | [Prince of Lilies](https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5) | [The Year I Broke](https://open.spotify.com/album/4MWAP25bhaNgK9ANcplc9J) | 3:58 | 2021-07-16 | 2022-03-02 |
+| [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 | 2023-08-17 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-08-18 | 2022-10-14 |
 | [Thick of the Honey](https://open.spotify.com/track/0G8KKrqaEyNIHp8yqBLMQE) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/6eOz2VditU3qXKseQ7pcoT) | 2:17 | 2022-10-13 | 2022-10-15 |
 | [Thick of the Honey](https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 2:17 | 2023-03-17 | 2023-05-19 |
 | [Thick of the Honey](https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw) | 2:17 | 2022-10-13 | 2023-03-18 |
 | [Things Ain't Always What They Seem](https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Bilk](https://open.spotify.com/album/0FAWcffpYAfrKGmv9yxd2J) | 3:57 | 2023-02-10 | 2023-04-06 |
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-18 | 2022-09-04 |
-| [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-08 |  |
+| [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-08 | 2023-08-18 |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-09-01 | 2022-09-20 |
 | [Time Stopped](https://open.spotify.com/track/5zHwuvm8E6ToKnNVZhghGK) | [The Coronas](https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1) | [Time Stopped](https://open.spotify.com/album/31TPkC2CWri9TgBMMmwhdc) | 3:50 | 2022-10-06 | 2022-12-08 |
 | [Toro](https://open.spotify.com/track/3Lj2PcKAkTXYiSVSeT7UA7) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Toro](https://open.spotify.com/album/72wu0Ve29nMO5iuUBIDywH) | 3:38 | 2021-03-09 | 2022-01-17 |
@@ -466,6 +468,7 @@
 | [Win](https://open.spotify.com/track/0Z2d1Wv9VaHFxNxdgdKeBE) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Win](https://open.spotify.com/album/3riT2ROhv1aQ7zZYut5cmQ) | 2:44 | 2021-03-09 | 2022-01-17 |
 | [Wind in My Sail](https://open.spotify.com/track/6qzKy0MR6hR7tjcw0a66Ct) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Wind in My Sail](https://open.spotify.com/album/1thTc5DAfIg41RtmnFYyzf) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [With Or Without](https://open.spotify.com/track/4aobh4j9xhG08Yb7VkcCzd) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [With Or Without](https://open.spotify.com/album/4OPRKb28mSim18LxaWMErZ) | 3:30 | 2021-03-09 | 2022-01-17 |
+| [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:34 | 2023-08-17 |  |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-05-25 | 2023-06-02 |
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-25 |  |
 | [Would You Be My Judy?](https://open.spotify.com/track/1ndRpUXCDR40upnsnV5IYS) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9) | [Would You Be My Judy?](https://open.spotify.com/album/5D4GX521TlVeTiYBMJ6czp) | 3:11 | 2022-08-18 | 2022-10-07 |

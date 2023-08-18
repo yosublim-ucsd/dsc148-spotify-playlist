@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-262 songs - 15 hr 18 min
+263 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1990](https://open.spotify.com/track/12vuqOqhkajHyhQgRQEG4h) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 3:27 | 2023-04-28 | 2023-05-20 |
 | [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 | 2022-07-22 | 2023-05-02 |
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2022-07-19 | 2022-07-29 |
+| [7 ROJAS](https://open.spotify.com/track/0x6BCk39lZ3AVJO52A569z) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [CONSTIMORDOR](https://open.spotify.com/album/0nGIYfb1hiKYK3LH1rd8vP) | 3:57 | 2023-08-17 |  |
 | [A Mi Banda](https://open.spotify.com/track/7xVzPnsrUWNstMQ2t4Dcn5) | [Fulgura](https://open.spotify.com/artist/1i7SeHXbKSyxqiCh8e0Yg4) | [A Mi Banda](https://open.spotify.com/album/3IPTHuE3yxcAFzYDBosXhL) | 3:26 | 2022-06-29 | 2023-05-20 |
 | [A Tu Manera](https://open.spotify.com/track/23dQ2uqLfk4z8aJUwwfnms) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:16 | 2023-06-02 | 2023-06-09 |
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-05-19 | 2023-07-01 |

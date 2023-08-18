@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,470 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,685 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 47 | [Swallowed By The Ocean](https://open.spotify.com/track/6ukCPd1kbqTzMXJeh0Jrwi) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Afterlife](https://open.spotify.com/album/0TfLNPaI76u8QwRNDiowSt) | 4:25 |
 | 48 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
 | 49 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 |
-| 50 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 |
+| 50 | [Dos Extraños](https://open.spotify.com/track/6L8Jed13lCQn7pPiKOqIkf) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Dos Extraños](https://open.spotify.com/album/7mJvMAtknGnFQD93Eb5Ng9) | 3:20 |
 
-Snapshot ID: `MCw2ZTEyNzRiYjA0OGU0NDU0MWZmNzMyMzg4NWJmZTUzOWNlM2VjM2Yw`
+Snapshot ID: `MCwwNzc0ZmJlMzliMmJiMjVhNzRmMWVmNmE1YjQ1OTgyZTFmMjRjMGY2`

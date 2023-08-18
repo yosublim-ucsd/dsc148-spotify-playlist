@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
@@ -1488,6 +1488,24 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
       "album": {
@@ -1920,6 +1938,24 @@
       "duration_ms": 187600,
       "name": "Grey Victory",
       "url": "https://open.spotify.com/track/069rbknMeBISwpviVuEzEz"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "album": {
@@ -2463,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/7cReNgYN2wNYsj78NB67ut"
       },
@@ -2557,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os"
+    },
+    {
+      "album": {
         "name": "demoitis",
         "url": "https://open.spotify.com/album/0aB8CKycOAEEQoZ0W2SI7E"
       },
@@ -2647,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Je te laisserai des mots",
+        "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "Je te laisserai des mots",
+      "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "album": {
         "name": "Jesus Christ 2005 God Bless America",
         "url": "https://open.spotify.com/album/5h2gHGAvkdm3sf2mtAE4Ub"
       },
@@ -2698,6 +2788,24 @@
       "duration_ms": 116466,
       "name": "Joker",
       "url": "https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr"
+    },
+    {
+      "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
     },
     {
       "album": {
@@ -3012,7 +3120,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 187906,
       "name": "Lost at Sea",
       "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
@@ -4107,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
+    },
+    {
+      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -4414,6 +4540,24 @@
       "duration_ms": 163823,
       "name": "Smithereens (with Rachel Chinouriri)",
       "url": "https://open.spotify.com/track/7KdlCAJJcJ7mczRt1fno7I"
+    },
+    {
+      "album": {
+        "name": "So You Are Tired",
+        "url": "https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5"
     },
     {
       "album": {
@@ -4818,6 +4962,28 @@
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "album": {
@@ -5336,7 +5502,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
@@ -5670,6 +5836,24 @@
       "duration_ms": 376871,
       "name": "Vanishing Twin",
       "url": "https://open.spotify.com/track/3cyJdcpXplwiAtvIvXssnE"
+    },
+    {
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281946,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG"
     },
     {
       "album": {

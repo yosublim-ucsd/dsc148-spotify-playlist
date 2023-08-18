@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Niklas Dee, Old Jim, Enny-Mae",
+  "description": "Altijd fris in Fresh Hits. Cover: Cristian D",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 162000,
       "name": "Feeling The Love Again (Explode)",
       "url": "https://open.spotify.com/track/3eGf636ICmSNbZEEl7QAax"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
@@ -2764,6 +2764,24 @@
       "duration_ms": 146742,
       "name": "Laat Die Hoodie Maar Hangen",
       "url": "https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "album": {
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 141235,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3hXr1QdtzfgRbH0zTMaZGJ"
@@ -3153,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/6IGDQuZ2OPeIR7FluRkdOp"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131357,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/42UehjzjbsPaN3Xq0B8F2D"
+    },
+    {
+      "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
@@ -3200,7 +3236,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 146851,
       "name": "Nieuwe Ex",
       "url": "https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy"
@@ -3432,6 +3468,28 @@
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "album": {
+        "name": "Only Lover",
+        "url": "https://open.spotify.com/album/2PrWENAZz992vvC92B129d"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183454,
+      "name": "Only Lover",
+      "url": "https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b"
     },
     {
       "album": {
@@ -3688,6 +3746,32 @@
       "duration_ms": 162455,
       "name": "Pornstar Martini",
       "url": "https://open.spotify.com/track/7aJe1fs6N7hrWFCpukMAUC"
+    },
+    {
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "album": {
@@ -4416,7 +4500,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 133422,
       "name": "Spagaat",
       "url": "https://open.spotify.com/track/2yAGYFzdtH6hAbDiBFUyjx"
@@ -5009,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Vanzelfsprekend",
+        "url": "https://open.spotify.com/album/1Yt20U55ypJCTQ1Xe06KA7"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "Vanzelfsprekend",
+      "url": "https://open.spotify.com/track/2H9CK7ENR8g4QyczIq2dE5"
+    },
+    {
+      "album": {
         "name": "Verleden Tijd",
         "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
       },
@@ -5090,6 +5192,24 @@
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
+    },
+    {
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "album": {
@@ -5388,7 +5508,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 180000,
       "name": "YAWA",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,267 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,734 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 55 | [Big Love \- Eat Me Edit](https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS) | [Pete Heller](https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf) | [Big Love \(Eat Me Edit\)](https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa) | 4:01 |
 | 56 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 57 | [That's the Way Love Is \- Underground Mix; Edit](https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Foundation](https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH) | 4:15 |
-| 58 | [Sueno Latino \- Paradise Version](https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ) | [Sueno Latino](https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7) | 10:34 |
-| 59 | [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 |
+| 58 | [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 |
+| 59 | [Sueno Latino \- Paradise Version](https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ) | [Sueno Latino](https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7) | 10:34 |
 | 60 | [Adiós ayer](https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Navigator\. 15th Anniversary Edition](https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp) | 5:02 |
 | 61 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 |
 | 62 | [Strings of Life](https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 6:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/39qNshURj4X8qghle1JSXq) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y demonios](https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso) | 7:30 |
 | 80 | [Body Language \- Original Mix](https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Body Language](https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV) | 7:18 |
 
-Snapshot ID: `MCxiN2QzOTc5OGRiZjRhZWViNWI0ZjdkNmViZDgxODcyYmEzNzkxMzQ3`
+Snapshot ID: `MCwzNDcxZTkzNTAwMjMyOTI3ZDA4OWJjZWFlMjFmZTRiMDMwOWEwYWUx`

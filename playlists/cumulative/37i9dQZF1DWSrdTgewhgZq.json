@@ -3209,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "album": {
         "name": "Slangn KK",
         "url": "https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t"
       },

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,969,299 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,969,612 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
-| 2 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
-| 3 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 |
+| 2 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 |
+| 3 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 4 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 5 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 6 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 46 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 |
 | 47 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
 | 48 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
-| 49 | [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 |
-| 50 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
+| 49 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
+| 50 | [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 |
 | 51 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 |
-| 52 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
-| 53 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
+| 52 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
+| 53 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
 | 54 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 |
 | 55 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 |
 | 56 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 | 57 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
-| 58 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 |
-| 59 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 |
+| 58 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 |
+| 59 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 |
 | 60 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 |
 
-Snapshot ID: `MCwxOTQ3MmFiYzY5Mzc4ODRiMzZkNjA2MDcxNWU2YTg0ODAxODJiMDZl`
+Snapshot ID: `MCxhODEwYmI5ZTY1YmY3MjI4Yzc1ZTE1YTE3YzhlNTgwNjJiOTIyNzVj`

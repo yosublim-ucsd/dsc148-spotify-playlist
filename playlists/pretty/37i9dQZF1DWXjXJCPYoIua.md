@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,046 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,243 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 51 | [Dirt Off Your Shoulder](https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:05 |
 | 52 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
 | 53 | [El Sobrino](https://open.spotify.com/track/4ThT8JzNJtbSkq5LqpxcCS) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El Cuadro del Terror](https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH) | 5:19 |
-| 54 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 |
-| 55 | [Tantas Veces](https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 4:33 |
+| 54 | [Tantas Veces](https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 4:33 |
+| 55 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 |
 | 56 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 57 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 |
 | 58 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 100 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
 
-Snapshot ID: `MCw2MzdmZDc2MTJjZGRjNTEyOThlNzlkM2JhZGYyNzVmOWEyODI5Yjhl`
+Snapshot ID: `MCw2ZWI0ODM5ZDlhZWRiMzBjMGNjNTBjZWZjMGZjYmU3N2IwNzY2M2Q2`

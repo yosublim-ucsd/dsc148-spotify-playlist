@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-895 songs - 1 day 14 hr 55 min
+898 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2021-10-13 | 2022-07-20 |
 | [in the trees](https://open.spotify.com/track/5upbO77KyND8zshSspyOY2) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [ii](https://open.spotify.com/album/5mdWaIWuhiVbL4RE5k07Dq) | 3:37 | 2020-08-14\* | 2022-09-24 |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-07-01 | 2022-04-22 |
-| [Indivision](https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Indivision](https://open.spotify.com/album/7ANmCCI9lzaAsthwF8QcHd) | 2:48 | 2020-12-10 |  |
+| [Indivision](https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Indivision](https://open.spotify.com/album/7ANmCCI9lzaAsthwF8QcHd) | 2:48 | 2020-12-10 | 2023-08-18 |
+| [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-06-04 | 2022-09-15 |
 | [Inner Peace](https://open.spotify.com/track/0pPoqOUNEIYkxJupkj25vW) | [Jalabert](https://open.spotify.com/artist/3QhEmbt5VdCTPAafeOs8Pp) | [Inner Peace](https://open.spotify.com/album/4tQWjJfBGxtsZBqxdvt58M) | 3:10 | 2020-08-14\* | 2020-09-02 |
@@ -425,7 +426,7 @@
 | [Liefde](https://open.spotify.com/track/6mcqEF5nxG6PHa0NNaZmcD) | [Juultje Berben](https://open.spotify.com/artist/7y7TQWBzst8y1iWH8V4bxM) | [Liefde](https://open.spotify.com/album/5QYroHBDwWKZGcl2vvpGXc) | 2:08 | 2020-08-14\* | 2022-09-24 |
 | [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2021-09-02 | 2022-07-20 |
 | [Lifeline](https://open.spotify.com/track/7aKFjNKVGj91rDTijx1IN7) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 2:58 | 2020-08-14\* | 2021-02-25 |
-| [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-04-22 |  |
+| [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-04-22 | 2023-08-18 |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-02-15 |  |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2021-07-08 | 2022-04-22 |
 | [Lily Dale](https://open.spotify.com/track/09KXk7YdZT8b2ibsnjnFbC) | [Leroy Rossetti](https://open.spotify.com/artist/2Mg0NVHUCDibNRrdZmlagN) | [Lily Dale](https://open.spotify.com/album/3mJIHjvCHHhYBhmjlJFcxU) | 1:39 | 2020-08-14\* | 2020-08-20 |
@@ -445,6 +446,7 @@
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2021-03-31 | 2021-04-15 |
 | [Lost](https://open.spotify.com/track/7nC2EOpMnpDT2DkvniimSm) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Lost](https://open.spotify.com/album/2RnNYYYXt2ZYpBmR645OWT) | 2:41 | 2020-08-14\* | 2022-07-20 |
 | [Lost For Words](https://open.spotify.com/track/5NH7f7qokbw0GmEbztG9qv) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Miles Away](https://open.spotify.com/album/4Kl1CFQxhyCcdGB32jfSN8) | 2:47 | 2020-08-14\* | 2022-04-22 |
+| [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-06-18 | 2022-07-20 |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-04-12 | 2021-11-24 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-09-30 | 2021-11-11 |
@@ -460,6 +462,7 @@
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 |  |
 | [Mali Lošinj](https://open.spotify.com/track/0R89l2bGwUsCfpECnzfVvq) | [Valerija Novosel](https://open.spotify.com/artist/2s8NO6ERz08oEGHpAWRSMb) | [Mali Lošinj](https://open.spotify.com/album/5BNAhqMGU0Q4NiOJZHZlSK) | 2:01 | 2020-08-14\* | 2022-06-08 |
 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 | 2020-08-14\* | 2020-09-30 |
+| [Marche Lente](https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Marche Lente](https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN) | 2:11 | 2023-08-15 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2021-08-24 | 2022-06-08 |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 | 2022-07-20 |
 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2021-02-09 |  |
@@ -656,7 +659,7 @@
 | [Sea Of Revival](https://open.spotify.com/track/2uiKpgfOX9OHiE6UuYAkU8) | [Martha Sines](https://open.spotify.com/artist/6nAvfA2VeuvrAm6HWNR1ID) | [Sea Of Revival](https://open.spotify.com/album/1thtdvev81NypFN6ZSrbgw) | 2:30 | 2020-09-02 | 2022-06-08 |
 | [Searching](https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Searching](https://open.spotify.com/album/4ZlIyEvfcba4GQCGb3G1uJ) | 2:02 | 2021-04-23 | 2021-05-06 |
 | [Seasons](https://open.spotify.com/track/1jMM8TGkXgRS2mrBviT1CB) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 3:28 | 2020-08-14\* | 2021-01-28 |
-| [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2020-11-12 |  |
+| [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2020-11-12 | 2023-08-18 |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-07-01 |  |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2020-12-10 | 2022-06-08 |
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2020-08-14\* | 2020-09-30 |

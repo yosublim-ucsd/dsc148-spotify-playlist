@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,187 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,271 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pani da Rang \(Male\)](https://open.spotify.com/track/0ce9G1z2SstCXHJ9gTg6PB) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Putumayo Presents Indian Groove](https://open.spotify.com/album/10nxOUYmEhheGuBH3QdkIz) | 3:59 |
+| 1 | [Pani Da Rang Male](https://open.spotify.com/track/1pOIXRP6C7JCF69kO4yNwk) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/5PdJqwDJx8NQpEFlY3oXWt) | 4:00 |
 | 2 | [Tum Kya Mile \- Shreya's Version \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1XF1cPnzsbGYn2mjKUjnWa) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \- Shreya's Version \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/1LsdbOwH1SPB0s5IkII3C1) | 3:57 |
 | 3 | [Shayad \(Film Version\) \- From "Love Aaj Kal"](https://open.spotify.com/track/72s1xrc7E27aATdCMbFMC6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Shayad \(Film Version\) \[From "Love Aaj Kal"\]](https://open.spotify.com/album/3IbTgvx8roeABgl7i4d2TV) | 4:05 |
 | 4 | [Phir Na Aisi Raat \(Reprise\)](https://open.spotify.com/track/19YSa5R1vV6BUFvczTERi4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Laal Singh Chaddha \(Extended Album\)](https://open.spotify.com/album/7mlKqiSL0QQAdf3ZFzGVez) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Rozana](https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rozana \(From "Naam Shabana"\)](https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5) | 4:34 |
 | 50 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 
-Snapshot ID: `MCw1MjlkNzBiNmRlNTQ5MWNiYmY2YzJlMWQzZDg4MTQ4NTVhZWNlMGQ0`
+Snapshot ID: `MCw0N2Q5OGJjNGQ5YWJhZDhjYzE0NzI3YjRjODkzMGEyZTBjZTFlZDRl`

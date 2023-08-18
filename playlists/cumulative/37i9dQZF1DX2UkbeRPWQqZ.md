@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-246 songs - 8 hr 21 min
+248 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-22 |  |
 | [Cuddle Buddy](https://open.spotify.com/track/7nQIubktmlfzQyiGLKrdNq) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreams Above the Clouds](https://open.spotify.com/album/45E7txNlw1Qy9B1EZxWD2H) | 1:56 | 2023-02-17 |  |
 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 | 2023-04-25 |  |
+| [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 | 2023-08-17 |  |
 | [Daisy Bell](https://open.spotify.com/track/1005qYjEgIXFA7gkkhpf43) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [Daisy Bell](https://open.spotify.com/album/5HC2rS5WLnB7hRakRJZcIY) | 1:46 | 2021-11-11 |  |
 | [Dance a Baby Diddy](https://open.spotify.com/track/1rt2kja54OlDITKmvwFBfi) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Dance a Baby Diddy](https://open.spotify.com/album/7Isc5IV0x91WLQny6coJvo) | 1:35 | 2023-01-27 |  |
 | [Danny Boy](https://open.spotify.com/track/4ZQLfom7VIzjZRTqpOvwgj) | [Yolanda Merino](https://open.spotify.com/artist/2nfRzxqddLRQtP2kFJOnNT) | [Danny Boy](https://open.spotify.com/album/7KL3DEev4LEflUFJX2gBe7) | 2:06 | 2022-10-14 | 2023-05-19 |
@@ -86,7 +87,7 @@
 | [Flowers For Mom](https://open.spotify.com/track/3FBAIOe82lMFTybK8eKjrA) | [Lauraine Rowe](https://open.spotify.com/artist/0hzimoZUHifb1Yn9TR0D6u) | [Flowers For Mom](https://open.spotify.com/album/4WP9Gl5uQTdlq1qZRLoW65) | 1:51 | 2021-11-11 |  |
 | [Flying Teddy](https://open.spotify.com/track/4sJiH01QHq3H26Z1N3esFc) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreaming with the Stars](https://open.spotify.com/album/2SfA10rr2QVAAxa5j1SVEW) | 2:37 | 2023-04-25 |  |
 | [Frere Jacques](https://open.spotify.com/track/53JIdR9vG2kx7W76HU3X1Q) | [Pixi Small](https://open.spotify.com/artist/1NOsmA0yG2w3mW5xpdcGRY) | [Frere Jacques](https://open.spotify.com/album/7iVKdikiYhga4F2ykfyKdJ) | 1:22 | 2022-09-22 |  |
-| [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-07-29 |  |
+| [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-07-29 | 2023-08-18 |
 | [Girls And Boys Come Out To Play](https://open.spotify.com/track/3TKouB59YNESVemXS5mUj8) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Rainbow Connection](https://open.spotify.com/album/3uelDCjTwNeEum7HfqKGPc) | 1:56 | 2022-01-21 |  |
 | [Go to Sleep, Colas My Little Brother](https://open.spotify.com/track/2anUUyX2PqINxY6g3aAQ69) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [Go to Sleep, Colas My Little Brother](https://open.spotify.com/album/0ZXf6JppKOyncy6N6NV3yM) | 1:57 | 2023-04-25 |  |
 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 | 2021-11-11 | 2022-10-15 |
@@ -97,6 +98,7 @@
 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 | 2023-04-25 |  |
 | [Goodnight Sweetheart Goodnight](https://open.spotify.com/track/6aSIzLuudxibkJ2tThjrRW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Goodnight Sweetheart Goodnight](https://open.spotify.com/album/2OO9vocjFJCDKbSEXUR2BT) | 1:56 | 2023-05-19 |  |
 | [Goodnight Sweetheart, Goodnight](https://open.spotify.com/track/5PP6QALJTFPyb8rfCx3RIs) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Guitar Lullabies](https://open.spotify.com/album/7CVnDVNrvyiavRMUseE7ZM) | 2:19 | 2023-04-25 |  |
+| [Goodnight teddy](https://open.spotify.com/track/6V8QIFMkCe3HhMa1Y5I7zc) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Goodnight teddy](https://open.spotify.com/album/6bRKz8ZPbwWT8eKYhA7IUf) | 2:00 | 2023-08-17 |  |
 | [Grandpa Is Coming](https://open.spotify.com/track/07mxW2F347d0aBeUqFsjQI) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [Grandpa Is Coming](https://open.spotify.com/album/3lcb0ZJck8g4o6d0i6S8Li) | 2:40 | 2022-12-16 | 2023-03-18 |
 | [Gymnopedie No\. 1](https://open.spotify.com/track/2RNTTudMu6XvPUDuYJFdvW) | [Strings of Kin](https://open.spotify.com/artist/1p3x9feDlUwJJNvnxTh2eR) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/4hzafnxDtzvzQd3oZIulHU) | 1:51 | 2022-09-22 | 2023-04-26 |
 | [Gymnopedie No\. 1](https://open.spotify.com/track/0GPd82b6UWTpAxl6qk2Zic) | [The Lullaby Minstrel](https://open.spotify.com/artist/5jvlg5xpRicJbcuvyZx1Kb) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/7fhZEguQ78stjH3Qf8uma2) | 1:51 | 2021-11-11 | 2022-10-08 |
@@ -179,7 +181,7 @@
 | [Row Row Row Your Boat](https://open.spotify.com/track/2182KvEnqJQ6YfTmobpXwI) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Row Row Row Your Boat](https://open.spotify.com/album/1PvHQyoli2uqfZ2wS8YpO9) | 1:49 | 2023-05-19 |  |
 | [Row Row Row Your Boat](https://open.spotify.com/track/47PMzPN17D3fj1V3tAayDD) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Frère Jacques](https://open.spotify.com/album/0yDbIhI2acYzofgV3AH2go) | 2:12 | 2022-04-26 | 2023-05-19 |
 | [Row Your Boat](https://open.spotify.com/track/0xlMGRmoGT9ekGhIBhOMqG) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Row Your Boat](https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx) | 1:30 | 2021-11-11 | 2022-04-27 |
-| [See the Stars](https://open.spotify.com/track/1J9HqwN1K2RuEEifceye5Z) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [See the Stars](https://open.spotify.com/album/2az551c3qBHagaYEIVXpQw) | 1:57 | 2023-01-06 |  |
+| [See the Stars](https://open.spotify.com/track/1J9HqwN1K2RuEEifceye5Z) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [See the Stars](https://open.spotify.com/album/2az551c3qBHagaYEIVXpQw) | 1:57 | 2023-01-06 | 2023-08-18 |
 | [Simple Gifts \- Guitar Instrumental](https://open.spotify.com/track/0eG7qveAW9otB6SzWVh2ZA) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Guitar Lullabies: Music for Babies](https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj) | 1:48 | 2021-11-11 | 2022-01-22 |
 | [Six Little Ducks](https://open.spotify.com/track/3RGS63bYLsf9kjL1GTjNFz) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 | 2021-11-11 | 2022-06-11 |
 | [Skidamarink](https://open.spotify.com/track/4WKj1FwMz5Y5dNSHnzgiQO) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Skidamarink](https://open.spotify.com/album/5879evWEXNX6qW2PEVdif0) | 2:01 | 2023-01-27 |  |

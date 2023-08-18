@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=NhJPqOBxQsWNLNpzz9Oplw\">Ssaru</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=NhJPqOBxQsWNLNpzz9Oplw\">Fathermoh</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 293617,
       "name": "Bandana Ya E-Sir",
       "url": "https://open.spotify.com/track/6gPgR7ezAhBDlxQ3Co0Cuv"
@@ -1397,6 +1397,36 @@
     },
     {
       "album": {
+        "name": "Do Ri Me",
+        "url": "https://open.spotify.com/album/0D9vnNfCEJ2IhRfgwRXHMA"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Krg The Don",
+          "url": "https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA"
+        },
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202712,
+      "name": "Do Ri Me",
+      "url": "https://open.spotify.com/track/6nO5KlzzA3pq3DCtMCDC42"
+    },
+    {
+      "album": {
         "name": "Down Low",
         "url": "https://open.spotify.com/album/7x7nlwJ0EAuu3befR7UjKi"
       },
@@ -1902,7 +1932,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 227741,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/37g2Urmjn6kSQLGE1RPAqj"
@@ -2860,7 +2890,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 178662,
       "name": "Kwaito",
       "url": "https://open.spotify.com/track/0Ufi9fI168Dv2QJqeyxtH6"
@@ -5483,6 +5513,28 @@
     },
     {
       "album": {
+        "name": "Tbt Swara",
+        "url": "https://open.spotify.com/album/5C1XLv1MeKXdCOVKEskPUL"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Tbt Swara",
+      "url": "https://open.spotify.com/track/1qYxUjoC8CPbyYuchYwBPG"
+    },
+    {
+      "album": {
         "name": "Tena",
         "url": "https://open.spotify.com/album/6vXeMhDzsMVmrm8GueCM2B"
       },
@@ -6131,6 +6183,24 @@
     },
     {
       "album": {
+        "name": "Weh Decide",
+        "url": "https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154017,
+      "name": "Weh Decide",
+      "url": "https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ"
+    },
+    {
+      "album": {
         "name": "Yea Yea Yea",
         "url": "https://open.spotify.com/album/0Awx0OJ8SIMY98fLYB7ztT"
       },
@@ -6208,7 +6278,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"

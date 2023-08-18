@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,920 likes - 132 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,591 likes - 132 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 29 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
 | 30 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 | 31 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
-| 32 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
-| 33 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 |
-| 34 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
+| 32 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
+| 33 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
+| 34 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 |
 | 35 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
 | 36 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 |
 | 37 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
@@ -125,14 +125,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 115 | [Rosalinda](https://open.spotify.com/track/4KufWaE6epxrctKlrfVsQh) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Arrasando](https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO) | 3:52 |
 | 116 | [Estamos Juntos](https://open.spotify.com/track/4cqTzKCPsDSWnfL1NqABVu) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres](https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR) | 3:42 |
 | 117 | [El Amor de Mi Vida](https://open.spotify.com/track/4fKaFKHZOaVhq53y5XAKZw) | [Eddie Sierra](https://open.spotify.com/artist/4QILOFSgMcb9gUF8GEkD3V) | [Esta Todo Bien](https://open.spotify.com/album/4aMAf7Se1qyHoDmV72cmb0) | 4:41 |
-| 118 | [Me Va A Extranar](https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh) | 4:16 |
-| 119 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 |
+| 118 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 |
+| 119 | [Me Va A Extranar](https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh) | 4:16 |
 | 120 | [Lloraré Las Penas](https://open.spotify.com/track/0nub3NxxIMUJ56bBtM1sJ4) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [2En1](https://open.spotify.com/album/6RshuQDgpUFzXUPyUMD9RZ) | 4:00 |
 | 121 | [Muñecos de Papel](https://open.spotify.com/track/1OeN1DxQCgN4aXzuDur3Jk) | [Muñecos de Papel](https://open.spotify.com/artist/0HUl0nTNKGFqg1xW2tkNfw), [Sasha](https://open.spotify.com/artist/1wgaVwZ7CMHJLePpz82m5w), [Angélica Rivera](https://open.spotify.com/artist/7tnsdQReolt8180VHZg4GQ), [Bibi Gaytan](https://open.spotify.com/artist/4JRQ9qtp3PXMQuMhjZ506i), [Ricky](https://open.spotify.com/artist/33AGmBUNUsCVrQQTcVnTKg), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh), [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Muñecos de Papel](https://open.spotify.com/album/6Zdu0HL3JrErgHkbphRffB) | 3:46 |
 | 122 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
 | 123 | [Fría Como El Viento](https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:55 |
-| 124 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
-| 125 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 |
+| 124 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 |
+| 125 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 126 | [Será Que No Me Amas \(Blame It on the Boogie\)](https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:09 |
 | 127 | [María \- Pablo Flores Spanglish Radio Edit](https://open.spotify.com/track/4bNqBlJkoueiFla9YsyNg9) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pablo Flores](https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu), [Javier Garza](https://open.spotify.com/artist/7d6UVb1wJfBBglIebDp5Cz) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:31 |
 | 128 | [La Bomba](https://open.spotify.com/track/2IAtnd4UG52HQP9Rwart5h) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:34 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 131 | [Fuego Contra Fuego](https://open.spotify.com/track/6Sbzcag4QwyIRhMSpRmlLW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 4:14 |
 | 132 | [Me Amaras](https://open.spotify.com/track/5ovv05x6qsMfipkdutRKbD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Me Amaras](https://open.spotify.com/album/5CgOx7gxM9Xv90PcF5JuTH) | 4:27 |
 
-Snapshot ID: `MCw2YTlmNjFhZDBiNjdkZGMwMjVkOWE4Zjg3MjMwNDUxZTcwNTRhYjgw`
+Snapshot ID: `MCxiMmJjODU0NzU4OTI0OGFiMmM0ZjRhZGI0ZWU2NGE4ZWU1MDllNTYz`

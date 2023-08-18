@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-196 songs - 10 hr 10 min
+197 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hold On](https://open.spotify.com/track/5gSsEgOMT5yb7EkcK3szup) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Hold On](https://open.spotify.com/album/4RaukH9AWEZgYPpNNMFeRc) | 2:54 | 2023-04-21 | 2023-08-11 |
 | [Holding On To You](https://open.spotify.com/track/4ZX9REWz5sjCHK9otu21gU) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Rəind Səid](https://open.spotify.com/artist/3FWUEo0wsA53baxRi0T5lU), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Holding On To You](https://open.spotify.com/album/2ZWVWJYYasW9kVy0WglsYp) | 3:11 | 2022-07-29 | 2023-07-15 |
 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-13 | 2023-04-22 |
+| [How Will I Know](https://open.spotify.com/track/5ZCZmL42ETXg6BaPWe1emp) | [b1rdie](https://open.spotify.com/artist/6szDx9nHHT3fQnV3sMMY3x), [MANTZA](https://open.spotify.com/artist/1twt2fHhKKQLn9S8GUb83I) | [How Will I Know](https://open.spotify.com/album/56ONp8iQb6AT9hdd9uvaCs) | 3:03 | 2023-08-17 |  |
 | [Hurricane](https://open.spotify.com/track/44fKrt6SHESPvP3H1IpvBy) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [ASTER](https://open.spotify.com/artist/6Jt9U8bJ56jqNdEKdLZ7Yw), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Hurricane](https://open.spotify.com/album/43UsFyzWE1Uom2rpVohnJg) | 3:19 | 2022-10-03 | 2022-12-03 |
 | [Hurricane](https://open.spotify.com/track/1KGxCcjV2D8jgUnMHoZggt) | [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Hurricane](https://open.spotify.com/album/7bz61NaPnWWrTNt7fLDG4G) | 2:56 | 2022-07-29 | 2022-11-19 |
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-06-02 |  |

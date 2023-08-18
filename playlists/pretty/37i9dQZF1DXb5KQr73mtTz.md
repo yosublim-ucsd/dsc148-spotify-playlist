@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,956 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,971 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 44 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
 | 45 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
 | 46 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
-| 47 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
-| 48 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
+| 47 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
+| 48 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
 | 49 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 |
 | 50 | [Be there](https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Secret Romantic Guesthouse Part.7](https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt) | 3:46 |
 
-Snapshot ID: `MCwwYTFhNmU5NzFmZjY1MmVmNjI0Y2RlMmEyOGY1NWEwNzI3MDdjZGMz`
+Snapshot ID: `MCwwMTA2MGM0ODdkZTY5ZmI4OTg0ZjM3ZDE5OGQ5YzJlMWY4YjYwOGZj`

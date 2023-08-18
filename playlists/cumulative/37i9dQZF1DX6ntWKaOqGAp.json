@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 230133,
       "name": "Fast Life",
       "url": "https://open.spotify.com/track/5xaenX98UD9kFUYOR1H18c"
@@ -3955,6 +3955,28 @@
     },
     {
       "album": {
+        "name": "METALI!! (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "METALI!! - feat. Tom Morello",
+      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
+    },
+    {
+      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -4988,6 +5010,24 @@
       "duration_ms": 234159,
       "name": "RED",
       "url": "https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG"
+    },
+    {
+      "album": {
+        "name": "kidnapping / rendez-vous",
+        "url": "https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP"
+      },
+      "artists": [
+        {
+          "name": "shy taupe",
+          "url": "https://open.spotify.com/artist/5Mfaq632ksRTongklYsDWU"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237739,
+      "name": "rendez-vous",
+      "url": "https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn"
     },
     {
       "album": {
@@ -7490,7 +7530,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 205068,
       "name": "\u306e\u3089\u308a\u3064\u3089\u308a",
       "url": "https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV"
@@ -8048,7 +8088,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 253793,
       "name": "\u30af\u30e9\u30b7\u30c3\u30af\u30cf\u30a4",
       "url": "https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9"
@@ -10575,6 +10615,24 @@
     },
     {
       "album": {
+        "name": "\u5c11\u5e74\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne"
+      },
+      "artists": [
+        {
+          "name": "Sano ibuki",
+          "url": "https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222700,
+      "name": "\u5c11\u5e74\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT"
+    },
+    {
+      "album": {
         "name": "\u5c4a\u304f\u3001\u672a\u6765\u3078",
         "url": "https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U"
       },
@@ -11155,6 +11213,24 @@
     },
     {
       "album": {
+        "name": "\u6669\u590f\u306e\u8a3c",
+        "url": "https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345999,
+      "name": "\u6669\u590f\u306e\u8a3c",
+      "url": "https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU"
+    },
+    {
+      "album": {
         "name": "\u6700\u4f4e\u306a\u3068\u3082\u3060\u3061",
         "url": "https://open.spotify.com/album/1dBBgW5NchBijnKn9h2K0X"
       },
@@ -11634,7 +11710,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-18",
       "duration_ms": 223077,
       "name": "\u72ec\u308a\u306e\u591c\u306f - album ver.",
       "url": "https://open.spotify.com/track/7LhK3a6HGN58KTXCGJUl5h"

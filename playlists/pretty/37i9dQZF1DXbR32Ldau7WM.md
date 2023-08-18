@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: flumpool
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,688 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,880 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 |
 | 2 | [California coconuts](https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9) | 3:55 |
-| 3 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
+| 3 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 |
 | 4 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 5 | [WeTube～夏やろうの夏～](https://open.spotify.com/track/3UGOzOlwGSZZw2kzNLFGL1) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [WeTube～夏やろうの夏～](https://open.spotify.com/album/2SIfgYJiD843A2GUQq8NxS) | 3:51 |
 | 6 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 |
 | 7 | [MAGIC TIME](https://open.spotify.com/track/5bNd9b7Uo65IBAf51un2QJ) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/3G6Zoq3MHR6dlBCyxitVjI) | 2:36 |
 | 8 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 9 | [ハイファイ浪漫](https://open.spotify.com/track/39rZNXJgXj6VssiJ1X65pe) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [ハイファイ浪漫](https://open.spotify.com/album/5FElR81kIAr80LWcqgeATr) | 3:05 |
-| 10 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
+| 10 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 11 | [Runner's High](https://open.spotify.com/track/6tALYM72RQ6U7r96wsgl9l) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Runner's High](https://open.spotify.com/album/532ZI3CM6yvTOUFULlTpdo) | 6:43 |
 | 12 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 |
 | 13 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
 | 60 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 |
 
-Snapshot ID: `MCxkNDc0ZjNlNTk2ODFmNjU1N2Y3ZDNlMDAxNWRmMTRlOWM5OGYxZDUx`
+Snapshot ID: `MCwyODcxNDNiODEwYTY2NmQ4YTUzNDhkNTFhYmM1N2M3NDkwMGRhMDc3`

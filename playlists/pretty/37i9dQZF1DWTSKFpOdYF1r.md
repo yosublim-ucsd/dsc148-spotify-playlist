@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,006 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,291 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 26 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
 | 27 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
 | 28 | [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 |
-| 29 | [Talking In Your Sleep](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:55 |
+| 29 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
 | 30 | [Boys Don't Cry \- Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:37 |
 | 31 | [I Know It's Over \- 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 5:49 |
-| 32 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 |
+| 32 | [Talking In Your Sleep](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:55 |
 | 33 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 34 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
 | 35 | [Monkey Gone to Heaven](https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
 | 80 | [I Melt With You \- Rerecorded](https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [Pillow Lips](https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv) | 3:55 |
 
-Snapshot ID: `MCxlMmIwOTBjMWViMGExMzQyNDc2MzBmMjUyMjVhZGIyNWEyMTFmZDM1`
+Snapshot ID: `MCxmZWFjMDMzNzNlMGI0MjY1OWQ4ZGQ3MTM2NzFmZDBlMzk4NWM0NmFl`

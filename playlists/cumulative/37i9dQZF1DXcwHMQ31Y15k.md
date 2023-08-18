@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema, Danuarta
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora
 
-200 songs - 16 hr 22 min
+201 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Ora Iso Lali](https://open.spotify.com/track/6BE4XlljzVfCeWO5s3Vflv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Ora Iso Lali](https://open.spotify.com/album/7yoSfvIXdHpz6K20rqgXrL) | 5:45 | 2022-05-26 | 2022-09-16 |
 | [OTW \(Omong Taek We\)](https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [OTW \(Omong Taek We\)](https://open.spotify.com/album/12FLfnCnXLLvqdR75ilOYW) | 4:52 | 2022-05-26 | 2023-07-29 |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2022-05-26 | 2023-08-11 |
+| [Pangestu](https://open.spotify.com/track/3wBWUVz2PJCQN4PETCb6x9) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Pangestu](https://open.spotify.com/album/1R1HP9hiqJ6QsYpxuHZepL) | 4:51 | 2023-08-17 |  |
 | [Pedhot Janji](https://open.spotify.com/track/2Z8sz5V61e7mUQHl7WTP69) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Pedhot Janji](https://open.spotify.com/album/3YnvGg3QhzKyYE733kw6fu) | 6:15 | 2022-05-26 | 2023-08-11 |
 | [Pengangguran Yo Lumayan](https://open.spotify.com/track/6p8N18UzPaCugzW4C5XzSo) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kathul](https://open.spotify.com/artist/7JyZ5v5vVHpdl5pS1JrCLA) | [Pengangguran Yo Lumayan](https://open.spotify.com/album/2T43tjtvE6n0UJeG11MrX4) | 4:26 | 2022-05-26 | 2023-05-06 |
 | [Pengangguran Yo Lumayan \- Keroncong](https://open.spotify.com/track/77XmujDpcFtBeBMXzqNjls) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Pengangguran Yo Lumayan \(Keroncong\)](https://open.spotify.com/album/0twUn01gTREHP0tPtX2bnA) | 4:16 | 2023-07-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,502 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,527 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 19 | [Anything But Time](https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Anything But Time](https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2) | 3:38 |
 | 20 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
 | 21 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 |
-| 22 | [Two Steps Forward](https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Hold On](https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi) | 5:05 |
-| 23 | [Where Did I Go Wrong](https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:20 |
+| 22 | [Where Did I Go Wrong](https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:20 |
+| 23 | [Two Steps Forward](https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Hold On](https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi) | 5:05 |
 | 24 | [I Want You](https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 6:27 |
 | 25 | [Corporation](https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Boarding House Reach](https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId) | 5:39 |
 | 26 | [Something's Gotta Give](https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [B\. Slade](https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 4:19 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 39 | [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 |
 | 40 | [Change In Me \(The Rebirth\)](https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 4:37 |
 | 41 | [Clawhammer](https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End](https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx) | 4:30 |
-| 42 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
-| 43 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 |
+| 42 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 |
+| 43 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
 | 44 | [Uprising](https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [The Outsider](https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I) | 3:36 |
 | 45 | [Sweet Tea](https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 9:59 |
-| 46 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 |
-| 47 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 |
-| 48 | [Keep Your Light on Mama](https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2) | 2:54 |
+| 46 | [Keep Your Light on Mama](https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2) | 2:54 |
+| 47 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 |
+| 48 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 |
 | 49 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 |
-| 50 | [What You’re Made Of](https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 4:18 |
+| 50 | [Signs](https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 5:35 |
 
-Snapshot ID: `MCxkNDNmNjJlOTJmNGY0YzUxNmNhYTA1ZjMwZWEzNzhkYjI5OGQ1NGZj`
+Snapshot ID: `MCxiY2JiMjQ0OTljZGE5OWY1MDUwNTMyZGUyYjRhYTBjMGNiZDQ0YmJl`

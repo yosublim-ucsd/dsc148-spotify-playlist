@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,233 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,243 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 19 | [En vacker död stad](https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Det är ni som e dom konstiga, det är jag som e normal](https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H) | 3:13 |
 | 20 | [Dunken](https://open.spotify.com/track/7InzmgtRkwsheHlrUz0VLK) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 3:59 |
 | 21 | [Hon Får...](https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 4:08 |
-| 22 | [Tid att vara arg](https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:17 |
-| 23 | [Lisa](https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From the Past](https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb) | 2:28 |
+| 22 | [Lisa](https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From the Past](https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb) | 2:28 |
+| 23 | [Tid att vara arg](https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:17 |
 | 24 | [Patriarkatet](https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os) | 3:10 |
 | 25 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld) | 3:27 |
 | 26 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 |
 | 65 | [Vilse på öppet hav](https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [För alltid](https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ) | 2:45 |
 
-Snapshot ID: `MCxjZjk1YzQxMTMxOTY3NjA1YzcwMWE0MjNlMTIyNjlhMmU4MTdlMjc5`
+Snapshot ID: `MCw1MWEzNGU5M2MyYmMyZmQxOTc2ZDQxYzNjMDU2MzRiMTM5YzI4ZTg3`

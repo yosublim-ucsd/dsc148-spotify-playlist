@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 255859,
+  "num_followers": 256134,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjI2NTNkNzQwYjVkMmEwOTIyZjRhNjg3YTMwNDYwZjQyMDExZWJl",
+  "snapshot_id": "MCwwNmEyYTJkNDRhZDdlYmI4M2RiYjJkNjQ4Y2YxMWQ0M2I5YTEzM2Vh",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "ANTAGONIST RETURNS",
@@ -511,6 +495,22 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
-      },
-      "artists": [
-        {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
-        }
-      ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Soul Revolution",
         "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "They Fear Us",
-        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
       },
       "artists": [
         {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
         }
       ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -955,6 +939,22 @@
       "duration_ms": 214250,
       "name": "Contact",
       "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "They Fear Us",
+        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
+      },
+      "artists": [
+        {
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+        }
+      ],
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Wake of a Nation",
         "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 78531,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",

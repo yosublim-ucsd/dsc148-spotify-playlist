@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,128 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,135 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 48 | [I Remember Clifford](https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA) | [Art Farmer & Benny Golson Jazztet](https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp) | [The Complete Argo Mercury Sessions](https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG) | 3:12 |
 | 49 | [Ruby, My Dear](https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:21 |
 | 50 | [I'm A Fool To Want You \- 2006 Digital Remaster](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 |
-| 51 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 |
-| 52 | [Rhapsody in Blue](https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Rhapsody in Blue](https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p) | 4:09 |
+| 51 | [Rhapsody in Blue](https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Rhapsody in Blue](https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p) | 4:09 |
+| 52 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 |
 | 53 | [Quintessence](https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:44 |
 | 54 | [I'm Old Fashioned \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:57 |
 | 55 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 58 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 |
 | 59 | [In A Sentimental Mood](https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [In A Sentimental Mood](https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y) | 2:42 |
 | 60 | [Good Morning.Goodbye](https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 5:36 |
-| 61 | [Moody Café](https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj) | [Capricorn](https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe) | [Slow Love](https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE) | 3:51 |
-| 62 | [All The Way](https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 5:35 |
+| 61 | [All The Way](https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 5:35 |
+| 62 | [Moody Café](https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj) | [Capricorn](https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe) | [Slow Love](https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE) | 3:51 |
 | 63 | [Wisteria](https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s) | 5:47 |
-| 64 | [Emily](https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Summertime](https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7) | 4:47 |
-| 65 | [Ida Lupino](https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK) | [Paul Bley Trio](https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT) | [Closer](https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5) | 2:57 |
-| 66 | [Angel Eyes \- Studio](https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Master Trio](https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4) | 5:49 |
+| 64 | [Angel Eyes \- Studio](https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Master Trio](https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4) | 5:49 |
+| 65 | [Emily](https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Summertime](https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7) | 4:47 |
+| 66 | [Ida Lupino](https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK) | [Paul Bley Trio](https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT) | [Closer](https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5) | 2:57 |
 | 67 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 |
 | 68 | [My Wish](https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:32 |
 | 69 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 |
 | 75 | [It Never Entered My Mind](https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Hans Andersson](https://open.spotify.com/artist/0u7AFb2NdypFhoLJ8tYH8I), [Johan Lofcrantz Ramsay](https://open.spotify.com/artist/3yV0vWr0YdP5rPERtUL775), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [It Never Entered My Mind](https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq) | 6:15 |
 
-Snapshot ID: `MCxlMjE1MjM2Y2UzMGExNzk1NjU1ODgzMGJkZWE4OTM1MjJkMDc2MGIz`
+Snapshot ID: `MCw2MmM4YThjYWIwZWY0OWIxZmM4Y2RlZDRkMjRmYmU0OGEzMmZkYTky`

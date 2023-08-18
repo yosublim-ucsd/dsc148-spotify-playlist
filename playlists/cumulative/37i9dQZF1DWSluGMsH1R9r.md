@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-566 songs - 1 day 0 hr 26 min
+569 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2021-12-07 |  |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 |  |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2021-12-07 |  |
+| [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-08-15 |  |
 | [Black coal of dream](https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Black coal of dream](https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4) | 2:05 | 2023-06-20 |  |
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2021-12-07 | 2022-09-15 |
 | [Blue River](https://open.spotify.com/track/789zWw6YwOpoDXoyRXaG1R) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 3:21 | 2021-12-07 | 2022-07-16 |
@@ -218,6 +219,7 @@
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2021-12-07 |  |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-12-07 | 2022-09-15 |
 | [Indivision](https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Indivision](https://open.spotify.com/album/7ANmCCI9lzaAsthwF8QcHd) | 2:48 | 2021-12-07 | 2022-07-16 |
+| [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-01-04 | 2023-08-16 |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-12-07 |  |
@@ -307,7 +309,7 @@
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2021-12-07 |  |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-12-22 |  |
 | [Minuit à Paris](https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Minuit à Paris](https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6) | 2:14 | 2021-12-07 |  |
-| [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 |  |
+| [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 | 2023-08-18 |
 | [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2021-12-07 | 2023-08-16 |
 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 | 2022-12-22 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2021-12-07 |  |
@@ -382,7 +384,7 @@
 | [Promenade](https://open.spotify.com/track/5pNtFAPRtX6FWcTTJIgt7k) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [Promenade](https://open.spotify.com/album/2Aamlg8UdJK3C1rAs4cuWq) | 2:10 | 2021-12-07 |  |
 | [Promenade](https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Promenade](https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB) | 2:00 | 2022-02-01 |  |
 | [Pure](https://open.spotify.com/track/4UYGDtJioYGL91h7FTW1Kz) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Pure](https://open.spotify.com/album/79vJYtitjs0sp2LS8lsXSr) | 2:18 | 2021-12-07 | 2023-01-27 |
-| [Pure](https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:19 | 2023-01-26 |  |
+| [Pure](https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:19 | 2023-01-26 | 2023-08-18 |
 | [purple](https://open.spotify.com/track/6V3dW0yDfaVmruskoTBZdr) | [June Faulkner](https://open.spotify.com/artist/3y5opCdWummR85Am4kEc3M) | [glass eyes](https://open.spotify.com/album/35kYcnARS82yoocVD5eghR) | 2:33 | 2021-12-07 |  |
 | [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 | 2021-12-07 |  |
 | [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2022-01-04 |  |
@@ -486,6 +488,7 @@
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2021-12-07 |  |
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-12-22 |  |
 | [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2021-12-07 |  |
+| [The Might](https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I) | [Freya Rääf](https://open.spotify.com/artist/25K3sG1vlM4RnpPiWHHIzn) | [The Might](https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv) | 2:19 | 2023-08-15 |  |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-12-07 | 2023-01-27 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2022-09-15 |
 | [The Old Windmill](https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [The Old Windmill](https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn) | 2:02 | 2022-02-01 | 2022-03-15 |
@@ -545,7 +548,7 @@
 | [Waltz For Debby](https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Waltz For Debby](https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0) | 3:29 | 2022-09-14 |  |
 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 | 2022-04-07 |  |
 | [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-07 | 2023-08-11 |
-| [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-12-07 |  |
+| [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-12-07 | 2023-08-18 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-07-16 |
 | [When I Am With Her](https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG) | [Hattie Sanford](https://open.spotify.com/artist/5Y9w5YkP5VxVumV37PL7tU) | [When I Am With Her](https://open.spotify.com/album/1gHtrb53NvHOPooEuQls2e) | 2:40 | 2021-12-07 | 2022-07-16 |

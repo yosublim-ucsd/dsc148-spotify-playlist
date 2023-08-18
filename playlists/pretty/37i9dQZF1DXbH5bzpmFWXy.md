@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Herencia de Patrones, Gera MX & Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,495 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,598 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 63 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
 | 64 | [Te Lo Dije](https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:29 |
 | 65 | [JURE VENGANZA](https://open.spotify.com/track/4t2fkh1jfaEuZz9t3o05bG) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [JURE VENGANZA](https://open.spotify.com/album/01hQzuRutKQ10AmhqyWHAl) | 2:12 |
-| 66 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 |
-| 67 | [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 |
+| 66 | [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 |
+| 67 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 |
 | 68 | [Aventador](https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Aventador](https://open.spotify.com/album/2oJmzxo3F84tztXqVBBGFH) | 3:25 |
 | 69 | [Don Nadie](https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Don Nadie](https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A) | 3:11 |
 | 70 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 95 | [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 |
 | 96 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
 
-Snapshot ID: `MCwyZDQ3OGMyMDU0OGU5YTYyMjYzZWFiNjczNWY1M2Y4ZmNiNzljM2Qy`
+Snapshot ID: `MCw4NGMxM2Q2Y2IwODNiNmFhYjcxNWQ1ZDI2NmI0Nzg3NzA4YzU2ZGU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,341,752 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,342,030 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 62 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 |
 | 63 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 | 64 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 |
-| 65 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
-| 66 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 |
-| 67 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 |
+| 65 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 |
+| 66 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
+| 67 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 |
 | 68 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 |
 | 69 | [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 |
 | 70 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 113 | [Good Stuff](https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Good Stuff](https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc) | 3:13 |
 | 114 | [Life Of The Party](https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:34 |
 | 115 | [The Call](https://open.spotify.com/track/341863z079BT4EFPiSw9DP) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [The Call](https://open.spotify.com/album/5L6RSDUhfwNAU87Pafcobr) | 3:07 |
-| 116 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
-| 117 | [Moonlight](https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:22 |
+| 116 | [Moonlight](https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:22 |
+| 117 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
 | 118 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 |
 | 119 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
 | 120 | [The Fault in Our Stars](https://open.spotify.com/track/6LteLVcW0oWLjuW6nePyWb) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Fault in Our Stars](https://open.spotify.com/album/75K7Ki7WchpgjTHHR4hDmo) | 3:07 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 134 | [Burning](https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:23 |
 | 135 | [Us Against the World](https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 |
 | 136 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:04 |
-| 137 | [Chandelier \- Piano Version](https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:01 |
-| 138 | [Real Friends](https://open.spotify.com/track/3iq9nhbI8fcnNamxMft1uv) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:34 |
+| 137 | [Real Friends](https://open.spotify.com/track/3iq9nhbI8fcnNamxMft1uv) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:34 |
+| 138 | [Chandelier \- Piano Version](https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:01 |
 | 139 | [What Are Words](https://open.spotify.com/track/50A1WCxKycJUHRr4Rz6WrD) | [Chris Medina](https://open.spotify.com/artist/2uCmngYSlTEELzZXl1z1dV) | [What Are Words](https://open.spotify.com/album/156SSHnm8kNfMNl2QJub3I) | 3:09 |
 | 140 | [Heart Like Yours](https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5) | [Willamette Stone](https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS) | [If I Stay \(Original Motion Picture Soundtrack\) \[Deluxe Version\]](https://open.spotify.com/album/0mefrJRDTY0Q1eVZVqAAYU) | 3:20 |
 | 141 | [Always Remember Us This Way](https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII) | 3:30 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [I Never Told You](https://open.spotify.com/track/2rJWnAqSuLMls0KOv416Io) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Breakthrough \(Deluxe Edition\)](https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8) | 3:53 |
 | 150 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 |
 
-Snapshot ID: `MCw0MDdiZDFmNzgyZDY3NmUxNTk2MjhmZjk3ZDVkNGYzOTJkODk2YTYx`
+Snapshot ID: `MCxiYzBjMjExMjNmMGJkYzYxY2I4ZTRmYjMyZTBkYjkzYTYzMGRhMDhk`

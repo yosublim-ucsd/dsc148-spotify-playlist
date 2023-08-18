@@ -2,9 +2,9 @@
 
 ### [ECHO : Tabla Rhythms](https://open.spotify.com/playlist/37i9dQZF1DX83Qd1EZ6qTs)
 
-> Ease out and balance your energies with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
+> Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
 
-50 songs - 4 hr 39 min
+51 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Earth Kingdom](https://open.spotify.com/track/3t5fjhDsIRJ6x15Tzg9mDc) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:25 | 2023-06-20 |  |
 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 | 2023-07-19 |  |
 | [Happy Dance](https://open.spotify.com/track/4zBFZioNYT5O1jnkq5eILg) | [Swarupa Ananth](https://open.spotify.com/artist/29RyBMursO97PbeLmPF3Qb) | [Recomeçar](https://open.spotify.com/album/62gA8TSuoUyiT1Hj5uoN51) | 3:02 | 2023-06-20 |  |
-| [Heartbeat \- Hindolam \- Taal Vadya Kacheri in Aditala](https://open.spotify.com/track/38HbEPHhFRPfxF0lhQnsb8) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Latha Ramachar](https://open.spotify.com/artist/3bSLWyTN0Z2OyERTWrQ7xs), [Sukanya Ramgopal](https://open.spotify.com/artist/3r9MZSoBYfVqoWQOrwhCsY) | [Passion](https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03) | 11:59 | 2023-06-20 |  |
+| [Heartbeat \- Hindolam \- Taal Vadya Kacheri in Aditala](https://open.spotify.com/track/38HbEPHhFRPfxF0lhQnsb8) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Latha Ramachar](https://open.spotify.com/artist/3bSLWyTN0Z2OyERTWrQ7xs), [Sukanya Ramgopal](https://open.spotify.com/artist/3r9MZSoBYfVqoWQOrwhCsY) | [Passion](https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03) | 11:59 | 2023-06-20 | 2023-08-18 |
 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 | 2023-06-20 |  |
+| [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-08-18 |  |
 | [Khandam](https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:42 | 2023-06-20 |  |
 | [Morning in Jaipur](https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Morning in Jaipur](https://open.spotify.com/album/36LWh671wy1VsrgVeThoCy) | 2:44 | 2023-06-25 |  |
 | [Mumbai](https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 4:32 | 2023-06-20 |  |
