@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,562 likes - 47 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,939 likes - 47 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 |
 | 47 | [Tabla](https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur) | [Jnan Prakash Ghosh](https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg) | [Drums Of India \- Pt\. Jnan Prakash Ghosh](https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT) | 12:51 |
 
-Snapshot ID: `MCwyNTVkNjFmNzA2ZmRlYWRjN2ZlZDY3MmJlMzk5Y2Y4NDM4OTkxM2Rk`
+Snapshot ID: `MCxhMGFkMGExMGUwODU5MzlmOGQxMTRiZTQwZjQwODNjZGFlM2E1MWQ3`

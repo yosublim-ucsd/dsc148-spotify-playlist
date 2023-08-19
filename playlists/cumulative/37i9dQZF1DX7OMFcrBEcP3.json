@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/1lbo0iXFRYTxv5RVFEDEvv"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162854,
+      "name": "Domingo Corrales",
+      "url": "https://open.spotify.com/track/2YhF4zGkvmoxMKfTDXN19n"
+    },
+    {
+      "album": {
         "name": "Los Corridos Favoritos Del Jefe",
         "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
       },
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 218044,
       "name": "Los Tequileros",
       "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 136706,
       "name": "Mi Clavo",
       "url": "https://open.spotify.com/track/2jibTmnltzTASYyhKashO7"
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"

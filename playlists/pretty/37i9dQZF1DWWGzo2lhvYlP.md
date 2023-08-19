@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,306 likes - 200 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,403 likes - 200 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [Thorns](https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Thorns](https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y) | 3:06 |
 | 200 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 |
 
-Snapshot ID: `MCw4N2NhZGE3Yzc1OTU3OGU5OTZkZWJjZjE4YmZmYTA4YmM0NTE1ZDMw`
+Snapshot ID: `MCwwNzEyZWJhZTY1YTFmZjUzM2FlYWNjYzgzODNhYzcwMGE2NzQ3NmE3`

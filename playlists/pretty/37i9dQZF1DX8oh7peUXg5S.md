@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,909 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,093 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
 | 100 | [Comando Antivandálico, Pero Violento](https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Comando Antivandálico, Pero Violento](https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x) | 3:34 |
 
-Snapshot ID: `MCw3ZGVjMjdkMjk2MmE0YTY3ODk2ZjM1YTBkMDVmODQyZWQ3Mjg5MDA0`
+Snapshot ID: `MCxkN2Y1ZjdlMjIwN2M0NmNhN2RmNTM1NzgxYzJjNmNiZDM5ZDc0ODQz`

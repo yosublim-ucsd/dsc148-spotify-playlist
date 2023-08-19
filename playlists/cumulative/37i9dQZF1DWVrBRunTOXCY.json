@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "The sound of summer 2023! Cover: Fred Again.. + Obongjayar",
+  "description": "The sound of summer 2023! Cover: Turno + Skepsis + Charlotte Plank",
   "name": "Summer Hits UK 2023",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 216827,
       "name": "Blue Razz",
       "url": "https://open.spotify.com/track/124GIso7hUD9of584dOOIo"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 202000,
       "name": "Facade",
       "url": "https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO"
@@ -1276,6 +1276,32 @@
       "duration_ms": 124462,
       "name": "Feel It - Club Edit",
       "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
+    },
+    {
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
     },
     {
       "album": {
@@ -2726,6 +2752,28 @@
       "duration_ms": 218577,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "album": {
+        "name": "Saxo (feat. Tion Wayne)",
+        "url": "https://open.spotify.com/album/4RhUu4CjybaYP56fPgJQ6U"
+      },
+      "artists": [
+        {
+          "name": "WhyTek",
+          "url": "https://open.spotify.com/artist/65DPfysLSyewJ1IXgdA4ZM"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111835,
+      "name": "Saxo (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/2Wzyas9S4ietj2NzXtHR2I"
     },
     {
       "album": {

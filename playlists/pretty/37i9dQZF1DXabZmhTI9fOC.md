@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,232 likes - 155 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,324 likes - 155 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 154 | [Sweetest Thing](https://open.spotify.com/track/4BCda1bJa57fTMB2laaOeX) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [RNSOM](https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh), [Davis](https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw) | [UNSOUND EP](https://open.spotify.com/album/5OntSYDFZdSm4byHGNiUOj) | 3:28 |
 | 155 | [As Long as You Love Me](https://open.spotify.com/track/6RqEGiKjOqFTge6YrCKcqX) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 2](https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh) | 3:29 |
 
-Snapshot ID: `MCw0N2JkMjdmMjg4NzFlYmU2OTZiYWIxZWU1YzZhZjk5ZDI3M2U1MThh`
+Snapshot ID: `MCw4MDE2YzhhZGE5MWUwZWVhNzM3MTJiOWQ3YzUxM2UyMWUyMWJhN2Q1`

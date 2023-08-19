@@ -4,7 +4,7 @@
 
 > We hear you.
 
-616 songs - 1 day 6 hr 27 min
+618 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Dialtone \(ft\. Quiet Luke\)](https://open.spotify.com/track/68RAS0hR8AkvWlhbDCPOpG) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Someone Will Be There For You](https://open.spotify.com/album/62H9eBjEbABHdejt9USJuX) | 3:02 | 2022-05-20 | 2022-07-04 |
 | [Did I Get It Wrong](https://open.spotify.com/track/2hEFAHjkgjUJSbSWrB6uad) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Did I Get It Wrong](https://open.spotify.com/album/49IL3XMqHP7DSW39GffMgY) | 3:05 | 2021-04-02 | 2022-07-25 |
 | [Did I Get It Wrong](https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Three Songs](https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T) | 3:05 | 2023-06-02 | 2023-07-22 |
+| [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 | 2023-08-18 |  |
 | [Did You Ever?](https://open.spotify.com/track/4dRtXKY62sv9VNyyN3aqJV) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [Did You Ever?](https://open.spotify.com/album/2L3nhkWhZ7tuRL5oLJy9p1) | 2:37 | 2022-01-25 | 2022-04-16 |
 | [did you?](https://open.spotify.com/track/2AdOnjGkvA9w87SHnrlRGC) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [did you?](https://open.spotify.com/album/66opJaPhhdXdBmzpnsZTDY) | 1:46 | 2021-04-02 | 2022-04-21 |
 | [Die Alone](https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 4:21 | 2022-10-14 |  |
@@ -344,7 +345,7 @@
 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 | 2021-04-02 | 2022-07-29 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-03-29 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 | 2021-04-02 | 2022-07-29 |
-| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-06-02 |  |
+| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-06-02 | 2023-08-19 |
 | [Lost and Found](https://open.spotify.com/track/1yc79H1wfOV63IKhF7e5OF) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Lost and Found](https://open.spotify.com/album/32jPsEofo7cB4RJ5ggzcJU) | 2:36 | 2021-04-02 | 2022-04-12 |
 | [Lost In Between](https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Lost In Between](https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00) | 2:04 | 2021-04-02 | 2022-07-19 |
 | [lost someone](https://open.spotify.com/track/6W6CoZ8ljg8uRC2DZOYWBU) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [lost someone](https://open.spotify.com/album/6cdqjl1RgRQGp8J2K4U0Vw) | 2:25 | 2021-04-02 | 2022-07-28 |
@@ -376,7 +377,7 @@
 | [Moonlight Shawty](https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87) | [Fatboibari](https://open.spotify.com/artist/13iQ9ZfyvF0fJPpT9uVzfi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Moonlight Shawty](https://open.spotify.com/album/40Clsjg6Obb6Bg3wb17anY) | 2:47 | 2022-11-08 | 2022-12-24 |
 | [more](https://open.spotify.com/track/0D2bQ8QLRSLeyuvEhSuaDD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [more](https://open.spotify.com/album/3WRv5yZu3FmnQ0JR6eZ482) | 3:03 | 2021-04-02 | 2022-04-21 |
 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 | 2022-07-15 | 2023-02-02 |
-| [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 | 2022-11-18 |  |
+| [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 | 2022-11-18 | 2023-08-19 |
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-23 | 2022-04-17 |
 | [My American Life](https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:27 | 2022-11-18 | 2023-01-03 |
 | [my fault](https://open.spotify.com/track/36WabQN781ejYiSWKQAzDD) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/2ha2R9dZOJ6B0aYnNanUwQ) | 1:00 | 2022-12-22 | 2023-05-05 |
@@ -396,6 +397,7 @@
 | [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-07-15 | 2022-10-15 |
 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-20 | 2022-07-29 |
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2021-04-02 | 2022-07-29 |
+| [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-18 |  |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-14 | 2022-12-24 |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2022-03-29 | 2022-10-13 |
 | [Nothing Gives Me Pleasure](https://open.spotify.com/track/0Z30x3kCY22L0ZOEB4gHS2) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Nothing Gives Me Pleasure](https://open.spotify.com/album/1TzPeFabdi1ZXpIEAvubAj) | 3:48 | 2022-03-29 | 2022-04-19 |

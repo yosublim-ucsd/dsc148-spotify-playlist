@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Fourth Nattawat
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Gemini Norawit
 
-368 songs - 22 hr 7 min
+369 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 | 2022-07-25 |
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 | 2022-09-24 |
-| [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 | 2023-08-04 |  |
+| [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 | 2023-08-04 | 2023-08-19 |
 | [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 | 2023-03-25 |
 | [Chemistry](https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Chemistry](https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm) | 3:28 | 2023-05-11 | 2023-05-20 |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
@@ -325,6 +325,7 @@
 | [เหล่ท่อ](https://open.spotify.com/track/1mfmYnbNhK574LYK23dZOB) | [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [เหล่ท่อ](https://open.spotify.com/album/6yNmCQx2RcSytSTbDCaAfE) | 3:03 | 2022-06-02 | 2022-06-10 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2022-05-26 | 2023-03-01 |
 | [เอาใจลงไปเล่น\(GAMBLE\)](https://open.spotify.com/track/5XNaYxMeuMXMJy3K9UcSXg) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [เอาใจลงไปเล่น\(GAMBLE\)](https://open.spotify.com/album/5ULzvf2zlwnN7B8zgokFzY) | 3:24 | 2022-07-28 | 2022-08-26 |
+| [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/album/2qk72LxifhUXZkIhDXGm3z) | 3:17 | 2023-08-18 |  |
 | [เฮอร์ไมโอน้อง \- Hermionong](https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [เฮอร์ไมโอน้อง \(Hermionong\)](https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj) | 3:36 | 2022-07-07 | 2022-12-09 |
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2022-09-23 |  |
 | [แกน่ารักมาตลอด \- All Kill](https://open.spotify.com/track/16F2kMvP3sJ9aqtL5ubZt2) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [แกน่ารักมาตลอด \(All Kill\)](https://open.spotify.com/album/6j1Vn1TozowU0s8AswD8dp) | 3:06 | 2022-07-07 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: MJ Lenderman
 
-147 songs - 9 hr 47 min
+149 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Runnin](https://open.spotify.com/track/01HfhwZbc9bHQl9wKQHjNj) | [Ohtis](https://open.spotify.com/artist/3u39r3hiQU2sq7VrV38L6x) | [Curve of Earth \(Deluxe Version\)](https://open.spotify.com/album/5lKZGMY4mh2IJTJ6goyzQV) | 4:21 | 2023-06-23 |  |
 | [Saddle](https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a) | [Symbol Soup](https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal) | [Slow Puncture](https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk) | 2:51 | 2023-07-28 |  |
 | [Sandy](https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Sandy EP](https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK) | 3:55 | 2023-06-09 |  |
+| [Sha](https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5aBRXOGZlyci28Qps87Mdp) | 3:36 | 2023-08-18 |  |
 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 |  |
 | [Shirley](https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Shirley](https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I) | 1:19 | 2023-03-17 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-02-23 |  |
@@ -132,6 +133,7 @@
 | [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-11 |  |
 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 | 2023-02-23 |  |
 | [Sunset Song](https://open.spotify.com/track/32AeyVrhv4GBXX9CqCp9J3) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Jack Symes & the River House](https://open.spotify.com/album/2WR2L77NLqrX0wr3MnXjwW) | 3:57 | 2023-06-09 |  |
+| [Take My Heart](https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 2:53 | 2023-08-18 |  |
 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2023-02-23 |  |
 | [The Natural](https://open.spotify.com/track/2Jq7MZGZaoZXOLfm2rGr1i) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [The Natural](https://open.spotify.com/album/3Or3QqOXWcbOSwj4RiYzMy) | 3:50 | 2023-03-24 |  |
 | [The Stranger \(feat\. Sachi, Dan Reeder, Tobias Jesso Jr., John C\. Reilly, Becky and the Birds\)](https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d), [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD), [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Sachi](https://open.spotify.com/artist/0RvKwfTA8QrkZfXm7cflNr), [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [The Stranger \(feat\. Sachi, Dan Reeder, Tobias Jesso Jr., John C\. Reilly, Becky and the Birds\)](https://open.spotify.com/album/0eqovZBbtZFa07tA9OGcWt) | 4:30 | 2023-02-23 |  |

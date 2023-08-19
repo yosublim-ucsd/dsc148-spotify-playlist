@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-129 songs - 7 hr 5 min
+130 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [La Bamba](https://open.spotify.com/track/0dJUbqKkP9EwuBtyLeQWHt) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7), [Ricky Duran](https://open.spotify.com/artist/1C18TJ6Co8ihwnIUYbrfiy) | [La Bamba](https://open.spotify.com/album/48s9qikZZvbEhVX1tdWc5R) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [La Bamba](https://open.spotify.com/track/25oidgdkH3NlGpJtDV7ujD) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7), [Ricky Duran](https://open.spotify.com/artist/1C18TJ6Co8ihwnIUYbrfiy) | [La Bamba](https://open.spotify.com/album/7cve9lcdp9KQUpbbaj8Mlp) | 3:13 | 2022-07-08 |  |
 | [La Conoci en un Rodeo](https://open.spotify.com/track/5DNjj4JB73raxizHergZZZ) | [Lico Ochoa](https://open.spotify.com/artist/6qGC90DZp2CJj8yW2hzEEr) | [La Conoci en un Rodeo](https://open.spotify.com/album/0cysbWhtKWMyR4n8u5tNtv) | 3:55 | 2021-12-10 |  |
+| [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 | 2023-08-18 |  |
 | [La Prisión De Folsom \(Folsom Prison Blues\) \- Live At Folsom Prison](https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Tigres Del Norte At Folsom Prison \(Original Soundtrack/Live\)](https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q) | 3:19 | 2021-12-10 |  |
 | [Laredo](https://open.spotify.com/track/2NrfHt0kmyH1l2C6k0cBxR) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Laredo](https://open.spotify.com/album/6UvkjIXN6hwu8xsfeFmtNV) | 3:56 | 2021-12-10 |  |
 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 | 2022-08-12 |  |

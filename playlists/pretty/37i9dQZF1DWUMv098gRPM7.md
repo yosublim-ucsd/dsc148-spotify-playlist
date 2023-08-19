@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,165 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,199 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Nevada](https://open.spotify.com/track/0z5ETXpbYwKcGo0CUoZeGs) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Nevada](https://open.spotify.com/album/5zvRC6iiYBdhvPPeyqiEOH) | 3:35 |
 | 75 | [Love Shit](https://open.spotify.com/track/0L2qoVdYFANCKydaeuqDHU) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9) | 3:00 |
 
-Snapshot ID: `MCwxOGQyZmE1Y2JhNzNmYzY4ZWI1YmZiMWJiYzA2ZTQzMGRmMTJiYzBi`
+Snapshot ID: `MCxhNzE3OWM0OWE2ZmUxZTY3OGJhZWM0MGQwZWY4MzU1YWVkMzUyNDdi`

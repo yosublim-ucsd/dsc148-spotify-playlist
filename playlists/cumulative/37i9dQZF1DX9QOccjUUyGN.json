@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: VK Mac",
+  "description": "tranquilo e calmo, no flow. Foto: Froid",
   "name": "tamo flex",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 115324,
       "name": "Alta Renda",
       "url": "https://open.spotify.com/track/2sE9rDEVI9oL1D5WTEdePC"
@@ -2793,6 +2793,36 @@
     },
     {
       "album": {
+        "name": "OgEMr",
+        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182485,
+      "name": "DESCONSIDERA",
+      "url": "https://open.spotify.com/track/06W0pTzzF4h3F710ktH8vi"
+    },
+    {
+      "album": {
         "name": "Deu Saudade",
         "url": "https://open.spotify.com/album/210kypIEoUxUzSaMEGAkQM"
       },
@@ -3892,7 +3922,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 234666,
       "name": "Festa dos Bacana",
       "url": "https://open.spotify.com/track/12dsq6e9rnf7ZvBlCZH1NK"
@@ -4653,6 +4683,28 @@
     },
     {
       "album": {
+        "name": "Humildade e Disciplina",
+        "url": "https://open.spotify.com/album/3WdKg6Hf6rocYkdsZRpvru"
+      },
+      "artists": [
+        {
+          "name": "Mr. Catra",
+          "url": "https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE"
+        },
+        {
+          "name": "WF Fam\u00edlia Sagrada Fam\u00edlia",
+          "url": "https://open.spotify.com/artist/4cub4WLzDhmA2a9tH0MGzv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Humildade e Disciplina",
+      "url": "https://open.spotify.com/track/3DmjVHqWqPHbgsCYjcOOdM"
+    },
+    {
+      "album": {
         "name": "Iluminado",
         "url": "https://open.spotify.com/album/5HJWlVN9RMFdUMfqwjIK4d"
       },
@@ -4872,6 +4924,28 @@
       "duration_ms": 180967,
       "name": "jovem carlos",
       "url": "https://open.spotify.com/track/3vBHy2FE4tBtKqCb1NudJg"
+    },
+    {
+      "album": {
+        "name": "J\u00f3ias",
+        "url": "https://open.spotify.com/album/3ojD5UfxoV48LKMWCywqfO"
+      },
+      "artists": [
+        {
+          "name": "Mc Jean",
+          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "J\u00f3ias",
+      "url": "https://open.spotify.com/track/2LFnuYFKk2O6UNBZ8RlSy9"
     },
     {
       "album": {
@@ -6624,7 +6698,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190000,
       "name": "NOITE PAULISTA",
       "url": "https://open.spotify.com/track/2vcT8OFI7FfzrI4OGQaxT1"
@@ -7574,7 +7648,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 146208,
       "name": "Plug - De Criminoso",
       "url": "https://open.spotify.com/track/6jysxOHkqThPgvMMX4MNiY"
@@ -7924,6 +7998,32 @@
       "duration_ms": 159249,
       "name": "Pris\u00e3o Vital\u00edcia",
       "url": "https://open.spotify.com/track/2mWUQJ5p2msFK34wjqQgwm"
+    },
+    {
+      "album": {
+        "name": "OgEMr",
+        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143697,
+      "name": "PRODUTO CARO",
+      "url": "https://open.spotify.com/track/5oidbmbRWgd9DtvBwuZd3Z"
     },
     {
       "album": {
@@ -9064,7 +9164,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 171000,
       "name": "Soldado de Verdade",
       "url": "https://open.spotify.com/track/0xHcewTylOkfyBrZZsNWvA"
@@ -9298,6 +9398,28 @@
       "duration_ms": 156923,
       "name": "Tapa",
       "url": "https://open.spotify.com/track/0XpPQ7JSk7wclx0DgOPko8"
+    },
+    {
+      "album": {
+        "name": "Tchutchucas Cl\u00e1ssicas",
+        "url": "https://open.spotify.com/album/7juC2PV7lTCk3bdD37ywEr"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/3bX1UBuREUv9PBbkeqeY1S"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155100,
+      "name": "Tchutchucas Cl\u00e1ssicas",
+      "url": "https://open.spotify.com/track/0Dm4iQYMwUtdu9f5l2cIVI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,074 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,073 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 99 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 |
 | 100 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 |
 
-Snapshot ID: `MCwwMDZiYmEyYjAzNmRiMmVkNzFiZTc0MGU3MTk1MjJhOGFmNDgwMzI2`
+Snapshot ID: `MCw4NjQxMjM3YTYxY2EyYTA4N2IyZDkzOWY0NzM2MmFhZjhjYTc3MjI5`

@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-320 songs - 19 hr 25 min
+321 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-06-09 |  |
 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2023-02-10 |  |
 | [Here's To Moving On](https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Here's To Moving On](https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje) | 4:17 | 2021-11-12 | 2022-03-12 |
+| [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 | 2023-08-18 |  |
 | [Hideaway Girl](https://open.spotify.com/track/5LsZQhyNjRMbgbsOQimOrx) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Fever Dreams Pt\. 2](https://open.spotify.com/album/0ILtAeS79hO8hBfdMVcCVj) | 3:25 | 2021-12-17 | 2022-02-19 |
 | [High And Lonesome](https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:33 | 2022-07-01 | 2023-06-10 |
 | [High and Lonesome](https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [High and Lonesome](https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K) | 4:33 | 2021-10-08 | 2022-07-29 |
@@ -284,7 +285,7 @@
 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 | 2021-01-29 |  |
 | [The Best Part of Letting Go](https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F) | 3:25 | 2022-10-21 | 2022-11-12 |
 | [The Best Part of Letting Go](https://open.spotify.com/track/64nduduwh4o6m0PXplVum0) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/4wMICcEMpmsBz771u42o7h) | 3:28 | 2021-10-29 | 2022-07-26 |
-| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 |  |
+| [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 | 2023-08-19 |
 | [The Haves](https://open.spotify.com/track/2HSg6TSfOlPu9XT7nO7S8P) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Haves](https://open.spotify.com/album/1LDXF0EzuqLl6ZthDJDo8E) | 5:06 | 2021-11-19 | 2022-01-15 |
 | [The Kitchen](https://open.spotify.com/track/14ZAryaOGjWc52i84ApWh0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [The Kitchen](https://open.spotify.com/album/7hXIoUSA4AMI9zOGsepWXv) | 3:21 | 2022-05-25 | 2022-07-02 |
 | [The Magic](https://open.spotify.com/track/09AXTeXynbiu9RyyHzs07h) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [The Magic](https://open.spotify.com/album/2sVFKGHXygegcFVSPWKHLA) | 3:12 | 2021-11-26 | 2022-11-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now \u2013 featuring LOONY.",
+  "description": "What's happening in R&B, right now \u2013 featuring Jessie Reyez.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226740,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
+    },
+    {
+      "album": {
         "name": "BREAK MY SOUL",
         "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
       },
@@ -1795,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "crying through my teeth - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7ICsxmgIN0HSJh70kzlePZ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141611,
+      "name": "crying through my teeth - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7"
+    },
+    {
+      "album": {
         "name": "Cuando Me Ves",
         "url": "https://open.spotify.com/album/1AyO4888bABY4XyNBUvwNV"
       },
@@ -2144,7 +2180,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
@@ -3019,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192022,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED"
+    },
+    {
+      "album": {
         "name": "Fly Girl (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
       },
@@ -3154,7 +3208,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 223157,
       "name": "FOREVER (with 6LACK)",
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
@@ -4548,7 +4602,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 241932,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS"
@@ -4752,6 +4806,28 @@
       "duration_ms": 159666,
       "name": "jealousy (feat. rema)",
       "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
+    },
+    {
+      "album": {
+        "name": "JEANS",
+        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "JEANS (with Miguel)",
+      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
     },
     {
       "album": {
@@ -5794,7 +5870,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"

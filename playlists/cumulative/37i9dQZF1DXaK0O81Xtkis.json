@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Daniel Seavey",
+  "description": "make it pop! cover: Trousdale",
   "name": "soda",
   "tracks": [
     {
@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 139410,
       "name": "Forever & Again (From Barbie The Album)",
       "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
@@ -4840,7 +4840,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT"
@@ -6092,6 +6092,24 @@
       "duration_ms": 213706,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/7DD5C8Dxq3acjvwDUCvuQQ"
+    },
+    {
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162701,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
     },
     {
       "album": {
@@ -7614,6 +7632,24 @@
       "duration_ms": 121271,
       "name": "make you sick",
       "url": "https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1"
+    },
+    {
+      "album": {
+        "name": "Making Diamonds",
+        "url": "https://open.spotify.com/album/4vTpspvnRsiGe66saR77sG"
+      },
+      "artists": [
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200036,
+      "name": "Making Diamonds",
+      "url": "https://open.spotify.com/track/6gxb1PNLlRWs2F8QFw4lbX"
     },
     {
       "album": {
@@ -9303,6 +9339,28 @@
     },
     {
       "album": {
+        "name": "Play With Fire (feat. Frances Forever)",
+        "url": "https://open.spotify.com/album/75mqQgjafxqZIwypeugZwK"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        },
+        {
+          "name": "Frances Forever",
+          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236416,
+      "name": "Play With Fire (feat. Frances Forever)",
+      "url": "https://open.spotify.com/track/7LyGoh4umDLZgIlLYSzO1t"
+    },
+    {
+      "album": {
         "name": "plz don't waste my youth",
         "url": "https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp"
       },
@@ -9636,6 +9694,24 @@
       "duration_ms": 210608,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
+    },
+    {
+      "album": {
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Right Here, For Now",
+      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
     },
     {
       "album": {
@@ -9996,6 +10072,24 @@
       "duration_ms": 187809,
       "name": "Searching For The Light",
       "url": "https://open.spotify.com/track/0QVZBtrQavTRm7yqWFwm7n"
+    },
+    {
+      "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/6SfEC8qfzS8BlRZhoKnLNw"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "SEASONS",
+      "url": "https://open.spotify.com/track/0LewCveaX3x2WWdJr0OQVu"
     },
     {
       "album": {
@@ -12509,6 +12603,24 @@
     },
     {
       "album": {
+        "name": "Used To This",
+        "url": "https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
+    },
+    {
+      "album": {
         "name": "VICIOUS",
         "url": "https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv"
       },
@@ -13394,6 +13506,24 @@
       "duration_ms": 175918,
       "name": "You Won't",
       "url": "https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el"
+    },
+    {
+      "album": {
+        "name": "Your Ex",
+        "url": "https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217728,
+      "name": "Your Ex",
+      "url": "https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8"
     },
     {
       "album": {

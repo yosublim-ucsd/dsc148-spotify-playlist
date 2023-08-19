@@ -4,7 +4,7 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-241 songs - 14 hr 37 min
+243 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [DNA \- Live](https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [DNA \(Live\)](https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN) | 3:48 | 2022-08-26 | 2023-01-21 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-02-25 |  |
 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 | 2022-05-13 | 2022-06-11 |
+| [dumb luck \(Live at VEVO\)](https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Live at VEVO](https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl) | 2:38 | 2023-08-18 |  |
 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:24 | 2022-07-01 |  |
 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/7b0Udw5GWZrJjPxvOwekQn) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [lofi r&b](https://open.spotify.com/album/0AuwpKEtabvmAICY8gB0XN) | 3:24 | 2022-10-28 | 2022-11-13 |
 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/5d6qTZOLnj4zbgFGRoJiNz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [DYING 4 YOUR LOVE](https://open.spotify.com/album/1EUCSZciwmAutnu9M8lqZW) | 3:26 | 2022-02-25 | 2022-07-29 |
@@ -79,13 +80,14 @@
 | [Fire We Make](https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 5:21 | 2022-02-25 | 2022-05-27 |
 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 | 2022-02-25 | 2022-05-07 |
 | [For Lovers Only \- Remastered 2021](https://open.spotify.com/track/6FZiaYBbXsPb95Osu5aEwJ) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 3:41 | 2022-02-25 | 2022-03-26 |
+| [Forever](https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:55 | 2023-08-18 |  |
 | [Frank For You](https://open.spotify.com/track/6ionsmjjnodm4pynvQxrgv) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Frank For You](https://open.spotify.com/album/1NxJyMpFWsTT1vaHEXC3uW) | 4:09 | 2022-02-25 | 2022-03-12 |
 | [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-09-02 | 2022-10-15 |
 | [Friends To Lovers](https://open.spotify.com/track/5zMHwddz7IBSrCkafg8WOr) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/5WwesTmhyEx9cNre8fwnm9) | 4:36 | 2022-02-25 | 2022-07-29 |
 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 | 2022-07-01 |  |
 | [FYF](https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [FYF](https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU) | 2:53 | 2022-04-22 |  |
 | [Genius](https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Genius](https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn) | 3:08 | 2022-02-25 | 2023-07-15 |
-| [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-04-28 |  |
+| [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-04-28 | 2023-08-19 |
 | [GLA](https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:26 | 2022-02-25 |  |
 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-17 |  |
 | [Go Get It \- Remix](https://open.spotify.com/track/4Q1Fgnq4W4ER8CUe3fgqWd) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Go Get It \(Remix\)](https://open.spotify.com/album/08c0wfxIxNTQnOcjKXiqKv) | 4:50 | 2022-03-25 | 2022-06-11 |
@@ -227,7 +229,7 @@
 | [Type Of Day](https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Type Of Day](https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z) | 3:07 | 2022-02-25 |  |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-05 | 2022-10-01 |
 | [UNPREDICTABLE](https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [UNPREDICTABLE](https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k) | 3:09 | 2022-04-08 | 2022-04-16 |
-| [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 | 2023-03-31 |  |
+| [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 | 2023-03-31 | 2023-08-19 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-20 | 2023-03-09 |
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-03 | 2023-04-29 |
 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 | 2022-02-25 |  |

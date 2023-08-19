@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,426 likes - 150 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,474 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 150 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
 
-Snapshot ID: `MCw3N2RiYjEyMzZkNGEyZWU0ZDc3ZWFlNDdhODZmMTYwYTYxMTUxMjdm`
+Snapshot ID: `MCxlYzI3MGYwZDc2ZTBlYWVkNzhkMTNmZjhkYzNmZmZkNWQyNmRjOWE3`

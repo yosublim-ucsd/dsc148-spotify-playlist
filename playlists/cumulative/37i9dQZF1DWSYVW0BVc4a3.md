@@ -4,7 +4,7 @@
 
 > The stomping ground\. Cover: Anyma
 
-606 songs - 1 day 23 hr 34 min
+607 songs - 1 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,8 @@
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-08 |  |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 |  |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2023-06-29 |  |
-| [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-27 |  |
+| [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-27 | 2023-08-19 |
+| [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 | 2023-08-17 |  |
 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-25 | 2023-08-04 |
 | [The Time Is Now](https://open.spotify.com/track/0qt0ZSiqKipDjdhBMFZDvP) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [The Time Is Now](https://open.spotify.com/album/1WfsbeV8Wh1osKgaIYfQcU) | 3:35 | 2023-06-29 | 2023-08-01 |
 | [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-08-03 |  |

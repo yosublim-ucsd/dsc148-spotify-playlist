@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,279 songs - 2 day 21 hr 51 min
+1,280 songs - 2 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2021-12-15 | 2023-04-09 |
 | [It's OK](https://open.spotify.com/track/1swr3UZ1WYGakKy38EEjYY) | [Ratxhet](https://open.spotify.com/artist/1fLjqekYU4BJOkzpWcw3KA) | [It's OK](https://open.spotify.com/album/3fZ1pR7hhVHaBb5zduCK5K) | 3:49 | 2021-04-14 | 2021-04-15 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-11-25 | 2022-12-29 |
+| [ITALODISCO](https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO](https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn) | 3:19 | 2023-08-18 |  |
 | [Iš Lėto Leidžiasi Saulė](https://open.spotify.com/track/6CiKfOUAxxTxhdeXyxd6Lw) | [Jovani](https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U), [Karališka Erdvė](https://open.spotify.com/artist/35n2cIRCEufVqDEFSCwXhF), [Remis Retro](https://open.spotify.com/artist/14DnMswKGQIr7vgwyiiLKI) | [Iš Lėto Leidžiasi Saulė](https://open.spotify.com/album/4rKp5XE8zf0E38vd1pL19l) | 2:41 | 2023-06-24 |  |
 | [IŠ NAUJO](https://open.spotify.com/track/6LYFTApLeccK8mQDyF1yi5) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [NAUTO](https://open.spotify.com/album/1XXP7AmLVPFsriIOegQYUf) | 3:04 | 2022-10-01 | 2022-10-03 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-07 |
@@ -714,7 +715,7 @@
 | [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-16 | 2022-07-18 |
 | [More M’s](https://open.spotify.com/track/29YW2xXlo6Pc6M0SBTCXYN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:41 | 2022-11-05 | 2022-11-08 |
 | [Morirò da Re](https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:37 | 2021-05-25 | 2022-06-12 |
-| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-04-16 |  |
+| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-04-16 | 2023-08-19 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2022-04-17 |
 | [Mother I Sober \(feat\. Beth Gibbons of Portishead\)](https://open.spotify.com/track/6NZOc8kO0Fxo0fLPvIdLnW) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 6:46 | 2022-05-14 | 2022-05-16 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-08-09 |

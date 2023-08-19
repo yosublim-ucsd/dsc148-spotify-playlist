@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, Taylor Deupree guest selects some Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,769 likes - 29 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,828 likes - 29 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 28 | [A Spire \- 2022 Remaster](https://open.spotify.com/track/7207n5INusM5trHSwl2dh3) | [Tape](https://open.spotify.com/artist/3uSlMGXphiafjKQwbj4QwW) | [Rideau \(2022 remaster\)](https://open.spotify.com/album/1hQkKy7llnXI08TnEdPfiw) | 11:45 |
 | 29 | [Canoe](https://open.spotify.com/track/6XODiQtzgHMrJDQWKd4aI2) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Canoe](https://open.spotify.com/album/6Tck6ntBsVKusRvcpkjAgU) | 20:39 |
 
-Snapshot ID: `MCxlODgxODQ1ODU3Y2ZjNjQ0MmEwNjY5OTUyMTZlNGM3MDdlMWEwYTcw`
+Snapshot ID: `MCwwMzAxZWU5ZTQwMDA2ZmNjZGMyYmIwMTdjZmE1ZmY1NjQxNDAzY2I3`

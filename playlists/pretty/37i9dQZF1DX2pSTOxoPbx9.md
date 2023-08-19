@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,874 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,380 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 99 | [Big Sky](https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:32 |
 | 100 | [Stretch Your Eyes \- Radio Edit](https://open.spotify.com/track/2As5LUjQxNyXAcQWBUimY2) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Stretch Your Eyes \(Radio Edit\)](https://open.spotify.com/album/7zjJtvfDH72QlMgAfBeuhc) | 4:07 |
 
-Snapshot ID: `MCxiZjVmNDNlMmUyNGZlYjM3NGY0ZmFmMWM0NmVjNTkxNTQ0OTIwYWUx`
+Snapshot ID: `MCwzOTZmODc0MWJkYmEzNDZiY2ExZWY4ZjcwOTgzNzY3YThjOTA5YTUw`

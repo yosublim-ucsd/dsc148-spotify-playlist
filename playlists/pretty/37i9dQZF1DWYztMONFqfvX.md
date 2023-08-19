@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,795 likes - 51 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,669 likes - 51 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 50 | [Baatein Ye Kabhi Na \(From "Khamoshiyan"\) \- Male](https://open.spotify.com/track/6CV2iSJV2W6yAITDxSSes3) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Musical Bond: Jeet Gannguli & Arijit Singh](https://open.spotify.com/album/5Z5vhemw4ig06H73KolMti) | 4:49 |
 | 51 | [Bulleya \- Reprise](https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 
-Snapshot ID: `MCxhYmE2ODRmYWZjNWU0N2FmYjgzYjdiMGRjOGY5Zjg3YjFmZGIxYWUy`
+Snapshot ID: `MCw4M2M2MjNjZmU2MzUzZTFiYzAyNTk3MGNiMjA2ZDc0YmUzNmFlMTdh`

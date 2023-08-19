@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Enigma Norteño & Carin León en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,545 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,870 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [Neta Que No](https://open.spotify.com/track/19cazderNza33zgCCpxLxH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC) | 2:44 |
 | 125 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 |
 
-Snapshot ID: `MCwzYmQyYjM1OWVmMjVhZTdlM2I2NzE3ZjFhMzZjODllZTE3MDkwODIz`
+Snapshot ID: `MCw1OTdmMTdhMDA2OGFjNTUwZDM1ZTY1YWVlYzI5MGNkN2E2M2ZhNWJi`

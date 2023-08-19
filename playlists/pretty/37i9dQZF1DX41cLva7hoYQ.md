@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Jazz piano ballads to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,907 likes - 418 songs - 1 day 0 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,978 likes - 418 songs - 1 day 0 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -427,4 +427,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 | 417 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
 | 418 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 |
 
-Snapshot ID: `MCw5N2U0ZDAyZDFmYTZjMzA5Yjg1MmQyMTA3MDJjNDU3YWEyNThhOTdh`
+Snapshot ID: `MCw2Yzc3NzAxODIxNjA2Y2JmNDEzOThhZTNhMTU3NGM3MTk4MjY2MzBk`

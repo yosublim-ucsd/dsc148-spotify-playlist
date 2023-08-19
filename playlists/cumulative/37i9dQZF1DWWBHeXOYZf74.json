@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Mk.gee",
+  "description": "Genre-less. Quality first always. Cover: Jungle",
   "name": "POLLEN",
   "tracks": [
     {
@@ -1038,6 +1038,24 @@
       "duration_ms": 215666,
       "name": "50/50",
       "url": "https://open.spotify.com/track/3I4G8p5a0n1I7owUfaUUpH"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181639,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
     },
     {
       "album": {
@@ -5197,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Blue Hundreds",
+      "url": "https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi"
+    },
+    {
+      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/0MO8idJcD9IGSaqT3u20g1"
       },
@@ -6086,7 +6122,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 237109,
       "name": "Bunny Is A Rider - Doss Remix",
       "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
@@ -11349,6 +11385,24 @@
     },
     {
       "album": {
+        "name": "re: rainbow music",
+        "url": "https://open.spotify.com/album/7HHq6FVBQZx8LeURMNY5V7"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160296,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/5pvMXnhRKSAvO8qmfKU4Ys"
+    },
+    {
+      "album": {
         "name": "Easy v2",
         "url": "https://open.spotify.com/album/01c1TtxDepIhj3i14YiRzA"
       },
@@ -11792,7 +11846,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 129000,
       "name": "ETA2 (feat. Paris Texas)",
       "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
@@ -14799,6 +14853,24 @@
     },
     {
       "album": {
+        "name": "getting older",
+        "url": "https://open.spotify.com/album/7kAwfOc0datHwSXfdvzH0s"
+      },
+      "artists": [
+        {
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "getting older",
+      "url": "https://open.spotify.com/track/4ojKgnQLWOCKfqqcYsLH1m"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/73ZoBcnf4XFqc7zcWefhEi"
       },
@@ -15038,7 +15110,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 145893,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
@@ -17617,6 +17689,28 @@
     },
     {
       "album": {
+        "name": "Candy / How many miles",
+        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        },
+        {
+          "name": "Two star",
+          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141871,
+      "name": "How many miles",
+      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
+    },
+    {
+      "album": {
         "name": "Table For Two",
         "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
       },
@@ -18506,6 +18600,24 @@
       "duration_ms": 160000,
       "name": "i need you baby!",
       "url": "https://open.spotify.com/track/4xIgEiCTSD1qo7AkBFQ3HB"
+    },
+    {
+      "album": {
+        "name": "I Saw U",
+        "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137506,
+      "name": "I Saw U",
+      "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
     },
     {
       "album": {
@@ -33183,6 +33295,28 @@
     },
     {
       "album": {
+        "name": "Sleeves Touch My Elbows",
+        "url": "https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210109,
+      "name": "Sleeves Touch My Elbows",
+      "url": "https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ"
+    },
+    {
+      "album": {
         "name": "Raging Bull",
         "url": "https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo"
       },
@@ -34459,6 +34593,24 @@
     },
     {
       "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/7L4o11b1PrpNswbGevoY8f"
+    },
+    {
+      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -35268,7 +35420,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 240400,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/1EkOczhnIFrXIaXmsSwPLk"
@@ -37358,7 +37510,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 264217,
       "name": "The Star Room (OG Version) - Bonus Track",
       "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"

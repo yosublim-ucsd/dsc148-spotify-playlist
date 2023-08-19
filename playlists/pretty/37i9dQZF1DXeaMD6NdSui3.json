@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 127103,
+  "num_followers": 127274,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU4NDZkMGVhZTQ4ZmFiZTdiYWYxMGNlNjdiZGU0NzMxZDc1YzE1",
+  "snapshot_id": "MCxhOWQ4Y2JiYWUxMzQwYTg1N2ExOWVlOWMxZmM5MjYyNjRhMDIxYzkw",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -169,26 +169,6 @@
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Too Much is not enough",
-        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
-      },
-      "artists": [
-        {
-          "name": "Omar and The Howlers",
-          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 141106,
-      "name": "Honest I Do (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Family Style",
@@ -203,6 +183,22 @@
       "duration_ms": 261920,
       "name": "Good Texan",
       "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "We The People",
+        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
+      },
+      "artists": [
+        {
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -237,20 +233,24 @@
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "We The People",
-        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
+        "name": "Too Much is not enough",
+        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
       "artists": [
         {
-          "name": "Guitar Shorty",
-          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+          "name": "Omar and The Howlers",
+          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 260200,
-      "name": "We The People",
-      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
+      "duration_ms": 141106,
+      "name": "Honest I Do (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -367,26 +367,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Too Much is not enough",
-        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
-      },
-      "artists": [
-        {
-          "name": "Omar and The Howlers",
-          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Texas Bluesman",
         "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 305053,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Too Much is not enough",
+        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
+      },
+      "artists": [
+        {
+          "name": "Omar and The Howlers",
+          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -799,22 +799,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Best Of - The Texas Blues Guitar Tornado",
-        "url": "https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs"
-      },
-      "artists": [
-        {
-          "name": "U.P. Wilson",
-          "url": "https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "Shakin' Dem Bones",
-      "url": "https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Texas Guitar Slinger",
         "url": "https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 314493,
       "name": "A Blue Song",
       "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Best Of - The Texas Blues Guitar Tornado",
+        "url": "https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs"
+      },
+      "artists": [
+        {
+          "name": "U.P. Wilson",
+          "url": "https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Shakin' Dem Bones",
+      "url": "https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf"
     },
     {
       "added_at": "2016-03-18 21:56:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,969 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,028 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Dil Mera Blast](https://open.spotify.com/track/1OjjMsdBWWszjERnKeJbfd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dil Mera Blast](https://open.spotify.com/album/0Gk4AsC07XUkqvk0lCbNIw) | 3:09 |
 | 50 | [Jai Jai Shivshankar \(From "War"\)](https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jai Jai Shivshankar \(From "War"\)](https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj) | 3:50 |
 
-Snapshot ID: `MCxiM2Q4ZTQwYjYyMjhlYjQwMmM0ZTU0Yzk2MTk1MjAzZDhmNDA1YzNh`
+Snapshot ID: `MCwyZWZjZTU0NTA0MGJlNWVlYWY4Y2M4ZTMzMWFkYTc2M2E3ZTgyMDc4`

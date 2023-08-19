@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "BAM! (Remixes)",
+        "url": "https://open.spotify.com/album/1IOx2nHbWzjDa3EM6ly6Y1"
+      },
+      "artists": [
+        {
+          "name": "KELSON",
+          "url": "https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h"
+        },
+        {
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160934,
+      "name": "BAM! - Chill Remix",
+      "url": "https://open.spotify.com/track/4qlZFwn0pvaZalY5lJUGzX"
+    },
+    {
+      "album": {
         "name": "Bei mir bist du sch\u00f6n",
         "url": "https://open.spotify.com/album/7rrwhLZNJFe9vN8SagXtgO"
       },
@@ -2982,6 +3004,32 @@
       "duration_ms": 173052,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/7eIE7x9SoeeMf3VeAaScDK"
+    },
+    {
+      "album": {
+        "name": "Marvelous (Wolfgang Lohr Future Swing Remix)",
+        "url": "https://open.spotify.com/album/1Bt1rdw4QtDWM8TXFzYeY7"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "Marvelous - Wolfgang Lohr Future Swing Remix",
+      "url": "https://open.spotify.com/track/2KByLKAsBdItG2WIQrmJA2"
     },
     {
       "album": {

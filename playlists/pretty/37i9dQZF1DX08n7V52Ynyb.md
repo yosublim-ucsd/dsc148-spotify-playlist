@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,071 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,133 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [Good Morning Heartache](https://open.spotify.com/track/077iW8bXbhEG8Mi3Tj4k4Q) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Good Morning Heartache](https://open.spotify.com/album/3zeaYxTFckt9F4p3DAYK4o) | 5:08 |
 | 100 | [The Sweetest Sounds](https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Paco Soto](https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [Musa](https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0) | 3:01 |
 
-Snapshot ID: `MCxhOGJiNTk5ZGUyNDczNGJmZGFlNTIxZTFmODYwNTY4MDg4M2NmYzU5`
+Snapshot ID: `MCxiZDIyM2VjMDdmODhhN2M4MTFiYzM5MGYzMzFlNzk3NDdkY2Q5MDEw`

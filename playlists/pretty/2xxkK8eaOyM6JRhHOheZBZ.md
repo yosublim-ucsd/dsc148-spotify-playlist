@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 60 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,20 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 | 58 | [Chief Rebel Angel](https://open.spotify.com/track/67kCRNEFbBFsgRt0sIoRTB) | [Entombed](https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB) | [Morning Star](https://open.spotify.com/album/0k3BrPKtPtUG9jMh3hJPHk) | 4:40 |
 | 59 | [Woman You Need Love](https://open.spotify.com/track/1vN46JZmpnwjyu84Arso0K) | [Killing Floor](https://open.spotify.com/artist/4lgFcFXbLVuO129K5BMDTk) | [Killing Floor](https://open.spotify.com/album/6YwRXDnyYqt0v8aoTg8Amp) | 4:49 |
 | 60 | [Bastards Of Rock n Roll](https://open.spotify.com/track/1aORxPvnoYukSS0dxXVnuk) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Sultans Of Sin](https://open.spotify.com/album/31GiMxSNTSuTE7w1iWwz13) | 4:04 |
+| 61 | [Jordrök](https://open.spotify.com/track/25JuN587Ku56Ca7VxENRtP) | [Änglagård](https://open.spotify.com/artist/2z3Eoj9BvslBDrmygKjr2B) | [Buried Alive](https://open.spotify.com/album/5zD4tWdQ60BkKrN6YVqTLC) | 11:46 |
+| 62 | [Hillbilly Heart](https://open.spotify.com/track/73QjNZTTFk1LKgTaNx04fZ) | [Bourbon Boys](https://open.spotify.com/artist/2ubeUsJWHWzu2ul4qA2jFt) | [Hillbilly Heart](https://open.spotify.com/album/4uQdNSEJonTgbeRbZBIi7Q) | 3:23 |
+| 63 | [Killer On His Knees](https://open.spotify.com/track/0U6R8Nh6qtLU2vSNkblke6) | [Crucified Barbara](https://open.spotify.com/artist/5IHkB1o1qNXwLPe55WWTEH) | ['Til Death Do Us Party](https://open.spotify.com/album/6iJd43eHjQqKC5y76XALUK) | 3:58 |
+| 64 | [My Funeral](https://open.spotify.com/track/5u6slyZ5vsIoJ73E9qr7YN) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Angelus Exuro Pro Eternus](https://open.spotify.com/album/65R6RHYdrGwRnMZbnQU8Rn) | 5:32 |
+| 65 | [Vingar](https://open.spotify.com/track/4dYPO4PFD9ytd4W3dpCucC) | [Mikael Rickfors](https://open.spotify.com/artist/2Q4l7xGX0Y3u1f0m4V7kG2) | [Svensk sommar](https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal) | 5:13 |
+| 66 | [Carolus Rex \- English Version](https://open.spotify.com/track/0l5VQvAJedKgxBvpnqlvum) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Carolus Rex](https://open.spotify.com/album/2ljnrbj3Y1l6Bqgn5gu7tG) | 4:53 |
+| 67 | [Four wanderers](https://open.spotify.com/track/63ykaCEiOJmF7c53O5bl08) | [Mother Of God](https://open.spotify.com/artist/6n2dyzk0w0KEHwhmJifBtG) | [Forging a new path](https://open.spotify.com/album/3ybkaU0bFDtLKYdd9bkN7D) | 3:29 |
+| 68 | [Between The Lines](https://open.spotify.com/track/1yUurcZU99B1DQJQhvZivz) | [Beyond All Recognition](https://open.spotify.com/artist/1PMagroptnVMBgWJYgTaC6) | [Now Or Never](https://open.spotify.com/album/5WtT21ERyo0SK0zLcv0kMk) | 3:49 |
+| 69 | [Elaborinth](https://open.spotify.com/track/5Sw2tsW3UOjRf1Fta5Q6CI) | [Vulkan](https://open.spotify.com/artist/7hUmeNCy16IbVdufW26t2H) | [Mask of Air](https://open.spotify.com/album/2y3TrMOSOeJDd8yBB7hAC0) | 9:07 |
+| 70 | [Broken Wings](https://open.spotify.com/track/1IzfSKXYt8KMGix4GahE87) | [Scarlet Drop](https://open.spotify.com/artist/6siRgfoot198KXZyhfQpsi), [Simon Vacklen](https://open.spotify.com/artist/4WkvfHDB6enBTlt9W8n43R), [Henrik Astrom](https://open.spotify.com/artist/5zLl8NQrPYTb94PYNrCWN0) | [Broken Wings](https://open.spotify.com/album/60mnuHvrCOoAAvQGHGQeqR) | 4:15 |
+| 71 | [The Chase](https://open.spotify.com/track/22O6usT184qfjv5dZmIMMD) | [Evasive](https://open.spotify.com/artist/58YLW4aJF8LCktIV6v0dTd) | [Evasive EP](https://open.spotify.com/album/2KGD6jrBnAT6lY7vBmjbC5) | 4:36 |
+| 72 | [All I Wanna Do](https://open.spotify.com/track/3yKO07e3rSJLvLbF2UsuoE) | [Frontback](https://open.spotify.com/artist/4uuYNKIR4DjaMJCerKYcCD) | [Frontback](https://open.spotify.com/album/0WK8uPKB2ZD47Cz7514NvT) | 4:20 |
+| 73 | [Parasite](https://open.spotify.com/track/05GEbrggzaiEyre297M8w7) | [Colossus](https://open.spotify.com/artist/2xg2J6rxsafD4z6D0E26cI) | [Spiritual Myiasis](https://open.spotify.com/album/0IoEavnDgE7mn2bWiR4Aqx) | 4:23 |
+| 74 | [Arise](https://open.spotify.com/track/3s8MAvQMapYjpRsjySrbjV) | [Incarnit](https://open.spotify.com/artist/5u61WPaGPfqUWDkI8vQ2OT) | [Incarnit](https://open.spotify.com/album/6GEeDJQAoS3SEsAWKrNSMG) | 4:59 |
+| 75 | [Witches Sabbath](https://open.spotify.com/track/6Y8m1jnWUksCjwWIZ4hlg0) | [In Solitude](https://open.spotify.com/artist/5CNR5mJJPAhMamFWQ9xJxD) | [Heavy Metal Killers](https://open.spotify.com/album/5ZF0RLfxFOTncpd4Q6YM0H) | 5:07 |
 
 Snapshot ID: `NCxhNDE2ZmUzNGI4ZTRlYmRmYjViYjZhM2UyN2RlNjRjNWNmN2JmMGI2`

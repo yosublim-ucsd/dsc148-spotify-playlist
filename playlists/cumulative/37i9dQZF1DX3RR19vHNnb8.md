@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-117 songs - 5 hr 57 min
+118 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 | 2023-03-31 | 2023-06-17 |
 | [Walking On Water](https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Walking On Water](https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb) | 3:06 | 2023-02-10 | 2023-04-15 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-10-01 |  |
-| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 | 2023-08-19 |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2021-09-17 |  |
 | [Wid It](https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Wid It](https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM) | 3:01 | 2021-08-20 | 2023-02-24 |
 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 | 2021-06-07 | 2023-03-08 |

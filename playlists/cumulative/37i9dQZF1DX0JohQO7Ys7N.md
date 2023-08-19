@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Xenia Manasseh
 
-133 songs - 7 hr 29 min
+134 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Pretty](https://open.spotify.com/track/2ugvW84yp6HulDOqRdAxPW) | [Charisma](https://open.spotify.com/artist/4sVIp9KBR3YULsXRpjjYzp) | [Pretty](https://open.spotify.com/album/577xM3upynKWhBEwnFBPZ2) | 2:12 | 2022-10-27 | 2022-11-04 |
 | [Problems](https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Problems](https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs) | 4:09 | 2021-12-28 |  |
 | [Pulling Out](https://open.spotify.com/track/2Xqi7yZeFfcSIVwU1c5slN) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Pulling Out](https://open.spotify.com/album/50rwp4OLO5TL7QcRQ23Rji) | 3:12 | 2021-12-28 | 2022-10-01 |
+| [Relieve Pressure](https://open.spotify.com/track/6j0KqhTRDYjJVqy6q80PvR) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Relieve Pressure](https://open.spotify.com/album/6ePMowPW0VwXDvMNZsfniV) | 3:19 | 2023-08-17 |  |
 | [Rosella](https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1), [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Rosella](https://open.spotify.com/album/328oKDyLr5OBnbdA97KLeb) | 5:04 | 2021-12-28 | 2022-03-04 |
 | [Save Me](https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:21 | 2022-11-10 |  |
 | [Saviour](https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Saviour](https://open.spotify.com/album/1g4JkRkSgMy2DwaO2Kb7aJ) | 2:25 | 2022-05-19 | 2023-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,007 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,139 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 59 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
 | 60 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO) | 6:34 |
 
-Snapshot ID: `MCw0MWVmN2U4OGQ4MGYxOGIwZWQ1OGQyMGUwMTkzNTkwMmQ3ODI2MTUz`
+Snapshot ID: `MCwxN2MyMWU1M2Q5Y2MwMmNlNTI5NWM2MTFjMTEwMjgzNjE1MWZlN2Y0`

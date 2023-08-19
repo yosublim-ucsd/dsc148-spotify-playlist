@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Y U QT
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,393 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,449 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 70 | [Amazon Prime](https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA) | 2:40 |
 
-Snapshot ID: `MCw5YzEyNDI5MDAwNmRhM2YwYWQ0N2VkMTdkY2M2Yjc4MjhhNWQ5MmMy`
+Snapshot ID: `MCw4ZmJhZWI0MDRlOTkyZDZlZWY5ZGI0ZTY0ZGE4ZGEwNTE3MGMzODVh`

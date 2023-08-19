@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,145 likes - 70 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,334 likes - 70 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Something Was Missing \- PARIS Remix](https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Something Was Missing \(PARIS Remix\)](https://open.spotify.com/album/25IgyccLzfoOzT0SwBn43v) | 4:39 |
 | 70 | [Sous les étoiles](https://open.spotify.com/track/7JxtWihpK0Jc5IibN8BrTl) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC) | [Sous les étoiles](https://open.spotify.com/album/1SiT054eGkYm5lnIZznnP3) | 2:08 |
 
-Snapshot ID: `MCwyZWQ5NDE0NjFkYzgyOWNiZGJlMTI5NjQxOTJlYzZjOTk1MjZlZDMy`
+Snapshot ID: `MCw0OWEzYzI3NWZlMmRiN2QwZDdhYTdiMjE0YTc2MTE4ODE3NmFmYjg5`

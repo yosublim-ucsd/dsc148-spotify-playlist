@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Jay\-Z
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,853 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,358 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 |
 | 100 | [New York](https://open.spotify.com/track/7xXvPyOiFCsB5SSpio5g38) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [R.U.L.E.](https://open.spotify.com/album/2gBIN9uSnZjf0mb3FjwEnb) | 4:18 |
 
-Snapshot ID: `MCw5MTYyMjZjMTJmMTg1MmJjNWI4MDE1NDFmODhlZDcxOTJmMmE1YWQ2`
+Snapshot ID: `MCwzNWY5MGRjYTRlNDk5ZGIyZGJhZDRhYTA3MTk3Y2Y1N2Q2YjJiNDE3`

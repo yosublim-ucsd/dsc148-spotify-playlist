@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,487,350 likes - 132 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,487,552 likes - 131 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,13 +132,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 122 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 |
 | 123 | [Jackie Gets Out](https://open.spotify.com/track/12zuJhwGaqJu8fvgBWqYuy) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 2:56 |
 | 124 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 |
-| 125 | [Love and Peace](https://open.spotify.com/track/7kdZlgkWHnivQNSGe6AsTa) | [Joachim Kühn](https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Chris Jennings](https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1) | [Love & Peace](https://open.spotify.com/album/7LhEJGta4uIPtAMC5AQm5n) | 1:59 |
-| 126 | [Where Do You Start](https://open.spotify.com/track/0gPxAMKPYhnFSAKkBcy3UN) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 4:06 |
-| 127 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 |
-| 128 | [Sweetness](https://open.spotify.com/track/3MU1qPFFyJQy1RbmpLH0mb) | [Roger Kellaway](https://open.spotify.com/artist/1NueKSreiFLxEJ1ml6nT8Q), [Jay Leonhart](https://open.spotify.com/artist/5qIlfIzgiSefp5rj8CtYK1), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [New Jazz Standards Vol 3](https://open.spotify.com/album/7gUF7bwjWoEvG8ycUOxPxz) | 6:59 |
-| 129 | [Song for Ellis](https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:25 |
-| 130 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 |
-| 131 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
-| 132 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
+| 125 | [Where Do You Start](https://open.spotify.com/track/0gPxAMKPYhnFSAKkBcy3UN) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 4:06 |
+| 126 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 |
+| 127 | [Sweetness](https://open.spotify.com/track/3MU1qPFFyJQy1RbmpLH0mb) | [Roger Kellaway](https://open.spotify.com/artist/1NueKSreiFLxEJ1ml6nT8Q), [Jay Leonhart](https://open.spotify.com/artist/5qIlfIzgiSefp5rj8CtYK1), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [New Jazz Standards Vol 3](https://open.spotify.com/album/7gUF7bwjWoEvG8ycUOxPxz) | 6:59 |
+| 128 | [Song for Ellis](https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:25 |
+| 129 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 |
+| 130 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
+| 131 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MCxmOWRkYmI5NjkzMjQwYjc1MDdmNmE1MTI3Zjg4Mzg4NjkzNDY2YTJj`
+Snapshot ID: `MCxmN2M2NTJlZDZhMzhjZDM2MTc1YTQ2NGExNWY4YmY1M2YxY2JiNmQ0`

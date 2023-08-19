@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,169,710 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,170,943 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
 | 150 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 
-Snapshot ID: `MCw0MTk5NzAwYWJkYmI4Nzg2ZTdmZjMzMzEwYTFmOTQ0Y2YwMWU4YjVl`
+Snapshot ID: `MCw0NmY4NzhjZjkyYTU3YjYxM2U2OWZhYzIwMmIyNWI4YmI2NDA2MjJi`

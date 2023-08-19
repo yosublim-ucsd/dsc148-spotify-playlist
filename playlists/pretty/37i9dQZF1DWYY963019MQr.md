@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,390 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,450 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 77 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
 | 78 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
 
-Snapshot ID: `MCxmNzBiMjc5YTBkODA4YjM3YjViZWRjY2ExMGMyNGUwOGQ1MzQ2Y2M2`
+Snapshot ID: `MCw5ZDBlMTk5Njg5YzcyZjM4ZmVjYjAzNTg2NzdlZmU5YTU3ODgyYjE1`

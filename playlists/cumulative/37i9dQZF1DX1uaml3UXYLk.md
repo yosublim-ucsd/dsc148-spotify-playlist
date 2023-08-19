@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-547 songs - 1 day 10 hr 44 min
+548 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2021-08-25 |  |
 | [Drowning](https://open.spotify.com/track/5ssUr3AOt2Y1KeJ9IdNjcd) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Drowning](https://open.spotify.com/album/4oBdLuvSuBg9wdkcPwkbE9) | 3:32 | 2020-10-30 | 2021-06-23 |
 | [Easy Living](https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Easy Living](https://open.spotify.com/album/10WJanvowjMB3sktk90S1g) | 6:30 | 2020-11-13 | 2021-01-15 |
-| [Easy Walker](https://open.spotify.com/track/1KsV7SV875mBfBlb40wYLU) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [A Welcome Escape](https://open.spotify.com/album/6MNnXxeWGTY6Sc1u6SxgQJ) | 5:57 | 2021-06-04 |  |
+| [Easy Walker](https://open.spotify.com/track/1KsV7SV875mBfBlb40wYLU) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [A Welcome Escape](https://open.spotify.com/album/6MNnXxeWGTY6Sc1u6SxgQJ) | 5:57 | 2021-06-04 | 2023-08-19 |
 | [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 | 2022-12-16 |  |
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2021-05-13 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2021-05-13 | 2021-08-25 |
@@ -216,6 +216,7 @@
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-02-20 | 2022-06-10 |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2021-10-16 | 2022-01-22 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2021-10-16 |  |
+| [Home Again](https://open.spotify.com/track/2Fy3Gx4TPeJ69bzFkQrFdl) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Home Again](https://open.spotify.com/album/3mtNd5bVlK1FCbTF3WBIsS) | 2:22 | 2023-08-18 |  |
 | [Hooked on You](https://open.spotify.com/track/0washXlWqFEj5oCjNWwA2E) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Hooked](https://open.spotify.com/album/2xS5Vj4er6u3W6aCBnq2iN) | 6:23 | 2021-01-29 | 2021-02-20 |
 | [Hop Notch](https://open.spotify.com/track/6EbSt5wjOSSxTA4FKNdBoc) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Hop Notch](https://open.spotify.com/album/4fGkYjNUU6vqq4MD9f0kfS) | 3:19 | 2021-06-23 | 2022-01-22 |
 | [Horizon Island](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su) | [Zulu Wow](https://open.spotify.com/artist/39OA3fyzp8hPnuAG4W4Lhg) | [Horizon Island](https://open.spotify.com/album/0o2XprxKqcMod4DMKLR6DG) | 3:36 | 2021-05-13 |  |

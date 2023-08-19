@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,445 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,514 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Forever Half Mast](https://open.spotify.com/track/3A4qUZbBLjDWWUJ0ayr6Nk) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Half Mast](https://open.spotify.com/album/6JYgcV8VlG9sX18HhRHH4u) | 4:02 |
 | 150 | [All My Dreams](https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:23 |
 
-Snapshot ID: `MCxiOTkyYmQ4MjY5NGRmOTZmODY1MGVlODIzODQ1ZDExMmJjYWY1MjI2`
+Snapshot ID: `MCxiMWUyYzE4NGFiNTVjNmMzNmQzZjQ3ZjUyM2ZhNmU5YTFkODQ0MmZj`

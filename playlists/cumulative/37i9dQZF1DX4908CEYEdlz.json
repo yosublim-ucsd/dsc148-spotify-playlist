@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 230459,
       "name": "Broken Pieces Shine",
       "url": "https://open.spotify.com/track/7mH6yI428XqzHkPGtkSMBj"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
@@ -3225,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Perhaps",
+        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228406,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
+    },
+    {
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
       },
@@ -3981,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Talk Sick",
+        "url": "https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274437,
+      "name": "Talk Sick",
+      "url": "https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy"
+    },
+    {
+      "album": {
         "name": "Talking To Ourselves (Nowhere Sessions)",
         "url": "https://open.spotify.com/album/0cojTDESsFKop7BaFCdL8L"
       },
@@ -4136,7 +4172,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 229786,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
@@ -4818,6 +4854,24 @@
       "duration_ms": 244089,
       "name": "Worst Is On It's Way - Requiem Mass / Live",
       "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
+    },
+    {
+      "album": {
+        "name": "Would You Even",
+        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172014,
+      "name": "Would You Even",
+      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-145 songs - 8 hr 8 min
+146 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 | 2023-03-03 |  |
 | [Type 1](https://open.spotify.com/track/2Z515QtI12xintnkboGQZw) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Type 1](https://open.spotify.com/album/7w6fHYrIaKbqXDN96dbEJf) | 3:47 | 2022-11-25 |  |
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
+| [Vexed](https://open.spotify.com/track/1lBhMsLkgsaVQTsaoE8GEd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Vexed](https://open.spotify.com/album/090RrN1MNhYqO6DWsFOwxT) | 2:33 | 2023-08-18 |  |
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 | 2023-07-18 |
 | [Where Have U Been?](https://open.spotify.com/track/3bCnwmJwBob222khzVUrcN) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Where Have U Been?](https://open.spotify.com/album/3gmS7R3fNWUNN8Ewwy6URY) | 2:16 | 2022-09-23 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2022-09-23 | 2023-07-18 |

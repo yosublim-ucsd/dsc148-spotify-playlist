@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-167 songs - 9 hr 58 min
+168 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Like a Dance](https://open.spotify.com/track/6FtO9TV7VM1lmPiHMvYyqz) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 3:12 | 2022-01-07 |  |
 | [Like a Fighter](https://open.spotify.com/track/1NLOotIFSAROiIyEz2jWWa) | [Alexander Rudd](https://open.spotify.com/artist/02byKbTE2ZyrjUjT6uiTc0), [Zach Lemmon](https://open.spotify.com/artist/1DqlgYeGygYV43IWmrISKA) | [70s Sounds](https://open.spotify.com/album/4UbnvDEcUaEhyDTgDYOeVl) | 3:10 | 2022-01-06 |  |
 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 | 2022-01-07 |  |
-| [Live It Up \(Aaron Wayne Remix\)](https://open.spotify.com/track/6QGdefzRvTLXxTFkUyKTHu) | [Ali Pierre](https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7) | [Live It Up](https://open.spotify.com/album/0vDYOAFOWUrlADVcS7nnJ4) | 5:28 | 2022-01-07 |  |
+| [Live It Up \(Aaron Wayne Remix\)](https://open.spotify.com/track/5PMc7HZzdYUlowyUlxzON4) | [Ali Pierre](https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7) | [Live It Up](https://open.spotify.com/album/6VgN0Ib01UW2jIaW6eCKtX) | 5:28 | 2022-01-07 |  |
+| [Live It Up \(Aaron Wayne Remix\)](https://open.spotify.com/track/6QGdefzRvTLXxTFkUyKTHu) | [Ali Pierre](https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7) | [Live It Up](https://open.spotify.com/album/0vDYOAFOWUrlADVcS7nnJ4) | 5:28 | 2022-01-07 | 2023-08-19 |
 | [Live It Up \(Aaron Wayne Remix\)](https://open.spotify.com/track/0gSPaub8muOF2zFikracsk) | [Ali Pierre](https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7), [Aaron Wayne](https://open.spotify.com/artist/51GqPiiVqeQzsVntoKXixa) | [Live It Up](https://open.spotify.com/album/6EhpN4NRqVZZObgYWqjYpa) | 5:29 | 2022-01-07 | 2022-07-29 |
 | [Love Is A Deserter](https://open.spotify.com/track/5tT1aeBgz7kbAugGXNQZ7n) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [No Wow](https://open.spotify.com/album/1wPUWq21gP0rYhaSBqBaEp) | 3:48 | 2022-09-09 |  |
 | [Low Down Dirty Shame](https://open.spotify.com/track/3VdlwXjm45dyy6B0v9GiB1) | [Blues Saraceno](https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y) | [Outlaw Blues 2](https://open.spotify.com/album/3TuVfQxuglQcS7qb2i9FpB) | 4:05 | 2022-01-07 |  |

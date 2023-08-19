@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-110 songs - 6 hr 18 min
+113 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2023-05-26 | 2023-07-05 |
 | [0cm](https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [0cm](https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe) | 2:38 | 2023-07-21 |  |
 | [15 Segundos](https://open.spotify.com/track/7duzx5AkBs15CcKPAV1Loq) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [15 Segundos](https://open.spotify.com/album/6T5pgUDIlTGXquM2iysJCD) | 3:44 | 2023-05-26 |  |
+| [3x4](https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3x4](https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e) | 2:47 | 2023-08-18 |  |
 | [6 Am](https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [6 Am](https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx) | 2:56 | 2023-05-26 |  |
 | [6 en Mi Rollie](https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [6 en Mi Rollie](https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz) | 5:25 | 2023-05-26 |  |
 | [Ajenos](https://open.spotify.com/track/5sb5zLIDC3FjMyBqGCopf9) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 3:37 | 2023-05-26 |  |
@@ -35,6 +36,7 @@
 | [Cuando la Vi](https://open.spotify.com/track/6bb45aSuTy717dyrjsBXCO) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ) | [Cuando la Vi](https://open.spotify.com/album/0GlNVq3q9d3a6DBEoxMOcJ) | 3:43 | 2023-05-26 |  |
 | [Cuarto para la Madrugada \(11:45\)](https://open.spotify.com/track/4O4exhK5b7QQ2y7nVUh1VW) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A) | [Cuarto para la Madrugada \(11:45\)](https://open.spotify.com/album/7zGQROSMGi9Jk41fP1grJ8) | 2:41 | 2023-05-26 |  |
 | [Cómo Te Olvido?](https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/7zuDQkt1hiK1zWOqdZR3yN) | 3:08 | 2023-05-26 |  |
+| [Dale Suave](https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dale Suave](https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD) | 3:00 | 2023-08-18 |  |
 | [Date Cuenta](https://open.spotify.com/track/2yqS0beUfd1aVUG41edyQd) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Date Cuenta](https://open.spotify.com/album/086hhGzLZEZPZRp51VuLqk) | 3:27 | 2023-05-26 |  |
 | [Del 93](https://open.spotify.com/track/36Uul56N5hSr0f188JHqav) | [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Polo Ml](https://open.spotify.com/artist/5bTmknFI6te1DhUpfWqhcR) | [Del 93](https://open.spotify.com/album/7jICCWazUNwpYJKS4OjIHD) | 3:23 | 2023-05-26 |  |
 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 | 2023-05-26 |  |
@@ -68,6 +70,7 @@
 | [Masoquista](https://open.spotify.com/track/4bNOgUb8AGH2twt8n8nrVJ) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Masoquista / ¿Qué Pasó Mi Amor?](https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs) | 3:44 | 2023-05-26 |  |
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2023-05-26 |  |
 | [Me Gustas](https://open.spotify.com/track/7DAKoRTXvpBzzWmlc04mE3) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/0aCm5rCKMjKD5t8m7H1WEk) | 3:28 | 2023-05-26 |  |
+| [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 | 2023-08-18 |  |
 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 | 2023-05-26 |  |
 | [Mi Día de Suerte](https://open.spotify.com/track/3WDEgbYmIkNgZZVZu2ZNwe) | [NOSOYSEQUI](https://open.spotify.com/artist/4gqy8vey7cdsuNVNrpDbS4), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Mi Día de Suerte](https://open.spotify.com/album/2dun8iDMUBI7nwD38Bdsiq) | 3:03 | 2023-07-14 |  |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [MOTEL CALIFORNIA](https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO) | 3:33 | 2023-05-26 |  |

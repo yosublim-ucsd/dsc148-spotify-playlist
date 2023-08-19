@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,904 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,002 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 | 149 | [Vanilla Tobacco](https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:48 |
 | 150 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 |
 
-Snapshot ID: `MCw3ZGE3MDdhM2UxMWEwOGFkMzU3MWVkYmJiZDg2YjY1MGVlNjIzMDQ1`
+Snapshot ID: `MCwwNjY3YjkyMzk3ZDczOGZiYTQ2MTZhYjRmODY2YjY5NTg3MTJjMTA1`

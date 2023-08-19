@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz & Koffi Olomide
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,983 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,070 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 23 | [Tajiri](https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Tajiri](https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd) | 2:55 |
 | 24 | [Nitalia](https://open.spotify.com/track/0qLJfBbQLvgCBPSW4uGHfB) | [macb](https://open.spotify.com/artist/2OLLh3zh1ps2uj4ZbLLUQS), [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ) | [Nitalia](https://open.spotify.com/album/7kqrfkGS4YtIhjhImKhBBK) | 2:47 |
 | 25 | [Mtima](https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Mtima](https://open.spotify.com/album/4Lnyw7ZJuIIxeSf1WhTM0K) | 3:44 |
-| 26 | [For You](https://open.spotify.com/track/0Lyi8av1zjqxqZXqoawwsW) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [For You](https://open.spotify.com/album/58zIgNoklmDXs4ViNN5wYS) | 4:02 |
+| 26 | [For You](https://open.spotify.com/track/0Lyi8av1zjqxqZXqoawwsW) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [For You](https://open.spotify.com/album/58zIgNoklmDXs4ViNN5wYS) | 3:46 |
 | 27 | [Honey](https://open.spotify.com/track/060Sdqj379wZ7kWho2kDd0) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Honey](https://open.spotify.com/album/5Ej7ISZLQkj3UUpTnN2ONM) | 2:19 |
 | 28 | [Puuh](https://open.spotify.com/track/4qMofi2HvTzvLEQ6EqywPP) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Puuh](https://open.spotify.com/album/6Y1kRLTcchAfHbb1XYgNWt) | 3:56 |
 | 29 | [Morning Call](https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Morning Call](https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Lonely](https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:12 |
 | 70 | [Mchumba](https://open.spotify.com/track/2CNtq7md5SkG2mRge5Ruj1) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mchumba](https://open.spotify.com/album/6FKYjhPJ2o9VXmpbLm6Koo) | 3:36 |
 
-Snapshot ID: `MCxkNGNiMGRlYWYyZGI1ZDljMTE5MThjMTg0NWE4MjZiMmJhMGEyMzQz`
+Snapshot ID: `MCwxMWVhZjIyZTk3NDYwZTFhODk0NzdkOWNmOGY5YWZjNDM3YzYwMGU1`

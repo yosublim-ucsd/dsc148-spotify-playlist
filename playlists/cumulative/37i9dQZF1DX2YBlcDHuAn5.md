@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-86 songs - 5 hr 15 min
+87 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-02-23 |  |
 | [California](https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [California](https://open.spotify.com/album/4R2ALa4EonxEMxi0yDhcGj) | 3:58 | 2023-03-30 | 2023-04-28 |
 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 | 2023-02-23 | 2023-04-28 |
-| [Changing Lanes](https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE) | 2:58 | 2023-05-11 |  |
+| [Changing Lanes](https://open.spotify.com/track/2Llgpo9AXTBNNHfGwfJzVN) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/5jhFRab152NcnXSPab5GNO) | 2:58 | 2023-08-17 |  |
+| [Changing Lanes](https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE) | 2:58 | 2023-05-11 | 2023-08-19 |
 | [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 | 2023-05-13 |
 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 |  |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |

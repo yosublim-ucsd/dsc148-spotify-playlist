@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Louis The Child
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,336 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,458 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 3 | [Landscape](https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc) | [Landscape](https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s) | 2:40 |
 | 4 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 |
 | 5 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
-| 6 | [NO PLACE IS TOO FAR \(feat\. Whethan & Sela Sol\)](https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [NO PLACE IS TOO FAR \(feat\. Whethan & Sela Sol\)](https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf) | 3:00 |
+| 6 | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf) | 3:00 |
 | 7 | [Spring \(feat\. Riverine\)](https://open.spotify.com/track/4oCjOVKYVwPbi1ufU3uuC1) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [Riverine](https://open.spotify.com/artist/6JDUp5zPbGZ5tTHVgf3dbm) | [Spring \(feat\. Riverine\)](https://open.spotify.com/album/2hL3SJp6luM6I3LZbpf4w9) | 3:02 |
 | 8 | [Missing You \(feat\. A Little Sound\)](https://open.spotify.com/track/3im7OnZDP2UqX9UDQUiOTy) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Missing You \(feat\. A Little Sound\)](https://open.spotify.com/album/11U06IwgwsIdP3g8fAOhN1) | 3:01 |
 | 9 | [Sakura](https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Conrad](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC) | [Sakura](https://open.spotify.com/album/2SMHHkfwPVK8wLpmuY1BPK) | 2:12 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 |
 | 125 | [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 |
 
-Snapshot ID: `MCxmNGIwNjk0ZGZiOWE4MzRjNDZjOGEwMDliZWQwMDU1ZjdkZjE3ZjY5`
+Snapshot ID: `MCxmZWFhMzRiOTEwODFlMGI0N2FiZTg3NzI4ODhmYTc0M2IxNDE1M2Jl`

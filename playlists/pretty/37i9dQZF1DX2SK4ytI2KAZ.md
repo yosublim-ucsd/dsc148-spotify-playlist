@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,614 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,656 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 99 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 |
 | 100 | [DON'T TELL THE BOYS](https://open.spotify.com/track/5uGZtSYorCUAqw03hzwvTn) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 3:56 |
 
-Snapshot ID: `MCw1MGJiNjQ0ZTFhMGQyZjEwZjczZTVmZTQ5OGYzNzY2YjAyM2VlOTlm`
+Snapshot ID: `MCxiMDUzMTI4OGQ5OWI0MTAyODY2YmViYTBmMGM3Y2U0NmQzYTcxM2Jk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,531 likes - 110 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,617 likes - 110 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
 | 110 | [Brass in Pocket](https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M) | 4:01 |
 
-Snapshot ID: `MCw3NGE3YTJhMzA2OWU2OGJjNjA1MTQwNTQzMGQ2NjhhNDE1NjhiOTY1`
+Snapshot ID: `MCw1YThmY2I4NmMxZjA1ODVkZDk3OGU5MWE4MDNjYTA4ZmUwYzU3ZDI0`

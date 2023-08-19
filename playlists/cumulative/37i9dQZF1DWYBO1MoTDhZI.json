@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
@@ -2280,6 +2280,28 @@
       "duration_ms": 208026,
       "name": "Color my life",
       "url": "https://open.spotify.com/track/6GoK3Rc1CrVycDdV0IanQx"
+    },
+    {
+      "album": {
+        "name": "Afro Therapy",
+        "url": "https://open.spotify.com/album/6OcYT5SYrGkzEgm9TxZ9LE"
+      },
+      "artists": [
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196028,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/5njS3Dn1ON6ZMkHio4QrvC"
     },
     {
       "album": {
@@ -2888,7 +2910,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190933,
       "name": "Designer",
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
@@ -4190,7 +4212,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
@@ -7863,6 +7885,32 @@
     },
     {
       "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "album": {
         "name": "My Sunny Day",
         "url": "https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ"
       },
@@ -8294,6 +8342,28 @@
       "duration_ms": 208485,
       "name": "Nothing to Regret",
       "url": "https://open.spotify.com/track/3C2xQqHVkhA1Ht17SzPRke"
+    },
+    {
+      "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164103,
+      "name": "Oh My My! (In Love Again)",
+      "url": "https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9"
     },
     {
       "album": {
@@ -9918,7 +9988,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164213,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
@@ -12245,6 +12315,24 @@
     },
     {
       "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
+    },
+    {
+      "album": {
         "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
         "url": "https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1"
       },
@@ -12562,7 +12650,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -12888,6 +12976,24 @@
       "duration_ms": 180742,
       "name": "World's Smallest Violin",
       "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
+    },
+    {
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253916,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G"
     },
     {
       "album": {

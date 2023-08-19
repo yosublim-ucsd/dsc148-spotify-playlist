@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,126 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,390 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 74 | [Figure Eight](https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez) | 3:21 |
 | 75 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
 
-Snapshot ID: `MCwzN2JiNmQ0NWQzNDhlMTUyYWI4ODQ5NmUxMTM2YjM3Mjc2YzYxZGMw`
+Snapshot ID: `MCxjMDY2M2YzNGJlY2IxNDYyY2RmN2JiM2VjOTRjMjVjMzc3NmFlYzVj`

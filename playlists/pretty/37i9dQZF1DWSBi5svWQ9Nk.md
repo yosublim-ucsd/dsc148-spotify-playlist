@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 populairste hits van Nederland\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,815 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,970 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 31 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
 | 32 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
 | 33 | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/track/556h1n7la5iyZHcrv4kJMC) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/album/2En0vH2nqSia8vj0y47Ora) | 2:57 |
-| 34 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 |
+| 34 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/3nmLhV0YJNqmExxHcrzhFU) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/00j8YfkavmXeqNsTIaTpZg) | 2:54 |
 | 35 | [Break My Heart](https://open.spotify.com/track/2PwqZgaeEsJ1SAPF6RmMmm) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Break My Heart](https://open.spotify.com/album/15hXWoOGHJ59KPpFQjwuCU) | 3:09 |
 | 36 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
 | 37 | [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
 | 50 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 |
 
-Snapshot ID: `MCwxYjU1MGVkOTQxYzUzMmViMWJlODkwMTkyMzc5ZmUwZTVhNDE1YTE3`
+Snapshot ID: `MCwwMDUzNTNjZWVjMGE4NWQzNWUzY2Q4NDk4NWYzZjI2M2ZhY2MzYTM2`

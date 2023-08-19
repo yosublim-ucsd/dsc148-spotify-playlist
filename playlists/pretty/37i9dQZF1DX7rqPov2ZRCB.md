@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,491 likes - 51 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,520 likes - 51 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Consejo a las Mujeres](https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK) | [Blas Duran & Los Peluches](https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG) | [El Consejo a Las Mujeres](https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7) | 3:33 |
 | 51 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 
-Snapshot ID: `MCw2MDc1OTM4YWYxYzdjZjg0YmUxYTM3MzA0N2E4NDVmMWVkODYzNmYz`
+Snapshot ID: `MCw5NGQ3Y2NiZmUwM2RhMjdiNzcwMWNiNzY1YWQ1YzNkOTA2YjMwNDE3`

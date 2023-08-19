@@ -4,7 +4,7 @@
 
 > From across the globe\. New Songwriters on the horizon\. Cover: Mbryo
 
-56 songs - 2 hr 56 min
+57 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Best of Us](https://open.spotify.com/track/5DhcEJWVdkPNkJUVnbiUKo) | [WIER](https://open.spotify.com/artist/2eGAHWide96MItPXtwxMr2), [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB), [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A), [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa), [Sasha](https://open.spotify.com/artist/091dY4SjI2cy4YHdvhCjg1), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Best of Us](https://open.spotify.com/album/5The4yrlGj0HOZJbiLixt4) | 3:17 | 2023-06-28 |  |
 | [Black Panther](https://open.spotify.com/track/5qN4HFkapdAOV94XPryVof) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 2:10 | 2023-02-24 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2022-05-27 |  |
-| [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-04-02 |  |
+| [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-04-02 | 2023-08-19 |
+| [Body Better](https://open.spotify.com/track/6q0xuMnc64pDLSE67pQy7e) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:09 | 2023-06-28 |  |
 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2023-04-02 |  |
 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-11-11 | 2023-04-23 |
 | [Como Antes](https://open.spotify.com/track/1dyDEkhjJ0T3Qmbio4LpqX) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Como Antes](https://open.spotify.com/album/4dXvaYgS1eGbZCMa41lSrr) | 2:46 | 2022-09-12 |  |

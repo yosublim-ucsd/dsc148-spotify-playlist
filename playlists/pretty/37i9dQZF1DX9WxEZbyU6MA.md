@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,178 likes - 86 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,284 likes - 86 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 41 | [All Seems Beautiful to Me](https://open.spotify.com/track/2sUUIC71IhXJbmeO4jPGN7) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Whitacre: All Seems Beautiful to Me](https://open.spotify.com/album/0hISHS4h1cuHnhtocHhus3) | 4:52 |
 | 42 | [Gloria: I'll Make Music](https://open.spotify.com/track/2kgByDRirQSZgH9GEoJOA5) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Karl Jenkins: Motets](https://open.spotify.com/album/5yBta3BpIKstFVqwurdORg) | 4:39 |
 | 43 | [All\-Night Vigil, Op\. 37: VII\. Glory to God in the Highest \(The Six Psalms\)](https://open.spotify.com/track/7iyMdT4mAr0tcmUDeZ2uPj) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [The Choir of King's College London](https://open.spotify.com/artist/1B95N9f9HtEL9D21OCaTkt), [Joseph Fort](https://open.spotify.com/artist/6AUNzEquhixahimXOf3ZEd) | [All\-Night Vigil, Op\. 37: VII\. Glory to God in the Highest \(The Six Psalms\)](https://open.spotify.com/album/53gqIr3NOXhLgNowPCnbPf) | 2:27 |
-| 44 | [Ubi caritas](https://open.spotify.com/track/6mUgnZ11m9VpKQxYYt5CIU) | [Ola Gjeilo](https://open.spotify.com/artist/1jX1E74zp7bh8HXQ95Cu8J), [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [Ubi Caritas](https://open.spotify.com/album/5Oj7AACQuXzSrmBRirbEWg) | 3:44 |
+| 44 | [Ubi caritas](https://open.spotify.com/track/6mUgnZ11m9VpKQxYYt5CIU) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [Ubi Caritas](https://open.spotify.com/album/5Oj7AACQuXzSrmBRirbEWg) | 3:44 |
 | 45 | [Vespers, Op\. 37: V\. "Nyne otpushchayeshi"](https://open.spotify.com/track/7gNjN3VnFJ7Sa9upbGsNd9) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Vladimir Mostovoy](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi), [St.Petersburg Chamber Choir](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2), [Nikolai Korniev](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) | [Rachmaninov: Vespers \(All\-Night Vigil\), Op.37](https://open.spotify.com/album/6IC3DSM06TNJqXRZu499gx) | 3:43 |
 | 46 | [Arise Lord into Thy Rest](https://open.spotify.com/track/5o4sgZrP65RcbsvG5K73zB) | [Dobrinka Tabakova](https://open.spotify.com/artist/1zLIRG57NYJF3ckNxrQLzp), [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS), [Julie Cooper](https://open.spotify.com/artist/5P6V0Avl5XEyxUwVAAzIPM), [Harry Christophers](https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu) | [A Watchful Gaze](https://open.spotify.com/album/4qKhAhh7J5diRFJ07nDjqy) | 5:47 |
 | 47 | [Shimmering \- Ace generosa](https://open.spotify.com/track/7JZlmBfgc2UnHwM9G8LycA) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [LaCappella](https://open.spotify.com/artist/3SJpGtjBkNg4I0dPIIdOd0) | [Lacappella: Shimmering \(Works by Ola Gjeilo, Simon Wawer, Eriks Esenvalds, Clytus Gottwald, Robert Schumann\)](https://open.spotify.com/album/2RjDaK63dArZPmsbavZSmb) | 5:13 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 85 | [Os justi](https://open.spotify.com/track/5y41AyXVAt68eHyY2Z75sP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [A Choral Tapestry](https://open.spotify.com/album/7GYUPGkWZHeYqC6bZUT68x) | 4:42 |
 | 86 | [Allá se me ponga el sol à 4](https://open.spotify.com/track/7A14bdlIw9CU10VMdXe8Rg) | [Juan Ponce](https://open.spotify.com/artist/6VmMKWrL3Ppmv49NFd0QH5), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1) | [Allá se me ponga el sol à 4](https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4) | 2:55 |
 
-Snapshot ID: `MCxhMzVjZDg4NWRkMTk3ZDI2NWMyOWMzNDQ3OGVjNThiYjYwMzRkOGEz`
+Snapshot ID: `MCw2ZjJlNjBiMzM1NDU4NmEwOTUyMzEzNWY1NjdkZDEwNzI5ZjdjMTMx`

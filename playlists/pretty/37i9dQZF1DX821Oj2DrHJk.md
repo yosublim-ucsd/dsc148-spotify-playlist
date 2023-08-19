@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,432 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,465 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 79 | [Join Together](https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [20th Century Masters: The Millennium Collection: Best Of The Who](https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC) | 4:24 |
 | 80 | [All Right Now](https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [20th Century Masters: The Millennium Collection: Best Of Free](https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k) | 5:34 |
 | 81 | [Lady Writer](https://open.spotify.com/track/3mwFncaI2HBczQ92GP9MQF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Communiqué](https://open.spotify.com/album/6HEOoO8aHq5M88OA4teVY1) | 3:49 |
-| 82 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
-| 83 | [Peaches \- 1996 Remaster](https://open.spotify.com/track/71Y7sPJm0DpCix0fHaAlhI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Rattus Norvegicus](https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq) | 4:05 |
+| 82 | [Peaches \- 1996 Remaster](https://open.spotify.com/track/71Y7sPJm0DpCix0fHaAlhI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Rattus Norvegicus](https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq) | 4:05 |
+| 83 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
 | 84 | [Angie \- Remastered](https://open.spotify.com/track/5FQdAbZKZWwgeWTqTFVVMo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Made In The Shade](https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI) | 4:31 |
 | 85 | [Shine a Little Love](https://open.spotify.com/track/5X6HkkTe8mUwkHo3Lccr6E) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:41 |
 | 86 | [Rubber Bullets](https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 99 | [Get Down and Get With It](https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 3:50 |
 | 100 | [Little Willy](https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:15 |
 
-Snapshot ID: `MCw0OTA4NmUxOTUzZjk3NGQwMWIxYmZmNmRhNmYzY2I2YTBkYzM4Y2My`
+Snapshot ID: `MCw5OTc5ZmEwZThjNGQ5ZTUzYmQ4YzEwNmFkYjhmYzJhZTRkMjY5NTIy`

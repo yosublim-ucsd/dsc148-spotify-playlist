@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-168 songs - 10 hr 58 min
+169 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [ترجيتك تروف](https://open.spotify.com/track/6v0nHHP6PPVArTsdLTNoJ1) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ترجيتك تروف](https://open.spotify.com/album/3hCDD9Yr5ryKJNAsQQJmEU) | 3:40 | 2022-03-30 | 2022-11-02 |
 | [تعبت أشتاق](https://open.spotify.com/track/4wQuMb5pAAfhBuY1VdM0rs) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [تعبت أشتاق](https://open.spotify.com/album/2IKZvIu9Y9nlSuUd90qI7a) | 3:34 | 2022-03-30 | 2022-06-14 |
 | [حب دايم](https://open.spotify.com/track/4zCQ37sWsWclWGz001L2a5) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [حب دايم](https://open.spotify.com/album/2HXnUpiRSKG95hFKj5PXAV) | 3:59 | 2023-06-29 |  |
+| [حب ماله مثيل](https://open.spotify.com/track/20L4L7BTjobKztzO6E51tC) | [ماجد خضير](https://open.spotify.com/artist/3y1gBdIcu9SoeBqdePgppN) | [حب ماله مثيل](https://open.spotify.com/album/5P6GOGRXG0TZ0SNhoUaKYt) | 3:39 | 2023-08-18 |  |
 | [حبك سطا](https://open.spotify.com/track/1vSF4Ge4kcKuop1UQyPDyw) | [يوسف الشهري](https://open.spotify.com/artist/2sMybcrpuKlspv1hwSyLaP) | [حبك سطا](https://open.spotify.com/album/5BnLZcidSNUofFrDao1ZhU) | 3:05 | 2023-06-29 |  |
 | [حلوه ذيك الأيام](https://open.spotify.com/track/7G9FvCGsh9sLMyKwcNudid) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [حلوه ذيك الأيام](https://open.spotify.com/album/0Lc1i8HzW08AGNG6Oy5l3R) | 4:09 | 2023-02-22 | 2023-07-12 |
 | [حي بسماتك](https://open.spotify.com/track/28jNmt1G200EdfkK2Utn27) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [حي بسماتك](https://open.spotify.com/album/7bUt6Wh4zVL1aKbRox63Pp) | 3:55 | 2022-08-31 | 2023-03-15 |

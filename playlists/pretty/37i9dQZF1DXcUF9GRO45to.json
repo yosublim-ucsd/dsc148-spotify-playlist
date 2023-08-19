@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 27505,
+  "num_followers": 27524,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTU0NzQ0ZjNjMGEyMDM0OWM5Y2UwZDJmMjE1Mzc4NzYyN2E5YzIz",
+  "snapshot_id": "MCxjMGZmOWI3MzI1ZjA3OTQzM2YyZWJlMzJlMTkxMzAwNjQ3ZTQ3NjAx",
   "tracks": [
     {
       "added_at": "2023-07-23 21:26:18",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Bride",
-        "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
-      },
-      "artists": [
-        {
-          "name": "Send Me Love Letters",
-          "url": "https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bride",
-      "url": "https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Weathering",
         "url": "https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174346,
       "name": "Dropped By The Doves",
       "url": "https://open.spotify.com/track/3s8O2RnVyxDmm4zHELriYj"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Bride",
+        "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
+      },
+      "artists": [
+        {
+          "name": "Send Me Love Letters",
+          "url": "https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bride",
+      "url": "https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "LOOV",
-        "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
-      },
-      "artists": [
-        {
-          "name": "Mat Bastard",
-          "url": "https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Stay Close To Me",
-      "url": "https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Kamggarn",
         "url": "https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 236542,
       "name": "Lonesome Terror",
       "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "LOOV",
+        "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
+      },
+      "artists": [
+        {
+          "name": "Mat Bastard",
+          "url": "https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Stay Close To Me",
+      "url": "https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -827,18 +827,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Bitter Memory",
-        "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
+        "name": "Afterparty - All We Have Is Now",
+        "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
       },
       "artists": [
         {
-          "name": "The One You Loved",
-          "url": "https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY"
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        },
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
         }
       ],
-      "duration_ms": 233023,
-      "name": "Toxin",
-      "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
+      "duration_ms": 181600,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -867,22 +871,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Afterparty - All We Have Is Now",
-        "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
+        "name": "Bitter Memory",
+        "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
       },
       "artists": [
         {
-          "name": "Caesaria",
-          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
-        },
-        {
-          "name": "Storm Orchestra",
-          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+          "name": "The One You Loved",
+          "url": "https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
+      "duration_ms": 233023,
+      "name": "Toxin",
+      "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Self Doubt",
+        "url": "https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O"
+      },
+      "artists": [
+        {
+          "name": "Moonball",
+          "url": "https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Self Doubt",
+      "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 203906,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Self Doubt",
-        "url": "https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O"
-      },
-      "artists": [
-        {
-          "name": "Moonball",
-          "url": "https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Self Doubt",
-      "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Future Me",
-        "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
-      },
-      "artists": [
-        {
-          "name": "Do It Later",
-          "url": "https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF"
-        },
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
-        }
-      ],
-      "duration_ms": 187299,
-      "name": "Didn\u2019t Know",
-      "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Scopaesthesia",
         "url": "https://open.spotify.com/album/1BHXHfRwyX7JK46KQHKclo"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 278801,
       "name": "R.I.P. In Peace",
       "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Future Me",
+        "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
+      },
+      "artists": [
+        {
+          "name": "Do It Later",
+          "url": "https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF"
+        },
+        {
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+        }
+      ],
+      "duration_ms": 187299,
+      "name": "Didn\u2019t Know",
+      "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Chantal",
         "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 253906,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+      },
+      "artists": [
+        {
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "AqME",
         "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 273013,
       "name": "Bones",
       "url": "https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Meet In The City",
+        "url": "https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny"
+      },
+      "artists": [
+        {
+          "name": "Dirty Deep & Yarol",
+          "url": "https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl"
+        }
+      ],
+      "duration_ms": 323054,
+      "name": "Two Rocks In a Whiskey",
+      "url": "https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Meet In The City",
-        "url": "https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny"
-      },
-      "artists": [
-        {
-          "name": "Dirty Deep & Yarol",
-          "url": "https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl"
-        }
-      ],
-      "duration_ms": 323054,
-      "name": "Two Rocks In a Whiskey",
-      "url": "https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Daddy Issues",
         "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 289476,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Club Dragon",
+        "url": "https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4"
+      },
+      "artists": [
+        {
+          "name": "Hightower",
+          "url": "https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo"
+        }
+      ],
+      "duration_ms": 195364,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1615,22 +1631,6 @@
       "duration_ms": 211505,
       "name": "Others",
       "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Club Dragon",
-        "url": "https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4"
-      },
-      "artists": [
-        {
-          "name": "Hightower",
-          "url": "https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo"
-        }
-      ],
-      "duration_ms": 195364,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8"
     }
   ],
   "unique_name": "French Noise",

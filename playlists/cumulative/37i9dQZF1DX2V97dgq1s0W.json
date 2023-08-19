@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "Beautifully chilled vocals from around the world. Cover: Snoh Aalegra",
+  "description": "Beautifully chilled vocals from around the world. Cover: Hamzaa",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176938,
       "name": "3 of Us",
       "url": "https://open.spotify.com/track/6zFcETrfVYpqo46Ffqv6PP"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 150720,
       "name": "Blind",
       "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 84000,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1Da22brPeT2yJYp8nWCduw"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 274030,
       "name": "Guess We're Leaving",
       "url": "https://open.spotify.com/track/1CN6cHipfsFph71waKoeee"
@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "If Only You Knew",
+        "url": "https://open.spotify.com/album/0fTq2g9l88dQHVtr97c0XK"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196704,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/5stXc4GQVkeLIsP2MVr5ml"
+    },
+    {
+      "album": {
         "name": "IRL (Deluxe)",
         "url": "https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD"
       },
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 163631,
       "name": "June 15th",
       "url": "https://open.spotify.com/track/6LikRE4RwaYvfm79UwEU3X"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 159532,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/7sqLzX73av3Gy1aPM4i1tG"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 181103,
       "name": "Leveled (Radio Edit)",
       "url": "https://open.spotify.com/track/4Kq94swsRMQAVXmVWPkcFk"
@@ -1930,6 +1948,24 @@
       "duration_ms": 231532,
       "name": "Mad At Fire",
       "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
     },
     {
       "album": {
@@ -2230,7 +2266,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165132,
       "name": "O.M.L. (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
@@ -2328,7 +2364,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 212574,
       "name": "Out of Touch",
       "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
@@ -2411,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Passenger Princess",
+        "url": "https://open.spotify.com/album/6wLBAVTUjVhwJ5AATa4oWs"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217430,
+      "name": "Passenger Princess",
+      "url": "https://open.spotify.com/track/5ILp3IxMiSxucBx00cSWSr"
+    },
+    {
+      "album": {
         "name": "Libbie",
         "url": "https://open.spotify.com/album/6ujyqyNoZfQP70wHlPwNlE"
       },
@@ -2488,6 +2542,24 @@
       "duration_ms": 176500,
       "name": "Pinky Blues",
       "url": "https://open.spotify.com/track/1uETFKsxZNVHWaGVOHFPe7"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171133,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh"
     },
     {
       "album": {
@@ -2618,7 +2690,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 236883,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8"
@@ -2928,7 +3000,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224673,
       "name": "Stand Up (From the Original Motion Picture \"Till\")",
       "url": "https://open.spotify.com/track/6RfyQbkKctEp5rwAhrJCEM"
@@ -2954,7 +3026,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 154615,
       "name": "Subtle Games - Remix",
       "url": "https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U"
@@ -3176,7 +3248,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 258023,
       "name": "Through The Night (feat. Free Nationals)",
       "url": "https://open.spotify.com/track/3VaXsRs2d64G2h36ekyB7c"
@@ -3278,6 +3350,24 @@
       "duration_ms": 196000,
       "name": "Void",
       "url": "https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu"
+    },
+    {
+      "album": {
+        "name": "Wait A Little Longer",
+        "url": "https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208664,
+      "name": "Wait A Little Longer",
+      "url": "https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS"
     },
     {
       "album": {

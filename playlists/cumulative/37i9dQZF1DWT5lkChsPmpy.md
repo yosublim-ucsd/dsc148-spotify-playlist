@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-445 songs - 19 hr 50 min
+446 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,13 +216,14 @@
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-10 | 2023-03-31 |
 | [Ladder to the Stars](https://open.spotify.com/track/1SAux0dXdZBJphTIr6zg6p) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ladder to the Stars](https://open.spotify.com/album/25UuqndPirVvQoJxONlsMw) | 2:53 | 2022-09-09 |  |
 | [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 | 2023-02-18 |
-| [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 |  |
+| [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 | 2023-08-19 |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2021-11-10 | 2022-01-22 |
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 |  |
 | [Late Night Drive](https://open.spotify.com/track/1sHlhVfyPyVlyBpp1x5Xgz) | [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Late Night Drive](https://open.spotify.com/album/45135XbCrnFc6aRXGmDzO4) | 2:20 | 2022-11-25 |  |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-10 | 2022-02-11 |
+| [lighting](https://open.spotify.com/track/2MRALsAuVvzfUAHP0RT2er) | [Gramercy](https://open.spotify.com/artist/23QXvk7uAn0oRrURb1YMQG) | [lighting](https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE) | 2:54 | 2023-08-18 |  |
 | [Lightning](https://open.spotify.com/track/0Zl59CK613Aeb6TEoqVTNA) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Lightning](https://open.spotify.com/album/2v1ZMg2udU7qXEsZEsZVWn) | 2:14 | 2023-03-24 |  |
 | [lights out](https://open.spotify.com/track/4VPY9FS6kOmJSBu60bHn32) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [lights out](https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ) | 3:05 | 2023-01-06 |  |
 | [Lightweight](https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN) | [Going North](https://open.spotify.com/artist/7inHxv9DhiskK3UJOU3FXA) | [Lightweight](https://open.spotify.com/album/7FRiFJTmFTnEDbODaZlAZM) | 2:53 | 2022-11-25 |  |

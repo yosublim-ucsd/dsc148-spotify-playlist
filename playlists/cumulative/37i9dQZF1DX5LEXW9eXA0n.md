@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:Kim Do Hee\(김도희\)\) \(당신의 감성에 발라드, 려요\)
 
-956 songs - 2 day 14 hr 7 min
+958 songs - 2 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Don't treat me well](https://open.spotify.com/track/6gf5ELYMwGOYvihbp6NA0s) | [yeo eun](https://open.spotify.com/artist/00hyJ4Om3BEqgLwfqHSFxv) | [Don't treat me well](https://open.spotify.com/album/2FqhiCBwlQAuNW87paj41N) | 3:38 | 2022-03-24 | 2022-04-13 |
 | [Don't walk away](https://open.spotify.com/track/1V0fL8JcNB41j3Yj0FccKG) | [LISA](https://open.spotify.com/artist/78hGUmxF4YMnMOpemPsXIX) | [Don't walk away \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.8](https://open.spotify.com/album/1GgOw3kzlYxXcknuvOyA8v) | 3:28 | 2022-07-07 | 2022-07-13 |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-07-07 | 2022-08-13 |
+| [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 | 2023-08-18 |  |
 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 | 2022-10-12 | 2023-01-21 |
 | [Drawing Our Moments](https://open.spotify.com/track/0BiJCg7FLwWGTYLEsnaHcz) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 4:33 | 2021-12-20 | 2022-07-08 |
 | [Dream](https://open.spotify.com/track/2Mbq7v42FvbLJewOfCw7hv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Dream](https://open.spotify.com/album/6mub9pdrLa8fCqzWP4kk64) | 3:08 | 2022-09-05 | 2022-10-13 |
@@ -570,6 +571,7 @@
 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-14 |  |
 | [Never let you go](https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Never let you go](https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc) | 4:04 | 2021-12-20 | 2022-07-02 |
 | [Night We Shine](https://open.spotify.com/track/1wEVAO5UNyPn0Fh4H89fhK) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Night We Shine](https://open.spotify.com/album/50tZqh8ASPusurk4CTQ0wn) | 3:51 | 2022-09-21 | 2023-01-11 |
+| [Nightmare](https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:35 | 2023-08-18 |  |
 | [Nightmare \(Art\. SAEBIT\)\(With\. MINE\)](https://open.spotify.com/track/5fNSKLye8tniXk48rtoUTQ) | [Anonymous Artists \(어나니머스 아티스트\)](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD), [MINE](https://open.spotify.com/artist/11RVbK7wyBMH4UzjELv6wq) | [ARTIST\. SAEBIT](https://open.spotify.com/album/1f9KclCcIDueccVILc3u3t) | 4:16 | 2023-02-13 | 2023-03-28 |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-23 | 2023-06-23 |
 | [No good in good\-bye](https://open.spotify.com/track/7e1awRaixVM0YDoZZs5mC1) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:32 | 2022-01-03 | 2022-06-12 |

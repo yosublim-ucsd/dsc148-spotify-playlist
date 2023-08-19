@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,657,921 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,658,539 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
 | 100 | [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 |
 
-Snapshot ID: `MCw4YmYwYzE5MmQ2OTU5ZDJmMmMxNjExZjNjOTVmNjM5YzJkNDlkMjcz`
+Snapshot ID: `MCwwNGU5Y2I0MjhhOGM4MDViNzYxMTQzNDE1Y2VhNDcxOGZiOTZlMzE5`

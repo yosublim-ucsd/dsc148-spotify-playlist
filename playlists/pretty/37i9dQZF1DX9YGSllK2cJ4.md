@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,181 likes - 188 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,310 likes - 187 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,28 +173,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 163 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 |
 | 164 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 |
 | 165 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 |
-| 166 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 |
-| 167 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 |
-| 168 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 |
-| 169 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
-| 170 | [Survivor](https://open.spotify.com/track/3mZ1vH8XtCcBL1HNrHfGWU) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/4bdufFgrqgkNspDZLf1Hjd) | 2:15 |
-| 171 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 |
-| 172 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 |
-| 173 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 |
-| 174 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 |
-| 175 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 |
-| 176 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 |
-| 177 | [La vérité](https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR) | [Mano Vecina](https://open.spotify.com/artist/1II3YMefTHllayrOSkbwRf) | [La vérité](https://open.spotify.com/album/6z9YiFp74ziLOCjGQDnEe5) | 2:27 |
-| 178 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 |
-| 179 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 |
-| 180 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 |
-| 181 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 |
-| 182 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
-| 183 | [When We Beat The Odds](https://open.spotify.com/track/4CREi2evM6PjRU6Y6lIYIT) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [When We Beat The Odds](https://open.spotify.com/album/7nkoWfuYeZpqK5pkjO4QLF) | 2:00 |
-| 184 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 |
-| 185 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 |
-| 186 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 |
-| 187 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
-| 188 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
+| 166 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 |
+| 167 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 |
+| 168 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
+| 169 | [Survivor](https://open.spotify.com/track/3mZ1vH8XtCcBL1HNrHfGWU) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/4bdufFgrqgkNspDZLf1Hjd) | 2:15 |
+| 170 | [A Model of the Universe](https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:52 |
+| 171 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 |
+| 172 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 |
+| 173 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 |
+| 174 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 |
+| 175 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 |
+| 176 | [La vérité](https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR) | [Mano Vecina](https://open.spotify.com/artist/1II3YMefTHllayrOSkbwRf) | [La vérité](https://open.spotify.com/album/6z9YiFp74ziLOCjGQDnEe5) | 2:27 |
+| 177 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 |
+| 178 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 |
+| 179 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 |
+| 180 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 |
+| 181 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
+| 182 | [When We Beat The Odds](https://open.spotify.com/track/4CREi2evM6PjRU6Y6lIYIT) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [When We Beat The Odds](https://open.spotify.com/album/7nkoWfuYeZpqK5pkjO4QLF) | 2:00 |
+| 183 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 |
+| 184 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 |
+| 185 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 |
+| 186 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
+| 187 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCw3ODQwZWIxZDFkYmJmZWNlYWVhNTE4MDkyMDYyMjMwOTI2YWQyMWFk`
+Snapshot ID: `MCw3MGI0MjRiZjMwZWYxOWU2MGM5MmU0Y2M2YmQxODJhMGIyOTI3MGY4`

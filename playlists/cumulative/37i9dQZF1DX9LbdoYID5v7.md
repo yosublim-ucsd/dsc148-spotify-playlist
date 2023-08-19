@@ -2,7 +2,7 @@
 
 ### [The 2000s Indie Scene](https://open.spotify.com/playlist/37i9dQZF1DX9LbdoYID5v7)
 
-> Music that created modern indie as we know it\. Cover: MGMT
+> Music that created modern indie as we know it\. Cover: Yeah Yeah Yeahs
 
 167 songs - 10 hr 45 min
 

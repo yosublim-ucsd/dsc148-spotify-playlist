@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Every Summertime",
+        "url": "https://open.spotify.com/album/4HlObXWsrNkRfYEFhFCVOP"
+      },
+      "artists": [
+        {
+          "name": "Walter Kwan",
+          "url": "https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244673,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/1UoBxIqQHgoDmMyelylgqR"
+    },
+    {
+      "album": {
         "name": "EVERYTHING WILL BE ALRIGHT",
         "url": "https://open.spotify.com/album/6n2QjAWoPUz6AJAej5rbi0"
       },

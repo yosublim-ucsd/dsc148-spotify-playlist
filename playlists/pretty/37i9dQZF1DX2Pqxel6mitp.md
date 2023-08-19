@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,108 likes - 120 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,190 likes - 120 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Got to Go Back Home](https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Got to Go Back Home](https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR) | 3:54 |
 | 120 | [Smoke In Heaven](https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Roots](https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd) | 3:42 |
 
-Snapshot ID: `MCxjZDYyZjMzNjAwOTQ4MGFkNTBhNzk0ZTY5NGJlMzY1MmJmYzdjYTVi`
+Snapshot ID: `MCxjNzg4YTczZmU0ODc2ZjI2MTZkNjFmOWFjMTEyNDY0MmFkOTM0YmMy`

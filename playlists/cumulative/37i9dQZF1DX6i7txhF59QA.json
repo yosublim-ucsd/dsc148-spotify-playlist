@@ -432,7 +432,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 211733,
       "name": "a slow train bound for Mokpo",
       "url": "https://open.spotify.com/track/0ug9jyEOvmklMakq7Bjecp"
@@ -8938,7 +8938,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 186041,
       "name": "on your side",
       "url": "https://open.spotify.com/track/44ExXyftpKuTid27OwfnF9"
@@ -11298,7 +11298,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 221826,
       "name": "The Forgotten Season",
       "url": "https://open.spotify.com/track/4Z5NS9w7D3iRDJ64pKpMbm"
@@ -15202,6 +15202,24 @@
       "duration_ms": 211586,
       "name": "\uc6b4\uba85\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/5vMuxEioWkhfLmJae7W7Vl"
+    },
+    {
+      "album": {
+        "name": "\uc7a5\uc724\uc815 BEST 2020",
+        "url": "https://open.spotify.com/album/5EhlXil84VfiTfzZnML0FJ"
+      },
+      "artists": [
+        {
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "\uc6b4\uba85\uc5d0\uac8c",
+      "url": "https://open.spotify.com/track/4u9Kk4YuuJ7GSPXLWqETjL"
     },
     {
       "album": {

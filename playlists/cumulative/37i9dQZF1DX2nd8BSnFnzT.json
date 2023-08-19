@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Planet Hemp",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Tianast\u00e1cia",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 183053,
       "name": "A Mesma Coisa",
       "url": "https://open.spotify.com/track/6Fg4d58rbY4br0kACB2yWY"
@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Dias de Luta",
+        "url": "https://open.spotify.com/album/4WCAW2P3RqgM8QLGVofhfo"
+      },
+      "artists": [
+        {
+          "name": "Nasi",
+          "url": "https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327600,
+      "name": "Dias de Luta",
+      "url": "https://open.spotify.com/track/5wbyTA4Db4Mxl2BLPTRcGN"
+    },
+    {
+      "album": {
         "name": "Autoramas (Locomotiva Sessions) [Live Session]",
         "url": "https://open.spotify.com/album/5f6pa6GLk6U30lmOIGFfYM"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 246250,
       "name": "Esse Vazio Ocupa Tanto Espa\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/7ojumLN40e3ScVMrxVE5hQ"
@@ -2232,6 +2250,24 @@
       "duration_ms": 239720,
       "name": "Eu N\u00e3o Matei Joana D\u2019Arc",
       "url": "https://open.spotify.com/track/3dmf5saG9vX9CnB9Ldbq9d"
+    },
+    {
+      "album": {
+        "name": "SUCESSO A QUALQUER CUSTO",
+        "url": "https://open.spotify.com/album/6iVwmn3dr07JEPqNXtVwPr"
+      },
+      "artists": [
+        {
+          "name": "Lupa",
+          "url": "https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147542,
+      "name": "EU N\u00c3O T\u00d4 LEGAL",
+      "url": "https://open.spotify.com/track/27iTXxl8tuMNdK7zolwemN"
     },
     {
       "album": {
@@ -2394,6 +2430,24 @@
       "duration_ms": 184495,
       "name": "filmes fatos fotos",
       "url": "https://open.spotify.com/track/5EcBZmnE3VUhqES2HdNtwv"
+    },
+    {
+      "album": {
+        "name": "JARDINEIROS",
+        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135112,
+      "name": "FIM DO FIM",
+      "url": "https://open.spotify.com/track/6Pk8lHNRHkuD1o0Say0o4l"
     },
     {
       "album": {
@@ -3910,7 +3964,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 163539,
       "name": "Narciso",
       "url": "https://open.spotify.com/track/5enX4FkpRF6nRBl3Z8eKe6"
@@ -5014,6 +5068,28 @@
       "duration_ms": 223773,
       "name": "PITTYNANDO",
       "url": "https://open.spotify.com/track/0W8wc6tclS3TGMS9pQ5dp7"
+    },
+    {
+      "album": {
+        "name": "Tianast\u00e1cia (Sonas Sessions)",
+        "url": "https://open.spotify.com/album/4o5FcO4auHxVjHbMPfBzns"
+      },
+      "artists": [
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146920,
+      "name": "Pode Crer (Ao Vivo no Sonast\u00e9rio)",
+      "url": "https://open.spotify.com/track/1HVRQk7cVPqS0YZ8WjCklH"
     },
     {
       "album": {
@@ -6494,10 +6570,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 189794,
       "name": "Tudo Destru\u00eddo",
       "url": "https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB"
+    },
+    {
+      "album": {
+        "name": "Ret\u00f3rica Diab\u00f3lica",
+        "url": "https://open.spotify.com/album/4uWRpVbCWpk5JFRlaavO9X"
+      },
+      "artists": [
+        {
+          "name": "Matanza Inc",
+          "url": "https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189794,
+      "name": "Tudo Destru\u00eddo",
+      "url": "https://open.spotify.com/track/7EPwsHvqVODaeRh66XYRrX"
     },
     {
       "album": {
@@ -6960,7 +7054,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224357,
       "name": "Vou Ter Que Me Virar - LIVE",
       "url": "https://open.spotify.com/track/7DvnCk6kKiFG4aticoxJFR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,124 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,223 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Gravitate](https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Gravitate](https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb) | 5:41 |
 | 70 | [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 |
 
-Snapshot ID: `MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk`
+Snapshot ID: `MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj`

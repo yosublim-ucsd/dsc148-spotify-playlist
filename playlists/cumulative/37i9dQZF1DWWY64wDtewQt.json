@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 111219,
       "name": "COLLAPSE",
       "url": "https://open.spotify.com/track/7fb63zBu6Opf73nidHkBjm"
@@ -6897,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "NXSTY BLOOD",
+        "url": "https://open.spotify.com/album/7ydimgAmoZWwEiKAIJ3GWP"
+      },
+      "artists": [
+        {
+          "name": "Wels",
+          "url": "https://open.spotify.com/artist/5gQXdVmzGuWYNiG1ZOFS7S"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114105,
+      "name": "NXSTY BLOOD",
+      "url": "https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L"
+    },
+    {
+      "album": {
         "name": "O CA\u00c7ADOR DE ALMAS",
         "url": "https://open.spotify.com/album/2e15LI1nnBV9BKGh7x7jPN"
       },
@@ -8946,6 +8964,32 @@
       "duration_ms": 173169,
       "name": "SLAYER",
       "url": "https://open.spotify.com/track/6GubPXHfFG5cYUFZNl4vsZ"
+    },
+    {
+      "album": {
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
       "album": {
@@ -11186,7 +11230,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 100186,
       "name": "\u0422\u0430\u0431\u0443",
       "url": "https://open.spotify.com/track/6jQBeCtUzeKw9WKczjOgXd"

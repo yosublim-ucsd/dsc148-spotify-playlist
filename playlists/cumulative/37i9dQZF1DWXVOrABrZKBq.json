@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: SDM",
+  "description": "Le rap francophone est en forme. Photo: Gambi",
   "name": "Connexion Rap",
   "tracks": [
     {
@@ -227,6 +227,28 @@
     },
     {
       "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136711,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
+    },
+    {
+      "album": {
         "name": "C'est carr\u00e9 le S",
         "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
       },
@@ -322,7 +344,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 169320,
       "name": "Chrome Hearts",
       "url": "https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38"
@@ -1093,6 +1115,28 @@
     },
     {
       "album": {
+        "name": "MONNAIE",
+        "url": "https://open.spotify.com/album/6ARWG8BntraLXVsELp9JkI"
+      },
+      "artists": [
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        },
+        {
+          "name": "Cinco",
+          "url": "https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152645,
+      "name": "MONNAIE",
+      "url": "https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg"
+    },
+    {
+      "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
       },
@@ -1448,7 +1492,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168000,
       "name": "Rien \u00e0 faire",
       "url": "https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal"

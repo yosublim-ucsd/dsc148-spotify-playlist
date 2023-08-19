@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,297 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,330 likes - 101 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 95 | [The Comeback Trail](https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 6:42 |
 | 96 | [Peregrination \(feat\. Anjna Swaminathan\)](https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa) | [Rajna Swaminathan](https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA), [Anjna Swaminathan](https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ) | [Of Agency and Abstraction](https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B) | 4:09 |
 | 97 | [Garden Lounge](https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp) | [Sharat Chandra Srivastava](https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U) | [No Passport Control](https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I) | 9:42 |
-| 98 | [Rupantara \- Instrumental Version](https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 4:08 |
-| 99 | [Bhatiyali Dhun](https://open.spotify.com/track/0MMPQrXP5jBN6jXhvyJaMP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 7:16 |
+| 98 | [Siya](https://open.spotify.com/track/09zcdMhq7l3q3tbPjp0HTT) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Siya](https://open.spotify.com/album/665kiBV7RpNrKDRCUXD5ve) | 3:05 |
+| 99 | [Rupantara \- Instrumental Version](https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 4:08 |
 | 100 | [Transcend](https://open.spotify.com/track/1dUDWTN2g42sz1yXykCUQn) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [William Cepeda](https://open.spotify.com/artist/0w2oHz4dH8krp7aEc7zTWc) | [Transcend](https://open.spotify.com/album/3Ox4brenAwA37r3RPNoXjB) | 9:37 |
+| 101 | [Bhatiyali Dhun](https://open.spotify.com/track/0MMPQrXP5jBN6jXhvyJaMP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 7:16 |
 
-Snapshot ID: `MCxiMmJhNmRjY2JiMmMwMmJjYzUwY2FmZWFiMzAyMjI4MjQ2YTIxZjZi`
+Snapshot ID: `MCwyZTNhMDcxYTAyNTYxOGRlZjhiOTU0ZWIyMTQwM2U0ZTAxN2VlNmVj`

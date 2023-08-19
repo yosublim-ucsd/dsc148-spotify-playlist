@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,577 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,786 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Word \- Live](https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:08 |
 | 100 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 |
 
-Snapshot ID: `MCwyZjdkMWI5MmRhMTkyMTA3NjVlMDdiNzRmYzk2YzdjOTVhNWEzMmRi`
+Snapshot ID: `MCw2ZmJjMGNmNmIyNjljMzc0MjE2NDcwOWIyOTIxYTQyZDIxYjE4M2Ey`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 
 > Out of office ✅
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,730 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,835 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 79 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0) | 2:40 |
 | 80 | [Tek Buddy](https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Vibes Don't Lie](https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU) | 2:28 |
 
-Snapshot ID: `MCxmYzIwNGI5NzQyODMxNjJhYTM2MDFjODQ3M2U3ZTI4N2QyZGIwMzEx`
+Snapshot ID: `MCw4Yjc0ZjU5OTc4YTFmYTU5M2M3ZjAxMmZkZGU4N2I0ODUyMDFlZjk5`

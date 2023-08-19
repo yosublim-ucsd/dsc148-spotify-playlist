@@ -4,7 +4,7 @@
 
 > Les meilleurs Pop Hits Maghrébins sont ici\. Cover: L7or
 
-67 songs - 3 hr 44 min
+68 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-07 |  |
 | [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 | 2023-07-07 | 2023-07-14 |
 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2023-07-07 |  |
-| [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2023-07-07 |  |
+| [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2023-07-07 | 2023-08-19 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2023-07-07 | 2023-08-09 |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2023-07-07 |  |
 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 | 2023-07-07 |  |
@@ -40,6 +40,7 @@
 | [Khalass](https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:20 | 2023-07-07 | 2023-08-11 |
 | [kho khwatato](https://open.spotify.com/track/0Zc1kECFQAoJQDMKKsxDLr) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [hind ziadi](https://open.spotify.com/artist/4swfRw8HS51lw8HsO2VXVP) | [kho khwatato](https://open.spotify.com/album/03u30VQhTn0dWfMBIld2IV) | 3:43 | 2023-07-07 |  |
 | [La Grinta](https://open.spotify.com/track/0GZ5TN2SnpfUyx4nkaXT0o) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [La Grinta](https://open.spotify.com/album/10wrdFXjPKazGA8wnjPujS) | 2:40 | 2023-07-07 |  |
+| [Laman Khalitini](https://open.spotify.com/track/5NuXWwTu9nT3qKnjwRIEVr) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Laman Khalitini](https://open.spotify.com/album/7E9YwAQvad0TuZY1EcJEin) | 3:22 | 2023-08-18 |  |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2023-07-07 | 2023-08-06 |
 | [Lili Nhari](https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lili Nhari](https://open.spotify.com/album/51VovH7Hj6uBGJiR4WG4cz) | 3:08 | 2023-07-07 |  |
 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 | 2023-08-08 |  |

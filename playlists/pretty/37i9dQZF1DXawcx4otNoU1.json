@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 499447,
+  "num_followers": 499590,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjlkMThjOWZlNDYxNTRmODEzNjhhNDQ4MWEwZjFlYWU2Y2EzNWY3",
+  "snapshot_id": "MCxhYzllMTY2NDdiYjQ1Yzg4YWQ2MTFhYTc3YWIxYThlNGQ3ZGMyZDM5",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "When The Lights Go Down",
-        "url": "https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Catch & Release - Deepend Remix",
-      "url": "https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "When The Lights Go Down",
+        "url": "https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Catch & Release - Deepend Remix",
+      "url": "https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Eternally Even",
-        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 293413,
-      "name": "The World's Smiling Now",
-      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 219000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Eternally Even",
+        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 293413,
+      "name": "The World's Smiling Now",
+      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Kaleidoscope Evening",
-        "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
-      },
-      "artists": [
-        {
-          "name": "Reuben Fleetwood",
-          "url": "https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Kaleidoscope Evening",
-      "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Rebekah - EP",
         "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 200747,
       "name": "Rebekah",
       "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Kaleidoscope Evening",
+        "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
+      },
+      "artists": [
+        {
+          "name": "Reuben Fleetwood",
+          "url": "https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Kaleidoscope Evening",
+      "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
     },
     {
       "added_at": "2023-02-10 11:00:00",

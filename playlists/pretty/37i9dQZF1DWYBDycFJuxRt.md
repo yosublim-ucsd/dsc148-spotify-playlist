@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 星野源 \*👉 <a href="https://spice.eplus.jp/articles/321161?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,669 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,748 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 48 | [Tell Me](https://open.spotify.com/track/1SB31ZLeg2YozOZEs3GYG6) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Tell Me](https://open.spotify.com/album/20Vc3xjpjORKdwa9oMFc6f) | 3:32 |
 | 49 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
 | 50 | [Villain⤻ \(feat\. lIlBOI\)](https://open.spotify.com/track/70K4mtZntJmqSr4fLrGhJi) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [The Lost Diary](https://open.spotify.com/album/4pjO2nn8tUlr1EvOv5UYgn) | 2:55 |
-| 51 | [From The Jump](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [From The Jump](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:07 |
+| 51 | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:07 |
 | 52 | [Tonight was Clasixxx](https://open.spotify.com/track/4DjEl59wrjupg075TiAGC8) | [ZEN\-LA\-ROCK](https://open.spotify.com/artist/3VYznekAAwwqZpiYwuE34v), [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Kashif](https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M) | [Tonight was Clasixxx](https://open.spotify.com/album/1Dq2QZofR5pftUSrvyMYhq) | 3:58 |
 | 53 | [ZEN ZEN 足んねぇじゃん REMIX \(feat\. 呂布カルマ, MOOKOOBAEK\)](https://open.spotify.com/track/1YEPa8wEeN4h267XnDbjxd) | [DJ YASU](https://open.spotify.com/artist/0QyuUaRUwRgQ2wpqvEgv5N), [呂布カルマ](https://open.spotify.com/artist/1qYSSe3JB2BrK1nZFXpaT8), [MOOKOOBAEK](https://open.spotify.com/artist/5HbpzYxWaM1QXMAQMKWdj6) | [ZEN ZEN 足んねぇじゃん REMIX \(feat\. 呂布カルマ, MOOKOOBAEK\)](https://open.spotify.com/album/4SJjjMvBgezqiADq0dLgky) | 3:01 |
 | 54 | [Basic Control](https://open.spotify.com/track/1gwsDg0zZLYlrcaft77uZv) | [GOTIT](https://open.spotify.com/artist/2WpoGvKZpFZmgrGbbNEoxR), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [AUTOMATIC](https://open.spotify.com/album/6eB2VCfVjidbZCECv87siB) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [誰かの肩](https://open.spotify.com/track/7x467PNoX5oTgYfMBKg5Qf) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [おひとりさま天国 \(Special Edition\)](https://open.spotify.com/album/59S4WhSLhyg2BmhDmKHsMN) | 5:33 |
 | 70 | [常夏プラネット](https://open.spotify.com/track/5gruonMxv9H4daLdjmLr63) | [BiTE A SHOCK](https://open.spotify.com/artist/55rmIlUIdsNkX7d6GkZdXL) | [常夏プラネット](https://open.spotify.com/album/5PqgpPdTjU6WyVEsLGGSIu) | 3:05 |
 
-Snapshot ID: `MCxjMzkzOGZmNzc1YTE0YTE5ZjliNDFkMzlmNzI3MzRlZmMzY2UwZmM0`
+Snapshot ID: `MCxmNzc5MDFjZjlhYzRkMTBiNTlkNDc0NjA0ZjQ0YzQ0YWViMzBkYTE4`

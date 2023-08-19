@@ -1,13 +1,69 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240600,
+  "num_followers": 240593,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2MyNWFlMmEyMTQwOGYxOWU4YzJlNDU1NGIzZGU1ZjMzYmQ2ZDIw",
+  "snapshot_id": "MCw5OTgxOGVlYTNmZDZjNzJkNDhlYWEzZTFkZDhiODNiOTAwN2M2MzI2",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/4t0UxZRkTUPCNT0XDIBqux"
+      },
+      "artists": [
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+        }
+      ],
+      "duration_ms": 164898,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/3zoXDAiViLi1eysasfw5GB"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1c3y5QNQHjn23qQ8t59qtT"
+      },
+      "artists": [
+        {
+          "name": "fika",
+          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4IsjYlNEEsfPQGODzKyYRQ"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/4a1ShZBPPlnpsXuc4WdF99"
+      },
+      "artists": [
+        {
+          "name": "Saults",
+          "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
+        },
+        {
+          "name": "Sparkee",
+          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
+        }
+      ],
+      "duration_ms": 211239,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/3yxclwbIR2cBEUaiMP7wb3"
+    },
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
@@ -1649,22 +1705,6 @@
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
     },
     {
-      "added_at": "2022-08-08 19:18:25",
-      "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Be Easy",
@@ -1697,22 +1737,6 @@
       "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Space and Time",
-        "url": "https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n"
-      },
-      "artists": [
-        {
-          "name": "Tasha Angela",
-          "url": "https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Space and Time",
-      "url": "https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "When Someone Loves You",
@@ -1731,22 +1755,6 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "People People",
-        "url": "https://open.spotify.com/album/6AdhgefWLxvq89hIRKeRRn"
-      },
-      "artists": [
-        {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
-        }
-      ],
-      "duration_ms": 236448,
-      "name": "People People",
-      "url": "https://open.spotify.com/track/4xOOBxljutpqUOfWxbmIR6"
     },
     {
       "added_at": "2022-09-23 04:00:00",

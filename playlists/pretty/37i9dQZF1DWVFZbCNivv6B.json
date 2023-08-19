@@ -1,13 +1,29 @@
 {
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX, Peso Pluma y Herencia de Patrones en la casa. ",
-  "num_followers": 689933,
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Aleman en la casa. ",
+  "num_followers": 690164,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWVhNTViYjY3MjAzZDI3ODc4NGIxNDU2ZTQxODkxNWQwMTY5Zjk5",
+  "snapshot_id": "MCwxZmYzNzUzNjU0ZjI5ZTJiYTIwZjY3NDIzY2NhNDUyMDJlZDNiZTNk",
   "tracks": [
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 166708,
+      "name": "Erick Serm\u00f3n",
+      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
+    },
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
@@ -67,6 +83,22 @@
       "duration_ms": 244219,
       "name": "El Two Six",
       "url": "https://open.spotify.com/track/5EcJZDxH25XrxhGC6JloZ3"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Cuentas Claras\u2026",
+        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "duration_ms": 237391,
+      "name": "Cuentas Claras\u2026",
+      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -135,6 +167,26 @@
       "duration_ms": 307826,
       "name": "Estoy Bien Loco",
       "url": "https://open.spotify.com/track/5u4XgdTpI3KAymxn9LZQxn"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Plagueboyz",
+        "url": "https://open.spotify.com/album/2y63QOLNzjqQiIgqHB71AP"
+      },
+      "artists": [
+        {
+          "name": "SyckSyllables",
+          "url": "https://open.spotify.com/artist/0Z91zZ8meb9o36mZ9kRFWd"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/2pg8rGeBDeGMBzCI4cMyEe"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -217,6 +269,22 @@
       "url": "https://open.spotify.com/track/2GFmz2XgfZcU0tUN4aMxRJ"
     },
     {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
+    },
+    {
       "added_at": "2023-08-03 23:00:00",
       "album": {
         "name": "Mustang 65'",
@@ -247,6 +315,30 @@
       "duration_ms": 167000,
       "name": "La Cara de Loco",
       "url": "https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Alzypher Vol.15",
+        "url": "https://open.spotify.com/album/0K10o1fjzoYkUFvzir8swV"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Alzypher Vol.15",
+      "url": "https://open.spotify.com/track/1oC7A5gaUGuf5X6We5QCVt"
     },
     {
       "added_at": "2023-08-03 23:00:00",

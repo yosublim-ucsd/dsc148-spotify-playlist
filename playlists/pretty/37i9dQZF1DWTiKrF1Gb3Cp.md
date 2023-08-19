@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,720 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,815 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Soy De Barrio](https://open.spotify.com/track/0tY1L6nbATmY5caW68IkvN) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Top 20 Éxitos](https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM) | 3:48 |
 | 100 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
 
-Snapshot ID: `MCxiYzUxZmFiMzI4OWJmMzEyOTNmOTAzYmQ1NGUxODZmOGMxODVhZmNj`
+Snapshot ID: `MCw2MDQxYmU1OWM3MzliOTAzNTM0OWFhMDY0NjdkNWQ2MGUyYjg3Nzcz`

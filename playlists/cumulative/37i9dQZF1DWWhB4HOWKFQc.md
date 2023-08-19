@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Nadin Amizah
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Billie Eilish
 
-200 songs - 12 hr 10 min
+203 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Closed Doors \- Speed Up Version](https://open.spotify.com/track/6VufmhdIxivf0Jv3jhci1h) | [Ismail](https://open.spotify.com/artist/2J4dGyHPTwmLlZAyzDXvdN) | [Closed Doors \(Speed Up Version\)](https://open.spotify.com/album/1DX0ZYI420F49n0Ch99U71) | 2:54 | 2023-06-01 | 2023-07-08 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillz Beatz](https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2023-04-20 | 2023-05-26 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-03-23 | 2023-05-12 |
+| [Confess To You](https://open.spotify.com/track/0T9uzv2TqgzU2F3z54vWX7) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [KING THE LAND \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2ebXX351bi71c7tCkH9yiF) | 3:07 | 2023-08-18 |  |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2023-06-01 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-03-23 | 2023-05-05 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-05-25 |  |
@@ -82,12 +83,12 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-03-23 | 2023-05-12 |
 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 | 2023-05-11 | 2023-06-09 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2023-04-26 |  |
-| [in the stars](https://open.spotify.com/track/798s1KJWQglhZoKLUF9p7D) | [Sami Rose](https://open.spotify.com/artist/2NLhDrmuSI9K1SHfwmqNXL) | [in the stars](https://open.spotify.com/album/0mPY19kYRyEMP1IOk06k5j) | 3:45 | 2023-06-01 |  |
+| [in the stars](https://open.spotify.com/track/798s1KJWQglhZoKLUF9p7D) | [Sami Rose](https://open.spotify.com/artist/2NLhDrmuSI9K1SHfwmqNXL) | [in the stars](https://open.spotify.com/album/0mPY19kYRyEMP1IOk06k5j) | 3:45 | 2023-06-01 | 2023-08-19 |
 | [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-03-23 |  |
 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 | 2023-03-23 | 2023-05-05 |
 | [Januari](https://open.spotify.com/track/2STWrmj6fWevrLzubKCWoS) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Januari](https://open.spotify.com/album/3EOiB4qF1bb5QVms99Szpc) | 4:42 | 2023-03-23 | 2023-04-14 |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2023-06-15 |  |
-| [Just Say Hello](https://open.spotify.com/track/1fflhv9kqRw6rm50KaXcYm) | [Melo\-D](https://open.spotify.com/artist/2i1ftWZdQCfRZExJCmumZL) | [Just Say Hello](https://open.spotify.com/album/06k6PpQ15XGk2MVQuKljyH) | 4:48 | 2023-06-30 |  |
+| [Just Say Hello](https://open.spotify.com/track/1fflhv9kqRw6rm50KaXcYm) | [Melo\-D](https://open.spotify.com/artist/2i1ftWZdQCfRZExJCmumZL) | [Just Say Hello](https://open.spotify.com/album/06k6PpQ15XGk2MVQuKljyH) | 4:48 | 2023-06-30 | 2023-08-19 |
 | [Kamu Cantik Kamu Baik](https://open.spotify.com/track/4lK7zM6W6QHu9GNdR2BX8i) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Dunia Sempurna](https://open.spotify.com/album/2lMFq1ZxiB2JjwUxdNBrRW) | 4:06 | 2023-03-23 | 2023-04-27 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2023-03-23 |  |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2023-03-23 | 2023-08-04 |
@@ -99,6 +100,7 @@
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-20 | 2023-05-12 |
 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 | 2023-05-11 | 2023-05-26 |
 | [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-03-23 |  |
+| [Kurayu Bidadari](https://open.spotify.com/track/1yYFsvN14Z2JD8lEN0qYU2) | [Al\-Ghazali](https://open.spotify.com/artist/574Sftrqpo7OKHWPXprSMx) | [Kurayu Bidadari](https://open.spotify.com/album/2H8OsKxm0ShyAVWLORyJri) | 4:30 | 2023-08-18 |  |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-13 | 2023-05-26 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-04-20 | 2023-05-12 |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-03-23 |  |
@@ -158,7 +160,8 @@
 | [Serana](https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 4:10 | 2023-03-23 |  |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-03-23 | 2023-07-22 |
 | [Set Fire to the Rain](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:02 | 2023-05-11 | 2023-06-16 |
-| [She Don't Know She's Beautiful](https://open.spotify.com/track/2oyS4THTUzUxT2lnHGzzIr) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 2:54 | 2023-06-08 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-08-18 |  |
+| [She Don't Know She's Beautiful](https://open.spotify.com/track/2oyS4THTUzUxT2lnHGzzIr) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 2:54 | 2023-06-08 | 2023-08-19 |
 | [Shhh](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 3:02 | 2023-08-03 |  |
 | [Shining Bright](https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [DELIGHT](https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6) | 3:28 | 2023-05-11 | 2023-05-26 |
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-06-01 | 2023-07-01 |

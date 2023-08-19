@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,388 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,403 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Unfucktheworld \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o) | 2:15 |
 | 125 | [Medicine \- Recorded at RAK Studios, London](https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 2:51 |
 
-Snapshot ID: `MCxjNmM0Y2FjMTA3NTg4MDFmODc0YTU4ZWZiZTdjYjBhNGUwZjNhMDVl`
+Snapshot ID: `MCw4MWQ4ZmIzMjEwZWIyZWM0MzQ4MmZkYzY2NWNiMmZhYzJlMThmOWJj`

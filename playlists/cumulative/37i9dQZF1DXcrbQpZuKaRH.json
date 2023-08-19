@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/3I253zKHlY1vf3mxh8DsTJ"
+      },
+      "artists": [
+        {
+          "name": "Fleeting Spirit",
+          "url": "https://open.spotify.com/artist/2r0qRPtgmjVkJpIM7xtbFX"
+        },
+        {
+          "name": "Magic Room",
+          "url": "https://open.spotify.com/artist/1pgC9mDwkvCetVYKv3tKcv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Calm Seas",
+      "url": "https://open.spotify.com/track/2x4ymM6CVBuDAGNEJ16qko"
+    },
+    {
+      "album": {
         "name": "The Far Distance",
         "url": "https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks"
       },
@@ -322,7 +344,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 177600,
       "name": "Gentle Sail",
       "url": "https://open.spotify.com/track/0jk7Cda4qWk0f4zxShEDim"
@@ -1050,6 +1072,24 @@
       "duration_ms": 186033,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3krSmuVk00tFuJiTuNSZoO"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/2p8HuD7GHVVhat5LX7xcJE"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191722,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2x6Bz7vl9mfxJZgJfuLTZl"
     },
     {
       "album": {

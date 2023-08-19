@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,114 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,197 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 149 | [Pollo y Conejo](https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pollo y Conejo](https://open.spotify.com/album/486wFfAd63UihpKn7Cimiv) | 3:34 |
 | 150 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
 
-Snapshot ID: `MCw3NGVhMTgxM2E4MzU3OGRlMmNkNDU3ZWFmNTI2MmQwNjIzNjE2YjE4`
+Snapshot ID: `MCwzMTYxMTkyNjc3YmVkYTNhMzJiMWM4Y2JhZGFlN2EyMTdhNGUzYWU4`

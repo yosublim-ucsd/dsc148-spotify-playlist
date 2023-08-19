@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-161 songs - 9 hr 2 min
+162 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Doobie Do](https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Doobie Do](https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz) | 2:42 | 2023-05-26 | 2023-06-15 |
 | [Ek Hi Toh Dil](https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Dilwala](https://open.spotify.com/artist/0OOLsvPq7vqGvLoQQJuvjC) | [Ek Hi Toh Dil](https://open.spotify.com/album/4Ge5dVfaOy3ghqzkbgR6Vm) | 3:12 | 2023-05-25 | 2023-06-29 |
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |
+| [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 |  |
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-05-17 | 2023-07-29 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |
 | [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 | 2023-05-17 |  |

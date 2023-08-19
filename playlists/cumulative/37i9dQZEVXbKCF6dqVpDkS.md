@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,127 songs - 2 day 10 hr 26 min
+1,128 songs - 2 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,7 +789,8 @@
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-23 |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-17 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-06 |  |
-| [Padellen](https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1) | 2:08 | 2023-04-04 |  |
+| [Padellen](https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1) | 2:08 | 2023-04-04 | 2023-08-19 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-18 |  |
 | [Pakken Grof](https://open.spotify.com/track/6xRsuqHrhJu1V6KzshrjOW) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 3:25 | 2022-12-03 | 2022-12-10 |
 | [PANORAMA](https://open.spotify.com/track/0sjB8JBUqX8Scr5Jns31FK) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:42 | 2022-05-14 | 2022-05-22 |
 | [Papa Mama](https://open.spotify.com/track/2hNXxcymoCnK2BCMjeN9wX) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Papa Mama](https://open.spotify.com/album/2NM9yRHI77ajeqjBEZNiob) | 2:42 | 2022-08-30 | 2022-09-04 |

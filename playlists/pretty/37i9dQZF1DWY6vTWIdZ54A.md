@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,822 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,970 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 |
 | 100 | [Heartache Melody](https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g) | 2:52 |
 
-Snapshot ID: `MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw`
+Snapshot ID: `MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5`

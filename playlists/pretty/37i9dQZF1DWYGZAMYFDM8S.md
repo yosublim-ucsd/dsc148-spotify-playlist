@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,638 likes - 125 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,689 likes - 125 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 124 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 |
 | 125 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 |
 
-Snapshot ID: `MCw2M2Q3NTI2NDM4OWNmZTU5OTdmYjQwMDdhNjQ1Nzc3ZGQ4ZGI1NzUx`
+Snapshot ID: `MCxjNGMwNjNiYmE1YjIyZGI5ZGYyZmE0NmUyZTQ5MGRlMWUyODQzYzM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,675 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,743 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [crave you](https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [crave you](https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq) | 2:40 |
 | 100 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
 
-Snapshot ID: `MCw5MWNjZTRlZmU2Y2Q2OGMxOTBhZmJhZTg3OGY2YzhkYzY5OWM1OTY5`
+Snapshot ID: `MCxkMDAwYzE1NzVhYjUxNmQwMTNkYWY2ZTBkNGU3OWUxZDQ3YmEwNDFk`

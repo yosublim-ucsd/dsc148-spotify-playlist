@@ -4,7 +4,7 @@
 
 > La banda de sonido de tu día.
 
-254 songs - 16 hr 47 min
+255 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-04-21 | 2023-06-20 |
 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 | 2022-06-29 |  |
 | [Ahora 1](https://open.spotify.com/track/3kht15RVvJmEFPVgwKA1HC) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 2:37 | 2022-07-06 | 2022-07-24 |
-| [Al Vacío](https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:23 | 2022-06-29 |  |
+| [Al Vacío](https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:23 | 2022-06-29 | 2023-08-19 |
 | [Alas Rotas](https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:33 | 2022-06-29 | 2022-07-27 |
 | [Amor Ausente \(En Vivo\) \(with Abel Pintos\)](https://open.spotify.com/track/1sD9vqr4ariNYWc4ifbpOi) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [EP Vivo](https://open.spotify.com/album/5ZE3UoMNcMOATIeSC7JDd9) | 5:58 | 2022-07-01 | 2022-07-29 |
 | [Amor de la Salada \(feat\. Rocío Quiroz\)](https://open.spotify.com/track/7j4LiPyHXDXGLYzQd8N0M9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ), [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [Amor de la Salada \(feat\. Rocío Quiroz\)](https://open.spotify.com/album/0qc0KQ2SxTBBbX8jMtAdH8) | 3:16 | 2022-07-06 | 2022-07-15 |
@@ -249,6 +249,7 @@
 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 | 2022-06-29 |  |
 | [Una Gran Verdad](https://open.spotify.com/track/30Z1wBhNJaxDl6vqUkVxTT) | [3 Camellos](https://open.spotify.com/artist/2yrmJCRF4obAjrtg2TjHV5) | [Sueños y Cicatrices](https://open.spotify.com/album/0n2mD7UD5oxCr9Lc5GEQ02) | 3:22 | 2022-06-29 | 2022-08-04 |
 | [Una Tregua](https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Hija del Rigor](https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO) | 3:30 | 2022-07-06 | 2022-11-08 |
+| [Una Vez Más](https://open.spotify.com/track/4gPlgQtE8ZbtWSoADLneBw) | [Lucho Al A77AQUE](https://open.spotify.com/artist/2cloS9NWMDt9emhfy9QUmA) | [Una Vez Más](https://open.spotify.com/album/6iZCkRzYbbwYLiHXLBn2mk) | 3:11 | 2023-08-18 |  |
 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 | 2022-07-19 |  |
 | [Valle de Valium](https://open.spotify.com/track/639KxyOYhHgaovDipRf4RY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Valle de Valium](https://open.spotify.com/album/6N2LPGfUDWFcxWRL6eOG7S) | 2:07 | 2022-07-19 | 2022-07-25 |
 | [Veneno](https://open.spotify.com/track/1oEiPMu3QKXsFNvNE8EU2R) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Veneno](https://open.spotify.com/album/40QUXWbQyuTJ98c0B1wJc8) | 2:41 | 2022-07-18 | 2022-07-20 |

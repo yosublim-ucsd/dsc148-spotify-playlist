@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-340 songs - 19 hr 31 min
+341 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Legend](https://open.spotify.com/track/0SRRejumehaZSuf1BJ6rVA) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Burden of Proof](https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3) | 3:04 | 2022-01-14 | 2022-05-24 |
 | [Lemme Breathe](https://open.spotify.com/track/19Pfkx07KgNwzqd5bpMTEt) | [Locksmith](https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa) | [Lemme Breathe](https://open.spotify.com/album/6GxLF1kruvXCzqVnuWF3c7) | 2:49 | 2022-02-25 | 2022-05-24 |
 | [LEMONADE](https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:59 | 2022-04-08 |  |
-| [Let It Breathe](https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Let It Breathe](https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia) | 3:24 | 2022-08-26 |  |
+| [Let It Breathe](https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Let It Breathe](https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia) | 3:24 | 2022-08-26 | 2023-08-19 |
 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-09 | 2022-11-12 |
 | [Life Of The Party \(with André 3000\)](https://open.spotify.com/track/2yBb1CRq98SSWRuDSn36SZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 6:31 | 2022-01-14 | 2022-03-26 |
 | [Lifetime](https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lifetime](https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb) | 2:15 | 2022-04-08 |  |
@@ -273,6 +273,7 @@
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2022-01-14 |  |
 | [Sign Language](https://open.spotify.com/track/5CiYxsCieteb5iMjrHAkvV) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Sign Language](https://open.spotify.com/album/33ls0tmm8ljjk3cuF14QyL) | 2:32 | 2022-01-14 | 2022-03-26 |
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:26 | 2022-01-14 | 2022-06-10 |
+| [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-08-18 |  |
 | [Slap](https://open.spotify.com/track/75VgEKfn6TL5W3hSPE81ZC) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Slap](https://open.spotify.com/album/4WFi8d3LcgKiJxXTHlNclv) | 4:04 | 2022-10-28 | 2022-12-17 |
 | [Smile \(with The Weeknd\)](https://open.spotify.com/track/09NtNfFG4vpHsAUbdUug0M) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Smile \(with The Weeknd\)](https://open.spotify.com/album/1NJfa8mJWJjYzigrMU6Fd3) | 3:16 | 2022-01-14 | 2022-07-08 |
 | [So Cool](https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [So Cool](https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk) | 1:51 | 2022-01-21 | 2022-07-29 |

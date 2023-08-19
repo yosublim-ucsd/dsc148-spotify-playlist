@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 178000,
       "name": "Kyaani",
       "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
@@ -2076,6 +2076,24 @@
       "duration_ms": 181224,
       "name": "Nguwayo",
       "url": "https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E"
+    },
+    {
+      "album": {
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
     },
     {
       "album": {

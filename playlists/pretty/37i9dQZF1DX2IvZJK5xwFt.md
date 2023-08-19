@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,439 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,538 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 6 | [Something To Hide](https://open.spotify.com/track/1hKDAx8YhDEX3tjynYj6uG) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Something To Hide](https://open.spotify.com/album/3zPbLl9qdGpL3MjCnWFBFe) | 1:59 |
 | 7 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
 | 8 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 |
-| 9 | [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 |
+| 9 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 |
 | 10 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 |
 | 11 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
 | 12 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [EVERGREEN](https://open.spotify.com/track/3qweD5uYsRyM7lJolHgeNZ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/21cbqbQqSBR42sriETNX8a) | 3:13 |
 | 75 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 
-Snapshot ID: `MCw3OTcxYmZhYmI3ZTBlMWMxNGNkMWNkZDllYWQ2YmYwOTQwZDNlOWNj`
+Snapshot ID: `MCwwYTJlMjU1YjNlYmY4ODQ0NjBiZGVmYzRmM2UwZjVkMTU3MzkzYmEw`

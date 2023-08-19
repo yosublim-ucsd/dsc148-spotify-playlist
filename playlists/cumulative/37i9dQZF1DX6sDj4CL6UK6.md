@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- brb., SIRUP
 
-229 songs - 13 hr 21 min
+230 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Dancing with my phone](https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:23 | 2023-05-19 |  |
 | [Dark Blue Sky](https://open.spotify.com/track/2q7SxiB53YPRj4NTLujb0P) | [Mimansa](https://open.spotify.com/artist/1ZChq8269HWtLsjugMFR0l) | [Dark Blue Sky](https://open.spotify.com/album/1aSfpHhHhjceiFnWofOJe6) | 4:07 | 2022-03-25 | 2022-05-26 |
 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 | 2023-03-16 | 2023-04-19 |
-| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 |  |
+| [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 | 2023-08-19 |
 | [Desert Island](https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Desert Island](https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29) | 3:28 | 2022-03-25 | 2023-05-20 |
 | [DFWM](https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Oceantied](https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3) | [DFWM](https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M) | 3:17 | 2022-03-25 | 2022-05-22 |
 | [Disconnect](https://open.spotify.com/track/2aiQyxSMWMvmKs4YC9Av7a) | [Pragnya Wakhlu](https://open.spotify.com/artist/2YIHuXM9ivsh3cGQ0Ne1tl) | [Disconnect](https://open.spotify.com/album/73Kr7Mho0OoSB7DCVUk0Ez) | 4:19 | 2022-09-02 | 2022-09-10 |
@@ -225,6 +225,7 @@
 | [Void](https://open.spotify.com/track/2O2O8SvRfKz2ALOIvqBazc) | [Aanchal Bordoloi](https://open.spotify.com/artist/69JXumQlC6KoLNevtXerF1), [Sanketh](https://open.spotify.com/artist/7qNrYaYetKPxHFlAX727BB) | [Void](https://open.spotify.com/album/1DcssSPO2Dio4imihI9FbK) | 6:40 | 2022-12-23 | 2023-01-13 |
 | [Walk Away](https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Walk Away](https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0) | 4:32 | 2023-06-21 |  |
 | [walk away](https://open.spotify.com/track/6N51hS8QG3ounVWetTnNP1) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 2:55 | 2023-05-19 | 2023-05-24 |
+| [Watch Out](https://open.spotify.com/track/16H86xNadfBh4Iyt7u3idn) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1), [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Watch Out](https://open.spotify.com/album/2uG4yn7ol8ohmFJfLBWIpf) | 4:02 | 2023-08-18 |  |
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-05-19 |  |
 | [Waves](https://open.spotify.com/track/6BqqBaaQPILuPRKqwl7Gyq) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Waves](https://open.spotify.com/album/4BiUDSP16xxTY1xowEipas) | 4:04 | 2023-05-19 | 2023-05-24 |
 | [Weatherman](https://open.spotify.com/track/1TqOLfxNA0nyRKanVioCMh) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Weatherman](https://open.spotify.com/album/00nclop2url6nQAx3OgJ6J) | 3:24 | 2023-02-07 | 2023-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,186 likes - 75 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,289 likes - 75 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 |
 | 75 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
 
-Snapshot ID: `MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5`
+Snapshot ID: `MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh`

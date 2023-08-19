@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,917 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,935 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 149 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 |
 | 150 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 |
 
-Snapshot ID: `MCxkOTMyZDM3ZWFkMmQ4ZDhjOGFlNTZhYzMyODM1ODY2MmMyODEyYzNk`
+Snapshot ID: `MCw4MGYwMDVmMTU5YWZlZjJlNDIxOWFiZmQ3YWU3NzQzZGVkMWQ2ZWIy`

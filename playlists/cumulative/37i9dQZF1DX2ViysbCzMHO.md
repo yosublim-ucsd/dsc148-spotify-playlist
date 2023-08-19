@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-245 songs - 13 hr 22 min
+247 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 | 2021-12-17 |  |
 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 | 2021-12-17 |  |
 | [All The Time \- Stripped](https://open.spotify.com/track/5szCtOKnYxYxDYadu18QmN) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [MDM Recordings 2022 Wrap Up \- Rarities, Remixes And The Hits](https://open.spotify.com/album/2IrlPDhlLnzh81xWyF1Rcj) | 3:05 | 2022-12-30 | 2023-01-25 |
-| [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 | 2021-12-17 |  |
+| [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 | 2021-12-17 | 2023-08-19 |
 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 | 2021-12-17 | 2022-01-15 |
 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 | 2021-12-17 |  |
 | [As You Leave \(undone\)](https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave \(undone\)](https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO) | 2:07 | 2022-07-29 |  |
@@ -119,7 +119,7 @@
 | [It's Been a Long Year, Man](https://open.spotify.com/track/0kIe6qFLvK6HQTgalrVrWM) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [It's Been a Long Year, Man](https://open.spotify.com/album/1LirwgQ5QXonB9ZC7NjuAf) | 2:48 | 2021-12-17 | 2022-06-18 |
 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 | 2021-12-17 |  |
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2021-12-17 | 2023-05-15 |
-| [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 |  |
+| [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 | 2023-08-19 |
 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-05-13 |
 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 | 2023-02-17 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |
@@ -161,6 +161,7 @@
 | [One Percent \(Acoustic\)](https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent \(Acoustic\)](https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9) | 3:24 | 2021-12-17 | 2022-08-13 |
 | [Only Us \- Acoustic](https://open.spotify.com/track/51pGduBpukl8Oy2qUEOAqS) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us \(Acoustic\)](https://open.spotify.com/album/7DhKXqfA3WJeyHIGjmwfgW) | 2:35 | 2021-12-17 | 2022-07-25 |
 | [Out of Control](https://open.spotify.com/track/2CDTMmZoWyH3MzuHJv1HV1) | [John Allan Miller](https://open.spotify.com/artist/3OA83BpwDodzEIX46SnrXt) | [Out of Control](https://open.spotify.com/album/5QjAxWodrYxRGdTc8vdzBa) | 4:01 | 2021-12-17 | 2022-07-10 |
+| [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 | 2023-08-18 |  |
 | [Peaked In High School](https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Peaked In High School](https://open.spotify.com/album/7KVwTd8XEzs4AapEn192w5) | 2:39 | 2021-12-17 |  |
 | [Prayed for You \- Stripped](https://open.spotify.com/track/4E0CDL8y82NHasSj2fH0D7) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Prayed for You \(Stripped\)](https://open.spotify.com/album/3gGm6qQHqiLWYmFegpGid0) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Prayed For You \- Wedding Version](https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Prayed For You \(Wedding Version\)](https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO) | 3:25 | 2022-07-15 |  |
@@ -253,5 +254,6 @@
 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
 | [You Shouldn't Have \- Acoustic](https://open.spotify.com/track/5yeccia0PoUhrNwbL6s4uO) | [Cale Dodds](https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt) | [You Shouldn't Have \(Acoustic\)](https://open.spotify.com/album/53R4FtEIlu4fGpVI9GtI0r) | 2:46 | 2021-12-17 | 2022-07-10 |
 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 | 2023-07-28 |  |
+| [Your Love \- Acoustic](https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Your Love \(Acoustic\)](https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt) | 3:09 | 2023-08-18 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

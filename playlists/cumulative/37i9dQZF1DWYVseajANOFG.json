@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "1 Nama",
+        "url": "https://open.spotify.com/album/1GAdNblRGeB1WdVIIiGg4E"
+      },
+      "artists": [
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186564,
+      "name": "1 Nama",
+      "url": "https://open.spotify.com/track/32fgHXElFZJik9myG08AUE"
+    },
+    {
+      "album": {
         "name": "10 Lunas",
         "url": "https://open.spotify.com/album/2YtEphndYtXqzWPSvd8Oe1"
       },
@@ -238,7 +260,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 222815,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/750qz7e8SNDOEaOe3rRVXY"
@@ -1241,6 +1263,36 @@
     },
     {
       "album": {
+        "name": "FF (feat. Valentino GRM)",
+        "url": "https://open.spotify.com/album/1HvtGmTFRyqtoSaxB2BWQo"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "PM Beatz",
+          "url": "https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp"
+        },
+        {
+          "name": "Italian Somali",
+          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "FF (feat. Valentino GRM)",
+      "url": "https://open.spotify.com/track/4zUxg85j33zKanqSblgUUf"
+    },
+    {
+      "album": {
         "name": "Follie Flow",
         "url": "https://open.spotify.com/album/3nUT1eQTC3nInvAVQK9nNv"
       },
@@ -2080,7 +2132,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 227653,
       "name": "Lollipop (feat. Faster)",
       "url": "https://open.spotify.com/track/5Kuz2B5fkTmTGFXUYz1tO5"
@@ -2948,7 +3000,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 360960,
       "name": "Pa M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
@@ -3577,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Si Seguimos Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4qPHQCkbyk1SeFz5gHMMjA"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175093,
+      "name": "Si Seguimos Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0xKj6q6Vc73dPbmEI5rZ2I"
+    },
+    {
+      "album": {
         "name": "Si Te Vas",
         "url": "https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq"
       },
@@ -4101,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "Tus Labios",
+        "url": "https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175662,
+      "name": "Tus Labios",
+      "url": "https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -4384,7 +4472,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225600,
       "name": "YA NO M\u00c1S",
       "url": "https://open.spotify.com/track/4POhXYdSOIE4idFgMzt4Rd"

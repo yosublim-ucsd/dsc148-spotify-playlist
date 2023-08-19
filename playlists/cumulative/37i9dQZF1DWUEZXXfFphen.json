@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 157968,
       "name": "F\u00f3rmula 1",
       "url": "https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB"
@@ -1910,6 +1910,24 @@
       "duration_ms": 265386,
       "name": "Nuestra Canci\u00f3n (feat. Vicente Garc\u00eda)",
       "url": "https://open.spotify.com/track/0qP9Kt3gmpDFoDUzl3REGs"
+    },
+    {
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
     },
     {
       "album": {

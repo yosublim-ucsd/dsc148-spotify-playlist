@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,940 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,997 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Never Coming Home](https://open.spotify.com/track/0N0WwX2M7mN4TiLXRyKkCR) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Never Coming Home](https://open.spotify.com/album/5rGjW2lMjnC8slwNarPvpS) | 4:00 |
 | 80 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
 
-Snapshot ID: `MCw4NzFkYThmZmE1YjFlMDA0OTM4OGU4ZDk4ZGEwMmQ3ODM1YjQzMDRh`
+Snapshot ID: `MCxmYzYyYTg2MmRmMTI1Y2ViODdlYzcyMGQxYTZkMTA3ZTI4ZmFmMjVm`

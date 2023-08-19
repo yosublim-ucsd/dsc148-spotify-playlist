@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190005,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
@@ -1580,6 +1580,36 @@
       "duration_ms": 153694,
       "name": "Drugs Du Jour",
       "url": "https://open.spotify.com/track/62HGGtTszF9K7xl5G2uuJp"
+    },
+    {
+      "album": {
+        "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+        "url": "https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/7CSAqTFm0mlnIQOCtzi6NV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245041,
+      "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
+      "url": "https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1"
     },
     {
       "album": {
@@ -2696,6 +2726,24 @@
       "duration_ms": 182750,
       "name": "It's Quiet Now (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "album": {
+        "name": "J'adore",
+        "url": "https://open.spotify.com/album/1WUIUtEcyOdIjnjosifXK0"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182827,
+      "name": "J'adore",
+      "url": "https://open.spotify.com/track/3ZspQSOFcZZfRZhNoYDPLs"
     },
     {
       "album": {
@@ -4175,6 +4223,32 @@
     },
     {
       "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
         "name": "Pretty Girl",
         "url": "https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h"
       },
@@ -4682,7 +4756,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 319177,
       "name": "SK9 (Release Me)",
       "url": "https://open.spotify.com/track/610VjIrTW7TSuUEv0WIRlZ"
@@ -5639,6 +5713,32 @@
     },
     {
       "album": {
+        "name": "GORILLA WARFARE",
+        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "WARFARE",
+      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
+    },
+    {
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
@@ -5808,7 +5908,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 248697,
       "name": "Werser",
       "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
@@ -6190,7 +6290,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 365853,
       "name": "You're in My System - Dennis Quin Vocal Mix",
       "url": "https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL"

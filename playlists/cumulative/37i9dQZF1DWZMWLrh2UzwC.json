@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
+    },
+    {
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -2892,6 +2914,24 @@
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
+    },
+    {
+      "album": {
+        "name": "A.I. BAE",
+        "url": "https://open.spotify.com/album/0rspt1FshtLYtBqTrkPKlz"
+      },
+      "artists": [
+        {
+          "name": "LE'V",
+          "url": "https://open.spotify.com/artist/5pJbnJwUN5otW0C5b7RXXz"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "A.I.BAE - Korean Ver.",
+      "url": "https://open.spotify.com/track/0TC5Bzz2hlYSt5bNszw2Jp"
     },
     {
       "album": {
@@ -12096,6 +12136,24 @@
       "duration_ms": 189512,
       "name": "Better Than To Brood",
       "url": "https://open.spotify.com/track/76W65UxnP1syWuHk7ZFpyo"
+    },
+    {
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "album": {
@@ -25336,10 +25394,32 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 268653,
       "name": "Damage Gets Done",
       "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268653,
+      "name": "Damage Gets Done (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
     },
     {
       "album": {
@@ -42044,6 +42124,24 @@
       "duration_ms": 277223,
       "name": "Futaba",
       "url": "https://open.spotify.com/track/1pMLd34D90q6ojWHe32z2R"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258542,
+      "name": "Future (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV"
     },
     {
       "album": {
@@ -59548,7 +59646,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224000,
       "name": "INSOMNIA",
       "url": "https://open.spotify.com/track/6Z7VHuL2NLAeo95uBWKg8Z"
@@ -63684,6 +63782,24 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO"
+    },
+    {
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "album": {
@@ -81839,7 +81955,7 @@
     },
     {
       "album": {
-        "name": "NO PLACE IS TOO FAR (feat. Whethan & Sela Sol)",
+        "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
         "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
       },
       "artists": [
@@ -81860,7 +81976,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180903,
-      "name": "NO PLACE IS TOO FAR (feat. Whethan & Sela Sol)",
+      "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
       "url": "https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR"
     },
     {
@@ -103725,6 +103841,24 @@
     },
     {
       "album": {
+        "name": "ALL MY GIRLS",
+        "url": "https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
+    },
+    {
+      "album": {
         "name": "Sleep Crying",
         "url": "https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb"
       },
@@ -110022,6 +110156,24 @@
       "duration_ms": 212391,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/5lI6k5j7a25q3IrtAEe0JF"
+    },
+    {
+      "album": {
+        "name": "Lingering Gloaming",
+        "url": "https://open.spotify.com/album/6KgLif7JIfrESE5l1nkLiS"
+      },
+      "artists": [
+        {
+          "name": "YONLAPA",
+          "url": "https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287875,
+      "name": "Sunday Gloaming",
+      "url": "https://open.spotify.com/track/0IepVdzzw52fPpzwff9qWr"
     },
     {
       "album": {

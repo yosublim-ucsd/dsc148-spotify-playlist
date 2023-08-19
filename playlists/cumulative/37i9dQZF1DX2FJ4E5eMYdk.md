@@ -4,7 +4,7 @@
 
 > groovy.
 
-127 songs - 8 hr 52 min
+128 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 | 2021-10-08 |  |
 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 | 2021-10-08 | 2022-09-05 |
 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 | 2021-10-08 | 2022-07-29 |
-| [Hey Man](https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:56 | 2022-07-22 |  |
+| [Hey Man](https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:56 | 2022-07-22 | 2023-08-19 |
 | [Hippo](https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:20 | 2022-07-22 |  |
 | [Hippo](https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Hippo](https://open.spotify.com/album/1w2SKr8HERIcQbsP3kWEUB) | 2:20 | 2022-04-15 | 2022-07-27 |
 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 | 2021-10-08 | 2023-03-10 |
@@ -58,6 +58,7 @@
 | [Island Time](https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Jamtown](https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL) | 3:55 | 2022-07-22 |  |
 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 | 2021-10-08 |  |
 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 | 2021-10-08 |  |
+| [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 | 2023-08-18 |  |
 | [Kaufman's Ballad](https://open.spotify.com/track/792ebNEUn9ndC6GT54a7hc) | [Megafaun](https://open.spotify.com/artist/0o1wK6uAmkrixovsE80lMR) | [Gather, Form & Fly](https://open.spotify.com/album/7iFwHuSyqONu2CmFjWY12E) | 3:56 | 2021-10-08 | 2022-06-26 |
 | [Kingfisher](https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu) | 6:58 | 2022-07-22 |  |
 | [Kingfisher](https://open.spotify.com/track/6Phj3iOnTi0haVX6dPnzoQ) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Ruins](https://open.spotify.com/album/7hL5azg6n7pSKu5sumueBL) | 6:58 | 2021-10-08 | 2022-07-29 |

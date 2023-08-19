@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,150 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,206 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 |
 | 50 | [Mfalme Wa Amani](https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W) | [Solomon Mkubwa](https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ) | [Mfalme Wa Amani](https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG) | 7:52 |
 
-Snapshot ID: `MCxiNDEyN2I1MDc3YzdiOTlmYTNmN2Y1ODEwYjgzODgzYTFiMTkzNTgx`
+Snapshot ID: `MCwxODNhZWYxNjY2MTczNjMwNzEyNjI5MzA2NjE5YjZjZWFjMDk2ZDVj`

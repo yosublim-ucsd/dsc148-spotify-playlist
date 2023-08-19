@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,002 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,015 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 16 | [Smart](https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 |
 | 17 | [FBLA II](https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 |
 | 18 | [I Know](https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 |
-| 19 | [Renovation](https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:55 |
+| 19 | [Pure](https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:33 |
 | 20 | [Bad Mood](https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:13 |
 | 21 | [Turned Out](https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:13 |
 | 22 | [Tic](https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 |
-| 23 | [Pure](https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:33 |
+| 23 | [Renovation](https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:55 |
 | 24 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
 | 25 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 |
 | 26 | [Taken](https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 1:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 39 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
 | 40 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 
-Snapshot ID: `MjgyMDMyNjEsMDAwMDAwMDA4ZGZjZTE4NDU2ZDYxNTRiYTEyZjU1NTQyZmY0ODdiYw==`
+Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDAzN2MzZjZiZTViMmQ1ZGZkMmNjNGEwNWMwNGM1YjdiNQ==`

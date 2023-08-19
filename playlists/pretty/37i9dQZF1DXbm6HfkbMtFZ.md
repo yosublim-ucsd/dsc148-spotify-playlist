@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,179 likes - 115 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,325 likes - 115 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Somebody Made For Me](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 2:26 |
 | 115 | [Gold Past Life](https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:29 |
 
-Snapshot ID: `MCwzNDI3OGYzODBkZDc2MzcwNTNhZmUzMGI3NmFiYTY3MDg5N2RmYmM5`
+Snapshot ID: `MCxkZTdiODc2NjI0ODM5ZmUwOGYzYmFkZmRjNWZiYzM4YzY2NWM1YmU2`

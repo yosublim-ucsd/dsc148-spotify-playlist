@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: Nicki Minaj + Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,975 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,028 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 |
 | 50 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 |
 
-Snapshot ID: `MCw0MTQyM2MzNzI1MDE2OGRhMmIwMzY1ZTBkOTc1Y2JlZTZhMDI2NzBh`
+Snapshot ID: `MCw5YjY1NzY1NjYzN2M5N2Q4ODM4MDNmZDRiMTJmMDNkZmJkM2ZkMDJk`

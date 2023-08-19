@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Marnik, Naeleck, VINAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775,416 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776,045 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 18 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 |
 | 19 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
 | 20 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
-| 21 | [Say It Right](https://open.spotify.com/track/277npP054GjDHwgYie3DQe) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Say It Right](https://open.spotify.com/album/0lkiTxItLkDrby7PuOurJO) | 2:45 |
+| 21 | [Say It Right](https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Say It Right](https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH) | 2:45 |
 | 22 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 |
 | 23 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 |
 | 24 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 |
 | 50 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 |
 
-Snapshot ID: `MCw2MTg4ZjFhY2FmNjNmMjhmZTdjNzk0MWJlMGY4ODIzMWNmM2Y2Mjc4`
+Snapshot ID: `MCw4ZmRlNjZiODM1ZDA1ODE0Y2E1NzQ2MTM4YTRjYWI5YmNkNzE5Nzc1`

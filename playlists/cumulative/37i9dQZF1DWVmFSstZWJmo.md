@@ -4,7 +4,7 @@
 
 > Is "indie sleaze" in the room with us now? ft\. Master Peace
 
-175 songs - 10 hr 59 min
+176 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bitter Rivals](https://open.spotify.com/track/2BEuuuOM1boOTn2i2T5MfR) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Bitter Rivals](https://open.spotify.com/album/6ayZLCTswNZyXpTWtvnENL) | 3:19 | 2023-03-03 | 2023-08-03 |
 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 | 2023-05-17 | 2023-08-03 |
 | [Blow \- Cirkut Remix](https://open.spotify.com/track/6OUkQGd1Wt2SuTctHdZPfj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [I Am The Dance Commander + I Command You To Dance: The Remix Album](https://open.spotify.com/album/4OcwiwMiAXhAbe4AlHjSvN) | 4:05 | 2023-04-14 | 2023-04-27 |
-| [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2023-02-16 |  |
+| [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2023-02-16 | 2023-08-19 |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2022-11-10 |  |
 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 | 2023-01-11 | 2023-08-03 |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2022-11-10 |  |
@@ -163,6 +163,7 @@
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2022-11-10 |  |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-11-10 |  |
 | [Train](https://open.spotify.com/track/5K0wFZ89FiiiXJPhhD77Nb) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 4:11 | 2023-04-14 | 2023-04-27 |
+| [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 | 2023-08-18 |  |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2022-11-10 | 2023-02-02 |
 | [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 | 2023-01-10 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-11-10 |  |

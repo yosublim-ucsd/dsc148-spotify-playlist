@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Giggs",
-  "num_followers": 15500,
+  "num_followers": 15553,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2U3NTViNTdiOGY3ZTNjOWM5MGJhMTY4YzQ3MThiZWI3NTNjMGZm",
+  "snapshot_id": "MCxjYWFmZTEwNDFhZGE1YzNjNjAxNmE0M2IyM2I4NjFjYzA4M2Q2ODc4",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -55,8 +55,8 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3"
+        "name": "Before the Smoke",
+        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
       },
       "artists": [
         {
@@ -69,8 +69,8 @@
         }
       ],
       "duration_ms": 143692,
-      "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU"
+      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "NDI IKE",
+        "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 155644,
+      "name": "NDI IKE",
+      "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
       },
@@ -1103,30 +1127,6 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "NDI IKE",
-        "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 155644,
-      "name": "NDI IKE",
-      "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
     },
     {
       "added_at": "2023-08-17 23:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Ryan Bingham",
+  "description": "A new shade of Country. Cover: Sierra Ferrell",
   "name": "Indigo",
   "tracks": [
     {
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 263899,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0"
@@ -4627,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
+    },
+    {
+      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -5286,7 +5304,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 240840,
       "name": "Middle of a Heart",
       "url": "https://open.spotify.com/track/2w7MGuFvgpc7UXSf0ZLLC0"
@@ -5304,7 +5322,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 271335,
       "name": "Mighty Beast",
       "url": "https://open.spotify.com/track/4tyP3hJbZSD26PTo3K5PW5"
@@ -5908,6 +5926,24 @@
       "duration_ms": 191506,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/0s0ExKwCRYPLZVw8qkGvbv"
+    },
+    {
+      "album": {
+        "name": "patches",
+        "url": "https://open.spotify.com/album/3ummiDN168EzHP1vIMPOcU"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "patches",
+      "url": "https://open.spotify.com/track/54PBgesYzwCsJSWBqy50gW"
     },
     {
       "album": {
@@ -7262,7 +7298,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 209278,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1MLcWGkyKGra0HnG0i25Ao"
@@ -7906,7 +7942,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228431,
       "name": "This Time",
       "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
@@ -8618,6 +8654,24 @@
       "duration_ms": 231749,
       "name": "White Dove",
       "url": "https://open.spotify.com/track/5SBpklyXHt6ledjUTz3TJ6"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
     },
     {
       "album": {

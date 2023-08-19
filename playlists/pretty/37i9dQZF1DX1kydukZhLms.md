@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,896 likes - 110 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,657 likes - 110 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 109 | [You're All I Need](https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(2021 \- Remaster\)](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:33 |
 | 110 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
 
-Snapshot ID: `MCw0MDRkNTIwMWIzZGEzMjU1YTIyNzM5MjhkN2RkM2M3Njg1ZjAzOGE4`
+Snapshot ID: `MCxjZmYwZWQyZDk1ZDdkM2JiZDYwMjRjMmYwZDFmNDM4YmM4YmNhOWNl`

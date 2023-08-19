@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: SIX LOUNGE
 
-150 songs - 9 hr 9 min
+151 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,10 @@
 | [Aoiharu](https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40) | [Misekai](https://open.spotify.com/artist/3D3rPrHQXf7RGhWPNtVNHk) | [Aoiharu](https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN) | 2:58 | 2023-07-27 |  |
 | [Aoino](https://open.spotify.com/track/58DKv9iDxecGRymyyCSH7t) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FLOWERS](https://open.spotify.com/album/5nSKf0TUKnosCEBuLJPcVC) | 4:05 | 2023-07-27 |  |
 | [AOTOHARU](https://open.spotify.com/track/0jndSJguaUF4ERgMBFmDGI) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [AOTOHARU](https://open.spotify.com/album/1JFNHo7DcKh0mmcwHg4S4V) | 4:33 | 2023-07-27 | 2023-08-16 |
+| [Banka no Akashi](https://open.spotify.com/track/3fWAGzcV3G4XYu6kEsTMU7) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Banka no Akashi](https://open.spotify.com/album/7Dfb8hb12z23KuFpeLnmjJ) | 5:45 | 2023-08-17 |  |
 | [Banquet](https://open.spotify.com/track/2gUrRUgr10dRIqRXWtbZsZ) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Banquet](https://open.spotify.com/album/1mLswaDUHOOUoxgevsNs9T) | 3:51 | 2023-07-27 |  |
 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 |  |
-| [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-07-27 |  |
+| [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-07-27 | 2023-08-19 |
 | [Blue Youth](https://open.spotify.com/track/04zTPJMXog2HpYK2mK5Wdg) | [Hikarinonakani](https://open.spotify.com/artist/7v1EcexaWSP0Ra29bQCsnm) | [Blue Youth](https://open.spotify.com/album/5fQudcd31VvtMr4IvFEWwo) | 1:48 | 2023-07-27 |  |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-07-27 |  |
 | [Boys&Boys](https://open.spotify.com/track/7xJZ7QeXbRMEmzMiE1hepV) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [& Boys](https://open.spotify.com/album/7ggmoPLAxF87ltWZH4Lcm8) | 2:50 | 2023-08-08 | 2023-08-16 |
@@ -126,7 +127,7 @@
 | [少年讃歌](https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [少年讃歌](https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne) | 3:42 | 2023-08-17 |  |
 | [幻陽](https://open.spotify.com/track/7DSNoKeR28MdcU1kSGwjz1) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [幻陽](https://open.spotify.com/album/4iTDgRLajqImZ6lnImUaD3) | 3:57 | 2023-08-08 | 2023-08-10 |
 | [恋のジャーナル](https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [恋のジャーナル](https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX) | 3:40 | 2023-07-27 |  |
-| [恋セヨ乙女](https://open.spotify.com/track/0YV0aJFQ3ZZpzQsfaraaC8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [恋セヨ乙女](https://open.spotify.com/album/47o2RFUP2cpmg5Nl1dBRFc) | 3:29 | 2023-07-27 | 2023-08-18 |
+| [恋セヨ乙女](https://open.spotify.com/track/0YV0aJFQ3ZZpzQsfaraaC8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [恋セヨ乙女](https://open.spotify.com/album/47o2RFUP2cpmg5Nl1dBRFc) | 3:29 | 2023-07-27 |  |
 | [悲しみはバスに乗って](https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [悲しみはバスに乗って](https://open.spotify.com/album/4x7fCYXopnEfgQIkp9vNpq) | 3:55 | 2023-08-15 |  |
 | [愛してるって](https://open.spotify.com/track/5et9C4LRKM9hJjPzuZRhmv) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [DOPAMINE](https://open.spotify.com/album/4HvRTaeyzeSVXOHcPStadL) | 2:58 | 2023-07-27 |  |
 | [愛する人](https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [midori](https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd) | 3:29 | 2023-07-27 |  |
@@ -134,7 +135,7 @@
 | [感傷謳歌](https://open.spotify.com/track/3TLvVHq7a7fKlerM0SLnFd) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [浪漫](https://open.spotify.com/album/0KEpY0QseuNMCJSvOrSaoZ) | 4:33 | 2023-07-27 |  |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-07-27 |  |
 | [春時雨](https://open.spotify.com/track/2r8JOEVYE1zfKmibXja6Hz) | [RIP DISHONOR](https://open.spotify.com/artist/4aDGKnZOq8zStrKXfR3pWu) | [春時雨](https://open.spotify.com/album/2nkTLVmUPnMDhFzBPBp4ln) | 4:29 | 2023-08-08 |  |
-| [晩夏の証](https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [晩夏の証](https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd) | 5:45 | 2023-08-17 |  |
+| [晩夏の証](https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [晩夏の証](https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd) | 5:45 | 2023-08-17 | 2023-08-19 |
 | [晴れるな](https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [晴れるな](https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS) | 3:08 | 2023-07-27 |  |
 | [未恋](https://open.spotify.com/track/7di9SUFpG3DttWIodKMhJ0) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [未恋](https://open.spotify.com/album/4QhL2RqwlVwJy8S8hQJ7LA) | 2:53 | 2023-07-27 |  |
 | [桃源郷](https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo) | [シャイトープ](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [桃源郷](https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3) | 4:03 | 2023-07-27 |  |

@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Aproximaci\u00f3n",
+        "url": "https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "Aproximaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl"
+    },
+    {
+      "album": {
         "name": "Ariel",
         "url": "https://open.spotify.com/album/7eb9kb0GxEUuK8HFuWKIya"
       },
@@ -576,7 +594,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 118345,
       "name": "AVE MAR\u00cdA",
       "url": "https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 211625,
       "name": "A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ"
@@ -2803,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/4ppNBiUfwrULt33mJfejJq"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o Azul",
+          "url": "https://open.spotify.com/artist/0AbJsFRfN5wTdbvA8hRfzL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205303,
+      "name": "Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/3zAZ2WVP5IOQx9mX7spd9f"
+    },
+    {
+      "album": {
         "name": "El Resto de los D\u00edas",
         "url": "https://open.spotify.com/album/0XqoGBuZ30uBpXlfBlSQx5"
       },
@@ -3028,6 +3064,24 @@
       "duration_ms": 209032,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
+    },
+    {
+      "album": {
+        "name": "Fantasmas (slowed + reverb)",
+        "url": "https://open.spotify.com/album/0WluWb6AdddwVLdgiafO3x"
+      },
+      "artists": [
+        {
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Fantasmas - slowed + reverb",
+      "url": "https://open.spotify.com/track/5XdM70WbXSbQxTvqS4zfCh"
     },
     {
       "album": {
@@ -3768,7 +3822,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 180000,
       "name": "INSOMNIO",
       "url": "https://open.spotify.com/track/6FGNGgELK5TVERJ5FkSsbt"
@@ -3812,6 +3866,24 @@
       "duration_ms": 251295,
       "name": "Interminable",
       "url": "https://open.spotify.com/track/3GBrUS3qZMgNfKxJH98uaO"
+    },
+    {
+      "album": {
+        "name": "Intermodal",
+        "url": "https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Nojutsu",
+          "url": "https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174014,
+      "name": "Intermodal",
+      "url": "https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3"
     },
     {
       "album": {
@@ -5145,6 +5217,24 @@
     },
     {
       "album": {
+        "name": "Mercurio",
+        "url": "https://open.spotify.com/album/11o8WvVx0QdodULqx6bmYY"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123245,
+      "name": "Mercurio",
+      "url": "https://open.spotify.com/track/4A6Xvi8gu5xBDw8oKrintA"
+    },
+    {
+      "album": {
         "name": "Metralleta",
         "url": "https://open.spotify.com/album/5nY5psozTUXskeoczm947N"
       },
@@ -6134,7 +6224,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 246782,
       "name": "Nuevo Intento",
       "url": "https://open.spotify.com/track/05qJwSNJl8SsPl7kKPd1oV"
@@ -6152,7 +6242,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 145750,
       "name": "Nuevo Plano",
       "url": "https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce"
@@ -6587,6 +6677,24 @@
     },
     {
       "album": {
+        "name": "Pel\u00edculas",
+        "url": "https://open.spotify.com/album/2RTl5fM28Rc2lggk3DHyDP"
+      },
+      "artists": [
+        {
+          "name": "Cometas",
+          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195278,
+      "name": "Pel\u00edculas",
+      "url": "https://open.spotify.com/track/2eA82wt6JHOvTI78V1kpg9"
+    },
+    {
+      "album": {
         "name": "Telep\u00e1ticos",
         "url": "https://open.spotify.com/album/6YgQWUn6lSmFiG9EPgtEqZ"
       },
@@ -6992,6 +7100,24 @@
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
+    },
+    {
+      "album": {
+        "name": "Pussy Pancake",
+        "url": "https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0"
+      },
+      "artists": [
+        {
+          "name": "Kill Flora",
+          "url": "https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Pussy Pancake",
+      "url": "https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM"
     },
     {
       "album": {
@@ -7714,7 +7840,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 218211,
       "name": "Solo los Dos",
       "url": "https://open.spotify.com/track/3t1gIKQljAz0AUin4tWRdA"
@@ -7790,7 +7916,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"

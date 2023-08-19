@@ -2,9 +2,9 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Hits con sabor\. Cover: Chayanne
+> Hits con sabor\. Cover: Carlos Vives & Juanes
 
-285 songs - 18 hr 28 min
+286 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2) | 3:11 | 2022-02-14 | 2022-12-06 |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2021-12-03 | 2023-06-03 |
 | [Las Locuras Mías](https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 3:42 | 2022-02-14 |  |
+| [Las Mujeres](https://open.spotify.com/track/1wvxclslngApTRBA3gZFn6) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Las Mujeres](https://open.spotify.com/album/1nMJ6Cjyc6yTWoKToZoP6c) | 3:40 | 2023-08-18 |  |
 | [Las Puertas del Cielo](https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Las Puertas del Cielo](https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7) | 3:52 | 2022-02-14 |  |
 | [Llego El Real Remix](https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Llego El Real Remix](https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8) | 3:41 | 2022-02-14 |  |
 | [Lloraras](https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [15 Exitos De\- Oscar D Leon](https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i) | 3:41 | 2021-12-03 | 2022-02-15 |
@@ -274,7 +275,7 @@
 | [Uno de los Dos](https://open.spotify.com/track/0GuebVpkNITyobZ52oLTqf) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Mas De Mi](https://open.spotify.com/album/21Q82X4xEiZNbFHEmhZTX3) | 4:24 | 2021-12-03 | 2023-01-13 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-19 |  |
 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 | 2021-12-03 |  |
-| [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 | 2022-04-15 |  |
+| [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 | 2022-04-15 | 2023-08-19 |
 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/1A474NyT5UKjqElE2JN6Km) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/1QB4xPIhfndD41wrNJhXKw) | 4:34 | 2021-12-03 | 2022-02-15 |
 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 | 2022-01-28 |  |
 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2022-02-14 |  |

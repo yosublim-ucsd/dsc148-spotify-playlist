@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$$$$",
+        "url": "https://open.spotify.com/album/0JcZZ5rceNRasPUJA3Zyvv"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150730,
+      "name": "$$$$",
+      "url": "https://open.spotify.com/track/2qpaF08CjieNZtUU4DmfTi"
+    },
+    {
+      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
         "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
@@ -111,6 +129,24 @@
     },
     {
       "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181639,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
+    },
+    {
+      "album": {
         "name": "90s American Superstar",
         "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
       },
@@ -158,7 +194,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 206390,
       "name": "A Mere Blip In Your Timeline",
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 182400,
       "name": "Dirt Cheap",
       "url": "https://open.spotify.com/track/6fWAyMm3JXgX9mdgsVVI8r"
@@ -2118,7 +2154,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 181935,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/4WFIPUgCBQdDpg4S5lvrKl"
@@ -2590,7 +2626,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 206524,
       "name": "Escape From The Killer 2008",
       "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
@@ -2652,6 +2688,24 @@
       "duration_ms": 240034,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/5HnXOTeVcw7X42yK7JcOW0"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182076,
+      "name": "Every Second",
+      "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
     },
     {
       "album": {
@@ -4048,7 +4102,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190559,
       "name": "Honey Filled Skies",
       "url": "https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd"
@@ -8857,6 +8911,28 @@
     },
     {
       "album": {
+        "name": "The Dark Prince (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214356,
+      "name": "The Dark Prince (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
       },
@@ -9374,7 +9450,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 222645,
       "name": "Turbo",
       "url": "https://open.spotify.com/track/6muijR8MRpGebvqYGirdnH"

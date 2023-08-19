@@ -3845,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Sin Seguro",
+        "url": "https://open.spotify.com/album/6kLqLQ54MsqhTirkuDZfu8"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/63Evq6spRulb51uVevqui3"
       },

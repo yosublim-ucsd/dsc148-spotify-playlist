@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-152 songs - 10 hr 32 min
+153 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Who Will Come for Me](https://open.spotify.com/track/7hEsiIvB2jg0BI3Xe8F4eg) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/5koT5jFcF9Iy0iZjG09rBT) | 4:38 | 2020-11-05 |  |
 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 | 2020-11-05 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-11-05 | 2022-09-10 |
+| [Wrong Kind of Right](https://open.spotify.com/track/4c22tbNUTkhfIxiUPQucf3) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 4:39 | 2023-08-18 |  |
 | [You Ruined That Song For Me](https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [You Ruined That Song For Me](https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV) | 3:19 | 2022-09-02 |  |
 | [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 | 2020-11-05 | 2023-04-30 |
 | [You Were Mine](https://open.spotify.com/track/6RAfGW0UE6DS1tysl71axP) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/73FfFoBNTaiRsKEOH0Mxpk) | 3:43 | 2020-11-05 | 2022-11-13 |

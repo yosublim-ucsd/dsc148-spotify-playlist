@@ -1,12 +1,12 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 64504,
+  "num_followers": 64528,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjAwNjE4ZDZhNjEyNTA5YzUyM2IxYWZjMGE2Y2IyMzI2MjdkYTdi",
+  "snapshot_id": "MCxiZTU3ZTA0Zjk0MzJlMmMxYzZiOWY5YjQ4ZDhkYzEyN2QwYjA5YzBk",
   "tracks": [
     {
       "added_at": "2023-08-14 05:24:16",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-14 05:24:16",
       "album": {
-        "name": "\u91cd\u62fe_\u5feb\u6a02",
-        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 239865,
-      "name": "\u5b64\u7368\u5a1b\u6a02",
-      "url": "https://open.spotify.com/track/1DuFU3yhIFi8kYwI3BlmnA"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
         "name": "\u4e91\u4e0e\u6d77",
         "url": "https://open.spotify.com/album/6tIjwebyviEJm1hwPgntT3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258265,
       "name": "\u4e91\u4e0e\u6d77",
       "url": "https://open.spotify.com/track/4814KsdDzuXNOEey4b4FDj"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
+        "name": "\u91cd\u62fe_\u5feb\u6a02",
+        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 239865,
+      "name": "\u5b64\u7368\u5a1b\u6a02",
+      "url": "https://open.spotify.com/track/1DuFU3yhIFi8kYwI3BlmnA"
     },
     {
       "added_at": "2023-08-14 05:24:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-14 05:24:16",
       "album": {
-        "name": "\u8e2e\u8d77\u8173\u5c16\u611b (HPY Version)",
-        "url": "https://open.spotify.com/album/23fhPRWsq132UKEZvmepd1"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "\u8e2e\u8d77\u8173\u5c16\u611b - HPY Version",
-      "url": "https://open.spotify.com/track/7sd7BzMPJuNJDXpobsPdQ7"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
         "name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
         "url": "https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 281799,
       "name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
       "url": "https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
-        "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
     },
     {
       "added_at": "2023-08-14 05:24:16",
@@ -811,6 +779,38 @@
     {
       "added_at": "2023-08-14 05:24:16",
       "album": {
+        "name": "\u8e2e\u8d77\u8173\u5c16\u611b (HPY Version)",
+        "url": "https://open.spotify.com/album/23fhPRWsq132UKEZvmepd1"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 287200,
+      "name": "\u8e2e\u8d77\u8173\u5c16\u611b - HPY Version",
+      "url": "https://open.spotify.com/track/7sd7BzMPJuNJDXpobsPdQ7"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
+        "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 301875,
       "name": "\u5982\u679c\u6211\u6c92\u6709\u50b7\u53e3",
       "url": "https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
-        "name": "\u6703\u627e\u5230\u6211",
-        "url": "https://open.spotify.com/album/2R2RBaPMBLThbU5YZlA6cc"
-      },
-      "artists": [
-        {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        }
-      ],
-      "duration_ms": 228718,
-      "name": "\u6703\u627e\u5230\u6211",
-      "url": "https://open.spotify.com/track/1xclVAVV2GqqIyMB9JAZAf"
     },
     {
       "added_at": "2023-08-14 05:24:16",
@@ -875,6 +859,42 @@
     {
       "added_at": "2023-08-14 05:24:16",
       "album": {
+        "name": "\u6eab\u67d4 #MaydayBlue20th",
+        "url": "https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        },
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 271018,
+      "name": "\u6eab\u67d4 #MaydayBlue20th - feat.\u5b6b\u71d5\u59ff",
+      "url": "https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
+        "name": "\u6703\u627e\u5230\u6211",
+        "url": "https://open.spotify.com/album/2R2RBaPMBLThbU5YZlA6cc"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "duration_ms": 228718,
+      "name": "\u6703\u627e\u5230\u6211",
+      "url": "https://open.spotify.com/track/1xclVAVV2GqqIyMB9JAZAf"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
         "name": "\u9ed1\u6697\u7684\u76e1\u982d",
         "url": "https://open.spotify.com/album/4ZRMDljMgqg3ZtpL4KtfVP"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 275733,
       "name": "\u9519\u5b63",
       "url": "https://open.spotify.com/track/3bpmg6cjT1JSApgoXDQd04"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
-        "name": "\u6eab\u67d4 #MaydayBlue20th",
-        "url": "https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3"
-      },
-      "artists": [
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
-        },
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 271018,
-      "name": "\u6eab\u67d4 #MaydayBlue20th - feat.\u5b6b\u71d5\u59ff",
-      "url": "https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J"
     },
     {
       "added_at": "2023-08-14 05:24:16",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-08-14 05:24:16",
       "album": {
+        "name": "\u552f\u4e00",
+        "url": "https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        },
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "\u552f\u4e00 (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
+      "url": "https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
         "name": "\u6211\u60f3\u5ff5",
         "url": "https://open.spotify.com/album/31JTgArhlChkvAHXYyDehs"
       },
@@ -1039,46 +1059,6 @@
       "duration_ms": 258533,
       "name": "\u8af7\u523a\u7684\u60c5\u66f8",
       "url": "https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
-        "name": "\u552f\u4e00",
-        "url": "https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v"
-      },
-      "artists": [
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
-        },
-        {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "\u552f\u4e00 (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
-      "url": "https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
-        "name": "\u5916\u4eba",
-        "url": "https://open.spotify.com/album/3VhUOCklnq89LUhH6Vy0S7"
-      },
-      "artists": [
-        {
-          "name": "\u856d\u79c9\u6cbb",
-          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
-        },
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "\u5916\u4eba (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
-      "url": "https://open.spotify.com/track/04njycgeVX1cj4dlYrgZLS"
     },
     {
       "added_at": "2023-08-14 05:24:16",
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2023-08-14 05:24:16",
       "album": {
+        "name": "\u5916\u4eba",
+        "url": "https://open.spotify.com/album/3VhUOCklnq89LUhH6Vy0S7"
+      },
+      "artists": [
+        {
+          "name": "\u856d\u79c9\u6cbb",
+          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+        },
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "\u5916\u4eba (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
+      "url": "https://open.spotify.com/track/04njycgeVX1cj4dlYrgZLS"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
         "name": "\u672a\u53d1\u9001",
         "url": "https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 215466,
       "name": "\u672a\u53d1\u9001",
       "url": "https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo"
-    },
-    {
-      "added_at": "2023-08-14 05:24:16",
-      "album": {
-        "name": "Insignificance",
-        "url": "https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 280524,
-      "name": "You Better Not Think About Me",
-      "url": "https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr"
     },
     {
       "added_at": "2023-08-14 05:24:16",
@@ -1207,6 +1191,22 @@
       "duration_ms": 201363,
       "name": "\u4f60\u5920\u4e86",
       "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
+    },
+    {
+      "added_at": "2023-08-14 05:24:16",
+      "album": {
+        "name": "Insignificance",
+        "url": "https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 280524,
+      "name": "You Better Not Think About Me",
+      "url": "https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr"
     },
     {
       "added_at": "2023-08-14 05:24:16",

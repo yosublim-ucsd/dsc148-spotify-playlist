@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,365 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,358 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 58 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 |
 | 59 | [The Banister Bough](https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc) | 4:09 |
 | 60 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 |
-| 61 | [Another December](https://open.spotify.com/track/0vGvie247As4QVcq7z3o64) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Dreaming Time Again \- EP](https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN) | 3:20 |
-| 62 | [Rise Up Shepherd](https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i) | 2:27 |
-| 63 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 |
+| 61 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 |
+| 62 | [Another December](https://open.spotify.com/track/0vGvie247As4QVcq7z3o64) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Dreaming Time Again \- EP](https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN) | 3:20 |
+| 63 | [Rise Up Shepherd](https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i) | 2:27 |
 | 64 | [Hangover For Christmas](https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Hangover For Christmas](https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC) | 3:00 |
 | 65 | [What I See](https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Joy to the World](https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh) | 2:49 |
 | 66 | [Just Like A Shooting Star](https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf) | [Dani and Lizzy](https://open.spotify.com/artist/5QruqADxUmpzY0bT56039j) | [Just Like A Shooting Star](https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk) | 3:14 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 78 | [Favorite Christmas Song](https://open.spotify.com/track/4Q3yYPlcjuQ2umodTkdMeR) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [Favorite Christmas Song](https://open.spotify.com/album/05QDmn6fw0MTjC3RCig5cB) | 3:25 |
 | 79 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4) | 1:55 |
 | 80 | [Season's Greetings](https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya) | [Cassie Dasilva](https://open.spotify.com/artist/4pbczoOebMX6nCbWP59fre) | [Season's Greetings](https://open.spotify.com/album/1CB5xYKAAtIYSjJs2Cj4Dc) | 2:40 |
-| 81 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
-| 82 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
+| 81 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
+| 82 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
 | 83 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
 | 84 | [Christmas at Home](https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Nearly York](https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p) | [Christmas at Home](https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1) | 3:26 |
 | 85 | [Slide On Christmas](https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ) | [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Slide On Christmas](https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 |
 | 100 | [Someday at Christmas](https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Someday at Christmas](https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0) | 3:06 |
 
-Snapshot ID: `MCw3ZDAyMWY3ZjVjYTk0NmMwOWZlNmM3MjJhNWQ4YmY4ZTA5YzJiMjNk`
+Snapshot ID: `MCxhYmQyYTRlZWM4NTkzZDQ1NGZkNzBmNWUyYzc4ZjhiZGQ0OGIwNjU5`

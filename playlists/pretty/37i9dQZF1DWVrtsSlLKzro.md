@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,539 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,714 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 149 | [Out My Head](https://open.spotify.com/track/5l8lqD8bC9wf8yUTESmh46) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 3:33 |
 | 150 | [Good Enough](https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Good Enough](https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu) | 3:30 |
 
-Snapshot ID: `MCxlNzRhYTMzZDY2ZDE4OGQ2ZWM2NTVlNWVkODMzMmZjMzIwZTIyOTZh`
+Snapshot ID: `MCxiYTBmNDZjMjgwMDU1Yzk0ODgxMzgzZmYyZWRmODg0MDJkNjg0NjFi`

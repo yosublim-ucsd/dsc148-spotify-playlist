@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
+    },
+    {
+      "album": {
         "name": "A Year Ago",
         "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
       },

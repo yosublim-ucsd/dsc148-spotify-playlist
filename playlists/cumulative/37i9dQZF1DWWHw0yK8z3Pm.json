@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Abraham",
+        "url": "https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250257,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
+    },
+    {
+      "album": {
         "name": "Past Dawn",
         "url": "https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T"
       },
@@ -4567,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Rich Men North of Richmond",
+        "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187244,
+      "name": "Rich Men North of Richmond",
+      "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
+    },
+    {
+      "album": {
         "name": "Ride the Lightning (717 Tapes)",
         "url": "https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi"
       },
@@ -6112,7 +6148,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165320,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq"
@@ -6328,7 +6364,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 206783,
       "name": "Worst of Ways",
       "url": "https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU"

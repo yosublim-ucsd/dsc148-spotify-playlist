@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,233 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,254 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 57 | [Calaveritas](https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw) | [Ana Tijoux](https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG), [Celso Piña](https://open.spotify.com/artist/6w2g4b1Tn0ltVEiO0D3PEM) | [Calaveritas](https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN) | 4:20 |
 | 58 | [Janitzio](https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 3:56 |
 | 59 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
-| 60 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
-| 61 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
+| 60 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
+| 61 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
 | 62 | [La Tumba Falsa](https://open.spotify.com/track/5DW1e0gPIiSJuigtNy61e5) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 3:06 |
 | 63 | [Calaverita](https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Buenaventura](https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk) | 3:20 |
 | 64 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 94 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
 | 95 | [La Catrina](https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 3:27 |
 | 96 | [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 |
-| 97 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |
-| 98 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
+| 97 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
+| 98 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 99 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 |
-| 100 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
+| 100 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |
 
-Snapshot ID: `MCwzNWIzOTk0NTRlNGU5YWRjYThjMmIxMmYzMmVhYWRmNzU2YWVjOTZh`
+Snapshot ID: `MCw4ZWE5Njc2MjE1MTJhZmUwMDBmYjg1NzE1NTQ3MmUzNmQ3MjVjMzZl`

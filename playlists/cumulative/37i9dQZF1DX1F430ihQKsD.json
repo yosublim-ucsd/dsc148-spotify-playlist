@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Jesse Mac Cormack, Gabrielle Shonk",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: CRi, Half Moon Run",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -460,6 +460,28 @@
       "duration_ms": 276440,
       "name": "Animal (feat. Geoffroy)",
       "url": "https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz"
+    },
+    {
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
     },
     {
       "album": {
@@ -1282,6 +1304,28 @@
       "duration_ms": 267931,
       "name": "Colosse",
       "url": "https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4"
+    },
+    {
+      "album": {
+        "name": "Combien \u00e7a co\u00fbte",
+        "url": "https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163978,
+      "name": "Combien \u00e7a co\u00fbte",
+      "url": "https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP"
     },
     {
       "album": {
@@ -2539,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "I Dunno",
+        "url": "https://open.spotify.com/album/7L2nTi1dbVSVPt813vQtNs"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "I Dunno",
+      "url": "https://open.spotify.com/track/6aqMhnDtKgD34c34hgnVrP"
+    },
+    {
+      "album": {
         "name": "Better Luck In The Next Life",
         "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
       },
@@ -2789,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/7tj6xJzuw7GMlE7PIs1gxx"
+      },
+      "artists": [
+        {
+          "name": "William Papillon",
+          "url": "https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z"
+    },
+    {
+      "album": {
         "name": "Please Don't Think About Tomorrow",
         "url": "https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF"
       },
@@ -2872,7 +2952,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 244173,
       "name": "Jamais t'oublier",
       "url": "https://open.spotify.com/track/5HFSJasw0zgSnpOMb51HNG"
@@ -2962,7 +3042,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197663,
       "name": "Jaune",
       "url": "https://open.spotify.com/track/14QJlmd5ulzXXRbjRaS45z"
@@ -3468,7 +3548,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 274839,
       "name": "Looking for Your Love",
       "url": "https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN"
@@ -3508,7 +3588,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 334389,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/0s9JLutgvEh8mWtp3n3SUZ"
@@ -3598,7 +3678,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190973,
       "name": "M'enfer",
       "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
@@ -3620,6 +3700,24 @@
       "duration_ms": 202105,
       "name": "Ma peau br\u00fble",
       "url": "https://open.spotify.com/track/0CSnwni3GSWONb9hvpaxfx"
+    },
+    {
+      "album": {
+        "name": "Manteau d'ardoise",
+        "url": "https://open.spotify.com/album/1p7Jqg1d1gI8dAJWCk8Tfh"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600457,
+      "name": "Manteau d'ardoise",
+      "url": "https://open.spotify.com/track/7E4auyJcpWwOAJPJUsIo6h"
     },
     {
       "album": {
@@ -3910,6 +4008,24 @@
       "duration_ms": 150047,
       "name": "M\u00e9lodie",
       "url": "https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH"
+    },
+    {
+      "album": {
+        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
+        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "N'importe O\u00f9 Sauf Ici",
+      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
     },
     {
       "album": {
@@ -4794,7 +4910,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168000,
       "name": "Plonge",
       "url": "https://open.spotify.com/track/2KOK8PdSiabVHHCyihsFOJ"
@@ -4816,6 +4932,24 @@
       "duration_ms": 208267,
       "name": "PLS - sunset version",
       "url": "https://open.spotify.com/track/7Icpr4emncvQ7AbZ7RXlg3"
+    },
+    {
+      "album": {
+        "name": "Poem #2",
+        "url": "https://open.spotify.com/album/0bPJLBHHf4CFfTjE1VOwud"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232479,
+      "name": "Poem #2",
+      "url": "https://open.spotify.com/track/3VwZnKXI8wSNUxDP2pHPJh"
     },
     {
       "album": {
@@ -5252,7 +5386,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 213892,
       "name": "Sentiments nouveaux",
       "url": "https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71"
@@ -5692,7 +5826,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228668,
       "name": "Supermonkeyball",
       "url": "https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn"
@@ -5794,6 +5928,24 @@
       "duration_ms": 228996,
       "name": "ta peau",
       "url": "https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP"
+    },
+    {
+      "album": {
+        "name": "Tache d'encre",
+        "url": "https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d"
+      },
+      "artists": [
+        {
+          "name": "Valse Fr\u00e9quence",
+          "url": "https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192977,
+      "name": "Tache d'encre",
+      "url": "https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z"
     },
     {
       "album": {
@@ -6537,6 +6689,28 @@
     },
     {
       "album": {
+        "name": "\u00c0 la rencontre de Barbara (feat. Standard Emmanuel)",
+        "url": "https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        },
+        {
+          "name": "Standard Emmanuel",
+          "url": "https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333089,
+      "name": "\u00c0 la rencontre de Barbara (feat. Standard Emmanuel)",
+      "url": "https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT"
+    },
+    {
+      "album": {
         "name": "\u00c0 pr\u00e9sent",
         "url": "https://open.spotify.com/album/4yCghmiyhqVae5mRq402br"
       },
@@ -6548,7 +6722,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 291220,
       "name": "\u00c0 pr\u00e9sent",
       "url": "https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L"

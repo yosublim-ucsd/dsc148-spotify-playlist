@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "With My Head In The Clouds",
+        "url": "https://open.spotify.com/album/0APq3v0AR9lWXBB41nSWSm"
+      },
+      "artists": [
+        {
+          "name": "pxp pxp",
+          "url": "https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "With My Head In The Clouds",
+      "url": "https://open.spotify.com/track/6sbxL63lxChWhcpbrfZusb"
+    },
+    {
+      "album": {
         "name": "With My Whole Heart",
         "url": "https://open.spotify.com/album/7DqXk7aQUle3M5qMtjq6zb"
       },

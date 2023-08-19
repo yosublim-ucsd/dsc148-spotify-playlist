@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,631 likes - 164 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,777 likes - 164 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 32 | [Perfume de Gardenia](https://open.spotify.com/track/74bkVvdH3q2UNZ4MfcSucJ) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 3:31 |
 | 33 | [Y...qué Hiciste](https://open.spotify.com/track/1yBsoujDNTzzxCR1IAD0NF) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Sabor a Mí](https://open.spotify.com/album/11sipfXR2uOy5mpq9L1tEK) | 2:48 |
 | 34 | [Tu Voz](https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:10 |
-| 35 | [Inolvidable](https://open.spotify.com/track/4WWYBTpa9J6A7RZht1LtzW) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Tito With Love](https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ) | 3:13 |
-| 36 | [Ansia](https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:06 |
+| 35 | [Ansia](https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:06 |
+| 36 | [Inolvidable](https://open.spotify.com/track/4WWYBTpa9J6A7RZht1LtzW) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Tito With Love](https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ) | 3:13 |
 | 37 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 |
 | 38 | [Esta Tarde Vi Llover](https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Esta Tarde Vi Llover](https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb) | 2:23 |
 | 39 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
@@ -122,9 +122,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 112 | [La Consentida](https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [La Consentida](https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL) | 2:05 |
 | 113 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
 | 114 | [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 |
-| 115 | [Guantanamera](https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F) | [Los 3 Paraguayos](https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN) | [Boleros Tríos, Vol\. 1](https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA) | 3:08 |
+| 115 | [Cariñito Azucarado](https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:33 |
 | 116 | [Tú Me Acostumbraste](https://open.spotify.com/track/24anJg1u8ITUQpcSco3mQ1) | [Olga Guillot](https://open.spotify.com/artist/2RDV6sncQWynJFH5JUoCfJ) | [Exitos De Siempre: Olga Guillot](https://open.spotify.com/album/1dspwAvJMwMt86pyUYoiKd) | 3:38 |
-| 117 | [Cariñito Azucarado](https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:33 |
+| 117 | [Guantanamera](https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F) | [Los 3 Paraguayos](https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN) | [Boleros Tríos, Vol\. 1](https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA) | 3:08 |
 | 118 | [Amor de Mis Amores](https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Lo Mejor De...](https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP) | 2:58 |
 | 119 | [Micaela](https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:46 |
 | 120 | [Y Háblame](https://open.spotify.com/track/2sg4BfgmcxYqGifkMuKrGj) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [RCA 100 Años de Música](https://open.spotify.com/album/2q3WtBQFjL3KJ0r4COi8z9) | 2:47 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 163 | [Pena Negra](https://open.spotify.com/track/2RxY7nzk3Enn39Ahf2vjbW) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:58 |
 | 164 | [Dame Mi Corazón \- Bolero](https://open.spotify.com/track/1wv0V9bXlxGOcu32HuIdTM) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Sonora Santanera \- Luces De New York](https://open.spotify.com/album/1LylU3ubmE1EE5giv9NTqm) | 3:01 |
 
-Snapshot ID: `MCw1YmVmZWQ3NWNkZDM2ODBiMWEyMGFiMzJkMGQ0MTMzYWY1YTI0MDli`
+Snapshot ID: `MCwxMjhlMTg5OTMzN2ZkNzc4YTlmY2Y2ZDcyZWViY2I3MTk0MTg1ZDU2`

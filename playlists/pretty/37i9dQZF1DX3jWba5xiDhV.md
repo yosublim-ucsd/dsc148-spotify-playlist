@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,340 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,755 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
 | 75 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 |
 
-Snapshot ID: `MCxjYzQwOGQ1MzNhYTZmMDU5MjM2MGJiOWU3YjFhNDc4ZTI5MDdiN2Vm`
+Snapshot ID: `MCw3Y2MxZTQ3M2RhYjgyM2FkMjBhMjQ3OTcwNjUzY2VmZDY1ODU0ZDM1`

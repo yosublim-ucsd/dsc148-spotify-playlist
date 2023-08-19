@@ -4,7 +4,7 @@
 
 > Nothing but beautiful country love songs.
 
-177 songs - 10 hr 2 min
+178 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Make Me Want To](https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:52 | 2022-06-17 |  |
 | [Make Me Want To](https://open.spotify.com/track/2uJwGoHVPStmWV7iTKEhcn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/1FZ4ysoRQblNEW0uoFk3v0) | 2:52 | 2021-07-20 | 2022-04-20 |
 | [Makin' Plans](https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:50 | 2021-07-20 | 2022-07-29 |
-| [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 | 2023-02-10 |  |
+| [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 | 2023-02-10 | 2023-08-19 |
 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-08-26 | 2023-01-29 |
 | [Millionaire](https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:30 | 2021-07-20 |  |
 | [Music](https://open.spotify.com/track/13hCOEVO2ErbVS7pB2dbCc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/4m7BydC6hXAQSnMn6ArAZx) | 3:23 | 2021-07-20 | 2022-04-18 |
@@ -113,6 +113,7 @@
 | [Now That I Found You](https://open.spotify.com/track/4XLPTrNMDa0irXp98Wre2A) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [How I Feel](https://open.spotify.com/album/19vSZScLNvBVcuARwA5CEO) | 3:37 | 2021-09-24 | 2022-05-30 |
 | [Ocean](https://open.spotify.com/track/0Cs31CzQp6peDLWVCK0app) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/67X3EDtDorejhrgOjzLIa3) | 3:30 | 2021-07-20 | 2022-07-29 |
 | [Ocean](https://open.spotify.com/track/5G6Nf4Ytk3dzxnhfP2AhKR) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:30 | 2022-06-17 | 2023-06-05 |
+| [Once](https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Once](https://open.spotify.com/album/1m9aMm03qhLgwJb7SNFhS6) | 3:04 | 2023-08-18 |  |
 | [One Boy, One Girl](https://open.spotify.com/track/3GgpNSCZrgp8O4al5gwdRu) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [I Think About You](https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu) | 4:04 | 2022-03-25 | 2022-04-20 |
 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 | 2021-07-20 |  |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-02-04 |  |

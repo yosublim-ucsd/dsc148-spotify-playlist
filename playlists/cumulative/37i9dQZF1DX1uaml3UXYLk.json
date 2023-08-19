@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 357741,
       "name": "Easy Walker",
       "url": "https://open.spotify.com/track/1KsV7SV875mBfBlb40wYLU"
@@ -3814,6 +3814,24 @@
       "duration_ms": 155584,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja"
+    },
+    {
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/3mtNd5bVlK1FCbTF3WBIsS"
+      },
+      "artists": [
+        {
+          "name": "Pocket Nine",
+          "url": "https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142983,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/2Fy3Gx4TPeJ69bzFkQrFdl"
     },
     {
       "album": {

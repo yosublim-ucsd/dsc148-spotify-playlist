@@ -4,7 +4,7 @@
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-168 songs - 9 hr 51 min
+169 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [On Fire Again \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/2Ug470Bny3tWsLl9iA3wcp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:03 | 2022-02-09 |  |
 | [One More Chance](https://open.spotify.com/track/0hT22IJ6qGkXiz3SIWrWOz) | [Charlie Faye & the Fayettes](https://open.spotify.com/artist/3XoNGaEQLzYuT0BcdVjzkx) | [Charlie Faye & The Fayettes](https://open.spotify.com/album/0DPB07cWvK50tSWr9MEQ22) | 4:04 | 2022-02-09 | 2023-05-19 |
 | [Open Tales](https://open.spotify.com/track/3d5DC4HtUqwBF7K1SbBTKT) | [Bora York](https://open.spotify.com/artist/3IeaI931pLCF0gOhDKJyBX) | [Dreaming Free](https://open.spotify.com/album/00XX9ytFIQLaxIgHwIF6NG) | 3:35 | 2022-02-09 | 2023-05-19 |
-| [Own It](https://open.spotify.com/track/5HcZ0lvFpQGmkaOwe65n4X) | [Kali J](https://open.spotify.com/artist/7dh0MW1TLdsA3ABq3UAjzR) | [Own It](https://open.spotify.com/album/39RWI1vT4a7kQHE9kZ0Q9v) | 2:47 | 2023-05-18 |  |
+| [Own It](https://open.spotify.com/track/5HcZ0lvFpQGmkaOwe65n4X) | [Kali J](https://open.spotify.com/artist/7dh0MW1TLdsA3ABq3UAjzR) | [Own It](https://open.spotify.com/album/39RWI1vT4a7kQHE9kZ0Q9v) | 2:47 | 2023-05-18 | 2023-08-19 |
+| [Own It](https://open.spotify.com/track/1bnq2C6Xeb9ztr5QjfsFBM) | [Kali J](https://open.spotify.com/artist/7dh0MW1TLdsA3ABq3UAjzR) | [Own It](https://open.spotify.com/album/1CkQPtPvm0VwMFKcj81PIK) | 2:47 | 2023-07-07 |  |
 | [Peaches](https://open.spotify.com/track/7yndlXlrUV0dA01TBMvxuY) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Peaches](https://open.spotify.com/album/4hyB3TXvwJuvBgXMbOFBeH) | 3:30 | 2022-02-09 | 2023-05-19 |
 | [Pink Sky Complex](https://open.spotify.com/track/7IdsGTLGAkeLt6kgEdxzc6) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Zuddi](https://open.spotify.com/artist/1jxFm3RtD7AaZ3PnR5ht8M) | [Pink Sky Complex](https://open.spotify.com/album/0rvKh2q2apZo7LF2IHI6jU) | 3:36 | 2023-05-18 |  |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2023-05-18 |  |

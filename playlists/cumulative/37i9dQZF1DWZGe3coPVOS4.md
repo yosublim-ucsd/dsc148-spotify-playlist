@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-52 songs - 2 hr 32 min
+53 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Celestial](https://open.spotify.com/track/0KBLV0XabLg7nlrhro86EZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:29 | 2023-07-14 |  |
 | [CUFF IT](https://open.spotify.com/track/6WnpkEjr6oDICeB9NjxVYT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [CUFF IT](https://open.spotify.com/album/3QTG2rIil6NvH1Co5dZI1M) | 2:57 | 2023-06-09 | 2023-07-15 |
 | [CUFF IT](https://open.spotify.com/track/3kqt8hGL5eLHxcwMiPwmlF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:00 | 2023-07-14 |  |
+| [Cupid](https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cupid](https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv) | 2:44 | 2023-08-18 |  |
 | [Dance Monkey](https://open.spotify.com/track/1POnhYNNZI7mmIqTsYK9LC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:20 | 2023-06-09 |  |
 | [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-06-09 |  |
 | [Flowers](https://open.spotify.com/track/6r7oPntmW7s4wOmLJIeWOa) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:10 | 2023-07-14 |  |

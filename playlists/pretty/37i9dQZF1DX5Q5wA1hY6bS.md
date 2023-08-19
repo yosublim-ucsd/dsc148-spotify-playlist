@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499,175 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,499,210 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 |
 | 100 | [Lovers Carvings \- WXAXRXP Session](https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Lovers Carvings \(WXAXRXP Session\)](https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl) | 4:30 |
 
-Snapshot ID: `MCwyYmY3NWI5ODlhZmY0ZmNjMzU2NmI2M2UxYzk0MjQ0YWMzOTM5YmFi`
+Snapshot ID: `MCw5MGFkMDA4MzNlNGJlMTkwNmY1M2FhN2QzZTlkNzNiMjMxMDYzOTI1`

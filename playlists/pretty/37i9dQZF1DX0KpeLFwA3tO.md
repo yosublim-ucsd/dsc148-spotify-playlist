@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Shelf Lives
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,862 likes - 125 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,968 likes - 125 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Crybaby \(with phem\)](https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Crybaby \(with phem\)](https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ) | 2:17 |
 | 125 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 
-Snapshot ID: `MCxhZjY3N2Y1ZjE0YzliMmM1N2RhYTRkNmY0YjhkZjQwMWM2NGY1NDg3`
+Snapshot ID: `MCwyMjk3MjFlODg1MWJlNDcyNDBlMzgwNGZhNmYxZmRhNDY1MDJkODQ4`

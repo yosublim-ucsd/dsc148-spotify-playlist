@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 187706,
       "name": "Barking Dog",
       "url": "https://open.spotify.com/track/7hx7f6U9ul5JVGiRtGwNVU"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 205565,
       "name": "Bento Box",
       "url": "https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ"
@@ -7112,7 +7112,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 255808,
       "name": "Guess I'm Going To Hell",
       "url": "https://open.spotify.com/track/4TETZ56lnLvEpFZmVjsQM1"
@@ -9697,6 +9697,24 @@
     },
     {
       "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208769,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc"
+    },
+    {
+      "album": {
         "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
         "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
       },
@@ -10380,7 +10398,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 194959,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg"
@@ -14841,6 +14859,24 @@
     },
     {
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/6ljc6wEyQMYNc2FhxXVeKU"
+      },
+      "artists": [
+        {
+          "name": "Yehra",
+          "url": "https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164208,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/6IXPMTm9es1QqzGNt7q6xh"
+    },
+    {
+      "album": {
         "name": "running in place",
         "url": "https://open.spotify.com/album/58cat50oNLtyzugNTRQMUe"
       },
@@ -16925,6 +16961,24 @@
     },
     {
       "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/7go7I6pad4do86ALsmB8ZC"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Stupid 4 U",
+      "url": "https://open.spotify.com/track/69wanT7uQsE61wuDCuOoq7"
+    },
+    {
+      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp"
       },
@@ -17002,6 +17056,24 @@
       "duration_ms": 191338,
       "name": "SUGARCOATED",
       "url": "https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf"
+    },
+    {
+      "album": {
+        "name": "Summer Of 99",
+        "url": "https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Summer Of 99",
+      "url": "https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM"
     },
     {
       "album": {
@@ -18244,7 +18316,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
@@ -18996,6 +19068,24 @@
       "duration_ms": 192676,
       "name": "ur just a fan",
       "url": "https://open.spotify.com/track/58lB8Lq0g0iiXPtqg9IPuA"
+    },
+    {
+      "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "album": {

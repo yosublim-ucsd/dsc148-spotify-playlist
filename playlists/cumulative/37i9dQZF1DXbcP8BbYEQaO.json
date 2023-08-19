@@ -2669,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Erotic Electronic",
+        "url": "https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143618,
+      "name": "Erotic Electronic",
+      "url": "https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4"
+    },
+    {
+      "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
       },
@@ -4600,7 +4618,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190902,
       "name": "I like u",
       "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
@@ -5654,6 +5672,24 @@
       "duration_ms": 221440,
       "name": "LOVE IS A...",
       "url": "https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC"
+    },
+    {
+      "album": {
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "LOVE IS A\u2026",
+      "url": "https://open.spotify.com/track/6CEwRvoydOQAXfteUT4OUN"
     },
     {
       "album": {
@@ -9282,7 +9318,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"

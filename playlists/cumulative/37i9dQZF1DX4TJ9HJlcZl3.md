@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-85 songs - 5 hr 23 min
+87 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-27 |  |
 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 | 2022-10-21 | 2023-08-12 |
 | [Everything To Everyone](https://open.spotify.com/track/50EIC4ElPCZgtyzwlmdNxj) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:45 | 2022-10-21 | 2023-04-29 |
-| [Fool](https://open.spotify.com/track/3I0zW3z9PalncwV0q0EoKS) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1KegDWdxHi7jT1gXURY6BO) | 3:49 | 2023-05-26 |  |
+| [Fool](https://open.spotify.com/track/3I0zW3z9PalncwV0q0EoKS) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1KegDWdxHi7jT1gXURY6BO) | 3:49 | 2023-05-26 | 2023-08-19 |
+| [Fool](https://open.spotify.com/track/4loDVfneBX3ezG86mwToP0) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 | 2023-05-26 |  |
 | [Fool](https://open.spotify.com/track/5OKT7iKJqQAjTK2Q3BLxHY) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/37hBvmWBhITeg8dYwzBWhN) | 3:49 | 2023-05-26 | 2023-07-28 |
 | [Fool](https://open.spotify.com/track/6Jc3ep7zW6mgLKg0ZJhbnZ) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/6LNtiLvgjUpGFSHA5RZFAR) | 3:49 | 2023-05-26 | 2023-08-07 |
 | [Free](https://open.spotify.com/track/6kAOOamDflxqkrAWI6wZRR) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 5:27 | 2022-10-21 |  |
@@ -32,12 +33,13 @@
 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/5fGWdNGGnvKrrHL6U7c1Vp) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Humility \(feat\. George Benson\)](https://open.spotify.com/album/3S41zT1PsTvoqHHEUv7xCc) | 3:17 | 2022-10-21 |  |
 | [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-10-21 |  |
 | [I Could Use A Miracle](https://open.spotify.com/track/1GQjRQXL6YcxLhlNAuOkiJ) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4Fj3lyL3PAxuYfCg7KQRS8) | 4:08 | 2022-10-21 | 2023-05-01 |
-| [I Could Use A Miracle](https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD) | 4:08 | 2022-10-21 |  |
+| [I Could Use A Miracle](https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD) | 4:08 | 2022-10-21 | 2023-08-19 |
 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 | 2022-10-21 |  |
 | [I Don't Think We Should Wait](https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve) | 5:00 | 2022-10-21 | 2023-04-29 |
 | [I Want You Back](https://open.spotify.com/track/4niMjTTcDJFOKxOzn9INQy) | [Bradley McCaw](https://open.spotify.com/artist/6WBjKhWSZmfAdHoeUIzaVR), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Louie Shelton](https://open.spotify.com/artist/2vJfIJtB4PLlIHICVf4V0N) | [I Want You Back](https://open.spotify.com/album/0CIe4u7zQdSYlZJjdRuf1q) | 4:03 | 2023-04-14 |  |
 | [I Wonder](https://open.spotify.com/track/2evv8aHR5IeiDTyGlmOOM3) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/4ju3ITVDX4cauQCRUcl8FK) | 4:11 | 2022-10-21 | 2023-06-24 |
 | [I Wonder](https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p) | 4:11 | 2022-10-21 |  |
+| [In Love Again](https://open.spotify.com/track/19wX7jFn6EsJmvbOhQpnaj) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [In Love Again](https://open.spotify.com/album/7g0rtDedv83hrOX65g9dtX) | 4:07 | 2023-08-18 |  |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-10-21 | 2022-10-29 |
 | [Kenny Blues](https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0) | [Rubber Band](https://open.spotify.com/artist/2XHnoChNd8VueTILbmnOlu) | [Kenny Blues](https://open.spotify.com/album/4Srn0HSrvlC9XuElk3izQT) | 3:08 | 2023-01-06 |  |
 | [Konichiwa](https://open.spotify.com/track/5qY5MMXsrlCmYj9X4qKqBX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [The Don](https://open.spotify.com/album/0drE0Xqo5yrSPirL3edUuX) | 4:37 | 2022-10-21 |  |

@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 270720,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF"
@@ -3224,6 +3224,24 @@
       "duration_ms": 219725,
       "name": "Lead Me",
       "url": "https://open.spotify.com/track/2xxC1f4aJwS0SUr6ThcIzO"
+    },
+    {
+      "album": {
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/4t0UxZRkTUPCNT0XDIBqux"
+      },
+      "artists": [
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164898,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/3zoXDAiViLi1eysasfw5GB"
     },
     {
       "album": {
@@ -5171,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
+    },
+    {
+      "album": {
         "name": "Stay in Bed and F*** (While The World Burns)",
         "url": "https://open.spotify.com/album/35yHgVIXp8hDTDTI3L77CT"
       },
@@ -5764,7 +5800,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"

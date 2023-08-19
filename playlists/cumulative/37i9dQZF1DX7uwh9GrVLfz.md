@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-607 songs - 1 day 8 hr 41 min
+608 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-14 | 2023-02-16 |
 | [No Answer](https://open.spotify.com/track/3WCHmmTGruMeMuYIBt0VzK) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-12 | 2022-07-28 |
 | [No more ステートメント](https://open.spotify.com/track/4OeYtOIASIY9bBF0v8MDqK) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [No more ステートメント](https://open.spotify.com/album/41HbWao46UHDzaD9GMOZHD) | 2:57 | 2022-06-07 | 2023-02-15 |
-| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
 | [NO ONE ELSE](https://open.spotify.com/track/3qFPvk2M5a949ryD5YCeXb) | [HANDSOME ACADEMY](https://open.spotify.com/artist/5WXalzUqPJAvAEsDTNeuhe) | [NO ONE ELSE](https://open.spotify.com/album/50JUFWlhL3o6LiFKXKepTD) | 2:48 | 2022-07-14 | 2022-07-28 |
 | [Nobody Can Stop Us Anymore](https://open.spotify.com/track/5bhPFNKlAxOMJTMjaQC433) | [Septaluck](https://open.spotify.com/artist/7CVOEk5qmi1ju2C7QJrSzT) | [Pieces Of The Puzzle](https://open.spotify.com/album/6By2m7JwomSCoIo72saATN) | 3:37 | 2022-05-17 | 2022-07-26 |
 | [None of Your Business](https://open.spotify.com/track/0FOcGLgUGmMzwT7IlM7hmU) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [SPECIES](https://open.spotify.com/album/4bhfca8CjqItlIeBYQ35JT) | 3:56 | 2022-06-14 | 2022-07-19 |

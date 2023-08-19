@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-488 songs - 19 hr 55 min
+490 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2023-04-28 |
 | [golden hour](https://open.spotify.com/track/6vW3cxpUmK3pjyB1GXIu7N) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [golden hour](https://open.spotify.com/album/6dA0ItWZ4CtzsPKTwYvwma) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Golden State](https://open.spotify.com/track/1QEHwRNmwnmRnoSokEXvLe) | [Sonus Vibes](https://open.spotify.com/artist/3Lj74BC4DEJSQxE6eWujUa), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Odyssey](https://open.spotify.com/album/1PlCw0Zm0vDHYx3LUASH6h) | 1:48 | 2021-12-16 | 2022-04-21 |
-| [Goldrush](https://open.spotify.com/track/2G9CaCae1o6JoiaUs1Oj4c) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk) | 2:08 | 2023-08-17 |  |
+| [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 |  |
+| [Goldrush](https://open.spotify.com/track/2G9CaCae1o6JoiaUs1Oj4c) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk) | 2:08 | 2023-08-17 | 2023-08-19 |
 | [Good Evening](https://open.spotify.com/track/3LDhrFGz0EJ7yt2gsqbB7R) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5I1Rdf76k3dEbzhM6RxYim) | 2:01 | 2019-06-14 | 2022-04-19 |
 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 | 2022-07-28 |  |
 | [Green Crack](https://open.spotify.com/track/3IQ0iB7Mw1AZpQePAlpLmF) | [Herring Franky](https://open.spotify.com/artist/27jcQeXU6S0eCLVpnNZjy0) | [Green Crack](https://open.spotify.com/album/1sg4aCx1ySwXFPYN2bqhG3) | 3:09 | 2020-11-06 | 2022-07-28 |
@@ -262,8 +263,9 @@
 | [Mantra](https://open.spotify.com/track/0YujDBL42417VRfnHi2rdo) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Mantra](https://open.spotify.com/album/4NxHtseeKcZCw2EK6rPFTl) | 2:20 | 2020-06-29 | 2021-10-16 |
 | [maybe](https://open.spotify.com/track/36FIbREZjR8soQrelZeT0E) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Daylight](https://open.spotify.com/album/2R3VQAbHUCATRzBIgEN2nL) | 3:59 | 2020-01-14 | 2020-10-21 |
 | [Meditations on Guitar](https://open.spotify.com/track/2vzAM5zjTyfH4Gfqo3p5Vv) | [Ra Ra Raj](https://open.spotify.com/artist/5tSUCupABpVmFu1rMt25Sn) | [Wonga Park](https://open.spotify.com/album/3ZfNzg2HRuMEpfs3IRA8WU) | 1:46 | 2019-06-14 | 2022-07-29 |
-| [Memory Lane](https://open.spotify.com/track/0hnIBWekKx0mEP6bprvsFa) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/553aukJODmKjlUIa48SRbn) | 2:51 | 2023-08-03 |  |
+| [Memory Lane](https://open.spotify.com/track/0hnIBWekKx0mEP6bprvsFa) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/553aukJODmKjlUIa48SRbn) | 2:51 | 2023-08-03 | 2023-08-19 |
 | [Memory Lane](https://open.spotify.com/track/32HXeN3APFZcwKh3Jr5pOe) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/3MLmOVmSbplDhK4UbO0eEH) | 2:51 | 2023-08-03 | 2023-08-05 |
+| [Memory Lane](https://open.spotify.com/track/6xE6rNGc0PdfmgPt5Du6bE) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End's Girl](https://open.spotify.com/album/0Vkgfeiiph9HmEr2wVxPc6) | 2:51 | 2023-08-17 |  |
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2019-05-26\* |  |
 | [Midas Era](https://open.spotify.com/track/3REVoefyjqwG5Ihs9T9J2x) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The SP1200 Project: A Re\-Awakening](https://open.spotify.com/album/61pswtqA5qcrpmtWbb4LPc) | 2:49 | 2019-05-26\* | 2020-01-14 |
 | [MidStation](https://open.spotify.com/track/6KEOX0H9NMSK7qLH7a64Nc) | [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [Immerse](https://open.spotify.com/album/282HB39K4wb7LWyUw7H0H9) | 1:56 | 2019-06-14 | 2019-08-31 |

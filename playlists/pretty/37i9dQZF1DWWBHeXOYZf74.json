@@ -1,13 +1,29 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Mk.gee",
-  "num_followers": 1328223,
+  "description": "Genre-less. Quality first always. Cover: Jungle",
+  "num_followers": 1328252,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzFhNGJkOTRlMWUxYjA1YzYwYjQyYzRmMTdjM2Y4NDc1NjA3MTQw",
+  "snapshot_id": "MCw2ZDk2NjkyMDEyMDM1YTE2ZGMxNWI2MjA3YWU5ZDMwNzhhMDRiNTc2",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 164102,
+      "name": "Blue Hundreds",
+      "url": "https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi"
+    },
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
@@ -45,24 +61,24 @@
       "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "adore u",
-        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+        "name": "Sleeves Touch My Elbows",
+        "url": "https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         },
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
         }
       ],
-      "duration_ms": 220653,
-      "name": "adore u",
-      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+      "duration_ms": 210109,
+      "name": "Sleeves Touch My Elbows",
+      "url": "https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -87,6 +103,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -107,6 +143,90 @@
       "duration_ms": 222741,
       "name": "Alien Love Call",
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "I Saw U",
+        "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 137506,
+      "name": "I Saw U",
+      "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
+    },
+    {
+      "added_at": "2023-08-18 19:45:51",
+      "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/7L4o11b1PrpNswbGevoY8f"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "re: rainbow music",
+        "url": "https://open.spotify.com/album/7HHq6FVBQZx8LeURMNY5V7"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "duration_ms": 160296,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/5pvMXnhRKSAvO8qmfKU4Ys"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "MUSTARD (WITH 6LACK)",
+        "url": "https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 201464,
+      "name": "MUSTARD (WITH 6LACK)",
+      "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
+    },
+    {
+      "added_at": "2023-08-18 19:45:51",
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "duration_ms": 181639,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -141,24 +261,20 @@
       "url": "https://open.spotify.com/track/5WPkg7qq1zNdtWhyNXRtGc"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "MUSTARD (WITH 6LACK)",
-        "url": "https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8"
+        "name": "getting older",
+        "url": "https://open.spotify.com/album/7kAwfOc0datHwSXfdvzH0s"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
         }
       ],
-      "duration_ms": 201464,
-      "name": "MUSTARD (WITH 6LACK)",
-      "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
+      "duration_ms": 146000,
+      "name": "getting older",
+      "url": "https://open.spotify.com/track/4ojKgnQLWOCKfqqcYsLH1m"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -235,6 +351,26 @@
       "duration_ms": 206931,
       "name": "Freedom 2",
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Candy / How many miles",
+        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        },
+        {
+          "name": "Two star",
+          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
+        }
+      ],
+      "duration_ms": 141871,
+      "name": "How many miles",
+      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -605,22 +741,6 @@
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "All the Good Times Never Die",
@@ -765,20 +885,20 @@
       "url": "https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P"
     },
     {
-      "added_at": "2023-07-14 12:10:24",
+      "added_at": "2023-06-28 16:52:20",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+        "name": "Big Hammer",
+        "url": "https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 196598,
-      "name": "Higher Than Ever Before",
-      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
+      "duration_ms": 240742,
+      "name": "Big Hammer",
+      "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -795,6 +915,22 @@
       "duration_ms": 157501,
       "name": "Sean-Jared",
       "url": "https://open.spotify.com/track/0cqYejXSn0M37GXx4JB8RB"
+    },
+    {
+      "added_at": "2023-07-14 12:10:24",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 196598,
+      "name": "Higher Than Ever Before",
+      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
     },
     {
       "added_at": "2023-06-28 16:52:20",
@@ -885,26 +1021,6 @@
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
-      "added_at": "2023-07-14 12:20:47",
-      "album": {
-        "name": "Bunny Is A Rider (Remix)",
-        "url": "https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 237109,
-      "name": "Bunny Is A Rider - Doss Remix",
-      "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "I Believe In You",
@@ -919,22 +1035,6 @@
       "duration_ms": 195717,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/6R13bfge3m7pqDqgKIFbJ0"
-    },
-    {
-      "added_at": "2023-06-28 16:52:20",
-      "album": {
-        "name": "Big Hammer",
-        "url": "https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 240742,
-      "name": "Big Hammer",
-      "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -985,22 +1085,6 @@
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "i need you baby!",
-        "url": "https://open.spotify.com/album/0AZi55uK1V2yhc6QCdSkIr"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "i need you baby!",
-      "url": "https://open.spotify.com/track/4xIgEiCTSD1qo7AkBFQ3HB"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Making The Band (Danity Kane)",
@@ -1031,6 +1115,22 @@
       "duration_ms": 231532,
       "name": "Mad At Fire",
       "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "i need you baby!",
+        "url": "https://open.spotify.com/album/0AZi55uK1V2yhc6QCdSkIr"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "i need you baby!",
+      "url": "https://open.spotify.com/track/4xIgEiCTSD1qo7AkBFQ3HB"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1127,26 +1227,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Watching Movies with the Sound Off (10th Anniversary)",
-        "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 264217,
-      "name": "The Star Room (OG Version) - Bonus Track",
-      "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Weak In Your Light (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/1QqdGCJiPeA67Vm9XEr9xU"
       },
@@ -1203,26 +1283,6 @@
       "duration_ms": 235949,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4v7SAKFEqPyuYTy9gQRnHP"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "ETA2 (feat. Paris Texas)",
-        "url": "https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "ETA2 (feat. Paris Texas)",
-      "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
     },
     {
       "added_at": "2023-06-23 13:09:10",
@@ -1463,22 +1523,6 @@
       "duration_ms": 224946,
       "name": "Yuteman Denis (feat. Charlotte Cardin & Zibz)",
       "url": "https://open.spotify.com/track/1fOoazUjNQ6IWy4xz7sqBz"
-    },
-    {
-      "added_at": "2023-06-23 13:09:10",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/1EkOczhnIFrXIaXmsSwPLk"
     },
     {
       "added_at": "2023-06-12 20:24:11",

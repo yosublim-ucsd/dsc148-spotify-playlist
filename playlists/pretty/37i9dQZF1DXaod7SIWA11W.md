@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,892 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,963 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 99 | [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 |
 | 100 | [Start Over](https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p) | [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX) | [Start Over](https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr) | 3:22 |
 
-Snapshot ID: `MCw0MWJiY2EzY2QzYjk3Y2MxNmQyNzMwMWJmZDQzZmJhMWVkZjBjYmVi`
+Snapshot ID: `MCw3MDc4MGVjYWQyZmY3YWU4YTcyYzZiMGQyMWRmNzYyMzkyYjZlN2I2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,685 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,711 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 30 | [THE DON](https://open.spotify.com/track/3KDaxC6gpTu4Ey6DL5YMBQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 3:12 |
 | 31 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 |
 | 32 | [Cleopatra](https://open.spotify.com/track/0YIS5mqANRBYctDGoT48n7) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [SKYPEARL](https://open.spotify.com/album/4QJAdeUYpNo8d4Xcsc5q23) | 3:10 |
-| 33 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 |
+| 33 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 |
 | 34 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 |
 | 35 | [MADE IN INDIA](https://open.spotify.com/track/3o5c2GSRqd77X5YqJNKGTY) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 2:21 |
 | 36 | [ON](https://open.spotify.com/track/5aX3nsMieI6ELp3qfFihr9) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 2:36 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 44 | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/track/15rEEVR9tYJS4hbubgS3u7) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/album/5pCqjR7JPOm2CLasRDtn1E) | 3:14 |
 | 45 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/3NyEl4VKqV7WL6PO5BYrb6) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6yGj6xifVKbJNfOwPiXmQY) | 2:24 |
 
-Snapshot ID: `MCwxZTVjMDM4MGRiMjJhMDYwOTFhZDAxNTliOTA2MDgyZGVlOTNmY2Qz`
+Snapshot ID: `MCw2NzJkN2Y4NTM3OTRiOWIzZWYzM2YxZjJhODcyYWRhMjhlNzc4YzA2`

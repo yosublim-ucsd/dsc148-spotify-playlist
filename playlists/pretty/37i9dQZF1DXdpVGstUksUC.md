@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,479 likes - 100 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,692 likes - 100 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 68 | [Tres Brujas](https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT) | 4:09 |
 | 69 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 |
 | 70 | [Noses in Roses, Forever](https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 5:33 |
-| 71 | [Tired Old Dog](https://open.spotify.com/track/7qRKONExTItyXpvgXh187M) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 6:27 |
-| 72 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
-| 73 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
+| 71 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
+| 72 | [Tired Old Dog](https://open.spotify.com/track/7qRKONExTItyXpvgXh187M) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 6:27 |
+| 73 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
 | 74 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
 | 75 | [The Bottle](https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O) | 4:42 |
 | 76 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
-| 77 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
-| 78 | [Old Gods](https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80) | [Valley of the Sun](https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l) | [Old Gods](https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM) | 6:00 |
+| 77 | [Old Gods](https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80) | [Valley of the Sun](https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l) | [Old Gods](https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM) | 6:00 |
+| 78 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 |
 | 79 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
 | 80 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 |
 | 81 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 89 | [Acid Roulette](https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn) | 5:49 |
 | 90 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
 | 91 | [To the Center](https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [To the Center](https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ) | 6:31 |
-| 92 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 |
+| 92 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
 | 93 | [Jim's Whiskers](https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e) | [John Garcia](https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8) | [John Garcia and the Band of Gold](https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF) | 3:42 |
-| 94 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
-| 95 | [Lust Queen](https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:12 |
+| 94 | [Lust Queen](https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:12 |
+| 95 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 |
 | 96 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 |
 | 97 | [Rooster Booster](https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im) | 4:26 |
 | 98 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
 | 99 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 |
 | 100 | [Superjudge](https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt) | 6:49 |
 
-Snapshot ID: `MCxjYjhmNTcwMzcyNGU5YTgwMWIzMGExZTcyZGUyNjYxMDliNzBjZGVi`
+Snapshot ID: `MCw4OWY4OTMyODJlOTE1NDcwODIzMTBiMjY5MDEyYTYwZTdlNzMxZjE0`

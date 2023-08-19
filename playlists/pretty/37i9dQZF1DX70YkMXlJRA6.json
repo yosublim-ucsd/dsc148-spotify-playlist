@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 45025,
+  "num_followers": 45052,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTdiZDBlNjI2NmQ1YzQ4ODM2YmJiZGNmY2E3ZjgzNTE4MmM5YWJj",
+  "snapshot_id": "MCw0YTYzZGI3ZTAyMTJiNDMxOGE0ODA4MzBlMzJlMmVhZjE2OTc2YTQx",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Hoy Como Siempre",
+      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "M\u00fasica Para Pick Up",
         "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 245426,
       "name": "The Caribbean Raver",
       "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Hoy Como Siempre",
-      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Levante la Mano (Remixes)",
+        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Levante la Mano (Tonga Conga Remix)",
+      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "#S\u00e1dico",
         "url": "https://open.spotify.com/album/37IMDq8KEAMXmi78I5UpDe"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 273063,
       "name": "#S\u00e1dico - Sunsplash & Ferraz Remix",
       "url": "https://open.spotify.com/track/6biNxZAZzW1qmWZu78ao5C"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Levante la Mano (Remixes)",
-        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Levante la Mano (Tonga Conga Remix)",
-      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -915,22 +915,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
+        "name": "El Baile de las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
       },
       "artists": [
         {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        },
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
         }
       ],
-      "duration_ms": 188804,
-      "name": "La Ni\u00f1a Grande",
-      "url": "https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN"
+      "duration_ms": 404351,
+      "name": "Elelu Tomassita",
+      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
     },
     {
       "added_at": "2022-06-07 16:47:23",

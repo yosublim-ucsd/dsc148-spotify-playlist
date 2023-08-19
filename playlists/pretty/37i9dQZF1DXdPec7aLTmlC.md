@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,184,780 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,185,387 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 |
 | 100 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 
-Snapshot ID: `MCxiMzQ4ZTcyZjg5MzgwMThkOTlkYjBhOTgyYTAwOTk5NTFhZGQ5MTNj`
+Snapshot ID: `MCw1MmFmNTEwZmNkODI4YWNhMTc4ZDgyMjEwYjQwNDNjZmE1NWIwNGJi`

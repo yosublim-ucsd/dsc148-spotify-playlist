@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-200 songs - 12 hr 11 min
+203 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 | 2021-12-10 |  |
 | [Let My Heart Be Moved](https://open.spotify.com/track/2pESp2B7x0b0sAIJGoxZS9) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Brett Taylor](https://open.spotify.com/artist/1qw1LjONRwzcP0oFHuuPJy) | [November Songs](https://open.spotify.com/album/1GRwT3QAIDEAmAUwmpv1TG) | 3:44 | 2022-10-07 |  |
 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 | 2021-12-10 |  |
+| [Like The Father Loves His Son](https://open.spotify.com/track/3dyVOChV1GFrJE3MEVcipH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Like The Father Loves His Son](https://open.spotify.com/album/74ddOaszG42h8A1I83efzu) | 4:37 | 2023-08-18 |  |
 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 | 2022-07-15 |  |
 | [Long Black Train](https://open.spotify.com/track/48Qs4WAbfw6ZC7xApFoLkW) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Country Songs With Color In The Title](https://open.spotify.com/album/23YMyZJ5Uxm2ydPuCo2FO3) | 4:10 | 2022-11-04 | 2022-11-13 |
 | [Long Black Train](https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT) | 4:10 | 2021-12-10 | 2022-07-29 |
@@ -122,6 +123,7 @@
 | [Me And God](https://open.spotify.com/track/2lfBuEVBgvKLAkcypn68VD) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 2:59 | 2021-12-10 |  |
 | [Me and Jesus \(Extra Special Bonus Track\)](https://open.spotify.com/track/6a0zu7tOqPUHQfoP7YJ9nS) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Moonshine in the Trunk](https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP) | 3:21 | 2021-12-10 |  |
 | [Meet My Maker](https://open.spotify.com/track/1pMgAV1H7k95tMRZDjOkEJ) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Meet My Maker](https://open.spotify.com/album/2gAiRQzI62xYl1qrTRh3fI) | 3:03 | 2023-03-17 |  |
+| [Misunderstood](https://open.spotify.com/track/0Msp58EKLK7rxTbwQewtdC) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Misunderstood](https://open.spotify.com/album/5gSJCn1pRrda6kv5EPQIyB) | 3:29 | 2023-08-18 |  |
 | [More Church Than Church \(feat\. Walker Hayes\)](https://open.spotify.com/track/3iiSh6hLXOzeZ5HBM5heZw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 3:48 | 2023-04-07 |  |
 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:31 | 2022-08-05 | 2023-06-01 |
 | [More Than Me](https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:31 | 2023-05-19 |  |
@@ -139,6 +141,7 @@
 | [Pray](https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:33 | 2021-12-10 | 2023-07-02 |
 | [Pray](https://open.spotify.com/track/7axw9QrWiUqJcegUb3wMud) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:33 | 2023-06-27 |  |
 | [Pray About Everything](https://open.spotify.com/track/7eOizXz9BZ7Vc6Scgwh1hC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 3:16 | 2021-12-10 |  |
+| [Pray Like Hell](https://open.spotify.com/track/1miqa7L0AMAeTdyU5G9W3T) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Pray Like Hell](https://open.spotify.com/album/2HUhFKypQz7N46oWphjOmQ) | 3:41 | 2023-08-18 |  |
 | [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2021-12-10 | 2022-12-02 |
 | [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 | 2022-11-04 |  |
 | [Prodigal Son's Prayer](https://open.spotify.com/track/5yVesQH1l8bOgjuWN0ub2a) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 2:51 | 2021-12-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Miami me lo confirm\u00f3, featuring Bizarrap & Rauw Alejandro.",
+  "description": "Miami me lo confirm\u00f3, featuring Feid.",
   "name": "Rompiendo: Miami",
   "tracks": [
     {
@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 221935,
       "name": "69",
       "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170785,
       "name": "Acr\u00f3stico",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 167175,
       "name": "AGUARDIENTE",
       "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 188550,
       "name": "Dame Cinturita Maricona",
       "url": "https://open.spotify.com/track/1UVf3NdJdBTNE3MfdfOcRO"
@@ -1434,6 +1452,28 @@
       "duration_ms": 230400,
       "name": "Despu\u00e9s de la Playa",
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "album": {
+        "name": "Diamante (Remix)",
+        "url": "https://open.spotify.com/album/2vZeJ6u33XCf1wehxfyFec"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        },
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214956,
+      "name": "Diamante - Remix",
+      "url": "https://open.spotify.com/track/5cGO7SYpwmP2rvstIOTA1r"
     },
     {
       "album": {
@@ -2296,7 +2336,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 227013,
       "name": "Gato de Noche",
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
@@ -2519,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "album": {
         "name": "Hombres y Mujeres",
         "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
       },
@@ -2670,6 +2728,32 @@
       "duration_ms": 144000,
       "name": "JUMPIN",
       "url": "https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH"
+    },
+    {
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
       "album": {
@@ -2942,7 +3026,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 296906,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
@@ -3178,10 +3262,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 195986,
       "name": "Lagrimas de Champan",
       "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "album": {
@@ -3472,7 +3574,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 199304,
       "name": "LOS POBRES Y LOS RICOS",
       "url": "https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz"
@@ -3959,6 +4061,28 @@
     },
     {
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
+    },
+    {
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -4076,7 +4200,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
@@ -4346,10 +4470,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143789,
+      "name": "OKI DOKI",
+      "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
     },
     {
       "album": {
@@ -4408,7 +4550,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197383,
       "name": "PANTIES Y BRASIERES",
       "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
@@ -4800,6 +4942,28 @@
       "duration_ms": 228360,
       "name": "Q'lona",
       "url": "https://open.spotify.com/track/18qAAYXV9LmnLgO81cscAQ"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
     },
     {
       "album": {
@@ -5218,7 +5382,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 240000,
       "name": "Si La Calle Llama - Remix",
       "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
@@ -5816,7 +5980,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 193526,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
@@ -5930,6 +6094,32 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205144,
+      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
+      "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
     },
     {
       "album": {
@@ -6138,6 +6328,24 @@
       "duration_ms": 186674,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8"
+    },
+    {
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Paola Jara",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Nico Hern\u00e1ndez, Pipe Bueno & Jessi Uribe",
   "name": "La + Popular",
   "tracks": [
     {
@@ -1004,10 +1004,36 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 249375,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
+    },
+    {
+      "album": {
+        "name": "El Malo (Remix)",
+        "url": "https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259910,
+      "name": "El Malo - Remix",
+      "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
     },
     {
       "album": {
@@ -1774,7 +1800,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 193333,
       "name": "Mas Altas Que Bajadas",
       "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
@@ -2312,7 +2338,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 156620,
       "name": "Pacto De Olvido",
       "url": "https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B"
@@ -3023,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/4IWgA9K4aBcXCrHiXpW2Wn"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189020,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/3ACihAMxekfqGod6LiuKEH"
+    },
+    {
+      "album": {
         "name": "Vivo en el 6",
         "url": "https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz"
       },
@@ -3164,7 +3208,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 198985,
       "name": "Yo Se Cuando Miente",
       "url": "https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v"

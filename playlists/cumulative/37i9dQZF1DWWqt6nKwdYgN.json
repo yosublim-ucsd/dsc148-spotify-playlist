@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Residente y Ricky Martin en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Santa Fe Klan y Snow Tha Product en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 283661,
       "name": "24 Kilates",
       "url": "https://open.spotify.com/track/5sB1tGmW2AtRuTCFLpt1pz"
+    },
+    {
+      "album": {
+        "name": "3x4",
+        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167224,
+      "name": "3x4",
+      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
     },
     {
       "album": {
@@ -564,6 +586,10 @@
         {
           "name": "Thomas Parr",
           "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Kazu",
+          "url": "https://open.spotify.com/artist/4ZiMK3f5EfARKFyORGd0hp"
         }
       ],
       "date_added": "2023-06-30",
@@ -1041,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Cuentas Claras\u2026",
+        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237391,
+      "name": "Cuentas Claras\u2026",
+      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
+    },
+    {
+      "album": {
         "name": "Cumbia MX",
         "url": "https://open.spotify.com/album/3UjiyUch8tlYYedPLwnL7z"
       },
@@ -1078,6 +1122,24 @@
       "duration_ms": 142400,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/3Er5VEk7QKeRkO5ThxVNbU"
+    },
+    {
+      "album": {
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
     },
     {
       "album": {
@@ -1381,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "En Donde Estar\u00e1s",
+        "url": "https://open.spotify.com/album/4DRAVQUlqtFyU7bKA6kOgx"
+      },
+      "artists": [
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "En Donde Estar\u00e1s",
+      "url": "https://open.spotify.com/track/1eOY4zBNRIpmSXXQajpfpF"
+    },
+    {
+      "album": {
         "name": "EN LA RAYA",
         "url": "https://open.spotify.com/album/2Nw3uwTKhNWNmRbPrxOumb"
       },
@@ -1448,6 +1528,24 @@
       "duration_ms": 412426,
       "name": "Epsplosive",
       "url": "https://open.spotify.com/track/7pH6qL2HeeuwpsSbBYdXlv"
+    },
+    {
+      "album": {
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166708,
+      "name": "Erick Serm\u00f3n",
+      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
     },
     {
       "album": {
@@ -2514,6 +2612,54 @@
       "duration_ms": 199322,
       "name": "M.A.D",
       "url": "https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4"
+    },
+    {
+      "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222650,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
+    },
+    {
+      "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/0vKEA8tVlS3ZAba9CWuRiJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223361,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/1TcbvR0qvhA07FZvMShKjb"
     },
     {
       "album": {
@@ -3816,6 +3962,24 @@
       "duration_ms": 152666,
       "name": "Resurgir",
       "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
+    },
+    {
+      "album": {
+        "name": "IAIA: Irrupci\u00f3n At\u00f3mica de la Inteligencia Artificial",
+        "url": "https://open.spotify.com/album/2cdTv8RPfACSNe4LdCwvZC"
+      },
+      "artists": [
+        {
+          "name": "DRZUPREEME",
+          "url": "https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128455,
+      "name": "Romanescos",
+      "url": "https://open.spotify.com/track/2cm10yj0ysthPPzfawwyVG"
     },
     {
       "album": {

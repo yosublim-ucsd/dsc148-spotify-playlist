@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,304,498 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,305,219 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 99 | [How Country Feels](https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:05 |
 | 100 | [Small Town Boy](https://open.spotify.com/track/2YMhrXQYKkm4kXLcXKKd5z) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Current Mood](https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t) | 3:25 |
 
-Snapshot ID: `MCw3ZDJkZTQ4NWJmYmY3ODU0MWI3MmYzNWFkNGM5ODNiMjIzNjliYTI0`
+Snapshot ID: `MCwwNWNkZGVmYjgzZGU0ZTUyMWQ2YzYzNmUyMjgwMWY0ZTNlZDFjNDY3`

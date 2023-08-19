@@ -3109,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179275,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
+    },
+    {
+      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -9983,6 +10001,24 @@
     },
     {
       "album": {
+        "name": "Love Yourself \u8f49 'Tear'",
+        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196998,
+      "name": "Intro: Singularity",
+      "url": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV"
+    },
+    {
+      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -10142,7 +10178,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 230693,
       "name": "It's Definitely You",
       "url": "https://open.spotify.com/track/2LowwiemmGMzzNSH1PJprK"
@@ -10778,7 +10814,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
@@ -15298,7 +15334,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 207386,
       "name": "Our Blues, Our Life",
       "url": "https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz"
@@ -18624,7 +18660,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di"
@@ -19506,7 +19542,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "Supernova - Japanese Version",
       "url": "https://open.spotify.com/track/04PSKcBV1ad3QEmmnZCn2N"

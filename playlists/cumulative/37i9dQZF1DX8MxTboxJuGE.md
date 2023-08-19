@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Metallica
 
-77 songs - 5 hr 42 min
+78 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Amuleto](https://open.spotify.com/track/5p64Qzf21y0dwltwr54DIa) | [John Wayne](https://open.spotify.com/artist/0aUvfFnGgvc8ES3FrJ6Ify) | [Purgatório](https://open.spotify.com/album/3k3VAVgygl2j0hbSsppd0C) | 3:39 | 2023-07-14 |  |
 | [Awaken the Master](https://open.spotify.com/track/2K369VsZZtrd84dnVUv1Wh) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 9:47 | 2023-07-14 |  |
 | [Beyond the Realms of Death \- Live at The Mudd Club, New York, 1979](https://open.spotify.com/track/737dCtOBxT1ojIB4hfua4w) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 7:06 | 2023-07-14 |  |
-| [Blinded](https://open.spotify.com/track/0Y5NpitKz5x7AKKXlZnOeK) | [Fenrir's Scar](https://open.spotify.com/artist/0iDirvf7XLSJHbVWXNF9tI) | [Blinded](https://open.spotify.com/album/4cfAyYIeY6bAYlOXbFewZk) | 4:21 | 2023-07-14 |  |
+| [Blinded](https://open.spotify.com/track/0Y5NpitKz5x7AKKXlZnOeK) | [Fenrir's Scar](https://open.spotify.com/artist/0iDirvf7XLSJHbVWXNF9tI) | [Blinded](https://open.spotify.com/album/4cfAyYIeY6bAYlOXbFewZk) | 4:21 | 2023-07-14 | 2023-08-19 |
 | [Born to Raise Hell \- Live at University of East Anglia, Norwich, 18th October 1998](https://open.spotify.com/track/6UKz0a6V2ccLkAx8cB4ASR) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4Sp70MOzkvRxY0wdf7nsj1) | 5:13 | 2023-07-14 |  |
 | [Bring It](https://open.spotify.com/track/7vEZUuh4pRvBBlXaKh8gn0) | [Hanislip](https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F) | [Bring It](https://open.spotify.com/album/1QjcBrVZ4rbwS1JEehIiiM) | 4:06 | 2023-07-14 |  |
 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 | 2023-07-14 |  |
@@ -66,6 +66,7 @@
 | [Symptoms](https://open.spotify.com/track/6VMWyTf2jw2DmaquunqTuW) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:28 | 2023-07-14 |  |
 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 | 2023-07-14 |  |
 | [Ted Jack](https://open.spotify.com/track/4CyvFtF2H7O7AXJm3boacu) | [King in the Belly](https://open.spotify.com/artist/1W9gBSPeYWtOy4Kbgud1R1) | [Ted Jack](https://open.spotify.com/album/0pZVvJd1Du4VocLZ1qbttu) | 3:31 | 2023-07-14 |  |
+| [Tenochtitlán](https://open.spotify.com/track/44tzuEVC6p9ldFBNC497vX) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Tenochtitlán](https://open.spotify.com/album/2uTIg4jj9u7EQslGtvHhqw) | 7:12 | 2023-08-18 |  |
 | [The Beast and the Hunter](https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss) | [RF Force](https://open.spotify.com/artist/1WyKcR1yYW6iV27yZLDLvi) | [The Beast and the Hunter](https://open.spotify.com/album/4pwvhjNmHkSOHVql8PqXEC) | 4:36 | 2023-07-14 |  |
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2023-07-14 |  |
 | [The Essence of Being Human](https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP) | [United For Distortion](https://open.spotify.com/artist/3DUCTnzBpcCgbNOAewbwSQ) | [The Essence of Being Human](https://open.spotify.com/album/25zJkatGEUwzg33mpAIrDp) | 5:41 | 2023-07-14 |  |

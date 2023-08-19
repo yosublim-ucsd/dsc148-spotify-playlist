@@ -2,9 +2,9 @@
 
 ### [Mariachi Joven](https://open.spotify.com/playlist/37i9dQZF1DXcF3YtBdCala)
 
-> Jóvenes y renovadas expresiones de la bella tradición mexicana\. Paola Jara en portada.
+> Jóvenes y renovadas expresiones de la bella tradición mexicana\. Nico Hernández, Pipe Bueno & Jesi Uribe en portada.
 
-166 songs - 8 hr 52 min
+167 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 | 2022-03-03 | 2023-06-24 |
 | [El Camino](https://open.spotify.com/track/2FBuHZHjko1h1ynYd9IowW) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Camino](https://open.spotify.com/album/1uC7oeENjeNnbHavxISZLF) | 3:25 | 2022-10-28 | 2023-04-15 |
 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 | 2023-02-13 |  |
+| [El Malo \- Remix](https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Malo \(Remix\)](https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9) | 4:19 | 2023-08-18 |  |
 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 | 2022-05-06 |  |
 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 | 2023-04-14 |  |
 | [En Mis Zapatos](https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Pa' Olvidar](https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0) | 2:45 | 2023-07-28 |  |
@@ -85,7 +86,7 @@
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 | 2023-06-02 |  |
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-08 |  |
 | [ME HUBIERA GUSTADO](https://open.spotify.com/track/2cvFyEXez20SMSDODdXzUC) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [ME HUBIERA GUSTADO](https://open.spotify.com/album/12Kw9JOJV3hmZjgT6uTTxw) | 2:23 | 2023-06-02 | 2023-06-24 |
-| [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 | 2022-10-28 |  |
+| [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 | 2022-10-28 | 2023-08-19 |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 |  |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 |  |
 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 | 2023-07-28 |  |

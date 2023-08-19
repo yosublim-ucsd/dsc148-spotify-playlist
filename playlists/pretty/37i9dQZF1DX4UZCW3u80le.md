@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UZCW3u80le.md) - [plain]
 
 > Back when we had Kelly Clarkson, Usher, Lady Gaga and Justin Timberlake on repeat! Cover: Katy Perry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,357 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,727 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UZCW3u80le.md) - [plain]
 | 149 | [Try Again](https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:44 |
 | 150 | [Love Don't Cost a Thing](https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:41 |
 
-Snapshot ID: `MCxlZTBhODAxNjcyMWQyM2E3ZTg2MGJkNDBjZjU5Y2E1MWMxMmJkNjY4`
+Snapshot ID: `MCxhNGJjNzEzYzNhZWE5YTA4YzNhZGIzYzZlZjQ0YzQ4ZTU2NGVkYzJh`

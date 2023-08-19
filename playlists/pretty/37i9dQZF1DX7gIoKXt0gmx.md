@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,656,339 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,657,204 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 |
 | 100 | [235 \(2:35 I Want You\)](https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [235 \(2:35 I Want You\)](https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh) | 3:51 |
 
-Snapshot ID: `MCxiNWJjZDdkNjhhYWJjNmY2NmVjM2Q3OTNkZWRhMDEyMGQ3NGFhN2Zh`
+Snapshot ID: `MCwwNTZjNDMzMTljMTYzN2U1OTQ1NzdiNjkyZTkyMGJkZDM2NjVjOTI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,065 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,134 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 9 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 |
 | 10 | [LAST FOREVER](https://open.spotify.com/track/6Tk4jblZ6c6p46RWT3NIWH) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp) | 4:17 |
 | 11 | [Koushu Road](https://open.spotify.com/track/1QTqwO6IvE5wcabJZMfUZH) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [Su凸ko D凹koi wo Shinjiruna](https://open.spotify.com/album/2O6tyCxGJvx19VuupjDezA) | 4:44 |
-| 12 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 |
+| 12 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
 | 13 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 |
 | 14 | [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 |
 | 15 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 |
 | 100 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 |
 
-Snapshot ID: `MCwwZGM2NjAxZmVkMTJkYjJjNDdmY2MxM2E4ZmUzNDZlODJmODI4MjQ0`
+Snapshot ID: `MCwzMzhhNzRmNDQ3ODQyNzgwYTRiNzg3OTc1ZTNhOWJhYWM3ZmUxZDA3`

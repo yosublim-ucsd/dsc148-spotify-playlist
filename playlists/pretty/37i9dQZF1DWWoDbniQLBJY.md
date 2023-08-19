@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,017,656 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,017,695 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 |
 | 100 | [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 |
 
-Snapshot ID: `MCwwNmRlNzBiZjMzNzM0NjhkZjA1MDI2NTVhZWNiNmNkNDFkMzI4MDgy`
+Snapshot ID: `MCxmNGQzYTIwNmM5OTExMzhjODgxODA2M2M0OWZjYmRkZjU0NGQ5NGVk`

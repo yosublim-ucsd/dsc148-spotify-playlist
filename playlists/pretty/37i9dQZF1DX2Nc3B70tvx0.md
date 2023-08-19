@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > Newsworthy indie of 2023: Sufjan graces us with a new track fit for Carrie & Lowell fanatics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,228,758 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,228,956 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 | 100 | [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 |
 
-Snapshot ID: `MCxmZWQzZjdmYThkOTAxMGRmYzZjNzllMDQ3NGE5OWRlNWVhY2Y3N2Zh`
+Snapshot ID: `MCw1ZjA2ZTg5ZmUxNWY4MTA2NjAyZWE4NGEzOGEyMjNhZTI2NjQzZGE0`

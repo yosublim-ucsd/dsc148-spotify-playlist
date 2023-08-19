@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165000,
       "name": "Annihilate",
       "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
@@ -308,6 +308,24 @@
       "duration_ms": 142857,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/4xwdCGKQNzjHy7y4DLD6KH"
+    },
+    {
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "album": {
@@ -550,6 +568,28 @@
       "duration_ms": 192131,
       "name": "Beach Drive",
       "url": "https://open.spotify.com/track/5qzVnYWzZmXBhTTdw7ZzOX"
+    },
+    {
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
       "album": {
@@ -1206,7 +1246,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
@@ -2128,7 +2168,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 202821,
       "name": "Everything Goes On",
       "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
@@ -3412,7 +3452,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 218217,
       "name": "I Wanna Be Software",
       "url": "https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706"
@@ -3640,7 +3680,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 257984,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
@@ -4517,6 +4557,28 @@
     },
     {
       "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+    },
+    {
+      "album": {
         "name": "Where It All Began",
         "url": "https://open.spotify.com/album/0F48IWOiRVqr2bBV4J8c1H"
       },
@@ -4878,7 +4940,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 208561,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK"
@@ -5702,7 +5764,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 159640,
       "name": "Rampage (Free Fire Rampage Theme Song)",
       "url": "https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE"
@@ -5982,7 +6044,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
@@ -6160,6 +6222,54 @@
       "duration_ms": 208698,
       "name": "Savannah",
       "url": "https://open.spotify.com/track/0ZdUHFxifUJNqo7G4aJzoF"
+    },
+    {
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
+    },
+    {
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/4QKa6xzfvlkPXkAfmKQPlh"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0"
     },
     {
       "album": {
@@ -7012,7 +7122,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197822,
       "name": "Syren",
       "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
@@ -7778,7 +7888,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
@@ -7964,6 +8074,24 @@
       "duration_ms": 213677,
       "name": "Violence",
       "url": "https://open.spotify.com/track/2raUfi0wM6gDa3RDKNQySD"
+    },
+    {
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "album": {
@@ -8312,10 +8440,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 329531,
       "name": "When The Summer Dies",
       "url": "https://open.spotify.com/track/1Lgvs8WzpPbT5VuUFIAJwt"
+    },
+    {
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "album": {

@@ -12627,6 +12627,28 @@
     },
     {
       "album": {
+        "name": "JUMPIN",
+        "url": "https://open.spotify.com/album/2Gf3rUMIPtYL29TQx4Xnob"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "JUMPIN",
+      "url": "https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH"
+    },
+    {
+      "album": {
         "name": "Just Feels Tight",
         "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
       },

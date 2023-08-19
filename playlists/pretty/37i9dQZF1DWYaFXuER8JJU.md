@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,231 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,313 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [Escuela de Rancho \- En Vivo](https://open.spotify.com/track/70VNfnMiQ9huA5J8o8nmjB) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Emilio Garra y la Sangre Nueva, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6AxBFBz1lPoyTMr44xUm7k) | 2:45 |
 | 75 | [Simplemente Gracias \- En Vivo](https://open.spotify.com/track/7kTbcfiAVDGv2VBxddSrEf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:37 |
 
-Snapshot ID: `MCxiMWU5NTVhN2ZlN2YwMWRmMjFjZDgyN2E1ZjJkNGE4YTZmMmY2Zjlm`
+Snapshot ID: `MCw2MjE3M2VmMjc5OGNkNzBiMzliNTBiY2QyOTE1NjA4YmQ1MjVkNThj`

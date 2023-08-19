@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Eliott",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Victoria Canal",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5J8fTRkYJXCNJNxW7sFaOC"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210929,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/3ZG2ofDgouMnIcoPT8xgFz"
+    },
+    {
+      "album": {
         "name": "And Then Some",
         "url": "https://open.spotify.com/album/7jMXIbtas48z1ULzXLtFRa"
       },
@@ -932,6 +950,24 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "album": {
+        "name": "WELL WELL",
+        "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189123,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/0Z20yeDEotfT3LX8e6kSpk"
     },
     {
       "album": {
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 178077,
       "name": "Call U After Rehab",
       "url": "https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh"
@@ -1378,7 +1414,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165443,
       "name": "Can't Blame A Girl For Trying",
       "url": "https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5"
@@ -1612,7 +1648,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 162600,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
@@ -2329,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Eightball Girl",
+        "url": "https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Eightball Girl",
+      "url": "https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3"
+    },
+    {
+      "album": {
         "name": "Elephant In The Room",
         "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
       },
@@ -2682,7 +2736,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 196026,
       "name": "First Place",
       "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
@@ -2812,7 +2866,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 175736,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC"
@@ -3154,7 +3208,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 162834,
       "name": "Greek Street",
       "url": "https://open.spotify.com/track/3FOMG322NEExR04jEubVTW"
@@ -3572,7 +3626,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 182019,
       "name": "Holy Place",
       "url": "https://open.spotify.com/track/4hXkYDNE8j7JCJG3gzZD4C"
@@ -3932,7 +3986,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 184873,
       "name": "I Don\u2019t Need To",
       "url": "https://open.spotify.com/track/1C4nLRbgwtS1vUahjaldO0"
@@ -4350,7 +4404,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 141903,
       "name": "if i were a fish (feat. Olivia Barton)",
       "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
@@ -4732,7 +4786,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 212800,
       "name": "Jude Law",
       "url": "https://open.spotify.com/track/15rPuany8XoTaijKHdAf4j"
@@ -4822,7 +4876,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 222650,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
@@ -4840,7 +4894,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 169251,
       "name": "Kinda Like The Heartbreak",
       "url": "https://open.spotify.com/track/6GnaYqtSjiwt6tR6T0Uew5"
@@ -6111,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "NOTHING!",
+        "url": "https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139614,
+      "name": "NOTHING!",
+      "url": "https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz"
+    },
+    {
+      "album": {
         "name": "older",
         "url": "https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE"
       },
@@ -7066,7 +7138,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 243180,
       "name": "Secondhand Smoke",
       "url": "https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9"
@@ -9084,7 +9156,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 196053,
       "name": "Where Do All The Good Kids Go?",
       "url": "https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw"
@@ -9142,6 +9214,24 @@
       "duration_ms": 126316,
       "name": "winter",
       "url": "https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7"
+    },
+    {
+      "album": {
+        "name": "Worst Thoughts In The World",
+        "url": "https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153490,
+      "name": "Wish I Was A Single Girl Again",
+      "url": "https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog"
     },
     {
       "album": {

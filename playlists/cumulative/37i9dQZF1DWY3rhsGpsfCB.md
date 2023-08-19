@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-14 | 2022-10-01 |
-| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Leriq](https://open.spotify.com/artist/3hQSJlOr4WnGv5eDk88Pq3) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 |  |
+| [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 |  |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-06-23 |
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 |  |
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-13 | 2023-02-17 |

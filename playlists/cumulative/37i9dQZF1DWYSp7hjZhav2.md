@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-139 songs - 12 hr 50 min
+140 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Eclettico](https://open.spotify.com/track/4gT1E6EjayB7grJBCk49Dn) | [Ivan Masa](https://open.spotify.com/artist/67Gv7dwcRa7EjGDf1zWaHR) | [Year 000.000.001 \(Vol.IV\)](https://open.spotify.com/album/4qUsHn1OQJohSZQNC91QAI) | 6:48 | 2023-03-23 |  |
 | [Equilibrium](https://open.spotify.com/track/5LxPUORcjvRUK3D6X45n7A) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:36 | 2023-07-17 | 2023-08-15 |
 | [Estera](https://open.spotify.com/track/0HhiJrRsrK1o11pZli16pH) | [Joone](https://open.spotify.com/artist/1cwiFXVpO0awE541K7EZEV) | [Liberator](https://open.spotify.com/album/63qZOHZGH28mY9HCYFYuks) | 6:39 | 2022-10-05 | 2023-08-15 |
-| [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-15 |  |
+| [Eternity](https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:06 | 2023-08-14 |  |
+| [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-15 | 2023-08-19 |
 | [Everyday \- Jennifer Cardini Remix](https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Everyday \(Jennifer Cardini Remix\)](https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j) | 7:20 | 2023-06-08 |  |
 | [Everything Is Energy](https://open.spotify.com/track/5ntf4sjrfteE8gNVYxoatV) | [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae) | [Inception](https://open.spotify.com/album/0mwFSrY1aCKzeJMlX3CyNe) | 5:49 | 2023-03-23 |  |
 | [Exhilaration \- Shall Ocin Remix](https://open.spotify.com/track/2Hslrcg7tm6YRP4f7ohSHG) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 7:42 | 2022-10-05 |  |

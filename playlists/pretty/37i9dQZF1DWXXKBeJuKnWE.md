@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [fasterthanyourthoughts](https://open.spotify.com/track/3snoKKCrXliBRAPmKlJQiK) | [North Atlas](https://open.spotify.com/artist/3Ro0E3uacXuCx3iJoa8jua) | [fasterthanyourthoughts](https://open.spotify.com/album/1IASmWiXkPu2lfxNFqCiVv) | 3:10 |
 | 80 | [Boys In Blue](https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Boys In Blue / H.A.N.G](https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ) | 2:28 |
 
-Snapshot ID: `MCwwYzE4MDhkMTk0MWI2NjhjN2ZlNDk4ODAwOTlhYzVlN2FiN2ZmMDk5`
+Snapshot ID: `MCxlZjJmNTk4OTg0Njg2OTllYTBiYmU0ZWMzYjVjYThhYzMyOWNiMzMx`

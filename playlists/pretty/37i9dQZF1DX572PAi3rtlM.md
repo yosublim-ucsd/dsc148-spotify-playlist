@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,681 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,782 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 44 | [Morning Shift](https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Scented Trip](https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha) | 6:20 |
 | 45 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 |
 | 46 | [Figure of Jazz](https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Figure of Jazz](https://open.spotify.com/album/0HAJNbgqrpShglJNHfzYyw) | 3:32 |
-| 47 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 |
-| 48 | [Care About Me](https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Care About Me](https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs) | 3:33 |
+| 47 | [Care About Me](https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Care About Me](https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs) | 3:33 |
+| 48 | [Get a Life \(feat\. Bobby Womack\) \- Regrind 09](https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Raiding the Vaults](https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6) | 3:57 |
 | 49 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
 | 50 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
 
-Snapshot ID: `MCw4MDRiN2UwZjhmNDU1ZWIyYTRhNGMzZDNhMzZiZjJiOWFlNmMwZDdm`
+Snapshot ID: `MCxhZDYxMjY2NmEyNzEwYjc0ZDBkZDY1NTNmYTkyODY4NWNjOTc2NzY2`

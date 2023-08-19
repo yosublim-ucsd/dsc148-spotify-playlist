@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66291,
+      "name": "Always in My Heart",
+      "url": "https://open.spotify.com/track/0KjDKgHXmhLMlQN4ZBwE1G"
+    },
+    {
+      "album": {
         "name": "Sofia the First",
         "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
       },
@@ -300,6 +322,28 @@
       "duration_ms": 120586,
       "name": "Blue Ribbon Bunny",
       "url": "https://open.spotify.com/track/4yMmgJkRp0B5XDaU7BGQhH"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65649,
+      "name": "Blueberry Bonanza",
+      "url": "https://open.spotify.com/track/7C1OEcrw1JeKMrYikUv1MF"
     },
     {
       "album": {
@@ -592,7 +636,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 70167,
       "name": "Come on and Roll",
       "url": "https://open.spotify.com/track/3J65h7KKWj2eiWEnuPnWFa"
@@ -858,6 +902,24 @@
       "duration_ms": 85984,
       "name": "Everybody Wash Your Hands",
       "url": "https://open.spotify.com/track/6Aa2f5khjAv0xj3FMRHHGt"
+    },
+    {
+      "album": {
+        "name": "Everyone C'mon and Play (From \"Disney Junior Music: Disney Junior & Friends Playdate\")",
+        "url": "https://open.spotify.com/album/12hojZag5kFWjxBV66NDiE"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132929,
+      "name": "Everyone C'mon and Play - From \"Disney Junior Music: Disney Junior & Friends Playdate\"",
+      "url": "https://open.spotify.com/track/1NZeeb69oNAIdekg1PTSTT"
     },
     {
       "album": {
@@ -1416,7 +1478,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 67148,
       "name": "I Love Kittydale",
       "url": "https://open.spotify.com/track/1sXbwRecL52c9OcJcWnZjN"
@@ -2076,7 +2138,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 62069,
       "name": "Mickey Mouse Club March",
       "url": "https://open.spotify.com/track/6apPzU3anNr5qkDfcw55ep"
@@ -2372,7 +2434,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 66062,
       "name": "My Bath, My Bubbles and Me",
       "url": "https://open.spotify.com/track/0b01VtXleyxg2nxTomTmqg"
@@ -2398,6 +2460,28 @@
       "duration_ms": 66062,
       "name": "My Bath, My Bubbles and Me",
       "url": "https://open.spotify.com/track/3iSsbdnJwnCKlpSSKFZ29l"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66062,
+      "name": "My Bath, My Bubbles and Me",
+      "url": "https://open.spotify.com/track/5ymLrgUBktYcb79BXlMfoj"
     },
     {
       "album": {
@@ -3055,6 +3139,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127021,
+      "name": "SuperKitties Theme Song",
+      "url": "https://open.spotify.com/track/10wEHhCfKOvywm46uMm2Jr"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: SuperKitties",
         "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
       },
@@ -3092,7 +3198,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 127021,
       "name": "SuperKitties Theme Song",
       "url": "https://open.spotify.com/track/6jpIv3QGnbZdFJkBbmMTkf"
@@ -3920,6 +4026,28 @@
       "duration_ms": 60217,
       "name": "You're My Best Friend",
       "url": "https://open.spotify.com/track/1kcItYPpQBkvFVgTGNy2Gc"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62972,
+      "name": "Zsa-Zsa Ya Ya",
+      "url": "https://open.spotify.com/track/2oqB9en8cOf6Sl9NMEeu7H"
     },
     {
       "album": {

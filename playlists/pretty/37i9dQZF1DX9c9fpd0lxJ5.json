@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 455384,
+  "num_followers": 455417,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWJkNmQzZWVkMjA3MjA4MmYxMGM4YTU0N2E5MTdkYjlkMzAyOGY3",
+  "snapshot_id": "MCw5NzE2MGU3MzQzZDlhYzRkMWEwOTgwMTM4MTY1M2UwMGE1ZTQ0ZWQ4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 195239,
-      "name": "Story To Tell",
-      "url": "https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Volver A Empezar",
         "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 195239,
+      "name": "Story To Tell",
+      "url": "https://open.spotify.com/track/7vEQ7hcDYobr5p4OkejYGK"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "fantasies",
-      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 185007,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "fantasies",
+      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fugaz",
-        "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
-        },
-        {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Claro",
         "url": "https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 243245,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Fugaz",
+        "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+        },
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Feel it Now",
-      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "comoestasmiamor <3",
         "url": "https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         }
       ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
+      "duration_ms": 173374,
+      "name": "Feel it Now",
+      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2023-08-04 04:00:00",

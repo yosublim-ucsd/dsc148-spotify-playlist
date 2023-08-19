@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Burna Boy, Byron Messia
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,539 likes - 86 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,591 likes - 86 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 85 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
 | 86 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 
-Snapshot ID: `MCw2OGZhOGJlOTQ0MTdmOThhNDFkOGJjZWFkZjU0NzYwOTcxYWQxODUz`
+Snapshot ID: `MCxlZTMyNzZhZmEwMTRjNTJmMTA3NDMyZTQ4OTQzZThmN2VhMzA3YTg3`

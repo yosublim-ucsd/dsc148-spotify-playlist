@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 
 > Making moves all summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,075 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,078 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 49 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
 | 50 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 |
 
-Snapshot ID: `MCxlMmVkZTliN2ZlYjJkYWM5ODkwYWQ5OWY3NDg3YjUxMTU1ZTVhNTU0`
+Snapshot ID: `MCxiNDMxYWFmZmVlZGNkOWEwOGEwMDYxZmRiOGYzYjY5YjM3MzQ0Yjk2`

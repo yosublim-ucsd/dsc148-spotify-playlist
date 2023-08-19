@@ -90,7 +90,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
@@ -152,6 +152,28 @@
       "duration_ms": 311978,
       "name": "acceptance",
       "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
+    },
+    {
+      "album": {
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "album": {
@@ -932,7 +954,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
@@ -2918,7 +2940,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 238048,
       "name": "Rain On Me - Purple Disco Machine Remix - Edit",
       "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
@@ -3866,7 +3888,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 171805,
       "name": "The Weekend - Funk Wav Remix",
       "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
@@ -3902,7 +3924,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 165135,
       "name": "This Ain't Real",
       "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"

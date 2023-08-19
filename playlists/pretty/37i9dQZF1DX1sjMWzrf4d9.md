@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ">Ziwe Fumudoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 49 | [LORD FORGIVE ME](https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 3:24 |
 | 50 | [All Hands on Deck](https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:41 |
 
-Snapshot ID: `MCwxYjA1YjA3YWYzOWMzM2FmYjY4YzIyNWQ1ZGViNzMwMmRjODYzYTYz`
+Snapshot ID: `MCw2ODk0M2ZkODgyNjM2NWRlMjQwZWNlMmJhNWYzNDk5NzcwYmRmODU1`

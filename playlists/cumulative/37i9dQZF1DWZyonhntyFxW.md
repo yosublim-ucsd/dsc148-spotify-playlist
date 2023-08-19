@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM?si=OCLHw6D2TB\-ZZLoBlHkZzA"> زياد ظاظا </a>
 
-222 songs - 11 hr 19 min
+223 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [MI AMORI](https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Karta](https://open.spotify.com/album/4rKKoFTja1ZaQK5QnHXeXn) | 2:07 | 2023-04-11 | 2023-07-11 |
 | [Min Mafesh](https://open.spotify.com/track/4SeiaRJgwj6QxoHXWBytTF) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Min Mafesh](https://open.spotify.com/album/64RrPflL1cMVfgGC5te4XQ) | 3:53 | 2022-05-10 | 2022-07-15 |
 | [Mossadas Soot](https://open.spotify.com/track/235QPIAPALhFf6KaKJiNqy) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Mossadas Soot](https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ) | 3:13 | 2022-12-17 | 2023-02-16 |
-| [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-15 |  |
+| [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-15 | 2023-08-19 |
+| [Msh Da Elle Ekhtarto](https://open.spotify.com/track/4TA9jCeWYJvru5fv3FGAII) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/2dLHncSmks58yzlVvgsGFd) | 3:02 | 2023-08-17 |  |
 | [Msh Ha7el](https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Msh Ha7el](https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ) | 4:00 | 2022-05-10 | 2022-08-24 |
 | [NAPALM](https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO) | 2:24 | 2022-07-06 | 2022-08-24 |
 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 | 2022-05-10 | 2022-11-08 |

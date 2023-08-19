@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,601 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,620 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [LOVE is GAME](https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ) | [天空橋朋花 \(CV.小岩井ことり\)](https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU), [高槻やよい \(CV.仁後真耶子\)](https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb), [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [七尾百合子 \(CV.伊藤美来\)](https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 4:08 |
 | 75 | [Sweet Sweet Soul](https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti) | [大神 環 \(CV.稲川英里\)](https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn), [野々原 茜 \(CV.小笠原早紀\)](https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U), [Serika Hakozaki \(CV: Momo Asakura\)](https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7) | [THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody](https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH) | 4:52 |
 
-Snapshot ID: `MCxlYTdhNGNhNDNlOWFmNzRkN2E5YjA2NjVmOTlhYjNlNjg1ODE3MTgy`
+Snapshot ID: `MCwyMGU2YWI2MDBmNjQ5NzAwZDE0ZGMzZjQ5NGYxNzE1YTdiZmM3Yzgy`

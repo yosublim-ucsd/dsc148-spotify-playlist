@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-365 songs - 22 hr 5 min
+366 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [San Junipero \(Personal Heaven\)](https://open.spotify.com/track/47yy9VPldBmz4nG5MjWkyO) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy) | [San Junipero \(Personal Heaven\)](https://open.spotify.com/album/511ylApAZhVCUFKsk5P1AE) | 3:10 | 2022-06-17 |  |
 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 | 2022-12-02 | 2023-07-01 |
 | [Saturn Return](https://open.spotify.com/track/05Z0dV3UVSYHn7KFGnSwRn) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [For the Good Guys and the Bad Guys](https://open.spotify.com/album/2qSZ57aUUXJbwuNrU6APxh) | 3:17 | 2020-10-17 | 2022-04-21 |
-| [Say No More \- Gary B Balearic Remix](https://open.spotify.com/track/6wtq2JZGRRKInQCDkUf5Ir) | [Marga Sol](https://open.spotify.com/artist/4y7BFiVRM23Sw8fUPcfXRI), [Darles Flow](https://open.spotify.com/artist/4hdHzR9Eg6nQ0wYhyCU9Np), [M\-Sol MUSIC](https://open.spotify.com/artist/1odWkvK9dQ8DtQzbLCtoSz), [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Say No More \(Gary B Balearic Remix\)](https://open.spotify.com/album/7kCB3l0xJYiUZpxoz8Nopn) | 3:20 | 2022-11-04 |  |
+| [Say No More \- Gary B Balearic Remix](https://open.spotify.com/track/6wtq2JZGRRKInQCDkUf5Ir) | [Marga Sol](https://open.spotify.com/artist/4y7BFiVRM23Sw8fUPcfXRI), [Darles Flow](https://open.spotify.com/artist/4hdHzR9Eg6nQ0wYhyCU9Np), [M\-Sol MUSIC](https://open.spotify.com/artist/1odWkvK9dQ8DtQzbLCtoSz), [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Say No More \(Gary B Balearic Remix\)](https://open.spotify.com/album/7kCB3l0xJYiUZpxoz8Nopn) | 3:20 | 2022-11-04 | 2023-08-19 |
 | [Searching For Love \(with Norah Jones\)](https://open.spotify.com/track/51rp5qBH00hN8Xx3BlwHid) | [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Searching For Love \(with Norah Jones\)](https://open.spotify.com/album/2Kg9UEO1jRUXETsCwCKprL) | 6:24 | 2020-10-17 | 2022-04-09 |
 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 | 2020-10-17 | 2022-04-19 |
 | [Selfish Love](https://open.spotify.com/track/4fklgusc52EoLTiRx5hwOj) | [Emily Alexander](https://open.spotify.com/artist/3MT8riFDEyIoykxJ0rQAXc) | [Selfish Love](https://open.spotify.com/album/2sNd6MHVRN7p4uISWHoo4R) | 4:56 | 2022-06-10 |  |
@@ -367,6 +367,7 @@
 | [Who Made You?](https://open.spotify.com/track/2NsixmlhcdY2aHxvMou0vb) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Wood, Fire, Water, and Air](https://open.spotify.com/album/4KkbIGJ5fogLAW1Po0o3X6) | 4:49 | 2023-03-10 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-07-16 | 2022-11-13 |
 | [Will I Get Off Easy](https://open.spotify.com/track/1RsqyOxg254bZioR6jx5lD) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Will I Get Off Easy](https://open.spotify.com/album/6dFZJZEoVLsHnaq4a4UZwo) | 3:29 | 2020-10-17 | 2022-04-20 |
+| [With Me](https://open.spotify.com/track/2LviX2K6A98fRLLi1KLuo2) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4) | [With Me](https://open.spotify.com/album/5KwenN0bRpyZmFYN1zLPBE) | 2:32 | 2023-08-18 |  |
 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 | 2022-08-26 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-10-17 | 2022-04-19 |
 | [Wrong Side](https://open.spotify.com/track/4w7aZWX1LkjnU0JdJsbtL6) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [SISTERS](https://open.spotify.com/artist/2Hb8mc3CoUktri3i4Q4ACR) | [Wrong Side](https://open.spotify.com/album/3T1w4W9ClWrBYvZ7vkKjkx) | 3:29 | 2020-10-17 | 2022-04-21 |

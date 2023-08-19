@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,877,603 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,878,255 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 | 149 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 150 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
 
-Snapshot ID: `MCwzYTU4ZjM1MTg1MGQ1YTQwZWY3NDcyZGQyZTBkN2QxNWYwMWI1MmIw`
+Snapshot ID: `MCwxODE4MmVmNWUyYzkxNGFhY2M5MWY4NjQwMjVlZTQzYTc5YjJkMDli`

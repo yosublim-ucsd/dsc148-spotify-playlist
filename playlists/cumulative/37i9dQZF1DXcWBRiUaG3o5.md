@@ -4,7 +4,7 @@
 
 > Keep your night easy and light with this acoustic mix.
 
-222 songs - 14 hr 10 min
+223 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [By Night](https://open.spotify.com/track/2avzCVT0Zo4dgkp2vBgHOJ) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/7wOI4ZyLe9oNEdfa5AHgsg) | 3:38 | 2022-04-15 | 2022-04-20 |
 | [Call the Days](https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR) | 3:32 | 2021-11-11 | 2022-07-29 |
 | [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 | 2022-04-15 |  |
-| [Can't Get My Head Around Loving You](https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [EP 3](https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9) | 3:21 | 2022-04-15 |  |
+| [Can't Get My Head Around Loving You](https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [EP 3](https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9) | 3:21 | 2022-04-15 | 2023-08-19 |
 | [Can't Get My Head Around Loving You \- Acoustic Version](https://open.spotify.com/track/3gRWoyZSogGNdef8vlniMC) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [David Benjamin EP \(\#3\)](https://open.spotify.com/album/56MvxIPnHCLQbfvZ4CBNwW) | 3:21 | 2021-11-11 | 2022-07-29 |
 | [Catacombs](https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Tragedy Reel](https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM) | 3:21 | 2022-04-15 |  |
 | [Catacombs](https://open.spotify.com/track/3PMictcfHLzTZ5KuoUncAU) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Catacombs](https://open.spotify.com/album/3R8YzBopt0vhHil4yzxRko) | 3:21 | 2021-11-11 | 2022-07-28 |
@@ -95,6 +95,7 @@
 | [In the Stream](https://open.spotify.com/track/02iZJRlOZ7VRbzO8uVdOva) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/7hoiuRyh1XBh4YUOB0ZeGx) | 5:10 | 2022-04-15 | 2022-04-21 |
 | [In the Stream](https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO) | 5:10 | 2022-04-15 |  |
 | [Inferno](https://open.spotify.com/track/18wHQR3ZfXgVqMNGM8Cf1T) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [Inferno](https://open.spotify.com/album/4tfJjqfWP4Gh7vQO0kTOH0) | 3:41 | 2021-11-11 | 2023-04-05 |
+| [Inferno](https://open.spotify.com/track/6H66K7PGQMdXMlIzqxRl9z) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s) | 3:41 | 2023-07-14 |  |
 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 | 2022-04-15 |  |
 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 | 2021-11-11 |  |
 | [It Doesn't Really Feel Like Spring](https://open.spotify.com/track/7kegj615xcwQgwfhzCdIFE) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [It Doesn't Really Feel Like Spring](https://open.spotify.com/album/5CmXnw5BYbwYBayGMx0vYB) | 5:20 | 2021-11-11 | 2022-07-29 |

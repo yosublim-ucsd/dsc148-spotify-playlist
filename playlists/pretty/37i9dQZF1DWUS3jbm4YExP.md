@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,891 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,221 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 |
 | 100 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 |
 
-Snapshot ID: `MCwxNWE5OWRhMmU2OWMwYmQ2MDk5NzJkNzI2Mjg2NDFkNjgwYzA1OThk`
+Snapshot ID: `MCw4MGY3MTlmMzQzZTZkNzBjYzgzNDEyNjM1NDQxZWQ1ZTRjNjQzOWIw`

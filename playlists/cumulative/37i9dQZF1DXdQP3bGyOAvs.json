@@ -3091,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Melrose Melodies",
+        "url": "https://open.spotify.com/album/3IDZLVaoYsupTZsIUZlJRb"
+      },
+      "artists": [
+        {
+          "name": "Rodeo 55",
+          "url": "https://open.spotify.com/artist/3xkoKnukumjrChWnrtTz2F"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133112,
+      "name": "Melrose Melodies",
+      "url": "https://open.spotify.com/track/5bvLQQShcSRkSB1JACfIeC"
+    },
+    {
+      "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/6YEdcoWIiIjzUcqr11W2C0"
       },
@@ -4972,6 +4990,24 @@
       "duration_ms": 160941,
       "name": "sweaty palms",
       "url": "https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw"
+    },
+    {
+      "album": {
+        "name": "Swirls",
+        "url": "https://open.spotify.com/album/0ejb8K42cu7odeMxx7OvaT"
+      },
+      "artists": [
+        {
+          "name": "Pool-Man John",
+          "url": "https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158157,
+      "name": "Swirls",
+      "url": "https://open.spotify.com/track/3d3lF5sNvkYHe8oL7tDJtH"
     },
     {
       "album": {

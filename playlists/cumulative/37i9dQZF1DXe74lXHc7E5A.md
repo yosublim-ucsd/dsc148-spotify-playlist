@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Giggs
 
-266 songs - 13 hr 41 min
+267 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Wake Up](https://open.spotify.com/track/1NuHrhcA3S9EygdCouQrvL) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:42 | 2022-11-04 | 2022-11-21 |
 | [Walking On Water](https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Walking On Water](https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb) | 3:06 | 2023-02-10 | 2023-04-15 |
 | [WDGAF \(feat\. G\-Eazy\)](https://open.spotify.com/track/5E24FVNvb8mXpBAySTTr24) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [WDGAF](https://open.spotify.com/album/3o2X7lfauFKDAXIRAxox6Q) | 2:24 | 2023-06-29 | 2023-08-08 |
-| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 | 2023-08-19 |
 | [werrkk](https://open.spotify.com/track/7e9JRNhecXg0DMkjmk3Vlp) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mench](https://open.spotify.com/artist/7zSLmuJsSUxBN1QS9Mz93L) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 1:42 | 2022-10-28 | 2023-01-12 |
 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 | 2022-07-27 |  |
 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 | 2023-04-27 | 2023-07-26 |

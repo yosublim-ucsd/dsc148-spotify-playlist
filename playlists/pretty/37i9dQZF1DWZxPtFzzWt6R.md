@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Suellen Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,607 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,657 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 |
 | 60 | [Surpresas](https://open.spotify.com/track/4om9ARGmgO7LGViqZoGyav) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Surpresas](https://open.spotify.com/album/4Xd5WSqlGucQbmi9qfn214) | 3:38 |
 
-Snapshot ID: `MCw5ZTQ0MmMxNjE4NDk5NThjMDJlMjc5NzNkYTJlODQxODBjZGNhNGJl`
+Snapshot ID: `MCxlNWRjNjEzYTgxNjkxNmYyODA0OTg4ZjI5YTZhODYzOGEzMzVmNGJj`

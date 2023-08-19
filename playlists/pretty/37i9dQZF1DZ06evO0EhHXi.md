@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,356 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,441 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 36 | [Oh, Oh, I Love Her So \- 2017 Remaster](https://open.spotify.com/track/540McDHcq1tuwL44zzxxBk) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:09 |
 | 37 | [Wart Hog \- 2002 Remaster](https://open.spotify.com/track/6brX5IYzdEIfm1eFQtOZai) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 1:54 |
 | 38 | [Have You Ever Seen the Rain?](https://open.spotify.com/track/4Ri7GhJiAHy9dCYnxxWuzM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Acid Eaters](https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P) | 2:22 |
-| 39 | [Now I Wanna Sniff Some Glue \- 40th Anniversary Mono Mix](https://open.spotify.com/track/6HxJ1s6LaWVzSlmFwiAeeT) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:35 |
-| 40 | [Psycho Therapy \- 2002 Remaster](https://open.spotify.com/track/2ts97xvejbOEi0H5LAVCX8) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Subterranean Jungle \(Expanded 2005 Remaster\)](https://open.spotify.com/album/0YaEQO8yfc9NHEDiZu8ssX) | 2:34 |
-| 41 | [The Crusher](https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:27 |
-| 42 | [Spiderman](https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [The Chrysalis Years Anthology](https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ) | 1:56 |
-| 43 | [Take It as It Comes](https://open.spotify.com/track/1vfd5QkEplKvTtS9UJHpwo) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:07 |
+| 39 | [Psycho Therapy \- 2002 Remaster](https://open.spotify.com/track/2ts97xvejbOEi0H5LAVCX8) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Subterranean Jungle \(Expanded 2005 Remaster\)](https://open.spotify.com/album/0YaEQO8yfc9NHEDiZu8ssX) | 2:34 |
+| 40 | [The Crusher](https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:27 |
+| 41 | [Spiderman](https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [The Chrysalis Years Anthology](https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ) | 1:56 |
+| 42 | [Take It as It Comes](https://open.spotify.com/track/1vfd5QkEplKvTtS9UJHpwo) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:07 |
+| 43 | [Now I Wanna Sniff Some Glue \- 2016 Remaster](https://open.spotify.com/track/1KWWXe7kMpVptnBsdiiyVb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:35 |
 | 44 | [Chinese Rock \- 2002 Remaster](https://open.spotify.com/track/7hLzIknDV5aHHcEib9h5nY) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:28 |
 | 45 | [She Talks to Rainbows](https://open.spotify.com/track/0GVcm9IeiuWWOQk3yXI7yx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 3:14 |
 | 46 | [I'm Against It \- 2018 Remaster](https://open.spotify.com/track/0VPvLrFJby7clnTauyU8Ah) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [It's Gonna Be Alright](https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 3:19 |
 | 50 | [Suzy Is a Headbanger \- 2017 Remaster](https://open.spotify.com/track/5owteWmvd2fjKpvL7AXfkj) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:14 |
 
-Snapshot ID: `MjgyMDQ2MzYsMDAwMDAwMDBjZjhlNDA3ODc5MGQzMGJmYjIxODcyYjA3YzhlZjE4Mg==`
+Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDAxMmEzMTI1NGM5Yjg2M2QxZjI0MmMyMDA0MDVjYjE0Mw==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: MYA, Dread Mar I",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Nonpalidece",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -144,10 +144,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 391967,
       "name": "Agua Pasada",
       "url": "https://open.spotify.com/track/236n8kDjRqkZbTrUTx2Zvr"
+    },
+    {
+      "album": {
+        "name": "Ahora Lo S\u00e9",
+        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256372,
+      "name": "Ahora Lo S\u00e9",
+      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
     },
     {
       "album": {
@@ -223,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Alerta",
+        "url": "https://open.spotify.com/album/5XbDOpQwBvecKkdyh43rHO"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        },
+        {
+          "name": "Maxi Vargas",
+          "url": "https://open.spotify.com/artist/1FtPGO6iOU4CTmJ5YCTWPy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268007,
+      "name": "Alerta",
+      "url": "https://open.spotify.com/track/4fXzJ9jV41ZM0k6O5EyT89"
+    },
+    {
+      "album": {
         "name": "Algo Mejor",
         "url": "https://open.spotify.com/album/7xyf2OQgFuQnwbvaCi8QwX"
       },
@@ -274,7 +314,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
@@ -300,6 +340,24 @@
       "duration_ms": 260156,
       "name": "All Night Long - (Feat. Winter)",
       "url": "https://open.spotify.com/track/3SLNuRB8CPWqROnNSrMyIX"
+    },
+    {
+      "album": {
+        "name": "Alucinando",
+        "url": "https://open.spotify.com/album/3Z21WX0UmirXTGlIeGFNec"
+      },
+      "artists": [
+        {
+          "name": "Surco Pando",
+          "url": "https://open.spotify.com/artist/6QLmWuLP0FV8gMTpVDai9a"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243984,
+      "name": "Alucinando",
+      "url": "https://open.spotify.com/track/15Fm8P03dEoOvDnRaK10Bx"
     },
     {
       "album": {
@@ -354,7 +412,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 255529,
       "name": "Apnea",
       "url": "https://open.spotify.com/track/5oScrG8hVzyxoj2dwrSxrI"
@@ -1513,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "El Man Perfecto",
+        "url": "https://open.spotify.com/album/6gifQZChGomZlbjyvvG7wK"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "El Man Perfecto",
+      "url": "https://open.spotify.com/track/6liVt4KfKzMQ4vdedo8Ld2"
+    },
+    {
+      "album": {
         "name": "De Aqu\u00ed Son",
         "url": "https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K"
       },
@@ -1688,6 +1768,24 @@
       "duration_ms": 198434,
       "name": "Entre Sombras",
       "url": "https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY"
+    },
+    {
+      "album": {
+        "name": "Enviciame (Flex Version)",
+        "url": "https://open.spotify.com/album/3jnBSmHAIh1ceCNMP7oEIA"
+      },
+      "artists": [
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248800,
+      "name": "Enviciame - Flex Version",
+      "url": "https://open.spotify.com/track/52CNsdNu6mifPPtE19pV6R"
     },
     {
       "album": {
@@ -2124,6 +2222,24 @@
       "duration_ms": 288388,
       "name": "High (feat. Apache)",
       "url": "https://open.spotify.com/track/5KQVSvivJ89ZFAPdsLLtyq"
+    },
+    {
+      "album": {
+        "name": "Historias de telediario 2k23",
+        "url": "https://open.spotify.com/album/322M8InIcwrATC1Tkv0Dzn"
+      },
+      "artists": [
+        {
+          "name": "Ras Boti",
+          "url": "https://open.spotify.com/artist/5vRJzEp59H2aPTSAuoiV76"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164514,
+      "name": "Historias de telediario 2k23",
+      "url": "https://open.spotify.com/track/0LCl0WzSPzxdNAEebxhpNz"
     },
     {
       "album": {
@@ -2921,6 +3037,28 @@
     },
     {
       "album": {
+        "name": "Lo Mas Lindo (777 Remix)",
+        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218048,
+      "name": "Lo Mas Lindo (777 Remix)",
+      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
+    },
+    {
+      "album": {
         "name": "YO",
         "url": "https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX"
       },
@@ -3110,7 +3248,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151926,
       "name": "Lun\u00e1tico",
       "url": "https://open.spotify.com/track/1Mmil8flc62PPJO79zyGTN"
@@ -3212,6 +3350,28 @@
       "duration_ms": 189913,
       "name": "Me Gusta...",
       "url": "https://open.spotify.com/track/4ACcY8UVzHfBLbSQUuSgXv"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276904,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
     },
     {
       "album": {
@@ -3528,7 +3688,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228565,
       "name": "Mr. Selector",
       "url": "https://open.spotify.com/track/0J4FbI5kcd037ZRvkbtXhB"
@@ -3806,7 +3966,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 184309,
       "name": "Oh mama Oh papa 2k23",
       "url": "https://open.spotify.com/track/2xHCTb29ckLte6X1nSgrTP"
@@ -4080,7 +4240,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 209000,
       "name": "Primaveras",
       "url": "https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq"
@@ -4299,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n de los Dos?",
+        "url": "https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD"
+      },
+      "artists": [
+        {
+          "name": "palma",
+          "url": "https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210190,
+      "name": "Qui\u00e9n de los Dos?",
+      "url": "https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -4340,6 +4518,28 @@
       "duration_ms": 150422,
       "name": "Ready",
       "url": "https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl"
+    },
+    {
+      "album": {
+        "name": "Reggae en el Universo",
+        "url": "https://open.spotify.com/album/5vBxBN71u1eiOpSyPVBrQ0"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Mykal Rose",
+          "url": "https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236897,
+      "name": "Reggae en el Universo",
+      "url": "https://open.spotify.com/track/2Ia1yLjMXjNoGGqXb9rDHj"
     },
     {
       "album": {
@@ -4990,7 +5190,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197241,
       "name": "Ten paciencia",
       "url": "https://open.spotify.com/track/3xO3L3sFUMDtJQdRl8H9XG"
@@ -5026,7 +5226,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 253826,
       "name": "Todo se Soluciona",
       "url": "https://open.spotify.com/track/582ZzddI9KhmtvPfSUL81X"
@@ -5048,6 +5248,24 @@
       "duration_ms": 291920,
       "name": "Todo Tiene Su Tiempo",
       "url": "https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs"
+    },
+    {
+      "album": {
+        "name": "Trago Coqueto",
+        "url": "https://open.spotify.com/album/1peaQ1qGlbwL8V8LcKZElp"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Trago Coqueto",
+      "url": "https://open.spotify.com/track/1qHiEpXSWq4kMLKiBIVe1U"
     },
     {
       "album": {
@@ -5222,7 +5440,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 237406,
       "name": "Tu voz",
       "url": "https://open.spotify.com/track/7436kFEfVQFguBLjiWDUIM"
@@ -5538,7 +5756,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 227439,
       "name": "Vuela Alto",
       "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,930 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,034 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Coffee with My Baby](https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Winter in New York](https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF) | 2:47 |
 | 100 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 |
 
-Snapshot ID: `MCwyNjZjMzBkNzUwZTIyZDM2ZDhmNmQyYmY4MTRjYmQ2MTE3M2RhYTY1`
+Snapshot ID: `MCw3N2JhNTBlYjliOGEyOWRmNzM4OWQyY2ZiN2RlNDY1ZWQzNGEzYzM3`

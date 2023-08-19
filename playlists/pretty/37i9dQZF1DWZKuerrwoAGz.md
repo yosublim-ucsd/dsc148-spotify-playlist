@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 
 > Put a smile on your face with these happy tunes from the last 30 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,763 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,141 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 | 149 | [Call You Mine](https://open.spotify.com/track/2oejEp50ZzPuQTQ6v54Evp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:37 |
 | 150 | [Love Is All Around \- From "Four Weddings And A Funeral"](https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This \(20th Anniversary Edition\)](https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY) | 4:06 |
 
-Snapshot ID: `MCwxN2E1Njk3MmNhNmMwMDFiODBmYjE4ZTE4YzY4MjAxOTZjNGE5YzUz`
+Snapshot ID: `MCw0YmU3NzAwYWRkN2Y0MmE4ODA0NmJmMWQ3M2Y0YTFmZjMxMzdiYmRk`

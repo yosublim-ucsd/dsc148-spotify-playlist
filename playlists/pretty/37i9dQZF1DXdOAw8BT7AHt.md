@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in new punk rock music\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,646 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,664 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 35 | [Teenage Runaways](https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 2:59 |
 | 36 | [New England](https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 3:38 |
 | 37 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 |
-| 38 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
-| 39 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
+| 38 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
+| 39 | [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 |
 | 40 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
 | 41 | [Knees Deep](https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 3:39 |
 | 42 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
 | 43 | [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 |
-| 44 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
-| 45 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
+| 44 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
+| 45 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
 | 46 | [Losing My Mind](https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Losing My Mind](https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf) | 3:52 |
 | 47 | [Silence Is Golden](https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 2:56 |
 | 48 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 60 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 |
 | 61 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 |
 | 62 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
-| 63 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:04 |
-| 64 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
+| 63 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
+| 64 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:04 |
 | 65 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 |
 | 66 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 |
 | 67 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 79 | [Your Turn](https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Cairn](https://open.spotify.com/artist/6KxIsdPhNIBjLcChkonQsv) | [Your Turn](https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59) | 2:23 |
 | 80 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 
-Snapshot ID: `MCwxZWUzZDYwNDY0ZTQ5YjJmMWYwMDM2ODA1YWYyZmU5ZjVlNzlmNjli`
+Snapshot ID: `MCxlNzYwODc1Yjc4Y2FlMzBhZmNlZjU5YTQ0MDBiNjIxMWQ2NGQyMTll`

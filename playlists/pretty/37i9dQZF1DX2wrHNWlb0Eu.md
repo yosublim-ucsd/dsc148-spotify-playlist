@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,640 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,684 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 |
 | 100 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 |
 
-Snapshot ID: `MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3`
+Snapshot ID: `MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj`

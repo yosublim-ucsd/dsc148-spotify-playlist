@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Icona Pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,311 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,331 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 4 | [Space Case](https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Space Case](https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L) | 3:32 |
 | 5 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 |
 | 6 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
-| 7 | [NO PLACE IS TOO FAR \(feat\. Whethan & Sela Sol\)](https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [NO PLACE IS TOO FAR \(feat\. Whethan & Sela Sol\)](https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf) | 3:00 |
+| 7 | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf) | 3:00 |
 | 8 | [First Time](https://open.spotify.com/track/2PuctoOgahj3IgAqURAeGo) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [First Time](https://open.spotify.com/album/0kzZi3FGojs0BAck5ZFXsA) | 2:14 |
 | 9 | [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/3WDEo5D6KzsvS9uSPLS2j7) | 3:56 |
 | 10 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 64 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 |
 | 65 | [dontstopme!](https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [dontstopme!](https://open.spotify.com/album/3GBBjfai3AbK7ma8hDU8ic) | 3:41 |
 
-Snapshot ID: `MCwwMTA3OWRiZTFiM2VlMDUzY2IwOTA4M2QyN2JjZTM4MDQwMWIyODky`
+Snapshot ID: `MCw2ODlmM2Q2NmY5MmY2ODZkMDVkNDVkODk5NTk2MTUyOGEzYjg3N2Q0`

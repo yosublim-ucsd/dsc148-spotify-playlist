@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,995 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,228 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
 | 100 | [Called it Love](https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Called it Love](https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a) | 3:06 |
 
-Snapshot ID: `MCw3NjVjY2Q2ODk3NDM4NDQ3NGYwMjExNWVmZWYzZWY0MGVmYmYzY2Mx`
+Snapshot ID: `MCxhNWIxYzc0M2M0OTEyYTI5YTI3ZWQyNWVjNzkwMGJhZWViMjdkYTll`

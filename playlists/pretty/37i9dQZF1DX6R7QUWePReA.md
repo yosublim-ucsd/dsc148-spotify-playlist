@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1950\- 1980 for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,936,896 likes - 74 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,936,829 likes - 74 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 73 | [We Wish You A Merry Christmas](https://open.spotify.com/track/0Xrev0e2wVRSkq84SJiEMg) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [A Christmas Together](https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW) | 1:05 |
 | 74 | [Christmas Medley: Joy To The World/Deck The Halls/O Come All Ye Faithful/Jingle Bells](https://open.spotify.com/track/73gbEonI6EtiPiqxcsN8DL) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies](https://open.spotify.com/album/1SDZGLwOJjtqGrCEbQKTdW) | 12:08 |
 
-Snapshot ID: `MCxiYTA4MzY2N2IyOTAwOTY5OTViYmVkMmU1MTQzYmQ0NzU0MzgzNzc1`
+Snapshot ID: `MCxhY2Y4NzQ1NDgwYzY1OTUxMDAyM2U1NDhlNWMxOWNlNWZmMGQyMDZk`

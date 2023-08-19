@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-317 songs - 17 hr 30 min
+318 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-31 | 2023-02-03 |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 |  |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2023-01-31 |  |
+| [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 | 2023-08-17 |  |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-08-10 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-15 | 2023-07-12 |
 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-03-09 | 2023-03-15 |
@@ -299,7 +300,7 @@
 | [ルージュ](https://open.spotify.com/track/7g6lGyhKD2OYByD6YJq4im) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [ルージュ](https://open.spotify.com/album/7fH4NYbcCV994KVTuv520x) | 3:10 | 2023-06-22 | 2023-07-05 |
 | [ワンダーランド](https://open.spotify.com/track/7CdJxQfuNWmEOE9o5uOBeN) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [ワンダーランド](https://open.spotify.com/album/7s8ehl5oKWpGPiuLVA1WBO) | 3:18 | 2023-02-21 | 2023-02-23 |
 | [儚くない](https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [儚くない](https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2) | 5:10 | 2023-06-20 | 2023-07-21 |
-| [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 |  |
+| [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 | 2023-08-19 |
 | [夏に願いを](https://open.spotify.com/track/4pb8LEHZGvygnrq1fmFoNn) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [夏に願いを](https://open.spotify.com/album/6skgWhfs8YhK8mPhLosuQe) | 3:01 | 2023-07-11 | 2023-07-13 |
 | [夢の続きを](https://open.spotify.com/track/0fHXumWliyCu45JzeHM5nc) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [夢の続きを](https://open.spotify.com/album/14Dv5zMhRfjN4gwHVU3NFh) | 4:09 | 2023-03-21 | 2023-03-31 |
 | [夢みるスーパーマン](https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 3:12 | 2023-07-18 | 2023-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 
 > Canciones que marcaron época en nuestro rock\. ¡Para cantar a los gritos! Foto: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,160 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,850 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 | 49 | [Sexo](https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:47 |
 | 50 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 
-Snapshot ID: `MCw4MmZlZmY0MzQyZDc4NDIwNDVjMmI4YWRjZTA1YTM5Y2YwMzg4NzZk`
+Snapshot ID: `MCw4ODE1YzAyMzk5ODkwNWZmMzExNDkzNGUyYWMwNmY2YjgxZDRlY2Y3`

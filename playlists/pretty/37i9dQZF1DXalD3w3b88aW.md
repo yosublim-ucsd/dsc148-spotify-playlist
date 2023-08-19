@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,294 likes - 76 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,297 likes - 76 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,17 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 54 | [Sexy You \(Interlude\)](https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:50 |
 | 55 | [Room 454: De Vante's " Inhermission"](https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 2:10 |
 | 56 | [Definition of a Bad Girl \(Interlude\)](https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 1:10 |
-| 57 | [Tears Away \(Interlude\)](https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:41 |
-| 58 | [Looking For Love \(Interlude\)](https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Damita Jo](https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S) | 1:29 |
+| 57 | [Looking For Love \(Interlude\)](https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Damita Jo](https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S) | 1:29 |
+| 58 | [Tears Away \(Interlude\)](https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:41 |
 | 59 | [Why \(Interlude\)](https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:43 |
 | 60 | [J.L \(Interlude\)](https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 0:39 |
 | 61 | [Smoke \(Interlude\) \(feat\. Soko\)](https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Soko](https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 2:42 |
 | 62 | [Whoomp \(Interlude\)](https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 3:36 |
 | 63 | [Woman In Me \- Interlude](https://open.spotify.com/track/043ZLCXdYqnD8TK0UkLBNK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 1:37 |
 | 64 | [Interlude](https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Still Ghetto](https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa) | 0:48 |
-| 65 | [C'mere](https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 2:10 |
-| 66 | [Interlude 2 \(Can't Stop\)](https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Usher](https://open.spotify.com/album/0euolARSHQGtySLAWUvilr) | 2:42 |
-| 67 | [Stay \(Interlude\)](https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:56 |
+| 65 | [Stay \(Interlude\)](https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:56 |
+| 66 | [C'mere](https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 2:10 |
+| 67 | [Interlude 2 \(Can't Stop\)](https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Usher](https://open.spotify.com/album/0euolARSHQGtySLAWUvilr) | 2:42 |
 | 68 | [The Meaning \- Interlude](https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 1:16 |
 | 69 | [I Surrender \- Interlude](https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:14 |
 | 70 | [There Will Be No Fuck Tonight \(Interlude\)](https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:38 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 72 | [Special Place \- Interlude](https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:01 |
 | 73 | [20 \- Pt\. 2 / Interlude](https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [20 Y.O.](https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA) | 0:27 |
 | 74 | [Ghetto \(Interlude\)](https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 1:21 |
-| 75 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
-| 76 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
+| 75 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
+| 76 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
 
-Snapshot ID: `MCxjMzQ0OGIzYzVhN2EyNDRlOTVhNGU1MmE2YzFlOTBjYTEyNTIyODA2`
+Snapshot ID: `MCwxZjBlOTJiMWYxMzQ5ZDYwYTY4YmIwZjM3NjFlMmU5NmE3ZjZiMDNh`

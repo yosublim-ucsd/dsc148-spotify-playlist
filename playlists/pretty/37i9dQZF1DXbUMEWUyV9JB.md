@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! De todas, Norteñas, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,491 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,652 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 84 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
 | 85 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 |
 | 86 | [El Pavido Navido \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:59 |
-| 87 | [El Final De Nuestra Historia](https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [El Final De Nuestra Historia](https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu) | 3:55 |
-| 88 | [La Chica Sexy](https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Jugo A La Vida](https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK) | 3:44 |
+| 87 | [La Chica Sexy](https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Jugo A La Vida](https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK) | 3:44 |
+| 88 | [El Final De Nuestra Historia](https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [El Final De Nuestra Historia](https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu) | 3:55 |
 | 89 | [Llorar](https://open.spotify.com/track/7JIVOkgktlJWxzzq5ANpN6) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Hoy](https://open.spotify.com/album/24sGCfEJfvqNhHKIJhecsD) | 3:38 |
 | 90 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU) | 4:47 |
 | 91 | [Cumbia Yemaya](https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 2](https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz) | 3:16 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 93 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
 | 94 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 |
 | 95 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
-| 96 | [Ángel Malvado](https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 5:05 |
-| 97 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
+| 96 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
+| 97 | [Ángel Malvado](https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 5:05 |
 | 98 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
 | 99 | [No Me Engañes Nunca](https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T), [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH), [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [No Me Engañes Nunca](https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX) | 3:53 |
 | 100 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 |
 
-Snapshot ID: `MCw3YjY5ZjBjYzhmNDgzOTBiOThkZjg2YTQ2YTg2MDliNjI4ZjU3NjI1`
+Snapshot ID: `MCw0YzRiZWEzMmMzMjJkYzM0N2M2MTBlMmMxNmI5MDg2ZmZmOWJkZTNl`

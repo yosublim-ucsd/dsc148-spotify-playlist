@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-219 songs - 12 hr 52 min
+223 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [I Dare You to Love](https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl \(Deluxe Edition\)](https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO) | 3:19 | 2021-10-15 |  |
 | [I Don't Go To Funerals](https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 2:27 | 2022-04-29 |  |
 | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/track/3OjOvDWOs299i08qEvOanH) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/album/7FOwTnSqH3KAgmt6SYstvJ) | 3:30 | 2021-10-15 | 2022-09-21 |
+| [I Had to be Me](https://open.spotify.com/track/4lwTsFFN0sjWOuXWPO7byg) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Then and Now](https://open.spotify.com/album/6Zm7MjUy4J6rv3Oy3ypmfF) | 3:03 | 2023-08-18 |  |
 | [I Like It When It's Stormy](https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Rich White Honky Blues](https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW) | 3:19 | 2022-06-17 |  |
 | [I Saw The Light](https://open.spotify.com/track/7gIu8tkCEcIdVoljpO849s) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Saw The Light](https://open.spotify.com/album/6xgWPrEIArT7J0WNJjJs8I) | 1:52 | 2021-11-12 | 2022-04-23 |
 | [I Tell It Like It Used to Be](https://open.spotify.com/track/5bIaDkp8NlTyYDuzROomMv) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Bare Bones](https://open.spotify.com/album/0T2AE8uzds9x1msXA6Y6UE) | 3:14 | 2021-10-15 |  |
@@ -127,9 +128,11 @@
 | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC) | 3:25 | 2023-06-02 |  |
 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 | 2021-10-15 |  |
 | [Left Their Mark](https://open.spotify.com/track/5zNj9vXUE6RDjknA2uTfFL) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA) | 3:55 | 2023-06-30 |  |
+| [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2023-08-18 |  |
 | [Life is Beautiful](https://open.spotify.com/track/1Gh6WLiKriWRKof9E4nSRz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 3:53 | 2022-07-22 |  |
 | [Life is Beautiful](https://open.spotify.com/track/2I13ZwV1Xz1UqoemhWa7fz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Swing Down Chariot](https://open.spotify.com/album/1ZycZB9RBLz942ouEEDJbz) | 3:53 | 2022-11-04 | 2022-11-14 |
 | [Life Is Beautiful](https://open.spotify.com/track/4k8AXzJaJ2k85BdZLKRGWW) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Life Is Beautiful](https://open.spotify.com/album/1td6EkbqoWPK7RWEVnTUGY) | 3:53 | 2021-10-15 | 2022-07-29 |
+| [Like The Father Loves His Son](https://open.spotify.com/track/3dyVOChV1GFrJE3MEVcipH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Like The Father Loves His Son](https://open.spotify.com/album/74ddOaszG42h8A1I83efzu) | 4:37 | 2023-08-18 |  |
 | [Little by Little](https://open.spotify.com/track/4zSbTl3sUeqanklVBUqO8p) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Little by Little](https://open.spotify.com/album/3kcWY1qUhNQVWLFPYKdfAc) | 3:17 | 2023-03-31 |  |
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-08-19 |  |
 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/34FxbXBm1QjQ44lUBL8Rn9) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/album/1v9u00mgkfhhRJm7yMSIdz) | 3:36 | 2021-10-15 |  |
@@ -154,6 +157,7 @@
 | [Oughta Miss Me by Now](https://open.spotify.com/track/6RcWdxxvdKiEByaJM3WEny) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Tradition Lives](https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO) | 3:37 | 2021-10-15 |  |
 | [Out of My Mind \(Country\)](https://open.spotify.com/track/1cEM4aYMmGdm6j8SRimVHG) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Out of My Mind \(Country\)](https://open.spotify.com/album/1EuPbXPAp6kO8qQSxvuJmn) | 3:19 | 2023-07-14 |  |
 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 | 2022-02-25 |  |
+| [Plans](https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Plans](https://open.spotify.com/album/6bPToqWK7UeSk6rvI2wEAq) | 3:39 | 2023-08-18 |  |
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |

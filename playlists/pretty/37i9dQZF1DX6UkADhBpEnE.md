@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UkADhBpEnE.md) - [plain]
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,397 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,438 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UkADhBpEnE.md) - [plain]
 | 12 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 |
 | 13 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 14 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
-| 15 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 |
+| 15 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 |
 | 16 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 17 | [Good Bye](https://open.spotify.com/track/1rpiNePakpelGxsKFzNVBP) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Good Bye](https://open.spotify.com/album/6qdTJTp6Lya9Aias2YnPpG) | 4:10 |
 | 18 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UkADhBpEnE.md) - [plain]
 | 79 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 |
 | 80 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 
-Snapshot ID: `MCxhMDdhZTZmZGVlMTAxMzdiYmRjZmQxMDQ5YTRiN2E3MzNkMWE4NmIy`
+Snapshot ID: `MCxlYmZlYTFlZWQ0ZGZlZDRlMDMwMDU2OGU1NmJhZDVlZTUxZmNkODJm`

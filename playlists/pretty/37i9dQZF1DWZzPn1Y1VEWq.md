@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,466 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,615 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 99 | [Western](https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:08 |
 | 100 | [Cosas Del Amor](https://open.spotify.com/track/5NLQrrvnWFrwbtl5Li3AuB) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Nunca Se Acaba](https://open.spotify.com/album/5sN0cr5TIs5sm29m0FfOCY) | 3:03 |
 
-Snapshot ID: `MCxlOTY4YTY5ZDI1NmNjNGNhMzhhMzA4YTY3MDkzMDI1Zjc5YzgzNWYw`
+Snapshot ID: `MCxjZDk5MGI2YTZmMWMwMzMzN2I4NjE1ZDE1MjY4MDVjZjM2Mzk1NGUx`

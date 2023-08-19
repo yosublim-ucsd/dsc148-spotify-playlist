@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Creo En Mi (Versi\u00f3n de: ANTOLOG\u00cdA 20 A\u00d1OS)",
+        "url": "https://open.spotify.com/album/1zFYAdhfPwLHEEHGGsoBwz"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248431,
+      "name": "Creo En Mi - Versi\u00f3n de: ANTOLOG\u00cdA 20 A\u00d1OS",
+      "url": "https://open.spotify.com/track/20kACW3Sxoi4Lmq7E8wH48"
+    },
+    {
+      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 343353,
       "name": "La Noche Mas Linda",
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"

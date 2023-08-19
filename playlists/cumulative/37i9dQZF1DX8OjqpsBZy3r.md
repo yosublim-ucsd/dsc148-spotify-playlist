@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-161 songs - 8 hr 52 min
+163 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Only Prettier](https://open.spotify.com/track/05Rdg52eBYVUy5A55rnz39) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:09 | 2021-12-03 |  |
 | [Project](https://open.spotify.com/track/6TpqWzySgiHLoXvQvyGtqH) | [Chase McDaniel](https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz) | [Project](https://open.spotify.com/album/1G8cAFBiy4I0B2kri57wll) | 2:59 | 2023-06-23 |  |
 | [Queens Don't](https://open.spotify.com/track/0ExiKxfY5rHBW06TcV1xXU) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Queens Don't](https://open.spotify.com/album/7KoovpscXVlfyQdklbirMC) | 3:05 | 2021-12-03 |  |
+| [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-18 |  |
 | [Ride](https://open.spotify.com/track/2Dp0QLXSfuGr5XVlLwzXLk) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Macy Maloy](https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq) | 4:01 | 2021-12-03 | 2022-07-16 |
 | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/track/1zy1BTARE7tQFSwxBFUI32) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [No Body \- Just Country](https://open.spotify.com/album/37MDJTMSE7FhaXVv1OnLLD) | 3:06 | 2022-10-11 | 2022-11-13 |
 | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/5rPnLz5tuUOuWfh69TOwNP) | 3:06 | 2021-12-03 | 2022-07-29 |
@@ -131,6 +132,7 @@
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-28 |  |
 | [She's Country](https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:40 | 2021-12-03 | 2022-07-16 |
 | [She's Mine](https://open.spotify.com/track/1ac5TkGKdYuR43vgKJ652F) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [She's Mine](https://open.spotify.com/album/7AQIoedGAYR8u8f0W5ILw2) | 2:58 | 2021-12-03 |  |
+| [Shoebox Money](https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Shoebox Money](https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci) | 2:56 | 2023-08-18 |  |
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-01-13 |  |
 | [Side Effects](https://open.spotify.com/track/7oKZnoWkLDZjsNsPxYvIWx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Side Effects](https://open.spotify.com/album/38q9a6NcGWx8y1uu0NZgNG) | 3:11 | 2021-12-03 |  |
 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 | 2022-10-11 |  |

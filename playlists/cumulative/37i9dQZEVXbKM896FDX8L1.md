@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-1,225 songs - 3 day 0 hr 21 min
+1,226 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Candy](https://open.spotify.com/track/4h5m56ExHLPUC9NGz7U1Qa) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6phMKMOoIv4CLmOH5m7Lj3) | 4:58 | 2022-08-16 | 2022-09-04 |
 | [Canter](https://open.spotify.com/track/02ZpBHAVj7sj0Wyxmo4cY7) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [The Bonny](https://open.spotify.com/album/3OuBVsnWGsUPsPsw8ua9l1) | 4:26 | 2022-06-20 | 2022-06-22 |
 | [Canyon Moon](https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:09 | 2022-06-23 | 2022-06-25 |
-| [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-05-22 |  |
+| [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-05-22 | 2023-08-19 |
 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 | 2022-04-24 | 2022-05-04 |
 | [Castles Crumbling \(feat\. Hayley Williams\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:06 | 2023-07-08 | 2023-07-13 |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2022-05-07 | 2022-05-10 |
@@ -279,6 +279,7 @@
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-06-07 |
 | [Dirty Old Town](https://open.spotify.com/track/0qH487xSz8Z6Xk4kyOQkbG) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 3:45 | 2022-03-18 | 2023-03-20 |
+| [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 | 2023-08-18 |  |
 | [Disturbia](https://open.spotify.com/track/30VrBsh1STRBoIrhQOAwzK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 3:58 | 2022-11-01 | 2022-11-03 |
 | [Divide](https://open.spotify.com/track/0PbCOBEUjlnvBCe5uCdLlw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:23 | 2022-11-19 | 2022-11-21 |
 | [Divine Timing](https://open.spotify.com/track/7sijTMzX1BhbwVE33Ujmnl) | [Tea Janee](https://open.spotify.com/artist/2y8YKDHxaZvnrVXFDClXnt) | [Divine Timing](https://open.spotify.com/album/28aLAWpWqaKRQjLv2UUahJ) | 2:40 | 2023-01-23 | 2023-01-25 |

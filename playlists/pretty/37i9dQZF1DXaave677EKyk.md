@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a generation of party starters\. Cover: FISHER & Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,204 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,305 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
 | 80 | [Don't Call Me Baby](https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC) | 3:07 |
 
-Snapshot ID: `MCw3YTg5MjExOWRjOTZjNGJjMWY0NWMwOWUxNjUxOThhMzRmNWQyYTU0`
+Snapshot ID: `MCwxNDJjYTY4MTIwOTQzMTM0MzgyMmYzY2JjNzg4MDI3NWE2OTAyNTdj`

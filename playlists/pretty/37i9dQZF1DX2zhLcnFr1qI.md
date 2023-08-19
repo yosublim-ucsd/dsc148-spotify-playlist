@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,474 likes - 37 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,468 likes - 37 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
 | 37 | [Last Christmas](https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Last Christmas](https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu) | 3:53 |
 
-Snapshot ID: `MCw3YWNhYTQwM2NmNjFlYmVjODY4Yjg4ZDM1YmFkMTIyYzBmYmM2NDNi`
+Snapshot ID: `MCw3ZDNlZDYwN2U1MzBmODgxZjVjYTkwNjViZDBhOTIyZDRmMDYyOWQw`

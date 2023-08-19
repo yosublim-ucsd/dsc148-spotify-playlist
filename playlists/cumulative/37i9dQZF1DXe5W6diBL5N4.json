@@ -10767,6 +10767,24 @@
     },
     {
       "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
+    },
+    {
+      "album": {
         "name": "Wish.zip (1)",
         "url": "https://open.spotify.com/album/3nHdBxVCmwSbZE45N8fphQ"
       },
@@ -20960,6 +20978,28 @@
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI"
+    },
+    {
+      "album": {
+        "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
     },
     {
       "album": {
@@ -35756,6 +35796,24 @@
       "duration_ms": 343890,
       "name": "FURY (feat. Nucksal, RHYME-A- & Basick)",
       "url": "https://open.spotify.com/track/7d5xtJWSRwuClKVWRYbFrd"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258542,
+      "name": "Future (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV"
     },
     {
       "album": {
@@ -53886,6 +53944,24 @@
       "duration_ms": 247341,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/2ojPs9EOleXPZFvL7r6x6U"
+    },
+    {
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "album": {
@@ -77669,7 +77745,7 @@
         },
         {
           "name": "DOHANSE",
-          "url": "https://open.spotify.com/artist/4S2HVmgwIEUBnsCShyAUnO"
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
         },
         {
           "name": "Dive",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,410 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,441 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
 | 100 | [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 |
 
-Snapshot ID: `MCxhMDMwNDIyNWFjZDk3ZDEwZDZiMTZmYThkMmJmMGRlNDgwZjFjYmRi`
+Snapshot ID: `MCxiNDk5NmFhYjgzZWRjMTFiMGJhZDg5NmYyMDkyOGExYWQzZGJlNjQx`

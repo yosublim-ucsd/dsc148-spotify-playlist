@@ -2,9 +2,9 @@
 
 ### [K\-Club Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: IVE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: aespa\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-589 songs - 1 day 8 hr 26 min
+590 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Beautiful Beautiful](https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:10 | 2022-03-24 | 2022-04-21 |
 | [BELIEVER](https://open.spotify.com/track/7louodH5FUYuL3yvHQtq3O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:16 | 2022-04-12 | 2022-04-18 |
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2022-01-03 | 2022-06-08 |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2022-01-03 | 2022-01-08 |
 | [Bird](https://open.spotify.com/track/3XVuZNR6DbQNPJ4mBXblf7) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [Bird](https://open.spotify.com/album/5YFm9vyuN5mbZmzzBhse9R) | 3:04 | 2022-03-31 | 2022-04-05 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-12-02 | 2023-02-07 |
@@ -145,12 +146,12 @@
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-04-21 |
 | [DDARA](https://open.spotify.com/track/5ZGWNNcE2q3v8phEw0ZWci) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [DDARA](https://open.spotify.com/album/7vYhvCOcaB9udeX2oK5QMX) | 3:45 | 2022-04-12 | 2022-04-15 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:29 | 2022-03-24 | 2022-04-07 |
-| [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-28 | 2023-08-17 |
+| [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-28 |  |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2022-01-03 | 2022-06-20 |
 | [DESSERT](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [DESSERT](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) | 3:20 | 2022-03-31 | 2022-04-16 |
 | [DESSERT](https://open.spotify.com/track/6uL0aCgluLb9Jv9TzpJtNs) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Illusion](https://open.spotify.com/album/05ayO3bflWVKghdPEhBD0q) | 3:25 | 2022-01-13 | 2022-06-11 |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-21 | 2023-06-07 |
-| [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-07-13 |  |
+| [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-07-13 | 2023-08-19 |
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-12 | 2022-07-06 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-05-22 |
 | [Dingga](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Dingga](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) | 2:59 | 2021-12-21 | 2022-07-28 |
@@ -397,7 +398,7 @@
 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-05-01 | 2023-05-10 |
 | [PERFUME](https://open.spotify.com/track/3pjOGd5o1jFJeoYjVikSGw) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [PERFUME](https://open.spotify.com/album/3tpVxUoanwClXujLRctalj) | 3:13 | 2022-03-29 | 2022-04-01 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-12-21 | 2022-07-29 |
-| [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-07-28 |  |
+| [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-07-28 | 2023-08-19 |
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-03 | 2022-07-01 |
 | [Phobia](https://open.spotify.com/track/6m8vPz16wTojmAnVgdWtls) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:32 | 2022-03-02 | 2022-04-17 |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2022-03-24 | 2022-04-04 |

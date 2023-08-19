@@ -1,13 +1,33 @@
 {
-  "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 95479,
+  "description": "A new take on a classic sound. Cover: Idina Menzel",
+  "num_followers": 95589,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDdmNzE4ZTA4OGMwMjMzZWFjZjg1M2FjMjBjNGU0MjliM2VmZDY4",
+  "snapshot_id": "MCw0ZTZiNjY4NzM2ZmMzNTYyYTE4OWM3NTdiYzEyOTU0ZjcwYzNlNzYw",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Paradise (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/0BfdHIeFgdUvuCHbFYriJ4"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 212001,
+      "name": "Paradise (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK"
+    },
     {
       "added_at": "2023-06-02 04:01:00",
       "album": {
@@ -103,6 +123,26 @@
       "duration_ms": 170034,
       "name": "Broke a Sweat",
       "url": "https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Michael Batiste",
+          "url": "https://open.spotify.com/artist/1HhxyoQLcufGgej3hU46aA"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "CALL NOW (504-305-8269) (feat. Michael Batiste)",
+      "url": "https://open.spotify.com/track/3knkb8Uye1Ndmx6abiIJCC"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1665,22 +1705,6 @@
       "url": "https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Happy Feet",
-        "url": "https://open.spotify.com/album/6hzOYxTPevulNU4sihTakC"
-      },
-      "artists": [
-        {
-          "name": "David Blazer",
-          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "Happy Feet",
-      "url": "https://open.spotify.com/track/5vIjRSQN0qOzNA8yD62nS5"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Make That Change",
@@ -1867,34 +1891,6 @@
       "duration_ms": 164000,
       "name": "Retro Magic",
       "url": "https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "It's Gonna Be Alright (Ricky Birickyno Remix)",
-        "url": "https://open.spotify.com/album/5ypOk5AWTooT79vNee52Ai"
-      },
-      "artists": [
-        {
-          "name": "The Soultrend Orchestra",
-          "url": "https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
-        },
-        {
-          "name": "Frankie Lovecchio",
-          "url": "https://open.spotify.com/artist/5v4HimVMqQbkqKg9kBrkQT"
-        },
-        {
-          "name": "Ricky Birickyno",
-          "url": "https://open.spotify.com/artist/1hxQACgW4A0vQr2yzk3IrD"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "It's Gonna Be Alright - Ricky Birickyno Classic Remix Edit",
-      "url": "https://open.spotify.com/track/4zr3R8lzGvORufPJqQW3Di"
     }
   ],
   "unique_name": "Nu-Disco",

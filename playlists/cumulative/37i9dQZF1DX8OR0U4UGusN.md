@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-260 songs - 14 hr 19 min
+261 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dribble \(feat\. RIZ LA VIE\) \- Remix](https://open.spotify.com/track/6XIaGWpwKY7nzPJl7YIDA5) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Dribble \(feat\. RIZ LA VIE\) \[Remix\]](https://open.spotify.com/album/1H8Ygnlo5pb2cuG9a9n6Hw) | 4:01 | 2021-08-05 |  |
 | [Driving in the City](https://open.spotify.com/track/1koSROGPbhkEzxOE8JYHXW) | [Brandon Mig](https://open.spotify.com/artist/74YPVzM6BBn0HKrMHqD2iK) | [Driving in the City](https://open.spotify.com/album/4uzhGURcS9dnzQVsXrryPH) | 3:30 | 2021-08-05 | 2023-01-27 |
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-12-14 |  |
+| [DX](https://open.spotify.com/track/1iO9BS2GiqrVjSeYcNTzs2) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [&ONE](https://open.spotify.com/album/4AtoqPGFghALemE4MBeCxP) | 1:58 | 2023-08-18 |  |
 | [Easy On Them Turns](https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:15 | 2022-12-15 |  |
 | [Elastic](https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [QUARTERTHING](https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn) | 2:06 | 2021-08-05 | 2022-12-16 |
 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 | 2023-08-09 |  |
@@ -87,7 +88,7 @@
 | [FEEL LIKE](https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu) | 3:08 | 2022-07-25 | 2022-10-02 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 | 2022-10-06 | 2023-01-27 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2021-11-12 | 2022-10-13 |
-| [Feels Like Yesterday](https://open.spotify.com/track/2UnhQgwBpyZlOtcvhDlx1Y) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Feels Like Yesterday](https://open.spotify.com/album/027AHWfrY6McSuGQc4knI2) | 2:56 | 2023-08-09 |  |
+| [Feels Like Yesterday](https://open.spotify.com/track/2UnhQgwBpyZlOtcvhDlx1Y) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Feels Like Yesterday](https://open.spotify.com/album/027AHWfrY6McSuGQc4knI2) | 2:56 | 2023-08-09 | 2023-08-19 |
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-08-05 | 2022-11-13 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2021-12-29 | 2022-12-16 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-09-03 | 2022-12-01 |

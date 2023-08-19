@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,991 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,190 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 149 | [Juan Martha](https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:10 |
 | 150 | [La Suburban Dorada](https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [10 Corridos Pesados](https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf) | 3:15 |
 
-Snapshot ID: `MCxmZmNhMjMwYWVhMGUwMTg2MjYwNmQ3NmZjODE2ZDYzMmMwNzhhZDhm`
+Snapshot ID: `MCwyMWMyODUzNmUxZGNkNjg4NjJiNzkyMjBkZTMzM2Y2NDEyYWU0Mjgx`

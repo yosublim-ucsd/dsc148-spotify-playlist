@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,069,594 likes - 750 songs - 1 day 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,070,075 likes - 750 songs - 1 day 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Wineyard bonanza](https://open.spotify.com/track/2eepnu15fsjc0UBgnlSXOA) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Wineyard bonanza](https://open.spotify.com/album/6NCvS57TwEPiMQ0FPdGnuZ) | 2:20 |
 | 750 | [Coconut Sly](https://open.spotify.com/track/7LCi1or4WBVdh5AwsNdMzS) | [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:06 |
 
-Snapshot ID: `MCwyY2I2NmI4ZjU5YjQzYmQwZWJlM2Y0MzgzZjkwMTNmMzJiY2VjMTkx`
+Snapshot ID: `MCw3ZTNlNzAyNjY5NjdmNGU4MzBhNTliY2ZkYTYwNGNiZDhhN2VmNzI3`

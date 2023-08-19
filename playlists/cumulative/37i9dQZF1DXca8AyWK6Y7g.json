@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "1st Gen",
+        "url": "https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg"
+      },
+      "artists": [
+        {
+          "name": "Shuba",
+          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "1st Gen",
+      "url": "https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA"
+    },
+    {
+      "album": {
         "name": "2 The Weekend",
         "url": "https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw"
       },
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 165764,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1"
@@ -4532,7 +4550,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 195262,
       "name": "care about myself",
       "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
@@ -6636,7 +6654,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 166600,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
@@ -8058,7 +8076,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 222186,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL"
@@ -8160,7 +8178,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 158837,
       "name": "DROP TOP (feat. Eddie Zuko)",
       "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
@@ -8562,6 +8580,24 @@
       "duration_ms": 133985,
       "name": "End of an Era",
       "url": "https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48"
+    },
+    {
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU"
     },
     {
       "album": {
@@ -10826,7 +10862,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 163927,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
@@ -14904,6 +14940,24 @@
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
+    },
+    {
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162701,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
     },
     {
       "album": {
@@ -20957,6 +21011,24 @@
     },
     {
       "album": {
+        "name": "NOTHING!",
+        "url": "https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139614,
+      "name": "NOTHING!",
+      "url": "https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz"
+    },
+    {
+      "album": {
         "name": "Nothing's All The Time",
         "url": "https://open.spotify.com/album/6mpySMwG3IZ7hSnqGF9Z2A"
       },
@@ -21822,7 +21894,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 205389,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/4xkRUKaEIDzskDJtUeW9lE"
@@ -23068,6 +23140,24 @@
       "duration_ms": 133608,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/3fKdTr6Uv8HTb92Ih3QWxa"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146234,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
     },
     {
       "album": {
@@ -25550,7 +25640,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 171278,
       "name": "Sick",
       "url": "https://open.spotify.com/track/0onHKgp0eyOh8ftYR7OF8v"
@@ -25774,7 +25864,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
@@ -26828,6 +26918,24 @@
       "duration_ms": 134179,
       "name": "Spend Some Money",
       "url": "https://open.spotify.com/track/6ZEy0mLwBQ5KMZgiVi4BFB"
+    },
+    {
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
     },
     {
       "album": {
@@ -28600,7 +28708,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 196679,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
@@ -28876,6 +28984,24 @@
       "duration_ms": 183021,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/0Exmgtcwu1ZMOXt4rioXbo"
+    },
+    {
+      "album": {
+        "name": "Texts Go Green",
+        "url": "https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633"
     },
     {
       "album": {
@@ -29618,7 +29744,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 237574,
       "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
       "url": "https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,586 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,794 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [sorry isn't good enough](https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:07 |
 | 75 | [closure](https://open.spotify.com/track/2TozmWy9NS5FMqqnEq8AJy) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 2:22 |
 
-Snapshot ID: `MCwwOGRmMjg3Y2UxNmI5MTU3ZDRmN2M4MTJkY2E2NGIwODViYmE5ODc1`
+Snapshot ID: `MCwxMGZiMDFhNjBiZjljNjI2NjJiMGNiN2I4NDdlMTIwMGE2MTU0NDE2`

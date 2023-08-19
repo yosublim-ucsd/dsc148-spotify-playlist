@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198729,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER"
+    },
+    {
+      "album": {
         "name": "Rocking Heels (Live at Metal Church)",
         "url": "https://open.spotify.com/album/5knCTUlcSMUictOCrzrxyl"
       },
@@ -552,7 +570,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 277893,
       "name": "All Things Pass - Live at Hollywood Palladium",
       "url": "https://open.spotify.com/track/19GNUsTrKKX3tSKYOPAUbT"
@@ -865,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Lluvia y Sol",
+        "url": "https://open.spotify.com/album/5i0XWTwkgPSTbragoQpzDu"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128699,
+      "name": "Awaits Clouds",
+      "url": "https://open.spotify.com/track/0h8vChP5RgPClAd0xvhZtI"
+    },
+    {
+      "album": {
         "name": "Baby, You Wouldn't Last A Minute On The Creek",
         "url": "https://open.spotify.com/album/1YWCnoSKXxmCg1s76sJhYO"
       },
@@ -1080,6 +1116,24 @@
       "duration_ms": 251521,
       "name": "Barracuda - Live 1985",
       "url": "https://open.spotify.com/track/0PB5asiVnUI2n9Uf1CasUy"
+    },
+    {
+      "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
     },
     {
       "album": {
@@ -1942,7 +1996,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 258665,
       "name": "CONTIGO",
       "url": "https://open.spotify.com/track/3pKG8z85Hsa4IiDwlELHf6"
@@ -2070,7 +2124,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 278886,
       "name": "Crawlin' King Snake - Live",
       "url": "https://open.spotify.com/track/0GtsDors3yNyty544NPAOP"
@@ -2262,7 +2316,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 290417,
       "name": "Dark Ice - Single Version",
       "url": "https://open.spotify.com/track/4WCnwHiyThWJmUaWFaUwFt"
@@ -3707,6 +3761,28 @@
     },
     {
       "album": {
+        "name": "Greenwich (Daniel Avery Interpolation)",
+        "url": "https://open.spotify.com/album/2ZoxawxdHAQSJeReB2cveV"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270539,
+      "name": "Greenwich - Daniel Avery Interpolation",
+      "url": "https://open.spotify.com/track/3H7wG9CzVXdiYcarxBnYb1"
+    },
+    {
+      "album": {
         "name": "Gris",
         "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
@@ -3740,6 +3816,24 @@
       "duration_ms": 210666,
       "name": "Guardian's Watch",
       "url": "https://open.spotify.com/track/0j50VxpcSXjF7brTgRukFJ"
+    },
+    {
+      "album": {
+        "name": "UNDEROATH VOYEURIST | Digital Ghost",
+        "url": "https://open.spotify.com/album/18NawZFszlESLx6Y6nyfwQ"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180076,
+      "name": "Hallelujah - Live From Digital Ghost",
+      "url": "https://open.spotify.com/track/6Ei0vUXTpLhXGgasCTceha"
     },
     {
       "album": {
@@ -3780,7 +3874,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200347,
       "name": "Halo - Matt Tuck Rework",
       "url": "https://open.spotify.com/track/0rfqxtRF6WGPsskq9uOQnd"
@@ -4176,7 +4270,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 289290,
       "name": "Hijos de la Tierra - En Vivo",
       "url": "https://open.spotify.com/track/5UkY5OcXJEBmxtwgIbtwgO"
@@ -4831,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "The Moment You Find Your Flame",
+        "url": "https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190635,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/3CzoVCSPGjuxwUyC3Md3g2"
+    },
+    {
+      "album": {
         "name": "In Between Days",
         "url": "https://open.spotify.com/album/5n7si8hMvAU6tysyu7mr0c"
       },
@@ -5056,7 +5168,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 253293,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
@@ -6957,6 +7069,28 @@
     },
     {
       "album": {
+        "name": "My Curse Is My Redemption (Summer 80's Remix) (feat. Canttias)",
+        "url": "https://open.spotify.com/album/1wq2AuEEKUcMSMNYXrw91N"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        },
+        {
+          "name": "Canttias",
+          "url": "https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279452,
+      "name": "My Curse Is My Redemption - Summer 80's Remix",
+      "url": "https://open.spotify.com/track/53Y1vozzPxq8CBjIqQPtbI"
+    },
+    {
+      "album": {
         "name": "My Friends",
         "url": "https://open.spotify.com/album/0FGxSGjKVfl2J1BIjv9llm"
       },
@@ -7550,10 +7684,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 358900,
       "name": "Olive Tree - Bright-Side Mix",
       "url": "https://open.spotify.com/track/3Eq9hqFwjfmKXzDr2P4IlF"
+    },
+    {
+      "album": {
+        "name": "Olive Tree (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/7yLA3b6IWOzPbDBQtzvanf"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358900,
+      "name": "Olive Tree - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/3teCyIIX75bOUFJOPpaUjb"
     },
     {
       "album": {
@@ -7780,7 +7932,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 317083,
       "name": "Out In The Street - Live Hollywood, CA 1976",
       "url": "https://open.spotify.com/track/0tQa96AB5xvHnAcdIuhEHH"
@@ -7904,7 +8056,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 150485,
       "name": "Pass Large",
       "url": "https://open.spotify.com/track/01pN0gIXGXNkncvT9lMcMo"
@@ -8956,7 +9108,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 61711,
       "name": "Romeo end Juliet, Fantasy Overture: X",
       "url": "https://open.spotify.com/track/0zDmGu4KZJy21f8NJp67TK"
@@ -10259,6 +10411,24 @@
     },
     {
       "album": {
+        "name": "Te juro que volver\u00e9",
+        "url": "https://open.spotify.com/album/6CmRyotLh0DawLADSy5mPQ"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210226,
+      "name": "Te juro que volver\u00e9",
+      "url": "https://open.spotify.com/track/4g9BWkumIqN1lbH3g0h24F"
+    },
+    {
+      "album": {
         "name": "Telepath",
         "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
       },
@@ -10376,7 +10546,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 349093,
       "name": "The Cold Song - Arnaud Rebotini Remix",
       "url": "https://open.spotify.com/track/2O6oLpez0hMjKv1qe77enL"
@@ -10398,6 +10568,36 @@
       "duration_ms": 260935,
       "name": "The Court - Bright-Side Mix",
       "url": "https://open.spotify.com/track/17IhZb4LMagwWtAEuzMs6y"
+    },
+    {
+      "album": {
+        "name": "The Craziest Thing (Lost Boy Remix) [Official Song European Table Tennis Championship 2023]",
+        "url": "https://open.spotify.com/album/2uLuplKxpnZaXd9rdG2Yq0"
+      },
+      "artists": [
+        {
+          "name": "PG Roxette",
+          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
+        },
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/2AiNqs2e9dbEg1Ob8l7RQw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "The Craziest Thing (Lost Boy Remix) - Official Song European Table Tennis Championship 2023",
+      "url": "https://open.spotify.com/track/4XnZDTY6faWn4KNpJH5dcf"
     },
     {
       "album": {
@@ -10550,6 +10750,32 @@
       "duration_ms": 334430,
       "name": "The King",
       "url": "https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94"
+    },
+    {
+      "album": {
+        "name": "The Last Remnant",
+        "url": "https://open.spotify.com/album/1SE73kaAP98yTjjr0eAcdT"
+      },
+      "artists": [
+        {
+          "name": "SHIVA",
+          "url": "https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj"
+        },
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        },
+        {
+          "name": "Fullmetal Jessie",
+          "url": "https://open.spotify.com/artist/7MEOsCmZzAe5CMP2FefopH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286167,
+      "name": "The Last Remnant",
+      "url": "https://open.spotify.com/track/4KPoIuoi3CGWeDcHv290mg"
     },
     {
       "album": {
@@ -11830,6 +12056,28 @@
       "duration_ms": 189544,
       "name": "Verso Por Saludo",
       "url": "https://open.spotify.com/track/6pQZ6v3WVO16zMdUxcVSi7"
+    },
+    {
+      "album": {
+        "name": "Rachmaninoff, Tchaikovsky etc; Works for Piano",
+        "url": "https://open.spotify.com/album/3Sk0rgbZiuKPowNs20LpAz"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108093,
+      "name": "Visions fugitives, Op. 22: XX. Lento",
+      "url": "https://open.spotify.com/track/01ZlnMfEbLVoDXT1CfOyTv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: División Minúscula
 
-234 songs - 13 hr 2 min
+236 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Al menos ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 | 2023-05-08 | 2023-08-04 |
 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 | 2023-04-14 |  |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-11 |  |
+| [Algo Me Dice](https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Algo Me Dice](https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v) | 4:17 | 2023-08-18 |  |
 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 | 2022-12-09 | 2023-01-28 |
 | [AM 686 \(Baila Borrachin\)](https://open.spotify.com/track/6Giv0QAyUZkXmrQuGVVwkY) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Siempre es Domingo](https://open.spotify.com/album/31GxDV3JayxMdG91eKoNip) | 2:50 | 2022-04-15 | 2022-12-10 |
 | [Amanecer Distinto](https://open.spotify.com/track/7iqkAo06Zi7Oqrx3sMXSfv) | [Los Tempestades](https://open.spotify.com/artist/1pCufdD30Lg2ipgL59qYLo) | [Amanecer Distinto](https://open.spotify.com/album/2PIzXBzk6modgFwPi90rEJ) | 2:12 | 2022-04-15 | 2022-12-10 |
@@ -111,7 +112,7 @@
 | [La Trampa](https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Trampa](https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3) | 3:36 | 2023-07-28 |  |
 | [La Última Canción](https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Última Canción](https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy) | 2:37 | 2023-04-14 |  |
 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 | 2022-12-16 |  |
-| [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-02-11 |  |
+| [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-02-11 | 2023-08-19 |
 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 | 2023-04-27 |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-04-15 | 2022-12-10 |
 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 | 2023-02-24 |  |
@@ -199,6 +200,7 @@
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-03-03 |  |
 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 | 2022-12-09 |  |
 | [Si Te Pierdes, Nos Perdemos Juntos \| Ui](https://open.spotify.com/track/07Y5e1JIb0SktfRaCmKgpD) | [De Osos](https://open.spotify.com/artist/6QYqaSY7KhpQjMqIbqEh8K), [Throne For A Coward](https://open.spotify.com/artist/03emA0Aj3p5X2HLWjpJ2NK) | [Modificaciones del Modelo Original](https://open.spotify.com/album/6gnmos5liRTIAotnBdDjJL) | 5:13 | 2022-04-15 | 2022-12-10 |
+| [Si Te Vas](https://open.spotify.com/track/6wbgERfpGwUFHNSwQLCwKF) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Si Te Vas](https://open.spotify.com/album/32IJV6gbrWojxS0hGx1Oeu) | 3:38 | 2023-08-18 |  |
 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 | 2023-06-09 |  |
 | [Sintonízate](https://open.spotify.com/track/44664P6a23SRPxG3RzJwVs) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Sintonízate](https://open.spotify.com/album/4INjnB6dE6HFMh6fPQmXB3) | 2:38 | 2022-04-15 | 2022-12-10 |
 | [SOLO QUIERO A MI MAMÁ](https://open.spotify.com/track/3YEm3SszPXnPVLoNzgtM3j) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DESEO INMORTAL](https://open.spotify.com/album/0T0OKfBTUQlzqqYFS1b8Kv) | 2:50 | 2023-05-12 |  |
@@ -229,7 +231,7 @@
 | [Trueno](https://open.spotify.com/track/7kBi255cSaTNYI6bNq3Yf3) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Trueno](https://open.spotify.com/album/0jqnLzo96FODjGzBeXFmXe) | 4:20 | 2022-04-15 | 2022-12-10 |
 | [Tu Tiempo](https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:25 | 2023-01-13 |  |
 | [UN AÑO DE MIERDA](https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [UN AÑO DE MIERDA](https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O) | 2:50 | 2023-07-28 |  |
-| [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 | 2023-07-07 |  |
+| [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 | 2023-07-07 | 2023-08-19 |
 | [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 | 2023-05-05 | 2023-08-01 |
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 |  |
 | [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 | 2022-12-13 |

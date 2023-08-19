@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho
 
-1,016 songs - 2 day 14 hr 29 min
+1,017 songs - 2 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-16 | 2023-05-26 |
 | [Night Out](https://open.spotify.com/track/0qO3nh7giIoryNbhpkA52V) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Night Out](https://open.spotify.com/album/3M5Zug7kp9osZEXxUBgLix) | 4:24 | 2022-12-06 | 2022-12-21 |
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-02-17 | 2022-03-23 |
-| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
 | [No.9](https://open.spotify.com/track/0b4cJRPCtjUbXek96CV9ry) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr) | [No.9](https://open.spotify.com/album/0xMoFUthDGNhftRVpwon4b) | 2:00 | 2022-03-01 | 2022-03-30 |
 | [Nobody Else](https://open.spotify.com/track/7o6gii1cpB6aKbPN1KcaFS) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Nobody Else](https://open.spotify.com/album/7DbB7h5iJFboC4W6cBB7uV) | 2:59 | 2022-04-27 | 2022-05-25 |
 | [NORLUSS](https://open.spotify.com/track/6Qcpizu30yYKN7rEFxcKWp) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Melody](https://open.spotify.com/album/4Nm8hiPsfTDjzzA0RalBNj) | 2:58 | 2022-11-15 | 2023-02-08 |

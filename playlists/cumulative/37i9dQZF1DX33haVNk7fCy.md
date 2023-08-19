@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-77 songs - 5 hr 9 min
+78 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 | 2023-06-05 |  |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2023-08-02 |  |
 | [Riha](https://open.spotify.com/track/6Ln89sczgIcAJXGAIdS94R) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Riha](https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6) | 4:47 | 2023-05-15 |  |
-| [Rihaee](https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9) | 3:02 | 2023-05-15 |  |
+| [Rihaee](https://open.spotify.com/track/08CBQI14mZrISwe6MZwncj) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/4E6LXR3qfiqiXZox6slosO) | 3:02 | 2023-08-17 |  |
+| [Rihaee](https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9) | 3:02 | 2023-05-15 | 2023-08-19 |
 | [Roke Na Ruke Naina \(From "Badrinath Ki Dulhania"\)](https://open.spotify.com/track/6jzUvO5F2fnOvYqCTMd5U1) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heart Touching Songs](https://open.spotify.com/album/17tjOnr6MqgosUNRmThObQ) | 4:38 | 2023-05-15 |  |
 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 | 2023-05-15 |  |
 | [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2023-05-15 |  |

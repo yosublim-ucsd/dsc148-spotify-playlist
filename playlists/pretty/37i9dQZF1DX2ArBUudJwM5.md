@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Estamos listas para un festival único • <a href="https://www.ticketek.com.ar/festival\-equal/hipodromo\-de\-palermo">Comprá tu entrada acá</a> <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,810 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,901 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
 | 2 | [Quiénes Son?](https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:42 |
 | 3 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
-| 4 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
+| 4 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 5 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 |
-| 6 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 |
-| 7 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
-| 8 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
-| 9 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 |
-| 10 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 |
-| 11 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
-| 12 | [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 |
-| 13 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
-| 14 | [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 |
-| 15 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
+| 6 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
+| 7 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 |
+| 8 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
+| 9 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
+| 10 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 |
+| 11 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 |
+| 12 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
+| 13 | [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 |
+| 14 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
+| 15 | [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 |
 | 16 | [Respira](https://open.spotify.com/track/0saIDjEHkPm4LgafFqsEo5) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [El Buen Gualicho](https://open.spotify.com/album/4uucwPifnf35dXKEQJm3kT) | 4:08 |
 | 17 | [Viene de Mi](https://open.spotify.com/track/2z4UdFhJPFIRxv7toicES1) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/5pAJASef6SxMTZlm1eWHxH) | 3:50 |
 | 18 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 99 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 |
 | 100 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 |
 
-Snapshot ID: `MCw2ZGJhNTdjZTA3ODRmN2Y2ZTczOWQ1OTkwMWZiNmVlYmQzNzhlYTFi`
+Snapshot ID: `MCw0NzBkZDQ1ODA0MjVlODlmMjgyZDE1OGI5YzYzMjA2MDI4MzFiMzJl`

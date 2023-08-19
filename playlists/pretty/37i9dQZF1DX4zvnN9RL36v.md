@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,712 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,720 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 49 | [One\-sided love](https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [One\-sided love](https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw) | 3:10 |
 | 50 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
 
-Snapshot ID: `MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk`
+Snapshot ID: `MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm`

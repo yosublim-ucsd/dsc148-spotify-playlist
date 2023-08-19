@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,388 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,464 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [911 \- Sofi Tukker Remix](https://open.spotify.com/track/4jw0We86Jsyj134Yp5RseD) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [911 \(Sofi Tukker Remix\)](https://open.spotify.com/album/25eMUZJOY6nhsIZl9D5WUb) | 3:46 |
 | 50 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
 
-Snapshot ID: `MCxmMTMzYmRlYWMwOTU2MzdmNDkwMWE0MGE2YzdjOGMzNzVhYmE3NDk5`
+Snapshot ID: `MCwyZDI4NDlkNDA1MGE3NDZlNDAwNDYzYjM4YmJkM2FkM2UyZjFlZjU5`

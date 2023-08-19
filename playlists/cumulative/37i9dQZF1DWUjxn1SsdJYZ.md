@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KAHUKX
 
-531 songs - 1 day 0 hr 54 min
+532 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Mamacita](https://open.spotify.com/track/1lWBBogPlnCmAGHUHzURhp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Mamacita](https://open.spotify.com/album/2lUlXB0w58lyu86R48Iy6r) | 2:49 | 2022-11-03 | 2023-07-19 |
 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 | 2022-06-30 | 2022-12-09 |
 | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V) | 2:12 | 2023-04-27 |  |
+| [Me & My Bro](https://open.spotify.com/track/2rHq0RPEMossYbAB0GiB8H) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Me & My Bro](https://open.spotify.com/album/2vQ9vxLRZD3xiDMZc5507V) | 2:29 | 2023-08-17 |  |
 | [Me, Myself & I](https://open.spotify.com/track/1ArxdrtfnJF0TmX1nKYLo1) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [Me, Myself & I](https://open.spotify.com/album/29j7VYXyK0w4WqkESTRICn) | 2:18 | 2022-09-02 | 2023-03-10 |
 | [Meet Me at the Bottom \(ft\. Open Till L8\)](https://open.spotify.com/track/0jco6ujuz4TmpWZXdvT54R) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Meet Me at the Bottom \(ft\. Open Till L8\)](https://open.spotify.com/album/6MOb4PzNkF7yOOGAB2HqaB) | 2:40 | 2023-03-30 |  |
 | [Melanin](https://open.spotify.com/track/5tj4mOsSHvTaivDLlg7ZqL) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [lxrdmc](https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ), [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [Melanin](https://open.spotify.com/album/3HcSMiiBfkIRSzwrdqLYMV) | 2:31 | 2023-06-16 |  |

@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 285152,
       "name": "100 Bars",
       "url": "https://open.spotify.com/track/0yYYco9yk2nclC82ioryu8"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 169703,
       "name": "3AM in the Yams (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO"
@@ -1751,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Big Pimpin' (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123575,
+      "name": "Big Pimpin' (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS"
+    },
+    {
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -1940,6 +1962,28 @@
       "duration_ms": 144594,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
+    },
+    {
+      "album": {
+        "name": "Blood Moon (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Blood Moon (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
     },
     {
       "album": {
@@ -4319,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
+    },
+    {
+      "album": {
         "name": "Face No Book (feat. Blueface)",
         "url": "https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g"
       },
@@ -4480,6 +4542,24 @@
       "duration_ms": 172361,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
+    },
+    {
+      "album": {
+        "name": "Popstar Degenerate",
+        "url": "https://open.spotify.com/album/6WajZMT4XGmHhZ3nfDUFnG"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Far Down",
+      "url": "https://open.spotify.com/track/1V3pE4gh4dA3h0KmijMXBD"
     },
     {
       "album": {
@@ -4904,6 +4984,28 @@
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
+    },
+    {
+      "album": {
+        "name": "Rocket Power",
+        "url": "https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237402,
+      "name": "Focused (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3fX6IqwpcIYjyJwQFdJF8c"
     },
     {
       "album": {
@@ -5486,7 +5588,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197380,
       "name": "GOATED. (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
@@ -6558,6 +6660,28 @@
       "duration_ms": 136150,
       "name": "HUNNIDDOLLA",
       "url": "https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY"
+    },
+    {
+      "album": {
+        "name": "HVN ON EARTH",
+        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
     },
     {
       "album": {
@@ -9228,7 +9352,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 153600,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/4sNclT17s1pL7R3n9XBMqg"
@@ -9886,6 +10010,24 @@
       "duration_ms": 180000,
       "name": "NOSTYLIST",
       "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
+    },
+    {
+      "album": {
+        "name": "Ganger",
+        "url": "https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224470,
+      "name": "Not a Drill",
+      "url": "https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl"
     },
     {
       "album": {
@@ -10900,7 +11042,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
@@ -11250,7 +11392,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151142,
       "name": "Project Walls (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
@@ -11352,6 +11494,28 @@
       "duration_ms": 181970,
       "name": "Punch Bowl (with Clipse & Nigo)",
       "url": "https://open.spotify.com/track/1NxZp8uYShqpkxcyaaLUKs"
+    },
+    {
+      "album": {
+        "name": "Pup (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/2f3LlIcQZR3oXSifiomh3l"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "Pup (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et"
     },
     {
       "album": {
@@ -11672,7 +11836,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -12585,6 +12749,24 @@
     },
     {
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -13075,6 +13257,32 @@
     },
     {
       "album": {
+        "name": "Rocket Power",
+        "url": "https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226102,
+      "name": "Stain (feat. Hunxho and BabyDrill)",
+      "url": "https://open.spotify.com/track/7wV3kIwsnKaKkm3hg2dTKz"
+    },
+    {
+      "album": {
         "name": "Life Of Sossa",
         "url": "https://open.spotify.com/album/4SO5yoY3kfQsJh3GI1bjSf"
       },
@@ -13448,7 +13656,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 189153,
       "name": "Sucka Or Sum",
       "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"
@@ -14036,7 +14244,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
@@ -14426,7 +14634,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 177983,
       "name": "Trappin N Rappin (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg"
@@ -15141,6 +15349,32 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5jSLWdWiktk0O4UQRX0Cf6"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4uBrX2f80YyvgwoIPnDMVP"
+    },
+    {
+      "album": {
         "name": "Weeks (feat. NoCap)",
         "url": "https://open.spotify.com/album/1ljMmc8zAt3Ls7AW9JrAO0"
       },
@@ -15460,7 +15694,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 205885,
       "name": "Wholeworldslatt (feat. Veeze)",
       "url": "https://open.spotify.com/track/3fyWuJpGOok9xs2TxniPIn"

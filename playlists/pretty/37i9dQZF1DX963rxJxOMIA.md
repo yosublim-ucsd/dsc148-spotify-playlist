@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como el nuevo disco de LA BICHOTA 🧜🏼‍♀️ 🔥 🇨🇴
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,468 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,610 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 7 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 |
 | 8 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 |
 | 9 | [Palabras Sobran](https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Palabras Sobran](https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs) | 3:36 |
-| 10 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 |
-| 11 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
+| 10 | [Perfección](https://open.spotify.com/track/6keww58gv3WCCGFHVVTgZb) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Perfección](https://open.spotify.com/album/6TAshkaMGXhmB7mdJfEwqd) | 2:30 |
+| 11 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 |
 | 12 | [Ojitos Rojos \- Remix](https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojitos Rojos \(Remix\)](https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv) | 3:23 |
 | 13 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:51 |
 | 14 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 59 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 60 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 |
 
-Snapshot ID: `MCwzY2I0ZDNjMTcyOGY3N2UxMjRkYjEwNWM5M2Q4MWU3MWRjNTI3Yzgx`
+Snapshot ID: `MCw3ZmJhZWJkYTA3NzViMTY5NGM5ZGVkMTU3OTIyNjEwZmYwZTQwMWMy`

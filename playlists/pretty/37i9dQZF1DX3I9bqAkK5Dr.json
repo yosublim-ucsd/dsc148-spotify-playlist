@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Ram Miriyala",
-  "num_followers": 28799,
+  "num_followers": 28835,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGEyZWViYjI3YTA4ZjhhMDEyZWE5NzA3MDEzOTljNWM3MmVhNTFh",
+  "snapshot_id": "MCxhY2UwNWNlODdhZDdlYzAyYTQzYmFkNGEzNjQwMDBlNDdjMWMxNDJi",
   "tracks": [
     {
       "added_at": "2023-05-12 08:55:25",
@@ -47,6 +47,26 @@
       "duration_ms": 166857,
       "name": "Oorelipota Mama",
       "url": "https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog"
+    },
+    {
+      "added_at": "2023-08-18 11:57:30",
+      "album": {
+        "name": "Ni Valle",
+        "url": "https://open.spotify.com/album/4hlJkbygiMvHm1mIQBIWbc"
+      },
+      "artists": [
+        {
+          "name": "D'strucT",
+          "url": "https://open.spotify.com/artist/533mt65nKDRf5XfTNgawj8"
+        },
+        {
+          "name": "Planet boy Beatz",
+          "url": "https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "Ni Valle",
+      "url": "https://open.spotify.com/track/62tvZlylMVwe71V1mw47tU"
     },
     {
       "added_at": "2023-08-16 05:53:49",
@@ -167,6 +187,30 @@
       "duration_ms": 267272,
       "name": "Saagave Manasa",
       "url": "https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW"
+    },
+    {
+      "added_at": "2023-08-18 13:19:49",
+      "album": {
+        "name": "Pogachure",
+        "url": "https://open.spotify.com/album/1C5OW4HkbAZWLvYhFpctzd"
+      },
+      "artists": [
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        },
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        },
+        {
+          "name": "Vijaya Chandra",
+          "url": "https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC"
+        }
+      ],
+      "duration_ms": 244645,
+      "name": "Pogachure",
+      "url": "https://open.spotify.com/track/0pBh8kUlaRDWFxl8E88ozl"
     },
     {
       "added_at": "2022-07-18 06:19:46",
@@ -291,26 +335,6 @@
       "duration_ms": 263998,
       "name": "Vellakala Nannodilesi",
       "url": "https://open.spotify.com/track/0BJdy36Fup5Oo3Dol5MUBl"
-    },
-    {
-      "added_at": "2023-07-08 12:58:22",
-      "album": {
-        "name": "Podhe Vallipothunde",
-        "url": "https://open.spotify.com/album/5IS01NVb2O8VRO1roXOleu"
-      },
-      "artists": [
-        {
-          "name": "Harsha Prawin",
-          "url": "https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1"
-        },
-        {
-          "name": "Venkata Chaitanya",
-          "url": "https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "Podhe Vallipothunde",
-      "url": "https://open.spotify.com/track/1ARdPomFAk2WwsauwNFw7t"
     },
     {
       "added_at": "2023-07-27 11:09:32",
@@ -1299,26 +1323,6 @@
       "duration_ms": 187941,
       "name": "Jimpak Chipak",
       "url": "https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Raba Raba",
-        "url": "https://open.spotify.com/album/05WGgEw9k8SU61WsFU6Ig2"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        },
-        {
-          "name": "Megh-Uh-Watt",
-          "url": "https://open.spotify.com/artist/2UBDp4nIwkdAxlukxa5lbj"
-        }
-      ],
-      "duration_ms": 278461,
-      "name": "Raba Raba",
-      "url": "https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec"
     },
     {
       "added_at": "2023-02-10 11:21:14",

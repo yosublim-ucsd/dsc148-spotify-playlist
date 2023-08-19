@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: esse olhar.....sedutor ou míope?  / Foto: Zayn
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,767 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,818 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 49 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 |
 | 50 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 |
 
-Snapshot ID: `MCxkOWYwOWYyZTc4M2E0NDFjM2M4ZWE0ZTUwOWFmMTdiOTE5NTQ4N2I3`
+Snapshot ID: `MCxhMGRmOWYwNGJlZjZmNWUzOTY0MDc5ZGE4N2Y2MDkwMjlkNmFmYzY4`

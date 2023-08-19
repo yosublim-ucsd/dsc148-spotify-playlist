@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 516266,
       "name": "A Fine Day to Die",
       "url": "https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 231318,
       "name": "Annihilation Phenomena",
       "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 491573,
       "name": "Dark Medieval Times - Remastered 2021",
       "url": "https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz"
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 383053,
       "name": "Freezing Moon",
       "url": "https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 360840,
       "name": "I Am The Black Wizards",
       "url": "https://open.spotify.com/track/4jjlYfhduOrGY4mySof5C3"
@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 385413,
       "name": "Mother North",
       "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
@@ -6092,7 +6092,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
@@ -6798,6 +6798,24 @@
       "duration_ms": 234965,
       "name": "Taken before Given",
       "url": "https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f"
+    },
+    {
+      "album": {
+        "name": "Teaterikal Pletora Patrun",
+        "url": "https://open.spotify.com/album/3lMz6qsOwpsFHlUCCqudPf"
+      },
+      "artists": [
+        {
+          "name": "Volcanotory",
+          "url": "https://open.spotify.com/artist/7Ghb1bd9Fwvx2jHiAcFvpJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Teaterikal Pletora Patrun",
+      "url": "https://open.spotify.com/track/67VLOH4SOdtDLbqBbbWjLb"
     },
     {
       "album": {
@@ -7440,7 +7458,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 207360,
       "name": "The Storm I Ride",
       "url": "https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp"
@@ -7696,6 +7714,24 @@
       "duration_ms": 369760,
       "name": "Transilvanian Hunger - Studio",
       "url": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
+    },
+    {
+      "album": {
+        "name": "Twin Mouthed Spring",
+        "url": "https://open.spotify.com/album/4y0CNWyaEiwbp3GczV2ETx"
+      },
+      "artists": [
+        {
+          "name": "Wolves In The Throne Room",
+          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294169,
+      "name": "Twin Mouthed Spring",
+      "url": "https://open.spotify.com/track/7Csk00f4AnlIIcXD6OujaJ"
     },
     {
       "album": {
@@ -8088,7 +8124,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 353645,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72"

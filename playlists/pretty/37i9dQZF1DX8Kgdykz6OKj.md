@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,407 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,866 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Wassup](https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe) | [RAIZA BIZA](https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo) | [Day & Night](https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG) | 4:03 |
 | 100 | [Running Shoes](https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Every Eye](https://open.spotify.com/album/6rO3ImnEB7V0Wfmd6UjlIZ) | 3:15 |
 
-Snapshot ID: `MCw0N2JjYTFkNmE1YmY3MzdkM2U1OTkwZjQ2NzI2MzMyNWI1YmE2MGFk`
+Snapshot ID: `MCwzNDNiYzNjZTcxOGQ0NjMxNGZkZWMxZGFlMzlmNWVlYjU1MmExZDZm`

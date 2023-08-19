@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-224 songs - 11 hr 50 min
+227 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [dusk without you](https://open.spotify.com/track/6q4r9Eqv8G5Nz5Mi1jU8Yk) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [dusk without you EP](https://open.spotify.com/album/18NMn5a6IeQcBOFgzE3nWu) | 3:22 | 2023-01-13 |  |
 | [Echo](https://open.spotify.com/track/4c7qz4XbADXeyr8LAxNTUK) | [William Reed](https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76) | [Echo](https://open.spotify.com/album/5lhdWrh4Wa3wH1nkt73RWI) | 2:11 | 2023-02-17 |  |
 | [Echosphere](https://open.spotify.com/track/44Wfvp7nBgp3Epgx79wZ0F) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Echosphere](https://open.spotify.com/album/62iPtloH7ukCRgKhsPDpYX) | 2:41 | 2022-12-19 |  |
+| [Emerald City](https://open.spotify.com/track/4hmVaRzWIGFALX6cFveZ0f) | [Kirabuo](https://open.spotify.com/artist/56ncV7I51jTZIqwrCWsOu0) | [Emerald City](https://open.spotify.com/album/3rRLNWhtlisf1F5jKLs5n2) | 2:06 | 2023-08-18 |  |
 | [Encountering the Mirror](https://open.spotify.com/track/7BGhuGxeESE5MZAsjJFSOt) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [Encountering the Mirror](https://open.spotify.com/album/5HPomLOslu5ytTESWhQP3d) | 2:51 | 2023-08-11 |  |
 | [Energy](https://open.spotify.com/track/1yDJriJA9uT8p9LyCzGnXm) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [Energy](https://open.spotify.com/album/0dUkQHYxrUMZxoab1dDcDw) | 2:37 | 2023-03-10 |  |
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
@@ -86,6 +87,7 @@
 | [Illusory](https://open.spotify.com/track/6X7AjIztCoKnA1E1jfYoMo) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Illusory](https://open.spotify.com/album/2uoO43SIsOdbxYBOT9Jgs7) | 2:24 | 2023-05-26 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
 | [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
+| [It's Clearer Now](https://open.spotify.com/track/595vc6ubtRdC13RRF7fpmX) | [elmtwig](https://open.spotify.com/artist/1FoIOzjaAdSvxVlT10cWwS) | [It's Clearer Now](https://open.spotify.com/album/1LHpeaSuu3SPArkwZIJahV) | 2:44 | 2023-08-18 |  |
 | [january](https://open.spotify.com/track/0P54f5kEDE7dpqgE0VARhL) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [july](https://open.spotify.com/album/1qdyW78nO5jD8U4ecLYBJ2) | 5:05 | 2023-06-30 | 2023-08-10 |
 | [january](https://open.spotify.com/track/2YNDyBG7HzSwz38KYaE97J) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [april](https://open.spotify.com/album/13TLAy8ASNcpRwxbSjzwCc) | 5:05 | 2023-04-06 | 2023-05-04 |
 | [january](https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [january](https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x) | 5:05 | 2023-01-06 | 2023-04-01 |
@@ -161,7 +163,7 @@
 | [Scorpio](https://open.spotify.com/track/5ymZVLbXYU9P9Dml5fGuXP) | [Matteo Edesio](https://open.spotify.com/artist/5KLOjDZreSAbJqW330F03e) | [Scorpio](https://open.spotify.com/album/6eD2kdgpRzfzZqPTXWRbMH) | 2:09 | 2022-03-30 |  |
 | [Sea Level](https://open.spotify.com/track/7L8H804VF1JlDd97EYJ82M) | [Stephane Landgrebe](https://open.spotify.com/artist/5dxvpJIhy9HmkQbasNrqy5) | [Sea Level](https://open.spotify.com/album/7GIdcbJFXgbRf1hORxLV2L) | 1:58 | 2022-06-20 |  |
 | [Seaside](https://open.spotify.com/track/0WKvC9Q8uNVh4kVWVHPCBd) | [Aura Onda](https://open.spotify.com/artist/04O0lEQuqzTzjlhJ9Rfhgx) | [Seaside](https://open.spotify.com/album/2Rmxol60aYv7H3uw3lqsuK) | 2:23 | 2023-03-03 |  |
-| [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-03-30 |  |
+| [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-03-30 | 2023-08-19 |
 | [Seven States Of Bliss](https://open.spotify.com/track/1dZczT24YixYv7YpIbY5eT) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4ZVfELsVXfYfu39mpanZDh) | 4:39 | 2022-03-30 | 2022-11-09 |
 | [Seven States Of Bliss](https://open.spotify.com/track/5nVOrxH8lgo3LF6AEUD2kP) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4cBhiK13JwxofI6s0guLk4) | 4:39 | 2022-10-21 | 2023-02-10 |
 | [Shelter](https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Shelter](https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e) | 2:40 | 2023-03-23 |  |
@@ -172,6 +174,7 @@
 | [Sonic Waves](https://open.spotify.com/track/37TG4aXKl2HbwMihtOnPW8) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Sonic Waves](https://open.spotify.com/album/5TmmAIiuUqyBDgxrN7dygf) | 3:02 | 2023-02-24 |  |
 | [space cadet academy](https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [space cadet academy](https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ) | 2:57 | 2022-12-02 |  |
 | [Spectrum](https://open.spotify.com/track/1IehfNuo7INDcML5BpB8XF) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Spectrum](https://open.spotify.com/album/0ICUzYINjeIcXtmOV0kZI6) | 2:47 | 2023-02-17 |  |
+| [Standing Room](https://open.spotify.com/track/40dPFLNBFzPMb2j12d1npV) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Standing Room](https://open.spotify.com/album/1eCvGwYCYkqFxQ0iAyf2Of) | 2:18 | 2023-08-18 |  |
 | [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 | 2022-06-16 |  |
 | [Steadfast](https://open.spotify.com/track/2qTBy6oygbjPTEpitegxXE) | [Yokocho Chords](https://open.spotify.com/artist/03lwJjylwMLizTFvD1sDEC) | [Steadfast](https://open.spotify.com/album/5gDummFOXZRMs6CYc70iDO) | 2:43 | 2023-03-03 |  |
 | [Still Here](https://open.spotify.com/track/4HFsdkbBXreHBwhfdn1SuK) | [Francis Flo](https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ) | [Still Here](https://open.spotify.com/album/0K9P90uTgLYvq8D41LCcbY) | 2:08 | 2023-03-23 |  |

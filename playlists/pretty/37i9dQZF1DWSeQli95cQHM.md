@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,481 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,504 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Cryptobiosis](https://open.spotify.com/track/3AfuPrv7mZQMP800JIyTTA) | [K.A.L.I.L.](https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT) | [Cryptobiosis](https://open.spotify.com/album/28f9sEk188mI9eDNJPpFVF) | 6:50 |
 | 50 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
 
-Snapshot ID: `MCxmY2JkM2IwODUzZTNjYmI1ZjZhYmM5YjQ5MTAxZDYxODQ0ZDA0ZjQ4`
+Snapshot ID: `MCw2NTNjMjdhMjBiOTQ2Mzc1MDQyZGY0ZTc5MzVkN2U3ZTZmN2FiYWUy`

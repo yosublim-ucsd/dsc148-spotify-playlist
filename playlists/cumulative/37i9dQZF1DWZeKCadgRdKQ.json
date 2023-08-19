@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Augury",
+        "url": "https://open.spotify.com/album/02lgvATBKD2B6sHurWBiza"
+      },
+      "artists": [
+        {
+          "name": "Lynx XII",
+          "url": "https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "Augury",
+      "url": "https://open.spotify.com/track/1ELJ66txni1o86RVvdcgHb"
+    },
+    {
+      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/3R9k9HgJhVjdeHKIeVP4ZK"
       },
@@ -2556,6 +2574,24 @@
       "duration_ms": 160183,
       "name": "embraceable",
       "url": "https://open.spotify.com/track/43qHoXJIYjMwJsRNTj9V98"
+    },
+    {
+      "album": {
+        "name": "Box of Puzzles",
+        "url": "https://open.spotify.com/album/1bF0vGk9X8YhcvJvz2nDYc"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165482,
+      "name": "emotions",
+      "url": "https://open.spotify.com/track/44DaoGCx5GuHqQI1ZflPs8"
     },
     {
       "album": {
@@ -6509,6 +6545,24 @@
     },
     {
       "album": {
+        "name": "Orange Sky",
+        "url": "https://open.spotify.com/album/3NfqH1vIsjFpQnmBkNJrAp"
+      },
+      "artists": [
+        {
+          "name": "Au\u00f0ura",
+          "url": "https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129187,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/2MveOWtavb89Lk09bcPoi8"
+    },
+    {
+      "album": {
         "name": "Orbits",
         "url": "https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR"
       },
@@ -8822,6 +8876,24 @@
       "duration_ms": 178148,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/3XnQ3OqmfvP5Sh6gACEKnG"
+    },
+    {
+      "album": {
+        "name": "the echoing truth",
+        "url": "https://open.spotify.com/album/6klNuRg1l3cNvgJU6zWI6b"
+      },
+      "artists": [
+        {
+          "name": "Tall Towers",
+          "url": "https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126505,
+      "name": "the echoing truth",
+      "url": "https://open.spotify.com/track/1HsNwZPWvrN8gZ44YnjOCo"
     },
     {
       "album": {

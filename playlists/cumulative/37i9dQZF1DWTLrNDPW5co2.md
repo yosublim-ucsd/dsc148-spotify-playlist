@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-136 songs - 9 hr 18 min
+137 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Day After A Night With U](https://open.spotify.com/track/3K2fuhmE5ZS7gL717nJGlN) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx) | 5:59 | 2023-06-01 |  |
 | [Double Tap](https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Double Tap](https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu) | 3:10 | 2023-06-01 |  |
 | [Downtown \(feat\. Annette Bowen & Nikki\-O\)](https://open.spotify.com/track/7JN4rYLphO4zyPP04Ibftj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Annette Bowen](https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6), [Nikki\-O](https://open.spotify.com/artist/1cVdPPKt04x4LIFGW4rUnL) | [Downtown \(feat\. Annette Bowen & Nikki\-O\)](https://open.spotify.com/album/4gxf9I5X6rUywK85hFwvrZ) | 3:55 | 2021-10-15 | 2022-06-04 |
-| [DRaiN](https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DRaiN](https://open.spotify.com/album/1PFSvtdr5l2fYt0L2NIDov) | 2:39 | 2022-06-03 |  |
+| [DRaiN](https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DRaiN](https://open.spotify.com/album/1PFSvtdr5l2fYt0L2NIDov) | 2:39 | 2022-06-03 | 2023-08-19 |
 | [DRIFT](https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [DRIFT](https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx) | 2:51 | 2023-07-21 |  |
 | [Drugs](https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Drugs](https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV) | 3:44 | 2023-07-21 |  |
 | [Drunken Clouds](https://open.spotify.com/track/3XWCKVGT137CUdNDYm3waR) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 4:13 | 2022-06-03 |  |
@@ -85,6 +85,7 @@
 | [In2u](https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [In2u](https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud) | 3:21 | 2023-06-01 |  |
 | [Inside Your Head](https://open.spotify.com/track/6iRSsdRMHkkJfAqT4Zg5oM) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Inside Your Head](https://open.spotify.com/album/3PnWelLCKVI3bDKqtndeiO) | 4:13 | 2021-10-15 |  |
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2023-06-20 | 2023-06-24 |
+| [J'adore](https://open.spotify.com/track/3ZspQSOFcZZfRZhNoYDPLs) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [J'adore](https://open.spotify.com/album/1WUIUtEcyOdIjnjosifXK0) | 3:02 | 2023-08-18 |  |
 | [KILO \- LSDXOXO Remix](https://open.spotify.com/track/6gHC53VJetXr4YuhrCdEzk) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO \(LSDXOXO Remix\)](https://open.spotify.com/album/1oEtwrjW18EuTcjks5SyuE) | 3:42 | 2023-06-20 | 2023-06-24 |
 | [Let A Bitch Know](https://open.spotify.com/track/3cuC10phh07XQrztcNWreU) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Let A Bitch Know](https://open.spotify.com/album/7MrGtbX1GlNUU3a3uYm4qc) | 5:29 | 2021-10-15 |  |
 | [Lifetime \- HAAi’s Green Lamborghini Romix](https://open.spotify.com/track/7czIjs2dvjjmGEQ8k4FJGl) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lifetime Remixes](https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy) | 5:36 | 2021-10-15 | 2023-04-01 |

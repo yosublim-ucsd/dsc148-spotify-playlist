@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 
 > The Top Hot Country tracks from 2022 in one playlist\. Cover: Zach Bryan \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,028 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,102 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 | 74 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 |
 | 75 | [Best Thing Since Backroads](https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Best Thing Since Backroads](https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue) | 3:07 |
 
-Snapshot ID: `MCwwN2RhNmMwYzg5NjUzOWE4YjNhYjdjZGM2MjgwMDkyM2VkN2VhODA2`
+Snapshot ID: `MCxiMjBmYmZkZmQzMDBmNTYzYjk5ZmQ3NmU0ZTA1YmIxYjg2ZWFiNmY1`

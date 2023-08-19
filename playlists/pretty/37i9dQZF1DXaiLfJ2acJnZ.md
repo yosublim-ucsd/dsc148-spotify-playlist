@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,527 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,552 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Muscle Memory](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 |
 | 80 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 
-Snapshot ID: `MCw5MDk5YzNkMmVjMmY3OWQzMzgyMWM2M2M4ZjNlZWMzMjYyODM0N2Qy`
+Snapshot ID: `MCw2ZjE3ZDk5YjZkN2Q1M2ZkZDM4NjQ0ZjZiYmQ2N2JiMTU3NzlhNjgy`

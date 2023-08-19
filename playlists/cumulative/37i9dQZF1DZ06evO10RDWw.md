@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 56 min
+35 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,9 +28,10 @@
 | [Love Maker](https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:17 | 2022-12-29 |  |
 | [Move Slow](https://open.spotify.com/track/7d4BF0jqyQAoaU9kz1AlV3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 3:08 | 2022-10-25 |  |
 | [New Angel](https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:56 | 2022-10-25 |  |
+| [Nothing Is What It Seems](https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 4:25 | 2023-08-18 |  |
 | [On My Own](https://open.spotify.com/track/4V6qDAzkekP88eUeKKIeoI) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:17 | 2022-10-25 | 2023-05-01 |
 | [Racing Toward a Red Light](https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:54 | 2023-05-13 |  |
-| [Say Goodbye](https://open.spotify.com/track/4v27q8gqCrira7ffcjnNGq) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:04 | 2022-10-25 |  |
+| [Say Goodbye](https://open.spotify.com/track/4v27q8gqCrira7ffcjnNGq) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:04 | 2022-10-25 | 2023-08-19 |
 | [Second Guesses](https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:08 | 2022-10-25 |  |
 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 | 2022-10-25 |  |
 | [Sleepers](https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 2:51 | 2022-10-25 |  |

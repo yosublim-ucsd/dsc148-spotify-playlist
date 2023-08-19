@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,331 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,339 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 47 | [Tarde](https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tarde](https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM) | 2:49 |
 | 48 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 |
 | 49 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 |
-| 50 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 |
 
-Snapshot ID: `MCw2MmM3YWFjNDNjYTIzYzhkZmRlMjBhM2Y0YjRhZTcyZTQ3ZDU2MGU3`
+Snapshot ID: `MCwxNzFkNGI4ZGI0NmFhNmU3N2ZmNmU5YjJkNWFkNDkyYzM1M2IyN2Qw`

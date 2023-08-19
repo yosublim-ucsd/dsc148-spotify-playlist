@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz & Caspian Marvin
 
-165 songs - 8 hr 33 min
+166 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Kiziniro](https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Topic Kasente](https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4), [Lil Pazzo](https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY), [Tip Swizzy](https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv) | [Kiziniro](https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc) | 3:42 | 2022-08-05 | 2022-10-25 |
 | [Koroba](https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB) | [Sl Fiq](https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT) | [Coroba](https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg) | 2:47 | 2023-08-11 |  |
 | [Kwetega](https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr) | [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z) | [Kwetega](https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc) | 3:36 | 2022-11-17 | 2023-03-18 |
-| [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 | 2023-02-10 |  |
+| [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 | 2023-02-10 | 2023-08-19 |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 |  |
 | [Leega](https://open.spotify.com/track/6wTXqwgEhXfdxYZOKEAtqP) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/40CrG5iYzKczTp0xHbUaN2) | 3:34 | 2023-04-14 | 2023-05-03 |
 | [Let Me Be](https://open.spotify.com/track/4lRjzQQEmIHIJGOTC0EnMp) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Let Me Be](https://open.spotify.com/album/42moN4auHkzRwvmCe1IV03) | 2:59 | 2023-06-09 | 2023-07-24 |
@@ -111,6 +111,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp) | [Kaboo](https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD), [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8) | [Longitude 20](https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K) | 3:42 | 2023-04-27 | 2023-07-13 |
 | [Nfa](https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Nfa](https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz) | 3:13 | 2023-03-20 |  |
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
+| [Nkujjukira](https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkujjukira](https://open.spotify.com/album/57ag105JslVN8kfhARNrL3) | 3:05 | 2023-08-18 |  |
 | [Nkuwe](https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Kin Bella](https://open.spotify.com/artist/3rvpqqkLp2C6LE5Lo02hy2) | [Nkuwe](https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C) | 3:41 | 2023-03-24 | 2023-06-07 |
 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 | 2022-05-12 |  |
 | [Nothing \- Remix](https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Wonder Jr](https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs), [TimothyCODE](https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Nothing \(Remix\)](https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl) | 4:50 | 2023-06-02 | 2023-08-14 |

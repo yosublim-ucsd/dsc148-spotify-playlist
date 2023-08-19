@@ -1,32 +1,80 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: J Hus",
-  "num_followers": 1790013,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Victoria Mon\u00e9t",
+  "num_followers": 1790333,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjFlODdmOTc3M2NkNGJjZjE5Y2E5ZTRiNzNmZTAyNzBiMWZkMzQ2",
+  "snapshot_id": "MCxkYjA5OGNlN2UxMTc2M2FhZDM4ZjQzZDVmN2M4ZTA4YWMyY2UwNzUy",
   "tracks": [
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-06-16 05:14:18",
       "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+      "duration_ms": 186678,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 226740,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 175147,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/1xYasQnBT0AZVgQhlEGQTW"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 146791,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/0Ic42kynfrSAJjTlOr0dWR"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -49,68 +97,24 @@
       "url": "https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC"
     },
     {
-      "added_at": "2023-08-11 04:06:40",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Number 9 (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 192058,
-      "name": "Number 9 (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "How We Roll",
-        "url": "https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "How We Roll",
-      "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Good Good",
-        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 247100,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -137,24 +141,28 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-07-28 07:18:54",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "Drink Water",
+        "url": "https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
         },
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+      "duration_ms": 169708,
+      "name": "Drink Water (feat. Jon Bellion and Fireboy DML)",
+      "url": "https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -249,22 +257,6 @@
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
-      "added_at": "2023-06-16 05:14:18",
-      "album": {
-        "name": "On My Mama",
-        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186678,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Summer Too Hot",
@@ -295,6 +287,58 @@
       "duration_ms": 172892,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "SANTIAGO",
+        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 166165,
+      "name": "Fatima",
+      "url": "https://open.spotify.com/track/2588441h1sHx0FPPXBFoLd"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -343,6 +387,90 @@
       "duration_ms": 171797,
       "name": "shelter",
       "url": "https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "How We Roll",
+        "url": "https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "How We Roll",
+      "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 247100,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
+    },
+    {
+      "added_at": "2023-08-11 04:06:40",
+      "album": {
+        "name": "Number 9 (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 192058,
+      "name": "Number 9 (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
+    },
+    {
+      "added_at": "2023-07-28 07:18:54",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 274137,
+      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -405,6 +533,26 @@
       "url": "https://open.spotify.com/track/3fpISrtcsVBNJZ3K0JhRwG"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/4RsKRBDnJ1Dr5u6NkUREN2"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/036joKTnTtJfJVifnRhOqj"
+    },
+    {
       "added_at": "2023-06-16 05:14:18",
       "album": {
         "name": "Grudges",
@@ -423,6 +571,50 @@
       "duration_ms": 213987,
       "name": "Gone (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/2fgwCq2iDn5dM1ZYaDQ1du"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/4sBXBfLLlDC1NR99JAjVFm"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Risk: Reloaded",
+        "url": "https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        },
+        {
+          "name": "WaveIQ",
+          "url": "https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Hate (feat. Lojay & Highlyy) - Remix",
+      "url": "https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS"
     },
     {
       "added_at": "2023-05-19 06:33:06",
@@ -455,26 +647,6 @@
       "duration_ms": 188093,
       "name": "GRL GVNG",
       "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 184914,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
     },
     {
       "added_at": "2023-07-14 05:46:05",
@@ -521,24 +693,24 @@
       "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
     },
     {
-      "added_at": "2023-08-11 04:06:40",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "EGO - ESTA. Remix",
-        "url": "https://open.spotify.com/album/1uX8wUmCrfAwQOfAJS2fGO"
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         },
         {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         }
       ],
-      "duration_ms": 164210,
-      "name": "EGO - ESTA. Remix",
-      "url": "https://open.spotify.com/track/4krZyLAZUp2rjgd4yInA8Q"
+      "duration_ms": 231529,
+      "name": "X-Rated (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4XI8zeiBGduh5rABkvBn5Y"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -625,24 +797,24 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
+      "added_at": "2023-08-11 04:06:40",
       "album": {
-        "name": "Balance (feat. Skillibeng)",
-        "url": "https://open.spotify.com/album/75liolcLZGv2M5gobKgFWk"
+        "name": "EGO - ESTA. Remix",
+        "url": "https://open.spotify.com/album/1uX8wUmCrfAwQOfAJS2fGO"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         },
         {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
         }
       ],
-      "duration_ms": 203816,
-      "name": "Balance (feat. Skillibeng)",
-      "url": "https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK"
+      "duration_ms": 164210,
+      "name": "EGO - ESTA. Remix",
+      "url": "https://open.spotify.com/track/4krZyLAZUp2rjgd4yInA8Q"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -659,6 +831,22 @@
       "duration_ms": 165670,
       "name": "Silver Platter (From Barbie The Album)",
       "url": "https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Something In My Eye",
+        "url": "https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Something In My Eye",
+      "url": "https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -903,6 +1091,26 @@
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 310892,
+      "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
+      "url": "https://open.spotify.com/track/4sqUNxl5X6fF2wCQwYZH1D"
     },
     {
       "added_at": "2023-07-14 05:46:05",
@@ -2411,26 +2619,6 @@
       "duration_ms": 181080,
       "name": "Low",
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Do You Mind",
-        "url": "https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 140568,
-      "name": "Do You Mind",
-      "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
     },
     {
       "added_at": "2022-12-09 05:00:00",

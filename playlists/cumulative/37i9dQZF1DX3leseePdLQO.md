@@ -2,9 +2,9 @@
 
 ### [Crema Pop](https://open.spotify.com/playlist/37i9dQZF1DX3leseePdLQO)
 
-> Pop para refrescarte los días, featuring LAGOS.
+> Pop para refrescarte los días, featuring zzoilo & Oliver Kid.
 
-118 songs - 6 hr 1 min
+119 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Me Da Bastante Miedo](https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Me Da Bastante Miedo](https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK) | 3:06 | 2023-05-19 |  |
 | [MEZCALITO](https://open.spotify.com/track/0lDbau6zhXruPIhfRzM936) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:08 | 2023-08-04 |  |
 | [MEZCALITO](https://open.spotify.com/track/7xGSFJhTdINOPyNKO7BcJk) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:08 | 2023-06-05 | 2023-07-09 |
-| [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 |  |
+| [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 | 2023-08-19 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-04-04 |  |
 | [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-04-04 |  |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-06-30 |  |
@@ -88,6 +88,7 @@
 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 | 2023-04-04 |  |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-14 |  |
 | [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 |  |
+| [Oye Baby](https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Oye Baby](https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d) | 2:15 | 2023-08-18 |  |
 | [P.M.](https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [P.M.](https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk) | 2:38 | 2023-05-19 |  |
 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-08 |  |
 | [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 | 2023-08-04 |  |

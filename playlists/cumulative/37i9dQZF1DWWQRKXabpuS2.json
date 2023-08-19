@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 250516,
       "name": "Alammeh Lah",
       "url": "https://open.spotify.com/track/1aIysPTbYWjoDlnXR8dwCE"
@@ -1124,6 +1124,24 @@
       "duration_ms": 257983,
       "name": "Dehkat Ayami",
       "url": "https://open.spotify.com/track/5qzYDx4eVLJFmveW0ULvnx"
+    },
+    {
+      "album": {
+        "name": "El Gheyab",
+        "url": "https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321369,
+      "name": "El Gheyab",
+      "url": "https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi"
     },
     {
       "album": {

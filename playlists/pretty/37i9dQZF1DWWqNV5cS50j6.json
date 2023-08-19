@@ -1,64 +1,44 @@
 {
   "description": "Yeek & Paris Texas make anti pop.",
-  "num_followers": 697206,
+  "num_followers": 697175,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTNiZDk2MTI3ZTkyNzRmNDIxN2M1MGM5N2U5NTg5MWQ5ZjU1NDQ1",
+  "snapshot_id": "MCxkODU0OTZhYWVjODhkNjg5MDJmYmRkYjlhZTM5ZDdlZDllMjM5NWE3",
   "tracks": [
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "care about myself",
-        "url": "https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ"
+        "name": "\"DESTRUCTION FOR DUMMIES\", PT. 2 JEAN DAWSON AS \"NIGHTMARE\"",
+        "url": "https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO"
       },
       "artists": [
         {
-          "name": "N3WYRKLA",
-          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 195262,
-      "name": "care about myself",
-      "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
+      "duration_ms": 189978,
+      "name": "X-RAY",
+      "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
     },
     {
-      "added_at": "2023-07-11 13:27:25",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Leave With Me",
+        "url": "https://open.spotify.com/album/4xmzAJ3edr4asi2TSxS1od"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
         }
       ],
-      "duration_ms": 245819,
-      "name": "Gorilla",
-      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
-    },
-    {
-      "added_at": "2023-07-21 15:34:39",
-      "album": {
-        "name": "DnD (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "DnD (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1qAY1Qa18jN50Pnn4CpVst"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -79,6 +59,322 @@
       "duration_ms": 182146,
       "name": "Crying In My Car (with Teezo Touchdown)",
       "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "wallflower",
+        "url": "https://open.spotify.com/album/44nWppyz5M81ne6j52h2zt"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "hadji 2 hotty",
+      "url": "https://open.spotify.com/track/6cWYqDEOnCOcUZWHTWTwcx"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "SOUND OF METAL",
+        "url": "https://open.spotify.com/album/3C58S7vtfqn8CDQ6Bq0v90"
+      },
+      "artists": [
+        {
+          "name": "Belaganas",
+          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+        },
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "SOUND OF METAL",
+      "url": "https://open.spotify.com/track/69FgjXjGkVsqUb30ijMH2W"
+    },
+    {
+      "added_at": "2023-07-11 13:27:25",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 245819,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "care about myself",
+        "url": "https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ"
+      },
+      "artists": [
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        }
+      ],
+      "duration_ms": 195262,
+      "name": "care about myself",
+      "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "&ONE",
+        "url": "https://open.spotify.com/album/4AtoqPGFghALemE4MBeCxP"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 118954,
+      "name": "DX",
+      "url": "https://open.spotify.com/track/1iO9BS2GiqrVjSeYcNTzs2"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "what's underneath",
+        "url": "https://open.spotify.com/album/0j6QywC70gHenRxDus0YVy"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 130771,
+      "name": "what's underneath",
+      "url": "https://open.spotify.com/track/4fy7qneM9uEKod8V7ZXoIP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Sariah Mae",
+          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2023-08-04 13:30:02",
+      "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "Now I Know You",
+      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Used To This",
+        "url": "https://open.spotify.com/album/5Ar51rB1zWxh7rAEEh2qUi"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Raging Bull (STAMINA)",
+        "url": "https://open.spotify.com/album/6kfpQAQYgHw6Xz5B5oiqTg"
+      },
+      "artists": [
+        {
+          "name": "Romeo + Juliet",
+          "url": "https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2"
+        }
+      ],
+      "duration_ms": 358112,
+      "name": "RAGE ROVER",
+      "url": "https://open.spotify.com/track/3wqrGgcedJaDKpnIlqpYGn"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2023-03-06 18:44:34",
+      "album": {
+        "name": ">one (greater than one)",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6iJ1IBlwrBFUgK5wK06a3a"
+      },
+      "artists": [
+        {
+          "name": "Dutchess",
+          "url": "https://open.spotify.com/artist/3bVJut6HXzKIShxCFKK394"
+        },
+        {
+          "name": "McCall",
+          "url": "https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT"
+        },
+        {
+          "name": "Skofee",
+          "url": "https://open.spotify.com/artist/3WTOG7w0dyNnKAyoqNxzzg"
+        },
+        {
+          "name": "Zoe Alex",
+          "url": "https://open.spotify.com/artist/2zm4VKMeQmF4TI3RPaJt5q"
+        }
+      ],
+      "duration_ms": 129487,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/0txlDJFyFsaJUmIyepnlbw"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "getting older",
+        "url": "https://open.spotify.com/album/7kAwfOc0datHwSXfdvzH0s"
+      },
+      "artists": [
+        {
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "getting older",
+      "url": "https://open.spotify.com/track/4ojKgnQLWOCKfqqcYsLH1m"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "catf!sh",
+        "url": "https://open.spotify.com/album/0iNZJ0983ETyZpISvkILuz"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "duration_ms": 175474,
+      "name": "catf!sh",
+      "url": "https://open.spotify.com/track/3x3ydOm1TkkcqUCYilv5Rj"
+    },
+    {
+      "added_at": "2023-07-21 15:34:39",
+      "album": {
+        "name": "DnD (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "DnD (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -281,22 +577,6 @@
       "url": "https://open.spotify.com/track/6Awe5dR7eYAfHVkycO6m5X"
     },
     {
-      "added_at": "2023-08-04 13:30:02",
-      "album": {
-        "name": "Where Are You Going?",
-        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 212985,
-      "name": "Now I Know You",
-      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
-    },
-    {
       "added_at": "2023-07-27 15:36:37",
       "album": {
         "name": "Let Me Fight",
@@ -395,22 +675,6 @@
       "duration_ms": 215067,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-06-06 14:11:28",
@@ -791,26 +1055,6 @@
       "duration_ms": 179358,
       "name": "taste of u",
       "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
-    },
-    {
-      "added_at": "2023-03-06 18:44:34",
-      "album": {
-        "name": ">one (greater than one)",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": ">one - greater than one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2023-03-24 04:01:00",

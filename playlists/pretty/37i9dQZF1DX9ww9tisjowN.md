@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: ATARASHII GAKKO! \(新しい学校のリーダーズ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,283 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,421 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 58 | [Summer Situation](https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:50 |
 | 59 | [RadioVision](https://open.spotify.com/track/3W4yjDdV6WBZjvt2wFl7wk) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [RadioVision](https://open.spotify.com/album/0S7TdMhLUC1eECJvlRvfSy) | 3:21 |
 | 60 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
-| 61 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 |
+| 61 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
 | 62 | [sober](https://open.spotify.com/track/3tPU87pYSXlN8e6NAvBhRn) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [HOLLOW](https://open.spotify.com/album/6xF8yXGdqXuvvbapWKLsea) | 2:52 |
 | 63 | [S'il vous plait](https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:15 |
 | 64 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 |
 | 75 | [MONONOFU NIPPON feat\. 布袋寅泰](https://open.spotify.com/track/2Jp8TKibZMeNH7rUnERfHh) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [MONONOFU NIPPON feat\. 布袋寅泰](https://open.spotify.com/album/4xX4Q5OGZ00WNauhglHT8I) | 4:22 |
 
-Snapshot ID: `MCxlYWVkNGU1Mjc3ZTIzNjJmNDU4ZGM4N2Y1MzhhMmVjNmYwMGU4MjBh`
+Snapshot ID: `MCw3ODQ1MDk5MWYxZjdkZmZlYWQ5ODU3ZjdjNDBhNTQ5NjcwMDA1OTcx`

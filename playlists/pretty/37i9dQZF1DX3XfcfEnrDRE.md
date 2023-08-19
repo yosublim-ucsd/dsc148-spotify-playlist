@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,664 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,729 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 | 100 | [Get A Life](https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC) | [Brady James](https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe) | [Get A Life](https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ) | 1:50 |
 
-Snapshot ID: `MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw`
+Snapshot ID: `MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj`

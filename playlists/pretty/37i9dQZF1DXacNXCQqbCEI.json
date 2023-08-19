@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 353845,
+  "num_followers": 353921,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzRjYTg0NjBlMjM1ODcwMzViZjUxZTYzYjE0MTEwNTk0ZjJjYjc3",
+  "snapshot_id": "MCwxNDY4MjJhZDY5OWFkNDJjN2EzNzVhYTU5NjJmNzA4ZjY2NTdkODMx",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Semillero",
-        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        }
-      ],
-      "duration_ms": 348009,
-      "name": "Pua",
-      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        }
+      ],
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
     },
     {
       "added_at": "2023-02-13 21:09:56",

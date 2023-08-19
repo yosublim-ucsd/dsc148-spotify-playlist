@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/0VQXYA4do1nkiSjWzobyuw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/2oUQzfbM29kn5cknX57gzB"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/7qyGqe7ESkpvbaooxEvXh5"
       },
@@ -2879,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Callxxx",
+        "url": "https://open.spotify.com/album/5u9SkDztMpyfWhQO3qm1Ak"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134492,
+      "name": "Callxxx",
+      "url": "https://open.spotify.com/track/1PS7RgricY0QBBDSCwC9DG"
+    },
+    {
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/7D4iToXmdQlAbpZmpXtt5N"
       },
@@ -3612,7 +3648,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 211090,
       "name": "Como Tu Ninguna - Remix",
       "url": "https://open.spotify.com/track/19sodmNrtcRrRHVTnzhtsZ"
@@ -5715,6 +5751,32 @@
     },
     {
       "album": {
+        "name": "EL DINERO PUEDE ENAMORARTE",
+        "url": "https://open.spotify.com/album/5TSWx49sfEnYWZT9rL8G4P"
+      },
+      "artists": [
+        {
+          "name": "KAZE KENZO",
+          "url": "https://open.spotify.com/artist/73pLtWPm3Lw8ikjuX6BX0P"
+        },
+        {
+          "name": "Romockstar",
+          "url": "https://open.spotify.com/artist/5QWjD70j5WnTf2E2FppPQA"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152238,
+      "name": "EL DINERO PUEDE ENAMORARTE",
+      "url": "https://open.spotify.com/track/1DvxAB7KFxoUvnRXs7lkTl"
+    },
+    {
+      "album": {
         "name": "El Maquinon",
         "url": "https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P"
       },
@@ -6328,7 +6390,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 191020,
       "name": "Fashion Girl - Remix",
       "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
@@ -7166,7 +7228,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 187200,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
@@ -9558,6 +9620,28 @@
       "duration_ms": 164982,
       "name": "Lil Tecca",
       "url": "https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G"
+    },
+    {
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
     },
     {
       "album": {
@@ -14330,7 +14414,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 261600,
       "name": "Padres",
       "url": "https://open.spotify.com/track/0Tr5TQo7sJ36Y8VZ5yi4t3"
@@ -14618,7 +14702,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 207908,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/4gWqIR7bGRk9oLoYRgSUKN"
@@ -14680,7 +14764,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 236143,
       "name": "Party en el Barrio (feat. Duki)",
       "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
@@ -15112,6 +15196,28 @@
       "duration_ms": 167340,
       "name": "Pintao",
       "url": "https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2"
+    },
+    {
+      "album": {
+        "name": "Cristal (Deluxe)",
+        "url": "https://open.spotify.com/album/1oZfvju3LYDgcBSlShJWpE"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207136,
+      "name": "Piquete - Remix",
+      "url": "https://open.spotify.com/track/3rfl3nO4bG8jP1jj8XdXnF"
     },
     {
       "album": {
@@ -16342,7 +16448,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 134000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
@@ -17199,6 +17305,28 @@
     },
     {
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/30Igbyht6db5Z9SqPB5Mxc"
+      },
+      "artists": [
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        },
+        {
+          "name": "c n d",
+          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136774,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/154N209knr0F0gRCeoLxPz"
+    },
+    {
+      "album": {
         "name": "Sexy (feat. KHEA & Duki)",
         "url": "https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC"
       },
@@ -17556,6 +17684,24 @@
       "duration_ms": 207835,
       "name": "Sin Seguro",
       "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+    },
+    {
+      "album": {
+        "name": "Sin Seguro",
+        "url": "https://open.spotify.com/album/6kLqLQ54MsqhTirkuDZfu8"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0"
     },
     {
       "album": {
@@ -20116,7 +20262,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 119106,
       "name": "V16",
       "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
@@ -20212,6 +20358,28 @@
       "duration_ms": 150613,
       "name": "Vengo De La Brea",
       "url": "https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq"
+    },
+    {
+      "album": {
+        "name": "Vengo del Sur",
+        "url": "https://open.spotify.com/album/42rUuZdLajJK7JHXghykdd"
+      },
+      "artists": [
+        {
+          "name": "Basek",
+          "url": "https://open.spotify.com/artist/6MOyW5A4U8MlcX87Mssnhm"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "Vengo del Sur",
+      "url": "https://open.spotify.com/track/5KEvXod6i7geHNWxrdrzuc"
     },
     {
       "album": {

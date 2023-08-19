@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,914 likes - 300 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,960 likes - 300 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 299 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 |
 | 300 | [Walden](https://open.spotify.com/track/2jea87kvmbKxK87RJbG2BS) | [Di Bosco](https://open.spotify.com/artist/1j7HrpUlI55EmAx4PVtFgf) | [Walden](https://open.spotify.com/album/2wuBgVuayoe5Sm3GwZJwgH) | 2:07 |
 
-Snapshot ID: `MCw1YzUzNzc0NjQ2MTA1MTczZDM0ZTQ4NzAwNWQ4N2VkYTIxZjJjNTIy`
+Snapshot ID: `MCwyNDNiN2E0OTU3NDRlMjY5YmFkZDQ2Y2Y1M2YxYTU4ZWUyODhjZTNm`

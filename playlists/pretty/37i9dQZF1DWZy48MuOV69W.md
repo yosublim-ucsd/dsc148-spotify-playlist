@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,586 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,583 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 |
 | 55 | [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 |
 
-Snapshot ID: `MCxjNmJkZTRhMjlkMzU0MTFiNTA0OGQ3MzA0YzgwMmI0NDA5NGExYWVl`
+Snapshot ID: `MCwzZDY3Y2FkNmYxZDQxNzc2MjdmMmZhNjE5YTI5ZWM3ZmIyZTUwOGU4`

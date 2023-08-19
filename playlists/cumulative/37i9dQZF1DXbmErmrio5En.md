@@ -4,7 +4,7 @@
 
 > Ft\. re6ce
 
-270 songs - 11 hr 56 min
+273 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 | 2023-03-08 |
 | [made me to be](https://open.spotify.com/track/7z9NzImkZmheXOZLrVF7HD) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:53 | 2023-06-23 | 2023-07-15 |
 | [magic](https://open.spotify.com/track/5UV9TNBGn3jOT9zajKF8GI) | [polearm](https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC) | [mutations // magic](https://open.spotify.com/album/0TOqNHOmPQsAge8xtK3mL3) | 2:07 | 2023-08-04 |  |
+| [Marithe Francois Girbaud](https://open.spotify.com/track/4Ws43eU7FCHmvwKcLqYiBx) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [Marithe Francois Girbaud](https://open.spotify.com/album/6W2JidGbjLDoLTA6b6QKBE) | 1:57 | 2023-08-18 |  |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2022-12-04 | 2023-06-17 |
 | [metamorphine](https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [metamorphine](https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM) | 3:10 | 2023-02-10 |  |
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2022-12-04 | 2023-02-18 |
@@ -260,6 +261,7 @@
 | [wasted.](https://open.spotify.com/track/6IaWNJ6qOWlGeHBiiTtsv7) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [wasted.](https://open.spotify.com/album/30XsDPphme5KwIyvzx9jys) | 3:19 | 2023-03-24 |  |
 | [watercolor puddles](https://open.spotify.com/track/19FYyDf5RgRdW80nPcYA4R) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [watercolor puddles](https://open.spotify.com/album/1cYC9YUVa23K5pTDQY8Aqb) | 1:59 | 2023-06-23 |  |
 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 | 2022-12-04 | 2023-02-18 |
+| [what's underneath](https://open.spotify.com/track/4fy7qneM9uEKod8V7ZXoIP) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [what's underneath](https://open.spotify.com/album/0j6QywC70gHenRxDus0YVy) | 2:10 | 2023-08-18 |  |
 | [whats it mean to be a king](https://open.spotify.com/track/21iJxrE5WYXpqkr6bJM05c) | [Kenny Orlando](https://open.spotify.com/artist/2EaS3fIceT87x7nqjODgvq), [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo) | [whats it mean to be a king](https://open.spotify.com/album/0ZU45BAWwk63gm3EXtU5Vf) | 2:20 | 2023-06-16 |  |
 | [Where I Met U](https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q) | 2:02 | 2023-06-23 |  |
 | [Where I Met U](https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw) | 2:02 | 2023-06-23 | 2023-07-12 |
@@ -276,6 +278,7 @@
 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 | 2023-02-10 | 2023-04-09 |
 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-06-23 | 2023-08-02 |
 | [yu can do better, yu deserve it](https://open.spotify.com/track/3yBG98uAE6hdRQF8tZhdJP) | [problemchild](https://open.spotify.com/artist/2qBJ2KSP3IxiyrufZ2HZJM) | [yu can do better, yu deserve it](https://open.spotify.com/album/0Ey9F2JnL36FAQdV1KxOax) | 2:32 | 2023-03-17 |  |
+| [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [zombie](https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS) | 2:11 | 2023-08-18 |  |
 | [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 | 2023-02-10 |  |
 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 | 2023-01-04 |  |
 

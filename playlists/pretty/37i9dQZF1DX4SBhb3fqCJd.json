@@ -1,13 +1,65 @@
 {
-  "description": "The pulse of R&B music today. Cover: Miguel",
-  "num_followers": 6245639,
+  "description": "The pulse of R&B music today. Cover: Leon Thomas",
+  "num_followers": 6246118,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2UxOGFlMTM1NTU5ZDM5MGEwNDY5MTBlZTJhNDBlMWY5M2Y1YTg3",
+  "snapshot_id": "MCwxZWVlMWYxODZhMmVlMDY0ODMyMDFjNzVjZGE3NWQxOGJiMzE0NTI1",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 189202,
+      "name": "Treasure In The Hills",
+      "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Be My Summer",
+        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 186540,
+      "name": "Be My Summer",
+      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
+      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
+    },
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
@@ -33,24 +85,20 @@
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-07-13 21:16:53",
       "album": {
-        "name": "Number 9 (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 192058,
-      "name": "Number 9 (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
+      "duration_ms": 186678,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -69,46 +117,10 @@
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
-      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
-        "name": "On My Mama",
-        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186678,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "How We Roll",
-        "url": "https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ"
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x"
       },
       "artists": [
         {
@@ -122,23 +134,23 @@
       ],
       "duration_ms": 199512,
       "name": "How We Roll",
-      "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
+      "url": "https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0"
     },
     {
-      "added_at": "2023-07-13 21:16:53",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 206429,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+      "duration_ms": 179478,
+      "name": "Sneak",
+      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -157,22 +169,6 @@
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Be My Summer",
-        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 186540,
-      "name": "Be My Summer",
-      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
-    },
-    {
       "added_at": "2023-07-13 21:16:53",
       "album": {
         "name": "SOS",
@@ -187,6 +183,74 @@
       "duration_ms": 183893,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "JEANS",
+        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "JEANS (with Miguel)",
+      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
+    },
+    {
+      "added_at": "2023-07-13 21:16:53",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+    },
+    {
+      "added_at": "2023-07-13 21:16:53",
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "Only Have Eyes 42",
+      "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
+    },
+    {
+      "added_at": "2023-07-13 21:16:53",
+      "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -231,58 +295,6 @@
     {
       "added_at": "2023-07-13 21:16:53",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "Only Have Eyes 42",
-      "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "2 Sugar (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
@@ -313,6 +325,22 @@
       "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
+    },
+    {
       "added_at": "2023-07-13 21:16:53",
       "album": {
         "name": "Grudges",
@@ -329,24 +357,24 @@
       "url": "https://open.spotify.com/track/1dduMILdDnevJDX0I9IAhm"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
-        "url": "https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz"
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 310892,
-      "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
-      "url": "https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6"
+      "duration_ms": 175147,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -387,6 +415,22 @@
     {
       "added_at": "2023-07-13 21:16:53",
       "album": {
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "These Four Walls",
+      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
+    },
+    {
+      "added_at": "2023-07-13 21:16:53",
+      "album": {
         "name": "To This Day",
         "url": "https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI"
       },
@@ -405,20 +449,20 @@
       "url": "https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi"
     },
     {
-      "added_at": "2023-07-13 21:16:53",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "A Brief Nirvana",
-        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+        "name": "Wait A Little Longer",
+        "url": "https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 185666,
-      "name": "These Four Walls",
-      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
+      "duration_ms": 208664,
+      "name": "Wait A Little Longer",
+      "url": "https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -461,20 +505,24 @@
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Sweet Tea",
-        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 247957,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
+      "duration_ms": 310892,
+      "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
+      "url": "https://open.spotify.com/track/4sqUNxl5X6fF2wCQwYZH1D"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -515,22 +563,6 @@
     {
       "added_at": "2023-07-13 21:16:53",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -543,22 +575,6 @@
       "duration_ms": 176720,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Lipstick Lover",
-      "url": "https://open.spotify.com/track/5c2jJgsGsnYWB6QdkK1ycR"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -579,6 +595,26 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+    },
+    {
+      "added_at": "2023-07-13 21:16:53",
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -689,6 +725,26 @@
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
     },
     {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Number 9 (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 192058,
+      "name": "Number 9 (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
+    },
+    {
       "added_at": "2023-07-13 21:16:53",
       "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
@@ -783,22 +839,6 @@
     {
       "added_at": "2023-07-13 21:16:53",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 129080,
-      "name": "CHERIMOYA - BONUS",
-      "url": "https://open.spotify.com/track/0k4S8MgCg1CKWUy5hNV8GA"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
         "name": "3 of Us",
         "url": "https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu"
       },
@@ -851,70 +891,6 @@
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
-        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 260962,
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
-        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 90110,
-      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
     },
     {
       "added_at": "2023-07-13 21:16:53",

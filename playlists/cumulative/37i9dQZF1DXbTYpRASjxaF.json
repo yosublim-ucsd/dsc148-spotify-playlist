@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Derek",
+  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: MC Maneirinho",
   "name": "Cop\u00e3o na m\u00e3o",
   "tracks": [
     {
@@ -808,6 +808,32 @@
       "duration_ms": 205949,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/244jI61ksiADX8vrhyrYqJ"
+    },
+    {
+      "album": {
+        "name": "Bandida Treinada",
+        "url": "https://open.spotify.com/album/2EvIjGY9UoJ9zMi5ZoOa6E"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DJ Theu",
+          "url": "https://open.spotify.com/artist/6FF3Heb2v3FW6kMrW7EfT7"
+        },
+        {
+          "name": "Campanha MC",
+          "url": "https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223001,
+      "name": "Bandida Treinada",
+      "url": "https://open.spotify.com/track/1DRdKxj7DgMVBLp6ogpj3k"
     },
     {
       "album": {
@@ -2398,7 +2424,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 178356,
       "name": "Fio a Fio",
       "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
@@ -2950,6 +2976,28 @@
       "duration_ms": 230204,
       "name": "J\u00f3ia Rara",
       "url": "https://open.spotify.com/track/6fNtfIaMgkllAZghEvSvqr"
+    },
+    {
+      "album": {
+        "name": "J\u00f3ias",
+        "url": "https://open.spotify.com/album/3ojD5UfxoV48LKMWCywqfO"
+      },
+      "artists": [
+        {
+          "name": "Mc Jean",
+          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "J\u00f3ias",
+      "url": "https://open.spotify.com/track/2LFnuYFKk2O6UNBZ8RlSy9"
     },
     {
       "album": {
@@ -4211,6 +4259,28 @@
     },
     {
       "album": {
+        "name": "Noronha",
+        "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "Noronha",
+      "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Nasceu pra Namorar",
         "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
       },
@@ -4726,7 +4796,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 310344,
       "name": "Pixad\u00e3o",
       "url": "https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c"
@@ -4802,7 +4872,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
@@ -5144,6 +5214,32 @@
       "duration_ms": 220515,
       "name": "Rindo \u00e0 Toa",
       "url": "https://open.spotify.com/track/60bmSo6VUfLzGHfzsCkaPT"
+    },
+    {
+      "album": {
+        "name": "RIP POP",
+        "url": "https://open.spotify.com/album/5kzI4lBo6gfVqsBlkGk2jl"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "RIP POP",
+      "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
     },
     {
       "album": {
@@ -6410,7 +6506,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 147645,
       "name": "VAI POR MIM",
       "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"

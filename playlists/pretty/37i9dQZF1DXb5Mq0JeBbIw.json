@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 1170,
+  "num_followers": 1206,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmI4NWI3YWNkNTZhNjU1OGRjNDM0Y2ZiYmRkNWEwMDQ2YzA0Zjc2",
+  "snapshot_id": "MCxhMzI5OWY3NGFlNDU1NDQ2OTBjZTJmNWY2ZDM4NzU1ODgzOGJlMDJk",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -873,30 +873,6 @@
       "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
-      "added_at": "2023-06-23 11:57:00",
-      "album": {
-        "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
-        "url": "https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 145521,
-      "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
-      "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "see u tomorrow (stripped)",
@@ -931,6 +907,30 @@
       "duration_ms": 177818,
       "name": "honest (feat. moon tang)",
       "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
+    },
+    {
+      "added_at": "2023-06-23 11:57:00",
+      "album": {
+        "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
+        "url": "https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 145521,
+      "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
+      "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Find You (Acoustic)",
-        "url": "https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Find You - Acoustic",
-      "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 236094,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Find You (Acoustic)",
+        "url": "https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Find You - Acoustic",
+      "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
     },
     {
       "added_at": "2023-02-10 06:37:00",

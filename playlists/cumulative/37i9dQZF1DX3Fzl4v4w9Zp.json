@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Lukas Nelson and Promise of the Real ",
+  "description": "Keep your finger on the pulse of Americana. Cover: Rhiannon Giddens",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 313577,
       "name": "3D Country",
       "url": "https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr"
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Old Kanawha",
+        "url": "https://open.spotify.com/album/1gBFPuS81bvzUOWEToSdNB"
+      },
+      "artists": [
+        {
+          "name": "Philip Bowen",
+          "url": "https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190689,
+      "name": "A Murder",
+      "url": "https://open.spotify.com/track/5eH7Ok6bN3QuFIBk2SLRSQ"
+    },
+    {
+      "album": {
         "name": "Entering Heaven Alive",
         "url": "https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5"
       },
@@ -132,6 +150,24 @@
       "duration_ms": 162858,
       "name": "A Tip from You to Me",
       "url": "https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2"
+    },
+    {
+      "album": {
+        "name": "Abraham",
+        "url": "https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250257,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
     },
     {
       "album": {
@@ -409,6 +445,28 @@
     },
     {
       "album": {
+        "name": "All My Exes Live in L.A.",
+        "url": "https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198062,
+      "name": "All My Exes Live in L.A.",
+      "url": "https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c"
+    },
+    {
+      "album": {
         "name": "All My Love Is Coming Back To Me",
         "url": "https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f"
       },
@@ -666,7 +724,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 173575,
       "name": "Belle Meade Cockfight",
       "url": "https://open.spotify.com/track/13Yz6l1NL8fPtk29BkuFTS"
@@ -1016,7 +1074,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 252981,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t"
@@ -3143,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311892,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
+    },
+    {
+      "album": {
         "name": "Lover's Game",
         "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
       },
@@ -4167,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+    },
+    {
+      "album": {
         "name": "John Prine's Cadillac",
         "url": "https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA"
       },
@@ -5179,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "Movin'",
+        "url": "https://open.spotify.com/album/02iPeaTe80HSdxgFrkVUNB"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/2BjoPGw339b87PMwe8g9FT"
+    },
+    {
+      "album": {
         "name": "Music City USA",
         "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
       },
@@ -5598,7 +5710,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 264146,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
@@ -6086,7 +6198,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164840,
       "name": "Playing God Again",
       "url": "https://open.spotify.com/track/4EQR5qi9TxhbjF443YrxBk"
@@ -6426,6 +6538,24 @@
       "duration_ms": 179746,
       "name": "Rich Little Girls",
       "url": "https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A"
+    },
+    {
+      "album": {
+        "name": "Rich Men North of Richmond",
+        "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187244,
+      "name": "Rich Men North of Richmond",
+      "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
     },
     {
       "album": {
@@ -7142,7 +7272,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 186269,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
@@ -8054,7 +8184,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 233545,
       "name": "The Town In Your Heart",
       "url": "https://open.spotify.com/track/4lKn602elYFXHfKVvkEEZY"
@@ -8210,7 +8340,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176053,
       "name": "This Is A Photograph II",
       "url": "https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8"
@@ -8348,6 +8478,24 @@
       "duration_ms": 163760,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW"
+    },
+    {
+      "album": {
+        "name": "Too Little, Too Late, Too Bad",
+        "url": "https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Too Little, Too Late, Too Bad",
+      "url": "https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ"
     },
     {
       "album": {
@@ -8763,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "When Country Came Back to Town",
+        "url": "https://open.spotify.com/album/7HBlZRPrkD77WNrWjEgXId"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308258,
+      "name": "When Country Came Back to Town",
+      "url": "https://open.spotify.com/track/6ajGzRERrNWMa4zpB6ID8W"
+    },
+    {
+      "album": {
         "name": "Where the Long Line Leads",
         "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
       },
@@ -9168,7 +9334,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 219746,
       "name": "Yet to Be (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf"

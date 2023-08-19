@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-312 songs - 15 hr 39 min
+314 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2022-05-20 |  |
 | [marquee](https://open.spotify.com/track/3bQqaKhQjfdgOZyGgwi6jy) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [marquee](https://open.spotify.com/album/4bH7olhBkbIkXA7Id0f3ku) | 2:38 | 2022-08-19 |  |
 | [Mellow Flow](https://open.spotify.com/track/71mNlLD1Aq01GOkyR2besV) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Mellow Flow](https://open.spotify.com/album/3Kpo78HLS8dxwSqrdH7gzS) | 3:33 | 2022-05-20 | 2022-07-29 |
+| [Melrose Melodies](https://open.spotify.com/track/5bvLQQShcSRkSB1JACfIeC) | [Rodeo 55](https://open.spotify.com/artist/3xkoKnukumjrChWnrtTz2F) | [Melrose Melodies](https://open.spotify.com/album/3IDZLVaoYsupTZsIUZlJRb) | 2:13 | 2023-08-18 |  |
 | [Meridian](https://open.spotify.com/track/6g2qNlGpizqh0K05nxLNqf) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Meridian](https://open.spotify.com/album/6YEdcoWIiIjzUcqr11W2C0) | 3:42 | 2022-05-20 | 2022-06-03 |
 | [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 | 2022-05-20 | 2022-09-17 |
 | [Midside](https://open.spotify.com/track/4eUvFf6qOaJ5WN0NiPy0LV) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Midside](https://open.spotify.com/album/6MhfXpAV2fDGLsuPJrN5w7) | 2:45 | 2022-10-28 |  |
@@ -283,6 +284,7 @@
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-05-20 |  |
 | [Surface](https://open.spotify.com/track/3cYoFTvBceHnBJrepK9zoC) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:49 | 2022-05-20 |  |
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-09-09 |
+| [Swirls](https://open.spotify.com/track/3d3lF5sNvkYHe8oL7tDJtH) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Swirls](https://open.spotify.com/album/0ejb8K42cu7odeMxx7OvaT) | 2:38 | 2023-08-18 |  |
 | [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
 | [Tell Me It's Not Over](https://open.spotify.com/track/4Ul7JjcgyD8BmIZkloRlKu) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Tell Me It's Not Over](https://open.spotify.com/album/6lzQfNbnGiljpubcYSFdhQ) | 3:05 | 2022-09-16 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-05-20 | 2022-06-03 |

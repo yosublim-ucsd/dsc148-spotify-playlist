@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,648 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,662 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 49 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
 | 50 | [We loved each other so much](https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2) | 3:47 |
 
-Snapshot ID: `MCwyOWJiYmRhNDBkNGQwMDU2ODIzMGUzNTNiOTM2YjRhNTg1ZjhmNmVl`
+Snapshot ID: `MCw2ZTk2NWI2ZTNiOTIxZDA1ZjhhZjJkNzZiYTBmNWQ5ZjMzMDFkMzRk`

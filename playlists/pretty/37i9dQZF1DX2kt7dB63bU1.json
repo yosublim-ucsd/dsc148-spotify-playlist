@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Laufey",
-  "num_followers": 128550,
+  "num_followers": 128624,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzVhYzA4ZTE2NmUxZGExMmM2MTE4OTI2Yjc5NTBkZWY3MmRiZTFi",
+  "snapshot_id": "MCxjMWQ4OTBmN2I4YzI5MmYwNThjN2Q1MmY4MWEzZmVjNzY3NjlhYzI3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 246693,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Who Are You Dreaming Of",
+      "url": "https://open.spotify.com/track/1NmjyMJ8V0vJyKnqujBvCT"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -45,10 +61,26 @@
       "url": "https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
+      "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "How Did You Get In My Dreams?",
-        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
+        "name": "Peach Velvet Sky",
+        "url": "https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 350740,
+      "name": "Peach Velvet Sky",
+      "url": "https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Suddenly Lovers",
+        "url": "https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW"
       },
       "artists": [
         {
@@ -56,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 217376,
-      "name": "How Did You Get In My Dreams?",
-      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
+      "duration_ms": 218160,
+      "name": "Suddenly Lovers",
+      "url": "https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -125,6 +157,22 @@
       "url": "https://open.spotify.com/track/74BRdmhoM9hJflGJHpyVhe"
     },
     {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Pick Yourself Up",
+        "url": "https://open.spotify.com/album/6VMr6sgE1dyMAas9ntv4WB"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 134987,
+      "name": "Pick Yourself Up",
+      "url": "https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Baltimore",
@@ -163,6 +211,30 @@
       "duration_ms": 100000,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/2XHZQMfaIft1QP0RFSl56F"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Melancolia",
+        "url": "https://open.spotify.com/album/4kVGZDkDbWtqKVsoHmKIX2"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Charles Goold",
+          "url": "https://open.spotify.com/artist/093VHM9FzYzlFcIEYbXPwR"
+        },
+        {
+          "name": "Russell Hall",
+          "url": "https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT"
+        }
+      ],
+      "duration_ms": 263812,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0wMBswBqCvIF3Na1cQQ0D7"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -901,22 +973,6 @@
       "url": "https://open.spotify.com/track/3wZWkqbqKCyJwBYv35Pyh6"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Twilight Green",
-        "url": "https://open.spotify.com/album/0x6JygwsCcLycyGckLVdPz"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Twilight Green",
-      "url": "https://open.spotify.com/track/5QMIIpenOuFYvK3jhSLgMI"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Quietude",
@@ -967,30 +1023,6 @@
       "duration_ms": 174751,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/4HVz4K6niFBCVZwsMptFkV"
-    },
-    {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Goodbye (Again)",
-        "url": "https://open.spotify.com/album/4kss8Eu1B4oD5kiJ8a7sxw"
-      },
-      "artists": [
-        {
-          "name": "Matt Block",
-          "url": "https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP"
-        },
-        {
-          "name": "Morton Block",
-          "url": "https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ"
-        },
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Goodbye (Again)",
-      "url": "https://open.spotify.com/track/7vzDXHNfr8m3EbClQn9JH6"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1159,26 +1191,6 @@
       "duration_ms": 140686,
       "name": "Petite musique terrienne",
       "url": "https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY"
-    },
-    {
-      "added_at": "2022-07-18 12:24:10",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/5yWVlsZ0wDgsUwGFY670G5"
-      },
-      "artists": [
-        {
-          "name": "Julietta",
-          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
-        },
-        {
-          "name": "Raphael Futura",
-          "url": "https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/1CD05bHRSAgJFmODYYT84t"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1711,34 +1723,6 @@
       "duration_ms": 238933,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/14x0olxuhl7Q2e5Fx3lEYN"
-    },
-    {
-      "added_at": "2022-10-14 19:18:38",
-      "album": {
-        "name": "It's Alright With Me",
-        "url": "https://open.spotify.com/album/3iWLEOlc0YnBCbpXFKy1eU"
-      },
-      "artists": [
-        {
-          "name": "Javier Nero",
-          "url": "https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m"
-        },
-        {
-          "name": "Sean Jones",
-          "url": "https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6"
-        },
-        {
-          "name": "Christie Dashiell",
-          "url": "https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth"
-        },
-        {
-          "name": "Josh Richman",
-          "url": "https://open.spotify.com/artist/4mdUPNp0bFcroAE6OVIUXk"
-        }
-      ],
-      "duration_ms": 357647,
-      "name": "It's Alright With Me",
-      "url": "https://open.spotify.com/track/0x1tkK2hltpvMeM2ERJnTB"
     },
     {
       "added_at": "2023-03-17 05:00:00",

@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: LE SSERAFIM\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-449 songs - 1 day 0 hr 41 min
+451 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,11 +47,12 @@
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 |  |
 | [Beautiful Beautiful](https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:10 | 2021-12-20 | 2022-06-21 |
 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2021-12-20 | 2022-07-26 |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Bingle Bangle](https://open.spotify.com/track/04LMZmQh5Le3F7OwLwHDEM) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [BINGLE BANGLE](https://open.spotify.com/album/3dCzh2hx0xzXFBUmzQQeoJ) | 3:41 | 2022-03-22 | 2022-04-15 |
 | [BIRTHDAY](https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx) | 3:05 | 2021-12-20 | 2022-07-23 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-12-01 | 2023-07-21 |
 | [Black Crown](https://open.spotify.com/track/1cSmtCnzmOXKu0pRwQRAZz) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. III\. Ivan](https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo) | 3:58 | 2022-03-22 | 2022-04-15 |
-| [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2021-12-20 |  |
+| [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2021-12-20 | 2023-08-19 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-13 | 2022-08-19 |
 | [Blue & Black](https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [ARIN](https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF), [JANGWONYOUNG](https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw), [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8), [SERIM](https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO), [JUNGMO](https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV) | [Blue & Black](https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh) | 3:21 | 2022-06-29 | 2022-07-05 |
 | [Blue Hour](https://open.spotify.com/track/0JQHGu03YJikcND4SENdiW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:29 | 2021-12-20 | 2022-07-29 |
@@ -203,6 +204,7 @@
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-12-20 | 2022-04-16 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-19 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-20 | 2023-05-02 |
+| [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-18 |  |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-18 | 2022-12-02 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-03-31 |  |
@@ -260,7 +262,7 @@
 | [NEW HERO](https://open.spotify.com/track/6OTsinrSCfxmwcr5wLy2as) | [Choi suhwan](https://open.spotify.com/artist/5if8p7T2O2QHhIKZiwSWvD), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [NEW HERO](https://open.spotify.com/album/602H8kYZQMFOEVGGdjH82r) | 3:22 | 2022-03-22 | 2022-04-16 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-20 |  |
 | [No Mercy](https://open.spotify.com/track/2Nn3Vqa9Rvuo2fUmgiuVkO) | [Bambi](https://open.spotify.com/artist/0Xb7fP5TfMhGEuRucG7etD) | [No Mercy](https://open.spotify.com/album/6Mleuu7KDx4xKSW4RKQmzr) | 3:38 | 2022-03-22 | 2022-04-15 |
-| [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-30 |  |
+| [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-30 | 2023-08-19 |
 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-07-19 | 2022-08-13 |
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2021-12-20 | 2022-12-22 |
 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2022-07-19 |  |

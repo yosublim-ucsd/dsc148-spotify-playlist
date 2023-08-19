@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/taylorrooks/">Taylor Rooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 39 | [On My Way \(feat\. El DeBarge\)](https://open.spotify.com/track/4k9AeRyrbBwgsy5DxoQXSl) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 2:21 |
 | 40 | [Girls Love Beyoncé \(feat\. James Fauntleroy\)](https://open.spotify.com/track/56NDFbD0tCUawnqeU2wcvv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:45 |
 
-Snapshot ID: `MCxmZWRkNjg0OGQ3MmJmMGRkOWFiNTE1YjM3OGU3ODNiZmVkNzMxOWMy`
+Snapshot ID: `MCxhOTA4NTFkNzUyYTgzM2ZhODg5Y2QyZmM2ZDZjMjFmYmE3NDE0MDY3`

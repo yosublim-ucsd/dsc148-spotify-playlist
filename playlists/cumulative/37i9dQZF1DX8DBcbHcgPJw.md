@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: El Villano, BM & Migrantes.
 
-399 songs - 19 hr 56 min
+400 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [En el Coupe](https://open.spotify.com/track/5hJPNQJ0UtGBEYi2xxCD6R) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Reicing](https://open.spotify.com/album/67D050tXcCNCXFcpfWVjzl) | 3:41 | 2022-03-25 | 2022-09-24 |
 | [En La Mía](https://open.spotify.com/track/5QtuiG6Jihrk7qYIoDZWWR) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [En La Mía](https://open.spotify.com/album/3bfkNnGUwFh46Rn38wXoLh) | 2:22 | 2022-11-11 | 2022-12-10 |
 | [Enamorao Total](https://open.spotify.com/track/6xnpkBUhIvcDSVbqJvYC2v) | [Nikki Mackliff](https://open.spotify.com/artist/3xmukiHDMY7UkmqCtl8Eyu), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Enamorao Total](https://open.spotify.com/album/1omiuaEHZCvgEisT3VRHYs) | 2:38 | 2022-01-21 | 2022-07-30 |
+| [Encararte / Fui feliz / Hoy aprendi \(Medley\)](https://open.spotify.com/track/5LLfgq2sp338bhfShDG17c) | [Sonido Basico](https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA) | [Encararte / Fui feliz / Hoy aprendi \(Medley\)](https://open.spotify.com/album/4wY3LwzhwqM78hEO5IbST3) | 5:56 | 2023-08-18 |  |
 | [Enemigos](https://open.spotify.com/track/1hP5LmFzOEKXI2l1UsQK7w) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Aye Jaime](https://open.spotify.com/artist/7Bru0w5SCg7ME73iHX8ygf) | [Enemigos](https://open.spotify.com/album/2bq7t9l0uWDLjRGWJF9HGZ) | 2:24 | 2022-01-03 | 2022-07-05 |
 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 | 2021-12-23 | 2023-02-01 |
 | [Eres / Me Vas a Extrañar / Desesperado \- En Vivo](https://open.spotify.com/track/46Q868d09swJSRaZYMNYjE) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Eres / Me Vas a Extrañar / Desesperado](https://open.spotify.com/album/7uYgHCFhqnxrSbN8mFxb3r) | 4:56 | 2021-12-23 | 2023-02-01 |
@@ -292,7 +293,7 @@
 | [Quédate](https://open.spotify.com/track/34d2vAHqnQfyf0bMvhPIcy) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Quédate](https://open.spotify.com/album/0qNQvXNWtxvTF244YQC0zi) | 2:20 | 2022-02-11 | 2022-06-01 |
 | [Reaccionandote](https://open.spotify.com/track/7lXM3yC4RxcDfPRiIXWyhS) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Reaccionandote](https://open.spotify.com/album/6P9kHmhfcYCAzjBJoKJTXk) | 3:39 | 2023-08-04 |  |
 | [Recuerdos](https://open.spotify.com/track/1AtZwXCl3sjqdD66j39g9Q) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Recuerdos](https://open.spotify.com/album/5b70gTnDRf5A8J8iodxvyB) | 2:42 | 2021-12-23 | 2022-06-23 |
-| [Regresa Hermosa](https://open.spotify.com/track/7fl8i6VN8EHOBxCBK8Bxy4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Regresa Hermosa](https://open.spotify.com/album/6qs6N1TZjAZlkw9bjRK2nQ) | 3:01 | 2023-07-07 |  |
+| [Regresa Hermosa](https://open.spotify.com/track/7fl8i6VN8EHOBxCBK8Bxy4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Regresa Hermosa](https://open.spotify.com/album/6qs6N1TZjAZlkw9bjRK2nQ) | 3:01 | 2023-07-07 | 2023-08-19 |
 | [Resaca](https://open.spotify.com/track/1yz9PtGQrEwvTCYvvFKq4g) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Resaca](https://open.spotify.com/album/24dXMmQ2y8B7GAeNcZwHtt) | 2:15 | 2022-08-06 | 2022-11-19 |
 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 | 2022-06-10 | 2023-04-11 |
 | [Rompi](https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Santi y lo que faltaba](https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN) | [Rompi](https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78) | 3:13 | 2022-01-07 | 2022-06-08 |

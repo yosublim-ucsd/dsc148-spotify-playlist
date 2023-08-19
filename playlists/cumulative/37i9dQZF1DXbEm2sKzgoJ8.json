@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295066,
+      "name": "Art Deco",
+      "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF"
+    },
+    {
+      "album": {
         "name": "At My Worst (feat. Kehlani)",
         "url": "https://open.spotify.com/album/1RtGE6VCkSEwd5jm0v1Wfp"
       },
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/4KCpGAzRm43d1KR0uHopMy"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140586,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/6VKp9ZRRULPkWTt87jYVMG"
+    },
+    {
+      "album": {
         "name": "Eternal Sunshine",
         "url": "https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n"
       },
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -2836,6 +2872,28 @@
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "album": {
+        "name": "JEANS",
+        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "JEANS (with Miguel)",
+      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
     },
     {
       "album": {
@@ -5248,7 +5306,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
@@ -5755,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189202,
+      "name": "Treasure In The Hills",
+      "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
+    },
+    {
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -5820,7 +5896,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
@@ -5878,7 +5954,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192476,
       "name": "unintentional (with Pink Sweat$)",
       "url": "https://open.spotify.com/track/5zikaD3Pi5g5PBAUYPlMae"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,006 likes - 80 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,262 likes - 80 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Downtown](https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM) | [Literatura](https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc), [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8), [Junket](https://open.spotify.com/artist/1bQ7x7BvGHp7450Mqb239d) | [Downtown EP](https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl) | 7:44 |
 | 80 | [Heartstrings](https://open.spotify.com/track/7dXeRXvSYwuAtFwi2JBDXi) | [Evelynka](https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN) | [Heartstrings](https://open.spotify.com/album/1BKrexLvQyfeVk64nWf5R9) | 7:56 |
 
-Snapshot ID: `MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0`
+Snapshot ID: `MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm`

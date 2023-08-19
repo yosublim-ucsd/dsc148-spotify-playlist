@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-518 songs - 1 day 8 hr 21 min
+519 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Slide's Getting Shorter](https://open.spotify.com/track/4x5QG3BeA9agfFb7bsvLQ0) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Slide's Getting Shorter](https://open.spotify.com/album/40voTLKXch9Rge7BlKR56z) | 2:19 | 2022-01-14 | 2022-04-16 |
 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 | 2021-10-22 | 2023-03-11 |
 | [So Slowly](https://open.spotify.com/track/3svVB5h2BhRyvDqTDKYAFk) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Slowly](https://open.spotify.com/album/7elFANugWUFErlAs8V6vBW) | 3:00 | 2022-01-14 | 2022-04-14 |
+| [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-18 |  |
 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 | 2021-10-22 |  |
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2021-10-22 | 2022-07-29 |
 | [Somewhere in Chicago](https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Somewhere in Chicago](https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM) | 3:05 | 2021-10-22 | 2023-08-05 |
@@ -523,7 +524,7 @@
 | [You're Not Alone](https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 5:36 | 2021-10-22 | 2022-04-18 |
 | [Young Bodies](https://open.spotify.com/track/2zOs2Dck8ilE2DqpjZVdD2) | [Westward the Tide](https://open.spotify.com/artist/5oTZhBfLpcYvt6Y703qkYB) | [Sorry Soul](https://open.spotify.com/album/6p2IxI7t9D5CPfGM8edABQ) | 4:09 | 2022-04-13 | 2022-04-21 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-17 |  |
-| [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2022-06-24 |  |
+| [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2022-06-24 | 2023-08-19 |
 | [Your Body](https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Your Body](https://open.spotify.com/album/5evixJw5r4l7PDqEJNBzhN) | 3:24 | 2021-10-22 | 2022-07-18 |
 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 | 2021-10-22 |  |
 

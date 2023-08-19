@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Misa",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 122292,
       "name": "Buddha cheese",
       "url": "https://open.spotify.com/track/4BVmbuWXDmBY6iiWYsIgJr"
@@ -4629,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "Jelly",
+        "url": "https://open.spotify.com/album/2aP0DI7powMQM4PO5nFrfd"
+      },
+      "artists": [
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136799,
+      "name": "Jelly",
+      "url": "https://open.spotify.com/track/0VVfam9xsR7Em7CWoYECr6"
+    },
+    {
+      "album": {
         "name": "John Wick",
         "url": "https://open.spotify.com/album/4cqEmnt3hBroCnutiCPNoJ"
       },
@@ -5174,7 +5192,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 185142,
       "name": "Magique",
       "url": "https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1"
@@ -5232,7 +5250,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 133822,
       "name": "Make It Alright",
       "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
@@ -5348,6 +5366,24 @@
       "duration_ms": 222853,
       "name": "Matusalem",
       "url": "https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK"
+    },
+    {
+      "album": {
+        "name": "Mauvais Ressentiment",
+        "url": "https://open.spotify.com/album/2i2QBPdBMAGlBuvCdzfp5e"
+      },
+      "artists": [
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "Mauvais Ressentiment",
+      "url": "https://open.spotify.com/track/7Gqxw0JjHdPW6crGmFMIlA"
     },
     {
       "album": {
@@ -5637,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "MONNAIE",
+        "url": "https://open.spotify.com/album/6ARWG8BntraLXVsELp9JkI"
+      },
+      "artists": [
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        },
+        {
+          "name": "Cinco",
+          "url": "https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152645,
+      "name": "MONNAIE",
+      "url": "https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg"
+    },
+    {
+      "album": {
         "name": "PETiTOM",
         "url": "https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r"
       },
@@ -5688,6 +5746,24 @@
       "duration_ms": 182256,
       "name": "Montego Bay",
       "url": "https://open.spotify.com/track/7u3hvzsMpRgV3o8PHSFMS0"
+    },
+    {
+      "album": {
+        "name": "30\u00ba",
+        "url": "https://open.spotify.com/album/5cQjwwloSCbzEEFh9fLAuw"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123908,
+      "name": "MOTOMAMI",
+      "url": "https://open.spotify.com/track/7mdMJNBm9Ufi2yybr49DNT"
     },
     {
       "album": {
@@ -5918,7 +5994,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 238106,
       "name": "No Bap",
       "url": "https://open.spotify.com/track/6INVu5L6ciTAFVR64nIF4w"
@@ -6502,7 +6578,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 171743,
       "name": "patio",
       "url": "https://open.spotify.com/track/1bq6D7ZggRYOJAkQeYmYpk"
@@ -7584,6 +7660,24 @@
       "duration_ms": 213498,
       "name": "Salt Bae",
       "url": "https://open.spotify.com/track/2ZpVCAC54nKySnWuC0mJ0t"
+    },
+    {
+      "album": {
+        "name": "Sandy",
+        "url": "https://open.spotify.com/album/7xplnZSEdsGyiOU2QBQXzi"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165407,
+      "name": "Sandy",
+      "url": "https://open.spotify.com/track/1szKZnGxBmd1JgMzPEzF8G"
     },
     {
       "album": {

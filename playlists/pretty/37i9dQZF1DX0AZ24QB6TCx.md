@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,851 likes - 70 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,970 likes - 70 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Don't Go Asking \- Radio Edit](https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb) | [Roswitha Nash](https://open.spotify.com/artist/1FbEK4vAkcgk8Iraf75d6S), [Roswitha](https://open.spotify.com/artist/3S7xRyDELQRBHJwdqC25ZT), [Nash \(NL\)](https://open.spotify.com/artist/1oZ9VaYo9aRLk0myoEr0Je) | [Don't Go Asking](https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt) | 3:17 |
 | 70 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 |
 
-Snapshot ID: `MCxhYzc3MTk4MWM1YTNjODE0NWQzN2E1OTMxOWY1MDczMDIyY2QyYWMz`
+Snapshot ID: `MCw1ZDJhZjVmODVhY2UzZTJhMzRlZDU0OWM4ZDYwMmM1OWEwZGIzYzY4`

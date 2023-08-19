@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Blessd, Maluma, KAROL G and more.🔥🥵
+> Reggaeton hits from KAROL G, Peso Pluma, Quevedo and more.🔥🥵
 
-312 songs - 17 hr 39 min
+313 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Pichaera](https://open.spotify.com/track/3cByks7G0z4nIpcir5awmb) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Pichaera](https://open.spotify.com/album/20uPsnEFa0sfIWOycOvwL6) | 4:06 | 2023-07-21 |  |
 | [Playa](https://open.spotify.com/track/4ZaVajmkOBcdcjDmFScNYs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:04 | 2021-12-24 | 2022-01-08 |
 | [Poblado \- Remix](https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado \(Remix\)](https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7) | 6:33 | 2021-12-24 | 2022-01-22 |
-| [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 | 2023-05-26 |  |
+| [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 | 2023-05-26 | 2023-08-19 |
+| [Podemos Repetirlo \(Remix\)](https://open.spotify.com/track/6AkCPRgpyt2jMF3RGjzJsw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Podemos Repetirlo \(Remix\)](https://open.spotify.com/album/3UmFOFNVmfzGI6NKJkUImG) | 4:40 | 2023-08-18 |  |
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-06-09 |  |
 | [Por Deporte](https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:49 | 2022-12-02 | 2023-01-28 |
 | [Por El Alcohol](https://open.spotify.com/track/2ZeT6783LAgIqWCyAh85fO) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [DELUXE](https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk) | 3:24 | 2021-12-24 | 2022-03-05 |

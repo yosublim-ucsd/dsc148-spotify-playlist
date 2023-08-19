@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Genesis Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,838 likes - 85 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,852 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fire of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 |
 | 2 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
 | 3 | [sideline, red wine lover](https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [you, green](https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4) | 2:47 |
-| 4 | [This Time](https://open.spotify.com/track/79ob9RdP6xf1MmdIxW9jSt) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [This Time](https://open.spotify.com/album/1FP5BG78Zrej8cyry5DZ2w) | 3:50 |
+| 4 | [This Time](https://open.spotify.com/track/46YmYCaARrMr58NyRpyllG) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [We Were We Still Are](https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9) | 3:50 |
 | 5 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 |
 | 6 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
 | 7 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 18 | [Off The Rails](https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Off The Rails](https://open.spotify.com/album/3HV7no3piIbAJsyfpSpb3l) | 2:41 |
 | 19 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 |
 | 20 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
-| 21 | [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:34 |
+| 21 | [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 |
 | 22 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 |
 | 23 | [The Trench Coat Museum](https://open.spotify.com/track/784HPjRj1dFr1XfdEnJfI0) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Trench Coat Museum](https://open.spotify.com/album/08m3R76Yfe2weYDQ4sMmtG) | 8:11 |
 | 24 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 |
 | 85 | [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 |
 
-Snapshot ID: `MCwwMzdjOGZlNjkyNWE1NjJhMmM4MmE2ZTE3ZDI4MWEwMGM3OTgwYWFk`
+Snapshot ID: `MCxkNmQ0NjM0NDVhOGJmZjhkZDcxMzVkMTE5Y2FhYTU3NTdkYjI4YzFi`

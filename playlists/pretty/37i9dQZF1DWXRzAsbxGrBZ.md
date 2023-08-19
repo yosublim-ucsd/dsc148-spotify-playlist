@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,768 likes - 50 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,877 likes - 50 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
 | 50 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 |
 
-Snapshot ID: `MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1`
+Snapshot ID: `MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,432 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,510 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 119 | [Bobby](https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Rocket](https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur) | 3:42 |
 | 120 | [A Little Bit of Everything](https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Nothing Is Wrong \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2) | 5:42 |
 
-Snapshot ID: `MCw2ZmRhNmIyMDE1YWJhZTA3YTFmNWFlNjY2MjQyZjkzMzIzZmJlZjAz`
+Snapshot ID: `MCw2YjI2ZWU5ZjllMTZjYmU0ZmRmNGY1NWJiYjE3NDc0YzQ5ZTYzNmY3`

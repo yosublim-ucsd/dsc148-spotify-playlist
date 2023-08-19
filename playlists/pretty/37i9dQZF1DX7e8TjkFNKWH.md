@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 
 ### [Party Hits 2000s](https://open.spotify.com/playlist/37i9dQZF1DX7e8TjkFNKWH)
 
-> The biggest party hits of the 2000s\. Cover: Shakira.
+> Los mejores éxitos de fiesta de la década de los 2000\. Portada: Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,854 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,004 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 | 149 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
 | 150 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
 
-Snapshot ID: `MCxmNDg2YWUyMGI0MmYyZjgyNzllY2ViOWNlNDIzMzFjNGNmZjBjNzI3`
+Snapshot ID: `MCw1YWNiNDhiZGZlZTg2M2RhMzc4ZjAzYzFmZDZmMmRkMGExODAzZDIx`

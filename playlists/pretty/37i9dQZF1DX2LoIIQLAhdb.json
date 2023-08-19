@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
-  "num_followers": 156279,
+  "num_followers": 156394,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODYyNDZmMDJmOWE2MzUwYTI3ZTE5MGVjY2E0YWEzN2VlZGJiYWFm",
+  "snapshot_id": "MCwyYTM0YTVlMTE3MzIwYWVkODY1MzFhODM3YjNlMThlMTIzMWNiODk2",
   "tracks": [
     {
       "added_at": "2023-08-10 22:01:00",
@@ -67,26 +67,6 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "Pour nous",
-        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
-      },
-      "artists": [
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "Pour nous",
-      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
       },
@@ -103,18 +83,22 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "Quelqu'un d'autre",
-        "url": "https://open.spotify.com/album/5UcLTGrzXoWuhOPsTKVvZI"
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
       },
       "artists": [
         {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
         }
       ],
-      "duration_ms": 181224,
-      "name": "Quelqu'un d'autre",
-      "url": "https://open.spotify.com/track/1w62sZZvD2ybf1FEeovI84"
+      "duration_ms": 167251,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
     },
     {
       "added_at": "2023-08-10 22:01:00",

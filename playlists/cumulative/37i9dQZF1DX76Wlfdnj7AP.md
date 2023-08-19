@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,281 songs - 2 day 21 hr 38 min
+1,282 songs - 2 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 | 2019-08-26 | 2019-10-26 |
 | [Jump](https://open.spotify.com/track/7yEM9hYRsw9R3pJB5W0gxb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P) | [Jump](https://open.spotify.com/album/1y8yeYpcaqJB0DWN9KWUlb) | 3:34 | 2019-10-23 | 2020-09-15 |
 | [Jumped Out the Window](https://open.spotify.com/track/0o7Zga5TFy35CcivyPDO5m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:24 | 2019-08-26 | 2020-01-03 |
+| [JUMPIN](https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [JUMPIN](https://open.spotify.com/album/2Gf3rUMIPtYL29TQx4Xnob) | 2:24 | 2023-08-18 |  |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-08-14 | 2022-12-02 |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-03-23 | 2023-07-29 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-12-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,330 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,532 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
 | 100 | [Magnified \(Acoustic\)](https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Magnified \(Acoustic\)](https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4) | 3:31 |
 
-Snapshot ID: `MCxmMTdlZDdmZTMyZjg1NDNiNzRjYWZkYWVlYzEwYTY4MGZlYTBkYzU5`
+Snapshot ID: `MCxjZGYyN2I4ODRlYmY3MzY5ODkyNDA3OWJlZDgwYmYzNWI4NjNkODUz`

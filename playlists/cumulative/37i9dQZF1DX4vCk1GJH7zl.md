@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bloc Party
 
-77 songs - 4 hr 38 min
+79 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,14 +24,15 @@
 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 | 2023-07-21 |  |
 | [Carta no Baralho](https://open.spotify.com/track/5uAiXNsj4YD6sqjlE1g9Yj) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Carta no Baralho](https://open.spotify.com/album/3WQ0Ob1xbq8QSWbF1vdW6x) | 5:12 | 2023-07-21 |  |
 | [Carta pro Passado](https://open.spotify.com/track/4WnXJEmktIas3NyqVJLepw) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Carta pro Passado](https://open.spotify.com/album/1zmEyQcEMoQ1XlXugjheEQ) | 3:15 | 2023-07-21 |  |
-| [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-07-21 |  |
+| [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-07-21 | 2023-08-19 |
 | [Coleção](https://open.spotify.com/track/1ZWyjMAEL7Pgbfj3gOw1ot) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Coleção](https://open.spotify.com/album/3iwSLqFgOSYRBTGd31T4rG) | 2:49 | 2023-07-21 |  |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2023-07-21 |  |
 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6fX0CLC0UcITuLpi2kl8T5) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [O Amor Liberta](https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd) | 3:12 | 2023-07-21 |  |
 | [Como Esquecer De Você](https://open.spotify.com/track/3vw7tup826gbSI2dIzLZD9) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 3](https://open.spotify.com/album/2BIit8ROWteatmlkMG0KEy) | 3:28 | 2023-07-21 |  |
 | [Conto os Dias](https://open.spotify.com/track/3gBHnHw9GqHAPocOcNihrN) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Conto os Dias](https://open.spotify.com/album/6KMOOty14Oqm0zfWsclTXB) | 3:23 | 2023-07-21 |  |
+| [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-18 |  |
 | [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2023-07-21 |  |
-| [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 | 2023-08-04 |  |
+| [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 | 2023-08-04 | 2023-08-19 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-07-21 |  |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 |  |
 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 | 2023-07-21 |  |
@@ -66,6 +67,7 @@
 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 | 2023-07-21 |  |
 | [Que Haja Amor \- Ao Vivo](https://open.spotify.com/track/0QNtVyOxfVs8qUcTzB3nz8) | [Delittus](https://open.spotify.com/artist/3jGgAV4HKOqvQcOEdK4yer), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Delittus 15 Anos \(Ao Vivo\)](https://open.spotify.com/album/0o1b8zCvsWHiakPhlC0YJY) | 4:46 | 2023-07-21 |  |
 | [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 | 2023-07-21 |  |
+| [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-18 |  |
 | [Sem Você](https://open.spotify.com/track/6nRByl6GE6VIKtyoaXD4cl) | [Rodrigo Santos](https://open.spotify.com/artist/0TnRF8LKVK3KDTJsshrD6q) | [Simples](https://open.spotify.com/album/40mBQmKPu6mGERoHndRbwB) | 4:14 | 2023-07-21 |  |
 | [Sete Cores do Meu Céu](https://open.spotify.com/track/1MOCZhEQZkLaQxd8VitPFi) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Sete Cores do Meu Céu](https://open.spotify.com/album/0RkYUXmZYZA0BxXqVOI7X6) | 4:06 | 2023-07-21 |  |
 | [Simplesmente](https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Simplesmente](https://open.spotify.com/album/3ac6zkBEQu4VBuEEZ6A5nZ) | 3:42 | 2023-07-21 |  |

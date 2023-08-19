@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Ahead of Myself",
+        "url": "https://open.spotify.com/album/5pVTHBXldk32CyJq169FgC"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Ahead of Myself",
+      "url": "https://open.spotify.com/track/5EPVhzjp0TKDeZfkQXaQVa"
+    },
+    {
+      "album": {
         "name": "Alien (Acoustic)",
         "url": "https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 207765,
       "name": "Feels This Good (feat. Stefflon Don) - Acoustic",
       "url": "https://open.spotify.com/track/2mzEYOnypTxiC5WVDZR6ZE"
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 186295,
       "name": "Light Switch - Acoustic",
       "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 206994,
       "name": "Lost The Breakup - Acoustic",
       "url": "https://open.spotify.com/track/09ZatOIC1CjEuvWYy5lSl3"
@@ -2863,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "RUNAWAY (Acoustic)",
+        "url": "https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142766,
+      "name": "RUNAWAY - Acoustic",
+      "url": "https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47"
+    },
+    {
+      "album": {
         "name": "Sad Tonight (Original + Acoustic)",
         "url": "https://open.spotify.com/album/3NkEzmCBqHZiLjoJsRpG5L"
       },
@@ -3210,6 +3246,32 @@
       "duration_ms": 195051,
       "name": "Stay - Acoustic",
       "url": "https://open.spotify.com/track/1EXxVBTTTzjgon6hWh3TuD"
+    },
+    {
+      "album": {
+        "name": "STRINGS (feat. JVKE & Bazzi) [Stripped Version]",
+        "url": "https://open.spotify.com/album/2WiZ4BUTVALB9f61XmI3cP"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151705,
+      "name": "STRINGS (feat. JVKE & Bazzi) - Stripped Version",
+      "url": "https://open.spotify.com/track/4VfnCDIo9jJpURfQ2mlImk"
     },
     {
       "album": {

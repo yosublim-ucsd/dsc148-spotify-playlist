@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Ghea Indrawari, V serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Jung Kook, Nadin Amizah serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 99 songs - 6 hr 8 min
 

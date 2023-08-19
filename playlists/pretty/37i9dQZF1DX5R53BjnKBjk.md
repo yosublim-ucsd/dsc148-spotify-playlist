@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Dani\-Vie / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,345 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,353 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 21 | [Boca Aberta](https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Boca Aberta](https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl) | 3:20 |
 | 22 | [Menino Bom](https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Menino Bom](https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC) | 3:23 |
 | 23 | [Oxi \(Dio Mio!\)](https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Oxi \(Dio Mio!\)](https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6) | 2:40 |
-| 24 | [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 |
-| 25 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 |
+| 24 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 |
+| 25 | [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 |
 | 26 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
 | 27 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
 | 28 | [Embalo](https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c) | [TIRI](https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab) | [Embalo](https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 |
 | 80 | [Queda livre](https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Queda livre](https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp) | 3:18 |
 
-Snapshot ID: `MCxjZDJlNmJlODRkYzIyNzY1ZWQzNjRlNmMyMTFmNWVhN2EyOGRkOWQx`
+Snapshot ID: `MCwzMTU3ZWFkNGEzZDBkNjI0MDczMDA4MzdmZmJmYmMwMGEyOGJlZGZh`

@@ -2,9 +2,9 @@
 
 ### [Hits Románticos](https://open.spotify.com/playlist/37i9dQZF1DX7Qo2zphj7u3)
 
-> Éxitos románticos, de hoy y de siempre\. Foto: Ricardo Montaner & Carlos Rivera
+> Éxitos románticos, de hoy y de siempre\. Foto: Ha\*Ash & Reik
 
-455 songs - 1 day 6 hr 34 min
+456 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 | 2022-01-25 |  |
 | [Mi Vida Sin Tu Amor](https://open.spotify.com/track/7ar0x3rmUNKo1rAkxTy8S5) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 3:34 | 2022-01-25 | 2022-07-29 |
 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 | 2022-01-25 |  |
-| [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-01-25 |  |
+| [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-01-25 | 2023-08-19 |
 | [Morena mía](https://open.spotify.com/track/0tSE3FNeqYVuTQIy1s67Az) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:51 | 2022-01-25 |  |
 | [Mudanzas](https://open.spotify.com/track/2eTfcnp4CXdcAFWaMt5Xyv) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Las Mejores Baladas para Este Día de las Madres](https://open.spotify.com/album/1kB4iyw04iNZxXD67KRxkS) | 3:50 | 2022-08-05 | 2022-11-13 |
 | [Mudanzas](https://open.spotify.com/track/3zzlzmcV08EkLTTdwtK98o) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/0j6hp50osfFovLhuXGWWvC) | 3:51 | 2022-01-25 | 2022-07-28 |
@@ -376,6 +376,7 @@
 | [Tan Solo](https://open.spotify.com/track/5BL1jTvEv0C9Pak2gyaLJ8) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Exitos De la A a la Z](https://open.spotify.com/album/3MohFuhHCn5BZpu4cpiMZd) | 3:59 | 2022-01-25 | 2022-07-28 |
 | [Tan Sólo Tú \(feat\. Alejandra Guzmán\) \- Franco De Vita en Primera Fila](https://open.spotify.com/track/6dhnmkbc9Z7pGsUyUgZKGX) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:57 | 2022-01-25 |  |
 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 | 2022-01-25 | 2023-03-22 |
+| [Te Acuerdas](https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Te Acuerdas](https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1) | 3:25 | 2023-08-18 |  |
 | [Te amaré \- MTV Unplugged](https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:33 | 2022-01-25 |  |
 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 | 2022-01-25 |  |
 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 | 2023-01-06 |  |

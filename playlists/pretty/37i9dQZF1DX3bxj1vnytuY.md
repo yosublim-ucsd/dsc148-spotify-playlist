@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,034 likes - 100 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,104 likes - 100 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Atlas](https://open.spotify.com/track/6kzqQrcvMJOmyNYopwbVA4) | [Ateoo](https://open.spotify.com/artist/7mFcLxdq3SVTfDOnnoqXYL), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Atlas](https://open.spotify.com/album/2NEznFmMnif2LbUrHrLW4F) | 5:50 |
-| 2 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
-| 3 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 |
-| 4 | [Middle East](https://open.spotify.com/track/3HmtMuseYTOz2M04s2Phc2) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Nadav Vee](https://open.spotify.com/artist/7ME7ha3w7CeCKpHnZlabEa), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Humans](https://open.spotify.com/album/2ao2WewM26IVC402ocZNwt) | 7:04 |
-| 5 | [Emowe](https://open.spotify.com/track/1GydcJBhEsjXVOwffBVyhr) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/0T2YlhZHMFUHf3xKrxeFle) | 7:40 |
-| 6 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 |
+| 1 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
+| 2 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 |
+| 3 | [Middle East](https://open.spotify.com/track/3HmtMuseYTOz2M04s2Phc2) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Nadav Vee](https://open.spotify.com/artist/7ME7ha3w7CeCKpHnZlabEa), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Humans](https://open.spotify.com/album/2ao2WewM26IVC402ocZNwt) | 7:04 |
+| 4 | [Emowe](https://open.spotify.com/track/1GydcJBhEsjXVOwffBVyhr) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/0T2YlhZHMFUHf3xKrxeFle) | 7:40 |
+| 5 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 |
+| 6 | [Atlas](https://open.spotify.com/track/6kzqQrcvMJOmyNYopwbVA4) | [Ateoo](https://open.spotify.com/artist/7mFcLxdq3SVTfDOnnoqXYL), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Atlas](https://open.spotify.com/album/2NEznFmMnif2LbUrHrLW4F) | 5:50 |
 | 7 | [Tawada \- Saint Evo Remix](https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Anas Chlih](https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tawada](https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M) | 7:15 |
 | 8 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 |
 | 9 | [Raga](https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yahya](https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX) | [Raga](https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 |
 | 100 | [Rasme Zmune](https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Mohsen Neshom](https://open.spotify.com/artist/3wqDjOH7IwQHnqdSWgb2jo) | [Rasme Zmune](https://open.spotify.com/album/7eBetateogBdX7nSPynMbD) | 6:58 |
 
-Snapshot ID: `MCw4M2ZiMTU1ODg2OGNmNzQ0NTc4NTcxNjA4Y2U4YTUyMDBkNmY2OWU4`
+Snapshot ID: `MCwyYmIzYjk1YzdjYThkODA3NTExMTRmYTg4YjE1OTYyMTFjZTA1MWYy`

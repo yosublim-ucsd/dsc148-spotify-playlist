@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,907 likes - 76 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,280 likes - 76 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vem Morenin](https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Pivete do Arrocha Funk](https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9) | 2:39 |
 | 2 | [Fode Bem](https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:16 |
-| 3 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
+| 3 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 4 | [Halls na Língua \- Remix](https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Halls na Língua](https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl) | 2:23 |
 | 5 | [Ai Que Delicia o Verão](https://open.spotify.com/track/0clo2HfL2gpiEpiE5mA3q5) | [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG) | [Ai Que Delicia o Verão](https://open.spotify.com/album/3deh2ncfGFYC8CKzpbQFCd) | 1:55 |
 | 6 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 75 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 76 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw1YzVmMmUwN2YwZWY2YWYyZTIxMzQyNWM3NjEyYmZhZDUyYWFmODRj`
+Snapshot ID: `MCxlYjA4MDRmY2NlYjA1MGU0MzE5M2QxMTk3NTBkMjUyYmJkNmE1NTEy`

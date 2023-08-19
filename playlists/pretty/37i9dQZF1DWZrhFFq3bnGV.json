@@ -1,12 +1,12 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Praya Tjondro",
-  "num_followers": 102631,
+  "num_followers": 102658,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWNmYzNjNmI5ZTU3MGJlMmQ2ZmNiMDdkYjEzYWFkMDMzYTFiMmMx",
+  "snapshot_id": "MCwxYzEzMTZhOTgzYWFiM2JmYzMzOWY1ZmRmZjk4MzNlZDk0OGMzNmYw",
   "tracks": [
     {
       "added_at": "2023-08-17 17:14:09",
@@ -137,6 +137,54 @@
       "url": "https://open.spotify.com/track/3BguNO1FHJs4KRqNp1hC2K"
     },
     {
+      "added_at": "2023-08-18 04:13:51",
+      "album": {
+        "name": "Bankai",
+        "url": "https://open.spotify.com/album/7IgD8vlQ7x2WZkPBsfooIH"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Tuantigabelas",
+          "url": "https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn"
+        },
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        },
+        {
+          "name": "Dimas Pradipta",
+          "url": "https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD"
+        },
+        {
+          "name": "Stanley Khoewell",
+          "url": "https://open.spotify.com/artist/6Bxl9QDG5TEz5Wgfr3gtgu"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Bankai",
+      "url": "https://open.spotify.com/track/2zccWGvXDgSNfM2h0VnR5m"
+    },
+    {
+      "added_at": "2023-08-18 04:13:51",
+      "album": {
+        "name": "Teras Dan Angin Malam",
+        "url": "https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp"
+      },
+      "artists": [
+        {
+          "name": "Hezky Jo",
+          "url": "https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Kejar Terus",
+      "url": "https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5"
+    },
+    {
       "added_at": "2023-08-17 17:14:09",
       "album": {
         "name": "Some Of My Best Friends Are Jazz Cats!",
@@ -163,6 +211,30 @@
       "duration_ms": 297600,
       "name": "Destination Moon",
       "url": "https://open.spotify.com/track/6ZcfZ8dyYySA6xXdykEItF"
+    },
+    {
+      "added_at": "2023-08-18 04:13:51",
+      "album": {
+        "name": "Scars Souvenir",
+        "url": "https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        },
+        {
+          "name": "Leca Percussion",
+          "url": "https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q"
+        },
+        {
+          "name": "Rhesa Siregar",
+          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
+        }
+      ],
+      "duration_ms": 179827,
+      "name": "As We Talk",
+      "url": "https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m"
     },
     {
       "added_at": "2023-08-17 17:14:09",

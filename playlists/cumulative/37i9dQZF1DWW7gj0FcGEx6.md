@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-272 songs - 13 hr 41 min
+273 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Maya’s Adoption Party](https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH) | [Starr Parodi](https://open.spotify.com/artist/4wMTcGiDCOJ5XkpbeyMU3m), [Jeff Eden Fair](https://open.spotify.com/artist/05BkDv6lrBLduTzqJABTqB) | [The Storied Life of A.J\. Fikry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ewjDDOWk0vXaUiJjIkjun) | 2:21 | 2022-12-09 |  |
 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 | 2021-12-20 | 2022-07-09 |
 | [Mo Ergaste Forn](https://open.spotify.com/track/6PRHXNZzRrsP5RppsMXTkq) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:31 | 2023-05-05 |  |
+| [Moments of Melancholy](https://open.spotify.com/track/35ryyVuqtEUVBTnu5dRlAt) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Landscape With Invisible Hand \(Original Motion Picture Score\)](https://open.spotify.com/album/3fWOUH6Q5TaPfI8P1f97xR) | 1:39 | 2023-08-18 |  |
 | [Monarch Butterfly](https://open.spotify.com/track/0MoNYYWAsCs5DjJrDvql9h) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3) | [A Year On Planet Earth \(Original Television Soundtrack\)](https://open.spotify.com/album/0LUY6DKJaFhoL0coG7rZ3k) | 5:08 | 2023-07-14 |  |
 | [Moon Knight](https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:10 | 2022-07-22 |  |
 | [Moon Knight \- From "Moon Knight"](https://open.spotify.com/track/3IvbyVYgQEKqvwQhquFKNn) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(From "Moon Knight"\)](https://open.spotify.com/album/3aDLlTH3zT60e9pfJwtzlB) | 2:08 | 2022-04-08 | 2022-07-29 |

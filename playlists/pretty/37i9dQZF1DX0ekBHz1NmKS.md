@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,424 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,454 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 |
 | 100 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 |
 
-Snapshot ID: `MCwyY2MwMDI0ZjQyNjcyZDBiZmI3NmI0ZTFiMWRjNTFiNjk5MmU4MGVh`
+Snapshot ID: `MCw4NmEzOWY0YTNlZDQxM2FlMTUzOTZiMDcyYzY5Yjk2OThjZDVhZjdk`

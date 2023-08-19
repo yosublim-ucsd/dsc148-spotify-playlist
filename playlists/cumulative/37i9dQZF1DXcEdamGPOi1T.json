@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228690,
       "name": "Alco",
       "url": "https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po"
@@ -386,6 +386,28 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
     },
     {
       "album": {
@@ -665,6 +687,24 @@
     },
     {
       "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
@@ -720,7 +760,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
@@ -774,7 +814,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -1266,7 +1306,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 155047,
       "name": "Dames",
       "url": "https://open.spotify.com/track/2CBNpnSiBJCvil3fsPZ3S7"
@@ -1354,7 +1394,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
@@ -1698,7 +1738,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164893,
       "name": "Every Baby",
       "url": "https://open.spotify.com/track/1hqfUZFj3R3faddlEmXL3G"
@@ -1794,7 +1834,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
@@ -3507,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "30\u00ba",
+        "url": "https://open.spotify.com/album/5cQjwwloSCbzEEFh9fLAuw"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123908,
+      "name": "MOTOMAMI",
+      "url": "https://open.spotify.com/track/7mdMJNBm9Ufi2yybr49DNT"
+    },
+    {
+      "album": {
         "name": "MTL me d\u00e9teste",
         "url": "https://open.spotify.com/album/77LvEnRscXyt8QjUE5B2Zo"
       },
@@ -3688,7 +3746,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 229386,
       "name": "Nocif",
       "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
@@ -4592,7 +4650,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168000,
       "name": "Rien \u00e0 faire",
       "url": "https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal"
@@ -4910,7 +4968,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 154710,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
@@ -5406,6 +5464,24 @@
       "duration_ms": 154347,
       "name": "TIKI TAKA",
       "url": "https://open.spotify.com/track/58hhN9kFvXIEPvkd6Q5XCR"
+    },
+    {
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
       "album": {

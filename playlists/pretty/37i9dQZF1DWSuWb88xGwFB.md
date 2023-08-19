@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,715 likes - 75 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,742 likes - 75 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [The Sound \- The Studio 54 Mix](https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO) | [Motion Lotion](https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn) | [The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix](https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam) | 9:14 |
 | 75 | [Generate Power \(feat\. Paula Brion\) \- Radio Mix](https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4) | [Generate Power \(Mixes\)](https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl) | 3:40 |
 
-Snapshot ID: `MCw5NTI5NTcxNDJhNjllNWNiYzQ5NTMzMTZhN2I4OGNjODBhZTZiZjMz`
+Snapshot ID: `MCw4ZTAzZDRiODc4NDhhNDg3MTNjYzI5YzI5YTMzZWMwOThmOThkM2Q5`

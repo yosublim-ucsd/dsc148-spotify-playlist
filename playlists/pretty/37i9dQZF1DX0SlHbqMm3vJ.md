@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Kaestyle & Leriq
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,251 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,372 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
-| 2 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Leriq](https://open.spotify.com/artist/3hQSJlOr4WnGv5eDk88Pq3) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
+| 2 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
 | 3 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 4 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 |
 | 5 | [Ego Oyibo](https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Ego Oyibo](https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 |
 | 80 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
 
-Snapshot ID: `MCxkZmE1ZTljMTdhYThlOTlkMTZhYmUyY2EyYzJmOWFlM2FhODk2NDVm`
+Snapshot ID: `MCxmNjBiM2MxNTQ4ZDU2MGUxMmVmMGYzMmUzNTQ2NTc0MDQ3MzAyODI3`

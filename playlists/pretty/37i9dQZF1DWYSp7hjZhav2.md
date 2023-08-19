@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,574 likes - 85 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,701 likes - 85 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 37 | [Real Life](https://open.spotify.com/track/3U1fuAieIu6RcxAWFaLNTF) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Real Life](https://open.spotify.com/album/3dPn881z7xaKhuoKHXw9EX) | 4:32 |
 | 38 | [It's Insanity \- Goom Gum Remix](https://open.spotify.com/track/5OR3ekJZQ9zKnjnlSO8n7o) | [Alphadog](https://open.spotify.com/artist/0BCwCDWFMwyKChehFuZFdG), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Hello Paki](https://open.spotify.com/album/27A3vZN49wdHtRPaPs8Nml) | 6:49 |
 | 39 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 |
-| 40 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 |
+| 40 | [Eternity](https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:06 |
 | 41 | [Reflected Wisdom \- Five Phases Project \(4/5\)](https://open.spotify.com/track/24yUM08mhAzWSLvCQultZY) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Five Phases \- Reflected Wisdom](https://open.spotify.com/album/50Dg2MYfTZ8NPXmcX6lh2e) | 4:59 |
 | 42 | [Bloom](https://open.spotify.com/track/5DpUcOaS5yCkQ424XumkwX) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Siamese Anthology V \(Part 4/4\)](https://open.spotify.com/album/4GIdTRKiMGRATYQ2uJ9Imy) | 7:43 |
 | 43 | [Try](https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Feelin'](https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x) | 3:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 84 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 |
 | 85 | [Manifesto](https://open.spotify.com/track/3EquvUexPKfu02fbsZAbli) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:42 |
 
-Snapshot ID: `MCxhOTA2ZGZjZDRlZmY1MjYwOWE5MWE1NWQwYzdiNWYwYzE3ZTllZWZj`
+Snapshot ID: `MCxiZDU2MTBlMjFmNjljYTFiMTdhZTYzZGI1YmVkODk2NTU3NjJjNzI0`

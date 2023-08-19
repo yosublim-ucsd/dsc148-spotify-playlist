@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: ちゃんみな
 
-1,624 songs - 4 day 9 hr 13 min
+1,626 songs - 4 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-02 | 2023-05-13 |
 | [Day N Night](https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Day N Night](https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau) | 2:24 | 2022-10-25 | 2022-11-16 |
 | [Dear My Boo \(She said\)](https://open.spotify.com/track/1a9buU76UQDqEkRuulkeA9) | [He & She](https://open.spotify.com/artist/2gtMOy05gUFnzqlJZea47U), [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Dear My Boo \(She said\)](https://open.spotify.com/album/7IZOXruHpIbPqBFQDJ52Nt) | 3:54 | 2022-06-21 | 2022-07-17 |
+| [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 | 2023-08-17 |  |
 | [debbie](https://open.spotify.com/track/4Nz3rcsMoe7SVKZ98Frt5E) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:43 | 2022-07-28 | 2022-08-03 |
 | [debbie](https://open.spotify.com/track/1L3KhykfkDwn8e0thZQCl1) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [debbie](https://open.spotify.com/album/3hbyV1y0FBu458IiNEu7o8) | 3:44 | 2022-05-29 | 2022-07-22 |
 | [deep](https://open.spotify.com/track/2x8fdufCi4pMEY6Hddi0kh) | [Pink Sea](https://open.spotify.com/artist/1oV4nakuVx667vDeKwRemA) | [deep](https://open.spotify.com/album/3RK0QaIu5j5XygjGzzr5E4) | 4:16 | 2023-02-28 | 2023-03-02 |
@@ -567,7 +568,8 @@
 | [Night](https://open.spotify.com/track/6upadXT0y0NZQhk6D0h82Z) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Fragments](https://open.spotify.com/album/3iB9DIav4bcjTOlAmHihSY) | 4:08 | 2022-06-02 | 2022-06-17 |
 | [Night Session](https://open.spotify.com/track/2Ne03AM5kPOFEi5HKjRrmi) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Night Session](https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn) | 2:29 | 2022-06-28 | 2022-07-27 |
 | [Niji](https://open.spotify.com/track/6Cs6rGYGNKfjtSRDhnlfNl) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Niji](https://open.spotify.com/album/3DQubxTDepZ0c9nCR74FuS) | 3:47 | 2022-08-23 | 2022-08-31 |
-| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
 | [No No No](https://open.spotify.com/track/1sUqo3ryaJd92WsY4X3zwT) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [Scorpion Moon](https://open.spotify.com/album/6KMIuDUUrgtVfMeBHhcoFi) | 3:35 | 2022-06-07 | 2022-07-19 |
 | [No Other Way](https://open.spotify.com/track/30eoP1s0ApbBHSzcNJSth9) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Sincere](https://open.spotify.com/artist/3DBi2LnPD8YvIctgTrArwy) | [No Other Way](https://open.spotify.com/album/1ixXjt8v0DEPhwSi2kIXiZ) | 3:40 | 2023-03-30 | 2023-04-12 |
 | [No Other Way](https://open.spotify.com/track/5HUN3Xsq2ucCpJO1XYTDLn) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [No Other Way](https://open.spotify.com/album/5V5JToxoBx8aQ04Duc97uA) | 3:40 | 2022-05-31 | 2022-07-29 |
@@ -1318,7 +1320,7 @@
 | [告白ステップス](https://open.spotify.com/track/7kii8SCoV3GQRTBQ0itL4U) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [告白ステップス](https://open.spotify.com/album/5GV4FMJ6ZYXhkmf1Jaf8tA) | 3:48 | 2022-06-02 | 2022-07-28 |
 | [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 | 2022-08-17 |
 | [命にふさわしい](https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate\(Special Edition\)](https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J) | 5:52 | 2023-02-28 | 2023-05-24 |
-| [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 |  |
+| [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 | 2023-08-19 |
 | [嘘つき](https://open.spotify.com/track/0CaK41fIguCATIPHV2Yau1) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [嘘つき](https://open.spotify.com/album/2rfCdxN23vdebt3daHiK5X) | 3:37 | 2023-01-10 | 2023-01-12 |
 | [嘘の味](https://open.spotify.com/track/7qB3KyOkrJvzDrraaHboAm) | [Ratrium](https://open.spotify.com/artist/59UKvPsBHApOzcsmKVk0PK) | [嘘の味](https://open.spotify.com/album/3H92kIsVbI9UCTBPcSeqBt) | 3:18 | 2022-06-14 | 2022-06-22 |
 | [四季ノ唄](https://open.spotify.com/track/4Ro7Z98TnW4ST3LyG2OKfJ) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [四季ノ唄](https://open.spotify.com/album/5Y9q3yLcxi9AbrJfvBuKW7) | 3:51 | 2022-06-30 | 2022-07-03 |

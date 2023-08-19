@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,868 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,871 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 49 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [MPM Mshamba](https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 |
 | 50 | [Niwataje](https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP) | [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U), [Kai Music](https://open.spotify.com/artist/2q1hVslf2JFLRjiqobuHy6) | [Niwataje](https://open.spotify.com/album/5SKtdBUN7j9rFCtC1cv2ed) | 3:31 |
 
-Snapshot ID: `MCxkZGRkNTEyY2NiNjJmYWYxOTQ1OTgyY2Y3MGYzODAzMGY4Njc1NDky`
+Snapshot ID: `MCw3MDUxODYwOTk5NjdiZmMwNTYyNTdjNjZmNDMwMmU5ZWU5MjFhODc2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,111,878 likes - 110 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,112,393 likes - 110 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Tempted to Touch](https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Love Affair](https://open.spotify.com/album/3NGkvceBnNk5cTDbb56unf) | 3:48 |
 | 110 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:33 |
 
-Snapshot ID: `MCwyMWQxYjM4MDMwYjg0MjdiOGVmMjZiZjg4NTQ5MGJkN2Q1ODFiYjRl`
+Snapshot ID: `MCwyMjljYTE1NDZlNjY2ZTQ0MzE2YzM3NjFhMGZiMzliZjQwMjExZWU2`

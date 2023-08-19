@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,280 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,334 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 7 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 |
 | 8 | [Christo Redemptor](https://open.spotify.com/track/2KmDMUum37jq4TFaHXD3JY) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Stand Back!](https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe) | 3:21 |
 | 9 | [Purple](https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 7:08 |
-| 10 | [Slow Blues](https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU) | [Mick Taylor](https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi) | [Mick Taylor](https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne) | 3:23 |
+| 10 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 11 | [Rude Mood](https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:39 |
-| 12 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
+| 12 | [Slow Blues](https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU) | [Mick Taylor](https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi) | [Mick Taylor](https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne) | 3:23 |
 | 13 | [Stop](https://open.spotify.com/track/4aWZIBCBMQEgMna9JpgW90) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:18 |
 | 14 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 |
 | 15 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 40 | [Overall Junction](https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:20 |
 | 41 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 |
 | 42 | [Wham!](https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [For Collectors Only \(The Wham Of That Memphis Man\)](https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v) | 2:12 |
-| 43 | [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 |
-| 44 | [Sunfall Blues](https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [Sunfall](https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5) | 4:00 |
+| 43 | [Sunfall Blues](https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [Sunfall](https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5) | 4:00 |
+| 44 | [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 |
 | 45 | [Put It](https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Put It](https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5) | 3:30 |
 | 46 | [Runner](https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End ll](https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz) | 3:37 |
 | 47 | [Roller Coaster](https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:53 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 58 | [Side Tracked](https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:05 |
 | 59 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 |
 | 60 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 |
-| 61 | [The Sulfur Blues](https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [The Sulfur Blues](https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF) | 3:26 |
-| 62 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 |
+| 61 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 |
+| 62 | [The Sulfur Blues](https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [The Sulfur Blues](https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF) | 3:26 |
 | 63 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 |
 | 64 | [Screamin'](https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:36 |
 | 65 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 77 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 |
 | 78 | [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 |
 | 79 | [The Screwdriver](https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 3:08 |
-| 80 | [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 |
+| 80 | [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 |
 
-Snapshot ID: `MCxhYjBhZmVhNDE4OGZlOTJlMjJhNjBmNGZjZjU4MTNiZWI3N2U2Zjkw`
+Snapshot ID: `MCwyYzY3NzlhY2M1NTBlYzQyMDc5NjUyMGI1Yzg2Zjk2ZWQyNjE0OWE0`

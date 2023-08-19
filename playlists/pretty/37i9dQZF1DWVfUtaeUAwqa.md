@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,350 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,349 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Thunder & Blazes](https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [More Best of the Dukes of Dixieland, Vol\. 2](https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI) | 2:15 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MCw3MjAyZWViMjMzZDcwODQ5MTRhZTlmOWNhZTZkNGQwZGRjMzFlZDcx`
+Snapshot ID: `MCw1ZGYxNDk1YjM5MGNjYTYxOGEyOTIyNTc5NjEwODE4ODgyOGFjMWNh`

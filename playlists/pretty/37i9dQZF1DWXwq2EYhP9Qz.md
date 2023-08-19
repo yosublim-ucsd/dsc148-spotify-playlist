@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 
 > Our editors' favorites of the moment\. Save them to your collection before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 578 likes - 25 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 | 24 | [Caramelo](https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Mezz](https://open.spotify.com/artist/7Ga1glq0ZzxN4ycf1dNbyx), [RIAH](https://open.spotify.com/artist/7CYZd5syYy0SKmS2bWz0sg) | [Caramelo](https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30) | 2:39 |
 | 25 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
 
-Snapshot ID: `MCxlMjc2M2Q1MDU1OGFmOWM4MjZkNzE2OTZkOTIyMTU5YTgxZjg5NGY0`
+Snapshot ID: `MCw5Nzc0NGQwMjk2MmEyOGFhZWQwYzliMGU4ZGZiZjYwZDM3N2U5ZGNj`

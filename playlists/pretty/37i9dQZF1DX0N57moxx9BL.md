@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT\_\-mL\-QVsbRxKQ">Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,988 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,115 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 99 | [Ready to Roll](https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ) | [LAST DAY RISING](https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ) | [Last Day Rising](https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp) | 4:02 |
 | 100 | [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 |
 
-Snapshot ID: `MCwwODQwOTQxYTY3OWM5NWE5ZDMwZDE3NGFkODU2Y2U3NzZhODg1ODNi`
+Snapshot ID: `MCwyYWQ2M2VjMDZlMjE0MDkwMjE0MTM0YzhjMDQyNDlmMjkzZTU0MjJj`

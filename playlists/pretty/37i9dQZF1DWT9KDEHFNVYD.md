@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,565 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,573 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 |
 | 100 | [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 |
 
-Snapshot ID: `MCxkY2IzYWU3Njc0MGRjYTQ1NDljZWJmZjNhYjY5YWM0NGZjYzliYzQ0`
+Snapshot ID: `MCwyOGVjNjdlZmI4ODA4NDZhNGNmYmUyZmIyYWRjMDljYmVkZmVkNjAx`

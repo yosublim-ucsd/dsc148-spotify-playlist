@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277,910 likes - 150 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,278,728 likes - 150 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 149 | [LOUD \(Fuck It\)](https://open.spotify.com/track/0vGDRD1JCj2NhUm7jUWxjf) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Graveyard Shift](https://open.spotify.com/album/5ucBd1GYFRg0uVhP4a4AY6) | 3:44 |
 | 150 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 |
 
-Snapshot ID: `MCw3N2NmZGJmOGEwMmU5YjQ2Y2IyNzA3M2M4NDQwZDQ4ZWVlZmU3MzFk`
+Snapshot ID: `MCw3MjViOTlmMWE0NTFkZWNhNTAzMDc4NzZmOTI2MTk4ZmMxZWUzZmI5`

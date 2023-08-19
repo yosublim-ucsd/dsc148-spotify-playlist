@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,574 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,750 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 |
 | 80 | [Catch Me If You Can](https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt) | 2:25 |
 
-Snapshot ID: `MCw0ODAxZDc1YzcwMjdjNzNkYTZmYzQxNzViZWVhOWY3OTE4ZDhmZWFm`
+Snapshot ID: `MCxjZTc0MWEzMGY5ZGIxYzRmZjI5OGU1MDJiNThkMzU2N2U2Yzg0MGQ1`

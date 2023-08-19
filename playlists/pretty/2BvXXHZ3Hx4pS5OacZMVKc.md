@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 137,918 likes - 100 songs - 5 hr 23 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 137,934 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 11 | [Hide Your Heart](https://open.spotify.com/track/23fQ2QOFRIw57uYM7w19C2) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [BRIGHTDVWN](https://open.spotify.com/artist/0ExsFJFEnGuchlp60W2oHe) | [Hide Your Heart](https://open.spotify.com/album/4tpchLz24pygDGVkoX6qXC) | 2:44 |
 | 12 | [Dangerous](https://open.spotify.com/track/2ek0oPdjselpQnDaEOje10) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [Beneath My Shade](https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP) | [Dangerous](https://open.spotify.com/album/66DVpNiLrwNe5nLHGlHan0) | 2:01 |
 | 13 | [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 |
-| 14 | [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 |
-| 15 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 |
-| 16 | [Like That](https://open.spotify.com/track/6L6i0zjctc5rS1JM0mmbpt) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Like That](https://open.spotify.com/album/2FGyG6fnPfnEzrqT0Ar6YG) | 2:40 |
-| 17 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 |
-| 18 | [Dracula](https://open.spotify.com/track/6blc90YlYH5QrY51TZqoh7) | [Duke Gray](https://open.spotify.com/artist/08fXho1e3xrXDBYXuiVj5y), [MANGASLAYERS](https://open.spotify.com/artist/2PLofrapbcSOGa6VBEFwyi), [diGi](https://open.spotify.com/artist/626KJQ9bodKgZe7Qa329VL) | [Dracula](https://open.spotify.com/album/7cBNQNJJXSae298SXA8ZS9) | 2:49 |
-| 19 | [The Rave](https://open.spotify.com/track/7cB1JVWbvr1xCuPtKierCZ) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [The Rave](https://open.spotify.com/album/7ejaovPspMQwffUKEc7zwp) | 2:56 |
+| 14 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 |
+| 15 | [Like That](https://open.spotify.com/track/6L6i0zjctc5rS1JM0mmbpt) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Like That](https://open.spotify.com/album/2FGyG6fnPfnEzrqT0Ar6YG) | 2:40 |
+| 16 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 |
+| 17 | [Dracula](https://open.spotify.com/track/6blc90YlYH5QrY51TZqoh7) | [Duke Gray](https://open.spotify.com/artist/08fXho1e3xrXDBYXuiVj5y), [MANGASLAYERS](https://open.spotify.com/artist/2PLofrapbcSOGa6VBEFwyi), [diGi](https://open.spotify.com/artist/626KJQ9bodKgZe7Qa329VL) | [Dracula](https://open.spotify.com/album/7cBNQNJJXSae298SXA8ZS9) | 2:49 |
+| 18 | [The Rave](https://open.spotify.com/track/7cB1JVWbvr1xCuPtKierCZ) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [The Rave](https://open.spotify.com/album/7ejaovPspMQwffUKEc7zwp) | 2:56 |
+| 19 | [Temptation](https://open.spotify.com/track/0eO2a2BzQujyK9MkLfOJxf) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Temptation](https://open.spotify.com/album/2XVLOitnajQuyW3Zi5SBqE) | 2:39 |
 | 20 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 |
 | 21 | [uWu BURST](https://open.spotify.com/track/4v4P37b9O9MDUG083zK5Il) | [FLAYA PLAYA](https://open.spotify.com/artist/2rrl5KoXZgF1QJOnQPdgao), [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [Nomeli](https://open.spotify.com/artist/1BUS9imdzOiho5SfNrqjft) | [uWu BURST](https://open.spotify.com/album/3LKaUZRta8ouY5FqWFEhli) | 1:53 |
 | 22 | [PLAYAS NEVER DIE](https://open.spotify.com/track/43bEmGTSrAViM7cplkNaSM) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PLAYAS NEVER DIE](https://open.spotify.com/album/1tfZqv1gURs5EJTWduqwgv) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 99 | [World on Fire](https://open.spotify.com/track/0vyzWCQaPRwaJPbRv9SB1q) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 3:45 |
 | 100 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 |
 
-Snapshot ID: `Mjg5MixiMTZjZWRhMmJhZTZkMzZiNmJlNDM5Nzk0MmQzNDhhMzBiMDU2MzMw`
+Snapshot ID: `Mjg5NCwyOWE1ZjYzOTgzMTQ1MWZiYTBkMDg1NzI0MTdkYzE4YmY5Nzc0ZmE4`

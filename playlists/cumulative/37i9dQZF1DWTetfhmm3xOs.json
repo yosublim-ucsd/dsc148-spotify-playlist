@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Opulence",
+        "url": "https://open.spotify.com/album/0d7KqzVWWZ86BkNAwjnUjS"
+      },
+      "artists": [
+        {
+          "name": "Zoniacs",
+          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/49lW4egvXW4bZYsQ54yovu"
+    },
+    {
+      "album": {
         "name": "Natural Life",
         "url": "https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA"
       },

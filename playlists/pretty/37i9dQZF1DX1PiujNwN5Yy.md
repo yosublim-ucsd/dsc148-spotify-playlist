@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,674 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,707 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 |
 | 100 | [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 |
 
-Snapshot ID: `MCw3MzExYzRlODQ2MmRkMjcwZjRjYzI0NGJiMjc2ZDYwOTQ4NzczNmE0`
+Snapshot ID: `MCw0YTUxOTVmZDg3N2Y5YWI3NTQ5NzgyNGJjN2ViOWNhYWJkZWVlMWMy`

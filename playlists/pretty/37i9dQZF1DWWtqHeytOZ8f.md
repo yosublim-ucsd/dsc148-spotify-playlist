@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,425 likes - 200 songs - 16 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,463 likes - 200 songs - 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [IVY CHARCOAL](https://open.spotify.com/track/6h3JUAMgbshgVpYez5eyY5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS](https://open.spotify.com/album/7gfiKccZVCv9gp1KFfMDlb) | 2:03 |
 | 200 | [Underwater Lament](https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:20 |
 
-Snapshot ID: `MCxlZWM2MzJmMTYyMzdhMTdiMDJiNzY3MzUzZDViOGYzZjhhOWY2MDZl`
+Snapshot ID: `MCxhMzkwOTY3OTIwMjcyZjhhNmQ5ZDkyZTFlMDM2OGJhZDU2ZWI2Y2Fh`

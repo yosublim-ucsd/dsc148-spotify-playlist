@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,050 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,189 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 23 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
 | 24 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
 | 25 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
-| 26 | [Relight My Fire \- Single Version](https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 3:45 |
-| 27 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 |
+| 26 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 |
+| 27 | [Relight My Fire \- Single Version](https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 3:45 |
 | 28 | [Messages from the Stars](https://open.spotify.com/track/4vpGXQlusfDlUpvk0tIaa3) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Past, Present & Future](https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA) | 7:40 |
 | 29 | [White Lines \(Don't Do It\)](https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf) | [Grandmaster Flash](https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0) | [Grandmaster Flash, Grandmaster Melle\-Mel & The Furious Five: The Greatest Hits](https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9) | 4:29 |
 | 30 | [Why](https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 4:08 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 80 | [Disco Illusion](https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 6:44 |
 | 81 | [Get It Right \- Single Version](https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 4:19 |
 | 82 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
-| 83 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
-| 84 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
+| 83 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
+| 84 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
 | 85 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
 | 86 | [You're a Melody \- Extended Disco Version](https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX) | [Aged In Harmony](https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL) | [You're a Melody](https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt) | 4:19 |
 | 87 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 | 100 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 
-Snapshot ID: `MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm`
+Snapshot ID: `MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh`

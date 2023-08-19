@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,839 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,848 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 79 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 |
 | 80 | [Slow Fade](https://open.spotify.com/track/2G3BKCeB6EewCUpWm7M6pu) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/6wdgz4OVySP3D64Jf4u0cK) | 3:31 |
 
-Snapshot ID: `MCxhNGJmOTg5MWZjNjI5YzIzZWRlZDM2MjIwMmFiZTZkOGI2MzIyZTRi`
+Snapshot ID: `MCxhZWI3ZWY0NzBkMWI3YzBlMWRiZDFkOWEwOTkxY2YwYzViMTBhNjQ0`

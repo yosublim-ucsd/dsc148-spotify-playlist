@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,419 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,566 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 100 | [Carry Me Home](https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/3BVadsttoBuo4nmzPoax9g) | 5:27 |
 
-Snapshot ID: `MCw1Zjk0MTVjMGIzM2UzYjkyMWM5NzYxZjE2YjdhZTIwNjJiNTUyODE2`
+Snapshot ID: `MCw2YmUxZTI2YWE0ZTc1YzhlNTA3ZDgyMTRhY2IwNmE1NTEwM2E3MzVh`

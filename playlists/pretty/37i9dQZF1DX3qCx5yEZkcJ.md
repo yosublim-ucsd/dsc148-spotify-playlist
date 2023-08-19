@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,489,395 likes - 80 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,489,424 likes - 80 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 29 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 |
 | 30 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 |
 | 31 | [So They Say](https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd) | 2:18 |
-| 32 | [Goldrush](https://open.spotify.com/track/2G9CaCae1o6JoiaUs1Oj4c) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk) | 2:08 |
+| 32 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 |
 | 33 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 |
 | 34 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
 | 35 | [Gift of love](https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD) | 2:06 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 37 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 |
 | 38 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 |
 | 39 | [Laguna Beach](https://open.spotify.com/track/73EdXxEhsF5NoaH5BZQNPk) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Travels](https://open.spotify.com/album/6dPrjTpoGfTm9d4EaLA8Ru) | 1:49 |
-| 40 | [Memory Lane](https://open.spotify.com/track/0hnIBWekKx0mEP6bprvsFa) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/553aukJODmKjlUIa48SRbn) | 2:51 |
+| 40 | [Memory Lane](https://open.spotify.com/track/6xE6rNGc0PdfmgPt5Du6bE) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End's Girl](https://open.spotify.com/album/0Vkgfeiiph9HmEr2wVxPc6) | 2:51 |
 | 41 | [3rd Times a Charm](https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Begin Again](https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG) | 1:14 |
 | 42 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 |
 | 43 | [Please Chill](https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Zoning Out Vol\. 2](https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn) | 2:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [waves](https://open.spotify.com/track/3DGO1gNzHPGZQM4HDSwYyL) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/4WNsnmIpj9HjeBGxzo3PfR) | 2:15 |
 | 80 | [piece of you](https://open.spotify.com/track/19L7jhJgZFKBq2nVVtPHAO) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/1PKYM3W11OpTtq6bdlwoF8) | 2:49 |
 
-Snapshot ID: `MCwxNmEyZWMxOGM0N2RjNDI5MDU1MjYwOTljM2EyN2Y0NDRmODE4MmVj`
+Snapshot ID: `MCw3OGVmMjdhZmM5Y2I1NzljODIzNjliOTJhMWM3ODViYTU5NDIxY2Zj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,377 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,422 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 5 | [Arayashiki](https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [That's Life](https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6) | 2:49 |
 | 6 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 |
 | 7 | [Heiwa](https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Heiwa](https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv) | 3:23 |
-| 8 | [Goldrush](https://open.spotify.com/track/2G9CaCae1o6JoiaUs1Oj4c) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk) | 2:08 |
+| 8 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 |
 | 9 | [Domestic](https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG) | 3:21 |
 | 10 | [Cry In The Gaze \(about you\)](https://open.spotify.com/track/0hNmUYwnK8VzUEKnzXyA5P) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Cry In The Gaze \(about you\)](https://open.spotify.com/album/2D9JioL3U8aaTHP5c0qeqn) | 1:42 |
 | 11 | [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 19 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 |
 | 20 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 |
 | 21 | [Unikko](https://open.spotify.com/track/6rUOgQWnD98GNU8ZhPs8fp) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/00MXzpmAv1p9Accr8ryODd) | 3:14 |
-| 22 | [Mellow Air](https://open.spotify.com/track/6sRaF5VBH1cJZCObgS4YV4) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Mellow Air](https://open.spotify.com/album/3QsHi7SXMW2D5FOZLgNPZZ) | 1:55 |
+| 22 | [Mellow Air](https://open.spotify.com/track/6TeII7M0IgFhgq7rDTbrOR) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Mellow Air](https://open.spotify.com/album/17NgmIpZr9p4sOEWqdUMoz) | 1:55 |
 | 23 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 |
 | 24 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o), [Hizuru](https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 |
 | 25 | [niji](https://open.spotify.com/track/14c5FlYFBYCGvzuJtyVFRb) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [niji](https://open.spotify.com/album/7HHgLuRWofzzhKDiyKHCPj) | 2:24 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 37 | [Harukaze](https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez) | [Sorto & Nodo](https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P) | [彩雲](https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5) | 6:04 |
 | 38 | [EVOKE](https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [EVOKE](https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d) | 3:54 |
 | 39 | [A moving scenery](https://open.spotify.com/track/6VXtbmnkPAHlx9bdPppdiz) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 5:43 |
-| 40 | [Memory Lane](https://open.spotify.com/track/0hnIBWekKx0mEP6bprvsFa) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/553aukJODmKjlUIa48SRbn) | 2:51 |
+| 40 | [Memory Lane](https://open.spotify.com/track/6xE6rNGc0PdfmgPt5Du6bE) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End's Girl](https://open.spotify.com/album/0Vkgfeiiph9HmEr2wVxPc6) | 2:51 |
 | 41 | [SUNSHOWER](https://open.spotify.com/track/1UBW6L4Kg42c0FNL8nTIGp) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [MIDNIGHTINDICA](https://open.spotify.com/album/5Pi2OXnK98IqCrNbFhL7Yd) | 2:41 |
 | 42 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 |
 | 43 | [Never forget to smile](https://open.spotify.com/track/0Ai8kfNRzoD55JuDHi0qu8) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [Never forget to smile](https://open.spotify.com/album/0a9ua95iM8g4pSqXkty576) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 |
 | 100 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 |
 
-Snapshot ID: `MCxkODE4ZjFkOTZjNTViZmRlNWRjZWEyNWEyZGVjZGM0MDZmZTI4ZjM3`
+Snapshot ID: `MCxjODhjMzNjNzY4MTQyYzI1YmE0OTRiZjc5N2E5NTg2YzFkYWE3N2Qw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > la primavera non è una stagione, è un mood 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,769 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,771 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 99 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 100 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 |
 
-Snapshot ID: `MCw3ZTE0OTBlNDNiMGJkMDUzZTBhMGQ2ZTkyMDA2MDU3N2YxMjhiYzRj`
+Snapshot ID: `MCxkNzM0MmJkNmJjMGU0ZmRkZTFhNjc4MDAzOWMxY2M3NzhlZmRkN2I1`

@@ -9721,6 +9721,28 @@
     },
     {
       "album": {
+        "name": "\u064a\u0627 \u063a\u0632\u0627\u0644",
+        "url": "https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        },
+        {
+          "name": "Twyxx",
+          "url": "https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "\u064a\u0627 \u063a\u0632\u0627\u0644",
+      "url": "https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44"
+    },
+    {
+      "album": {
         "name": "\u064a\u0627 \u0645\u062a\u064a\u0645 - Single",
         "url": "https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM"
       },

@@ -1,13 +1,29 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: JEON SOMI",
-  "num_followers": 132537,
+  "description": "The hottest new pop with all the drops. Cover: Idina Menzel",
+  "num_followers": 132598,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjAwY2U5YjJiYjRmY2U5ZjBmYzU5OGMwYTE1NDUxMDViMjZlOWI1",
+  "snapshot_id": "MCw5YTQzOTAwMTRjZTM1YmI0ODdjNzdmNmY2MGM4NGE2OGIyNjY4OGVl",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/04rxodRiaHUNMgIRitI437"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "duration_ms": 246809,
+      "name": "Funny Kind of Lonely",
+      "url": "https://open.spotify.com/track/1ESEJCdZiNjkJc0phzyRkY"
+    },
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
@@ -23,6 +39,102 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 149552,
+      "name": "Nothing On (But The Radio)",
+      "url": "https://open.spotify.com/track/58q4iIjSd6zueicG8F65GW"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "added_at": "2023-08-18 04:23:06",
+      "album": {
+        "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
+        "url": "https://open.spotify.com/album/3fNM5L0cmVEGzmkYZIkB6X"
+      },
+      "artists": [
+        {
+          "name": "Kyle Gordon",
+          "url": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip"
+        },
+        {
+          "name": "DJ Crazy Times",
+          "url": "https://open.spotify.com/artist/7HmF22PLne8U2Hv1ZMNVPf"
+        },
+        {
+          "name": "Ms. Biljana Electronica",
+          "url": "https://open.spotify.com/artist/1h3ezgw89bB4tDRHKnqPje"
+        }
+      ],
+      "duration_ms": 200267,
+      "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
+      "url": "https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Look At Me Now",
+        "url": "https://open.spotify.com/album/0bW2Oa2F1KvUzM7QuYzMS1"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "duration_ms": 195478,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/4kNT2JdVdGBscZk66POziI"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -47,6 +159,26 @@
       "duration_ms": 136866,
       "name": "Coming Home (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/75HPK1U9upzIFxstRrlRPL"
+      },
+      "artists": [
+        {
+          "name": "LIMONADE",
+          "url": "https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+        }
+      ],
+      "duration_ms": 150825,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2HZNAqaeO3llxJReGhFhyX"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -87,6 +219,22 @@
       "duration_ms": 187670,
       "name": "PROVENZA - REMIX",
       "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0WYp1bHRFZdzS3yaIqSGUO"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "duration_ms": 190251,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/174PWcf9jFqxW60KACVAaX"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -143,6 +291,22 @@
       "duration_ms": 176041,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/2TSU0Ti5e5beL9mYlHbYQu"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Maybe It's You",
+        "url": "https://open.spotify.com/album/7tkl4rTfVtEnW8ih0oWCkO"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Maybe It's You",
+      "url": "https://open.spotify.com/track/0dXUMuhHDJ0rPgv3qpQ1DM"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -695,22 +859,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Beast",
-        "url": "https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 140959,
-      "name": "Beast",
-      "url": "https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Contemporary Love",
         "url": "https://open.spotify.com/album/4PFXT8b4Zg4IvDpvulGjxB"
       },
@@ -799,30 +947,6 @@
       "duration_ms": 161484,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/3ej0vZNkrbpTOscsIz8pRU"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "If Only I (feat. Bebe Rexha)",
-        "url": "https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 142756,
-      "name": "If Only I (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1165,22 +1289,6 @@
       "url": "https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 168411,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
-    },
-    {
       "added_at": "2023-06-16 04:01:00",
       "album": {
         "name": "Don't Talk to Me",
@@ -1273,22 +1381,6 @@
       "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Funk Rave",
-        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 147201,
-      "name": "Funk Rave",
-      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
-    },
-    {
       "added_at": "2023-06-16 04:01:00",
       "album": {
         "name": "Stop Loving You",
@@ -1303,194 +1395,6 @@
       "duration_ms": 169503,
       "name": "Stop Loving You",
       "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Dramatic",
-        "url": "https://open.spotify.com/album/2hasjKPec7XpfkMH0j1jwW"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 192689,
-      "name": "Dramatic",
-      "url": "https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "House For Kings",
-        "url": "https://open.spotify.com/album/4Zligq6DUjH3Z2bbVAjgpL"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 200975,
-      "name": "House For Kings",
-      "url": "https://open.spotify.com/track/5QcT02qFxTVG8pan86W1Ab"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "VULGAR (with Madonna)",
-        "url": "https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 155258,
-      "name": "VULGAR (with Madonna)",
-      "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Can't Bring Me Down",
-        "url": "https://open.spotify.com/album/3AF5Dt2J8DGXMqbsYtIw4h"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Toby Gad",
-          "url": "https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8"
-        },
-        {
-          "name": "Nicole Bus",
-          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Can't Bring Me Down",
-      "url": "https://open.spotify.com/track/4amkoUyQJDBXvcysAVUPX5"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "favorite kind of high (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/6wMEg3O3cbrXcOYXSnFYR6"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 153753,
-      "name": "favorite kind of high - David Guetta Remix",
-      "url": "https://open.spotify.com/track/1QotPsE3JVNnrAAtatQFt0"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Static Body",
-        "url": "https://open.spotify.com/album/1vjv2EGhYcKReQ749C0fRu"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Peyruis",
-          "url": "https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN"
-        },
-        {
-          "name": "Marlene",
-          "url": "https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl"
-        }
-      ],
-      "duration_ms": 183439,
-      "name": "Static Body",
-      "url": "https://open.spotify.com/track/7erZjxEmGAduw6vqJLPBIs"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "UPSAHL PRESENTS: THE PHX TAPES V2",
-        "url": "https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 134724,
-      "name": "WET WHITE TEE SHIRT (SIDE A)",
-      "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "I like u",
-        "url": "https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "I like u",
-      "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Big Boom",
-        "url": "https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 134561,
-      "name": "Big Boom",
-      "url": "https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt"
     }
   ],
   "unique_name": "Fresh Dance Pop",

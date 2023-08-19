@@ -4,7 +4,7 @@
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Aqua
 
-444 songs - 23 hr 52 min
+445 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,8 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC) | 2:56 | 2020-10-13\* | 2021-01-21 |
 | [Run \- Melé Remix](https://open.spotify.com/track/3Z5Wdw6oozG5KQtg4cGTDz) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Run \(Melé Remix\)](https://open.spotify.com/album/1ChtfHjN0Vczlb2QyLN75c) | 4:24 | 2022-05-06 | 2022-09-09 |
 | [Run \- Sam Feldt Remix](https://open.spotify.com/track/6GULHU9yNAGXYxCItTcLDz) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Run \(Sam Feldt Remix\)](https://open.spotify.com/album/6SaJxv8ncND3eMn45iJ3Km) | 3:27 | 2022-05-13 | 2022-08-27 |
-| [Rush \- Tom Santa Remix](https://open.spotify.com/track/6jAbL1oXYK2JxU1wfM8Dv9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rush \(Remixes\)](https://open.spotify.com/album/3wFJg8Q9qHqdnw0BXyBUtt) | 2:23 | 2023-08-11 |  |
+| [Rush \- Tom Santa Remix](https://open.spotify.com/track/6MxXe1BRJMl1Bu1NB1oKwU) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rush \(Remixes\)](https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au) | 2:23 | 2023-08-11 |  |
+| [Rush \- Tom Santa Remix](https://open.spotify.com/track/6jAbL1oXYK2JxU1wfM8Dv9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rush \(Remixes\)](https://open.spotify.com/album/3wFJg8Q9qHqdnw0BXyBUtt) | 2:23 | 2023-08-11 | 2023-08-19 |
 | [Sacrifice](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj) | 2:40 | 2021-03-06 | 2022-04-23 |
 | [Sacrifice \(Remix\) \(feat\. Swedish House Mafia\)](https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7) | 3:58 | 2022-07-22 |  |
 | [Sacrifice \(Remix\) \(feat\. Swedish House Mafia\)](https://open.spotify.com/track/7aAsStiuC4Zw8vIbvRWtq7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a) | 3:58 | 2022-01-14 | 2022-07-29 |

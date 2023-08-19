@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,810,816 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,583 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Save Me](https://open.spotify.com/track/4026Fe9zj6dpBLo8JIxyEv) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Save Me](https://open.spotify.com/album/0jbNTgNi0kQTmvmFFtXS5H) | 2:46 |
 | 100 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 |
 
-Snapshot ID: `MCw2OTgxNmY4ZGY5ZDBlYjI1OTU0NmY0ZWZhYjIwMjQzMzBiNTE0Zjc3`
+Snapshot ID: `MCw0ODEwMDY3ODBhZDQ2ZDhlYzg2YTlmNDRkNTI1MTYyOThkOWM4ZjNm`

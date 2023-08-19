@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida ✨ Ken en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,446 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,042 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 | 99 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
 | 100 | [Lost on You](https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:28 |
 
-Snapshot ID: `MCw3NjU0ZmFjMGExZGZhNjNmNTNjZjAzYTMxYjY1Nzg0MzAwMzUyMjhj`
+Snapshot ID: `MCxhZDVhYWMxN2I2ZDQ1NWQ0ODY5MzFhMzk2OTQ3OTM1ZDAyYTI3MjA5`

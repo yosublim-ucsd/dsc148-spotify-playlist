@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Abhijay Sharma",
+  "description": "Naye Indie gaano ka khazana! Cover- Faridkot",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 214873,
       "name": "1990\u2019s Kareeb",
       "url": "https://open.spotify.com/track/5Hijy2I5Z36spnjZrF0Fmj"
+    },
+    {
+      "album": {
+        "name": "Aa Zara",
+        "url": "https://open.spotify.com/album/1mZTDaxkW3J7eMpnHP4HoW"
+      },
+      "artists": [
+        {
+          "name": "Nitin Shukla",
+          "url": "https://open.spotify.com/artist/20YfM15fU24Wtzq7D25LTb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216058,
+      "name": "Aa Zara",
+      "url": "https://open.spotify.com/track/4BuDwc3qQvxEo6US5gUL7u"
     },
     {
       "album": {
@@ -298,6 +316,28 @@
       "duration_ms": 165750,
       "name": "Antariksh",
       "url": "https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h"
+    },
+    {
+      "album": {
+        "name": "Azaad",
+        "url": "https://open.spotify.com/album/2gmUnXKrtzsaFQaaQAacHb"
+      },
+      "artists": [
+        {
+          "name": "Prabhash Joshi",
+          "url": "https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0"
+        },
+        {
+          "name": "Zenxae",
+          "url": "https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Azaad",
+      "url": "https://open.spotify.com/track/5BjV0cBPXAJJEAAW4JNb6r"
     },
     {
       "album": {
@@ -625,6 +665,32 @@
     },
     {
       "album": {
+        "name": "Chaand",
+        "url": "https://open.spotify.com/album/4H2Ke9l5953vvOfmsXHVOG"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Rajarshi Sanyal",
+          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232305,
+      "name": "Chaand",
+      "url": "https://open.spotify.com/track/1pJHEsf9NFpm9bX9upgrHl"
+    },
+    {
+      "album": {
         "name": "Chal Bhool Ja",
         "url": "https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg"
       },
@@ -935,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Ghulaam",
+        "url": "https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Maara",
+          "url": "https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202220,
+      "name": "Ghulaam",
+      "url": "https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg"
+    },
+    {
+      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB"
       },
@@ -1054,7 +1142,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 208535,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi"
@@ -1418,7 +1506,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200000,
       "name": "Kaheen Dur",
       "url": "https://open.spotify.com/track/3aao7Ivw6dX2JwadKVB86f"
@@ -1502,6 +1590,32 @@
       "duration_ms": 206896,
       "name": "Karen Kya",
       "url": "https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ"
+    },
+    {
+      "album": {
+        "name": "Keh Do Na",
+        "url": "https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Dropped Out",
+          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
+        },
+        {
+          "name": "BLUK",
+          "url": "https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168978,
+      "name": "Keh Do Na",
+      "url": "https://open.spotify.com/track/5EHWMWzFWpV8xu9IrRxyVi"
     },
     {
       "album": {
@@ -1658,7 +1772,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 263597,
       "name": "Khuda Mere",
       "url": "https://open.spotify.com/track/3BUmgO49io7ug5znWhC2MA"
@@ -1757,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Kya Yahi Pyaar Hai",
+        "url": "https://open.spotify.com/album/3KYGaPdcmOHB5bNNABh9AW"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Shankar",
+          "url": "https://open.spotify.com/artist/6roxP5M84xcpoaph2UdJpu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193397,
+      "name": "Kya Yahi Pyaar Hai",
+      "url": "https://open.spotify.com/track/2HBweUKvBcz29XyTeg4SSU"
+    },
+    {
+      "album": {
         "name": "Kyu Hi Hum Mile",
         "url": "https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1"
       },
@@ -1838,7 +1970,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 258782,
       "name": "Lapata",
       "url": "https://open.spotify.com/track/2qpAjsUKXaTTfIdfdhbjqb"
@@ -2135,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1WoLGvWREa5rhUFySKz3R0"
+      },
+      "artists": [
+        {
+          "name": "Shweta Srivastava",
+          "url": "https://open.spotify.com/artist/7fDKGPqbGBIf9uc6Q3gINP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161234,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/17L30IXVkPyneEksMZ1l3E"
+    },
+    {
+      "album": {
         "name": "Parinda",
         "url": "https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ"
       },
@@ -2146,7 +2296,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 199024,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT"
@@ -2298,7 +2448,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 236938,
       "name": "Raat",
       "url": "https://open.spotify.com/track/6YiQvaBcbmkCqy7MNBPvyl"
@@ -2316,7 +2466,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200237,
       "name": "Raaton",
       "url": "https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB"
@@ -2378,7 +2528,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192000,
       "name": "rosemary",
       "url": "https://open.spotify.com/track/6ARssPT9pvPXfOF5hmd2jP"
@@ -2418,7 +2568,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225450,
       "name": "Ruko Na",
       "url": "https://open.spotify.com/track/1CZCN97RosXXOVicZzG4yY"
@@ -2665,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "Sirfira",
+        "url": "https://open.spotify.com/album/4tH5BHPomSPEGxjxKTPY8C"
+      },
+      "artists": [
+        {
+          "name": "Harish Sagane",
+          "url": "https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164912,
+      "name": "Sirfira",
+      "url": "https://open.spotify.com/track/4EtsQ4vcaGs13NFFLNS6yK"
+    },
+    {
+      "album": {
         "name": "so beautiful, with you",
         "url": "https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf"
       },
@@ -2702,7 +2870,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 181702,
       "name": "Suno",
       "url": "https://open.spotify.com/track/0G33qJceMH9qfcfLmKcrni"
@@ -2848,7 +3016,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 160415,
       "name": "Teri Yaad Mein",
       "url": "https://open.spotify.com/track/2aiFwTLjAPGyqoiOL5AQ0t"
@@ -3193,6 +3361,36 @@
     },
     {
       "album": {
+        "name": "Watch Out",
+        "url": "https://open.spotify.com/album/2uG4yn7ol8ohmFJfLBWIpf"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        },
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        },
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        },
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242993,
+      "name": "Watch Out",
+      "url": "https://open.spotify.com/track/16H86xNadfBh4Iyt7u3idn"
+    },
+    {
+      "album": {
         "name": "We Made Us",
         "url": "https://open.spotify.com/album/5xc7upsqYIw2yjyJ03h1ka"
       },
@@ -3230,6 +3428,28 @@
       "duration_ms": 239749,
       "name": "wine & chill",
       "url": "https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq"
+    },
+    {
+      "album": {
+        "name": "Woh Main Hoon",
+        "url": "https://open.spotify.com/album/0CGt8RyaUvA0cZO9NMYkZR"
+      },
+      "artists": [
+        {
+          "name": "Chirag Soni",
+          "url": "https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3"
+        },
+        {
+          "name": "Vishal Pande",
+          "url": "https://open.spotify.com/artist/579y8QAT8i0Tr5G2D4kuN3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212432,
+      "name": "Woh Main Hoon",
+      "url": "https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp"
     },
     {
       "album": {
@@ -3304,6 +3524,24 @@
       "duration_ms": 237191,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/7x2PxTmn3mHPgll8j3Hgjx"
+    },
+    {
+      "album": {
+        "name": "Zindagi",
+        "url": "https://open.spotify.com/album/0LSL5FUCYBK70Hic1zB1Cp"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kabra",
+          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183630,
+      "name": "Zindagi",
+      "url": "https://open.spotify.com/track/1X8tg7QHom6xKCJ8ComZtA"
     },
     {
       "album": {

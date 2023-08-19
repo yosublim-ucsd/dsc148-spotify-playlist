@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,859 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,865 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 |
 | 40 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 |
 
-Snapshot ID: `MCw4NjRlNDU0ZjY5YTIwYjNkMGZlYWY3MTU2NTZiYWEzMzFiODIyMjFl`
+Snapshot ID: `MCw2ZjRkZDU3OGEzMzY0Njg2ZDlhZDQ0YmJiYjU5MGNiYTU4MmY0Mjhj`

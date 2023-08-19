@@ -4,13 +4,14 @@
 
 > Country music making waves\. Cover: Sacha
 
-156 songs - 8 hr 2 min
+158 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afraid of Forever](https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/0aIZsHJt4yXaBnNbFqec71) | 2:56 | 2021-12-03 | 2023-05-19 |
 | [Afraid of Forever](https://open.spotify.com/track/33Sra0ZInaSU7fgLefkgnU) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/6JG2ccg7NMJMQgeAvDjkgb) | 2:56 | 2023-05-12 |  |
 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2022-09-23 |  |
+| [All I Need](https://open.spotify.com/track/0ALoQRB70pKZ7uQJn73ayj) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [All I Need](https://open.spotify.com/album/4gZKOtJnkoalUg98BQONK8) | 2:51 | 2023-08-18 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-03 |  |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 | 2023-02-18 |
 | [Another Round](https://open.spotify.com/track/11VDLa4XbXDIPC6rxbpAy1) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Another Round](https://open.spotify.com/album/1cziB9zkAdtab5TMnmJ8sH) | 3:13 | 2023-01-13 |  |
@@ -114,6 +115,7 @@
 | [See You in Church](https://open.spotify.com/track/6KncYAsbwJj852e0gyajOE) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [See You in Church.](https://open.spotify.com/album/0EY9R4wwDyk8crB65GYfKv) | 3:08 | 2023-06-09 |  |
 | [Seeds](https://open.spotify.com/track/73XBEp50YbVH8WdCq597an) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/2x4ifyC7If5s6G5Ob1RELM) | 3:08 | 2023-07-21 |  |
 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 | 2021-12-03 | 2023-07-22 |
+| [Shoebox Money](https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Shoebox Money](https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci) | 2:56 | 2023-08-18 |  |
 | [Sink with the Sun](https://open.spotify.com/track/7lqRRwPo08ycT5NkxjNIyF) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/5XDDYVaQ5YdwwQT9ITQXhN) | 3:21 | 2022-07-15 |  |
 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 | 2021-12-03 |  |
 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 | 2021-12-03 |  |

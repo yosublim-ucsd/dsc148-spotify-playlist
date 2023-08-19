@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Chris Stapleton
 
-350 songs - 21 hr 25 min
+352 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-08-26 | 2023-04-22 |
 | [A Heart of Gold Is Hard to Find](https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [A Heart of Gold Is Hard to Find](https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM) | 2:20 | 2023-04-21 |  |
 | [About Your Love](https://open.spotify.com/track/3EOCRq342rJjzkvGicSyvT) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [About Your Love](https://open.spotify.com/album/16Cjat1XXsgM8z2CG6NEYZ) | 2:33 | 2022-05-13 | 2022-06-18 |
+| [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 | 2023-08-18 |  |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 | 2023-06-20 |
 | [Across the Hall](https://open.spotify.com/track/6TuTnL508mCCZ2fXZt0CfA) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Across the Hall](https://open.spotify.com/album/5V6tHoSetmPXIrTTPjdsHs) | 3:19 | 2023-03-10 | 2023-06-12 |
 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 | 2022-09-09 | 2022-10-08 |
@@ -257,6 +258,7 @@
 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 | 2022-08-20 | 2023-04-22 |
 | [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 | 2023-07-07 |  |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-02-25 |
+| [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-18 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-05-13 | 2022-09-24 |
 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 | 2023-04-21 |  |
 | [Right On Woman](https://open.spotify.com/track/6yOtSNbJdzeoAoDeTW8IzR) | [Jason Collett](https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW) | [Right On Woman](https://open.spotify.com/album/5D7IvAJ4l9ggV8X5csz0ga) | 2:42 | 2022-10-28 | 2023-04-22 |
@@ -340,7 +342,7 @@
 | [What Is a Broken Heart For](https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:00 | 2023-03-24 | 2023-05-13 |
 | [Whatever Got Lost](https://open.spotify.com/track/4JMCCet7BRLwThMx6ifEUX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Jimmy](https://open.spotify.com/album/1odIO8SXRLhIFPphlEGJjY) | 3:31 | 2023-07-21 |  |
 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 |  |
-| [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 |  |
+| [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 | 2023-08-19 |
 | [Where My Wild Things Are](https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Where My Wild Things Are](https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N) | 3:57 | 2023-06-23 |  |
 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 | 2023-05-05 |  |
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2023-07-21 |  |
@@ -352,7 +354,7 @@
 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 | 2023-04-21 |  |
 | [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 | 2023-04-14 | 2023-07-15 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2022-05-13 | 2022-09-24 |
-| [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 | 2022-10-28 |  |
+| [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 | 2022-10-28 | 2023-08-19 |
 | [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 | 2023-04-21 | 2023-06-24 |
 | [You Think You're Like the Rain](https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3) | [Jenny Berkel](https://open.spotify.com/artist/4Ff0I4P7d0FLK7Ctwy2pub) | [You Think You're Like the Rain](https://open.spotify.com/album/3werwfANKByC7oTf8t8Y0w) | 2:39 | 2022-05-13 | 2022-08-06 |
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-20 | 2023-06-24 |

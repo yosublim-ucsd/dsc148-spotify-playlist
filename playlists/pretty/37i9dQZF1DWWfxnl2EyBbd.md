@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,622 likes - 400 songs - 1 day 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,689 likes - 400 songs - 1 day 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Pray](https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4) | [Marc van Roon Trio](https://open.spotify.com/artist/0LVkl4BXWGA8QcjS6dIkaf) | [Quantum Stories](https://open.spotify.com/album/6erjfrUNgfkIZ41rEoI7Z5) | 4:01 |
 | 400 | [Your Nocturne](https://open.spotify.com/track/4z7bckrpC1Sw5AmqvF6I7f) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 3:42 |
 
-Snapshot ID: `MCwyMjBhOTViOGJkZTU4ZmNkNTI2NDFlYjUyOThmN2Q3MTJjMWYwMDc4`
+Snapshot ID: `MCxkMzFmY2MxMjUyMTAxOWEwYTQ3YzNhYzUwN2VhNGU1MTc2YTJkZmU5`

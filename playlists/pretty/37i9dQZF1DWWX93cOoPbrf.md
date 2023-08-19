@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,232 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,454 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 55 | [Así Fue](https://open.spotify.com/track/2wuwB4O4Lq3RSDEbWPcFgJ) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Así Fue](https://open.spotify.com/album/456gDR9yVbr3yYwv2dXUlb) | 3:09 |
 | 56 | [Igualito a mi apá](https://open.spotify.com/track/0jZ8sU42Li2SKW9qcWuV1A) | [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG) | [Pisteando en LA](https://open.spotify.com/album/1zMzm2ZWUQtP3KGtMN5tXo) | 2:47 |
 | 57 | [Ramón Arellano](https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ramón Arellano](https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D) | 3:13 |
-| 58 | [En La Lumbre \- En Vivo](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
+| 58 | [En La Lumbre \- En Vivo, Sonora, México, 2023](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo, Sonora, México, 2023\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
 | 59 | [El Convoy de los Hermanos](https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:15 |
 | 60 | [Don Nadie](https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Don Nadie](https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A) | 3:11 |
 | 61 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 73 | [El Cartel](https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [El Cartel](https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE) | 3:35 |
 | 74 | [Blindajes Peña \(En Vivo\)](https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 4:05 |
 
-Snapshot ID: `MCw1YjhjZmY4MjE0MWYwZjg2MTQ3OGJiOGQyNGQ4MjE0ZmVmYjIzNTk2`
+Snapshot ID: `MCxkNjgyOTFiYjIyNWM4N2E1ODg1MDkwZWUwNTI2NjYzODc5YzJhMzg2`

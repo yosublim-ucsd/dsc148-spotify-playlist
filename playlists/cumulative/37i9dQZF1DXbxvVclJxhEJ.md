@@ -4,12 +4,12 @@
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-92 songs - 4 hr 45 min
+93 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(You Can Have My Husband But\) Don´t Mess with My Man](https://open.spotify.com/track/78EABXHJPg76VVrxRENUn1) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:16 | 2022-05-25 | 2022-07-29 |
-| [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 | 2023-01-10 |  |
+| [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 | 2023-01-10 | 2023-08-19 |
 | [A Jealous Woman Like Me \- Original Mix](https://open.spotify.com/track/1x6sFohaqzbHLEALTaas1L) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Feel Good](https://open.spotify.com/album/7kQT1nRcllHNvEZzyG5VpR) | 3:17 | 2022-05-25 | 2022-07-28 |
 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 | 2022-05-25 |  |
 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 | 2023-01-10 |  |
@@ -39,6 +39,7 @@
 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 | 2022-07-08 |  |
 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 | 2023-01-12 |  |
 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 | 2022-05-25 |  |
+| [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 | 2023-08-18 |  |
 | [East and West Blues](https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2) | [Marie Grinter](https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr) | [East and West Blues](https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ) | 3:26 | 2022-05-25 |  |
 | [Easy Rider](https://open.spotify.com/track/2mL8BvRNhXQPvTjOB6CEkQ) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 5:07 | 2023-01-12 |  |
 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 | 2023-01-10 |  |

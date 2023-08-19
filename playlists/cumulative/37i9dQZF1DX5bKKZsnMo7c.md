@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Cody Fry
 
-266 songs - 14 hr 31 min
+267 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 |  |
 | [All Eyes On Me](https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 5:02 | 2022-06-07 | 2022-08-06 |
 | [All Eyes On Me](https://open.spotify.com/track/3rV5y8rcQrwRt9fWGLmjOQ) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 5:02 | 2022-05-17 | 2022-07-29 |
-| [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-16 |  |
+| [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-16 | 2023-08-19 |
 | [All of Human Knowledge Made Us Dumb](https://open.spotify.com/track/6XRxmPhfjoa3YEtpq8CWJo) | [Sofia Isella](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [All of Human Knowledge Made Us Dumb](https://open.spotify.com/album/6OQQQqvJwL9IV5EVnKNW4J) | 3:49 | 2023-01-18 | 2023-01-21 |
 | [All The Pretty Girls](https://open.spotify.com/track/2cHGWytemKJuckq2oLnAbZ) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:22 | 2022-05-17 | 2022-08-06 |
 | [Amnesia Was Her Name](https://open.spotify.com/track/0ww8jZZtGU70QvYUFmDbqZ) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 4:03 | 2022-05-17 | 2022-08-06 |
@@ -188,6 +188,7 @@
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-05-17 | 2022-07-29 |
 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 | 2022-05-17 | 2022-06-07 |
 | [Nobody Like U \- From "Turning Red"](https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Nobody Like U \(From "Turning Red"\)](https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2) | 2:40 | 2022-05-17 | 2022-06-09 |
+| [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 |  |
 | [Now We’re Cookin’](https://open.spotify.com/track/4pjqoQgiGYbAhaN8T8eJGj) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 2:14 | 2022-05-17 | 2022-06-02 |
 | [Nowheresville](https://open.spotify.com/track/7xcpq3onzGXIeptQwkWgjD) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Nowheresville](https://open.spotify.com/album/71aHVYoowTT8HVSJ8bul9d) | 2:54 | 2023-01-13 | 2023-01-24 |
 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 | 2022-05-17 |  |

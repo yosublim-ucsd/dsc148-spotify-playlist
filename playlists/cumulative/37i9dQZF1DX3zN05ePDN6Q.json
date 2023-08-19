@@ -811,6 +811,28 @@
     },
     {
       "album": {
+        "name": "Balan\u00e7a Babylon",
+        "url": "https://open.spotify.com/album/3N4577pyWxa0BzfkN1j1v1"
+      },
+      "artists": [
+        {
+          "name": "Miliano",
+          "url": "https://open.spotify.com/artist/2Ck6D0bMK3wkXWAQo8IyaJ"
+        },
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "Balan\u00e7a Babylon",
+      "url": "https://open.spotify.com/track/2Y9d8TFmZo6FPwNx65aQSr"
+    },
+    {
+      "album": {
         "name": "A Hist\u00f3ria do Deus Pivete",
         "url": "https://open.spotify.com/album/6M4oPFZ1wWlx6wNMDtjWbX"
       },
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 274821,
       "name": "CHOLO",
       "url": "https://open.spotify.com/track/7eiONwnvFUnpRKti47bqhF"
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 265617,
       "name": "City Hunters",
       "url": "https://open.spotify.com/track/0MY6SXaT3Kj6vVZQgYLYq2"
@@ -2364,7 +2386,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 184180,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/3RuxiOnq4PdK9ti61U2HgT"
@@ -2758,7 +2780,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 183709,
       "name": "Forte",
       "url": "https://open.spotify.com/track/022xGfOjOH2Hm9zP6WoPPO"
@@ -4633,6 +4655,28 @@
     },
     {
       "album": {
+        "name": "JARDINEIROS: A COLHEITA",
+        "url": "https://open.spotify.com/album/2NGW6FBoycZlN0WVY4HDSb"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224493,
+      "name": "ONDA FORTE RMX",
+      "url": "https://open.spotify.com/track/3izOEB1YVNgbHKiGYPPEGG"
+    },
+    {
+      "album": {
         "name": "Mbaraet\u00e9",
         "url": "https://open.spotify.com/album/2dmdMkuFDqx8dJnPqi7Wkv"
       },
@@ -5296,6 +5340,28 @@
       "duration_ms": 207567,
       "name": "Ratos",
       "url": "https://open.spotify.com/track/10S906YyU6w0vNPd369S7N"
+    },
+    {
+      "album": {
+        "name": "Real Underground",
+        "url": "https://open.spotify.com/album/0w8KCWycXmFr22XSTMmhwN"
+      },
+      "artists": [
+        {
+          "name": "Lado Sujo",
+          "url": "https://open.spotify.com/artist/7GCPBbONfiLuUo6VCFYACs"
+        },
+        {
+          "name": "Kamikaze do Gueto",
+          "url": "https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158682,
+      "name": "Real Underground",
+      "url": "https://open.spotify.com/track/40zHJef3CuJyYcc6ACcI6Z"
     },
     {
       "album": {
@@ -6402,6 +6468,24 @@
     {
       "album": {
         "name": "Terra de Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/1jy7oM1IDer13ttPyJ0Z7p"
+      },
+      "artists": [
+        {
+          "name": "Caio Ocean",
+          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76043,
+      "name": "Terra de Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/4G16WCeGenrxlO3x3WfuY4"
+    },
+    {
+      "album": {
+        "name": "Terra de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/6TjWUZBQVci9JnXgWxLh0q"
       },
       "artists": [
@@ -6660,7 +6744,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 169306,
       "name": "UM BRINDE EMBAIXO DOS ARCOS",
       "url": "https://open.spotify.com/track/3FMRrB4ryUt2YncbuSyxpA"
@@ -7528,6 +7612,28 @@
       "duration_ms": 301125,
       "name": "\u00c9 Ela",
       "url": "https://open.spotify.com/track/45UQBcxnYpnBDXgjBBIVam"
+    },
+    {
+      "album": {
+        "name": "\u00daltimo Boom Bap",
+        "url": "https://open.spotify.com/album/3UXxizidKDfMoO07GUIJX8"
+      },
+      "artists": [
+        {
+          "name": "Thierry Macedo",
+          "url": "https://open.spotify.com/artist/6ImjkcxlBtkxIqJRAq2kMA"
+        },
+        {
+          "name": "Wzy",
+          "url": "https://open.spotify.com/artist/2A84hAwjWVqKuEytQylDTX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234418,
+      "name": "\u00daltimo Boom Bap",
+      "url": "https://open.spotify.com/track/2x8Hg8UzrhoBEK4SdWrwt9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q"

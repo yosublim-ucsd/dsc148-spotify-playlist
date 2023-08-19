@@ -2,9 +2,9 @@
 
 ### [Latin Folk](https://open.spotify.com/playlist/37i9dQZF1DX18t8d8JUxUC)
 
-> This is what folk sounds like en español\. Cover: Caloncho
+> This is what folk sounds like en español\. Cover: Sofía Campos
 
-84 songs - 5 hr 5 min
+85 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [El Faro](https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [El Faro](https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p) | 3:08 | 2023-07-28 | 2023-08-13 |
 | [El Hombre Que Casi Conoció a Michi Panero](https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Desaparezca Aquí](https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf) | 5:45 | 2023-02-24 |  |
 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 | 2023-02-24 |  |
-| [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2023-05-12 |  |
+| [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2023-05-12 | 2023-08-19 |
 | [Entra en mí](https://open.spotify.com/track/1E6kJOr2ii4JcQxKhYDDwS) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Entra en mí](https://open.spotify.com/album/4IikKsyr0YnGPtIAFaKFKC) | 4:26 | 2023-08-04 |  |
 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 | 2023-02-24 |  |
 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 | 2023-07-28 |  |
@@ -43,6 +43,7 @@
 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 | 2023-02-24 |  |
 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 | 2023-02-24 |  |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2023-02-24 |  |
+| [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-08-18 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2023-02-24 |  |
 | [hasta viejitos](https://open.spotify.com/track/24kcHSP9RuUB9xxk4wq5Tn) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [George Waves](https://open.spotify.com/artist/0yLl8k4ehq6YHgqjTAgf3P) | [hasta viejitos](https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM) | 4:04 | 2023-08-11 |  |
 | [Hermosa Drive](https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:54 | 2023-02-24 |  |

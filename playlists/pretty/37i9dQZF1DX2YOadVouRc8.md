@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,477 likes - 79 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,507 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 5 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
 | 6 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 |
 | 7 | [Wrong Person \(with ODUMODUBLVCK\)](https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:43 |
-| 8 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Leriq](https://open.spotify.com/artist/3hQSJlOr4WnGv5eDk88Pq3) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
+| 8 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
 | 9 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 10 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 |
 | 11 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 78 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 |
 | 79 | [Vawulence](https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Vawulence](https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw) | 2:12 |
 
-Snapshot ID: `MCxlNTNjNGVhNTc0ZjI0YmFiZDMzYTUzMDYzZGI3YTFkZWFhNDFiZTcw`
+Snapshot ID: `MCxiMzc0MWE2OGZlMDhhN2RhMDgxMTA5OWZiMDg2MzFjNjMzNmZiNGJh`

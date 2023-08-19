@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,578 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,663 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 | 100 | [Se Me Chamar, O Sorte!](https://open.spotify.com/track/1AkkRumTuA3MbfXMsmwEE7) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6tRtjhV934RrMZw4hkqXbN) | 3:38 |
 
-Snapshot ID: `MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx`
+Snapshot ID: `MCwwN2U5OThmYTI3OWZhZDg3MWY3ZTBjMmQzNmMwNTA5YmIzZWQ5MWY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,228 likes - 150 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,450 likes - 150 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 71 | [Snail \- Remastered 2011](https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 5:08 |
 | 72 | [Body Language](https://open.spotify.com/track/2CzfhFkxJZjdr6kNRUw8IM) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Slow Heart](https://open.spotify.com/album/7K7AuoZ1mMIaPiDZSvhCsU) | 4:09 |
 | 73 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
-| 74 | [Knights](https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Planet of Ice](https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV) | 3:39 |
-| 75 | [The Pod](https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 4:37 |
+| 74 | [The Pod](https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 4:37 |
+| 75 | [Knights](https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Planet of Ice](https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV) | 3:39 |
 | 76 | [Thru The Eyes Of Ruby \- Remastered 2012](https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 7:38 |
 | 77 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
 | 78 | [Something Right](https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Stovall](https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp) | 3:21 |
@@ -115,16 +115,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 105 | [Cheap Magic](https://open.spotify.com/track/7uaH0m2kKoT9YrHATuQn0P) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [The Free Life](https://open.spotify.com/album/4gT3GcSihWfQqAr5MBWfQ0) | 2:56 |
 | 106 | [Dogwalk](https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8) | [Pity Sex](https://open.spotify.com/artist/7zYojeiCfuseHGA4IJ8qSk) | [Dark World](https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S) | 4:42 |
 | 107 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 |
-| 108 | [I'm Not Part Of Me](https://open.spotify.com/track/1W2zqQlC9EuCHFVZoLPdLE) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here And Nowhere Else](https://open.spotify.com/album/5Mk061x9pcfptaPBFlqlgA) | 4:35 |
-| 109 | [Goldfinger](https://open.spotify.com/track/4Qtu0Y2KSnqwr5NJTDQX0C) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 4:31 |
+| 108 | [Goldfinger](https://open.spotify.com/track/4Qtu0Y2KSnqwr5NJTDQX0C) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 4:31 |
+| 109 | [I'm Not Part Of Me](https://open.spotify.com/track/1W2zqQlC9EuCHFVZoLPdLE) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here And Nowhere Else](https://open.spotify.com/album/5Mk061x9pcfptaPBFlqlgA) | 4:35 |
 | 110 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 |
 | 111 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 |
 | 112 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 113 | [Palahniuk's Laughter](https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3) | [Fightstar](https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn) | [They Liked You Better When You Were Dead](https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj) | 4:15 |
 | 114 | [Something Better](https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo) | [Canterbury](https://open.spotify.com/artist/2xnkhppPrflQ02TWRtIthQ) | [Heavy in the Day](https://open.spotify.com/album/281202APzTHOf2hs6RFcmr) | 3:30 |
 | 115 | [See A Little Light](https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB) | [Bob Mould](https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A) | [Workbook](https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15) | 3:32 |
-| 116 | [Smiles All Round](https://open.spotify.com/track/7vDjXdMBqRFlVlG56jtT5T) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round](https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y) | 2:47 |
-| 117 | [Misplaced](https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Third Chain](https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y) | 3:06 |
+| 116 | [Misplaced](https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Third Chain](https://open.spotify.com/album/1t5YBAvPGnaUBbRSmLaU2y) | 3:06 |
+| 117 | [Smiles All Round](https://open.spotify.com/track/7vDjXdMBqRFlVlG56jtT5T) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round](https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y) | 2:47 |
 | 118 | [Innervisions](https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Innervisions](https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN) | 7:29 |
 | 119 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 |
 | 120 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 128 | [Drugs](https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6) | [Ammonia](https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV) | [Mint 400](https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby) | 3:27 |
 | 129 | [Grey Flap](https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO) | [Pist.On](https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr) | [Number One](https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z) | 3:57 |
 | 130 | [Same Ol' Road](https://open.spotify.com/track/71p7rnfNo2gjDdKsQ9Sz9A) | [Dredg](https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l) | [El Cielo](https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc) | 5:14 |
-| 131 | [Last Orders](https://open.spotify.com/track/13gy7iQVtO6IR96VM8IQTJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Last Orders](https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs) | 3:58 |
-| 132 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 |
+| 131 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 |
+| 132 | [Last Orders](https://open.spotify.com/track/13gy7iQVtO6IR96VM8IQTJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Last Orders](https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs) | 3:58 |
 | 133 | [Anything Near Conviction](https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:47 |
 | 134 | [Last Man Standing](https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf) | [People In Planes](https://open.spotify.com/artist/0xTNdlDmxYw4nebrj7ouxk) | [Beyond the Horizon](https://open.spotify.com/album/2Y5IRa81PCxIw68dyOfgcA) | 4:26 |
 | 135 | [Trans Am Sunday](https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF) | [Hobosexual](https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK) | [Monolith](https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS) | 5:53 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 149 | [Hunstanton Pier](https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars \(Deluxe Edition\)](https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I) | 4:49 |
 | 150 | [Stained Silver](https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Antenna](https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585) | 4:08 |
 
-Snapshot ID: `MCxhYzJkM2Q4OWFhZmQxOGNiYjA1YWFiMGIxNzRmMTVlMjMxNmQwZGE2`
+Snapshot ID: `MCxkMTYyNTFkNTBkYjVmMTFiODQwMzMzMGI0Y2ZmYTc1MzZlMzZjMzI3`

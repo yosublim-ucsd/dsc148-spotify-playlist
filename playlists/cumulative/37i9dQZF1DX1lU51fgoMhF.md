@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-315 songs - 17 hr 23 min
+317 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2021-11-17 |  |
 | [Better Better](https://open.spotify.com/track/2NcEsvFbuTGqnuu9nRmXta) | [X\-PIERS](https://open.spotify.com/artist/1XbxFr1AokUIf6TNDEUCPz) | [Broke Rookie Star \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0FQ6KjK4C9wKobhQVZF1n7) | 3:08 | 2022-06-09 | 2022-07-09 |
 | [Better Me](https://open.spotify.com/track/7sikv3XMiEIDESAS7PEkBB) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:01 | 2021-11-17 | 2022-07-25 |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [BIM BAM BUM](https://open.spotify.com/track/7JfqtEztxAA11Q7O9N6ryT) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [PINK PUNCH](https://open.spotify.com/album/243nNJW4Zk1vhQwNhZKXh7) | 3:16 | 2021-11-17 | 2022-06-10 |
 | [BLOOM](https://open.spotify.com/track/4oVkV9xL6sHIhaBemd9Qkp) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:31 | 2021-11-17 | 2022-05-31 |
 | [Blue Flame](https://open.spotify.com/track/2jF2oDPLFLmrj2o8CfUOWK) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [BLUE FLAME](https://open.spotify.com/album/7gbpaUn2eYVgUSlApkLLv5) | 3:14 | 2022-07-27 | 2022-08-13 |
@@ -178,7 +179,7 @@
 | [Lullaby](https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:37 | 2023-07-31 |  |
 | [Lullaby](https://open.spotify.com/track/1aDarBap4uQgOt9k4fxWd8) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL) | 3:37 | 2021-11-17 | 2022-05-16 |
 | [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 | 2022-07-27 | 2023-08-06 |
-| [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 | 2021-11-17 |  |
+| [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 | 2021-11-17 | 2023-08-19 |
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-07-27 |  |
 | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/track/08Oq0ODihIEHHU9Y0JRi0W) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW), [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP), [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/album/4PrWleaxfuvZ3plIJJxm8J) | 3:24 | 2021-11-17 | 2022-07-29 |
 | [Midnight](https://open.spotify.com/track/2Ce7mrdXCXE4KB73djPjXk) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [butterFLY](https://open.spotify.com/album/7klpmNtYwM5Q0fCRIdC21I) | 3:31 | 2021-11-17 | 2022-06-28 |
@@ -288,6 +289,7 @@
 | [SUNDAY MOON](https://open.spotify.com/track/0wwpe1nbFJgvSJhlpcJBce) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:34 | 2022-01-09 | 2022-05-10 |
 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 | 2021-11-17 | 2022-07-18 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
+| [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 2:50 | 2023-08-18 |  |
 | [Tequila \(prod\. COZ\)](https://open.spotify.com/track/4nsDt7TyZlTe4ywV5eMsdI) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Tequila](https://open.spotify.com/album/4z2ZLMO0s62QStxTu9dtNt) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 | 2022-07-04 |  |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-06-09 | 2023-04-05 |
@@ -322,6 +324,6 @@
 | [You Are My Ocean](https://open.spotify.com/track/6687p4sFLPEzWL6YxsbkCT) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [You Are My Ocean](https://open.spotify.com/album/35rbs0HMwzDGJQ4EI4qwga) | 2:58 | 2021-11-17 | 2022-06-29 |
 | [Your Song](https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPECIAL ALBUM \[Storage of ONF\]](https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG) | 3:40 | 2022-08-18 | 2022-10-06 |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-11-17 | 2022-07-29 |
-| [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2021-11-17 |  |
+| [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2021-11-17 | 2023-08-19 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

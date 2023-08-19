@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,857 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,887 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 3 | [Mal](https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK) | [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Mal](https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4) | 4:18 |
 | 4 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 |
 | 5 | [Lakou](https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng) | [Tafa Mi\-Soleil](https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt) | [Lakou](https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3) | 3:12 |
-| 6 | [Dous pou Dous](https://open.spotify.com/track/3u3WacUgCuvmtqovOUbOij) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Dous pou Dous](https://open.spotify.com/album/3S31k8NVb2UzlOXldL876a) | 4:32 |
+| 6 | [Dous pou Dous](https://open.spotify.com/track/7GJvZPLFouefZ1alU9B7Xg) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Dous pou Dous](https://open.spotify.com/album/2rWTppcUCBy0bEZxTgfazL) | 4:32 |
 | 7 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 8 | [Sos](https://open.spotify.com/track/0NvwdECwRxe8avnKphwO5o) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Sos](https://open.spotify.com/album/7bgThdCTdoXHAIGsOgbmHq) | 3:10 |
 | 9 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
 | 100 | [Ou Bezwen](https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje) | [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Ou Bezwen](https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp) | 4:12 |
 
-Snapshot ID: `MCw1M2RhOGY4MjFmZWJiMzIyYWFjYWJjNmM4MGZiNTI2OGE5ZjVlZWIz`
+Snapshot ID: `MCw1NjQ5M2JmYjQyNzc3NzQwMmViY2JmODhjNzBiMjdlYTBhZjRmYThi`

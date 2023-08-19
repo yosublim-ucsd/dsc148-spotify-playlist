@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JXwXXn5dXj.md) - [plain]
 | 27 | [Jiffy \- Mixed](https://open.spotify.com/track/2nfqXLxfIuEZTtbyeNBC7J) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Jiffy \(Mixed\)](https://open.spotify.com/album/6MMhoqQQOMJgAWV2Kwatug) | 3:03 |
 | 28 | [Thirsty \- Mixed](https://open.spotify.com/track/1GquatpYouzdbi3QJzRHzM) | [She's Ryan](https://open.spotify.com/artist/0ZWZcVsmocf89vXtRF1S6G) | [Thirsty \(Mixed\)](https://open.spotify.com/album/0BfjVdqKOjmXbR3frd7sSP) | 2:06 |
 
-Snapshot ID: `MCwyMjI0NWU1NTUzZjAyMWJiZmUxOGJhZjc3YjNjMWUzOGIwMGRhNzBm`
+Snapshot ID: `MCw4OGE4YjNjYzEwNjEyMDE1ZTI1MDkxZWIxMWRiYzg1ZDY2M2VkNTM1`

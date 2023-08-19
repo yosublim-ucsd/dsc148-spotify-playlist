@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-601 songs - 1 day 8 hr 49 min
+605 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Askja](https://open.spotify.com/track/5NPOzGF9KwzjgfA3q6zbCf) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Askja](https://open.spotify.com/album/6gPqxuEKhpHUNWta7qv4qS) | 4:14 | 2019-05-26\* | 2020-01-09 |
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2020-01-03 |  |
 | [Auburn Sky](https://open.spotify.com/track/42BtxDRqFTbE6Jb6rd9QOZ) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Auburn Sky](https://open.spotify.com/album/1EIqmvGv55MS2yreh82mh0) | 2:42 | 2020-06-19 |  |
+| [Augury](https://open.spotify.com/track/1ELJ66txni1o86RVvdcgHb) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [Augury](https://open.spotify.com/album/02lgvATBKD2B6sHurWBiza) | 2:36 | 2023-08-18 |  |
 | [Awaken](https://open.spotify.com/track/00ZtJgQax06A96l8sMcmlB) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Awaken](https://open.spotify.com/album/3R9k9HgJhVjdeHKIeVP4ZK) | 2:09 | 2020-01-09 | 2022-11-18 |
 | [Awakening](https://open.spotify.com/track/27KvPekcDlNDvfOdi0ohWC) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 7:37 | 2019-05-26\* | 2019-06-19 |
 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 | 2022-02-25 |  |
@@ -149,6 +150,7 @@
 | [Eidolon](https://open.spotify.com/track/6KuzTwyczjBp1C4f60Y5ID) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Eidolon](https://open.spotify.com/album/3Afi3vkyW6PcheDK8O5lsx) | 4:17 | 2020-04-13 | 2022-03-05 |
 | [Eleven Shades](https://open.spotify.com/track/2sAg6ll1Vd1BxR8YD0lkRg) | [Lunaire](https://open.spotify.com/artist/1sC8iJ3MHkk4VMunZm8jbc) | [Eleven Shades](https://open.spotify.com/album/11t9vBS4aWC6F1QmucdeC1) | 3:36 | 2020-10-08 |  |
 | [embraceable](https://open.spotify.com/track/43qHoXJIYjMwJsRNTj9V98) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [embraceable](https://open.spotify.com/album/2IRHiW8GfGY0yZ3BqoWxVG) | 2:40 | 2022-10-15 |  |
+| [emotions](https://open.spotify.com/track/44DaoGCx5GuHqQI1ZflPs8) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Box of Puzzles](https://open.spotify.com/album/1bF0vGk9X8YhcvJvz2nDYc) | 2:45 | 2023-08-18 |  |
 | [Entirety](https://open.spotify.com/track/3nvpVuUE9mO7fvFI6E9WYY) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [Entirety](https://open.spotify.com/album/6IFRbKg9C5Uj4NLG6maOsz) | 3:32 | 2019-05-26\* | 2020-08-07 |
 | [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2019-07-31 | 2021-09-14 |
 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-02-10 |  |
@@ -368,6 +370,7 @@
 | [Open Skies](https://open.spotify.com/track/5bATh5zpKb6uauocsl0XRM) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Open Skies](https://open.spotify.com/album/77zGhn2gEpZc5U5iq5ewAI) | 2:34 | 2020-06-19 | 2020-10-27 |
 | [Open to it](https://open.spotify.com/track/7AkmShdIslE2jkJ4jHbYmd) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Full Circle](https://open.spotify.com/album/4DXa01faA0ub1CdxyKyTPQ) | 2:24 | 2023-03-03 |  |
 | [Opening the Gates](https://open.spotify.com/track/0JqBTf4ImzOf3TNR5wgefk) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 4:42 | 2019-05-26\* | 2019-06-27 |
+| [Orange Sky](https://open.spotify.com/track/2MveOWtavb89Lk09bcPoi8) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [Orange Sky](https://open.spotify.com/album/3NfqH1vIsjFpQnmBkNJrAp) | 2:09 | 2023-08-18 |  |
 | [Orbits](https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ) | [Halfway Escape](https://open.spotify.com/artist/1zT5lkgp3zNJ592XVPVKUP) | [Orbits](https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR) | 3:24 | 2020-08-07 | 2023-07-14 |
 | [Orion's Belt](https://open.spotify.com/track/2p36nzolzAlLbaFAQiqfPd) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Orion's Belt](https://open.spotify.com/album/5SrmFEQRtxMlegiboE6oX4) | 1:58 | 2023-03-31 | 2023-07-29 |
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2021-12-22 |  |
@@ -496,6 +499,7 @@
 | [The Disappearance of the Unmoved Mover](https://open.spotify.com/track/62uEGHla1SOT2rhVAyMn6K) | [So Vea](https://open.spotify.com/artist/3HKvIprAGifH1akdCwAm3u) | [The Disappearance of the Unmoved Mover](https://open.spotify.com/album/4OkHmvZOqdIjpvVo6mykYq) | 4:29 | 2020-04-13 | 2021-12-18 |
 | [The Discovery](https://open.spotify.com/track/5NKK0t7lYlyDsT5auDYKmq) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [The Discovery](https://open.spotify.com/album/5AIoZtcwqxJZ5HOc5CFUKI) | 3:13 | 2019-12-31 |  |
 | [The Dreamer](https://open.spotify.com/track/3XnQ3OqmfvP5Sh6gACEKnG) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj), [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [The Dreamer](https://open.spotify.com/album/5HbEfECJ2XmKil2B8iOH92) | 2:58 | 2020-05-18 | 2020-10-27 |
+| [the echoing truth](https://open.spotify.com/track/1HsNwZPWvrN8gZ44YnjOCo) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [the echoing truth](https://open.spotify.com/album/6klNuRg1l3cNvgJU6zWI6b) | 2:06 | 2023-08-18 |  |
 | [The End Is The Beginning](https://open.spotify.com/track/5Hp8LPFg8DCp5rREjcgswX) | [Search For Atlantis](https://open.spotify.com/artist/35AOZRP5Z6yMNvFlfR6ixh) | [The End Is The Beginning](https://open.spotify.com/album/71RCbEQhdAVVkzqKs4hcJu) | 2:16 | 2023-07-14 |  |
 | [The First Day of Spring](https://open.spotify.com/track/4Bcc2BGR8izlIPId78ves8) | [A Dancing Beggar](https://open.spotify.com/artist/728YMd5rIL5FkGaRLNdAv8) | [Homemade Recordings 2009 \- 2012](https://open.spotify.com/album/7xQpCjKSiDMgLQCRkmXIqn) | 1:57 | 2019-06-19\* | 2019-06-27 |
 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 | 2020-08-07 |  |

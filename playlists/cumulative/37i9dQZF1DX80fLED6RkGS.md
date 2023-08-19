@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=NhJPqOBxQsWNLNpzz9Oplw">Fathermoh</a>
 
-268 songs - 14 hr 45 min
+269 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-01-20 | 2022-01-28 |
 | [Olunga](https://open.spotify.com/track/1MwECPqcjRpPCjFc6rCOkE) | [HITMAN KAHT](https://open.spotify.com/artist/6kPTEaWcNadrTgbT89FmNi), [VUVA](https://open.spotify.com/artist/2xE7tK4sFIgq5Y8T01vuq8), [GUANTAI](https://open.spotify.com/artist/3BQVpRFs9onlPY46iPaxzw) | [Olunga](https://open.spotify.com/album/6Vk1yUsjBvShj98zOzUqg4) | 3:58 | 2022-01-20 | 2022-01-28 |
 | [Omwana Wabandi](https://open.spotify.com/track/3xgEcMXTbj5c1wTikyMDUd) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Omwana Wabandi](https://open.spotify.com/album/3ukqDmBiPAU9TnM5XwlyKf) | 2:50 | 2022-01-20 | 2022-01-28 |
+| [Overseas](https://open.spotify.com/track/1yjqZSp6GZUh4CNW4w5ATO) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Trigga Youngboy](https://open.spotify.com/artist/2X6J78Zg69QUp60vnAgl7q) | [Overseas](https://open.spotify.com/album/3pinsBjovPydcwYY8HGMXK) | 2:53 | 2023-08-17 |  |
 | [Pandemik](https://open.spotify.com/track/4brFh0GOyGxdh6qfUDOpGK) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Pandemik](https://open.spotify.com/album/686UwrTXLaD6lSndiKXqil) | 2:49 | 2021-08-27 | 2022-02-05 |
 | [Patanisho](https://open.spotify.com/track/0jOwcUbrAtiuGsXU8vGtRj) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6) | [Patanisho](https://open.spotify.com/album/0AvQe2ffB54RwTtFVDZuNG) | 3:36 | 2022-05-06 | 2022-05-13 |
 | [Pattern](https://open.spotify.com/track/24gqaz90ui55C2Q5vQyao7) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Pattern](https://open.spotify.com/album/4Ro4FBtBuEP74DJIhWtBrt) | 4:29 | 2021-12-16 | 2022-09-10 |

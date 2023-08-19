@@ -1839,6 +1839,36 @@
     },
     {
       "album": {
+        "name": "Destination Paris - Un homme et une femme",
+        "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Un homme et une femme",
+      "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
+    },
+    {
+      "album": {
         "name": "Leclair: Violin Concertos, Vol. 2",
         "url": "https://open.spotify.com/album/46J0BMxREy9dKSv37jp7Wx"
       },

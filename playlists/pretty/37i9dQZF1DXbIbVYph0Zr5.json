@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue! ",
-  "num_followers": 589491,
+  "num_followers": 589774,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTAzZTU0YWI0YWUwMzAwODBlZDVhMGZjZGM2M2Y4Yzc3ZTQwNDQy",
+  "snapshot_id": "MCxlN2FkYTA2OWY1Zjc3MjcxMDk4M2I4NzkyZjI3YWI3OTZkN2Q4NDU5",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Stars Like Confetti",
-      "url": "https://open.spotify.com/track/5wtPc1OQ7g1H8FBkwWqbhh"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Barefoot Blue Jean Night",
         "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Stars Like Confetti",
+      "url": "https://open.spotify.com/track/5wtPc1OQ7g1H8FBkwWqbhh"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Wild as Her",
-        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Wild as Her",
-      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Copperhead Road",
         "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Wild as Her",
+        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 221266,
       "name": "Ol' Red",
       "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2023-06-30 04:01:00",

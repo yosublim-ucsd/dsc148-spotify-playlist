@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 55389,
+  "num_followers": 55416,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDI5NjMxM2Q0ODNmYTkzYzkxODhmODdhZjNhYjE2ZDg4ZjAzZTEx",
+  "snapshot_id": "MCxkMGVlZDQzOTkxODIxNjEyMzVkNTA5ZWMyMDhkOGFmY2UxMTU0OGE3",
   "tracks": [
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1971,22 +1971,18 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "People Ain't Dancing (feat. Kah-Lo)",
-        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
+        "name": "FLUTE",
+        "url": "https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF"
       },
       "artists": [
         {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
         }
       ],
-      "duration_ms": 154859,
-      "name": "People Ain't Dancing (feat. Kah-Lo)",
-      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
+      "duration_ms": 197489,
+      "name": "FLUTE",
+      "url": "https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO"
     }
   ],
   "unique_name": "Dance All Day",

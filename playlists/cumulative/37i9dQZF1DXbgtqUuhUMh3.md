@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Asmaa lmnawar
 
-530 songs - 1 day 6 hr 49 min
+531 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [يا بنتي](https://open.spotify.com/track/10QCLEQ4Lmo2vIB25DvU8L) | [Mai Selim](https://open.spotify.com/artist/19SEEQWYMtQ1spkni19CCu) | [يا بنتي](https://open.spotify.com/album/40YSCvlRc50vEqpQzqiIN8) | 3:15 | 2023-03-16 | 2023-05-13 |
 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 | 2022-03-01 | 2023-05-09 |
 | [يا طير السنونو](https://open.spotify.com/track/7uJYDaD71XHFUCcm3CDOZV) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1) | [يا طير السنونو](https://open.spotify.com/album/6y4JKfeGDumM3k7OVgoYST) | 1:52 | 2021-12-23 | 2022-03-02 |
+| [يا غزال](https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [Twyxx](https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG) | [يا غزال](https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a) | 4:01 | 2023-08-17 |  |
 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-12-30 | 2022-03-02 |
 | [يالأيام](https://open.spotify.com/track/0irTKPA6HKoBqS84qzfImN) | [Meriem Nourdine](https://open.spotify.com/artist/3Kh8dQTSIfbZ0f4ZHvm9al) | [يالأيام](https://open.spotify.com/album/4Zcqp2T7U2AmG5tII9nw7p) | 4:48 | 2021-12-23 | 2022-02-28 |
 | [يتميلح](https://open.spotify.com/track/7773uSBeDmRum6cT0RmH2q) | [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi) | [يتميلح](https://open.spotify.com/album/6lBjQb25aQ7D62YQFiRkRi) | 2:54 | 2021-12-30 | 2022-03-01 |

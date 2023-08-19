@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5972,
+  "num_followers": 5973,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmY3OWVhYWM5NWUyNjFiZWZmZGNkZWY4OWQzZThhOTIwN2I3OTRj",
+  "snapshot_id": "MCw5ZmMyMTI4MzI1NTkxZmY2OGU0NmRkZGQwYjVlZjM4NGU3MzMxOTAw",
   "tracks": [
     {
       "added_at": "2023-07-31 16:06:49",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-07-31 16:06:49",
       "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 293754,
+      "name": "Thread(1.11)",
+      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
+    },
+    {
+      "added_at": "2023-07-31 16:06:49",
+      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
-    },
-    {
-      "added_at": "2023-07-31 16:06:49",
-      "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 293754,
-      "name": "Thread(1.11)",
-      "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
     },
     {
       "added_at": "2023-07-31 16:06:49",

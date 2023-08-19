@@ -1956,10 +1956,28 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 167625,
       "name": "Own It",
       "url": "https://open.spotify.com/track/5HcZ0lvFpQGmkaOwe65n4X"
+    },
+    {
+      "album": {
+        "name": "Own It",
+        "url": "https://open.spotify.com/album/1CkQPtPvm0VwMFKcj81PIK"
+      },
+      "artists": [
+        {
+          "name": "Kali J",
+          "url": "https://open.spotify.com/artist/7dh0MW1TLdsA3ABq3UAjzR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167903,
+      "name": "Own It",
+      "url": "https://open.spotify.com/track/1bnq2C6Xeb9ztr5QjfsFBM"
     },
     {
       "album": {

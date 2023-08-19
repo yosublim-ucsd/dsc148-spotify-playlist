@@ -4,7 +4,7 @@
 
 > 🍪🍪🍪 de koekjes blijven smaken naar meer 🍪🍪🍪
 
-220 songs - 11 hr 2 min
+221 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Accepteer de Stress](https://open.spotify.com/track/7AQK0D7AsyoyCXXTDEsxh4) | [Milan Knol](https://open.spotify.com/artist/3QPrW2AxSYf8F6cSqPceLZ) | [Accepteer de Stress](https://open.spotify.com/album/71l4yEvhNQEEMVcX3R1cVQ) | 2:08 | 2023-07-13 | 2023-07-18 |
 | [All Eyez On Me](https://open.spotify.com/track/0MC0XrSB9VlufcxjajG92k) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF) | [All Eyez On Me](https://open.spotify.com/album/2iDmnDgDaetfIEelbvD0gL) | 3:03 | 2023-02-23 | 2023-04-15 |
 | [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-04-14 | 2023-05-16 |
-| [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2023-05-29 |  |
+| [Anne\-Fleur Vakantie](https://open.spotify.com/track/3nmLhV0YJNqmExxHcrzhFU) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/00j8YfkavmXeqNsTIaTpZg) | 2:54 | 2023-08-11 |  |
+| [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2023-05-29 | 2023-08-19 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-18 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-01 |  |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-02-23 | 2023-03-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,884 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,910 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Drift Away](https://open.spotify.com/track/1ulIop5lMzMh8I8lMwr5BV) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Drift Away](https://open.spotify.com/album/49ryzSWOevlcCrnra9sI8x) | 2:27 |
 | 100 | [WOMAN](https://open.spotify.com/track/63yD1pa1Ux5Ug4tIi6ygdv) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [WOMAN](https://open.spotify.com/album/7eS3314VnVZQ3ZMNFCjZ92) | 2:44 |
 
-Snapshot ID: `MCw1ZDc3Yjc4YmEyYzI2ZmRmOWQ4YTMxOTMzYWE4NGY1YjY0ZGYyNTEz`
+Snapshot ID: `MCxkODBmNjc0OWRiYzMyMjMyZmM1MWEyNjI1YzJlNDE0ZTY2MGEwMWY2`

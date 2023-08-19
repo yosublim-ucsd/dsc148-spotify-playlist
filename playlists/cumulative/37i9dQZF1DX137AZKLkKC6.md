@@ -2,9 +2,9 @@
 
 ### [La + Popular](https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6)
 
-> Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
+> Las grandes del Despecho y el Género Popular\. Foto: Nico Hernández, Pipe Bueno & Jessi Uribe
 
-161 songs - 8 hr 13 min
+163 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [El Desmadre](https://open.spotify.com/track/1UW2EbzKVV5Vubsmp5NA0j) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Desmadre](https://open.spotify.com/album/7EA4LPbqYNO4h7K0xhfA8c) | 2:51 | 2022-08-12 |  |
 | [El DM](https://open.spotify.com/track/4jVs3F4YeYMc4mi33rItRt) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El DM](https://open.spotify.com/album/6tjkmYe7q6QVEPwLMWpuus) | 3:04 | 2023-02-13 | 2023-03-11 |
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2023-03-10 | 2023-06-03 |
-| [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 | 2023-02-13 |  |
+| [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 | 2023-02-13 | 2023-08-19 |
+| [El Malo \- Remix](https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Malo \(Remix\)](https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9) | 4:19 | 2023-08-18 |  |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/45DhsSxAU4rENWHUfaZedt) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/3hoHs5feFArgYdfpEoQTqq) | 5:01 | 2022-08-12 |  |
 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 | 2022-08-12 |  |
 | [El Último No](https://open.spotify.com/track/0UVGcwBmQUNbsBlsZgFzDK) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 3:13 | 2022-08-12 | 2023-02-25 |
@@ -95,7 +96,7 @@
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-23 | 2023-07-02 |
 | [Mala Mujer](https://open.spotify.com/track/1w2ScF6hA0XRejw3QDHRhY) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:01 | 2022-08-12 |  |
 | [MAMÁ PERDÓN](https://open.spotify.com/track/6UWA0lXKspDvsfmiMGuo8e) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [MAMÁ PERDÓN](https://open.spotify.com/album/2S7Lc5WX67KGJvlH6xk0ts) | 2:32 | 2023-02-17 | 2023-05-27 |
-| [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 | 2023-06-30 | 2023-07-15 |
+| [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 | 2023-06-30 |  |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2022-08-12 |  |
 | [Me Liberé](https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Me Liberé](https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx) | 2:59 | 2023-07-28 |  |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 | 2023-05-13 |
@@ -122,7 +123,7 @@
 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 | 2022-08-12 | 2023-02-25 |
 | [Pa Todo el Año](https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pa Todo El Año](https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T) | 3:08 | 2022-08-12 |  |
 | [Pa' Volver A Enamorarme](https://open.spotify.com/track/7cpdN4FqOSCFUqNKh3hcis) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [Pa' Volver A Enamorarme](https://open.spotify.com/album/7quKNBRlHoF2jzPn0YRHDh) | 2:57 | 2022-12-02 | 2022-12-17 |
-| [Pacto De Olvido](https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Pacto De Olvido](https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w) | 2:36 | 2023-06-09 |  |
+| [Pacto De Olvido](https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Pacto De Olvido](https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w) | 2:36 | 2023-06-09 | 2023-08-19 |
 | [Pasado Pisado](https://open.spotify.com/track/4se93i19bLXGvZrFyJPF91) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Pasado Pisado](https://open.spotify.com/album/5sc1umOiGXOncvv3oSj3p8) | 3:26 | 2022-08-12 | 2022-10-29 |
 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-02 |  |
 | [Por Qué la Envidia](https://open.spotify.com/track/4AQT9Lh9tjYztUGmubRD9q) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Promesa \(Con el Corazon\)](https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp) | 2:57 | 2022-11-04 | 2022-11-13 |
@@ -159,6 +160,7 @@
 | [Una Noche](https://open.spotify.com/track/1q0rUyBplcbhKws6GCH9Z0) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Una Noche](https://open.spotify.com/album/6thhCxR0dkeLfKoCZ4SyCj) | 3:11 | 2023-06-02 |  |
 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 | 2022-11-04 | 2023-02-18 |
 | [Venga Que No Es Pa' Eso](https://open.spotify.com/track/5k1EZGQSCDf6lI6ko5Can8) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Venga Que No Es Pa' Eso](https://open.spotify.com/album/2fi7le7g3T9HLUSFRaeun1) | 2:21 | 2022-08-12 |  |
+| [Vete](https://open.spotify.com/track/3ACihAMxekfqGod6LiuKEH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Vete](https://open.spotify.com/album/4IWgA9K4aBcXCrHiXpW2Wn) | 3:09 | 2023-08-18 |  |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-08-12 |  |
 | [Voy a Amarte \- Remix](https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Voy a Amarte \(Remix\)](https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE) | 2:22 | 2023-07-14 |  |
 | [Vuelve y Me Pasa](https://open.spotify.com/track/2wTUAAdqoRpaP9w5VIzM6s) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:15 | 2022-08-12 |  |
@@ -166,7 +168,7 @@
 | [Ya No Estoy a Tus Pies](https://open.spotify.com/track/1fLDqQSdDcKZEsmtXsnojw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Ya No Estoy a Tus Pies](https://open.spotify.com/album/763xBBavvXtYoiKxDVTTTa) | 2:59 | 2022-08-12 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-08-12 |  |
 | [Yo Quiero Ser](https://open.spotify.com/track/0rCtrINW2fQkemOgKzk43t) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Yo Quiero Ser](https://open.spotify.com/album/4lSQhkv2M8CeYsHkK99Zam) | 2:54 | 2023-06-16 | 2023-07-08 |
-| [Yo Se Cuando Miente](https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo Se Cuando Miente](https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk) | 3:18 | 2023-06-16 |  |
+| [Yo Se Cuando Miente](https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo Se Cuando Miente](https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk) | 3:18 | 2023-06-16 | 2023-08-19 |
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 | 2022-08-12 | 2022-10-29 |
 | [Ángel o Demonio](https://open.spotify.com/track/3t17siJ4pNDgSxtpcTVB1m) | [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Ángel o Demonio](https://open.spotify.com/album/1XnfrUTeFCfXEFXXu4d2qM) | 3:19 | 2022-08-12 |  |
 

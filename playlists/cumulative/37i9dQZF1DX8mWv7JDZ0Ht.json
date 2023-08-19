@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Johnny Hooker",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 185767,
       "name": "Cada Amor",
       "url": "https://open.spotify.com/track/7iuIozN19rt8QyzX20kb93"
@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Corda Bamba",
+        "url": "https://open.spotify.com/album/572WWhgJJ3QWIw180d00DO"
+      },
+      "artists": [
+        {
+          "name": "Yasmim Silveira",
+          "url": "https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171100,
+      "name": "Corda Bamba",
+      "url": "https://open.spotify.com/track/5RRogbBQK33amziOlo85tg"
+    },
+    {
+      "album": {
         "name": "Coringa",
         "url": "https://open.spotify.com/album/6HcH3KCqC0zl8gmZrCthuc"
       },
@@ -1850,6 +1868,24 @@
       "duration_ms": 162563,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R"
+    },
+    {
+      "album": {
+        "name": "del\u00edrio coletivo",
+        "url": "https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "del\u00edrio coletivo",
+      "url": "https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f"
     },
     {
       "album": {
@@ -2234,7 +2270,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 166027,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/7zsEdMgo3KhioogOlDlq8t"
@@ -2726,7 +2762,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228866,
       "name": "Farol das Estrelas - Ao Vivo",
       "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
@@ -2860,6 +2896,24 @@
       "duration_ms": 134061,
       "name": "fico mais leve",
       "url": "https://open.spotify.com/track/5Q2Ao87PW5rxZqF5JCjtk7"
+    },
+    {
+      "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     },
     {
       "album": {
@@ -3198,7 +3252,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 126588,
       "name": "GRA\u00c7AS A DEUS",
       "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
@@ -4216,7 +4270,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 150779,
       "name": "My Loco",
       "url": "https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq"
@@ -4506,7 +4560,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 242580,
       "name": "N\u00e3o Sou De Me Entregar",
       "url": "https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0"
@@ -5098,7 +5152,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 157317,
       "name": "Passarinho",
       "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"
@@ -5458,6 +5512,28 @@
       "duration_ms": 168000,
       "name": "Pra Te Conquistar",
       "url": "https://open.spotify.com/track/7vocZ3kbuEbt9ry3Gnic7E"
+    },
+    {
+      "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     },
     {
       "album": {
@@ -5970,7 +6046,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176173,
       "name": "saudade boa",
       "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
@@ -6230,7 +6306,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 169275,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
@@ -6306,7 +6382,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 256567,
       "name": "Sonho",
       "url": "https://open.spotify.com/track/6DuJzDbnQxVLbOv1Y1Ix9N"
@@ -6460,6 +6536,28 @@
       "duration_ms": 161500,
       "name": "S\u00f3 Pra Te Falar",
       "url": "https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN"
+    },
+    {
+      "album": {
+        "name": "Tarde da Noite",
+        "url": "https://open.spotify.com/album/3rBB9Rfs8jqN9YPOmisGWG"
+      },
+      "artists": [
+        {
+          "name": "Fraterna Trip",
+          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
+        },
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Tarde da Noite",
+      "url": "https://open.spotify.com/track/70mYwaFqWLYywSVPcCVynb"
     },
     {
       "album": {
@@ -7198,7 +7296,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 198000,
       "name": "universo de coisas que eu desconhe\u00e7o",
       "url": "https://open.spotify.com/track/4f7phfIoOpIhSI8tIK11f6"

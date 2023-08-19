@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: JO YURI\(조유리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: STAYC\(스테이씨\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-353 songs - 19 hr 51 min
+355 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [22CENTURY GIRL](https://open.spotify.com/track/4Sg6hnJ0MXIzU4wl47KKs7) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:35 | 2021-11-29 | 2022-07-09 |
 | [24 O' clock](https://open.spotify.com/track/1iMYzE3vDp72fOaqb8hk22) | [Kizzy](https://open.spotify.com/artist/6DfeIQnmFqtT8Y1lgtQ8QX) | [Dreamlike](https://open.spotify.com/album/7E61PhUDL3MbwVTz36oFSA) | 3:53 | 2022-03-29 | 2022-07-09 |
 | [5 More Minutes](https://open.spotify.com/track/3epPI6Bx5IeRtPMNFG5976) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:28 | 2021-11-29 | 2022-07-24 |
-| [5th Season \(SSFWL\)](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [THE FIFTH SEASON](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) | 4:00 | 2022-07-28 |  |
+| [5th Season \(SSFWL\)](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [THE FIFTH SEASON](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) | 4:00 | 2022-07-28 | 2023-08-19 |
 | [A Girl Like Me](https://open.spotify.com/track/5O3I7UPYpdJHLwA6Nw3Qhx) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.2 Narcissus](https://open.spotify.com/album/1Y9ADL4odfgfgO7rwyL3zu) | 2:55 | 2021-11-29 | 2022-06-04 |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-11-29 |  |
 | [Ah\-Choo](https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz8](https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8) | 3:38 | 2021-11-29 | 2022-07-28 |
@@ -39,12 +39,14 @@
 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 | 2022-03-29 |  |
 | [Be With You](https://open.spotify.com/track/46TStqCoE5i72Tt9KKwKfc) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:50 | 2021-11-29 | 2022-07-26 |
 | [BeBe](https://open.spotify.com/track/3fRutnpPQkVTuDj9zOpoiB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [THE SECRET](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) | 3:18 | 2021-11-29 | 2022-07-07 |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
 | [Boo](https://open.spotify.com/track/6i7mQOXDa23mOJb5TjPqQc) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Growing Up](https://open.spotify.com/album/2xJZSgxlKvcOCR2aLA8Pq2) | 3:23 | 2022-04-04 | 2022-04-10 |
 | [Boogie Up](https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [SPECIAL ALBUM <For the Summer>](https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ) | 3:03 | 2021-11-29 | 2022-07-28 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-09 |  |
 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 | 2022-10-29 |  |
+| [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-18 |  |
 | [BUBIBU](https://open.spotify.com/track/5hqPBajIgiuL9bcxnKd2kQ) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [BUBIBU](https://open.spotify.com/album/7xUQp6x6q1EcezukD3rsEH) | 3:39 | 2021-11-29 | 2022-04-20 |
 | [Butterfly](https://open.spotify.com/track/3P5M7SoBB0PiAPWhm3FY4F) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:53 | 2022-03-29 | 2022-05-17 |
 | [BUTTERFLY](https://open.spotify.com/track/33PStuI2gJCeZcYQIOHXAU) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Neverland](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) | 3:37 | 2021-11-29 | 2022-07-28 |
@@ -164,7 +166,7 @@
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-29 |  |
 | [Listen to my word\(A\-ing\)](https://open.spotify.com/track/3jxoRPeed8f84PLTuKJeR7) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Haha](https://open.spotify.com/artist/3lY2yvsj2BSiYSA8PcPGqF), [SKULL](https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg) | [LISTEN TO MY WORD](https://open.spotify.com/album/6ZlnuAuYdtlcZ8aIRjWV8J) | 3:30 | 2022-04-04 | 2022-04-21 |
 | [LOL](https://open.spotify.com/track/3f8hlbcbaUvwIZcOkbiFPh) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:29 | 2021-11-29 | 2022-04-19 |
-| [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 | 2022-07-28 |  |
+| [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 | 2022-07-28 | 2023-08-19 |
 | [LOVE BOMB](https://open.spotify.com/track/6FoI3qwCRq0el1RYKeVGSx) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/1txcaw9svQD60PDIjdqrBY) | 3:19 | 2021-11-29 | 2022-07-02 |
 | [Love Bug](https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 6th Mini Album 'Time for the moon night'](https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP) | 3:42 | 2021-11-29 | 2022-07-25 |
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-04 | 2022-07-28 |

@@ -7744,7 +7744,7 @@
     {
       "album": {
         "name": "Rush (Remixes)",
-        "url": "https://open.spotify.com/album/3wFJg8Q9qHqdnw0BXyBUtt"
+        "url": "https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au"
       },
       "artists": [
         {
@@ -7759,6 +7759,28 @@
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Rush - Tom Santa Remix",
+      "url": "https://open.spotify.com/track/6MxXe1BRJMl1Bu1NB1oKwU"
+    },
+    {
+      "album": {
+        "name": "Rush (Remixes)",
+        "url": "https://open.spotify.com/album/3wFJg8Q9qHqdnw0BXyBUtt"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
       "duration_ms": 143000,
       "name": "Rush - Tom Santa Remix",
       "url": "https://open.spotify.com/track/6jAbL1oXYK2JxU1wfM8Dv9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,764 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,089 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 99 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
 | 100 | [Bounce With Me \(feat\. Xscape\) \- Edited Album Version](https://open.spotify.com/track/5jZfGxZDayFA1HzYmyOG3a) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Beware Of Dog](https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO) | 2:55 |
 
-Snapshot ID: `MCxmZGMxYTk5MGYxYWIyYTc5ZTNmNGEyNTkzMTgwYTk0NzU5OGUzMzNm`
+Snapshot ID: `MCw2YjBiMjRjNDc1NDFlZmEwMDNjMzhhZTNjNWI3NjBkNDVhZjA0ODE2`

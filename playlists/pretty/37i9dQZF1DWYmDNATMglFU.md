@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. kennyhoopla
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,106 likes - 86 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,076 likes - 86 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 85 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 |
 | 86 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 
-Snapshot ID: `MCxhYzRhYzZmYmZmZDAyMmVkYzVhNzIyMzQ3NzdlNmE1ZmI0N2ZmYTE3`
+Snapshot ID: `MCwyNDlhOGZhYjJhNTNiZjhmZjUwZDZhMTExZGEzNWQ0MWMxMzI1MTI1`

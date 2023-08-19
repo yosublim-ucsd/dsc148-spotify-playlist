@@ -1,13 +1,33 @@
 {
-  "description": "Shawty lo que necesitas es darle flow. Bad Gyal, Young Miko y Tokischa en Portada. ",
-  "num_followers": 556858,
+  "description": "Shawty lo que necesitas es darle flow. Feid portada. ",
+  "num_followers": 557076,
   "original_name": "Dale Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQ3YzA2NGU4OGYzNjk0MjA4Yzk1MzQzYTQ0YWI2YWJhMzY1NTA2",
+  "snapshot_id": "MCw4ZDc3NjBmZTIyMDU2N2RjZjk5NDdiMzk0YWFjZTMzOGU4OTg0MmQw",
   "tracks": [
+    {
+      "added_at": "2023-08-08 17:19:37",
+      "album": {
+        "name": "Classy 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Classy 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+    },
     {
       "added_at": "2023-08-08 17:19:37",
       "album": {
@@ -157,6 +177,26 @@
       "url": "https://open.spotify.com/track/5DLK0uvYApI5xiRQTAZwJz"
     },
     {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Divi\u00e9rtete",
+        "url": "https://open.spotify.com/album/39z6PNTj66HNLXdJyN0Iwf"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Divi\u00e9rtete",
+      "url": "https://open.spotify.com/track/3jcLh0Si6MU4yOQ7kk7AAy"
+    },
+    {
       "added_at": "2023-08-08 17:19:37",
       "album": {
         "name": "T\u00e1 OK (Remix)",
@@ -203,6 +243,26 @@
       "duration_ms": 180521,
       "name": "EL RELOJ (con Maluma)",
       "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "LLAME PA' VERTE (feat. Wisin)",
+        "url": "https://open.spotify.com/album/1sRGzLtFGN7Z3Opujc9NdV"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 207100,
+      "name": "LLAME PA' VERTE (feat. Wisin)",
+      "url": "https://open.spotify.com/track/1RjifKIUX8faZv9nxR0t5f"
     },
     {
       "added_at": "2023-08-08 17:19:37",
@@ -863,26 +923,6 @@
       "duration_ms": 168000,
       "name": "BEACHY",
       "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
-    },
-    {
-      "added_at": "2023-08-08 17:19:37",
-      "album": {
-        "name": "Classy 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Classy 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2023-08-08 17:19:37",

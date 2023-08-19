@@ -2414,10 +2414,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 193886,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/3HRpldxycaV9vJpNjSgoUb"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/42QqNvcbYw5sGS3ieHrner"
+      },
+      "artists": [
+        {
+          "name": "Bibao",
+          "url": "https://open.spotify.com/artist/3qbfPofRrhxm6jnbacynct"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194443,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/1tPzWQoTAjIrRk2S0G3QbN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa8n42306eJB"

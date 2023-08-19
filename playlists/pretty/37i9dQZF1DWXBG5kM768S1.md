@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,084 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,123 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 |
 | 50 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 |
 
-Snapshot ID: `MCw3ZTYxNjUwZTBiMTA1NjcyZmQ2NDZkOWI5MTVmM2VlOTQzYjc1MGVm`
+Snapshot ID: `MCxlMjhlY2ZiZThmYjIxYzFjMTFmZTY5ZjA3NjU5Zjk4NmJiZWFmODk4`

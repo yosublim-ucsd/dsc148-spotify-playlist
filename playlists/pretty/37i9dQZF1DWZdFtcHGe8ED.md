@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,043 likes - 120 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,175 likes - 120 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 |
 | 120 | [Morgöth Tales](https://open.spotify.com/track/16VlzY5QqBBbJNTDsfrCQK) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Morgöth Tales](https://open.spotify.com/album/2341CvwtFQJyPRB4ytPUgQ) | 4:57 |
 
-Snapshot ID: `MCwzMWRiYTBiMzc1NDc5NWNjNDMzODEwODBkNTA0OWMxZTNiMzM1ZjM5`
+Snapshot ID: `MCw1OWU0N2NlOTExNzVlNjg4ZGQwNmQxZGNjYzU2OTRlY2VjNzQ3YmU5`

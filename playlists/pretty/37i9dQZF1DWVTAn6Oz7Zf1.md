@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > In cerca di energie? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,201 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,208 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Waves of Blue](https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 3:28 |
 | 80 | [Never Love You Again](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 |
 
-Snapshot ID: `MCw3ODEzNmI3YmYzYzZjMDgxNjE5MjA5YWIyMjA4NjFiYjE1NjMzZjRi`
+Snapshot ID: `MCw4YTdlYTZmYmQwZDUzZTI5YmE5NmRlMjFlMGViYjM3OTNkZGM1ODlj`

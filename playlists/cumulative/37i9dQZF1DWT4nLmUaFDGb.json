@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192173,
       "name": "(Getting Some) Fun out of Life",
       "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 223400,
       "name": "Ain't Misbehavin'",
       "url": "https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 295298,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5zYb6Z1d2dUhpLBoC3NAp4"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 223866,
       "name": "Close to You - 2018 Remaster",
       "url": "https://open.spotify.com/track/6uQ6RYJ0Brt4laZCLF9gKC"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 186251,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 233160,
       "name": "Dream a Little Dream",
       "url": "https://open.spotify.com/track/7zaiLgzejyT5M7fTsmqZ18"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 288693,
       "name": "From Paris With Love - Single Version",
       "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 272768,
       "name": "Hilltop",
       "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Weeks",
+          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250745,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "album": {
         "name": "Just A Little Lovin'",
         "url": "https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "I Try",
       "url": "https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z"
@@ -2321,6 +2339,32 @@
     },
     {
       "album": {
+        "name": "Lean in (feat. Mark Guiliana)",
+        "url": "https://open.spotify.com/album/2pgv9J0OJgHvEsoDJVtbuQ"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Mark Guiliana",
+          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289093,
+      "name": "Lean in (feat. Mark Guiliana)",
+      "url": "https://open.spotify.com/track/4g5f4u4PZGSFYbzStVmmBZ"
+    },
+    {
+      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2340,7 +2384,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 249541,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
@@ -2358,7 +2402,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 246672,
       "name": "Little Jazz Bird",
       "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
@@ -2478,7 +2522,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 183480,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/4hPTnzenfZExO1hKV3hVeA"
@@ -2620,7 +2664,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 227346,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
@@ -2696,7 +2740,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 291509,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk"
@@ -2736,7 +2780,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 243373,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo"
@@ -2754,7 +2798,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 127400,
       "name": "My Funny Valentine (For Oskar and Eli)",
       "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
@@ -2888,7 +2932,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 187306,
       "name": "One Flight Down",
       "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
@@ -3040,7 +3084,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 105721,
       "name": "Red",
       "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
@@ -3214,7 +3258,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 237813,
       "name": "Smile",
       "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
@@ -3392,7 +3436,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 161271,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
@@ -3428,7 +3472,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 272990,
       "name": "Sunset In The Blue",
       "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
@@ -3592,7 +3636,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 207800,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1"
@@ -3859,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -3978,7 +4040,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 237800,
       "name": "To Love You All Over Again",
       "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
@@ -4278,7 +4340,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 261360,
       "name": "Worrisome Heart",
       "url": "https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0"
@@ -4420,7 +4482,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 162720,
       "name": "Your Heart Is As Black As Night",
       "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"

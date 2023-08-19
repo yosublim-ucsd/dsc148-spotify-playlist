@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,578 likes - 150 songs - 12 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,575 likes - 150 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Glory & Grace](https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Valley of the Shadow](https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv) | 4:16 |
 | 150 | [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 |
 
-Snapshot ID: `MCw3YjExNWU5NGRmYTMwODlhOGExZjE4OGMyNGNjOWRiMWFkODBlOTQw`
+Snapshot ID: `MCw5ZGQzM2RmNGNiMmNkMmM4NjhkNDg0NTQ5MjYzMWRmZmI2YmFjZTk0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,901 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,922 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 23 | [Magnetic](https://open.spotify.com/track/3JaBG5X1iieFQZXn7grPIE) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:20 |
 | 24 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 | 25 | [Demuro](https://open.spotify.com/track/2bdEcnDEjtXZGB8zEEfw1d) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 5:01 |
-| 26 | [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 |
+| 26 | [Für Nimmer](https://open.spotify.com/track/6CX4j7F3kjIWzwgNUhIril) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:19 |
 | 27 | [Padou Mixe](https://open.spotify.com/track/5Xff7MlZW0esLpEY2fMaYa) | [DJ FINALE](https://open.spotify.com/artist/37v0trfqvdi3WaXz5NrDCG) | [Mille Morceau](https://open.spotify.com/album/3xWikhk2zcQcF7YgUYGHqH) | 4:17 |
 | 28 | [Like Water to a Fish](https://open.spotify.com/track/13alc6khcutHaob7Kjxh8O) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Like Water](https://open.spotify.com/album/6nhLk0DfxA67VbT4c07U6F) | 4:39 |
 | 29 | [My First Rodeo](https://open.spotify.com/track/6CSqB6NSqPUCIne6BGBHT3) | [Ben Pest](https://open.spotify.com/artist/6J26kEm6dPwtwaBAVhPTB2) | [Cancel Couture](https://open.spotify.com/album/4b10VqjJiWlzz1UVIBMx4y) | 5:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 49 | [Dawn](https://open.spotify.com/track/4aDMnJPvZ7HkO7i4ipmGIs) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 4:32 |
 | 50 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 
-Snapshot ID: `MCxmMDcwNDNhYjNhMWFhNzBmNzBkZDU0MjdkOGRlNWE4ZDFkN2YzYTcz`
+Snapshot ID: `MCxkMDcwZDk0NmNiMjVjYjU0ODA4YTRkMTUyMmE5NTc0Y2UyMzcwYjIx`

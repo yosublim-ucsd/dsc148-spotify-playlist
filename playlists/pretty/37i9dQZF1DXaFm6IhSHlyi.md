@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,581 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,619 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 150 | [Tum Jaisi Ho](https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Tum Jaisi Ho](https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk) | 2:25 |
 
-Snapshot ID: `MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5`
+Snapshot ID: `MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,649 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,939 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 | 150 | [Woke Up In Love](https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Super Hits](https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ) | 3:06 |
 
-Snapshot ID: `MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy`
+Snapshot ID: `MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm`

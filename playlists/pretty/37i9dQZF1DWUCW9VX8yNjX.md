@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,986 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,990 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [Estos Celos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:09 |
 | 100 | [Hasta En Mis Huesos](https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:04 |
 
-Snapshot ID: `MCw0ZTEyNTk0Nzk3MTVjNWVlOWJjYjBmNjA2YjEwMDk1OGYxYWNjNGEz`
+Snapshot ID: `MCw2MjM4NTA5MDUxMTMzMDY0MTk0NzJiMzA3NzE2YzRhMzU2ODVjNmUx`

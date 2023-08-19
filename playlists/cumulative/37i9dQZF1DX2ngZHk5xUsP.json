@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Anggap Mati",
+        "url": "https://open.spotify.com/album/1mtEQWTzo70kld64xuTqYh"
+      },
+      "artists": [
+        {
+          "name": "Rocket Rockers",
+          "url": "https://open.spotify.com/artist/3k7qB8d47YeYcHlrqaLM4U"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227862,
+      "name": "Anggap Mati",
+      "url": "https://open.spotify.com/track/1D6BoZAoB37IZE48RAJ4XZ"
+    },
+    {
+      "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7"
       },

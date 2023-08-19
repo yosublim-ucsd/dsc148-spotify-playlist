@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: berlioz",
-  "num_followers": 561561,
+  "num_followers": 561640,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODdiNGU4ZTUyZjUwMDI2NWJlYmUzZTYzYWYxMzcxYzQ2ZmY2MDM1",
+  "snapshot_id": "MCxiYzQyY2UxNjA0ZmI5OTNkZmNmZWNmMTQzOTEzMDcwNzQ3YzBjNDU2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -81,24 +81,24 @@
       "url": "https://open.spotify.com/track/33pCdzo9Oq4JsWSlLssSuX"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
+      "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Ikigai (Button Masher Remix)",
-        "url": "https://open.spotify.com/album/4WN6CHJnj9gwqc1b3mrrjs"
+        "name": "Poinciana",
+        "url": "https://open.spotify.com/album/3jhP1nDCfh0WXw9gl6xfid"
       },
       "artists": [
         {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
           "name": "Button Masher",
           "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
         }
       ],
-      "duration_ms": 209520,
-      "name": "Ikigai (Button Masher Remix)",
-      "url": "https://open.spotify.com/track/7LbutmBpydWn3yhOQTWRv2"
+      "duration_ms": 129287,
+      "name": "Poinciana",
+      "url": "https://open.spotify.com/track/10nK5qZb1cJaJBs3fGDQ2J"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -171,6 +171,26 @@
       "duration_ms": 152000,
       "name": "Figures",
       "url": "https://open.spotify.com/track/6Rh95LODQfId7hlJcheddl"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Ikigai (Button Masher Remix)",
+        "url": "https://open.spotify.com/album/4WN6CHJnj9gwqc1b3mrrjs"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Button Masher",
+          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "Ikigai (Button Masher Remix)",
+      "url": "https://open.spotify.com/track/7LbutmBpydWn3yhOQTWRv2"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -2319,46 +2339,6 @@
       "duration_ms": 213333,
       "name": "Stuck Inside",
       "url": "https://open.spotify.com/track/4CVqjyE6YMhKaTHccyCxXD"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Cryogen",
-        "url": "https://open.spotify.com/album/7HCgZIwVVZn7AQvslT5Wq9"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Jonathan Berroa",
-          "url": "https://open.spotify.com/artist/034NSOjlm8ldyogY85O7v0"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Noah Wise",
-          "url": "https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb"
-        },
-        {
-          "name": "Jean-loup Siaut",
-          "url": "https://open.spotify.com/artist/7kQ6pzESf0Nv5XELxoHyjn"
-        }
-      ],
-      "duration_ms": 202632,
-      "name": "Cryogen",
-      "url": "https://open.spotify.com/track/0UwQljCILorlIvAh4KqOzd"
     },
     {
       "added_at": "2022-04-01 04:02:00",

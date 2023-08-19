@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,915 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,979 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Into The Purple Valley](https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk) | 3:56 |
 | 150 | [The Killing Fields](https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Leventhal](https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH) | [The Killing Fields](https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS) | 4:23 |
 
-Snapshot ID: `MCwyZTliMzBlMTFjMDhkZTFiNjNhZDRiYjgyNjNhMDg5NDkzY2IyYjZh`
+Snapshot ID: `MCwzM2ZhOGM4Y2I2MzNjZjdkYWFlZjlhZThiMzQ4MjI2Mjc1MzZjM2Uw`

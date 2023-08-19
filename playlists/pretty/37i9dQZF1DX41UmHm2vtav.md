@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,517 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,838 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \(Overdriver Duo e Guz Zanotto Remix\)](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
 | 70 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 
-Snapshot ID: `MCwxMjI1NWI1MTA0MzRlOTI4MDc2ZTVjYzk2MTIyMTAwZmIwMDllZTg2`
+Snapshot ID: `MCw2NDE3Y2Q0YzJhY2FkZWE4YWQyNDhkMjE1ZmRmNTBiOTVjNGZlNWYy`

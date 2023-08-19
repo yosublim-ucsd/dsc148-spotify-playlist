@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Genesis Owusu
 
-1,699 songs - 4 day 5 hr 6 min
+1,700 songs - 4 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1518,7 +1518,8 @@
 | [This Is Gonna Hurt](https://open.spotify.com/track/5gDFQs6TYDevsUq7lDN0Fp) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [This Is Gonna Hurt](https://open.spotify.com/album/1Yq4EvMi1stQzlNAOR2oDB) | 3:31 | 2023-03-24 | 2023-04-21 |
 | [This Is the Hit](https://open.spotify.com/track/3QzRsHj6ziJOfKuRnMzuCT) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD), [Charlie Steen](https://open.spotify.com/artist/0L5RHAnXT2U8GNyejrsiZy) | [This Is the Hit](https://open.spotify.com/album/4UIdz9VuswpDk5a6kZomLj) | 3:24 | 2021-04-09 | 2021-07-02 |
 | [This Is What They Meant](https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [This Is What They Meant](https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq) | 2:54 | 2022-10-20 | 2022-11-25 |
-| [This Time](https://open.spotify.com/track/79ob9RdP6xf1MmdIxW9jSt) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [This Time](https://open.spotify.com/album/1FP5BG78Zrej8cyry5DZ2w) | 3:50 | 2023-08-17 |  |
+| [This Time](https://open.spotify.com/track/46YmYCaARrMr58NyRpyllG) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [We Were We Still Are](https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9) | 3:50 | 2023-08-17 |  |
+| [This Time](https://open.spotify.com/track/79ob9RdP6xf1MmdIxW9jSt) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [This Time](https://open.spotify.com/album/1FP5BG78Zrej8cyry5DZ2w) | 3:50 | 2023-08-17 | 2023-08-19 |
 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 | 2023-03-03 | 2023-05-26 |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-18 | 2022-09-23 |
 | [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/track/5s0R5zybi2MKaJxf0og3hM) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?](https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI) | 3:24 | 2021-10-22 | 2021-11-12 |
@@ -1669,7 +1670,7 @@
 | [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 | 2023-04-13 | 2023-05-26 |
 | [World Is Falling Apart \- this version](https://open.spotify.com/track/3D6V0AOJB2gtsFMqI5HVxK) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [World Is Falling Apart \(this version\)](https://open.spotify.com/album/3EPwyZSBMohV9VwB3LicMb) | 3:17 | 2020-09-29\* | 2020-10-09 |
 | [World League](https://open.spotify.com/track/4GwRKCpdZwn2dM9AXG2mJj) | [Ama Jones](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [VS EVERYTHING](https://open.spotify.com/album/1W4JVfdGUDVTmpzkL8ywtb) | 2:39 | 2021-01-29 | 2021-03-26 |
-| [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:34 | 2023-08-17 |  |
+| [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 | 2023-08-17 |  |
 | [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 | 2023-06-29 | 2023-07-28 |
 | [Wretched](https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wretched](https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS) | 3:49 | 2022-06-16 | 2022-07-22 |
 | [X](https://open.spotify.com/track/6XqMJdvjFHXFUSAC0rKnx5) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [X](https://open.spotify.com/album/3Fxh8qoA4uDk7Lr13g13hR) | 3:29 | 2021-04-02 | 2021-05-21 |

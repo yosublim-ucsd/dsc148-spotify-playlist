@@ -2463,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Vexed",
+        "url": "https://open.spotify.com/album/090RrN1MNhYqO6DWsFOwxT"
+      },
+      "artists": [
+        {
+          "name": "Lofive",
+          "url": "https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/1lBhMsLkgsaVQTsaoE8GEd"
+    },
+    {
+      "album": {
         "name": "We Are the Stars",
         "url": "https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl"
       },

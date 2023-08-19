@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,372 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,499 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 |
 | 100 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
 
-Snapshot ID: `MCw4NGU5ODU5YTgzYTMwNTg5YzhhYjc1M2ZhMzllOTg3ZWY5ZjJjNGM5`
+Snapshot ID: `MCw3MTMzMWMxZTIwNjU2ODg2NTBmZDdmYjBiZWQ0N2NkOWViYjhjNTgz`

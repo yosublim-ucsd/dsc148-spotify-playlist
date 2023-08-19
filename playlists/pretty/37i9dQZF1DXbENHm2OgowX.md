@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,818 likes - 69 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,321 likes - 69 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 56 | [If I Let Him In](https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 8:25 |
 | 57 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
 | 58 | [haunted \(florence slowed version\)](https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted \(remixes\)](https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX) | 2:33 |
-| 59 | [Lie Beneath the Stars](https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj) | 6:29 |
-| 60 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 |
+| 59 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 |
+| 60 | [Lie Beneath the Stars](https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj) | 6:29 |
 | 61 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
 | 62 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 | 63 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 68 | [As I Came Through the Desert Thus It Was](https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Permanently Midnight](https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b) | 5:15 |
 | 69 | [Safn](https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 1:10 |
 
-Snapshot ID: `MCxjYjUzMmEyYWQ4MWUwMGY1YWE4M2Q4MWM3NGE4NGE3ZGM0MzIxN2Fm`
+Snapshot ID: `MCw3MzU3MWFlMWFhMzAxMzU1MDVkYTQyY2MxYmNhNWUyYWEyNjMzMTNi`

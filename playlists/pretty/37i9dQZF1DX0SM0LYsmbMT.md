@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,164,460 likes - 300 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,164,680 likes - 300 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [passing time](https://open.spotify.com/track/6pihccbp1TI8ftFug9kmeu) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [late night train](https://open.spotify.com/album/2NYGLoNdmQko2jT0StlGKm) | 2:24 |
 | 300 | [Sunset Promenade](https://open.spotify.com/track/6EV015d0I7TXdKuG6GAEBb) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sunset Promenade](https://open.spotify.com/album/5NzsdSwZEqx9cg6DGCcGHR) | 2:16 |
 
-Snapshot ID: `MCxjMmRjZjg5ZjI1NTYyMTAzNzVlY2MxNWRlYjgwYWRmZDEzYjliMTY2`
+Snapshot ID: `MCw5NTM5ZTc1YjdkOTQ5ZDcyMzE1NDQ4NjU1NDY5MTM3MmFhMTdjNzQ4`

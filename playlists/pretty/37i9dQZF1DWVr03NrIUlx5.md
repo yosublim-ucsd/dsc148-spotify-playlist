@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,232 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,299 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Supermassive Black Hole](https://open.spotify.com/track/7pT9u99sbT08043fPd6056) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Muse](https://open.spotify.com/album/5BAn2FOuJGILpS4B8xDY9y) | 3:34 |
 | 100 | [Karma Police](https://open.spotify.com/track/6IVwzEF3ytrgYnqouyrM1J) | [Chiptune Radio](https://open.spotify.com/artist/6HWfXh9ErTOP7mSk7kxnf0) | [8\-bit tribute to Radiohead](https://open.spotify.com/album/4YOSf0d5MqF0JNBvH2MY5v) | 4:44 |
 
-Snapshot ID: `MCw5ZTJjODRhMjIwNDJmMmM1ZGRjY2EyNTI1ZmNmZmE1ODNhYTBkZWQw`
+Snapshot ID: `MCwyNGRjYTIwZDk1YTg1NjRjNzcwOWUzMzFiZjgzMTIwMzliMjEyYzg3`

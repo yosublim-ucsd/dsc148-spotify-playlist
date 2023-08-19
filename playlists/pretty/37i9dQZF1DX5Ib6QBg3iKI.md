@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,653 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,650 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/076YZeSsRS01JRYazQplIj) | 3:55 |
 | 80 | [In the Bleak Midwinter](https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [In the Bleak Midwinter](https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK) | 3:23 |
 
-Snapshot ID: `MCxjNTgwMDdlMWZiODA3OWZhYTYyYzYxNWU5NzQzNTY0NGIyMjM2ZTgy`
+Snapshot ID: `MCxlZjJjYmVlYjJjMTM0NWYzNWQ1YTgxZmI4MTY5MTQ2N2U1ODJkYzg0`

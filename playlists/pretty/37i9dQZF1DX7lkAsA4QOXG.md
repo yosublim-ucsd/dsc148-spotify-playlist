@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,126 likes - 150 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,231 likes - 150 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 149 | [Something](https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [Something](https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI) | 2:48 |
 | 150 | [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 |
 
-Snapshot ID: `MCxmMWIyOTc4MzVlMGJhZTQ3ZGM3NDdmNzdiMjg1ZGE5MWE0MmRmYzFm`
+Snapshot ID: `MCwwZWYwZDVmNWYxYzY5OTExOTM4NTZkMzBmZDZiZGM1NDNlZjUzZDBk`

@@ -2,9 +2,9 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: SDM
+> Le rap francophone est en forme\. Photo: Gambi
 
-88 songs - 4 hr 37 min
+90 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,12 @@
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-07 |  |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/1vhGzynTAXJ0MD0gkXPxzX) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BODIES \(feat\. Damso\)](https://open.spotify.com/album/61G5Kmh73wP41ZN0sBdlBB) | 2:46 | 2023-03-03 | 2023-05-20 |
 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-06-30 |  |
+| [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 | 2023-08-18 |  |
 | [C'est carré le S](https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est carré le S](https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y) | 3:21 | 2023-05-05 |  |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2023-03-03 | 2023-06-24 |
 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 | 2023-03-03 | 2023-07-29 |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2023-03-03 |  |
-| [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2023-03-03 |  |
+| [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2023-03-03 | 2023-08-19 |
 | [Ciao](https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ciao](https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv) | 3:36 | 2023-03-17 |  |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-23 |  |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-24 | 2023-06-29 |
@@ -62,6 +63,7 @@
 | [Metaverse](https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Metaverse](https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7) | 3:13 | 2023-03-03 |  |
 | [Meuda](https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:32 | 2023-03-03 | 2023-07-29 |
 | [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-11 |  |
+| [MONNAIE](https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1) | [MONNAIE](https://open.spotify.com/album/6ARWG8BntraLXVsELp9JkI) | 2:32 | 2023-08-18 |  |
 | [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2023-03-03 | 2023-07-01 |
 | [Mérité](https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Mérité](https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk) | 2:42 | 2023-03-03 |  |
 | [Même pas un grincement](https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Même pas un grincement](https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O) | 3:45 | 2023-03-03 | 2023-08-12 |
@@ -78,7 +80,7 @@
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 | 2023-03-03 |  |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2023-03-03 | 2023-05-06 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2023-03-03 | 2023-03-11 |
-| [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 |  |
+| [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-08-19 |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-03-03 |  |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-08-11 |  |
 | [Sans nuances](https://open.spotify.com/track/4waXynr0ZvdD98abYYFmiY) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [Mercure](https://open.spotify.com/album/6yE3LYJwJSITg7u8uD5u1F) | 2:50 | 2023-06-02 |  |

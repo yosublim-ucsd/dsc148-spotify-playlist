@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,664 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,713 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 73 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 |
 | 74 | [Touch Me](https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Touch Me](https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR) | 2:44 |
 | 75 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 |
+| 76 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 |
+| 77 | [buss it.](https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:10 |
+| 78 | [Slim Shady](https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Sublime Tech House, Vol\. 20](https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk) | 2:56 |
+| 79 | [Memories \(feat\. Mr Hudson\) \- Boston Bun Remix](https://open.spotify.com/track/24waGaE8EKJy7Airu3CpyS) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN), [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Memories \(feat\. Mr Hudson\) \[Boston Bun Remix\]](https://open.spotify.com/album/3uVnzumhIlniLHtcUY9bAz) | 4:13 |
+| 80 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 |
+| 81 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
+| 82 | [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 |
+| 83 | [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 |
+| 84 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 |
+| 85 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
+| 86 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 |
+| 87 | [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 |
+| 88 | [Whensday](https://open.spotify.com/track/5hMN4LswnajnvL18diECH4) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Whensday](https://open.spotify.com/album/1nPHoTAtmZEryYYjBXcsc4) | 6:01 |
+| 89 | [Another Chance](https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 7:00 |
+| 90 | [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 |
+| 91 | [TRiiiBAILE](https://open.spotify.com/track/6hdJvYTJ27MdcsDSE2XaVv) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiiiBAILE](https://open.spotify.com/album/7imJNCJSuQwx37G2mTQFEE) | 5:32 |
+| 92 | [Baby](https://open.spotify.com/track/5EGiYetIEeGwyxdgGq4cGA) | [Mason Talbot](https://open.spotify.com/artist/0impnXOKSt86UnIYtZ1hFA) | [Baby](https://open.spotify.com/album/0USWj9LRRuyoI7Ph9WvLIJ) | 3:30 |
+| 93 | [Pin Pan](https://open.spotify.com/track/2tWPVMfQH0AvZBu5VMpXf9) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Matta \(COL\)](https://open.spotify.com/artist/5HmfPodhYUR4Js09zzeg2Z), [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg) | [Pin Pan](https://open.spotify.com/album/7cY7EHWnbjDcphrqnMPF2k) | 3:37 |
+| 94 | [Porompompom](https://open.spotify.com/track/7CNtkmRjPUXyGfAleRmkvk) | [Freenzy Music](https://open.spotify.com/artist/70BgO4a6LVEzYiAgxubE3q), [Jack Baron](https://open.spotify.com/artist/4pxQgjDzsZiSnSjdxdYPK9) | [Porompompom](https://open.spotify.com/album/390gLCD73Jet1l6mrZsrZW) | 4:27 |
+| 95 | [Odile](https://open.spotify.com/track/3SVs5qlrL4O3NYw1Q0SnQb) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [Odile](https://open.spotify.com/album/3IRZJuTdFUjoswKXpTfaAC) | 3:17 |
+| 96 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 |
+| 97 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 |
+| 98 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 |
+| 99 | [Memories](https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Memories](https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO) | 7:17 |
+| 100 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
 
-Snapshot ID: `MCxmNDI1OTcyYWE4YjI3Zjk5NmZjMGQwN2FiZmVhZWZhZTEyMGIyY2Jm`
+Snapshot ID: `MCwwZjEyYTUyODZlMDQyYWNjZGUyNmYzZmMxODc2NzVkODQ0NjNhZjBk`

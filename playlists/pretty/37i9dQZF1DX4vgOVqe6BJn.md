@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,836 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,038 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 35 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
 | 36 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |
 | 37 | [Otomo](https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 6:11 |
-| 38 | [All The Highs](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 |
+| 38 | [ALL THE HIGHS](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [ALL THE HIGHS](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 |
 | 39 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
 | 40 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 |
 | 41 | [a\-okay](https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [a\-okay](https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK) | 3:40 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [The Reapers](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [The Reapers](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
 | 104 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 
-Snapshot ID: `MCwwOGViYjBjYmM0NWVmNGEyNzczMGE4Y2E5ODVjMzJmZDBkNDc2Nzg3`
+Snapshot ID: `MCwwMWU4YWJlYTc1Yjg1MThjZGQxOTg3MmE5NzYwZDU1MDEyYWQ2ZjU2`

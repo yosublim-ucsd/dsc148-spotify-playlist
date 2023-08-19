@@ -428,7 +428,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 224978,
       "name": "All I Want (feat. Goatchy)",
       "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 181209,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 457036,
       "name": "Invisible - Paul Kalkbrenner Remix",
       "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
@@ -4282,7 +4282,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
@@ -5350,7 +5350,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 198387,
       "name": "Power",
       "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
@@ -7046,6 +7046,28 @@
       "duration_ms": 213495,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
+    },
+    {
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213495,
+      "name": "The Sign (with CamelPhat)",
+      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
     },
     {
       "album": {

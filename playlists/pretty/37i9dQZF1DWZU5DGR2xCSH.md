@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos con Fito Paez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,185 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,351 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 79 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 |
 | 80 | [Alta suciedad](https://open.spotify.com/track/55XrKecG9mBBLI3PL3KzXU) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:27 |
 
-Snapshot ID: `MCwyMWQ0Mjk3YjNhZTI4MTQzYzBhNWU1YjkyNjE5ZTIwZjQ3NzE4ZmEz`
+Snapshot ID: `MCxhODJmYTkxYTk4MDk4YTU5MWU3OWE2ODQ0ZmRlNWUyYmE5NTc0ODU0`

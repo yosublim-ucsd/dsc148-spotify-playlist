@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-728 songs - 1 day 17 hr 34 min
+730 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2021-06-02 |  |
 | [Glossy](https://open.spotify.com/track/2OgaU9No7zapiI2AbUbPej) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Glossy](https://open.spotify.com/album/2EMOjkmqb8WcLWn39fkCd5) | 2:48 | 2021-04-15 | 2023-01-20 |
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2020-12-24 | 2022-06-10 |
+| [Going Sideways](https://open.spotify.com/track/2baKBjvzifwHJeONXTFfC4) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Going Sideways](https://open.spotify.com/album/02NdcU8RpvS34X61yawpBa) | 2:52 | 2023-08-18 |  |
 | [Golden Days](https://open.spotify.com/track/7d6FuHugP8dbJMlSVWio21) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Slow Move](https://open.spotify.com/album/4JAuTO8DEM0lpm9pSczYlb) | 3:52 | 2020-04-03\* | 2020-10-16 |
 | [Golden Delicious](https://open.spotify.com/track/33RYuJmDC6YR34O6ALA7st) | [Roy LT](https://open.spotify.com/artist/2nDvbGfbug3iV8TuyIqs4A) | [Golden Delicious](https://open.spotify.com/album/4o9cmtyIfE14I5DdLZtg1i) | 2:29 | 2021-04-15 | 2022-01-22 |
 | [Good Rising](https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:25 | 2021-04-15 | 2021-04-21 |
@@ -372,6 +373,7 @@
 | [Look Who Was Here](https://open.spotify.com/track/1e82eeTd5saBytIIC1rQXO) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Look Who Was Here](https://open.spotify.com/album/2N8U54PjbL9J5RFbZ7pFCp) | 3:19 | 2023-01-06 |  |
 | [Lost In Space](https://open.spotify.com/track/6xUE9l0MaDYW4NrL8fuL40) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Lost In Space](https://open.spotify.com/album/5nxDCvzrUHYfqLPWZbPnYN) | 3:38 | 2022-09-02 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-10 | 2022-06-24 |
+| [love and happiness](https://open.spotify.com/track/63viVwH3uWyzfoONtYltlh) | [Willjamjam](https://open.spotify.com/artist/1X1XSC1FZiz1UWKcVOVQps) | [love and happiness](https://open.spotify.com/album/7pOfg85mZnZ8mpfjLnIgqy) | 3:28 | 2023-08-18 |  |
 | [Love Recycled 1](https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Love Recycled EP](https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6) | 7:29 | 2021-01-27 | 2021-02-10 |
 | [lowfie](https://open.spotify.com/track/3u3osPhHe6pRdqwkxFktf1) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [lowfie](https://open.spotify.com/album/3HW3ITcip0DBM5Kr6Djc4i) | 2:19 | 2023-04-07 |  |
 | [Lunar Lullaby \(mr\_slace Remix\)](https://open.spotify.com/track/3wsc7ZbIdpLrGiY62Kpvs7) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo), [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [Lunar Lullaby \(mr\_slace Remix\)](https://open.spotify.com/album/3l7unGPT6PYXB0mbjf7g0C) | 3:02 | 2020-04-03\* | 2020-12-02 |

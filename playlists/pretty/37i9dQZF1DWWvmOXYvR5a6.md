@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Leellamarz\(릴러말즈\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,574 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,705 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 |
 | 100 | [Dessert shop \(Feat\. h3hyeon\)](https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 2:52 |
 
-Snapshot ID: `MCxmMWY0ZjIzYjEyZDM4ZmQxYjMyYzA5NWU4MGJjM2NjZDcyZjJiMTVj`
+Snapshot ID: `MCxiN2Y5MTI5MjE5YTM1ZmVkMWUzZDYzN2MwNTQ5YWVjZTM0MjcwZTNj`

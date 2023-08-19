@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,492 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,490 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [El Lechon Se Coge](https://open.spotify.com/track/3GM1LSfCOvBEv91v1V9t7h) | [Ismael Quiles](https://open.spotify.com/artist/7c1VoHAdMXX4eww8lPfcTu) | [El Lechon Se Coge](https://open.spotify.com/album/7KFONzS15RNWQGoPtr9hih) | 2:24 |
 | 100 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 |
 
-Snapshot ID: `MCxjYWQ3NTQ4YjgzYmE1MzllYzc2MDBkNjc3OTQyM2VmODRjZmVkM2Y1`
+Snapshot ID: `MCw1ODc0ZTVkNTJkN2YxOWYxMmI4YTQ3MzBkNmViZTllYTBiODk0Nzc5`

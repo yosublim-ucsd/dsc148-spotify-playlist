@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doechii
 
-379 songs - 17 hr 10 min
+380 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-28 | 2023-03-25 |
 | [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-24 | 2023-04-09 |
 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 | 2023-03-17 | 2023-06-10 |
+| [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-18 |  |
 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-04-28 |  |
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2022-10-29 |
 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-03 |  |
@@ -327,7 +328,7 @@
 | [Snatched \(with Flo Milli & Saucy Santana\) \- Remix](https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Snatched \(Remix\)](https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG) | 2:39 | 2022-08-05 | 2023-05-13 |
 | [Sneaky Link Shemix](https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Shemix](https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb) | 1:38 | 2022-02-04 | 2022-07-23 |
 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/4CZYU36tRUXVWKqd0Xtidm) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [So Be It \(with Summer Walker\) \[Remix\]](https://open.spotify.com/album/7a6axBirYuebMEsOtmKVWy) | 3:13 | 2023-03-17 | 2023-03-25 |
-| [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 |  |
+| [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 | 2023-08-19 |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2021-11-05 | 2022-03-18 |
 | [Spring, Summer](https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Spring, Summer](https://open.spotify.com/album/5iG6E2PsabzkSgDrLA0oDF) | 2:46 | 2022-06-10 | 2022-09-03 |
 | [Standards](https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Standards](https://open.spotify.com/album/77CuQ0NcdI8FfqPnGPlvDt) | 2:55 | 2022-03-11 | 2022-07-16 |

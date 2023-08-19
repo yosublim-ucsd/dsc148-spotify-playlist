@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today\. Cover: Zach Seabaugh
+> The best in folk & acoustic today\. Cover: Hozier
 
-429 songs - 1 day 2 hr 37 min
+430 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2022-10-28 | 2023-01-14 |
 | [Still Trying](https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:09 | 2022-01-14 | 2022-01-22 |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-12-10 | 2022-01-29 |
+| [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-18 |  |
 | [Sunday Drive](https://open.spotify.com/track/7h5aMCjigDY5Swa5OroljV) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sunday Drive](https://open.spotify.com/album/3SoYuufmYmFFejuIYi5a3d) | 3:42 | 2021-12-10 | 2022-02-19 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-14 |  |
 | [Sweet Home](https://open.spotify.com/track/2fnoVSzvOqstrEIzJ9F0Mh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx) | 4:08 | 2022-02-18 | 2022-05-20 |
@@ -379,7 +380,7 @@
 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-05-20 | 2022-10-28 |
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-09-30 | 2023-08-05 |
 | [Thunder](https://open.spotify.com/track/1t0k03T37lLIGo3THvV0hF) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Thunder](https://open.spotify.com/album/6xgRWh88KbRnp2E3nzcCQD) | 3:38 | 2023-03-10 |  |
-| [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-08 |  |
+| [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-08 | 2023-08-19 |
 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 | 2022-04-01 | 2022-08-06 |
 | [tidal wave](https://open.spotify.com/track/3Dy2LYjKKuLxRbIg8uoEh8) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i wanna feel happy](https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn) | 4:01 | 2022-05-27 | 2022-07-30 |
 | [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2023-06-23 | 2023-08-04 |

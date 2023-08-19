@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 150000,
       "name": "famous",
       "url": "https://open.spotify.com/track/5yQHS6qpgBiNte7o22xBsX"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 159130,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/6Na5SH1jPHninkLsfn8ADB"
@@ -4350,6 +4350,36 @@
       "duration_ms": 204436,
       "name": "I Want More - Telemakus Fast-Jazz Mix",
       "url": "https://open.spotify.com/track/6m2wT9y9iX3HmkHMG4AbkP"
+    },
+    {
+      "album": {
+        "name": "I Want More (Telemakus Remixes)",
+        "url": "https://open.spotify.com/album/4YzOpqFgOr9aG1FnHLnlPd"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The James",
+          "url": "https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM"
+        },
+        {
+          "name": "Rob Milton",
+          "url": "https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        },
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229470,
+      "name": "I Want More - Telemakus Slowed-Soul Mix",
+      "url": "https://open.spotify.com/track/0VxgVJuibSVIkafZE3fXac"
     },
     {
       "album": {
@@ -4798,7 +4828,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 128335,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/6Z7lba4JYt48ztwt2bu7up"
@@ -6674,7 +6704,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 239373,
       "name": "Phoenix & Panther",
       "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
@@ -9521,6 +9551,28 @@
     },
     {
       "album": {
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153366,
+      "name": "Unfinished House",
+      "url": "https://open.spotify.com/track/076OMje4i6IaJ6n9fp1aGZ"
+    },
+    {
+      "album": {
         "name": "Galerie",
         "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
       },
@@ -9620,6 +9672,32 @@
       "duration_ms": 223584,
       "name": "Utopia Reimagined: Euphoria",
       "url": "https://open.spotify.com/track/4gwOLgAVJm5jguqWEU7rFc"
+    },
+    {
+      "album": {
+        "name": "VibeNineThree (Rework)",
+        "url": "https://open.spotify.com/album/3A41GuS8aj91qyB6kHd49s"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "Alexander Mack",
+          "url": "https://open.spotify.com/artist/5zsaFqdIEz3d7CFEZcSLyz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "VibeNineThree (Rework)",
+      "url": "https://open.spotify.com/track/3EZoiGsnVUIFC0yEUZWRMA"
     },
     {
       "album": {
@@ -10006,6 +10084,24 @@
       "duration_ms": 217135,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h"
+    },
+    {
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291972,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/7JcykXZ7KhEe5hvv1Rt7A1"
     },
     {
       "album": {

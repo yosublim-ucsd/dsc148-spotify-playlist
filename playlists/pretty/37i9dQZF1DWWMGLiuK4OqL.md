@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,076 likes - 200 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,237 likes - 200 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Black Water](https://open.spotify.com/track/4R9PjSTAMvzLxCMw2m7Hqq) | [Benjamin Koppel](https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY) | [Anna's Dollhouse](https://open.spotify.com/album/2pTZXDcFJkdfvqaUz9GcsF) | 10:16 |
 | 200 | [Day Dream](https://open.spotify.com/track/5aokUx48X4jweV7dMf5tFS) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 4:44 |
 
-Snapshot ID: `MCw4ZWVmOTA0NzI3ZWM4MzlkZjMwMThlODI2MjUyZmE4NGQxNjQyNDg0`
+Snapshot ID: `MCxjOTBlZjM1OGMyYTdhY2RhNGIxNzg2ZjRmODE3NmYzOGM2MWMwNTA4`

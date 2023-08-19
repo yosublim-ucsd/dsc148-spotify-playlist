@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,424 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,842 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,15 +84,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 74 | [A Time For Love \- Remastered](https://open.spotify.com/track/6TDHACSGU6EW26p8kYXGs6) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:06 |
 | 75 | [Angel Eyes](https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:39 |
 | 76 | [One for My Baby](https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [Meet Me Around Midnight](https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO) | 3:49 |
-| 77 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
+| 77 | [I've Got You Under My Skin](https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sings The Music Of Cole Porter](https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak) | 3:52 |
 | 78 | [That's All](https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:31 |
-| 79 | [I've Got You Under My Skin](https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sings The Music Of Cole Porter](https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak) | 3:52 |
+| 79 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
 | 80 | [Isn't It Romantic](https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:21 |
 | 81 | [I'm Glad There Is You](https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:30 |
 | 82 | [I Can't Give You Anything But Love](https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:14 |
 | 83 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
-| 84 | [Tenderly](https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [I Feel a Song Coming On: Lost Radio Recordings](https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1) | 2:47 |
-| 85 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
+| 84 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
+| 85 | [Tenderly](https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [I Feel a Song Coming On: Lost Radio Recordings](https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1) | 2:47 |
 | 86 | [My Foolish Heart](https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 3:09 |
 | 87 | [With A Song In My Heart \- 78 rpm Version](https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [A Day At The Movies](https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi) | 3:07 |
 | 88 | [Our Love Is Here To Stay](https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable Songs](https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [If You Were Mine](https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [So Warm](https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0) | 2:42 |
 | 100 | [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 |
 
-Snapshot ID: `MCw1OWNiNTQ1NjY0YTg0OWRjMzQzNzk5MGNmM2U3NjNiNDZiZjRhNDUy`
+Snapshot ID: `MCwyZDM0ZmRjZWQxNzM0ZjQyYmE2ZDdhM2Q5ZmIzNTJjNDAwMTU5YjAz`

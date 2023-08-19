@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Enji on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,412 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,473 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [vie](https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe) | [fibril](https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0) | [The Rot](https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1) | 2:02 |
 | 100 | [Alien Farmer](https://open.spotify.com/track/383StcK6uDHtzkVUFfogqf) | [alice does computer music](https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR) | [Shoegaze 5G](https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY) | 2:36 |
 
-Snapshot ID: `MCw4OGRlYTY2YjUwODBiYjEzMDFkZGI2N2IyYzI1YzcwMzRlMmFjNWRl`
+Snapshot ID: `MCwxZDAyMTE1Nzk1MWJlNzgyZjAwMjEzNDlhNTcwZjYxYTU1MTFkNzNh`

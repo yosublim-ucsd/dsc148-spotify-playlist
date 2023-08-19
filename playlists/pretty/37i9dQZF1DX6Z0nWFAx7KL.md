@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,572 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,587 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 |
 | 80 | [Anything](https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Anything](https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF) | 2:23 |
 
-Snapshot ID: `MCw3Njk3NDNhYmM3MjYwOWFhZGM0ODdmOTk5ZmEzNzZkNTk2OTdhOTEw`
+Snapshot ID: `MCxkY2Y0NmQwMWYyNzE1ZTY2ZWYwMTRmMzVjMGZlNWRhNmExMzczMDRk`

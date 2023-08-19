@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,621 likes - 65 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,681 likes - 65 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Masters of War](https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ) | 4:56 |
 | 65 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
 
-Snapshot ID: `MCw2MzUyMDIyMjJlMTY5NjIyZGZjNTE5YmNhYzE3MGQ2Y2I2MjhiZjMx`
+Snapshot ID: `MCw1NzZiYWU5ZmNiMmY0OWI0YjA4YWNkNTlhZmIxMDE0NTYyYzE4YjBj`

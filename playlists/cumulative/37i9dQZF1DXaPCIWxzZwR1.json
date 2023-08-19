@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop Cover: Jenna Raine",
+  "description": "next gen pop Cover: Madison Beer",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 195384,
       "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+    },
+    {
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V3",
+        "url": "https://open.spotify.com/album/4B1AKRB1vuuwu8JoQHwDmW"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143043,
+      "name": "0 OR 100 (SIDE A)",
+      "url": "https://open.spotify.com/track/3mj6Vpr689fQFjyXq6TInY"
     },
     {
       "album": {
@@ -189,6 +207,24 @@
     },
     {
       "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165056,
+      "name": "16",
+      "url": "https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy"
+    },
+    {
+      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj"
       },
@@ -258,6 +294,28 @@
       "duration_ms": 150222,
       "name": "1984",
       "url": "https://open.spotify.com/track/1BqhfAEw4jigpJl0O23jnS"
+    },
+    {
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
     },
     {
       "album": {
@@ -608,7 +666,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 181900,
       "name": "405",
       "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
@@ -1568,7 +1626,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168899,
       "name": "american jesus",
       "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
@@ -2514,6 +2572,24 @@
     {
       "album": {
         "name": "Barbie Doll",
+        "url": "https://open.spotify.com/album/4PHqoOCjJKy3FuFxskhDAc"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125099,
+      "name": "Barbie Doll",
+      "url": "https://open.spotify.com/track/5aKlUXjfgFUpJfWNvXH2IW"
+    },
+    {
+      "album": {
+        "name": "Barbie Doll",
         "url": "https://open.spotify.com/album/4kL9QvR5F0N2aCvdKKAyyu"
       },
       "artists": [
@@ -2706,6 +2782,24 @@
       "duration_ms": 162760,
       "name": "Becky\u2019s So Hot",
       "url": "https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD"
+    },
+    {
+      "album": {
+        "name": "beetlejuice (dead to me)",
+        "url": "https://open.spotify.com/album/6JKYIbJaSDxsnzE33TWyMv"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126253,
+      "name": "beetlejuice (dead to me)",
+      "url": "https://open.spotify.com/track/7uwGJNxwruP07ME7Z1vkVr"
     },
     {
       "album": {
@@ -2952,6 +3046,24 @@
       "duration_ms": 194000,
       "name": "Better Than Feeling Lonely",
       "url": "https://open.spotify.com/track/0n1SCmuSFEqRQxXvlxCNBy"
+    },
+    {
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "album": {
@@ -3691,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Get In Loser/Bored - A Super Over Double Feature",
+        "url": "https://open.spotify.com/album/1Xez6OzIKFRT3PcMyjOgQL"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192987,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/6RPIcksFhn8yeAQgVeRBte"
+    },
+    {
+      "album": {
         "name": "Bottled Up",
         "url": "https://open.spotify.com/album/3sSwZcy3p5NVyKT28C1AnT"
       },
@@ -4340,7 +4470,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 184615,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
@@ -5442,7 +5572,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 198841,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/0le1GJUVrJW9MuWmKIjX68"
@@ -5622,7 +5752,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 147880,
       "name": "Cool With You",
       "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
@@ -6000,10 +6130,32 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "album": {
+        "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
     },
     {
       "album": {
@@ -6360,7 +6512,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7311,6 +7463,28 @@
     },
     {
       "album": {
+        "name": "don't shop when ur hungry !! (feat. vaultboy)",
+        "url": "https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140853,
+      "name": "don\u2019t shop when ur hungry !! (feat. vaultboy)",
+      "url": "https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Trip (with GAYLE)",
         "url": "https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ"
       },
@@ -7850,7 +8024,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 203596,
       "name": "Elevated Heartbreak",
       "url": "https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D"
@@ -7934,6 +8108,24 @@
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ"
+    },
+    {
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU"
     },
     {
       "album": {
@@ -8780,7 +8972,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 223400,
       "name": "Fictional",
       "url": "https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS"
@@ -10691,6 +10883,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0duBIKlP4zoLQST8TXylPN"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172823,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1NHMyzZ9r3r7gMIHCcSebX"
+    },
+    {
+      "album": {
         "name": "Green Honda",
         "url": "https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq"
       },
@@ -12557,6 +12767,24 @@
     },
     {
       "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "I got it bad",
+      "url": "https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE"
+    },
+    {
+      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -13670,7 +13898,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
@@ -14360,7 +14588,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 185933,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS"
@@ -14710,7 +14938,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
@@ -15334,7 +15562,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 149666,
       "name": "leave me in the dark",
       "url": "https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1"
@@ -18380,7 +18608,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 160866,
       "name": "My Stupid Heart (with Lauv)",
       "url": "https://open.spotify.com/track/1SVOLTmC627fn0XY9ltvx2"
@@ -20996,6 +21224,24 @@
       "duration_ms": 163570,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5BEHrVxqvBUr4uCxkGCH52"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146234,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
     },
     {
       "album": {
@@ -23977,6 +24223,24 @@
     },
     {
       "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
+    },
+    {
+      "album": {
         "name": "Spinning (with Charli XCX & The 1975)",
         "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
@@ -25364,7 +25628,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 196679,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
@@ -25800,7 +26064,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 154866,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
@@ -26074,7 +26338,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
@@ -28566,6 +28830,28 @@
       "duration_ms": 134724,
       "name": "WET WHITE TEE SHIRT (SIDE A)",
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
+    },
+    {
+      "album": {
+        "name": "We\u2019re Not In Love Anymore (feat. Charlotte Sands)",
+        "url": "https://open.spotify.com/album/0gW6CulhLzMtnZ5wbt2AfW"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170353,
+      "name": "We\u2019re Not In Love Anymore (feat. Charlotte Sands)",
+      "url": "https://open.spotify.com/track/4OfaKFkToxzzi2G5MwYsyZ"
     },
     {
       "album": {

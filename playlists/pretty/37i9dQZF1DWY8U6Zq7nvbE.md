@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,966 likes - 200 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,986 likes - 200 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 199 | [If I Wasn't Me](https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [If I Wasn't Me](https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz) | 2:53 |
 | 200 | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 |
 
-Snapshot ID: `MCw4MTUzNDNjNDIxNGIxODMzYzRhY2RhY2E5Njg0ZGNmZTNiNjg5ZWNi`
+Snapshot ID: `MCxiYmEyOGViN2Q2YWE2NjkwMTgzY2E5M2MzYjI0Nzc4YzdjNmZhMjli`

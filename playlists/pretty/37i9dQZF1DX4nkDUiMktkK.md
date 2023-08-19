@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > Salute's got the juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,025 likes - 98 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,043 likes - 98 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 22 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 |
 | 23 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
 | 24 | [20MGs \- Uffie & Lokoy Romantic Remix](https://open.spotify.com/track/3d3GXediKE8HhXqfsKnzvq) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [20MGs \(Uffie & Lokoy Romantic Remix\)](https://open.spotify.com/album/39N59EeE4CttVwzMNIS6Zw) | 4:58 |
-| 25 | [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 |
+| 25 | [Für Nimmer](https://open.spotify.com/track/6CX4j7F3kjIWzwgNUhIril) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:19 |
 | 26 | [A Gem so Precious](https://open.spotify.com/track/0etDDaG6PnGTVM9kvDvyz7) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [A Gem so Precious](https://open.spotify.com/album/5bVMhPf0i4bSwvoMqvPHiz) | 4:52 |
 | 27 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 |
 | 28 | [Wait For It](https://open.spotify.com/track/2jglQfaRM7oRHVj5uW18Pt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:59 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 61 | [On Your Face](https://open.spotify.com/track/4jBNsu6NFXquBSviiw0qy9) | [New Spectrum](https://open.spotify.com/artist/2pf5q0TzKjDmsr8iwU5N5B) | [On Your Face](https://open.spotify.com/album/6rYn0XHoKz4IT24vx6FDbL) | 2:20 |
 | 62 | [Cloudy \- Kelbin Remix](https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Cloudy \(Kelbin Remix\)](https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa) | 5:36 |
 | 63 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 |
-| 64 | [What If \- Sensu Remix](https://open.spotify.com/track/4xs4C0GiT3rx33Gz5YgCIl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [What If \(Sensu Remix\)](https://open.spotify.com/album/684SXpALJQphwjeGdM00ol) | 3:56 |
+| 64 | [What If \- Sensu Remix](https://open.spotify.com/track/6ORweSW1tcO9EZi4SVyLCj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:56 |
 | 65 | [find my way](https://open.spotify.com/track/7HdAJwRrXTLx19MbX7qBWZ) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [find my way](https://open.spotify.com/album/2o80JchL9fhhi7CKGUJaoy) | 2:13 |
 | 66 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 |
 | 67 | [Unity \- salute Remix](https://open.spotify.com/track/0uqFA5wm27DmAl8fyeJTt8) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Unity \(salute Remix\)](https://open.spotify.com/album/4WRWKCn5j0VcFzCLSxSx1s) | 4:23 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 97 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 98 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCxiMDg5YzdiMTIxYjIyODc1ZTVjMWFmZTQ1YmE2NTAzZjU0NGJiZjkx`
+Snapshot ID: `MCw1ZjhjZjkzYTE1NjdmZTAxMWRjMzQ4MTZiNTI3ZGVhODYxNzRlNTZk`

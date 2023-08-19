@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Imagine Dragons",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
   "name": "Pop Live",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 226849,
       "name": "7 rings - live",
       "url": "https://open.spotify.com/track/6va6SjWz457IOZidBppAhz"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 256896,
       "name": "7 Years - (Later) [Live]",
       "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 209720,
       "name": "Against All Odds (Take a Look at Me Now) - Live from the Serious Tour 1990; 2019 Remaster",
       "url": "https://open.spotify.com/track/61N8sBOfE9iM0uRhInFnKN"
@@ -132,6 +132,24 @@
     {
       "album": {
         "name": "Fanatic Live from Caesars Colosseum",
+        "url": "https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262173,
+      "name": "Alone - Live",
+      "url": "https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN"
+    },
+    {
+      "album": {
+        "name": "Fanatic Live from Caesars Colosseum",
         "url": "https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe"
       },
       "artists": [
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 278026,
       "name": "Always Be My Baby - Live at the Tokyo Dome",
       "url": "https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 270840,
       "name": "Animals - Live In Manchester",
       "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 336573,
       "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
       "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
@@ -290,6 +308,24 @@
       "duration_ms": 225047,
       "name": "Before You Go - Live from Brixton Academy, London, 2019",
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
+    },
+    {
+      "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "album": {
@@ -358,7 +394,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 352333,
       "name": "Breathe Me - Live",
       "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
@@ -394,7 +430,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225133,
       "name": "Candle In The Wind - Live",
       "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
@@ -430,7 +466,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 441666,
       "name": "Crazy - Live",
       "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
@@ -466,7 +502,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 352013,
       "name": "Dancing Queen - Live",
       "url": "https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q"
@@ -484,7 +520,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 210268,
       "name": "DDU-DU DDU-DU - Live",
       "url": "https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F"
@@ -502,7 +538,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165872,
       "name": "Diva - Homecoming Live",
       "url": "https://open.spotify.com/track/7eOG24Nx7j4nI3f9nOZTOi"
@@ -520,7 +556,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 382746,
       "name": "Don't Dream It's Over (Live at Sydney Opera House) - 2006 - Remaster",
       "url": "https://open.spotify.com/track/60OquKw8DFe1lHZxF4Gt6j"
@@ -582,6 +618,24 @@
       "duration_ms": 336080,
       "name": "Don't Let The Sun Go Down On Me - Live From Moscow / 1979",
       "url": "https://open.spotify.com/track/0mkikbv3LQNTOuQuwuxNIs"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now (Live in LA Remix)",
+        "url": "https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340075,
+      "name": "Don't Start Now - Live in LA Remix",
+      "url": "https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ"
     },
     {
       "album": {
@@ -720,7 +774,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 278840,
       "name": "Englishman In New York - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/5VaWlp54HTo03meWB9l5bx"
@@ -768,7 +822,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 295546,
       "name": "Erotica - Live",
       "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
@@ -894,7 +948,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 312211,
       "name": "Fastlove - Live",
       "url": "https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa"
@@ -912,7 +966,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267263,
       "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
@@ -964,7 +1018,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 215173,
       "name": "Fields Of Gold - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 262831,
       "name": "Formation - Homecoming Live",
       "url": "https://open.spotify.com/track/6oHexA34fw1WfswjIEA1hd"
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 410280,
       "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
       "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
@@ -1354,7 +1408,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 180346,
       "name": "Hopelessly Devoted To You - Live",
       "url": "https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT"
@@ -1408,10 +1462,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 240813,
       "name": "How Will I Know - Live from The Brit Awards",
       "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
+    },
+    {
+      "album": {
+        "name": "The Confessions Tour",
+        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590120,
+      "name": "Hung Up - Live",
+      "url": "https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn"
     },
     {
       "album": {
@@ -1588,7 +1660,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 376853,
       "name": "I Want to Know What Love Is - Live",
       "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
@@ -1804,7 +1876,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 337920,
       "name": "It Must Have Been Love - Live from Santiago 2012",
       "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
@@ -1862,6 +1934,24 @@
       "duration_ms": 241360,
       "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
       "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
+        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191820,
+      "name": "Kill This Love - Live",
+      "url": "https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH"
     },
     {
       "album": {
@@ -2014,7 +2104,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 321453,
       "name": "Lemon Tree - Acoustic Live Version",
       "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
@@ -2032,7 +2122,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 316192,
       "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
       "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
@@ -2086,7 +2176,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 345666,
       "name": "Listen to Your Heart - Live from Santiago 2012",
       "url": "https://open.spotify.com/track/0QrQYEtKj6R5xknD8Rw3TO"
@@ -2104,7 +2194,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 236200,
       "name": "Lost - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
@@ -2144,7 +2234,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200826,
       "name": "Lucky (feat. Colbie Caillat) - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i"
@@ -2184,7 +2274,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 274200,
       "name": "Magic - Live",
       "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
@@ -2220,7 +2310,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "Make You Feel My Love (Live at Hotel Cafe)",
       "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
@@ -2335,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "mine (Live From The Belasco)",
+        "url": "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202338,
+      "name": "mine - Live From The Belasco",
+      "url": "https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW"
+    },
+    {
+      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -2364,10 +2472,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
+    },
+    {
+      "album": {
+        "name": "C\u00e9line... Une seule fois / Live 2013",
+        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401840,
+      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
+      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
     },
     {
       "album": {
@@ -2382,7 +2508,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "My Love Is Your Love - Live from Late Show with David Letterman",
       "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
@@ -2400,7 +2526,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
@@ -2418,7 +2544,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 275101,
       "name": "New Rules - Live",
       "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
@@ -2436,7 +2562,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 413776,
       "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
@@ -2472,7 +2598,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 233416,
       "name": "no tears left to cry - live",
       "url": "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf"
@@ -2508,7 +2634,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 195967,
       "name": "Parting Glass - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
@@ -2569,6 +2695,28 @@
     },
     {
       "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283240,
+      "name": "Physical - Live",
+      "url": "https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO"
+    },
+    {
+      "album": {
         "name": "Pompeii / Come As You Are (MTV Unplugged)",
         "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
       },
@@ -2598,7 +2746,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 298051,
       "name": "Praying For Time - Live",
       "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
@@ -2634,7 +2782,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 197996,
       "name": "Roman Holiday - Live From Webster Hall",
       "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
@@ -2652,7 +2800,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 320400,
       "name": "Sacrifice - Live",
       "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
@@ -2688,10 +2836,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 266418,
       "name": "Say You'll Be There - Live From Abdi \u0130pek\u00e7i Arena, Istanbul, Turkey/1997",
       "url": "https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Shadow (feat. Carly Rae Jepsen) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR"
     },
     {
       "album": {
@@ -2875,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
+        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165993,
+      "name": "SOLO - Live",
+      "url": "https://open.spotify.com/track/6V3dOOUiPg53wUf83tBLR8"
+    },
+    {
+      "album": {
         "name": "The Confessions Tour (Live)",
         "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
       },
@@ -2904,7 +3092,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 375636,
       "name": "Star People - Live",
       "url": "https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1"
@@ -2922,7 +3110,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 245944,
       "name": "Stars - Live at Sydney Opera House",
       "url": "https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5"
@@ -2962,6 +3150,42 @@
       "duration_ms": 253671,
       "name": "Stay With Me - Live From The Royal Albert Hall",
       "url": "https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH"
+    },
+    {
+      "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396565,
+      "name": "Stitches - Live",
+      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
+    },
+    {
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Stop - Live In Madrid, Spain / 1998",
+      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "album": {
@@ -3038,7 +3262,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 265520,
       "name": "Take A Chance On Me - Live",
       "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
@@ -3092,7 +3316,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 367493,
       "name": "Take My Breath Away - Live",
       "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
@@ -3110,7 +3334,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 342586,
       "name": "Take On Me - Live",
       "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
@@ -3146,7 +3370,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 389728,
       "name": "thank u, next - live",
       "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
@@ -3254,7 +3478,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 285466,
       "name": "The Power Of Love - Live \u00e0 Paris",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
@@ -3272,7 +3496,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 365157,
       "name": "The Strangest Thing - Live",
       "url": "https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS"
@@ -3290,7 +3514,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 256740,
       "name": "Treat You Better - Live",
       "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
@@ -3330,6 +3554,24 @@
       "duration_ms": 363613,
       "name": "Up Where We Belong - Live",
       "url": "https://open.spotify.com/track/0FpkKD9MzzOmYPUB15S4lz"
+    },
+    {
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357760,
+      "name": "Viva Forever - Live In Manchester, UK / 1998",
+      "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
     },
     {
       "album": {
@@ -3380,7 +3622,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 211240,
       "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
@@ -3398,7 +3640,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 237386,
       "name": "Warwick Avenue - Live",
       "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
@@ -3416,7 +3658,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 231040,
       "name": "Waterloo - Live",
       "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
@@ -3452,7 +3694,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 219240,
       "name": "What's Love Got to Do with It - Live in Arnhem",
       "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
@@ -3564,7 +3806,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 251378,
       "name": "Woman Like Me (feat. Ms Banks) - Live from the BRITs 2019",
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
@@ -3636,7 +3878,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 411973,
       "name": "Yellow - Live",
       "url": "https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX"
@@ -3690,7 +3932,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 300953,
       "name": "You Give Me Something - Live At The Hospital Club",
       "url": "https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS"
@@ -3784,7 +4026,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 231493,
       "name": "You're The One That I Want - Live",
       "url": "https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9"

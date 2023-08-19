@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-67 songs - 2 hr 5 min
+70 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2GOOD4U](https://open.spotify.com/track/24Wv2UuvcrTz2Lbl1o5efz) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [2GOOD4U](https://open.spotify.com/album/1IWzgwU93vPgsIFPa1nrmu) | 2:02 | 2023-07-21 |  |
 | [4ever \(feat\. Universe\)](https://open.spotify.com/track/1iNZsRg2WI437aWBsQdGaS) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [Universe](https://open.spotify.com/artist/30RtxAnENaOe9XNqA4UxZW) | [4ever \(feat\. Universe\)](https://open.spotify.com/album/3QxEUjtcqaKHos7arMaVcz) | 2:28 | 2023-07-21 |  |
 | [All Eyez On Me](https://open.spotify.com/track/3Ml1RetK8lfUZ1kBzMhvNf) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [All Eyez On Me](https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5) | 1:24 | 2023-07-21 |  |
+| [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 | 2023-08-18 |  |
 | [Bag \(azurreh mix\) <3](https://open.spotify.com/track/0dUY7LFK25EqLLeSwDtAB9) | [azurreh](https://open.spotify.com/artist/1nWQz0dYYJRbyym28yHcw4), [mai](https://open.spotify.com/artist/77lNm684zLFkTVZyWtyhca) | [Bag \(azurreh mix\) <3](https://open.spotify.com/album/6uCUWx86biFtjsCvh0qbpj) | 1:46 | 2023-07-28 | 2023-08-05 |
 | [bandz in my poccket](https://open.spotify.com/track/6D9pELc0TWsCgxVxqhpmkR) | [kaystrueno](https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4) | [bandz in my poccket](https://open.spotify.com/album/6iu9KtHmLXOiHX0Kh2dh7t) | 1:01 | 2023-07-21 | 2023-07-28 |
 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 | 2023-07-21 |  |
@@ -48,6 +49,7 @@
 | [look don't touch](https://open.spotify.com/track/4CsKaCN7KJ3AeecfTpyPZz) | [pradababy](https://open.spotify.com/artist/3oy5OQb6YkG9Kjy5ZBAtRg) | [look don't touch](https://open.spotify.com/album/1zUV0WoBJcqcrPOdNqErno) | 1:44 | 2023-08-04 |  |
 | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P) | 2:18 | 2023-07-21 |  |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2023-07-21 |  |
+| [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 | 2023-08-18 |  |
 | [Narcissistic gem](https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [Narcissistic gem](https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD) | 1:52 | 2023-07-21 |  |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-07-21 |  |
 | [OBSESSION](https://open.spotify.com/track/3KjtiCFg1dNCEXfkF4PKWE) | [h!tex](https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS) | [OBSESSION](https://open.spotify.com/album/36EOTkSV05Ousfmuwj5rzI) | 1:16 | 2023-07-21 |  |
@@ -68,6 +70,7 @@
 | [TURN BACK P3](https://open.spotify.com/track/5IYOaCf1kUbImJxFncErqC) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/2p67Iqg2GlAj7Jmea4VTDq) | 1:01 | 2023-07-21 |  |
 | [UDNTHAVE2KNOW](https://open.spotify.com/track/1O8FFruddXtdS97wBbsbqK) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [UDNTHAVE2KNOW](https://open.spotify.com/album/2VUWjYLGWXE6cWsqY4tkXj) | 2:54 | 2023-07-21 |  |
 | [uhh p2.](https://open.spotify.com/track/0zdq7gjKevgTyG470OL9fB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [COME MESS WIT ME!](https://open.spotify.com/album/2NkAZGW41Rv51ABPHvKhDB) | 1:21 | 2023-07-21 |  |
+| [vampire love](https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp) | [nami](https://open.spotify.com/artist/3E2CPSMNaUMT0OosI4ogam) | [vampire love](https://open.spotify.com/album/0EIqsSmwIP5GZJesgYTchK) | 2:43 | 2023-08-18 |  |
 | [waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [waiting alonE](https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m) | 2:53 | 2023-08-11 | 2023-08-15 |
 | [Want u more!](https://open.spotify.com/track/3RKEW4HMiRZQMXY63XSieF) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [sonicreations!](https://open.spotify.com/artist/5t8B0ba1AOHP8ckEPhPVoF) | [Want u more!](https://open.spotify.com/album/1azh3Y1Q4qnjI41GmRAZCR) | 2:46 | 2023-07-21 |  |
 | [XoWoah](https://open.spotify.com/track/43zAiS2UVIZ1V4tKoS7wA4) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [XoWoah](https://open.spotify.com/album/6CHQdCW2DoR2hYg8uaYlBd) | 1:37 | 2023-07-21 | 2023-07-29 |

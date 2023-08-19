@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX, Peso Pluma y Herencia de Patrones en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Aleman en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -554,6 +554,32 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
+    },
+    {
+      "album": {
+        "name": "Alzypher Vol.15",
+        "url": "https://open.spotify.com/album/0K10o1fjzoYkUFvzir8swV"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Alzypher Vol.15",
+      "url": "https://open.spotify.com/track/1oC7A5gaUGuf5X6We5QCVt"
     },
     {
       "album": {
@@ -1791,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Cuentas Claras\u2026",
+        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237391,
+      "name": "Cuentas Claras\u2026",
+      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
+    },
+    {
+      "album": {
         "name": "Cuidando El Territorio",
         "url": "https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb"
       },
@@ -2461,6 +2505,28 @@
     },
     {
       "album": {
+        "name": "Plagueboyz",
+        "url": "https://open.spotify.com/album/2y63QOLNzjqQiIgqHB71AP"
+      },
+      "artists": [
+        {
+          "name": "SyckSyllables",
+          "url": "https://open.spotify.com/artist/0Z91zZ8meb9o36mZ9kRFWd"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/2pg8rGeBDeGMBzCI4cMyEe"
+    },
+    {
+      "album": {
         "name": "El Profesor",
         "url": "https://open.spotify.com/album/6069UytwCGPyx80oyoVlFU"
       },
@@ -2682,6 +2748,24 @@
       "duration_ms": 213443,
       "name": "Envidia y Traici\u00f3n",
       "url": "https://open.spotify.com/track/6iGO45dsKKRICctrBxKqO0"
+    },
+    {
+      "album": {
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166708,
+      "name": "Erick Serm\u00f3n",
+      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
     },
     {
       "album": {
@@ -4410,6 +4494,24 @@
       "duration_ms": 190004,
       "name": "Mala Conducta",
       "url": "https://open.spotify.com/track/4TqyYO8X9Z3qIF3IDfMvHM"
+    },
+    {
+      "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222650,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,869 likes - 200 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,929 likes - 200 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Invincible](https://open.spotify.com/track/2kFCYlFRuC7YqM5stlM9fH) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Seven The Hard Way](https://open.spotify.com/album/72PfmPsimUrFAxfIaM70Xb) | 4:28 |
 | 200 | [If Looks Could Kill](https://open.spotify.com/track/1mr9ZUNWfCUClBDhYbCErx) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:40 |
 
-Snapshot ID: `MCwzYmRjNTg4OWMzMmJlNmE1YjUyYzJmYzQ1NWRmODQzZjc0MDJhY2Ex`
+Snapshot ID: `MCw5N2EwY2ZhZjY0MGNmMzI3NzQwOTA5MjBiMWE2NGQ3NzVjZjY0MDI3`

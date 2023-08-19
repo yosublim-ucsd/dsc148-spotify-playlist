@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,299 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,500 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 70 | [Revelation Dub](https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod) | [Kabanjak](https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4) | [Café del Mar Ibiza Chillout Mix III \(DJ Mix\)](https://open.spotify.com/album/5f5vs2Qy77gDyDVhn5tYIm) | 3:35 |
 | 71 | [I Am in Love](https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Presents Jennifer Lara](https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon) | 5:18 |
 | 72 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
-| 73 | [Mountain](https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL) | 2:15 |
-| 74 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
+| 73 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
+| 74 | [Mountain](https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL) | 2:15 |
 | 75 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
 
-Snapshot ID: `MCwwYzM3OTc3NzQwM2M5YmRjNTI0MzA5ODYxNzUwOGI0YjUyZjc2Nzkx`
+Snapshot ID: `MCwwMWNiMzViYzU5Yjc1ZGRlNDFkZjgwMDM0NmI5ZTA3NWE1MDg0NWZl`

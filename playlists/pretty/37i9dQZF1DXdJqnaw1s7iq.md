@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,210 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,325 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 29 | [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 |
 | 30 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 |
 | 31 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 |
-| 32 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
-| 33 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 |
-| 34 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
-| 35 | [Feel Like I Do](https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Moog For Love](https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT) | 3:15 |
-| 36 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
+| 32 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 |
+| 33 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
+| 34 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
+| 35 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
+| 36 | [Feel Like I Do](https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Moog For Love](https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT) | 3:15 |
 | 37 | [Big Hammer](https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Big Hammer](https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36) | 4:00 |
 | 38 | [Marijuana](https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks](https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr) | 3:01 |
 | 39 | [Kingdom](https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:10 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 55 | [Life Round Here](https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:37 |
 | 56 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
 | 57 | [Stay The Same](https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:44 |
-| 58 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
-| 59 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
+| 58 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
+| 59 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
 | 60 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 61 | [Fences](https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:44 |
 | 62 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 65 | [Body Language \- Interpretation](https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ) | 5:00 |
 | 66 | [Recovery](https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Odyssey / Sonne](https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp) | 4:50 |
 | 67 | [Easy Fraction](https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 1:15 |
-| 68 | [Dissolve Me](https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:59 |
-| 69 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
+| 68 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
+| 69 | [Dissolve Me](https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:59 |
 | 70 | [Can't See What Is Burning There \- Mixed](https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [DJ\-KiCKS \(Wolf + Lamb vs Soul Clap\) \[DJ Mix\]](https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW) | 1:57 |
 | 71 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 |
 | 72 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 80 | [Meet the Frownies](https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S) | 4:00 |
 | 81 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
 | 82 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
-| 83 | [Nothing \- Original Mix](https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Nothing](https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK) | 5:12 |
-| 84 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
+| 83 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
+| 84 | [Nothing \- Original Mix](https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Nothing](https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK) | 5:12 |
 | 85 | [Lovesick](https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:16 |
 | 86 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 |
 | 87 | [Don't Call It Love \- 12" Version](https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [On My Own](https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0) | 6:25 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 97 | [Can’t Keep Checking My Phone](https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR) | 4:16 |
 | 98 | [Rare Happiness](https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Hunch Music](https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV) | 5:51 |
 | 99 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
-| 100 | [Intro](https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Weval](https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci) | 2:20 |
+| 100 | [LONG DISTANCE](https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds) | 3:39 |
 
-Snapshot ID: `MCwxMTJlYWFiYTU5NGM0ZTBlMDlmOWZhYTVhMWJkZGI5MGM3ZGMwNTlh`
+Snapshot ID: `MCxmZDVhYTk4OWVhNDg0ZTE2OGUzNzY2ZDQwODM3ZGI2ZjY2YjIwYmYx`

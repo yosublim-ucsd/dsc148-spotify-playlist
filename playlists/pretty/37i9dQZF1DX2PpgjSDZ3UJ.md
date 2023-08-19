@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,128 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,138 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 88 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
 | 89 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 
-Snapshot ID: `MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj`
+Snapshot ID: `MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz`

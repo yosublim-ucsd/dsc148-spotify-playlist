@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,716 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,743 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
 | 50 | [Feel It](https://open.spotify.com/track/2HfzYTnucpAPodJgPBpSm3) | [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Feel It / Circus Act](https://open.spotify.com/album/7yNN51CSOWeiUayY1fsAK4) | 7:38 |
 
-Snapshot ID: `MCxlNTA0MWI4YjIyZTY4ODhhNDIwNjZjOWJjYzc1MDM1NDAxYjIyYjc5`
+Snapshot ID: `MCxhMDEwYzE5MzExNzRiMzdlZDI3Nzc5YzIxNjFlNjM1ZDZmMDg1NGE0`

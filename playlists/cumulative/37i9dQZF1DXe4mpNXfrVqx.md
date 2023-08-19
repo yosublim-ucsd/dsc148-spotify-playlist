@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mih, Amabbi
 
-147 songs - 6 hr 29 min
+148 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 | 2022-06-24 |  |
 | [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 | 2022-12-03 |
 | [Camisa 10](https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Camisa 10](https://open.spotify.com/album/1BT1zwJm02tDL5W2kNAk2H) | 2:34 | 2022-03-18 | 2022-10-29 |
-| [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 | 2022-04-22 |  |
+| [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 | 2022-04-22 | 2023-08-19 |
 | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 | 2023-02-22 |  |
 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 | 2023-04-21 |  |
 | [Cofre](https://open.spotify.com/track/4Ob435otPVxJEvhYVDyaxW) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Cofre](https://open.spotify.com/album/1zeiWi4ap2VXX9ldNQXxCK) | 2:17 | 2022-05-27 |  |
@@ -77,6 +77,7 @@
 | [Lealdade](https://open.spotify.com/track/02qzKn3hIHuPL7jf1gxZY6) | [Clara Dalua](https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Lealdade](https://open.spotify.com/album/3UVCBgMLJwuPuujCg6tm6G) | 2:21 | 2022-10-14 |  |
 | [Leonina](https://open.spotify.com/track/5ESbZaAPbjHCwWUM4iiHQu) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Leonina](https://open.spotify.com/album/4u2kqsIlaDICKs1SpSoa5Y) | 3:30 | 2022-07-29 | 2022-08-13 |
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
+| [Linda](https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Linda](https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh) | 2:07 | 2023-08-18 |  |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 |  |
 | [Madonna](https://open.spotify.com/track/7uzPBNHwKHKA690w4W10cN) | [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe) | [Madonna](https://open.spotify.com/album/1Ow2JpwAA6icfnxI0wDyL4) | 2:07 | 2023-06-30 |  |
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 |  |

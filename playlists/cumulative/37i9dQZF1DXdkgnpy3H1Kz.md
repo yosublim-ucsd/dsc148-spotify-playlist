@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-365 songs - 1 day 7 hr 34 min
+366 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Hair On Fire](https://open.spotify.com/track/3NcBjzRtcqrg8toGbfBJD5) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 2:41 | 2023-04-28 | 2023-05-26 |
 | [HELP ME.](https://open.spotify.com/track/49ldCfBJURR6G5y99lolWZ) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [123.](https://open.spotify.com/album/5kRJPdxxYMcxElkS12DDvB) | 4:54 | 2023-06-16 | 2023-08-05 |
 | [Hinterland](https://open.spotify.com/track/186c7hXD8KO3dukhTkUnha) | [Linea Aspera](https://open.spotify.com/artist/7ovuEJn78rNJmBBnLqc1NU) | [Linea Aspera](https://open.spotify.com/album/6YbyDgrqvbMeNRRhyismmZ) | 3:48 | 2023-06-30 | 2023-08-05 |
+| [Hit By The Star](https://open.spotify.com/track/0ZRb5YBqrSWoCWDmjCg0Uk) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Hit By The Star](https://open.spotify.com/album/3IVW48t9hynhutSqMXtMNA) | 5:46 | 2023-08-18 |  |
 | [Holy](https://open.spotify.com/track/3L6x94mslGCLv4aYec8M3x) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Maelstrom](https://open.spotify.com/artist/62rM1SLSmG7US6wZ4xzus5) | [RAAR001](https://open.spotify.com/album/3FPREBCMqCNoiB7ulKqZDW) | 6:31 | 2023-03-17 | 2023-04-15 |
 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 | 2023-03-17 | 2023-04-15 |
 | [Hopscotch](https://open.spotify.com/track/37ScUB8dbveO6CwrrI3Hgk) | [Shaleen](https://open.spotify.com/artist/70NHrQYbrBropRsdVLry5p) | [Protect The Sky](https://open.spotify.com/album/4PQ61A8ApMh3Ys4y0n5hwb) | 5:04 | 2023-04-14 | 2023-05-26 |

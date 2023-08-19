@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,484 likes - 300 songs - 20 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,490 likes - 300 songs - 20 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 |
 | 300 | [Diary of a Rose](https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Dolphine](https://open.spotify.com/album/24kBQl1dUCiUu5PQgpKhJi) | 4:39 |
 
-Snapshot ID: `MCxjODA2M2VhMjExZjk2YTdkOWI2OWYyZTBkZjdkZDJkZDAyNjEwNWY3`
+Snapshot ID: `MCwxMjIzMmU3ZDEzZWUyOWJhNzU1MzFjOWYxMTQ2ZDU1ZmIyNjAzMWU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Luar La L & Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,252 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,266 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
 | 100 | [Guitarra](https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Guitarra](https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn) | 2:54 |
 
-Snapshot ID: `MCw2NjI0YTY5M2QxOTFjYTQxMWU4OTIxN2YzMDI5MWRjN2NiYTJhMDY2`
+Snapshot ID: `MCxhOTA2YzVjYjM5MzFkMDc4MjVkZDIyOWNmNzc4ZTc3ZTgzODMyYTY5`

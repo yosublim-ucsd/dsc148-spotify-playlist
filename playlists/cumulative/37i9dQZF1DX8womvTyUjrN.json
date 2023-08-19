@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Salom\u00f3n Beda",
+  "description": "Fresh Latin pop on the rise. Cover: Valentina Rico",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 185596,
       "name": "BACANA",
       "url": "https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190586,
       "name": "Casi",
       "url": "https://open.spotify.com/track/4MJS2cxqpRbwn9G88X3w0j"
@@ -1400,6 +1400,44 @@
       "duration_ms": 192244,
       "name": "Centenas De Miles De A\u00f1os",
       "url": "https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY"
+    },
+    {
+      "album": {
+        "name": "Cerquita De Ti",
+        "url": "https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "Cerquita De Ti",
+      "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
     },
     {
       "album": {
@@ -2912,7 +2950,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 144955,
       "name": "Fase De Pat\u00e1n",
       "url": "https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs"
@@ -3888,7 +3926,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 177958,
       "name": "La Estrella del Show",
       "url": "https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX"
@@ -5669,6 +5707,24 @@
     },
     {
       "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
+    {
+      "album": {
         "name": "Nunca Deja De Llover",
         "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
       },
@@ -5702,7 +5758,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 137033,
       "name": "nunca me dijeron que los 18",
       "url": "https://open.spotify.com/track/5NUFORQRNwMLpGInKedvrY"
@@ -5876,6 +5932,28 @@
       "duration_ms": 155498,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
+    },
+    {
+      "album": {
+        "name": "Oye Baby",
+        "url": "https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135262,
+      "name": "Oye Baby",
+      "url": "https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg"
     },
     {
       "album": {
@@ -6130,7 +6208,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 177773,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ"
@@ -7097,6 +7175,46 @@
     },
     {
       "album": {
+        "name": "Secuela",
+        "url": "https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Secuela",
+      "url": "https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls"
+    },
+    {
+      "album": {
+        "name": "Seg\u00fan Qui\u00e9n",
+        "url": "https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142334,
+      "name": "Seg\u00fan Qui\u00e9n",
+      "url": "https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4"
+    },
+    {
+      "album": {
         "name": "Sensualidad",
         "url": "https://open.spotify.com/album/2OVwjjXrMd82oKAhl6mR7U"
       },
@@ -7378,6 +7496,28 @@
       "duration_ms": 198758,
       "name": "solo x ti",
       "url": "https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB"
+    },
+    {
+      "album": {
+        "name": "solo x ti (Remix)",
+        "url": "https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188380,
+      "name": "solo x ti - Remix",
+      "url": "https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj"
     },
     {
       "album": {
@@ -8028,7 +8168,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 205806,
       "name": "Trasplante de Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3VqKXI13KCXegeHhcSX0DS"
@@ -8348,6 +8488,24 @@
       "duration_ms": 161478,
       "name": "Un Dia a la Vez",
       "url": "https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp"
+    },
+    {
+      "album": {
+        "name": "German vs DAAZ",
+        "url": "https://open.spotify.com/album/0oGkL1AWwuioRXM1YLrpN5"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191162,
+      "name": "utop\u00eda",
+      "url": "https://open.spotify.com/track/4QXYlAmt3rP0IkbWCoM7F8"
     },
     {
       "album": {
@@ -8716,6 +8874,24 @@
       "duration_ms": 160893,
       "name": "\u00bfC\u00f3mo Es Que T\u00fa?",
       "url": "https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got"
+    },
+    {
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181901,
+      "name": "\u00bfC\u00d3MO TE LO EXPLICO?",
+      "url": "https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW"
     },
     {
       "album": {

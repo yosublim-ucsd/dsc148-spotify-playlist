@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,829 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,869 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 99 | [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 |
 | 100 | [Blame It on My Youth](https://open.spotify.com/track/1i6PhtGyfiWmnDg6BBaigZ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:17 |
 
-Snapshot ID: `MCwwMTU4MjhhYzU3NTQ1NDdmM2QwOGUyNDhlOTczNGZiM2FmZWM3MzYy`
+Snapshot ID: `MCw1YTFmNzU4N2VhM2MxNGE5NWU5MWU3MmJlMDc1NTE0NTZlODdlMDNj`

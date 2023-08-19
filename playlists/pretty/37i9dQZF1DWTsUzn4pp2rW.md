@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,082 likes - 150 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,165 likes - 150 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [Inner City Blues](https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Inner City Blues](https://open.spotify.com/album/0Tpbm8P52M6OLufUXwKZAY) | 4:53 |
 | 150 | [Begin Again](https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:49 |
 
-Snapshot ID: `MCwxYjIzNWMzMGNmMmMwYmY5YzFiMDE3MzdjNmNjNGNhOGQ5YzdlNzEx`
+Snapshot ID: `MCwyODg3ZmQwMDdmYTQ1OGQ4NjFjNzhhNGE3ZGQ0ZmI1YTdlMjI2NDkw`

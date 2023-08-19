@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,988,709 likes - 200 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,989,762 likes - 200 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [Too Sad To Cry](https://open.spotify.com/track/3CRtbOoAP82y0VbPO5j1ft) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Self Portrait](https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg) | 3:28 |
 | 200 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
 
-Snapshot ID: `MCwwMTFiNzIxNWQ3NmExNTQ2ZTYzZTRkZDIwZTczZWNiZWI1YWRkYjUz`
+Snapshot ID: `MCw4NWQwYjJhZGM1NDY2MzkwNjAwODBlZGI1MzdmNDQzMzZkNWZkNGQx`

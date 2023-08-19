@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-133 songs - 7 hr 13 min
+134 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 | 2023-01-06 |  |
 | [Céu Lilás](https://open.spotify.com/track/685d82SkQXCZWTeiHwDMpA) | [LK 3030](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Céu Lilás](https://open.spotify.com/album/7h7c9b9bq8Ir59JmPzafN2) | 2:54 | 2022-05-06 | 2022-06-18 |
 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 | 2021-11-12 | 2023-02-04 |
+| [De Férias Com O WEY](https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r) | [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Class A](https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [De Férias Com O WEY](https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A) | 2:48 | 2023-08-18 |  |
 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 | 2021-11-12 |  |
 | [De Manhã](https://open.spotify.com/track/73Er6bXtcym9mAJKqUuuP9) | [ProBeats](https://open.spotify.com/artist/590XVk6EtJK8V6G8S3ByVP), [Pedro Oldi](https://open.spotify.com/artist/0oqXUq2U1sd2ssSVYVwOgC), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [De Manhã](https://open.spotify.com/album/2AaLrOFuY9h2Rir8SU56nm) | 2:16 | 2022-09-09 | 2022-09-24 |
 | [De Volta](https://open.spotify.com/track/2Pe37qEd4Ds7QuuFyyRKgn) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [De Volta](https://open.spotify.com/album/46H9YGkAhQNNBcoW67ZwFQ) | 2:34 | 2022-10-24 | 2022-12-17 |
@@ -112,7 +113,7 @@
 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 | 2022-06-24 |  |
 | [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 | 2021-11-12 | 2022-07-29 |
 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 | 2021-11-12 |  |
-| [Sabor Cereja](https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Sabor Cereja](https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM) | 2:55 | 2021-11-12 |  |
+| [Sabor Cereja](https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Sabor Cereja](https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM) | 2:55 | 2021-11-12 | 2023-08-19 |
 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 | 2021-11-12 |  |
 | [Saudade](https://open.spotify.com/track/141aDylSO3dyhM4hQerg9K) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/4hTkQ4OLY6Wm67OWJS4242) | 3:17 | 2021-11-12 | 2022-10-16 |
 | [Saudade](https://open.spotify.com/track/1YDs0mBrM5hNruhCrF0fbE) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/1XVjWWFBWVvoAbneaETMDC) | 3:17 | 2022-09-23 |  |

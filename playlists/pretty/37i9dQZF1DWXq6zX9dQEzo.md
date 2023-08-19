@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Music blasting, faith on swole\.  Get your beast mode on!  Guest Curated by <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d">KB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,636 likes - 150 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,032 likes - 150 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Ghost](https://open.spotify.com/track/4PMipuvMgXfv4JB0eLKddT) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Ghost](https://open.spotify.com/album/4Vdmu9W7R5Yx95GCAEF33D) | 2:11 |
 | 150 | [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 |
 
-Snapshot ID: `MCw4YTYxMTI1YzZlYWU0YWRkNDY0MDJiMmY1ZDY5NmQ4YjIzNDMxNTk3`
+Snapshot ID: `MCwyNDY2ZDg0NDU5NWY0ZDkzMTUzMGE5MDc3NmI3ZjA1ODk4MDEzNTIw`

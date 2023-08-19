@@ -1,13 +1,45 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 52824,
+  "num_followers": 52867,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDk0YzU2MzA5NjIzMzg2NjgyNGQzMGVkNTRhODFjODBhOGJmZWQ4",
+  "snapshot_id": "MCwzNDRlZDQ5YjFhY2U4OTc2MGM4ODk0OWFiNTA3ODQ2NmRhYTg1MTM5",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/5DwzpU2uM8nz7yIGze3P63"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Thing Is...",
+        "url": "https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K"
+      },
+      "artists": [
+        {
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "The Thing Is...",
+      "url": "https://open.spotify.com/track/74TMwWbbqCMNtie5jGo7rL"
+    },
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt"
     },
     {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3cNseKEug7IIPOoZ47PPS7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Ross",
+          "url": "https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ"
+        }
+      ],
+      "duration_ms": 164423,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/1EnUrGLxtwhKiaPeo8jsUq"
+    },
+    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Right on Time",
@@ -71,6 +119,22 @@
       "duration_ms": 220422,
       "name": "Magic City Streets",
       "url": "https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Can We Talk",
+        "url": "https://open.spotify.com/album/2ue7GjPC8MDeflNgril0sq"
+      },
+      "artists": [
+        {
+          "name": "Eric Knight",
+          "url": "https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/621i6kpO5Te1WLiMgnovdQ"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -271,22 +335,6 @@
       "duration_ms": 256234,
       "name": "Your Love Is Good",
       "url": "https://open.spotify.com/track/2Fc4A3KX4CHF7TC8JSvU6G"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/78dIxf6kjnSm1GEpHAdFuD"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1105,22 +1153,6 @@
       "url": "https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Collective III",
-        "url": "https://open.spotify.com/album/3U9Fm8iGWWEbwNlT0o7wqs"
-      },
-      "artists": [
-        {
-          "name": "Rick Habana",
-          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
-        }
-      ],
-      "duration_ms": 280649,
-      "name": "Ocean Breeze",
-      "url": "https://open.spotify.com/track/1agamZXMvCbzZKN6F7oopr"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -1379,22 +1411,6 @@
       "duration_ms": 240640,
       "name": "Nine 2 Five",
       "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1671,22 +1687,6 @@
       "duration_ms": 177360,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/3wo1wi09snMqZ9T3KQu3VT"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "You Already Know",
-        "url": "https://open.spotify.com/album/4gyAy85HMpwucHztm9cVvY"
-      },
-      "artists": [
-        {
-          "name": "Dee Brown",
-          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "You Already Know",
-      "url": "https://open.spotify.com/track/2BbDq3jIwUvdVtdbnwH9pr"
     },
     {
       "added_at": "2023-03-24 04:01:00",

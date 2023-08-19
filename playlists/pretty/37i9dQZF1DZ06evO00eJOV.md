@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 
 > This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,525 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,534 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 18 | [Ag Shame Lovey](https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:21 |
 | 19 | [Morena](https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 3:30 |
 | 20 | [Monate](https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:54 |
-| 21 | [Ama\-Gents](https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:28 |
-| 22 | [Ntsware \- Ndibambe](https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:55 |
+| 21 | [Ntsware \- Ndibambe](https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:55 |
+| 22 | [Ama\-Gents](https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:28 |
 | 23 | [Hara Lebitla](https://open.spotify.com/track/1KrgwYPtJTmQX9rxVqJZFa) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:01 |
 | 24 | [Memeza](https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 25 | [Kenang Bohle](https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:57 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 40 | [Vuma](https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 3:49 |
 | 41 | [Ngiyakusaba](https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [I Am Not A Bad Girl](https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y) | 5:14 |
 | 42 | [I Can't Stop Loving You](https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 4:05 |
-| 43 | [Sikelele](https://open.spotify.com/track/6vAtb3hkVBmYiIYD0PlVIU) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:43 |
+| 43 | [Sghubu Se Zion](https://open.spotify.com/track/727vglMCO4yr5GGbvjPsiB) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 5:10 |
 | 44 | [Elakho Likhona \(La Hao Le Teng\)](https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:39 |
 | 45 | [Promises \- Live From South Africa/2009 / Remix](https://open.spotify.com/track/3ip1rB1iNyVNMwdkYvuGAX) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey \(Live Remixed\)](https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744) | 3:50 |
 | 46 | [The Lord Is My Shepherd](https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:48 |
-| 47 | [Sghubu Se Zion](https://open.spotify.com/track/727vglMCO4yr5GGbvjPsiB) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 5:10 |
+| 47 | [Sikelele](https://open.spotify.com/track/6vAtb3hkVBmYiIYD0PlVIU) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Malibongwe](https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6) | 4:43 |
 | 48 | [Soon And Very Soon \- 99 Remix](https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:35 |
 | 49 | [Mali](https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:06 |
 | 50 | [Stay Away \(From My Man\)](https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 3:46 |
 
-Snapshot ID: `MjgyMDQ2MzYsMDAwMDAwMDBlMTJlMGM5Mjk2MzE0MzMxM2QxNmFhMGQ3MzViZmYzYg==`
+Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDA1ZjdhYzYwNGEwODhlMmM2ODdhN2I1YjkyYTI4OWVjNQ==`

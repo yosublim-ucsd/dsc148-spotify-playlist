@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,623 likes - 250 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,687 likes - 250 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 |
 | 250 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 |
 
-Snapshot ID: `MCxlZDU3OGE0NzhkN2YyNjg5MDc3ZDhhMDA3MTdjMTdjMGU2OTMxYmIz`
+Snapshot ID: `MCxjOWMyZWMwZTNkYzM1MmYyMTVmZDQ1YmYxYWViZTNmYjNhMjhmZjc5`

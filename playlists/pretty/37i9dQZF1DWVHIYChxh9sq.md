@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,916 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,956 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [Alma Enamorada \- En Vivo](https://open.spotify.com/track/75zniuVinswzFhlxBZNndT) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r) | 2:31 |
 | 150 | [Basta Ya \- En Vivo](https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:43 |
 
-Snapshot ID: `MCxlNTAwNGRiMTkyOTAxZDhlZDg1MTcyMGZiYzk0MTA2Mjk4NjFjYWU2`
+Snapshot ID: `MCxhYmIwMmI2OTkzOWEyZTY4ODgyZjRkNzQzM2JjZWEzMjAwZmVkNTE2`

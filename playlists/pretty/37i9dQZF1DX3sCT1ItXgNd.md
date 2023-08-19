@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Adiós Pop con Ñ, hola Pop del Top\. Lo mejor del pop\. Foto: Juan Magán, Cali Y El Dandee, Mar Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,693 likes - 78 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,750 likes - 78 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 73 | [Me Gustas Tanto](https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Me Gustas Tanto](https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2) | 2:01 |
 | 74 | [PIDE UN DESEO](https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PIDE UN DESEO](https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26) | 3:10 |
 | 75 | [MI BANDERA](https://open.spotify.com/track/2FofLDb6Agbl5pgpjC3WSc) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:21 |
-| 76 | [No m'estima +](https://open.spotify.com/track/4s5KyYlznavXf3d7BXdIDj) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7yUbCLtJz5ueBFCOEJLUYN), [Roots](https://open.spotify.com/artist/6NmkG2p4k7Tp1sPLe5KUTf) | [No m'estima +](https://open.spotify.com/album/2YEW4hKqlHUKKWkDqBMXck) | 3:12 |
-| 77 | [TE QUIERO](https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [TE QUIERO](https://open.spotify.com/album/241E4UnDjEnTS7KUGvPxCT) | 2:59 |
+| 76 | [TE QUIERO](https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [TE QUIERO](https://open.spotify.com/album/241E4UnDjEnTS7KUGvPxCT) | 2:59 |
+| 77 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
 | 78 | [SÚBEME EL VOLUMEN](https://open.spotify.com/track/6leKU6P3z0XkBNBx6hiue4) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 2:52 |
 
-Snapshot ID: `MCwyNzZhNDQzYmY1MWUxNjJjMGFlNjk2NTBmMDU4NGQxNTExYzhiODRk`
+Snapshot ID: `MCxjMzI2MWY0YWFmNzBkYzA4OGU4YjVlZWViOGY5NGE5MDUwYjUzZGIx`

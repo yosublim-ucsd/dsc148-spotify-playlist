@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,929 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,950 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 49 | [Go On](https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Go On](https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1) | 2:52 |
 | 50 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
 
-Snapshot ID: `MCxkNzVhNzE5YWE3NTJlYzhjMDMwMzcyNmE5MzgxZWYzOGM2NzFlNjJk`
+Snapshot ID: `MCw3OWJkODBhZmNmNzc3MGU4ODUxMDY0MjBlZWQ3NDc0ZDM4N2JkMGYz`

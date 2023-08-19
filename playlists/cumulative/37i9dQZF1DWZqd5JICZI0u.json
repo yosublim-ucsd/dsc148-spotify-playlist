@@ -3307,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "Freya",
+        "url": "https://open.spotify.com/album/5HmDv1SzlqZzy4hE22Oycs"
+      },
+      "artists": [
+        {
+          "name": "Soothing Dreamscapes",
+          "url": "https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144766,
+      "name": "Huma",
+      "url": "https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g"
+    },
+    {
+      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP"
       },
@@ -7538,6 +7556,24 @@
       "duration_ms": 173500,
       "name": "Tears Of Change",
       "url": "https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v"
+    },
+    {
+      "album": {
+        "name": "Tender Sunset",
+        "url": "https://open.spotify.com/album/1UfxI8AwxoOqplTZprJDyI"
+      },
+      "artists": [
+        {
+          "name": "Soothing Buzz",
+          "url": "https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129485,
+      "name": "Tender Sunset",
+      "url": "https://open.spotify.com/track/59IYKHiJ9BYEVmZYBeHuCO"
     },
     {
       "album": {

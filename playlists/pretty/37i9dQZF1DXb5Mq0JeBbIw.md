@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 50 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
 | 51 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 52 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 |
-| 53 | [Can’t Forget You \(feat\. James Blunt\) \- Acoustic](https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Can’t Forget You \(feat\. James Blunt\) \[Acoustic\]](https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv) | 2:25 |
-| 54 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
-| 55 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
+| 53 | [see u tomorrow \- stripped](https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [see u tomorrow \(stripped\)](https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH) | 3:17 |
+| 54 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
+| 55 | [Can’t Forget You \(feat\. James Blunt\) \- Acoustic](https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Can’t Forget You \(feat\. James Blunt\) \[Acoustic\]](https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv) | 2:25 |
 | 56 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 |
 | 57 | [OK](https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A) | 3:32 |
 | 58 | [Hey \- Acoustic](https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey \(Acoustic Version\)](https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC) | 2:36 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 87 | [Luck Pusher](https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm) | 2:43 |
 | 88 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
 | 89 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
-| 90 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
-| 91 | [Wonderwall](https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe) | 3:56 |
+| 90 | [Wonderwall](https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe) | 3:56 |
+| 91 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
 | 92 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
 | 93 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 |
 | 94 | [Mirou](https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 |
 | 100 | [When the Party's Over](https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/23Va4fs3LT53tTYFp2dvmb) | 2:34 |
 
-Snapshot ID: `MCxmMmI4NWI3YWNkNTZhNjU1OGRjNDM0Y2ZiYmRkNWEwMDQ2YzA0Zjc2`
+Snapshot ID: `MCxhMzI5OWY3NGFlNDU1NDQ2OTBjZTJmNWY2ZDM4NzU1ODgzOGJlMDJk`

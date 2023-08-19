@@ -4,7 +4,7 @@
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-172 songs - 11 hr 43 min
+173 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 | 2021-12-07 |  |
 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 | 2021-12-07 |  |
 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 | 2021-12-07 |  |
+| [Creo En Mi \- Versión de: ANTOLOGÍA 20 AÑOS](https://open.spotify.com/track/20kACW3Sxoi4Lmq7E8wH48) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo En Mi \(Versión de: ANTOLOGÍA 20 AÑOS\)](https://open.spotify.com/album/1zFYAdhfPwLHEEHGGsoBwz) | 4:08 | 2023-08-18 |  |
 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 | 2021-12-07 |  |
 | [Cuando Mueres Por Alguien](https://open.spotify.com/track/1OebRQ9wy5wqLv21wSXjcT) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Soy Latino Vol\. 5](https://open.spotify.com/album/5fTHQyRre5vfWqCJflr7sM) | 3:56 | 2022-05-09 | 2022-11-13 |
 | [Cuando Mueres Por Alguien](https://open.spotify.com/track/6PGxt5a6I6G0tZhZTaupTj) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [La Casa Del Amor](https://open.spotify.com/album/3wOUvW0p0XQrFnM3X9l5us) | 3:56 | 2022-05-09 | 2023-04-11 |
@@ -174,7 +175,7 @@
 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 | 2021-12-07 |  |
 | [Y sólo se me ocurre amarte](https://open.spotify.com/track/05Zcw1sWmSu3wfbaLTeosp) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 4:37 | 2023-04-11 |  |
 | [Y, ¿Si fuera ella?](https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:23 | 2023-04-11 |  |
-| [Ya Es Muy Tarde](https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:01 | 2023-04-11 |  |
+| [Ya Es Muy Tarde](https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:01 | 2023-04-11 | 2023-08-19 |
 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 | 2021-12-07 |  |
 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 | 2021-12-07 | 2022-02-14 |
 | [Yo Quisiera](https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:37 | 2022-05-09 | 2023-04-11 |

@@ -1,15 +1,63 @@
 {
   "description": "Welcome to the Hope World! \ud83d\udc9c",
-  "num_followers": 417265,
+  "num_followers": 418309,
   "original_name": "This Is j-hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGQ1YmI2YjI4ZTc5Yjc0MmZjZGZiMjJmMGUzOTEyOGY3OTIzYmU1",
+  "snapshot_id": "MCwzNzRiYzZiZjIwM2E0YjQxZjk3MWE3OTAyZjZhMzA1YzhmMjIzZTYy",
   "tracks": [
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 258542,
+      "name": "Future (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV"
+    },
+    {
+      "added_at": "2023-08-18 04:19:17",
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 127869,
+      "name": "Equal Sign (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/2JcJJjTFzpGo1G5nXqC6Qq"
+    },
+    {
+      "added_at": "2023-08-18 04:19:17",
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 135142,
+      "name": "STOP (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/5m5te1JAMYvJmEa5XnGTWi"
+    },
+    {
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "on the street (with J. Cole)",
         "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
@@ -29,7 +77,7 @@
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
@@ -49,7 +97,7 @@
       "url": "https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Rush Hour",
         "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
@@ -69,7 +117,7 @@
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -85,7 +133,7 @@
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
@@ -101,7 +149,7 @@
       "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -117,7 +165,7 @@
       "url": "https://open.spotify.com/track/0M7ai1yfYyb4OlyRgdmtTK"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -133,7 +181,7 @@
       "url": "https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -149,7 +197,7 @@
       "url": "https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -165,7 +213,7 @@
       "url": "https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -181,7 +229,7 @@
       "url": "https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -197,7 +245,7 @@
       "url": "https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -213,7 +261,7 @@
       "url": "https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -229,7 +277,7 @@
       "url": "https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Blue Side",
         "url": "https://open.spotify.com/album/1PwHmb34vUnPLJp3vSLKed"
@@ -245,7 +293,7 @@
       "url": "https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Chicken Noodle Soup (feat. Becky G)",
         "url": "https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
@@ -297,7 +345,7 @@
       "url": "https://open.spotify.com/track/4YDHRtzm0OGuieCTVQjVuk"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/2LVw2bIK99go1NdD77dUCW"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
@@ -345,7 +393,7 @@
       "url": "https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
@@ -361,7 +409,7 @@
       "url": "https://open.spotify.com/track/78GQP9XBSqpEDlMoPAbUAJ"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
@@ -377,7 +425,7 @@
       "url": "https://open.spotify.com/track/56sdcbPR74RxqmKVbQzJ8s"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/3eSCPt6StovDAIps2XhZ2Z"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/270k38FpoKhnvZLv50NlTr"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
@@ -429,7 +477,7 @@
       "url": "https://open.spotify.com/track/2jk6oBuLiCZJTDWhlJEzIw"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "I'm Da One",
         "url": "https://open.spotify.com/album/3Ds62hZPPPtvWgLDQLo5lD"
@@ -465,7 +513,7 @@
       "url": "https://open.spotify.com/track/6idjdo9ya87si2JI5OdbXc"
     },
     {
-      "added_at": "2023-07-20 09:04:38",
+      "added_at": "2023-08-18 04:19:17",
       "album": {
         "name": "The Project",
         "url": "https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn"
@@ -487,6 +535,38 @@
       "duration_ms": 189173,
       "name": "A Song Make to You Smile",
       "url": "https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt"
+    },
+    {
+      "added_at": "2023-08-18 04:19:17",
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 178584,
+      "name": "MORE (Instrumental)",
+      "url": "https://open.spotify.com/track/5rJgabqFRVuC3yN7f7L5IC"
+    },
+    {
+      "added_at": "2023-08-18 04:19:17",
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 159770,
+      "name": "Arson (Instrumental)",
+      "url": "https://open.spotify.com/track/02FJa38VBPTnwinFBloq8P"
     }
   ],
   "unique_name": "This Is j-hope",

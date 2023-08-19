@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-329 songs - 16 hr 5 min
+330 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Divine minds](https://open.spotify.com/track/6skca3GCeAwI3v9EKznj7C) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Selah](https://open.spotify.com/album/3JAIlFvm8jDNaB3ciieLqK) | 3:05 | 2023-04-06 |  |
 | [Downstream](https://open.spotify.com/track/3k5J26HJZ8tZHEGsg0s32u) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Downstream](https://open.spotify.com/album/1QYN4P1EHdrEIhMYBh17TD) | 2:38 | 2023-04-06 |  |
 | [Dreaming](https://open.spotify.com/track/5ewuV9PoExpWPIedXbEIJv) | [Wes Jools](https://open.spotify.com/artist/2Tsae4bvjzn4Xtc8EhQrdG) | [Dreaming](https://open.spotify.com/album/2mua8SuagF4jqz05kI6JeR) | 3:14 | 2023-04-06 |  |
-| [Dreaming In Red](https://open.spotify.com/track/6PSJuGFslPV78KN8OP6JJS) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Dreaming In Red](https://open.spotify.com/album/4QXfujCE7LFkZInZb0BqVy) | 2:57 | 2023-04-06 |  |
+| [Dreaming In Red](https://open.spotify.com/track/6PSJuGFslPV78KN8OP6JJS) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Dreaming In Red](https://open.spotify.com/album/4QXfujCE7LFkZInZb0BqVy) | 2:57 | 2023-04-06 | 2023-08-19 |
 | [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2023-04-06 | 2023-05-04 |
 | [drifting](https://open.spotify.com/track/6OgdBT8iNZJNmidOy2ImdF) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity, vol\. ii \(sleep\)](https://open.spotify.com/album/4OAWLl91Aso1DTKL4I8AL8) | 2:45 | 2023-04-21 |  |
 | [Drone](https://open.spotify.com/track/6ZRIH4QEe0sAkUCup8OmZM) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Drone](https://open.spotify.com/album/0eb5cxLBxQ6oYqT9VDwjo4) | 3:11 | 2023-06-16 |  |
@@ -269,6 +269,7 @@
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2023-04-06 |  |
 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2023-04-06 |  |
 | [Simplistica](https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Simplistica](https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx) | 2:07 | 2023-04-06 |  |
+| [Sky Nites\-último Salida](https://open.spotify.com/track/1VJlZIT9qc57W9wOF4pO1F) | [Sky Nites](https://open.spotify.com/artist/1K0JNNtOGqMEEvlYBu79SS) | [último Salida](https://open.spotify.com/album/3mmzvGDX1FK9OuLroj637U) | 3:06 | 2023-08-18 |  |
 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 | 2023-04-06 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/0e8cWeGGK506BTR56KOopd) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Sleeping Beauty](https://open.spotify.com/album/6dARYqQCoczKIcZanMcfLD) | 3:03 | 2023-04-06 |  |
 | [Sleepwaves](https://open.spotify.com/track/3TzJZVPEKdiyFcv6aKDkOg) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Sleepwaves](https://open.spotify.com/album/0B0KkOA8LKhE16HTnPq1aX) | 2:52 | 2023-04-06 |  |

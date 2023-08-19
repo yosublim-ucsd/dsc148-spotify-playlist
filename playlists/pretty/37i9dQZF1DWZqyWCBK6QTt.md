@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,996 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,121 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 4:39 |
 | 150 | [Sugar Man](https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux) | 4:21 |
 
-Snapshot ID: `MCw1Zjc5YWZiNGVkZDZjYzkzMzNlZDEwNzJjMGFjNjcwYzk1YjRkOGFl`
+Snapshot ID: `MCw5OGQ2ODkxOTlkMDE4OWVlNjk0NDljN2YzOWQ3Nzk4NWZmYjQ0YWRj`

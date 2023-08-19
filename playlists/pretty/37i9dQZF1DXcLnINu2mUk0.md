@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,940 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,972 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 64 | [Tudo Se Repete](https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su) | [Miguel](https://open.spotify.com/artist/7a4kyJ95ewEhOmBeDFH5Qz) | [Tudo Se Repete](https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe) | 3:06 |
 | 65 | [Ohhh](https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Ohhh](https://open.spotify.com/album/3yRusfv9KZ0EFI2HWpO77p) | 3:38 |
 | 66 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 |
-| 67 | [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 |
-| 68 | [Não Liga Pra Mim](https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Não Liga Pra Mim](https://open.spotify.com/album/6DQkKTTgkyn0vajNSZTwer) | 2:45 |
-| 69 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
-| 70 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 |
+| 67 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
+| 68 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 |
+| 69 | [Não Liga Pra Mim](https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Não Liga Pra Mim](https://open.spotify.com/album/6DQkKTTgkyn0vajNSZTwer) | 2:45 |
+| 70 | [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 |
 
-Snapshot ID: `MCxkYmYxZjFjNjVlZmFiNzhjZjc1MTM5YmJkYTE2ZDVlMDM1ODVlMTEw`
+Snapshot ID: `MCwxOWQzMDA2YjEyYzU0OTJhYjkzOGVmYTgzNzNjOTMzMjg5NmFmNWU3`

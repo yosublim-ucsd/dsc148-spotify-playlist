@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > 2013 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,356 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,417 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 99 | [Paris](https://open.spotify.com/track/4EaO2XR7gWaHq8DW7nu1iY) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:52 |
 | 100 | [If So](https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:00 |
 
-Snapshot ID: `MCw1ZTQzOGU2MzY3M2YxMTVmODViNDkyY2I3M2NhYjljYTMyZjY1NTE0`
+Snapshot ID: `MCwwNjU4NjY0NWZjYjM0ODM4ZDBiMGEzMjVmNjVjNGYyZTNkYWQ2YzNh`

@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218502,
+      "name": "Bigger Than The Whole Sky",
+      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+    },
+    {
+      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
@@ -446,6 +464,24 @@
       "duration_ms": 170360,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
+    },
+    {
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149390,
+      "name": "claws",
+      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
     },
     {
       "album": {
@@ -825,6 +861,28 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -894,6 +952,24 @@
       "duration_ms": 214463,
       "name": "found my friends",
       "url": "https://open.spotify.com/track/2XmcVGC8s33zjG2aeVTnFe"
+    },
+    {
+      "album": {
+        "name": "New Miserable Experience",
+        "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
+      },
+      "artists": [
+        {
+          "name": "Gin Blossoms",
+          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Found Out About You",
+      "url": "https://open.spotify.com/track/5WmDRnuGYo31xrWNDcYaps"
     },
     {
       "album": {
@@ -1023,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6YsYS9U2ngTayFloBzJMoP"
+      },
+      "artists": [
+        {
+          "name": "FLOOR CRY",
+          "url": "https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140669,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/5lsqoAqRnzpkDze5iy3VxL"
+    },
+    {
+      "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
       },
@@ -1077,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106866,
+      "name": "Hold My Head",
+      "url": "https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q"
       },
@@ -1095,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228071,
+      "name": "How to disappear",
+      "url": "https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk"
+    },
+    {
+      "album": {
         "name": "I Can't Go Back To The Way It Was (Intro)",
         "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
       },
@@ -1110,6 +1240,24 @@
       "duration_ms": 95273,
       "name": "I Can't Go Back To The Way It Was (Intro)",
       "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
+    },
+    {
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "album": {
@@ -1533,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258004,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -1775,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Nobody Sees Me Like You Do",
+        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211635,
+      "name": "Nobody Sees Me Like You Do",
+      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+    },
+    {
+      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1866,6 +2050,24 @@
       "duration_ms": 23238,
       "name": "Opening",
       "url": "https://open.spotify.com/track/3YccYFibgwfAbYJ8HBzQRi"
+    },
+    {
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "album": {

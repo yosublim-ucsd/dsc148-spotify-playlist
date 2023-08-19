@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0cqPg2AZJ9hfTLEGvwlqap"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177973,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/0ZJYidVg2ft0e4Zt0wRasq"
+    },
+    {
+      "album": {
         "name": "Best Worst Ex",
         "url": "https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 174973,
       "name": "Can I Get It Back",
       "url": "https://open.spotify.com/track/3dRMxBaouik33046d8r5fL"
@@ -726,6 +744,24 @@
       "duration_ms": 168401,
       "name": "Changed",
       "url": "https://open.spotify.com/track/59CcTuZW4YDSAok0ZOOTgx"
+    },
+    {
+      "album": {
+        "name": "Chevy",
+        "url": "https://open.spotify.com/album/4BdRzFSbh6cdV2CuXUMAC2"
+      },
+      "artists": [
+        {
+          "name": "Ashlie Amber",
+          "url": "https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168564,
+      "name": "Chevy",
+      "url": "https://open.spotify.com/track/2S1AUpbamlb1XijnpBlOZ9"
     },
     {
       "album": {
@@ -960,6 +996,24 @@
       "duration_ms": 178740,
       "name": "Damsel in this Dress",
       "url": "https://open.spotify.com/track/7ArpFETe69QZq26EZ9R3Gy"
+    },
+    {
+      "album": {
+        "name": "Dickhead",
+        "url": "https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150740,
+      "name": "Dickhead",
+      "url": "https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe"
     },
     {
       "album": {
@@ -4025,6 +4079,24 @@
     },
     {
       "album": {
+        "name": "Some Are Love",
+        "url": "https://open.spotify.com/album/0UqsN9S6rMzzAxpHmrCk7N"
+      },
+      "artists": [
+        {
+          "name": "Malachi Gagnon",
+          "url": "https://open.spotify.com/artist/5ypiXY7PJ0KSUk5YbaNv3t"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183582,
+      "name": "Some Are Love",
+      "url": "https://open.spotify.com/track/1Wn6rLDvovKIKkTEF4TCYj"
+    },
+    {
+      "album": {
         "name": "Somebody Loves You",
         "url": "https://open.spotify.com/album/0QEobz2FDq9LU0CDSClIWF"
       },
@@ -4874,6 +4946,24 @@
       "duration_ms": 193877,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5g3zZghZYNswZEt2znFIFe"
+      },
+      "artists": [
+        {
+          "name": "Morgan Myles",
+          "url": "https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173677,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6YNx3NLrVFuBXs2CkfMF5s"
     },
     {
       "album": {

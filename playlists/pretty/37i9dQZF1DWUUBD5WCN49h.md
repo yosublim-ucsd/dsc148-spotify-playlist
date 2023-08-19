@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50?si=sdxysK2LS8ePvYTznk61BQg"> Kaestyle</a>  and <a href="https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl?si=PoKTIfpuSZSRamaKX6WdfQ"> LeriQ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,408 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,425 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Leriq](https://open.spotify.com/artist/3hQSJlOr4WnGv5eDk88Pq3) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
+| 1 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
 | 2 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 |
 | 3 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 |
 | 4 | [One Sided](https://open.spotify.com/track/5O6gwrht50Qf3Sy33yZZ1F) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [One Sided](https://open.spotify.com/album/5V6lZIrznQGv9oEyPlMkhE) | 2:59 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [Complete](https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Complete](https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD) | 2:40 |
 | 90 | [In My Bed](https://open.spotify.com/track/1IGUy2nvx6G10HzyWiePaJ) | [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX) | [In My Bed](https://open.spotify.com/album/68NzuGaGavWYXT8Tuiikht) | 3:13 |
 
-Snapshot ID: `MCw4NWY3ZGJmNzU4MTllZWE5OWNkNzAwZGVhOTUxZDAzMDQ4MTQ2YTA1`
+Snapshot ID: `MCw2NzI5YmViYzdjZjE5OTNjMTkxYzdkODA4M2I4OGFhYjlkN2FiNmY0`

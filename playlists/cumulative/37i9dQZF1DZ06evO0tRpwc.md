@@ -4,7 +4,7 @@
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 49 min
+56 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Voz \(feat\. Daniela Araújo\)](https://open.spotify.com/track/1cVSnQQIkjPgOnV6GohVEB) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 4:31 | 2023-07-09 |  |
 | [Abba](https://open.spotify.com/track/58NQJq6MIMpgrF5ytneVo4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Abba](https://open.spotify.com/album/2FWnd1O8LVTNgri202OR2W) | 4:23 | 2023-07-09 |  |
 | [Abril](https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitor Kivitz](https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:49 | 2023-07-09 |  |
+| [Agosto](https://open.spotify.com/track/3R43RMacWkMUFF1KrSQynL) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Agosto](https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2) | 5:02 | 2023-08-18 |  |
 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 | 2023-07-09 |  |
 | [Assim Eu Sou \(feat\. Daniela Araújo\)](https://open.spotify.com/track/05mwu7pLihvrLbqnJ7UkHf) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Graça](https://open.spotify.com/album/4qqAlVI0hP6ChNG47MTzpl) | 3:36 | 2023-07-09 |  |
 | [Bem Melhor =\) \(Fogo\) \- Piano e Voz](https://open.spotify.com/track/3K7q49Ism6zlVIS03yHc0Y) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Bem Melhor =\) \(Fogo\)](https://open.spotify.com/album/1geA7zrjdcCV7MN1vLlsMS) | 3:17 | 2023-07-09 |  |
@@ -50,7 +51,7 @@
 | [Quem de Nós \- Versão Alternativa](https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Bruno Faglioni](https://open.spotify.com/artist/4LIbjnopQ6CL8GEybKGTmq) | [Quem de Nós \(Versão Alternativa\)](https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe) | 5:07 | 2023-07-09 |  |
 | [Quem é Esse? \(feat\. Daniela Araújo\) \- Ao Vivo](https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acelera e Pisa \(Ao Vivo\)](https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3) | 5:21 | 2023-07-09 |  |
 | [Ruídos](https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Ruídos](https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX) | 5:20 | 2023-07-09 |  |
-| [Santo](https://open.spotify.com/track/2MHys4QtjlA9PW4vpWMHme) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Santo](https://open.spotify.com/album/5jFjtCN7cYop72h0iylfxk) | 3:38 | 2023-07-09 |  |
+| [Santo](https://open.spotify.com/track/2MHys4QtjlA9PW4vpWMHme) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Santo](https://open.spotify.com/album/5jFjtCN7cYop72h0iylfxk) | 3:38 | 2023-07-09 | 2023-08-19 |
 | [Santo/ Graça](https://open.spotify.com/track/33O7e0HmKndEDMf6hj96p0) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:18 | 2023-07-09 | 2023-08-17 |
 | [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 | 2023-07-30 |  |
 | [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 | 2023-07-09 | 2023-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,495 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,525 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Faculties](https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:41 |
 | 100 | [Landkjenning](https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Landkjenning](https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG) | 3:35 |
 
-Snapshot ID: `MCxkNWFlZDZjZjI1ZTBiM2JkZjQ1N2ZmOWFkNjJkZjM0NDczMmE2YjY3`
+Snapshot ID: `MCxjYjIyNDdiN2M0NGNmZTBiN2EyOTgyMDRlNjRiMWZiYzQ3ODAxMTc0`

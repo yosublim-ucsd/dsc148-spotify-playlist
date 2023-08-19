@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=JHPSeMBEQXGlrqGn3vLPuw">Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,276 likes - 61 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,290 likes - 61 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 2 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 |
-| 3 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |
+| 3 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |
 | 4 | [51 SIMPSON sT.](https://open.spotify.com/track/5nCRwEupvHiUcWdTDJ3UKF) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [TMX002: X & The Machine.](https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO) | 3:06 |
 | 5 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 |
 | 6 | [UNAVAILABLE \(feat\. Musa Keys\) \- Major Lazer Remix](https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [UNAVAILABLE \(feat\. Musa Keys\) \[Major Lazer Remix\]](https://open.spotify.com/album/5hCoRG8VEHUOsZ55sQWYEs) | 3:52 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 60 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 | 61 | [Sunmomi](https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:48 |
 
-Snapshot ID: `MCw4NzRhY2I0NjhjZjgwNDkxZDlmMjg3MjJjNWMxNWRlZjUwMWM4OTFi`
+Snapshot ID: `MCwwYmM4NzdkOGM0MWJmYjQ4Y2RjYWY2OWZiY2MxYWY2ZWNkODUxYjA5`

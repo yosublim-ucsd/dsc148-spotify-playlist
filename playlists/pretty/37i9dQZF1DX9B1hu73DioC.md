@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,187 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,426 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 15 | [Tangerine Light](https://open.spotify.com/track/2nBUosccBuqHQEsK0ewSQY) | [Moon Panda](https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm) | [Sing Spaceship, Sing!](https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv) | 3:07 |
 | 16 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
 | 17 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 |
-| 18 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
+| 18 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 |
 | 19 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
-| 20 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 |
+| 20 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
 | 21 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
 | 22 | [2AM](https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [2AM](https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf) | 2:33 |
 | 23 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 71 | [Estrangers](https://open.spotify.com/track/6ZyJiCgtPz0gJrhubGLkud) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Estrangers](https://open.spotify.com/album/1mB8gNDaDUgY97MgmeMOQI) | 3:19 |
 | 72 | [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 |
 | 73 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 |
-| 74 | [Float Away](https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Float Away](https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe) | 3:06 |
-| 75 | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 |
+| 74 | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 |
+| 75 | [Float Away](https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Float Away](https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe) | 3:06 |
 | 76 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
 | 77 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
 | 78 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 97 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 |
 | 98 | [I SEE IT COMING](https://open.spotify.com/track/4qDVck33icBULgnvP6WmPh) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I SEE IT COMING](https://open.spotify.com/album/71O6TEo8R5qHRNuoMXfeDo) | 3:04 |
 | 99 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
-| 100 | [Running Around](https://open.spotify.com/track/35DHCZvQcy8PIM0eJmVS1X) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Running Around](https://open.spotify.com/album/3SZkoZ1AS0DAW8jyMQUQ0q) | 4:28 |
+| 100 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 |
 
-Snapshot ID: `MCw2NWNmZmNiNTE1MDA1YTA1ZWU0NjAxOWFjY2RlYjExM2UyZDlmNmYw`
+Snapshot ID: `MCxiMDFlYmIxNGU1NTYwODA0YzliZjg0MDhkNGI4MzY0ZjJkNDA3Njk4`

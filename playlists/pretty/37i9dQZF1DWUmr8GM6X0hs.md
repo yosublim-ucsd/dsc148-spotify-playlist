@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,699 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,763 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Sendas Distintas](https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv) | [Trío Los Brillantes](https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S) | [Época de Oro](https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx) | 3:14 |
 | 60 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |
 
-Snapshot ID: `MCwxM2FkMjAxNTJmYWU2ZGI1MmFiNDViOGE3YzllZDA1YzViNTI0ZTZj`
+Snapshot ID: `MCwwOTVhYTU4MzNmNjcwNWU0NGVmNGI4YzZlZDQ5OThlMjQzYTAwY2Zm`

@@ -5996,7 +5996,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 191976,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4yePx3vjQVM5gPmbYBEnSc"
@@ -9329,6 +9329,24 @@
     },
     {
       "album": {
+        "name": "SANTIAGO",
+        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190915,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
+    },
+    {
+      "album": {
         "name": "No Remedy Pt.2",
         "url": "https://open.spotify.com/album/490Y2UByqWngOzMoqNQdpJ"
       },
@@ -9424,7 +9442,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 162197,
       "name": "Normal",
       "url": "https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD"
@@ -9606,6 +9624,24 @@
       "duration_ms": 106892,
       "name": "Not Worth It",
       "url": "https://open.spotify.com/track/49eyKGPy5hw2kdKzUqQgfb"
+    },
+    {
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "album": {

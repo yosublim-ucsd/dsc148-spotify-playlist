@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Can We Talk",
+        "url": "https://open.spotify.com/album/2ue7GjPC8MDeflNgril0sq"
+      },
+      "artists": [
+        {
+          "name": "Eric Knight",
+          "url": "https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250146,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/621i6kpO5Te1WLiMgnovdQ"
+    },
+    {
+      "album": {
         "name": "Can You Stand the Rain",
         "url": "https://open.spotify.com/album/0lIu2Rc7OdLodxbwCbsd3i"
       },
@@ -1187,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288973,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/5DwzpU2uM8nz7yIGze3P63"
+    },
+    {
+      "album": {
         "name": "Soul City",
         "url": "https://open.spotify.com/album/4Jj97bMYrq0sBHJeRNUGQl"
       },
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 256708,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
@@ -4480,7 +4516,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 280649,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/1agamZXMvCbzZKN6F7oopr"
@@ -6347,6 +6383,24 @@
     },
     {
       "album": {
+        "name": "The Thing Is...",
+        "url": "https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K"
+      },
+      "artists": [
+        {
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "The Thing Is...",
+      "url": "https://open.spotify.com/track/74TMwWbbqCMNtie5jGo7rL"
+    },
+    {
+      "album": {
         "name": "Twice As Nice",
         "url": "https://open.spotify.com/album/5qhN4XroM8EXopUNSmq4Vi"
       },
@@ -7012,7 +7066,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/78dIxf6kjnSm1GEpHAdFuD"
@@ -7099,6 +7153,24 @@
     },
     {
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3cNseKEug7IIPOoZ47PPS7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Ross",
+          "url": "https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164423,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/1EnUrGLxtwhKiaPeo8jsUq"
+    },
+    {
+      "album": {
         "name": "Phillip Doc Martin",
         "url": "https://open.spotify.com/album/58r40GhiWWH5oCZ29CWcD1"
       },
@@ -7164,7 +7236,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 234600,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/2BbDq3jIwUvdVtdbnwH9pr"

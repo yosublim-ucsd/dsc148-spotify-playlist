@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,791 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,931 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
 | 100 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
 
-Snapshot ID: `MCwyYWNhYWJiZmVhZTFjNGM0ZDIyYTI3YjdhM2I3ZTI5ZDgxNWE4NWM2`
+Snapshot ID: `MCxjMDk1MTI5OGJjYTg2MmNiZmQwOTU1N2U0YzNhOTMyZjRmMjMxMmYw`

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: マカロニえんぴつ
 
-686 songs - 1 day 18 hr 46 min
+687 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bad Night](https://open.spotify.com/track/6iqBxITQpEILbhSPb5RthA) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Bad Night](https://open.spotify.com/album/2ugqR8jijlCZygWxtyfLUJ) | 4:08 | 2023-02-28 | 2023-04-21 |
 | [Bakemono no Hanashi](https://open.spotify.com/track/4RMXwdVJ4rNwsXravMnTxk) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Bakemono no Hanashi](https://open.spotify.com/album/4ZBKVAEsiMwctHwoaU1qaj) | 3:25 | 2023-01-13 | 2023-02-15 |
 | [BAN BAN TONIGHT](https://open.spotify.com/track/5aREMg9DtUfZq2tEQly7Bs) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [BAN BAN TONIGHT](https://open.spotify.com/album/2hQiOey1PkuuZZMpMEKw4r) | 5:22 | 2023-04-25 | 2023-05-03 |
+| [Banka no Akashi](https://open.spotify.com/track/3fWAGzcV3G4XYu6kEsTMU7) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Banka no Akashi](https://open.spotify.com/album/7Dfb8hb12z23KuFpeLnmjJ) | 5:45 | 2023-08-17 |  |
 | [BANTAM](https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [BANTAM](https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI) | 3:34 | 2023-02-07 | 2023-03-08 |
 | [Be My Baby](https://open.spotify.com/track/0JFVcuL8oIyF0JVm6cTNvx) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Be My Baby](https://open.spotify.com/album/3aaFwxMjrSsmPWZpJ7Ig0H) | 3:49 | 2023-07-04 | 2023-07-06 |
 | [Be My Baby](https://open.spotify.com/track/7rTDgZStUEXS4suFRnewjl) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Be My Baby](https://open.spotify.com/album/0iccOoJs0Id7qeP40Wbuch) | 3:49 | 2023-07-04 | 2023-08-11 |
@@ -620,7 +621,7 @@
 | [春はグラデーション](https://open.spotify.com/track/1IkCdCF5JlgKQYhgO34G3o) | [The Yogurts](https://open.spotify.com/artist/5Dxf63fwaN5YDewdjxuumR) | [春はグラデーション](https://open.spotify.com/album/5XGXLJsorSR2qMt3ZmqfNx) | 4:16 | 2023-04-27 | 2023-05-17 |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-15 |
 | [春告](https://open.spotify.com/track/5fXCX7eOJSTM6JnwkVeaXJ) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [春告](https://open.spotify.com/album/6lXoXCIkKfwKjAxPhDCRYZ) | 3:15 | 2023-03-07 | 2023-04-05 |
-| [晩夏の証](https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [晩夏の証](https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd) | 5:45 | 2023-08-17 |  |
+| [晩夏の証](https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [晩夏の証](https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd) | 5:45 | 2023-08-17 | 2023-08-19 |
 | [最低なともだち](https://open.spotify.com/track/0DbObC32hy6ISAqkWrmV13) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [最低なともだち](https://open.spotify.com/album/1dBBgW5NchBijnKn9h2K0X) | 4:33 | 2023-05-11 | 2023-06-21 |
 | [最終兵器ディスコ](https://open.spotify.com/track/4NKKNxn5Y1GYl4PFhZjZiA) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [最終兵器ディスコ](https://open.spotify.com/album/20HS72DzjDnADhumAOal9J) | 3:36 | 2023-03-14 | 2023-03-29 |
 | [月の花](https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [月の花 EP](https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h) | 3:54 | 2023-02-28 | 2023-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,731 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,758 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 |
 | 60 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 |
 
-Snapshot ID: `MCwwYTRhYWUzYjBkMDY0ZjUyMzVhOWRiOGRmY2RhYzkzOTI0OTRlNjli`
+Snapshot ID: `MCw0ZDYxMWZhNTk0YjQ3MWYxNzc0ZjM2MmJiMzRmNjhkNmNjYmY4MWYx`

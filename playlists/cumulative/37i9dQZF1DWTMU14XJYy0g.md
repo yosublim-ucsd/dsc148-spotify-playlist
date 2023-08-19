@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Él Mató a un Policía Motorizado.
 
-198 songs - 12 hr 24 min
+199 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Consuelo Eterno](https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Consuelo Eterno](https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo) | 4:01 | 2023-05-05 | 2023-07-29 |
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-06-24 |  |
 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 | 2022-06-24 |  |
+| [Corazón](https://open.spotify.com/track/0fykSvqczR1CXD6PWnusOW) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Corazón](https://open.spotify.com/album/4bdbHQc0l5NHBH4Mjh4TRU) | 3:27 | 2023-08-18 |  |
 | [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 | 2022-12-10 |
 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2022-11-18 |  |
 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 | 2023-06-02 |  |
@@ -45,7 +46,7 @@
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
 | [Dame Rock](https://open.spotify.com/track/3QZZYSB4aafCmPe14ElQIM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 2:06 | 2023-06-16 |  |
 | [Dame Rock](https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:06 | 2023-06-02 | 2023-06-25 |
-| [De las Ventajas de Caminar Dormida](https://open.spotify.com/track/4j4zS5Kk3gMLv83QegL9DU) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [De las Ventajas de Caminar Dormida](https://open.spotify.com/album/2xXNK36mEbfYTVdUO5G1Vz) | 3:48 | 2022-09-30 |  |
+| [De las Ventajas de Caminar Dormida](https://open.spotify.com/track/4j4zS5Kk3gMLv83QegL9DU) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [De las Ventajas de Caminar Dormida](https://open.spotify.com/album/2xXNK36mEbfYTVdUO5G1Vz) | 3:48 | 2022-09-30 | 2023-08-19 |
 | [De Nada Sirve](https://open.spotify.com/track/1U0Sdf0M4YoKDQiJwIO64m) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 7:36 | 2022-06-24 |  |
 | [Demolición](https://open.spotify.com/track/0v1kN4ZUADCs0ZnQyBA9Pf) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Effatá](https://open.spotify.com/album/3uROJaWfcDjawQ2Bo5DoCj) | 2:45 | 2022-11-11 | 2023-06-01 |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-05 |  |

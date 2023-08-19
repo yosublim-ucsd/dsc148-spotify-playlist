@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Becca Mancari
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,882 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,985 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 |
 | 125 | [Guts](https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Guts](https://open.spotify.com/album/0PQmgJOVE5gyJc4JimlSX6) | 5:04 |
 
-Snapshot ID: `MCw3YWRlZjYwNWUwNTNiNTQ2Y2Q5YzVkZWJmY2M1ZTI2YTRkYmFlOTlm`
+Snapshot ID: `MCxjMzZlZTE2YmEyZWE4M2QwYTNkZjc0M2FmMDI2YTE5ZGExYjVlMjVl`

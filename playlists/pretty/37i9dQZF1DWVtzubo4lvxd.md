@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,798 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,816 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Sunshine](https://open.spotify.com/track/67hguDDPd8uEwltmM4P2qz) | [Seneca B](https://open.spotify.com/artist/31q0UDtgTobClaGczO3KBk) | [Sunshine](https://open.spotify.com/album/2c91h6nSOG2dhU9O0GitYN) | 3:30 |
 | 75 | [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 |
 
-Snapshot ID: `MCwzZThlOTRhMzQxOTRhZjRkOTQ3OThhOTNlZmRiNDViMzI5NmYyYzQ3`
+Snapshot ID: `MCxhNTQ1YTYzYzc4ZWFhYjE3ZWViNzg1MTA3MDVkMDlhZTE5ODI3MTFj`

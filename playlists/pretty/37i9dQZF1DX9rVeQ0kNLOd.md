@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,179 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,195 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
 | 50 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 |
 
-Snapshot ID: `MCwyNzE5YTVhNDQwOWE4ZmY4MmVlY2RlYjc3NzE3YmE5MzE1ZjkzM2Zk`
+Snapshot ID: `MCxlNGFhNzdjMzMwOWE1ZDYyOGFjZDgxNjBjNWYwYjE3MzBlMmI2MWM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,126 likes - 46 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,144 likes - 46 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 9 | [My Worship \- Live](https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:40 |
 | 10 | [The Worship Medley \(There Is Nothing Like/Glory To God Forever\) \- Live](https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 8:13 |
 | 11 | [Walk By Faith](https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 6:55 |
-| 12 | [Bless The Lord \(Son Of Man\)](https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:31 |
-| 13 | [Victory \- Live](https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:09 |
+| 12 | [Victory \- Live](https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:09 |
+| 13 | [Bless The Lord \(Son Of Man\)](https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:31 |
 | 14 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
 | 15 | [Immanuel](https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:43 |
 | 16 | [There Is Nothing Like \- Live](https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 0:50 |
 | 17 | [Everything Part I, Part II / Bow Before the King \- Live](https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:22 |
-| 18 | [Anyhow \- Radio Edit](https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 3:58 |
-| 19 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
+| 18 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
+| 19 | [Anyhow \- Radio Edit](https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 3:58 |
 | 20 | [Goodness Of God \- Live](https://open.spotify.com/track/2vpzga018mYLVXkE77wEds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:41 |
 | 21 | [Be Alright](https://open.spotify.com/track/1lgy6Rg78ekOXUXP3V2BIk) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:12 |
 | 22 | [African Medley \- Live](https://open.spotify.com/track/4OpPtI0wirTyNdX1ZO1pJs) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Mumen Ngenge](https://open.spotify.com/artist/2hwdd67UqAm97Lc4tMb1BX) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 9:39 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 33 | [Nobody \- Live](https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:34 |
 | 34 | [Let Us Worship](https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:17 |
 | 35 | [1\-2 \(Victory Check\) \- Live](https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 3:18 |
-| 36 | [I Give You Glory](https://open.spotify.com/track/3OV4aZDRNpg46THOyltbUE) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:25 |
-| 37 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
+| 36 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
+| 37 | [I Give You Glory](https://open.spotify.com/track/3OV4aZDRNpg46THOyltbUE) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:25 |
 | 38 | [Hold On](https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:06 |
 | 39 | [Craving \- Live](https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 7:21 |
 | 40 | [He's Gonna Come Through \- Live](https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 4:56 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 45 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 |
 | 46 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 |
 
-Snapshot ID: `MjgyMDMyNjEsMDAwMDAwMDBiMWNmMjQ5ODE4NDQ4NTY1ZWY5ZDEzZDJjMGY1NzVhYg==`
+Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDBlYzY4MGM2M2I3ZGJlYTMyMjFiZDU0YWM3NGUzNzhmNg==`

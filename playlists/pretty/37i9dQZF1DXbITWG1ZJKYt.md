@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,069,571 likes - 250 songs - 21 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,071,324 likes - 250 songs - 21 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [Autumn Leaves](https://open.spotify.com/track/1QlTNF43OyKK9BorIRsJ8o) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Jazz Moods \- Cool](https://open.spotify.com/album/3Cnj43AyRQy21WQWsngNDs) | 7:02 |
 | 250 | [A Love Supreme, Pt\. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:42 |
 
-Snapshot ID: `MCxiMjQ4Mjk5MDAzYWMxNjg5MmY0MTc3NmQ3NjVhZWQwOTQzZmUxODU3`
+Snapshot ID: `MCwwNjcwYzI0NGMxMTA1OWQzMWM5OTdjZGJkZTlhZjkzYWI4ODk4ZjQ4`

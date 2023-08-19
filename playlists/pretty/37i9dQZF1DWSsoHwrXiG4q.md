@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,211 likes - 81 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,279 likes - 80 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 | 72 | [Watercolours](https://open.spotify.com/track/36C8hUGIuj1P9IARALVfUn) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/5YjeFnZfs3rck35FhyEOH6) | 5:36 |
 | 73 | [Departure](https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Captivate](https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo) | [Fade Into Dust / Departure](https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8) | 4:36 |
 | 74 | [Circle](https://open.spotify.com/track/66GMztxOitMz2i16xt1iU6) | [imo\-Lu](https://open.spotify.com/artist/5H13I6EsiXG7ZuZcqE6Ihg) | [Future Symptoms Vol.2](https://open.spotify.com/album/4sgf4yovJ06aDNlHsCcodH) | 5:13 |
-| 75 | [Better On My Own](https://open.spotify.com/track/6ivAkCIVv986W98MiE7xB1) | [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [SHEIVA](https://open.spotify.com/artist/7gQPNN7t0vF7LjfCdXrCzA) | [Better On My Own / Darling](https://open.spotify.com/album/18zAr9OwZKslHj7ZHF38LH) | 4:30 |
-| 76 | [Nothin But Love \- Original Mix](https://open.spotify.com/track/5rtGhin74wxFojrPqgTpdY) | [Dave Owen](https://open.spotify.com/artist/4YtxzfRdAhFuhylm1O3gYn) | [Nothin But Love](https://open.spotify.com/album/40C9wHFoQ09IPM4Nw0jUon) | 6:40 |
-| 77 | [Feel Me](https://open.spotify.com/track/1HcH5kwmpDJ8qyPL5GHx0z) | [Linquei](https://open.spotify.com/artist/1f1aYXcRPviy2KuNn8K3Pd) | [Liquidism \(Volume 12\)](https://open.spotify.com/album/0FlI19Se2vM93u4g9xbM5H) | 5:26 |
-| 78 | [Ubiquitous](https://open.spotify.com/track/4U8ltC3h5mytL6jwSRnP8i) | [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR) | [Ubiquitous \- EP](https://open.spotify.com/album/1An7AbyWhoU1ZdX74ykPge) | 5:14 |
-| 79 | [Heat](https://open.spotify.com/track/1hYilXtoru2HU5WFC4c6Hb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:33 |
-| 80 | [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 |
-| 81 | [sensitivity](https://open.spotify.com/track/2fMhhLIxKzG6FjBYKMTgvo) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [sensitivity](https://open.spotify.com/album/5v51rnyBdJ5jCnMQtOk2le) | 2:04 |
+| 75 | [Nothin But Love \- Original Mix](https://open.spotify.com/track/5rtGhin74wxFojrPqgTpdY) | [Dave Owen](https://open.spotify.com/artist/4YtxzfRdAhFuhylm1O3gYn) | [Nothin But Love](https://open.spotify.com/album/40C9wHFoQ09IPM4Nw0jUon) | 6:40 |
+| 76 | [Feel Me](https://open.spotify.com/track/1HcH5kwmpDJ8qyPL5GHx0z) | [Linquei](https://open.spotify.com/artist/1f1aYXcRPviy2KuNn8K3Pd) | [Liquidism \(Volume 12\)](https://open.spotify.com/album/0FlI19Se2vM93u4g9xbM5H) | 5:26 |
+| 77 | [Ubiquitous](https://open.spotify.com/track/4U8ltC3h5mytL6jwSRnP8i) | [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR) | [Ubiquitous \- EP](https://open.spotify.com/album/1An7AbyWhoU1ZdX74ykPge) | 5:14 |
+| 78 | [Heat](https://open.spotify.com/track/1hYilXtoru2HU5WFC4c6Hb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:33 |
+| 79 | [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 |
+| 80 | [sensitivity](https://open.spotify.com/track/2fMhhLIxKzG6FjBYKMTgvo) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [sensitivity](https://open.spotify.com/album/5v51rnyBdJ5jCnMQtOk2le) | 2:04 |
 
-Snapshot ID: `MCxiZDRhMGE4NDQ2Y2RjNDU1YjAzYWRmMjY1MmIwZjNlZTA2NWE0NzNl`
+Snapshot ID: `MCw2MDM0MzAxNDY1YjY5Y2QwMzhiOGM0ODFjNTc0ZGFjM2EwZWU0Njkw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 
 > Pop hits to keep your workout fresh,
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,833,857 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,834,443 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 | 99 | [OK Not To Be OK](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [OK Not To Be OK](https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2) | 2:39 |
 | 100 | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 |
 
-Snapshot ID: `MCw5MzE5YTMzNzM0YjU2ZDhmNWUwOTQ4MTJhZWVjZDAzOTkyYzBjNjQ4`
+Snapshot ID: `MCwxNDI1MWNhMWVhMzBhNmRiNTBjZGQ4ZGM0N2Q2NDkzZTk2NGRiOTk4`

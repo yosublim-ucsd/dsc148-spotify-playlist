@@ -1519,6 +1519,28 @@
     },
     {
       "album": {
+        "name": "Shanti",
+        "url": "https://open.spotify.com/album/6B2G8y3W2SXYWLgo45mDEk"
+      },
+      "artists": [
+        {
+          "name": "Chapeleiro",
+          "url": "https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH"
+        },
+        {
+          "name": "Dudiish",
+          "url": "https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Shanti",
+      "url": "https://open.spotify.com/track/1q6UdQJkg7ULE6qX0YVZSf"
+    },
+    {
+      "album": {
         "name": "Dance Floor Remixes",
         "url": "https://open.spotify.com/album/2wWwyGQFNvA2zERWQgOpsJ"
       },

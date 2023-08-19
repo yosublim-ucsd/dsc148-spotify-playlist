@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Flyboiz y Adan Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,937 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,950 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 7 | [Gangster](https://open.spotify.com/track/1iw8Tvg0BmqIP1jW69sW1R) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:04 |
 | 8 | [RAYBEN CAP 5: CORONAMOS](https://open.spotify.com/track/2v1NtZLK6zqn6JzwpvwbPC) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [RAYBEN CAP 5: CORONAMOS](https://open.spotify.com/album/7tXgDBqyvyryC9Aa5iyFAg) | 3:08 |
 | 9 | [Respaldo y Apoyo](https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p) | [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Respaldo y Apoyo](https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS) | 1:58 |
-| 10 | [SAD BITCH](https://open.spotify.com/track/74PVTnIc0iDWBUF7yZAbio) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Sad Bitch / RTT \(Nos Vienen Siguiendo\)](https://open.spotify.com/album/7uP2x4UJVux0SKladRpNBM) | 1:56 |
+| 10 | [SAD BITCH](https://open.spotify.com/track/74PVTnIc0iDWBUF7yZAbio) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [SAD BITCH / RTT \(Nos Vienen Siguiendo\)](https://open.spotify.com/album/7uP2x4UJVux0SKladRpNBM) | 1:56 |
 | 11 | [Enrique Segoviano](https://open.spotify.com/track/2pcIKFdFqx569wlwcZ7dGB) | [Zoop One](https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [RELATOSS DEE AAYER YY HOYY DDE: UNN JJOVEN MMORENOO](https://open.spotify.com/album/6jsVqd1uJebc2dgB7oGvD0) | 2:46 |
 | 12 | [Haunted House](https://open.spotify.com/track/2SZRk2iVpjkMOW004rsqKy) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Haunted House](https://open.spotify.com/album/30lTs4ZOWHEuXrSh1qGWCg) | 3:00 |
 | 13 | [Rollin n' Rollin](https://open.spotify.com/track/3GYXO0ZL5qqBEVpBP3xsR6) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Alx Drip](https://open.spotify.com/artist/7DxHynDvaalsAGsHlqNhd6), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Rollin n' Rollin](https://open.spotify.com/album/7eHJT1BQfE45xwP6ue4fk7) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCw1MTRmOTAzODFlMGFiNzYyM2U3YThmZmYyMWZmZTNjMmQxOTRmYjA2`
+Snapshot ID: `MCwxYTU2NzY1YjU4Y2NlYWI4ZDZhNDIyNjg3NTllZDE5N2JkZDU3NTM4`

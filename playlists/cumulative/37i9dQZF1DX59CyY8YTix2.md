@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: ネクライトーキー \(NECRY TALKIE\)
 
-1,083 songs - 2 day 20 hr 20 min
+1,084 songs - 2 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-15 | 2023-02-16 |
 | [no future](https://open.spotify.com/track/49GZ0C0nN3kixGDD4zUS7s) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [no future](https://open.spotify.com/album/2SxIh4v9x8fGvezGfGLWGH) | 3:21 | 2023-06-27 |  |
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
-| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 |  |
+| [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
 | [NO SMOKING](https://open.spotify.com/track/0FNeimJsFS79G3pW4LbDWj) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/676Jnrsbkb9Q2XGFWaZoHT) | 3:12 | 2023-04-04 | 2023-04-12 |
 | [NO SMOKING](https://open.spotify.com/track/28OEm14q3yBr8RD62XAjLK) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/0OQHX80vZ1lTHreceeY1C7) | 3:12 | 2023-04-04 | 2023-04-06 |
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:19 | 2022-07-28 | 2023-01-13 |

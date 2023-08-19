@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: BLANCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,604 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,630 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 |
 | 50 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxmNjIzZjhlNjcwYjBkZjIwZWU5YzZiZjg2ZjYyNTAxNTQ5M2RkMjk5`
+Snapshot ID: `MCw5MGU4ZDhkNzU4OWNiMDAyYjU3NzZkZjkxMjcxYzcyMGIyZGY4NTMy`

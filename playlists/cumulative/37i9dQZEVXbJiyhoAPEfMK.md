@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,931 songs - 4 day 4 hr 20 min
+1,932 songs - 4 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,7 +717,7 @@
 | [Hallelujah](https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas](https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ) | 4:28 | 2022-12-24 | 2022-12-29 |
 | [Hallow Kitty](https://open.spotify.com/track/3YONiGJ9VB9KvpXEHgLMjF) | [Kwam.E](https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV), [OVE](https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV) | [Hallow Kitty](https://open.spotify.com/album/7DPL8ClopefjZeWVAIggXg) | 3:27 | 2023-03-04 | 2023-03-19 |
 | [HALT DIE ZEIT AN](https://open.spotify.com/track/16IND5RBSnuBlH08ngUHD5) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [DEUTSCHRAP BRANDNEU](https://open.spotify.com/album/2hNYc9qNIUtV4R8WbQ24de) | 3:01 | 2022-07-16 | 2022-07-18 |
-| [Hapa](https://open.spotify.com/track/3hWyAWmECpCDCoKntejIdK) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Yll Limani](https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT) | [Hapa](https://open.spotify.com/album/3f64PP5DYVxH8eG6DOuz2o) | 3:36 | 2023-08-10 |  |
+| [Hapa](https://open.spotify.com/track/3hWyAWmECpCDCoKntejIdK) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Yll Limani](https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT) | [Hapa](https://open.spotify.com/album/3f64PP5DYVxH8eG6DOuz2o) | 3:36 | 2023-08-10 | 2023-08-19 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-11-14 |
 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 | 2023-04-12 | 2023-04-14 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/3bmhalgSjoDFfDwdu21aws) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [HAPPY BIRTHDAY](https://open.spotify.com/album/3tla6YPbS2QgtjHC9fVGFh) | 2:52 | 2021-06-06 | 2021-06-07 |
@@ -1391,6 +1391,7 @@
 | [Pourquoi](https://open.spotify.com/track/6I36pBjiMiLQLF4cRMdtZ0) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Pourquoi](https://open.spotify.com/album/2mEiHEjfLmUV4qIHXpWQQD) | 2:48 | 2022-01-01 | 2022-01-08 |
 | [Powerade](https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SiraOne](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [In Liebe, Ion](https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE) | 2:22 | 2022-06-25 | 2022-09-17 |
 | [Powerade](https://open.spotify.com/track/6icjOrzM57QrCAtBeWB5WF) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SiraOne](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Powerade](https://open.spotify.com/album/0lnLFmdLlavFulmy4l8TmE) | 2:22 | 2022-04-23 | 2022-06-26 |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-18 |  |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
 | [President](https://open.spotify.com/track/4mK7ayN9VWbieFOGSuQNCA) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [President](https://open.spotify.com/album/0tWioCZi4OD39PAA6cTbY4) | 2:58 | 2021-07-11 | 2021-07-13 |
 | [PRIME \(feat\. OMAR\)](https://open.spotify.com/track/171R26eMo3gFkKfR1wyuPa) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [PRIME \(feat\. OMAR\)](https://open.spotify.com/album/1KbQxjKIcU9fqiSJKrDAac) | 2:48 | 2022-05-21 | 2022-05-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,104 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,216 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [I Was Never Young](https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 3:30 |
 | 100 | [A Teenager in Love](https://open.spotify.com/track/5JMur5IZCCWUdFFRt7ekbf) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 3:19 |
 
-Snapshot ID: `MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi`
+Snapshot ID: `MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw`

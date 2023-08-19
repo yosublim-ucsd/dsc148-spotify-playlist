@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ngEVM0lKrb.md) - [plain]
 
 > Lo mejor en inglés de la última década\. Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,120 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,944 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ngEVM0lKrb.md) - [plain]
 | 149 | [Stole the Show](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:43 |
 | 150 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 |
 
-Snapshot ID: `MCxjYWYwYzRmMjA0MGUzYjcxMDJhYjU2ZDc5ZThkODhjYjkyN2ZlODQ2`
+Snapshot ID: `MCxmZDBjYTAwN2Y3MDJmMTUwOTJiYzlhZWI4ZWZmZmM3OGI1ODhiZDcz`

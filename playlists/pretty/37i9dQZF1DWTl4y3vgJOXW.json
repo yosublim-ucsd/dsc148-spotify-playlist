@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in",
-  "num_followers": 2893007,
+  "num_followers": 2893601,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmIzMTYxYTcyMjMwYTRhOGU5YmU3ZmQxMjg0MGEwYzUwM2ZiZmE5",
+  "snapshot_id": "MCwwNjIzODYyNGIyYjdjNzY0NzZhZTk2OWNjY2EwMWJiYmVjNGIyY2Q2",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:17",
@@ -145,20 +145,28 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2023-08-11 17:55:39",
+      "added_at": "2023-08-18 08:00:00",
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+        "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+        "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
         }
       ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+      "duration_ms": 194047,
+      "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+      "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -203,6 +211,42 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2023-08-11 17:55:39",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -259,6 +303,26 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
@@ -301,24 +365,20 @@
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
     },
     {
-      "added_at": "2023-06-30 04:00:17",
+      "added_at": "2023-07-10 17:10:17",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+      "duration_ms": 192727,
+      "name": "Flooded The Face",
+      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -363,22 +423,6 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": "2023-07-10 17:10:17",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Flooded The Face",
-      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
     },
     {
       "added_at": "2023-07-20 23:10:55",
@@ -451,6 +495,30 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
       },
@@ -467,6 +535,22 @@
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -495,30 +579,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "NAUJOUR",
         "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
       },
@@ -539,22 +599,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "Go Hard",
         "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
       },
@@ -569,24 +613,20 @@
       "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
     },
     {
-      "added_at": "2023-06-30 04:00:17",
+      "added_at": "2023-08-18 08:00:00",
       "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -607,6 +647,26 @@
       "duration_ms": 142451,
       "name": "Keep It Low (feat. Future)",
       "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 192956,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -635,6 +695,22 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 135959,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -659,42 +735,6 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 192956,
-      "name": "Wants and Needs (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
-        "name": "On Me",
-        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 135959,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -807,22 +847,6 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
-        "name": "Ball If I Want To",
-        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 112546,
-      "name": "Ball If I Want To",
-      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -839,6 +863,22 @@
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -1047,6 +1087,30 @@
     {
       "added_at": "2023-06-30 04:00:17",
       "album": {
+        "name": "Off The Court (with Polo G & Einer Bankz)",
+        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Einer Bankz",
+          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
+        }
+      ],
+      "duration_ms": 193937,
+      "name": "Off The Court (with Polo G & Einer Bankz)",
+      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:17",
+      "album": {
         "name": "Rumors (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
@@ -1063,6 +1127,22 @@
       "duration_ms": 185855,
       "name": "Rumors (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+    },
+    {
+      "added_at": "2023-08-18 08:00:00",
+      "album": {
+        "name": "First Day Out (Freestyle)",
+        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "duration_ms": 142739,
+      "name": "First Day Out (Freestyle)",
+      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -1087,30 +1167,6 @@
       "duration_ms": 155783,
       "name": "Let's Do It (feat. NLE Choppa & Dee Play4Keeps)",
       "url": "https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt"
-    },
-    {
-      "added_at": "2023-06-30 04:00:17",
-      "album": {
-        "name": "Off The Court (with Polo G & Einer Bankz)",
-        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Einer Bankz",
-          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
-        }
-      ],
-      "duration_ms": 193937,
-      "name": "Off The Court (with Polo G & Einer Bankz)",
-      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
     },
     {
       "added_at": "2023-06-30 04:00:17",
@@ -1387,6 +1443,26 @@
       "duration_ms": 168306,
       "name": "Big Drip",
       "url": "https://open.spotify.com/track/4DkZDzcHicZBXCEdA19oWs"
+    },
+    {
+      "added_at": "2023-08-18 08:00:00",
+      "album": {
+        "name": "Rocket Power",
+        "url": "https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 133289,
+      "name": "Patty Cake (feat. Takeoff)",
+      "url": "https://open.spotify.com/track/485mSqbTvp0pdiK0UW2wbt"
     },
     {
       "added_at": "2023-06-30 04:00:17",

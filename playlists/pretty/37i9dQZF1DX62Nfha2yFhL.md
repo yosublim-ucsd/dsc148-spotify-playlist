@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day soul with a funky groove for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,699 likes - 112 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,849 likes - 112 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 5 | [SATURDAY](https://open.spotify.com/track/0Vli1NhhK3d7XiM9VE1t4e) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SATURDAY](https://open.spotify.com/album/3IGh2i915r40b1qHzWwx8m) | 2:39 |
 | 6 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 |
 | 7 | [Something Different](https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Something Different](https://open.spotify.com/album/7GrnInJDvEyalLmTzAc8E4) | 5:18 |
-| 8 | [Like A Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like A Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 |
+| 8 | [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 |
 | 9 | [Time Will Tell](https://open.spotify.com/track/7t15QHGSW2IyHkVEjsD6XH) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 3:08 |
 | 10 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 |
 | 11 | [U Got Me](https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [U Got Me](https://open.spotify.com/album/7vNWrBgdkb8ne93HUDnjxQ) | 3:26 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 111 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 112 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MCwxZjQ5ZDE0MGRjZTNkNmFjODM1ZWIwOWI0Mjk2YTc3YWY4YTg0M2I2`
+Snapshot ID: `MCxkYzZhNGJkMzU1NWVhYjU5ZWVlZmY0OGJkMWRkZDM4OTlmMTZlZmEx`

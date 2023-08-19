@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,613 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,728 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 |
 | 100 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 
-Snapshot ID: `MCxkZGE2YzhlNzM2MjRhZTJiMDAxYWVlYmI0NDYwOWEwOGE4YmQzOWI3`
+Snapshot ID: `MCw0MzExY2Y5ODBlNzBhZDRkM2U3ODBmNTU3ZWQ1YWIxM2UzMjVhZjMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,483 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,499 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
 | 60 | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 |
 
-Snapshot ID: `MCxlOWM0ODc2YTY3ZDM3Y2Y3YmE1YzdhMzk1MjFjM2FhMTM3OTg4ZmVm`
+Snapshot ID: `MCw0M2NjYTc4MTdhNzNkZjZjMTExMzc2MzhiMTM3ZTEwNzdiMzk2NjZk`

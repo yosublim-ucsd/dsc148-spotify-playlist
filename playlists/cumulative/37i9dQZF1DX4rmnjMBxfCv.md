@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: <a href="https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS?si=YxwaMq5IQm2YyF7DLjNHAQ">Ash</a>
 
-153 songs - 10 hr 22 min
+154 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Mawal](https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mawal](https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe) | 2:49 | 2023-06-24 |  |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 | 2023-06-24 |
 | [Mbarka \- Original Mix](https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [M.Ali](https://open.spotify.com/artist/2h1ioVI51vRKxXyhrCs6et) | [Mbarka \(Original Mix\)](https://open.spotify.com/album/0Dh2vSHSdz59MyhTt5Zuox) | 6:15 | 2023-08-04 |  |
+| [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 | 2023-08-18 |  |
 | [Mn Alby Baghany](https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:50 | 2022-03-30 | 2023-06-24 |
 | [Mogador](https://open.spotify.com/track/2FBUQ0rB58kVxpR1xicpJs) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mogador](https://open.spotify.com/album/05yz2wpMI4wJiBwyj7fvQj) | 2:30 | 2023-03-02 | 2023-06-24 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2023-06-23 | 2023-08-17 |
@@ -118,7 +119,7 @@
 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 | 2022-06-30 | 2022-11-26 |
 | [Route 55](https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp) | [Mr Oasis](https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex) | [Route 55](https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR) | 4:38 | 2022-03-30 | 2022-11-26 |
 | [Rush \- Moody Jones Remix](https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Rush \(Moody Jones Remix\)](https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm) | 3:54 | 2023-06-23 |  |
-| [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 |  |
+| [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 | 2023-08-19 |
 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2023-03-01 | 2023-06-24 |
 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 | 2023-08-16 |  |
 | [See You Again](https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [See You Again](https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4) | 2:43 | 2023-06-23 | 2023-08-17 |

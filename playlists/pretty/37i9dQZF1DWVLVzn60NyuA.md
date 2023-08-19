@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,088 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,287 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Juntos](https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Pelikula](https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr) | 3:13 |
 | 150 | [C'est Cuit \(feat\. Aya Nakamura & Swae Lee\)](https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:36 |
 
-Snapshot ID: `MCxhYjE4N2ZkN2M0MzJjYzUzZTE1NDJhZDc0ZDc2NDI4NjNhNjE4ODRj`
+Snapshot ID: `MCxlMzYwM2VlYTYxYWIwNDIyMjgyYWUwZTI4YmExNWFjY2IxMjg3ODYy`

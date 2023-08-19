@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,901 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,943 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 |
 | 75 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
 
-Snapshot ID: `MCxjNTJlMmFiNGUzMDM5OWQ2MjBjMWZmOTlhZjMwMzU4MDk5NDc2YjNl`
+Snapshot ID: `MCw1ZjZjZDQ0MzRkOTgyODczYzZlMGNjZjU5NjI3M2VlMjczZjk0OGE3`

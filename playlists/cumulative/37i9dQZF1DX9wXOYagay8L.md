@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=b\_mUwu7XT4C\-hexwhZx9Ag">Makhadzi</a>
 
-444 songs - 1 day 8 hr 4 min
+445 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [KOKHALABANTU](https://open.spotify.com/track/1LdodHeIoK2eBxlCW1UZ2M) | [LEE](https://open.spotify.com/artist/561wUDCkODWNZ7aw0EIZPY), [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [KOKHALABANTU](https://open.spotify.com/album/0BkIyVu8iKLAJM8qplc0Cn) | 4:29 | 2022-03-24 | 2022-07-01 |
 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 | 2022-10-20 | 2022-11-26 |
 | [Kopetsa](https://open.spotify.com/track/3rDgPE2VXlEHpz8C0ew6m5) | [Nthabeleng](https://open.spotify.com/artist/0Xx8gyScfIJKCqd8amzBTB) | [Siki e fetang lerato](https://open.spotify.com/album/3x7s7wEZ6sd7dzniRIIQZW) | 4:07 | 2023-03-24 | 2023-04-04 |
+| [Kukude Emathandweni](https://open.spotify.com/track/5gwyqqUjqTSOnXklI7582D) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Kukude Emathandweni](https://open.spotify.com/album/18UdSJLB7xeeigWWsF0u4s) | 3:52 | 2023-08-18 |  |
 | [Kula Ku Nghena Mani](https://open.spotify.com/track/70xrzHgJPZkobd8e64c8GW) | [Oscar Makamu na Majuvani Sisters](https://open.spotify.com/artist/6GvaI5MYfAq0tqYK1Ckkr0) | [Tiko Axi Etleli](https://open.spotify.com/album/0jm5n6GSL7EhY9zL3Jp05T) | 6:13 | 2023-06-30 | 2023-07-14 |
 | [Kulakwe](https://open.spotify.com/track/6aUiXtqc9Qu1nQcousv2pa) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) | [Kulakwe](https://open.spotify.com/album/5WQ2GfzPnf3YN6vfI4Bmrv) | 4:57 | 2022-02-03 | 2022-07-29 |
 | [Kusaseyimi](https://open.spotify.com/track/2PXg5LhiiT7PW8OIrB1NiH) | [Best A](https://open.spotify.com/artist/5NZIOnoUPaAZI7tJMfGCp0), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Kusaseyimi](https://open.spotify.com/album/0iKeB8nA333w7czFU6RcWu) | 4:13 | 2022-07-07 | 2022-08-19 |

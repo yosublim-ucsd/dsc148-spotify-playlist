@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Alleine",
+        "url": "https://open.spotify.com/album/29h7ryq6taHeULkUT2Cuhj"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Alleine",
+      "url": "https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn"
+    },
+    {
+      "album": {
         "name": "aloe",
         "url": "https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T"
       },
@@ -1328,6 +1346,24 @@
       "duration_ms": 172603,
       "name": "Au royaume de tes mots",
       "url": "https://open.spotify.com/track/4HL0P1iOuZRcAot0pa0zbE"
+    },
+    {
+      "album": {
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/4pPLwz3J2zEskvu1Z6ATQ6"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182114,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/6CjwjsGzDVn2hwREI6BKoY"
     },
     {
       "album": {
@@ -6600,7 +6636,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225375,
       "name": "Hey Love",
       "url": "https://open.spotify.com/track/1gGVs5VYqj912AJCNp2sSe"
@@ -7232,6 +7268,24 @@
       "duration_ms": 249600,
       "name": "I Should've Known",
       "url": "https://open.spotify.com/track/2d7BDniXFXApGT1ggmF7BN"
+    },
+    {
+      "album": {
+        "name": "I Used To Be Fun",
+        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161445,
+      "name": "I Used To Be Fun",
+      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
     },
     {
       "album": {
@@ -9533,6 +9587,24 @@
     },
     {
       "album": {
+        "name": "m00d",
+        "url": "https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "m00d",
+      "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
+    },
+    {
+      "album": {
         "name": "Ma Petite",
         "url": "https://open.spotify.com/album/13TI9sopF88fXBHc8JeF6f"
       },
@@ -10268,6 +10340,24 @@
       "duration_ms": 172500,
       "name": "Miss Those Days",
       "url": "https://open.spotify.com/track/14CMnDIXlTyuNwpw6fTdMi"
+    },
+    {
+      "album": {
+        "name": "Missiles",
+        "url": "https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "Missiles",
+      "url": "https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o"
     },
     {
       "album": {
@@ -11687,6 +11777,24 @@
     },
     {
       "album": {
+        "name": "OIK",
+        "url": "https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "OIK",
+      "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
+    },
+    {
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -12694,7 +12802,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 177357,
       "name": "Pink Hair",
       "url": "https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s"
@@ -13002,6 +13110,24 @@
       "duration_ms": 166586,
       "name": "PROVOCAR",
       "url": "https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169885,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22"
     },
     {
       "album": {
@@ -14139,6 +14265,24 @@
     },
     {
       "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "SENSATION",
+      "url": "https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN"
+    },
+    {
+      "album": {
         "name": "Sepasang Mata Bola",
         "url": "https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El"
       },
@@ -14316,6 +14460,24 @@
       "duration_ms": 203154,
       "name": "show",
       "url": "https://open.spotify.com/track/5G1JizLB3z1hHZ4rbJQHJ5"
+    },
+    {
+      "album": {
+        "name": "HAPPY ACCIDENTS VOL. 1",
+        "url": "https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192453,
+      "name": "SHOWER MUSIC",
+      "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
     },
     {
       "album": {
@@ -15528,7 +15690,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 235080,
       "name": "THAT'S MY BABY",
       "url": "https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb"
@@ -15756,6 +15918,24 @@
       "duration_ms": 243062,
       "name": "Th\u1ebf Th\u00f4i",
       "url": "https://open.spotify.com/track/3q9jkVZnem47J0HdQEK8WM"
+    },
+    {
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
     },
     {
       "album": {
@@ -16074,6 +16254,24 @@
       "duration_ms": 164571,
       "name": "Ton\u0119",
       "url": "https://open.spotify.com/track/10W1VlePfIyjrUCTZ15Q1G"
+    },
+    {
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "album": {
@@ -16536,6 +16734,28 @@
       "duration_ms": 167640,
       "name": "Una Chica Como T\u00fa",
       "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
       "album": {

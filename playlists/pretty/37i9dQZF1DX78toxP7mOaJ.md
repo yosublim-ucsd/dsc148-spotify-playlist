@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Winona Fighter \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,245 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,297 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 33 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
 | 34 | [Lucky You](https://open.spotify.com/track/5dourGbYNsSbm3V3KTzHMK) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Lucky You](https://open.spotify.com/album/0fBqr043kzBtPLdorWFQNt) | 2:44 |
 | 35 | [You Spent All Your Love \- Anniversary Edition](https://open.spotify.com/track/7rloJtE977NlkIk4xX7V4s) | [Mega Mango](https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ) | [You Spent All Your Love \(Anniversary Edition\)](https://open.spotify.com/album/2AGoHfsNzYZAEIqhkuoecv) | 4:17 |
-| 36 | [Sandcastle](https://open.spotify.com/track/4hmTzkEtFi3ZH58lKJeW1G) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Sandcastle](https://open.spotify.com/album/2PPyaxI6VYNSGJZM8XaVlT) | 2:50 |
+| 36 | [Sandcastle](https://open.spotify.com/track/4hmTzkEtFi3ZH58lKJeW1G) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Sandcastle](https://open.spotify.com/album/2PPyaxI6VYNSGJZM8XaVlT) | 2:53 |
 | 37 | [Restless](https://open.spotify.com/track/1QMH8fWSJiEnLQhNegTjxK) | [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [Restless](https://open.spotify.com/album/7Hxsh2UCcFuLIsBkKS6ty1) | 4:26 |
 | 38 | [Don't Hate Me](https://open.spotify.com/track/3IZX6KX7yL1EbQo0KxoTPT) | [Monday](https://open.spotify.com/artist/6IU3rw9IqxQpToMrg59Jio) | [Forever Yours](https://open.spotify.com/album/0B1eQLFEKR25dQ6Ot1A8zA) | 2:56 |
 | 39 | [Get Away](https://open.spotify.com/track/3xC0k93l0LjPtpudQVGJjM) | [All Things Blue](https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty) | [Get Away](https://open.spotify.com/album/2pvYMPRxgFJd9Zofm1SZTv) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [call and i'll answer](https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [call and i'll answer](https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32) | 2:46 |
 | 100 | [anymore](https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [anymore](https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68) | 4:38 |
 
-Snapshot ID: `MCxlZTg0OTQwZTc0MzBmZWYyYTUyOTI2ZDE2MjVmNWQ1OTljZTNkMWMy`
+Snapshot ID: `MCw3OTBjZDViMTQ5NDZkZjZlZTE5NjNmZGY4NDc2OGUxZTVjMmNmOTQ3`

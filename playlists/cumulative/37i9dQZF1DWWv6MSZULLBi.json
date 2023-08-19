@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Mitski",
+  "description": "A laid-back trip in the folk scene. Cover: Ocie Elliott",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
@@ -3155,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2DK8qUZem6LDFCcr7vrJLk"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193182,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8"
+    },
+    {
+      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
       },
@@ -4843,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "Knock The Wind",
+        "url": "https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Knock The Wind",
+      "url": "https://open.spotify.com/track/16zmpunEamESQNJWqUUGih"
+    },
+    {
+      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -5276,7 +5312,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 233500,
       "name": "Looking For Love - Spotify Singles",
       "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
@@ -7537,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "So You Are Tired",
+        "url": "https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5"
+    },
+    {
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/1jbLEvkxMMJ8MfU3EHLdYR"
       },
@@ -8162,7 +8216,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192706,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
@@ -8364,7 +8418,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204222,
       "name": "The Master",
       "url": "https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO"
@@ -10148,6 +10202,24 @@
       "duration_ms": 205040,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS"
+    },
+    {
+      "album": {
+        "name": "Your Beautiful Self",
+        "url": "https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3"
+      },
+      "artists": [
+        {
+          "name": "Land of Talk",
+          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252166,
+      "name": "Your Beautiful Self",
+      "url": "https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ"
     },
     {
       "album": {

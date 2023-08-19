@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,032 likes - 150 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,059 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 149 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 |
 | 150 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 |
 
-Snapshot ID: `MCw4NTg2MzIyOTBhYzc3NjJlYzljYmQxZjRkMTcxYmRhNTUzMWIxMmE2`
+Snapshot ID: `MCw0OTU3ZjI5YzYwYTBkZjNmZDAyZjExMjZhNTVmNzlmZWRkMWRkNmVh`

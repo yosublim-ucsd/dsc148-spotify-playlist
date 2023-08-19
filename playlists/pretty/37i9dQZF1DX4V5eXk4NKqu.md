@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks right now, featuring Elsa y Elmar & Conociendo Rusia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,584 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,650 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
 | 75 | [Vas](https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c) | [Blssom](https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn) | [Blssom](https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb) | 3:44 |
 
-Snapshot ID: `MCw2OWFkNjMzOWQyNmMxNTUwODk5MDU3NzliOWM3MjY5OWU5MTAxN2M3`
+Snapshot ID: `MCw5OTBjZjc2Y2VjNTQ5MjZjMjc1NDQ4ZDllZTAwM2UwZmJmYzgxZGJk`

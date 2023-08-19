@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 ### [Love Pop](https://open.spotify.com/playlist/37i9dQZF1DX50QitC6Oqtn)
 
-> Because we all deserve great pop love songs in one playlist.
+> Porque todo el mundo se merece una playlist con las mejores canciones pop románticas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,604,392 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,604,419 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 99 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 |
 | 100 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 
-Snapshot ID: `MCw0NDgwMmU5MDljMzU1YzJjYjAwMGZjMTE4ODgwYzIxYzgwMTc5MDI0`
+Snapshot ID: `MCwyYjhlMjRlMDRiMzFhY2I3ZTJiMzdkNDczOGI4ZGQzZjc2NjE4ZDMz`

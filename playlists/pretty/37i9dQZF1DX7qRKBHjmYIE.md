@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo\. Freshly picked every week\. ✨ Cover: Alvaro Diaz & RaiNao
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,579 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,555 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 44 | [cuando me pides más](https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [cuando me pides más](https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG) | 4:19 |
 | 45 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 46 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 |
-| 47 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
-| 48 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
+| 47 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
+| 48 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
 | 49 | [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí \(Rompiendo La Cadera\)](https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs) | 3:25 |
-| 50 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
-| 51 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
+| 50 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
+| 51 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
 | 52 | [túúú](https://open.spotify.com/track/1hiUCESJkxPvAdnql5KKE2) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 3:00 |
 | 53 | [Easy](https://open.spotify.com/track/505iqAgEkO1dFrMgfB3rEw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Easy](https://open.spotify.com/album/3bEF4EGgg3GCjbYi5Exfhk) | 3:03 |
 | 54 | [BROOKLYN](https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [BROOKLYN](https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 59 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
 | 60 | [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 |
 
-Snapshot ID: `MCw0M2IzYTNjNTRlNmZiMGYxMGQ5MzM1NGQ3Y2U4NzQwYWE1OWJjZWU4`
+Snapshot ID: `MCxjMzBmODdkYTZiM2MyZTZkM2U0YzFlODMyOWZjNDdiOTRmNTliNzI0`

@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Did I Mention I'm Sorry",
+        "url": "https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197962,
+      "name": "Did I Mention I\u2019m Sorry",
+      "url": "https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu"
+    },
+    {
+      "album": {
         "name": "Did You Ever?",
         "url": "https://open.spotify.com/album/2L3nhkWhZ7tuRL5oLJy9p1"
       },
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165177,
       "name": "lost a friend",
       "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
@@ -7112,7 +7130,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 193005,
       "name": "Mother",
       "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
@@ -7462,6 +7480,24 @@
       "duration_ms": 160200,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M"
+    },
+    {
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Rylo Rodriguez
 
-357 songs - 18 hr 23 min
+358 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [MAGIC](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-18 | 2022-06-04 |
 | [Magic Potion](https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Magic Potion](https://open.spotify.com/album/0SerwPNkQt2DaMs5BOqzn5) | 2:01 | 2023-01-27 | 2023-07-01 |
 | [Make a Mall](https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Make a Mall](https://open.spotify.com/album/4oCeqTNixwJLgsPjJmW5z2) | 3:02 | 2021-12-17 | 2022-02-26 |
-| [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-04 |  |
+| [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-04 | 2023-08-19 |
 | [Man's World \(with James Brown\)](https://open.spotify.com/track/235C6mYJSyfN74X8s92900) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 3:16 | 2023-06-23 | 2023-08-05 |
 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 | 2022-10-21 | 2022-12-17 |
 | [Mind Games](https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Lost Souls](https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2) | 3:37 | 2022-06-10 | 2022-12-10 |
@@ -320,6 +320,7 @@
 | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/track/53sTK6KBrvsuqKT9qNpS5d) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/album/7apgoRWUQYh2dfIaI8yYWi) | 3:41 | 2021-10-07\* | 2021-11-19 |
 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 | 2023-03-03 | 2023-04-29 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2022-08-27 |
+| [U & I \- Unplugged](https://open.spotify.com/track/0mGFn11FzuIiMJbdqOEaKW) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [U & I](https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of) | 1:05 | 2023-08-18 |  |
 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 | 2023-02-17 | 2023-04-01 |
 | [UK](https://open.spotify.com/track/3p2DjXHj8Z4yGnVrx3eHrU) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [UK](https://open.spotify.com/album/6KLFKObVq23rmM23HNzTe0) | 2:33 | 2023-04-07 | 2023-04-15 |
 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2022-02-11 | 2022-05-20 |

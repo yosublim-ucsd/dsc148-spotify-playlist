@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 218000,
       "name": "Maaye Maaye",
       "url": "https://open.spotify.com/track/5SNRhelbiJfu3aKYho9i4V"
@@ -3542,6 +3542,32 @@
       "duration_ms": 294000,
       "name": "Vennela Vennela",
       "url": "https://open.spotify.com/track/2pZPSfj0EPZVHVlf42NTVB"
+    },
+    {
+      "album": {
+        "name": "Bedurulanka 2012 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ltTvOghT7Q60SplZgGWjm"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Harika Narayan",
+          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255445,
+      "name": "Vennello Aadapilla",
+      "url": "https://open.spotify.com/track/4WFMMeXBuMgoNabiRjAWLc"
     },
     {
       "album": {

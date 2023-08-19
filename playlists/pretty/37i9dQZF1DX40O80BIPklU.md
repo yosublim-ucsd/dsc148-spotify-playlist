@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Trueno y Cypress Hill en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,380 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,555 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 100 | [Underrated](https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Underrated](https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree) | 3:00 |
 | 101 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 |
 
-Snapshot ID: `MCwzYzIzMGJkODE3OGNhMGExYWM0ZjhhMzIwMTBiZDU5NTRiMGZiYjMw`
+Snapshot ID: `MCw1Mjc2MWE1YWViZGRiMmJkMzA3NWM2ZTIzYjk3OGY2ZTI4YTcwZTEw`

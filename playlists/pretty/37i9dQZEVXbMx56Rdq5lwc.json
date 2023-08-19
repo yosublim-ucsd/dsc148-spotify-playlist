@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Lithuania.",
-  "num_followers": 26968,
+  "num_followers": 26978,
   "original_name": "Top 50 - Lithuania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ1NjM2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ1NzIyNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0hcY1gJD8yQWdgi2oGVZCG"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "I\u0161 L\u0117to Leid\u017eiasi Saul\u0117",
         "url": "https://open.spotify.com/album/4rKp5XE8zf0E38vd1pL19l"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/6CiKfOUAxxTxhdeXyxd6Lw"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
@@ -97,23 +113,7 @@
       "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
@@ -145,43 +145,23 @@
       "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "Pasaka",
-        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 174339,
-      "name": "D\u0117l Tav\u0119s",
-      "url": "https://open.spotify.com/track/0NfRszAHHTci3p02z41Gra"
+      "duration_ms": 224512,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
@@ -209,7 +189,43 @@
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Pasaka",
+        "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 174339,
+      "name": "D\u0117l Tav\u0119s",
+      "url": "https://open.spotify.com/track/0NfRszAHHTci3p02z41Gra"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Va\u017eiuoju Kur \u0160irdis",
         "url": "https://open.spotify.com/album/5jUi7zJHx8ZWwQNgtEUJ2O"
@@ -245,23 +261,55 @@
       "url": "https://open.spotify.com/track/1GLBcWaalefu9ahDdL4rVa"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 224512,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At"
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -285,39 +333,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
@@ -333,23 +349,39 @@
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "Apkabinti Prisiminimus",
-        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 156000,
-      "name": "\u0160okam L\u0117tai",
-      "url": "https://open.spotify.com/track/149qQkZez6yujONJspKw7U"
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
@@ -365,23 +397,23 @@
       "url": "https://open.spotify.com/track/2DAYE1jtbM0UNeYyPCC2z1"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+        "name": "Apkabinti Prisiminimus",
+        "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
         }
       ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+      "duration_ms": 156000,
+      "name": "\u0160okam L\u0117tai",
+      "url": "https://open.spotify.com/track/149qQkZez6yujONJspKw7U"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Apkabinti Prisiminimus",
         "url": "https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/6RmV54gl0nByycqhTajiiZ"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Ko Tau Reikia",
         "url": "https://open.spotify.com/album/6FoJsX37wgrDiRm05D8TRH"
@@ -421,7 +453,23 @@
       "url": "https://open.spotify.com/track/5SVo1JpFTKbTbnDXeJoL6p"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/0LtkAAEpEp1lkLX1ZvjHZb"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -437,7 +485,23 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -453,27 +517,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Rugpj\u016btis",
-        "url": "https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO"
-      },
-      "artists": [
-        {
-          "name": "Justinas Jarutis",
-          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
-        },
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 162079,
-      "name": "Rugpj\u016btis",
-      "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
@@ -493,59 +537,7 @@
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Jei Leisi",
-        "url": "https://open.spotify.com/album/1zaNQRogEqdKb7gZHRwZDa"
-      },
-      "artists": [
-        {
-          "name": "Gabrielius Vagelis",
-          "url": "https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3"
-        },
-        {
-          "name": "69 Danguje",
-          "url": "https://open.spotify.com/artist/7GWKbGPixqCtZrYiacoPbk"
-        }
-      ],
-      "duration_ms": 207641,
-      "name": "Jei Leisi",
-      "url": "https://open.spotify.com/track/6sgzKRJ1C38I4pmI1TCnSN"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Aft\u00ebrLyfe",
-        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Nun id change",
-      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "BIZNIS",
         "url": "https://open.spotify.com/album/5ti82aEJC2euzp1rwxW7vO"
@@ -561,7 +553,43 @@
       "url": "https://open.spotify.com/track/3zB5KG6eGNnNS38dvAQs9K"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Nun id change",
+      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Rugpj\u016btis",
+        "url": "https://open.spotify.com/album/40U4367k8BABqzzIiPsxSO"
+      },
+      "artists": [
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        },
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 162079,
+      "name": "Rugpj\u016btis",
+      "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Saul\u0117 (Remix)",
         "url": "https://open.spotify.com/album/3jkZIpyyVZop4rKEHT8uW6"
@@ -581,91 +609,27 @@
       "url": "https://open.spotify.com/track/3VRnfTLn09r8NOtn4682Ua"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+        "name": "Jei Leisi",
+        "url": "https://open.spotify.com/album/1zaNQRogEqdKb7gZHRwZDa"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/0LtkAAEpEp1lkLX1ZvjHZb"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Stadionai",
-        "url": "https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "Gabrielius Vagelis",
+          "url": "https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3"
         },
         {
-          "name": "Rokas",
-          "url": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
+          "name": "69 Danguje",
+          "url": "https://open.spotify.com/artist/7GWKbGPixqCtZrYiacoPbk"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Stadionai",
-      "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
+      "duration_ms": 207641,
+      "name": "Jei Leisi",
+      "url": "https://open.spotify.com/track/6sgzKRJ1C38I4pmI1TCnSN"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Jausmai",
-        "url": "https://open.spotify.com/album/5vlj44HfHQtotkeoivOwvC"
-      },
-      "artists": [
-        {
-          "name": "Donny Montell",
-          "url": "https://open.spotify.com/artist/3McTKJDgAb7YHbPYOp9LQL"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Jausmai",
-      "url": "https://open.spotify.com/track/0I4DBmQBS4itjoi8GxG3FP"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 159851,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1VMBapbhHidf6ALFszT7w1"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
@@ -681,7 +645,39 @@
       "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 244004,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Jausmai",
+        "url": "https://open.spotify.com/album/5vlj44HfHQtotkeoivOwvC"
+      },
+      "artists": [
+        {
+          "name": "Donny Montell",
+          "url": "https://open.spotify.com/artist/3McTKJDgAb7YHbPYOp9LQL"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Jausmai",
+      "url": "https://open.spotify.com/track/0I4DBmQBS4itjoi8GxG3FP"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -697,7 +693,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -721,7 +717,7 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -737,7 +733,27 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "Stadionai",
+        "url": "https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Rokas",
+          "url": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stadionai",
+      "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
@@ -748,44 +764,80 @@
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
+      "duration_ms": 159851,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1VMBapbhHidf6ALFszT7w1"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 244004,
-      "name": "Wrecked",
-      "url": "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6"
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "Ap\u017eavai",
-        "url": "https://open.spotify.com/album/5q4RJ00dwxSEh7tM3XrRy0"
+        "name": "Tav\u0119s Tr\u016bksta (Radio Edit)",
+        "url": "https://open.spotify.com/album/3CmhXDdiR7EMWeyhRdbE6Q"
       },
       "artists": [
         {
-          "name": "Vaidas Baumila",
-          "url": "https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1"
+          "name": "OG Version",
+          "url": "https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5"
         }
       ],
-      "duration_ms": 205419,
-      "name": "Bum ajajai",
-      "url": "https://open.spotify.com/track/4MYXiDm8WZlxVYmt1pdZjv"
+      "duration_ms": 131856,
+      "name": "Tav\u0119s Tr\u016bksta - Radio Edit",
+      "url": "https://open.spotify.com/track/5ctPLu7AIAQmYPqjXjy5ZV"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
+      "album": {
+        "name": "The Lost Soul Down",
+        "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
+      },
+      "artists": [
+        {
+          "name": "NBSPLV",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        }
+      ],
+      "duration_ms": 192940,
+      "name": "The Lost Soul Down",
+      "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
+    },
+    {
+      "added_at": "2023-08-18 09:03:54",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -809,92 +861,36 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "Ap\u017eavai",
+        "url": "https://open.spotify.com/album/5q4RJ00dwxSEh7tM3XrRy0"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Vaidas Baumila",
+          "url": "https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1"
         }
       ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
+      "duration_ms": 205419,
+      "name": "Bum ajajai",
+      "url": "https://open.spotify.com/track/4MYXiDm8WZlxVYmt1pdZjv"
     },
     {
-      "added_at": "2023-08-17 09:18:25",
+      "added_at": "2023-08-18 09:03:54",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
         }
       ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "The Lost Soul Down",
-        "url": "https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh"
-      },
-      "artists": [
-        {
-          "name": "NBSPLV",
-          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
-        }
-      ],
-      "duration_ms": 192940,
-      "name": "The Lost Soul Down",
-      "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
-    },
-    {
-      "added_at": "2023-08-17 09:18:25",
-      "album": {
-        "name": "Tav\u0119s Tr\u016bksta (Radio Edit)",
-        "url": "https://open.spotify.com/album/3CmhXDdiR7EMWeyhRdbE6Q"
-      },
-      "artists": [
-        {
-          "name": "OG Version",
-          "url": "https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5"
-        }
-      ],
-      "duration_ms": 131856,
-      "name": "Tav\u0119s Tr\u016bksta - Radio Edit",
-      "url": "https://open.spotify.com/track/5ctPLu7AIAQmYPqjXjy5ZV"
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     }
   ],
   "unique_name": "Top 50 - Lithuania",

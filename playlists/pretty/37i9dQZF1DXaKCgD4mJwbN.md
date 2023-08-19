@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 
 > Puras rolitas pa' destapar un bote y empinar el codo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,383 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,883 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 20 | [Vuelvo A Emborracharme](https://open.spotify.com/track/6SdTGtwcS47eKXL9P9MVCE) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 2:39 |
 | 21 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 22 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 |
-| 23 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
-| 24 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 |
+| 23 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 |
+| 24 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
 | 25 | [900 Cigarros](https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [900 Cigarros](https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS) | 2:03 |
 | 26 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 27 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 124 | [El Peor De Tus Antojos](https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:29 |
 | 125 | [Solita \(En Vivo\)](https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:35 |
 
-Snapshot ID: `MCwzZGE0ZDA4Y2FiYmU2OTc0MzRkMzNkOWJkZjlhNTkzMzZiN2QwNmUz`
+Snapshot ID: `MCw3MWMyZDhhZWVhMTQwMDc5NTc1MzVkNGQ4OGI2ODllMzJkZmQ4MTc5`

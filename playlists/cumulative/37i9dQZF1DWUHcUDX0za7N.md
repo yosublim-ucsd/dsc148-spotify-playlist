@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ"> Cheque </a>
 
-257 songs - 12 hr 26 min
+258 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Wale](https://open.spotify.com/track/13TxEG5hiRAVAiKDI4ycGC) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Wale](https://open.spotify.com/album/0ZGdzWQHW8wFqR0sjLgovr) | 2:17 | 2023-06-16 |  |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-06-09 |  |
 | [Way Too Young](https://open.spotify.com/track/6CpKnWXqOXKaRoYXZr78GK) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Chequemate](https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt) | 2:29 | 2023-08-03 |  |
-| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 | 2023-08-19 |
 | [Western Cape](https://open.spotify.com/track/3VAourbqOAu3A97IRH4woF) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Western Cape](https://open.spotify.com/album/6WYdVW4wsCPkVOubHWiXzi) | 2:48 | 2023-06-30 | 2023-07-05 |
 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 | 2023-04-27 |  |
 | [Who U](https://open.spotify.com/track/1NnNx2eoTcUgkwgLUGpbFP) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Who U](https://open.spotify.com/album/63jO4I3MPDuq0wp6UvvACu) | 2:53 | 2022-06-09 | 2022-11-16 |

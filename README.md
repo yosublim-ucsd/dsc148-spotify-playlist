@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6525\)
+## Playlists \(6526\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -882,6 +882,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Bossa Nova Dinner](/playlists/pretty/37i9dQZF1DWVleyMkaelTd.md)
 - [Bossa in the Background](/playlists/pretty/37i9dQZF1DWUN87b7HRrCS.md)
 - [Bottoms Up](/playlists/pretty/37i9dQZF1DX0N8QTiMHLoT.md)
+- [Bounce](/playlists/pretty/37i9dQZF1DWTAZ0XePuYqW.md)
 - [Bow Wow Reggae](/playlists/pretty/37i9dQZF1DWYAI2XQZF5zW.md)
 - [Box Fan Noise for Sleep](/playlists/pretty/37i9dQZF1DX3dcp04pqxsR.md)
 - [Boy Bands 4 Ever](/playlists/pretty/37i9dQZF1DX5wKayT9q3El.md)
@@ -2363,6 +2364,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hype List](/playlists/pretty/37i9dQZF1DXe74lXHc7E5A.md)
 - [Hyper Focus Noise](/playlists/pretty/37i9dQZF1DX6iSJxWbeWLf.md)
 - [Hyperpop Classics](/playlists/pretty/37i9dQZF1DXakZCf7SV1CS.md)
+- [Hyphenated](/playlists/pretty/37i9dQZF1DX4Y9tVO1TwDw.md)
 - [Håkan Hellström](/playlists/pretty/2CTBt2glXb1wEzUa6wCbWU.md)
 - [I Hate My Job.](/playlists/pretty/6cdV0hVW2suJaMOxzwE46S.md)
 - [I Love My '00s R&B](/playlists/pretty/37i9dQZF1DWYmmr74INQlb.md)
@@ -2953,7 +2955,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Lullaby Jazz](/playlists/pretty/37i9dQZF1DX2WtjAdkiMga.md)
 - [Lunas de Folklore](/playlists/pretty/37i9dQZF1DWYLoJq8d80ds.md)
 - [Lush + Ethereal](/playlists/pretty/37i9dQZF1DWZ0OzPeadl0h.md)
-- [MADE](/playlists/pretty/37i9dQZF1DX4Y9tVO1TwDw.md)
 - [MANSIÓN REGGAETÓN](/playlists/pretty/37i9dQZF1DWZjqjZMudx9T.md)
 - [MELISMAS & FALSETES VOCAL](/playlists/pretty/6POS73ero2jRR6OpAffzSr.md)
 - [MEXCLA](/playlists/pretty/37i9dQZF1DWVACbHMzNf0B.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,685 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,875 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 49 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 |
 | 50 | [Dos Extraños](https://open.spotify.com/track/6L8Jed13lCQn7pPiKOqIkf) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Dos Extraños](https://open.spotify.com/album/7mJvMAtknGnFQD93Eb5Ng9) | 3:20 |
 
-Snapshot ID: `MCwwNzc0ZmJlMzliMmJiMjVhNzRmMWVmNmE1YjQ1OTgyZTFmMjRjMGY2`
+Snapshot ID: `MCw2ZTEyNzRiYjA0OGU0NDU0MWZmNzMyMzg4NWJmZTUzOWNlM2VjM2Yw`

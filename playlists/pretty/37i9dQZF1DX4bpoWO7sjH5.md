@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,812 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,810 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Pesebre](https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Pesebre](https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP) | 5:37 |
 | 100 | [Blanca Navidad](https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:07 |
 
-Snapshot ID: `MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl`
+Snapshot ID: `MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy`

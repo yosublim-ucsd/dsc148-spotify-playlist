@@ -1056,6 +1056,24 @@
     {
       "album": {
         "name": "Rihaee",
+        "url": "https://open.spotify.com/album/4E6LXR3qfiqiXZox6slosO"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182482,
+      "name": "Rihaee",
+      "url": "https://open.spotify.com/track/08CBQI14mZrISwe6MZwncj"
+    },
+    {
+      "album": {
+        "name": "Rihaee",
         "url": "https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9"
       },
       "artists": [
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 182482,
       "name": "Rihaee",
       "url": "https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X"

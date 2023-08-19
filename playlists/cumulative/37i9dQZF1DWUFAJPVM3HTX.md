@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Natanya\. Updates every Wednesday.
 
-1,619 songs - 3 day 11 hr 29 min
+1,621 songs - 3 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -930,7 +930,8 @@
 | [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 | 2023-03-03 | 2023-04-01 |
 | [MORE](https://open.spotify.com/track/47kXceQYFos7TpbwhHHGgj) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [MORE](https://open.spotify.com/album/7pthZEyiFlYQ7h61F4Zo0L) | 2:59 | 2023-07-14 |  |
 | [MORE](https://open.spotify.com/track/2Ed33NZQd9I8DtysknOOcV) | [Nina Chiodin](https://open.spotify.com/artist/7vInCYXueIYbgdGjxESYXK) | [MORE](https://open.spotify.com/album/3yDQidjyrpi9tjTmFvjlH1) | 3:16 | 2022-03-02 | 2022-04-28 |
-| [More Than Anything](https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI) | 2:20 | 2023-07-21 |  |
+| [More Than Anything](https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI) | 2:20 | 2023-07-21 | 2023-08-19 |
+| [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 | 2023-07-21 |  |
 | [More Than Friends](https://open.spotify.com/track/4mROUR22BSJu4FoVni8mFp) | [Talii](https://open.spotify.com/artist/4l3RqT4ysMcYdjdPEig59L) | [More Than Friends](https://open.spotify.com/album/3Y8rNzKIvhqkM0iUdlESqe) | 2:47 | 2022-08-26 | 2022-09-23 |
 | [More!](https://open.spotify.com/track/2HUFYGgONkghxRMcZx82ut) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [Interlude I: Hours](https://open.spotify.com/album/42aH89r2MIDs9RntnlfPOg) | 3:45 | 2022-03-30 | 2022-05-12 |
 | [Morning Coffee](https://open.spotify.com/track/4g32SGaFLUyj0TgwoIt1OX) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Morning Coffee](https://open.spotify.com/album/63xB8Wz2IS1gO76vh74yDq) | 4:34 | 2021-12-01 | 2022-01-13 |
@@ -1019,7 +1020,8 @@
 | [Oceans](https://open.spotify.com/track/2uV5lDCkyAL6l47LpIWV6X) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/67bnPOMQ5dS0wfhy9sD7WW) | 2:17 | 2022-09-21 | 2022-10-14 |
 | [Oceans](https://open.spotify.com/track/618wwrGrOAIPP2dISTsc0i) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/6FS5dua45VW0Ej9BmbVuay) | 2:17 | 2022-09-21 | 2022-10-20 |
 | [OF US](https://open.spotify.com/track/6MAXtJLtBthqXCSixzh8eL) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US](https://open.spotify.com/album/13KbkH5IT1BK3UP46s1lVe) | 2:24 | 2023-07-05 | 2023-08-13 |
-| [OF US \(Sped Up\)](https://open.spotify.com/track/6ri772tABSzfkNChBEg4R6) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US \(Sped Up\)](https://open.spotify.com/album/5HOwswPJmAqKrozPimZaD3) | 2:24 | 2023-07-05 |  |
+| [OF US](https://open.spotify.com/track/5KuxFGu6TMTW5n69k547G9) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US](https://open.spotify.com/album/51kz4yrBlli5zAvRofJz3f) | 2:33 | 2023-07-05 |  |
+| [OF US \(Sped Up\)](https://open.spotify.com/track/6ri772tABSzfkNChBEg4R6) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US \(Sped Up\)](https://open.spotify.com/album/5HOwswPJmAqKrozPimZaD3) | 2:24 | 2023-07-05 | 2023-08-19 |
 | [Off The Drugs \- acoustic](https://open.spotify.com/track/0Oq6ca7BZOyiXmAm7K2geG) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [Off The Drugs \(acoustic\)](https://open.spotify.com/album/0KwUUyOFpY8nM7J16US5Oj) | 2:49 | 2022-09-07 | 2022-10-06 |
 | [Offline](https://open.spotify.com/track/02MtATIEnBgyzvoQqlH5hG) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Offline](https://open.spotify.com/album/0ZWNoe1pGWvequQRiBw7mu) | 3:01 | 2022-02-16 | 2022-04-14 |
 | [Oh Darlin'](https://open.spotify.com/track/2gg1qS6anzlHRHD40RIbh1) | [Asiatica](https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw) | [When We Were](https://open.spotify.com/album/7MHlo3z7I7nWc2eytJUQ56) | 3:26 | 2023-08-09 |  |

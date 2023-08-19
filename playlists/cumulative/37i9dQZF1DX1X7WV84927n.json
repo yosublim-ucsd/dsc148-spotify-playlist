@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202379,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/0CGyintEvK6qL0BPvQWZ37"
+    },
+    {
+      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 219186,
       "name": "Darkness Before The Dawn",
       "url": "https://open.spotify.com/track/2BbMEzY7aVDsks9rNBLE7n"
@@ -1370,6 +1388,24 @@
       "duration_ms": 213160,
       "name": "Day Off of the Devil",
       "url": "https://open.spotify.com/track/4wIVbbFAGfQpVO3FbIFZOU"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240895,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
     },
     {
       "album": {
@@ -2699,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Hate Me Too",
+        "url": "https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210067,
+      "name": "Hate Me Too",
+      "url": "https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed"
+    },
+    {
+      "album": {
         "name": "Heart Astray",
         "url": "https://open.spotify.com/album/3cFvjKlsWB4e8JAd12mKJg"
       },
@@ -2840,7 +2894,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
@@ -2898,7 +2952,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200920,
       "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
       "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
@@ -2974,6 +3028,24 @@
       "duration_ms": 99373,
       "name": "Hurrikan",
       "url": "https://open.spotify.com/track/4uBXb5llcXoL231RHUv8JD"
+    },
+    {
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "I Am The Weapon",
+      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
     },
     {
       "album": {
@@ -3558,7 +3630,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
@@ -4393,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280206,
+      "name": "One of Those Days (feat. Eric Clapton)",
+      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
+    },
+    {
+      "album": {
         "name": "Only Human (feat. AJ Channer)",
         "url": "https://open.spotify.com/album/0T3R63wtZ2N4OjkcohYeqO"
       },
@@ -4621,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "Perhaps",
+        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228406,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
+    },
+    {
+      "album": {
         "name": "Permanent Rebellion",
         "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
       },
@@ -4716,6 +4828,24 @@
       "duration_ms": 268053,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/5062C6muydIUtuSXjvPVvz"
+    },
+    {
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Psycho In My Head",
+      "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
     },
     {
       "album": {
@@ -5581,6 +5711,32 @@
     },
     {
       "album": {
+        "name": "Spillways [Feat. Joe Elliott]",
+        "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Joe Elliott",
+          "url": "https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199809,
+      "name": "Spillways [Feat. Joe Elliott]",
+      "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
+    },
+    {
+      "album": {
         "name": "Stand My Ground",
         "url": "https://open.spotify.com/album/1eYDHGtGDZNASYmOeSuO0L"
       },
@@ -5628,7 +5784,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 208053,
       "name": "Start The Healing",
       "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
@@ -6240,7 +6396,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228834,
       "name": "The Liars Club",
       "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
@@ -6546,7 +6702,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 221103,
       "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"

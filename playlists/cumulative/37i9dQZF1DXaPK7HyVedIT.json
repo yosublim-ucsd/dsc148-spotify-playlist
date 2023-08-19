@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "1 2 3 (Empezamos Otra Vez)",
+        "url": "https://open.spotify.com/album/4CBotLWZhSVq2C38IMd2lS"
+      },
+      "artists": [
+        {
+          "name": "Lazy Bear",
+          "url": "https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9"
+        },
+        {
+          "name": "Garonzos",
+          "url": "https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A"
+        },
+        {
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
+        },
+        {
+          "name": "LUISAH",
+          "url": "https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "1 2 3 (Empezamos Otra Vez)",
+      "url": "https://open.spotify.com/track/1qr9BPBu8ddagYyUTQLUVN"
+    },
+    {
+      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -20,7 +50,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
@@ -354,7 +384,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 131428,
       "name": "Boom",
       "url": "https://open.spotify.com/track/69sdFSvifFNWkzIQ21h5Gu"
@@ -398,7 +428,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 118571,
       "name": "Bota Na Pipokinha",
       "url": "https://open.spotify.com/track/4a0zYnoTwc4ROESiDxADEU"
@@ -464,7 +494,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 145090,
       "name": "Callin'",
       "url": "https://open.spotify.com/track/05Q9plmXGWpWVCqjmeZ0Tw"
@@ -494,7 +524,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 180967,
       "name": "Can We Go Back (feat. The Frontier)",
       "url": "https://open.spotify.com/track/1PsVhQhr4OAgM6tQuG9CsC"
@@ -604,7 +634,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 127380,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/3t1KAeqDaTizVw0UcnOaPS"
@@ -700,7 +730,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 309622,
       "name": "Drink In Paris - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/71ByycVMMQt1ksonm9Bq18"
@@ -726,7 +756,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192215,
       "name": "Drxgs",
       "url": "https://open.spotify.com/track/3kZzJLNqCghgwwd64H4dqu"
@@ -752,7 +782,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 173333,
       "name": "Esta Vida - VINNE Remix",
       "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
@@ -910,6 +940,28 @@
       "duration_ms": 232289,
       "name": "Greatest Treasure",
       "url": "https://open.spotify.com/track/41UxmLmDVcy8F611JOz5ky"
+    },
+    {
+      "album": {
+        "name": "Groovemasta / Beat It Up",
+        "url": "https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252121,
+      "name": "Groovemasta",
+      "url": "https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl"
     },
     {
       "album": {
@@ -1133,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Kick It Hard - 10 Years Anniversary",
+        "url": "https://open.spotify.com/album/4xtXiktJ2iNFQ7M7hMw8Io"
+      },
+      "artists": [
+        {
+          "name": "FTampa",
+          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "Kick It Hard - 10 Years Anniversary",
+      "url": "https://open.spotify.com/track/0rXHFZpSRzAf7schtM7OZ6"
+    },
+    {
+      "album": {
         "name": "Killing Papa",
         "url": "https://open.spotify.com/album/2x1e6uUdxOVT0hcLLRqSL5"
       },
@@ -1184,7 +1254,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 295081,
       "name": "Lie Machine",
       "url": "https://open.spotify.com/track/49rTyBNvoKDV1EzZCQoeeV"
@@ -1377,6 +1447,32 @@
     },
     {
       "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sei Parar",
         "url": "https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb"
       },
@@ -1418,7 +1514,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 137952,
       "name": "Oi Oi Oi",
       "url": "https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v"
@@ -1857,6 +1953,46 @@
     },
     {
       "album": {
+        "name": "TRiPPPY",
+        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
+      },
+      "artists": [
+        {
+          "name": "Cour T.",
+          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "TRiPPPY",
+      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
+    },
+    {
+      "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
+    },
+    {
+      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/1lHDDfSWRSh2qRDY0xqegh"
       },
@@ -1986,6 +2122,32 @@
       "duration_ms": 167598,
       "name": "You Talkin'",
       "url": "https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/5IpqDhfIf8RZt0j5ce3SxN"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Bright Sparks",
+          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7taJF5XLpdVaVvf1r5I5XZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaPK7HyVedIT"

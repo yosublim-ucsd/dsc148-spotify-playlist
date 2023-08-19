@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,339 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,382 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 | 45 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 
-Snapshot ID: `MCw4MzIzYzdjY2FkNTI4ODMzOTAwMTk0OGNmNjVhYzNkNTZjNWNmYzc0`
+Snapshot ID: `MCxlYzJmMGM3ZTkyYTI4MjAxMDNhZWZhYTNjN2E4NGNmZjFkNTU5OTIy`

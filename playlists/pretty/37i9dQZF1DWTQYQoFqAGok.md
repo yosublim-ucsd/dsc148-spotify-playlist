@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,104 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,120 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 |
 | 50 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
 
-Snapshot ID: `MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy`
+Snapshot ID: `MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Pop Soul Sega](https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj) | [Ti L'Afrique](https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX) | [Moris Zekler: Fuzz & Soul Sega from 70's Mauritius](https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9) | 4:12 |
 
-Snapshot ID: `MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl`
+Snapshot ID: `MCwzZTEzNzg3NzNmNGRmNWRkMWVjNWFiMmU5MGVhZjgyYThhNGEyOTc0`

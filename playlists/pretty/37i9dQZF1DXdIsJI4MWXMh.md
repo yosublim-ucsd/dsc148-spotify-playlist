@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,511 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,555 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Abrazado a Mi Botella](https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X) | [Los Ruiseñores de la Frontera](https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4) | [Fiesta Ranchera](https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W) | 3:06 |
 | 100 | [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 |
 
-Snapshot ID: `MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk`
+Snapshot ID: `MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: SZA",
+  "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: Rossa",
   "name": "Hits Banget",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
@@ -782,6 +782,28 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "album": {
+        "name": "Another Journey : The Beginning",
+        "url": "https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        },
+        {
+          "name": "Boy William",
+          "url": "https://open.spotify.com/artist/5tIi1jv5d1ajzRNC60Fe4D"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190300,
+      "name": "Kau",
+      "url": "https://open.spotify.com/track/58UkrLXNivoiUHTAR3oABm"
     },
     {
       "album": {

@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Freya",
+        "url": "https://open.spotify.com/album/5HmDv1SzlqZzy4hE22Oycs"
+      },
+      "artists": [
+        {
+          "name": "Soothing Dreamscapes",
+          "url": "https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144766,
+      "name": "Huma",
+      "url": "https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g"
+    },
+    {
+      "album": {
         "name": "Dream Vibes",
         "url": "https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD"
       },
@@ -2107,6 +2125,42 @@
     },
     {
       "album": {
+        "name": "Tender Heartbeat",
+        "url": "https://open.spotify.com/album/11M1tPTkpIEawmsTtRygak"
+      },
+      "artists": [
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129485,
+      "name": "Tender Heartbeat",
+      "url": "https://open.spotify.com/track/5cp7kcxfvz6mfJlcepXI1x"
+    },
+    {
+      "album": {
+        "name": "Tender Love",
+        "url": "https://open.spotify.com/album/23oAQoOmAC5xuhtuM97bxi"
+      },
+      "artists": [
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129485,
+      "name": "Tender Love",
+      "url": "https://open.spotify.com/track/6pniqT6V5tqFo5tukYskZ9"
+    },
+    {
+      "album": {
         "name": "Then",
         "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
       },
@@ -2414,7 +2468,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 334949,
       "name": "What a day I",
       "url": "https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim"

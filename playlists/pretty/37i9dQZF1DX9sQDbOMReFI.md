@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: NWA
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,249 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,786 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
 | 50 | [The Ghetto](https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 5:02 |
 
-Snapshot ID: `MCxjMDRlZjk3MTVmNTAwY2Y5NmY4MWY0ODQ0ZTVhOWNjZDRjZjMzMGNk`
+Snapshot ID: `MCw0NWI1YjBmNjc0ZjE5OTc2YzRlMTU1YmMzNGViNTY3NDlkMWM2NGY4`

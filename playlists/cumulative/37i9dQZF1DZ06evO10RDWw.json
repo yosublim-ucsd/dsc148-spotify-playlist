@@ -374,6 +374,24 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Nothing Is What It Seems",
+      "url": "https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
       "date_removed": "2023-05-01",
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 304280,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/4v27q8gqCrira7ffcjnNGq"

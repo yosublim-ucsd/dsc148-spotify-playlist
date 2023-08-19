@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "3x4",
+        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167224,
+      "name": "3x4",
+      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
+    },
+    {
+      "album": {
         "name": "6 Am",
         "url": "https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx"
       },
@@ -564,6 +586,24 @@
       "duration_ms": 188616,
       "name": "C\u00f3mo Te Olvido?",
       "url": "https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64"
+    },
+    {
+      "album": {
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
     },
     {
       "album": {
@@ -1226,6 +1266,36 @@
       "duration_ms": 208000,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7DAKoRTXvpBzzWmlc04mE3"
+    },
+    {
+      "album": {
+        "name": "Me Haces Bien",
+        "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207499,
+      "name": "Me Haces Bien",
+      "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
     },
     {
       "album": {

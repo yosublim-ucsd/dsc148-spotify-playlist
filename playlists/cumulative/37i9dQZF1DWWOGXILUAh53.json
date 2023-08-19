@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: JEON SOMI",
+  "description": "The hottest new pop with all the drops. Cover: Idina Menzel",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0WYp1bHRFZdzS3yaIqSGUO"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190251,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/174PWcf9jFqxW60KACVAaX"
+    },
+    {
+      "album": {
         "name": "Always Be There",
         "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
       },
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 140959,
       "name": "Beast",
       "url": "https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 134561,
       "name": "Big Boom",
       "url": "https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt"
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 196000,
       "name": "Can't Bring Me Down",
       "url": "https://open.spotify.com/track/4amkoUyQJDBXvcysAVUPX5"
@@ -3420,7 +3438,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192689,
       "name": "Dramatic",
       "url": "https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC"
@@ -3843,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
       },
@@ -3932,7 +3968,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 153753,
       "name": "favorite kind of high - David Guetta Remix",
       "url": "https://open.spotify.com/track/1QotPsE3JVNnrAAtatQFt0"
@@ -4340,10 +4376,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+    },
+    {
+      "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/04rxodRiaHUNMgIRitI437"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246809,
+      "name": "Funny Kind of Lonely",
+      "url": "https://open.spotify.com/track/1ESEJCdZiNjkJc0phzyRkY"
     },
     {
       "album": {
@@ -5334,7 +5388,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200975,
       "name": "House For Kings",
       "url": "https://open.spotify.com/track/5QcT02qFxTVG8pan86W1Ab"
@@ -5620,7 +5674,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190902,
       "name": "I like u",
       "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
@@ -5912,7 +5966,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX"
@@ -6821,6 +6875,24 @@
     },
     {
       "album": {
+        "name": "Look At Me Now",
+        "url": "https://open.spotify.com/album/0bW2Oa2F1KvUzM7QuYzMS1"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195478,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/4kNT2JdVdGBscZk66POziI"
+    },
+    {
+      "album": {
         "name": "LOOK AT ME RIGHT NOW",
         "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
       },
@@ -7390,6 +7462,24 @@
       "duration_ms": 151701,
       "name": "Matinee",
       "url": "https://open.spotify.com/track/25aSJ6E9ekeQzV3ogafGdI"
+    },
+    {
+      "album": {
+        "name": "Maybe It's You",
+        "url": "https://open.spotify.com/album/7tkl4rTfVtEnW8ih0oWCkO"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Maybe It's You",
+      "url": "https://open.spotify.com/track/0dXUMuhHDJ0rPgv3qpQ1DM"
     },
     {
       "album": {
@@ -8353,6 +8443,32 @@
     },
     {
       "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ"
       },
@@ -8386,6 +8502,24 @@
       "duration_ms": 149268,
       "name": "Nothing New",
       "url": "https://open.spotify.com/track/1s2iyEiQWFzWKr6YXrbNdE"
+    },
+    {
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149552,
+      "name": "Nothing On (But The Radio)",
+      "url": "https://open.spotify.com/track/58q4iIjSd6zueicG8F65GW"
     },
     {
       "album": {
@@ -9170,6 +9304,32 @@
       "duration_ms": 176544,
       "name": "Pineapple Slice (with SG Lewis)",
       "url": "https://open.spotify.com/track/66mhaHoJIiVWB3lwA6974s"
+    },
+    {
+      "album": {
+        "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
+        "url": "https://open.spotify.com/album/3fNM5L0cmVEGzmkYZIkB6X"
+      },
+      "artists": [
+        {
+          "name": "Kyle Gordon",
+          "url": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip"
+        },
+        {
+          "name": "DJ Crazy Times",
+          "url": "https://open.spotify.com/artist/7HmF22PLne8U2Hv1ZMNVPf"
+        },
+        {
+          "name": "Ms. Biljana Electronica",
+          "url": "https://open.spotify.com/artist/1h3ezgw89bB4tDRHKnqPje"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200267,
+      "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
+      "url": "https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI"
     },
     {
       "album": {
@@ -10976,7 +11136,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 183439,
       "name": "Static Body",
       "url": "https://open.spotify.com/track/7erZjxEmGAduw6vqJLPBIs"
@@ -11872,7 +12032,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
@@ -11986,6 +12146,28 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/75HPK1U9upzIFxstRrlRPL"
+      },
+      "artists": [
+        {
+          "name": "LIMONADE",
+          "url": "https://open.spotify.com/artist/0MJJvDrHdl7GGYostfweWJ"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150825,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2HZNAqaeO3llxJReGhFhyX"
     },
     {
       "album": {
@@ -12712,7 +12894,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 155258,
       "name": "VULGAR (with Madonna)",
       "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
@@ -12928,7 +13110,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 134724,
       "name": "WET WHITE TEE SHIRT (SIDE A)",
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
@@ -13122,7 +13304,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168411,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"

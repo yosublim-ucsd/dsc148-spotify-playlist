@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Nep\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,608 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,646 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 79 | [Forgotten](https://open.spotify.com/track/38Rl28axGYoLgOhCOoSYU1) | [Martin HERRS](https://open.spotify.com/artist/6co92uBAF8UvpJ09OE0xsx) | [Forgotten](https://open.spotify.com/album/4FOV9VcF9xTDytPcqOONMQ) | 5:40 |
 | 80 | [On My Own](https://open.spotify.com/track/1ezoOagWjDI7wwQddy8QWY) | [ATLAS](https://open.spotify.com/artist/4kPtJQNSzeIlOS4ncZaKvp) | [On My Own](https://open.spotify.com/album/1nrb4gW3bchHXfMJQfK3ZW) | 3:20 |
 
-Snapshot ID: `MCwwYmJjM2U3OWQwY2UzOWYwMDg0YmU3MzAxZDhlZTlmMGM4NzI1Y2Zk`
+Snapshot ID: `MCxlZmY2NWU3MjI1ZjdlNWEyZWQ3NDk1N2ZkZjQwYmMwNzE4ZmE0N2Jj`

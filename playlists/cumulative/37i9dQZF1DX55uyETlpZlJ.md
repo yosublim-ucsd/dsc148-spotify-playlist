@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-153 songs - 8 hr 33 min
+154 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 | 2023-07-09 |
 | [Naa Arive](https://open.spotify.com/track/0qFEglcQZCUMNADVKihoYy) | [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx) | [Naa Arive](https://open.spotify.com/album/0gQRlHibWUXKObi4Csgvn9) | 4:26 | 2023-08-08 |  |
 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 | 2023-05-18 | 2023-06-08 |
+| [Naavu Kuuda OG](https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Naavu Kuuda OG](https://open.spotify.com/album/7gu9H6jz3APyKRuxhqMkEq) | 1:00 | 2023-08-18 |  |
 | [Naguve](https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Naguve](https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ) | 4:04 | 2023-06-30 | 2023-07-18 |
 | [Namma Rasthe](https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Namma Rasthe](https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7) | 3:38 | 2023-02-13 | 2023-06-15 |
 | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/album/0AestYNNi1FbqW7HHCT1OR) | 4:11 | 2023-03-06 | 2023-07-04 |
@@ -109,7 +110,7 @@
 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 |  |
 | [Never](https://open.spotify.com/track/0d20BQIXw2xUKXQMRJoQRz) | [Derrick You Kno Me](https://open.spotify.com/artist/7FLBUmEZsWCSPMcHO8Xcm3), [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Never](https://open.spotify.com/album/24iuXtQnq7fa6XV75ZkZxS) | 3:00 | 2023-04-14 | 2023-06-09 |
 | [Never Ever Follow The Girl](https://open.spotify.com/track/7Idjqfzp8LRN0EbX3HxK2E) | [Style King Kumar](https://open.spotify.com/artist/2cpe8d5uD4KkfPA4mJ7uFY) | [Never Ever Follow The Girl](https://open.spotify.com/album/6T1XrCJFma60INvzYDEubT) | 3:14 | 2023-02-17 | 2023-06-08 |
-| [Never Stop](https://open.spotify.com/track/50n0fBqMzFSirqd0ohbO7s) | [MC DILIP](https://open.spotify.com/artist/1BVzEsmuO2qJm8rRisIKOy), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Never Stop](https://open.spotify.com/album/26rK8IlCY5eF9JKB8RUyIV) | 2:02 | 2023-01-12 |  |
+| [Never Stop](https://open.spotify.com/track/50n0fBqMzFSirqd0ohbO7s) | [MC DILIP](https://open.spotify.com/artist/1BVzEsmuO2qJm8rRisIKOy), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Never Stop](https://open.spotify.com/album/26rK8IlCY5eF9JKB8RUyIV) | 2:02 | 2023-01-12 | 2023-08-19 |
 | [Nin Thale](https://open.spotify.com/track/1LirIEWRikkMLnoCsoh37i) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [Tracy De Sá](https://open.spotify.com/artist/5PPRykFD70uQSLdvukWxyV), [Urmi](https://open.spotify.com/artist/2RCR4MrSBtETf5GIXWfATw) | [Nin Thale](https://open.spotify.com/album/0Vxdv3hPjU7USETVsXwix4) | 3:15 | 2023-05-18 | 2023-06-08 |
 | [Nina Myaale](https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Nina Myaale](https://open.spotify.com/album/48G6knKFk6JcWEYBFNrE91) | 3:35 | 2022-10-17 | 2023-08-12 |
 | [Ninagaagi](https://open.spotify.com/track/7pHniDKvON0JFbCuBB3s7m) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Ninagaagi](https://open.spotify.com/album/2shIXMDv01uAasSN4Xdh0h) | 3:12 | 2023-06-09 | 2023-06-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,195 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,302 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [SPECTACULAR](https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Problematik](https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy) | 2:55 |
 | 75 | [Deep Blue](https://open.spotify.com/track/1GbOfnbGSjk8d1K5dlXCzX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/0U1KpiK53T1hSfAKhZC6dS) | 3:35 |
 
-Snapshot ID: `MCw2OGM5YTUxNjAxY2ZmMzNiY2Q2ZTY3NzcyYWJlYjMyMTU5OGNiOWZi`
+Snapshot ID: `MCxmZjdlOWM4Zjk4OGNiYzEyZDk2OWQ3ZmM4YzliNTNjNTNhOTg5MTNm`

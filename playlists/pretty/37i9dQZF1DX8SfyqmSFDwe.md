@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,962,433 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,963,065 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Luna](https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Alex Gárgolas Presenta: Las Gárgolas,Vol.4](https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH) | 3:41 |
 | 100 | [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 |
 
-Snapshot ID: `MCxhMTM4MTZkYzBiMjhjZDM1ZWZiOGQ1MjIwMzAwNWQ2MzBjNjczMDEx`
+Snapshot ID: `MCxmNDhjYTFjMzE3ZjllNGZkYWNmYWI3ODViZTI2NzI3NWY4NmM1ZTA3`

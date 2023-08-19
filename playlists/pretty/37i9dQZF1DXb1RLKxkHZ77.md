@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Danial Kifli
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,036 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,127 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Gimme That Crown](https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Gimme That Crown](https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w) | 3:09 |
 | 50 | [Terhempas](https://open.spotify.com/track/29kbeQykesYWAtvZyPXAXM) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Terhempas](https://open.spotify.com/album/6ewvELpoWOCVib4XGXVvEq) | 3:33 |
 
-Snapshot ID: `MCxlZmE1MWQ2YmVlZWU1NjQ5Y2MzODBlMTBmMTIwNzk3ZGI4OTBjZTEw`
+Snapshot ID: `MCxmODVkYWNlN2Q0ZjJkOTQ4NDRhY2M3MmI5NzNkNGI4NGYyOTJlN2E1`

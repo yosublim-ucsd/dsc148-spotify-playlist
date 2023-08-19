@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,214 likes - 200 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,225 likes - 200 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 |
 | 200 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 |
 
-Snapshot ID: `MCxlMjgyOGQ4NTkyNmMyNjNhYWU2YzE3MTdlNTdmZWEzYzUzMDU1OTY0`
+Snapshot ID: `MCwyNmJhMTRjN2Q4ZDJlOTQ5MmNkZGU5Y2VkYTQ4MWQ0Y2E5NTU5Zjlh`

@@ -4,7 +4,7 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-151 songs - 8 hr 45 min
+152 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 | 2023-05-01 |  |
 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 | 2023-05-01 |  |
 | [Porque Te Quiero](https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo) | [La Mission](https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG), [Orlando Torriente](https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno) | [Songs from La Mission \(Original Motion Soundtrack\)](https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ) | 4:11 | 2023-05-01 |  |
-| [Reaper of Love](https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc) | 3:31 | 2023-05-01 |  |
+| [Reaper of Love](https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc) | 3:31 | 2023-05-01 | 2023-08-19 |
+| [Reaper of Love](https://open.spotify.com/track/7MhanQlUmy0p1vvn4JCEQX) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/6cYE3duwuvONqnxnKply8o) | 3:31 | 2023-05-01 |  |
 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 | 2023-05-01 |  |
 | [Sabor A Mi](https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd) | [El Chicano](https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL) | [Revolución](https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus) | 3:17 | 2023-05-01 |  |
 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 1:57 | 2023-05-01 |  |

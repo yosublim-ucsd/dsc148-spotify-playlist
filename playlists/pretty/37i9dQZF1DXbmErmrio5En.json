@@ -1,13 +1,29 @@
 {
   "description": "Ft. re6ce",
-  "num_followers": 24069,
+  "num_followers": 24164,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU2YWQ5MDljMTliOGExZjZjMDM5OTgwMTBkZTFhYTg0MGIxNzI3",
+  "snapshot_id": "MCwxZmU3MjE0YzU4OGFhZWQ1ZGZkMWMzZTlhMDUxM2E2YjAxOTA0OGVj",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "what's underneath",
+        "url": "https://open.spotify.com/album/0j6QywC70gHenRxDus0YVy"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 130771,
+      "name": "what's underneath",
+      "url": "https://open.spotify.com/track/4fy7qneM9uEKod8V7ZXoIP"
+    },
     {
       "added_at": "2023-08-04 13:26:40",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 167244,
       "name": "whiplash",
       "url": "https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd"
+    },
+    {
+      "added_at": "2023-08-18 22:50:31",
+      "album": {
+        "name": "zombie",
+        "url": "https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS"
+      },
+      "artists": [
+        {
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
+        }
+      ],
+      "duration_ms": 131433,
+      "name": "zombie",
+      "url": "https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY"
     },
     {
       "added_at": "2023-08-16 20:11:44",
@@ -87,6 +119,22 @@
       "duration_ms": 134272,
       "name": "stuck.",
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Marithe Francois Girbaud",
+        "url": "https://open.spotify.com/album/6W2JidGbjLDoLTA6b6QKBE"
+      },
+      "artists": [
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Marithe Francois Girbaud",
+      "url": "https://open.spotify.com/track/4Ws43eU7FCHmvwKcLqYiBx"
     },
     {
       "added_at": "2023-08-16 20:11:44",

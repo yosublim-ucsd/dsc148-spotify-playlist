@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,533 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,538 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [Beyond the Sea](https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [After Dark](https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL) | 4:17 |
 | 75 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
 
-Snapshot ID: `MCw3YzJjMjJhMTRkNDg0ZDc4MTY4NzBhMTQwMWY0ZmI1N2ZkZDVjNjkw`
+Snapshot ID: `MCw0MmUxOGNmMWZiZGIwNjBjOGRlZDQyNmJlZTIyNzA0MDk0ZDg2MWI1`

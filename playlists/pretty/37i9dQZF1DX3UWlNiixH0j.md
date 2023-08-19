@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: KIRINJI
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,179 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,207 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [赤と青](https://open.spotify.com/track/2udGq9U6BVzKk2UqTpji45) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 3:13 |
 | 100 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 |
 
-Snapshot ID: `MCwwYjhmNjY4YWIxOTQzZDlkOWU2NjI3MGQ4ZDdiN2IxMzM4NzFkNjU2`
+Snapshot ID: `MCxhZWVkYjA4YjRkZDMxMDdlMjcyMzgwOWVlZmNkZWY2M2YyMTVlMGFi`

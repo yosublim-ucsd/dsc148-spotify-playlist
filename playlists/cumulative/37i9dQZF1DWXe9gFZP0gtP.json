@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151836,
       "name": "Chilling Silence",
       "url": "https://open.spotify.com/track/36P42TsHqV71AuPbVpo2wi"
@@ -2278,6 +2278,24 @@
       "duration_ms": 243600,
       "name": "Gentle Words",
       "url": "https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN"
+    },
+    {
+      "album": {
+        "name": "Genuine",
+        "url": "https://open.spotify.com/album/7CJcpmyHhhb3jEaYBP0Ekr"
+      },
+      "artists": [
+        {
+          "name": "Amela Clouds",
+          "url": "https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186695,
+      "name": "Genuine",
+      "url": "https://open.spotify.com/track/2wphU8R6VsGzZR7VTm3fyT"
     },
     {
       "album": {

@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+    },
+    {
+      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/71nuI99ptBQqwwE9ffKnLL"
       },
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 246652,
       "name": "I Really Want to Stay at Your House",
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
@@ -1950,10 +1968,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
+        "name": "Makeba (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125178,
+      "name": "Makeba - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
     },
     {
       "album": {
@@ -2364,7 +2404,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 141343,
       "name": "Phonky Town",
       "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
@@ -2418,7 +2458,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
@@ -2510,7 +2550,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
@@ -3387,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
         "name": "Their Law The Singles 1990 - 2005",
         "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
       },
@@ -3552,7 +3610,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 365853,
       "name": "You're in My System - Dennis Quin Vocal Mix",
       "url": "https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL"

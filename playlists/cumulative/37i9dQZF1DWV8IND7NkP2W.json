@@ -3864,7 +3864,7 @@
     {
       "album": {
         "name": "Goldrush",
-        "url": "https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk"
+        "url": "https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td"
       },
       "artists": [
         {
@@ -3883,6 +3883,32 @@
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Goldrush",
+      "url": "https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19"
+    },
+    {
+      "album": {
+        "name": "Goldrush",
+        "url": "https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk"
+      },
+      "artists": [
+        {
+          "name": "OVERFALL",
+          "url": "https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2"
+        },
+        {
+          "name": "Leo Iwamura",
+          "url": "https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY"
+        },
+        {
+          "name": "ShinyAppLe",
+          "url": "https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
       "duration_ms": 128000,
       "name": "Goldrush",
       "url": "https://open.spotify.com/track/2G9CaCae1o6JoiaUs1Oj4c"
@@ -6244,7 +6270,7 @@
     {
       "album": {
         "name": "Mellow Air",
-        "url": "https://open.spotify.com/album/3QsHi7SXMW2D5FOZLgNPZZ"
+        "url": "https://open.spotify.com/album/17NgmIpZr9p4sOEWqdUMoz"
       },
       "artists": [
         {
@@ -6255,6 +6281,24 @@
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 115794,
+      "name": "Mellow Air",
+      "url": "https://open.spotify.com/track/6TeII7M0IgFhgq7rDTbrOR"
+    },
+    {
+      "album": {
+        "name": "Mellow Air",
+        "url": "https://open.spotify.com/album/3QsHi7SXMW2D5FOZLgNPZZ"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
       "duration_ms": 115794,
       "name": "Mellow Air",
       "url": "https://open.spotify.com/track/6sRaF5VBH1cJZCObgS4YV4"
@@ -6316,7 +6360,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 171428,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/0hnIBWekKx0mEP6bprvsFa"
@@ -6342,6 +6386,28 @@
       "duration_ms": 171428,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/32HXeN3APFZcwKh3Jr5pOe"
+    },
+    {
+      "album": {
+        "name": "Summer End's Girl",
+        "url": "https://open.spotify.com/album/0Vkgfeiiph9HmEr2wVxPc6"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/6xE6rNGc0PdfmgPt5Du6bE"
     },
     {
       "album": {

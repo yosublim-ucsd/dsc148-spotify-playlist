@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these happy songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,870 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,896 likes - 150 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 150 | [Superstar](https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s) | 3:35 |
 
-Snapshot ID: `MCxmNjIyNDg4MTg3YTBlMjg2NjBlYzkyNmI5ODdkNWMzMDE1ODZlYzNk`
+Snapshot ID: `MCwzOWJjODUyZWZhZDc3MDQ0YzVmZTVkYzU5MzdmY2EwMTUzYTg5Y2Vi`

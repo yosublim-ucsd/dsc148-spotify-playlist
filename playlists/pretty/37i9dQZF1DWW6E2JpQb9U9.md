@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,913 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,939 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
 | 100 | [Sacrificio y Rock and Roll](https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:31 |
 
-Snapshot ID: `MCxkMWI2MjI2ZDU5OGE2MzY0Mjg4ZGRmMWYzYzE2OTU5ZmUyMWYwMGU1`
+Snapshot ID: `MCxiMmMxOWQ0NzYzOGZiY2YzY2M1NzlhZDg5MWU0ZGEwNWRkNzBkMTgz`

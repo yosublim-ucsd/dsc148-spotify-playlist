@@ -4,7 +4,7 @@
 
 > Adiós Pop con Ñ, hola Pop del Top\. Lo mejor del pop\. Foto: Juan Magán, Cali Y El Dandee, Mar Lucas
 
-235 songs - 11 hr 47 min
+236 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [NADIE ME HA PREGUNTADO](https://open.spotify.com/track/1Z2WPWbT7TVKIwIz0lll8f) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [NADIE ME HA PREGUNTADO](https://open.spotify.com/album/15Z0uBEHEw1huJlm0mHQro) | 2:42 | 2023-04-25 | 2023-05-20 |
 | [Necesito silencio](https://open.spotify.com/track/1731Kg4nGnLl1Rtwo5q5GF) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Necesito silencio](https://open.spotify.com/album/6Aq2rxyoCmE86tHnMpVroj) | 3:04 | 2023-03-13 | 2023-03-22 |
 | [Ni la mitad](https://open.spotify.com/track/7ohvuOobZ8dA6lGLlPBp7Q) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Ni la mitad](https://open.spotify.com/album/3uGM9ztZYoni87Jy8Bq2QZ) | 2:40 | 2023-05-30 | 2023-06-21 |
-| [No m'estima +](https://open.spotify.com/track/4s5KyYlznavXf3d7BXdIDj) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7yUbCLtJz5ueBFCOEJLUYN), [Roots](https://open.spotify.com/artist/6NmkG2p4k7Tp1sPLe5KUTf) | [No m'estima +](https://open.spotify.com/album/2YEW4hKqlHUKKWkDqBMXck) | 3:12 | 2023-08-14 |  |
+| [No m'estima +](https://open.spotify.com/track/4s5KyYlznavXf3d7BXdIDj) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7yUbCLtJz5ueBFCOEJLUYN), [Roots](https://open.spotify.com/artist/6NmkG2p4k7Tp1sPLe5KUTf) | [No m'estima +](https://open.spotify.com/album/2YEW4hKqlHUKKWkDqBMXck) | 3:12 | 2023-08-14 | 2023-08-19 |
+| [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 | 2023-08-14 |  |
 | [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-03-13 | 2023-04-18 |
 | [No me ves](https://open.spotify.com/track/3KeZmRdDk7QtxDz3ldUuaD) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [No me ves](https://open.spotify.com/album/2x45IbGkx4zYbuK8j3D1Bh) | 2:54 | 2023-03-13 | 2023-03-22 |
 | [No Quiero A Nadie](https://open.spotify.com/track/3FPqolx3Gbz8bynQyKpnrJ) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [No Quiero A Nadie](https://open.spotify.com/album/6FjYYd8o10nGLadNi6tI6V) | 2:58 | 2023-03-13 | 2023-03-30 |

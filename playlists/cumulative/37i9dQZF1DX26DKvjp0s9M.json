@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best of the best from oldies to new classics. Cover: boygenius - Phoebe Bridgers, Lucy Dacus & Julien Baker. ",
+  "description": "The best of the best from oldies to new classics. Cover: Lorde",
   "name": "Essential Indie",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 236000,
       "name": "17",
       "url": "https://open.spotify.com/track/7GDbkrFBGrCb8ntbQPY3hQ"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "album": {
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
@@ -4870,7 +4888,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
@@ -7866,7 +7884,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"

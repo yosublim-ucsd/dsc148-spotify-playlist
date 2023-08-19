@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Periphera",
+        "url": "https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY"
+      },
+      "artists": [
+        {
+          "name": "Pataphysical",
+          "url": "https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279304,
+      "name": "Aun Cyc",
+      "url": "https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9"
+    },
+    {
+      "album": {
         "name": "Hypertext",
         "url": "https://open.spotify.com/album/6nJGDBiVAFu0fIrO1kc2hH"
       },
@@ -1656,6 +1674,24 @@
       "duration_ms": 310135,
       "name": "Crypt",
       "url": "https://open.spotify.com/track/3aRW4dPpIzTOVoLm9aIT2A"
+    },
+    {
+      "album": {
+        "name": "Cutting Room I (from the Netflix Series \"Top Boy\")",
+        "url": "https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138720,
+      "name": "Cutting Room I",
+      "url": "https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6"
     },
     {
       "album": {
@@ -5126,7 +5162,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 447847,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
@@ -5740,7 +5776,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 296000,
       "name": "The Earthbound Fox",
       "url": "https://open.spotify.com/track/6Tp1E7yuE0KfRYpm9cRf2l"

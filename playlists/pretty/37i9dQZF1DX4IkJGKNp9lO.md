@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,243 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,253 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 |
 | 65 | [Vilse på öppet hav](https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [För alltid](https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ) | 2:45 |
 
-Snapshot ID: `MCw1MWEzNGU5M2MyYmMyZmQxOTc2ZDQxYzNjMDU2MzRiMTM5YzI4ZTg3`
+Snapshot ID: `MCw0OGIxYjZkOTc3Yjk0Mjk4ODMzNWYwODgyY2FkNDAwZDkwNDg4MDM4`

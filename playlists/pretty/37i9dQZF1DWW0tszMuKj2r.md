@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,641 likes - 125 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,729 likes - 125 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 124 | [Tu Cariñito](https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Hot Latin Tracks](https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5) | 4:11 |
 | 125 | [Lluvia](https://open.spotify.com/track/7x755UIRuKP7ZpaVvHdgN1) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Sabrosa](https://open.spotify.com/album/4dYs67b6TGJLSmh8WbW0Zt) | 4:56 |
 
-Snapshot ID: `MCw1NmVmYmIzM2M4ZmJjYWZjYjIxZWYwNjkwNTc5MjIzNjgxMmE1OWU5`
+Snapshot ID: `MCxiYjNlNjFmNWNkZjA4NTA2NWJjMTdlYjhjMDQxNzlmMmE2MTZkNmIy`

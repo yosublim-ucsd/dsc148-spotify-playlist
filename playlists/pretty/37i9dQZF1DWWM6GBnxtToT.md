@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,870 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,047 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 99 | [IknowhowIfeel \- from Hansa Studios, Berlin](https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 2:55 |
 | 100 | [Saltburn](https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [Saltburn](https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj) | 3:06 |
 
-Snapshot ID: `MCw1ODkwNDU5Njc0OGNhZTNkYWRjMTU4NTU1MDZlNDZlNTA0NTk3MmYw`
+Snapshot ID: `MCwwZDU5M2QwN2ZkNTQ0MGNiYzhjZDIyYWRiYzQ5MDdjZGU0NDRkMTgz`

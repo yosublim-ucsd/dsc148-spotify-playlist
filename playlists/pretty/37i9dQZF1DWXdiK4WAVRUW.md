@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Luke Bryan's hit album "Crash My Party" on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,030 likes - 200 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,401 likes - 200 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Mind Reader](https://open.spotify.com/track/2MNapHbu7QASoukvVVIxyr) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:05 |
 | 200 | [Am I The Only One](https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:11 |
 
-Snapshot ID: `MCw1MmM1NjY4MDk4YjQ1NTc5MmM3NTJkNWU4ZmFlMjgxZjhlYWMwZDc0`
+Snapshot ID: `MCxmMmY0NTMyZWQ2YTBjMGNkZTg0YTNlYzBmNTk5NmIzMzNlYzg2YjRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,929 likes - 167 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,037 likes - 167 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 166 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 |
 | 167 | [Miss Independent](https://open.spotify.com/track/12x7PoOlGISTE8a2yfGeKQ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Miss Independent / Adorn](https://open.spotify.com/album/1xbCdCoAV0vFtfnFRsHlfI) | 3:01 |
 
-Snapshot ID: `MCwyMGIyZTg3MDdlMTJlNTJhYWIwMTNhNjJkYWI2NDdiYTg3MzNlMzI5`
+Snapshot ID: `MCwzODc4MmYzM2E3Y2VjYTc1MzUyOWZlN2QwZGY0MDVlYjcwMDM2YWJl`

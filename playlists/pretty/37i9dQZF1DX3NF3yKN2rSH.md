@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,867 likes - 100 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,866 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
 | 100 | [I Know It Was the Blood](https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Sing A Nu Song](https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t) | 6:10 |
 
-Snapshot ID: `MCw5YTEzNTZmMmRmYWQwMWZlMTYxMDBlZTA1NjRkNzFmYjk5OGMxMWY4`
+Snapshot ID: `MCxhMDRmYWNkOGE1NDJmZDEyNDc4MGRhM2FjMzAyOTU3ZDNmZGRmYWNl`

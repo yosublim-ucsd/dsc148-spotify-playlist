@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: BENNETT
 
-1,157 songs - 2 day 7 hr 2 min
+1,158 songs - 2 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-05 | 2023-03-03 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
 | [cro hat mir gesagt es wird easy](https://open.spotify.com/track/4wEMYoQ284TCWOEeEeL3TD) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [cro hat mir gesagt es wird easy](https://open.spotify.com/album/6hl9RsxvCWtNxnZeGqk0tH) | 3:01 | 2022-07-07 | 2022-09-16 |
+| [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-18 |  |
 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2023-03-30 | 2023-04-18 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-13 | 2023-05-12 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-10-21 |
@@ -1148,7 +1149,7 @@
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-09-01 | 2022-09-23 |
 | [Zeit bleibt stehen](https://open.spotify.com/track/5JvYE9xxAr9NRgjc0n9dK4) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Zeit bleibt stehen](https://open.spotify.com/album/4xwstOWWIIWyHbuROTtm1s) | 2:30 | 2023-05-12 | 2023-08-04 |
 | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 | 2022-07-14 | 2022-07-26 |
-| [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-05-11 |  |
+| [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-05-11 | 2023-08-19 |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2023-07-13 | 2023-08-11 |
 | [Zimmer](https://open.spotify.com/track/72KizwZEGRXuAl2heIp4NF) | [Akutkarl](https://open.spotify.com/artist/2vPC9V7lUTVG0iGwztvWWz), [DJ Testö](https://open.spotify.com/artist/5IDfYJZqdTt1pnOyol6JIJ), [boyscout xlr](https://open.spotify.com/artist/5vuOY5kwQCOi3UNfo5mUYT) | [Zimmer](https://open.spotify.com/album/30TnZSBX3cjY9FIWGPUYCX) | 2:54 | 2023-06-08 | 2023-06-23 |
 | [Zimmer 443](https://open.spotify.com/track/29kdqwQXV2Y5M1dbPiJ58z) | [Giuseppe Riggio](https://open.spotify.com/artist/3WbnIv65k09QEz4FaU1HMW) | [Zimmer 443](https://open.spotify.com/album/1NudrRKFEiznE21q7XxKoS) | 2:37 | 2023-01-26 | 2023-02-03 |

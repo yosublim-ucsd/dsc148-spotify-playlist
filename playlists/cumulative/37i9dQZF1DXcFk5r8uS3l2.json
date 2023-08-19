@@ -946,7 +946,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 251528,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
@@ -5882,6 +5882,28 @@
       "duration_ms": 299613,
       "name": "Written Or Spoken",
       "url": "https://open.spotify.com/track/6lAsmZVg5f5F3FJKOz0zGE"
+    },
+    {
+      "album": {
+        "name": "Yet to Be (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219746,
+      "name": "Yet to Be (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf"
     },
     {
       "album": {

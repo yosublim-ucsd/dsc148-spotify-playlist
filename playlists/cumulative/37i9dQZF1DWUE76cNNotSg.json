@@ -82,7 +82,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 468113,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 212963,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
@@ -1316,6 +1316,24 @@
       "duration_ms": 285714,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3MAkPH0PUgcz8QSCnlq7ts"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285714,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
     },
     {
       "album": {
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 259146,
       "name": "Far Away Place",
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 237560,
       "name": "Kinda Lovely",
       "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
@@ -3278,7 +3296,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -4348,7 +4366,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Old Bone - Jim-E Stack Remix",
       "url": "https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge"
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 208805,
       "name": "Peur des filles",
       "url": "https://open.spotify.com/track/2PfPIIxUiH9Y7miXqiQdqv"
@@ -5128,7 +5146,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 349962,
       "name": "Shine a Light - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh"
@@ -5724,7 +5742,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 265800,
       "name": "S\u00e9quences - Parcels Remix",
       "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
@@ -5974,7 +5992,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 307066,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 180533,
       "name": "UH",
       "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
@@ -6542,7 +6560,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-18",
+      "date_removed": null,
       "duration_ms": 318306,
       "name": "We Belong - Odesza Remix",
       "url": "https://open.spotify.com/track/4tO93FtEpqdVA0b9RXK4xI"
@@ -6680,7 +6698,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 202375,
       "name": "When She Dance",
       "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
@@ -6898,7 +6916,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 234228,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/2RuOeqFMhuYLVGbgGPQx2l"

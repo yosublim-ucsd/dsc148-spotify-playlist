@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151415,
       "name": "ARRODILLATE",
       "url": "https://open.spotify.com/track/35MxhBmuoLJJHnYxNddLry"
@@ -2138,6 +2138,28 @@
       "duration_ms": 158261,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ"
+    },
+    {
+      "album": {
+        "name": "MAL",
+        "url": "https://open.spotify.com/album/5zDlHFy3uyKUKtylreOvfS"
+      },
+      "artists": [
+        {
+          "name": "Taffari Nadal",
+          "url": "https://open.spotify.com/artist/6U154kMe4SHMG7g2IdffvJ"
+        },
+        {
+          "name": "Ivan Armesto",
+          "url": "https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "MAL",
+      "url": "https://open.spotify.com/track/5HUqOhSkn8OLMQNTX9GoBV"
     },
     {
       "album": {

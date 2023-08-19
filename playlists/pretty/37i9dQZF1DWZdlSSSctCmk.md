@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,562 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,688 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [Tuesday](https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui) | [Gentle EP](https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3) | 5:47 |
 | 100 | [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 |
 
-Snapshot ID: `MCxhMzdhNDc2MjY0YmZiOGYzM2I1MTE2MmQ1NDMxNDY4Yzk5YzExYTY2`
+Snapshot ID: `MCwwNTc3MzYxZjJhNzQ1NjYxZjY0NDc3YTU2NTY3ZjQ0MzM2NWE1MWNi`

@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: HWI YOUNG
 
-851 songs - 1 day 23 hr 3 min
+853 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [8'O Clock](https://open.spotify.com/track/5mNPMAT47L4ZriY5YIGqJl) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [8'O Clock](https://open.spotify.com/album/0U2zMQyT1Cw2q6hFjx4c6D) | 2:52 | 2021-08-25 | 2021-10-06 |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2020-11-23 | 2021-04-22 |
 | [9LIVES](https://open.spotify.com/track/0TC2qsBgTZC9ojrtbKz8Rd) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Good Girl \(Episode 2\)](https://open.spotify.com/album/0rnf3v41imToPANdyUNhWF) | 3:23 | 2020-10-13\* | 2020-11-05 |
-| [A Poem Titled You](https://open.spotify.com/track/4uW8imiqhAXandpeQk8Cnh) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [If, Vol\. 1](https://open.spotify.com/album/3D9DBNiWtmU37jYh0x5sPG) | 3:36 | 2023-07-07 |  |
+| [A Poem Titled You](https://open.spotify.com/track/4uW8imiqhAXandpeQk8Cnh) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [If, Vol\. 1](https://open.spotify.com/album/3D9DBNiWtmU37jYh0x5sPG) | 3:36 | 2023-07-07 | 2023-08-19 |
 | [ABYSS](https://open.spotify.com/track/0mvQ0J2oRljP2lcOd3ewgn) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ABYSS](https://open.spotify.com/album/2PgBHwXf7FNCF8W0JyxXlo) | 3:52 | 2023-02-23 | 2023-04-14 |
 | [Addicted](https://open.spotify.com/track/2ffVhWaUuu5IRaoogJOGFz) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:17 | 2021-10-26 | 2021-12-02 |
 | [Adore you](https://open.spotify.com/track/7rrVR9VrztRH93MqvUIUau) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Adore you](https://open.spotify.com/album/2QFxk3swmGzWN0R2NZ8QNK) | 3:56 | 2021-11-12 | 2022-01-04 |
@@ -93,6 +93,7 @@
 | [BLACK MIRROR](https://open.spotify.com/track/0KERuWnGiBnoFiMyJCLTcj) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [BINARY CODE](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) | 3:40 | 2021-05-15 | 2021-08-05 |
 | [Blank Effect](https://open.spotify.com/track/5iwxfw0F3TeHxzGVlkzUN9) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [Blank or Black](https://open.spotify.com/album/7gRC2DS4dKoLLm3ZwCHtKx) | 2:50 | 2023-04-13 | 2023-07-11 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-03-22 |
+| [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-18 |  |
 | [Blue & Black](https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [ARIN](https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF), [JANGWONYOUNG](https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw), [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8), [SERIM](https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO), [JUNGMO](https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV) | [Blue & Black](https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh) | 3:21 | 2022-06-30 | 2022-07-26 |
 | [BLUE CHECK \(Feat\. Jay Park, Jessi\) \(Prod\. by Slom\)](https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:28 | 2023-02-06 |  |
 | [Blue Hour](https://open.spotify.com/track/0JQHGu03YJikcND4SENdiW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:29 | 2020-10-26 | 2021-04-14 |
@@ -562,7 +563,7 @@
 | [Paradigm](https://open.spotify.com/track/1HJUvm2MJHytVJ4xPmNGPE) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [CYCLE](https://open.spotify.com/album/0bojHqmiLsD6ZQOxy3VfgQ) | 3:14 | 2021-07-01 | 2021-08-11 |
 | [Paradise](https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:26 | 2020-10-13\* | 2021-01-21 |
 | [PARADISE](https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [PARADISE](https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n) | 2:48 | 2023-06-22 | 2023-07-20 |
-| [PARADISE](https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:48 | 2023-07-10 |  |
+| [PARADISE](https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:48 | 2023-07-10 | 2023-08-19 |
 | [PARANOIA](https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PARANOIA](https://open.spotify.com/album/6vxwhImvm7xkbIMk0e1LVv) | 3:15 | 2021-02-16 | 2021-05-18 |
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-30 | 2022-11-19 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-01 | 2022-02-18 |
@@ -660,6 +661,7 @@
 | [Shutdown \(Feat.Seori\)](https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1) | 3:21 | 2022-01-06 | 2022-03-22 |
 | [Side By Side \- Korean Version](https://open.spotify.com/track/4FXKLGkXw4v5Kw3pEWCTYV) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Side By Side](https://open.spotify.com/album/2icreg0F2hBSb6JGpTeOYA) | 2:59 | 2021-04-15 | 2021-06-25 |
 | [SIREN](https://open.spotify.com/track/24KYbNn0mcRFuSiGLOegSi) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : STAND OUT](https://open.spotify.com/album/0IBGqfWduNDfbSqYjSd1Tv) | 3:01 | 2020-11-05 | 2021-03-01 |
+| [SLAY](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ALL MY GIRLS](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) | 3:40 | 2023-08-18 |  |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-01-14 | 2022-02-18 |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-01-19 | 2022-03-22 |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-04 | 2022-10-15 |

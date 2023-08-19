@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,198 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,216 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/track/22iQ6kNERAFyCOzzhM161U) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/album/2anNLVL6hppIExTm0C9IYm) | 2:18 |
 | 50 | [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 |
 
-Snapshot ID: `MCxmYmZlYzg3NTJjNDk3NjRkYTEyY2ZiNGRjZmUwMTQ5MDA1NDVkYjI3`
+Snapshot ID: `MCw4YThmMzA5MGM2MWI1ZjhiYmMwZTM3ZDE3ZjRkZWZkZjIxYmM3YmRl`

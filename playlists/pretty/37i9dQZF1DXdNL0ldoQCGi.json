@@ -1,12 +1,12 @@
 {
   "description": "aquela l\u00e1 q viralizou na net ",
-  "num_followers": 205907,
+  "num_followers": 206280,
   "original_name": "faz a trend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzVmMmUwN2YwZWY2YWYyZTIxMzQyNWM3NjEyYmZhZDUyYWFmODRj",
+  "snapshot_id": "MCxlYjA4MDRmY2NlYjA1MGU0MzE5M2QxMTk3NTBkMjUyYmJkNmE1NTEy",
   "tracks": [
     {
       "added_at": "2023-08-17 15:30:23",
@@ -60,16 +60,16 @@
           "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
         },
         {
-          "name": "Mc Menor Thalis",
-          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
-        },
-        {
           "name": "Mc Pretchako",
           "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
         },
         {
           "name": "Dj Jl Do Tp",
           "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
         }
       ],
       "duration_ms": 125422,

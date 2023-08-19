@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,307 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,355 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 59 | [Tezeta](https://open.spotify.com/track/76GxqadAOFgjbxaWNN5cve) | [Menelik Wossenachew](https://open.spotify.com/artist/4wXa8Vbzex42qgiNfUrDjq) | [Ernesto Chahoud Presents Taitu – Soul\-Fuelled Stompers from 1960s – 1970s Ethiopia](https://open.spotify.com/album/4v94zw6nkbjRpRzGMb0X7y) | 4:28 |
 | 60 | [Sound of Washint & Masinko \(feat\. Mulatu Astatke\)](https://open.spotify.com/track/2CdBbAcbd9FHbT8xO2C721) | [Tukul Band](https://open.spotify.com/artist/34XOIFTcNr5KJbhUaXDZIf), [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Addis 1988 \(feat\. Mulatu Astatke\)](https://open.spotify.com/album/2sonNCd7qfzjIAkEZXM24M) | 3:33 |
 
-Snapshot ID: `MCwxZDllMjUwZmE1ZWUyMDRhYjFlNjAwOTFkY2IzMWExMTdlYzZiYTVm`
+Snapshot ID: `MCxmNmZlNDNhZWRiYWE4MDRlY2VjOTg5ZTgyMDc3NmI2YmU1ZTM0NGVk`

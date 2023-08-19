@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 205170,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "album": {
         "name": "LIVE IN PEACE",
         "url": "https://open.spotify.com/album/2i7Fy1BWP7ChblX0lSCpQf"
       },
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200199,
       "name": "Mama's Eyes",
       "url": "https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp"
@@ -2662,6 +2680,32 @@
       "duration_ms": 188617,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "album": {
@@ -2988,7 +3032,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164469,
       "name": "PICK YOUR POISON (feat. Stormzy)",
       "url": "https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y"
@@ -3350,7 +3394,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
@@ -3603,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "Something In My Eye",
+        "url": "https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Something In My Eye",
+      "url": "https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld"
+    },
+    {
+      "album": {
         "name": "Soul,PRESENT",
         "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
@@ -3658,7 +3720,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
@@ -3802,7 +3864,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
@@ -3910,7 +3972,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 158525,
       "name": "TAKUT\u00c1",
       "url": "https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ"
@@ -4335,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
+    },
+    {
+      "album": {
         "name": "ur a bitch",
         "url": "https://open.spotify.com/album/6NKD7pZV97cesnUVyMToGO"
       },
@@ -4372,6 +4452,24 @@
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+    },
+    {
+      "album": {
+        "name": "VAN GOGH",
+        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "VAN GOGH",
+      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "album": {
@@ -4452,7 +4550,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 179202,
       "name": "We\u2019re All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
@@ -4660,6 +4758,24 @@
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+    },
+    {
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253916,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G"
     },
     {
       "album": {

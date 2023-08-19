@@ -1,28 +1,60 @@
 {
-  "description": "Leaders of the new school...Alternative R&B. Cover: Lou Val",
-  "num_followers": 1392267,
+  "description": "Leaders of the new school...Alternative R&B. Cover: Jordan Ward",
+  "num_followers": 1392314,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTk2Y2MzN2QxZWQxM2UxNWU0NzI0NWM3MzhhNzNmMjgxMzcwM2M1",
+  "snapshot_id": "MCxiOGRiZGVjMzI0MzM2ZjE2ODJiNzc5ZTY5OTQxMjM0ZmY3OTVmZjQz",
   "tracks": [
     {
-      "added_at": "2023-08-11 04:41:09",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Clementine",
-        "url": "https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm"
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
       },
       "artists": [
         {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 182189,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
+      "duration_ms": 173142,
+      "name": "My Will",
+      "url": "https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1"
+    },
+    {
+      "added_at": "2023-08-11 04:41:09",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 184366,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -43,22 +75,6 @@
       "duration_ms": 201464,
       "name": "MUSTARD (WITH 6LACK)",
       "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -109,36 +125,28 @@
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+        "name": "Another Half",
+        "url": "https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+      "duration_ms": 148645,
+      "name": "Another Half",
+      "url": "https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -157,20 +165,20 @@
       "url": "https://open.spotify.com/track/0bcmVu5QWuGSFPXKGTsMrM"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -213,48 +221,36 @@
       "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
     },
     {
-      "added_at": "2023-08-11 04:41:09",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Number 9 (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 192058,
-      "name": "Number 9 (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-08-11 04:41:09",
       "album": {
-        "name": "Another Half",
-        "url": "https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy"
+        "name": "Clementine",
+        "url": "https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Joshua Karpeh",
-          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
-        },
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
         }
       ],
-      "duration_ms": 148645,
-      "name": "Another Half",
-      "url": "https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW"
+      "duration_ms": 182189,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp"
     },
     {
       "added_at": "2023-06-16 04:53:14",
@@ -293,6 +289,90 @@
       "url": "https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh"
     },
     {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 164102,
+      "name": "Blue Hundreds",
+      "url": "https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi"
+    },
+    {
+      "added_at": "2023-08-11 04:41:09",
+      "album": {
+        "name": "Dance with You Again",
+        "url": "https://open.spotify.com/album/6c3j2JMN52uxJZ59AzQHQw"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 292190,
+      "name": "Dance with You Again",
+      "url": "https://open.spotify.com/track/4RPAhWSLTgaRnlkbLfqpwX"
+    },
+    {
+      "added_at": "2023-08-11 04:41:09",
+      "album": {
+        "name": "Number 9 (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 192058,
+      "name": "Number 9 (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
+    },
+    {
+      "added_at": "2023-05-19 05:32:45",
+      "album": {
+        "name": "close with desires (right person wrong timing)",
+        "url": "https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 203144,
+      "name": "close with desires (right person wrong timing)",
+      "url": "https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx"
+    },
+    {
       "added_at": "2022-12-10 19:36:26",
       "album": {
         "name": "ULTRAMARINE",
@@ -325,20 +405,20 @@
       "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
     },
     {
-      "added_at": "2023-08-11 04:41:09",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Dance with You Again",
-        "url": "https://open.spotify.com/album/6c3j2JMN52uxJZ59AzQHQw"
+        "name": "VIRGINIA CREEPER",
+        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
       },
       "artists": [
         {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
         }
       ],
-      "duration_ms": 292190,
-      "name": "Dance with You Again",
-      "url": "https://open.spotify.com/track/4RPAhWSLTgaRnlkbLfqpwX"
+      "duration_ms": 172307,
+      "name": "VIRGINIA CREEPER",
+      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -357,38 +437,6 @@
       "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
     },
     {
-      "added_at": "2023-05-19 05:32:45",
-      "album": {
-        "name": "close with desires (right person wrong timing)",
-        "url": "https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 203144,
-      "name": "close with desires (right person wrong timing)",
-      "url": "https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx"
-    },
-    {
-      "added_at": "2023-08-11 04:41:09",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 184366,
-      "name": "2007",
-      "url": "https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx"
-    },
-    {
       "added_at": "2023-04-07 22:20:15",
       "album": {
         "name": "only u",
@@ -403,22 +451,6 @@
       "duration_ms": 146127,
       "name": "only u",
       "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "VIRGINIA CREEPER",
-        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "VIRGINIA CREEPER",
-      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -473,6 +505,22 @@
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
     },
     {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "THE GLADE",
@@ -509,22 +557,6 @@
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "The Idol Episode 3 (Music from the HBO Original Series)",
@@ -539,6 +571,26 @@
       "duration_ms": 262387,
       "name": "Get It B4",
       "url": "https://open.spotify.com/track/14OYmvxPRx8lABHthDN4AX"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 241232,
+      "name": "Disillusioned (with serpentwithfeet)",
+      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
     },
     {
       "added_at": "2023-06-16 04:53:14",
@@ -587,26 +639,6 @@
       "duration_ms": 230906,
       "name": "You Never Visit Me - Single Version",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 241232,
-      "name": "Disillusioned (with serpentwithfeet)",
-      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
     },
     {
       "added_at": "2023-05-12 04:25:17",
@@ -1495,7 +1527,7 @@
     {
       "added_at": "2023-08-11 04:41:09",
       "album": {
-        "name": "Like A Habit",
+        "name": "Like a Habit",
         "url": "https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3"
       },
       "artists": [
@@ -1505,7 +1537,7 @@
         }
       ],
       "duration_ms": 166173,
-      "name": "Like A Habit",
+      "name": "Like a Habit",
       "url": "https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL"
     },
     {
@@ -2137,22 +2169,6 @@
       "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
     },
     {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Remember Your North Star",
-        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 265612,
-      "name": "reprise",
-      "url": "https://open.spotify.com/track/2k53CUO1l6n9IdwYerskQ4"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Drifting",
@@ -2183,6 +2199,22 @@
       "duration_ms": 198964,
       "name": "girl meets world - demo",
       "url": "https://open.spotify.com/track/75Ik7rEJ3jWYAQvuSj0XFf"
+    },
+    {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
+        "name": "Remember Your North Star",
+        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 265612,
+      "name": "reprise",
+      "url": "https://open.spotify.com/track/2k53CUO1l6n9IdwYerskQ4"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2511,38 +2543,6 @@
       "duration_ms": 245466,
       "name": "OCCASION",
       "url": "https://open.spotify.com/track/3f8qaN6X27sLRXlYwf3UKC"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "If You Could See Me Now",
-        "url": "https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0"
-      },
-      "artists": [
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 161229,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 180545,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
     }
   ],
   "unique_name": "Vanguard",

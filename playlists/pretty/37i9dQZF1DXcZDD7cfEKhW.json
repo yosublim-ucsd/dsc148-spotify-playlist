@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Aqua",
-  "num_followers": 3430019,
+  "num_followers": 3430494,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2NlNTIwZGVkMzgyYTEwMWY1ODg1NzI4ZjRiNWZiNTJiZmQ1OGY1",
+  "snapshot_id": "MCwwODA5MTNlYjQ4OWJiNDQ2YmFkN2U5MjI4ZTUwMWNkODhhZmMyOWZi",
   "tracks": [
     {
       "added_at": "2023-08-11 04:12:27",
@@ -32,7 +32,7 @@
       "added_at": "2023-08-11 04:12:27",
       "album": {
         "name": "Rush (Remixes)",
-        "url": "https://open.spotify.com/album/3wFJg8Q9qHqdnw0BXyBUtt"
+        "url": "https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au"
       },
       "artists": [
         {
@@ -46,7 +46,7 @@
       ],
       "duration_ms": 143000,
       "name": "Rush - Tom Santa Remix",
-      "url": "https://open.spotify.com/track/6jAbL1oXYK2JxU1wfM8Dv9"
+      "url": "https://open.spotify.com/track/6MxXe1BRJMl1Bu1NB1oKwU"
     },
     {
       "added_at": "2023-08-11 04:12:27",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-08-11 04:12:27",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 117026,
-      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
-    },
-    {
-      "added_at": "2023-08-11 04:12:27",
-      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+    },
+    {
+      "added_at": "2023-08-11 04:12:27",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     },
     {
       "added_at": "2023-08-11 04:12:27",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-08-11 04:12:27",
       "album": {
-        "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
-        "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 155989,
-      "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
-      "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
-    },
-    {
-      "added_at": "2023-08-11 04:12:27",
-      "album": {
         "name": "Say Yes To Heaven (Anyma Remix)",
         "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 222076,
       "name": "Say Yes To Heaven - Anyma Remix",
       "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
+    },
+    {
+      "added_at": "2023-08-11 04:12:27",
+      "album": {
+        "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
+        "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 155989,
+      "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
+      "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
     },
     {
       "added_at": "2023-08-11 04:12:27",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-08-11 04:12:27",
       "album": {
-        "name": "Ghost (Merk & Kremont Remix)",
-        "url": "https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Ghost - Merk & Kremont Remix",
-      "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
-    },
-    {
-      "added_at": "2023-08-11 04:12:27",
-      "album": {
         "name": "Bones (twocolors Remix)",
         "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 256092,
       "name": "Bones - twocolors Remix",
       "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
+    },
+    {
+      "added_at": "2023-08-11 04:12:27",
+      "album": {
+        "name": "Ghost (Merk & Kremont Remix)",
+        "url": "https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Ghost - Merk & Kremont Remix",
+      "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
     },
     {
       "added_at": "2023-08-11 04:12:27",

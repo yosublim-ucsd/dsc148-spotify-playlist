@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,259 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,325 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
 | 75 | [Hailey \- Acoustic](https://open.spotify.com/track/2VPq0IUugnOWLcAT5MbFIu) | [ANSON](https://open.spotify.com/artist/4F0mwtDsLi4dKzug5JB5gn) | [Hailey \(Acoustic\)](https://open.spotify.com/album/2b6OV22b3VFWeWyEcKNC2n) | 3:24 |
 
-Snapshot ID: `MCxjMDQ5NTA4MTBmMjBiZGE3MTQxMzg5NzNmNmUyZTE5ZjkwOGQ1NTA3`
+Snapshot ID: `MCw1ZmJjODFhY2MzMzVlMmMwY2Q0Y2I2MDBiMGYwZTUxZWQ2ZTljNDI5`

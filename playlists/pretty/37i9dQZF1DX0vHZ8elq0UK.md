@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,955 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,541 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
 | 150 | [Can't Remember to Forget You \(feat\. Rihanna\)](https://open.spotify.com/track/2Sh4sAOfnSHEVKFyysxzat) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Shakira\. \(Expanded Edition\)](https://open.spotify.com/album/4nXeW6UwZGBnv6zops27k4) | 3:26 |
 
-Snapshot ID: `MCxiMjBiZmNkNjdlODQ1NDQwMGFkMWUyMjQ0NWIxOTkxYmVhZDE3NjQ1`
+Snapshot ID: `MCw5NzA4NjEyYzhmZjBjODU4OTE3YzVhN2I3MzUwZWRkNDA1ZmJlODlh`

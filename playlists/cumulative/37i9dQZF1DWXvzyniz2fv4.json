@@ -595,6 +595,32 @@
     },
     {
       "album": {
+        "name": "De F\u00e9rias Com O WEY",
+        "url": "https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A"
+      },
+      "artists": [
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Class A",
+          "url": "https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "De F\u00e9rias Com O WEY",
+      "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
+    },
+    {
+      "album": {
         "name": "De Longe. (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
       },
@@ -2568,7 +2594,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 175074,
       "name": "Sabor Cereja",
       "url": "https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,982 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,090 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
 | 100 | [Head Over Heels \(Esteban Descalzo 70's Remix\)](https://open.spotify.com/track/6bhYKH6vp4IyhiwBywUWng) | [Ska Jazz Messengers](https://open.spotify.com/artist/3wy5jh3AV798pcbJGDVHkj), [Esteban Descalzo](https://open.spotify.com/artist/5XX1OvMtiKOmPAyj7Amwqx) | [Head Over Heels \(Esteban Descalzo 70's Remix\)](https://open.spotify.com/album/6XbMLQ1aKFth2jscwLOzky) | 4:11 |
 
-Snapshot ID: `MCxjMWY2MDA5NDM3MjlmYmFhMmEwZmExZjlhMWY5NGVhMTU3NDJhOWI2`
+Snapshot ID: `MCwzZmFmYTExMGE2YzViY2YzM2M0MjM1Yjc0OGI4Y2EyN2UzZjY1ZThh`

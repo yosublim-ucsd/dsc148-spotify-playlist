@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Rebeca Carvalho",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: AM\u00c9M (Julliany Souza, L\u00e9o Brand\u00e3o)",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 343525,
       "name": "Doxologia (feat. AM\u00c9M)",
       "url": "https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a"
@@ -1310,10 +1310,32 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 265927,
       "name": "Estou Aberto Para o Novo",
       "url": "https://open.spotify.com/track/1z33YYwOAUPppFAp19bKwu"
+    },
+    {
+      "album": {
+        "name": "ASSIM SEJA",
+        "url": "https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M",
+          "url": "https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362666,
+      "name": "Estremece a Terra",
+      "url": "https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug"
     },
     {
       "album": {
@@ -1629,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Indesist\u00edvel",
+        "url": "https://open.spotify.com/album/7rCZtIFiKi3GBa61uvCTEp"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227373,
+      "name": "Indesist\u00edvel",
+      "url": "https://open.spotify.com/track/2Q2NossOaJnATbkgTIoQdq"
+    },
+    {
+      "album": {
         "name": "Inflama (Ao Vivo)",
         "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
       },
@@ -1928,7 +1968,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 256385,
       "name": "Meu Maior Desejo",
       "url": "https://open.spotify.com/track/057L1j7QOaDPCJg6q4tNfc"
@@ -2219,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "O Amor Venceu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Bp0byIrVLWQw9FjIiCSF4"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "O Amor Venceu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tsvvDT5rxEVs8rxtawduX"
+    },
+    {
+      "album": {
         "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
       },
@@ -2292,6 +2354,24 @@
       "duration_ms": 303346,
       "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
       "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "album": {
+        "name": "O Nome de Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528693,
+      "name": "O Nome de Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
     },
     {
       "album": {
@@ -3404,7 +3484,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 316994,
       "name": "Tu \u00e9s Fiel Senhor / Sou Feliz / Meu Tributo",
       "url": "https://open.spotify.com/track/3GPG1S2vY1ptyCM9VjxrXR"

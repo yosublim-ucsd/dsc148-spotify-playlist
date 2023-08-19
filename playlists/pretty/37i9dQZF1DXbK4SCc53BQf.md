@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,989 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,029 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 21 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 22 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 23 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
-| 24 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 |
-| 25 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 |
+| 24 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 |
+| 25 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 |
 | 26 | [TRAPCHATA](https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 4:43 |
 | 27 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 |
 | 28 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
 | 50 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 
-Snapshot ID: `MCwyZTBjN2FhNWJjMWZiNzc2OGRmN2I5MWFmYmQzN2E5YWFhNjQ4OTdh`
+Snapshot ID: `MCwxNjZiODJmNjY1NjVkZWQ3MGQ2YjM2YWI4NDA0ZDM2NDEzYmY1MzEz`

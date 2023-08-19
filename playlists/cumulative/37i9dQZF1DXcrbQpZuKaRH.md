@@ -4,7 +4,7 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-63 songs - 3 hr 3 min
+65 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-04-28 |  |
 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 | 2023-05-26 |  |
 | [Calm Night](https://open.spotify.com/track/0GBLzni5lps2xbA5XnpSxg) | [Devans Tushar](https://open.spotify.com/artist/0NZhgsof9BXdMrzgt3S5rj) | [Calm Night](https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK) | 3:16 | 2023-04-28 | 2023-07-29 |
+| [Calm Seas](https://open.spotify.com/track/2x4ymM6CVBuDAGNEJ16qko) | [Fleeting Spirit](https://open.spotify.com/artist/2r0qRPtgmjVkJpIM7xtbFX), [Magic Room](https://open.spotify.com/artist/1pgC9mDwkvCetVYKv3tKcv) | [Calm Seas](https://open.spotify.com/album/3I253zKHlY1vf3mxh8DsTJ) | 3:14 | 2023-08-18 |  |
 | [Calm Waters](https://open.spotify.com/track/7C4MGx7vjDNQeSJT4mZvLx) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 2:35 | 2023-04-28 |  |
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2023-04-28 |  |
 | [Charge Water](https://open.spotify.com/track/50KuU9dq4YsVH8ywhNOUII) | [Alaysia Young](https://open.spotify.com/artist/6qXIYhX6kENOfRZXxw5aLr) | [Charge Water](https://open.spotify.com/album/63psvMAMKlVELuGaNNHyvI) | 3:19 | 2023-04-28 |  |
@@ -25,7 +26,7 @@
 | [Empyrean Sun](https://open.spotify.com/track/7F3hKJIuRMTXT4tvgUF1cK) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Empyrean Sun](https://open.spotify.com/album/0TUyZk4mbIJtPDOnNxsXTH) | 2:34 | 2023-04-28 |  |
 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 | 2023-04-28 |  |
 | [Flumen](https://open.spotify.com/track/1mOEGoddEFOMgYKGUoSBQb) | [Calmisi](https://open.spotify.com/artist/70ES1wACbZKHnLEeysUGMy) | [Flumen](https://open.spotify.com/album/3gYjOZCknkQz3GGzAW8MFJ) | 2:05 | 2023-04-28 |  |
-| [Gentle Sail](https://open.spotify.com/track/0jk7Cda4qWk0f4zxShEDim) | [Highland Falls](https://open.spotify.com/artist/52WuJ5gqkSx8o5QIeJBMWl) | [Gentle Sail](https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD) | 2:57 | 2023-04-28 |  |
+| [Gentle Sail](https://open.spotify.com/track/0jk7Cda4qWk0f4zxShEDim) | [Highland Falls](https://open.spotify.com/artist/52WuJ5gqkSx8o5QIeJBMWl) | [Gentle Sail](https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD) | 2:57 | 2023-04-28 | 2023-08-19 |
 | [Joshmit Beach](https://open.spotify.com/track/4vDw0JzE1goBugh7lh4lFQ) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:24 | 2023-04-28 |  |
 | [Love Story Star](https://open.spotify.com/track/4rQcoBXbQlYyXAej1yse4w) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [In Your Dreams](https://open.spotify.com/album/5qKhYrJX3hmlU35Kld74bN) | 2:45 | 2023-04-28 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2023-04-28 |  |
@@ -66,6 +67,7 @@
 | [Walk Together](https://open.spotify.com/track/1V6ltUYwBd2UWfpNIDmsSr) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Walk Together](https://open.spotify.com/album/3T3ZgFryD5O4f4lis8rXjl) | 3:50 | 2023-04-28 |  |
 | [Warfare](https://open.spotify.com/track/2YkYAS2pYVQXXOxFS19UpM) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Warfare](https://open.spotify.com/album/1EXrJP5OoGD7J3CpebFFqs) | 1:43 | 2023-04-28 | 2023-05-27 |
 | [Waves](https://open.spotify.com/track/3krSmuVk00tFuJiTuNSZoO) | [IPHTA](https://open.spotify.com/artist/4VTQyY0a941xnmyoZT2GsH) | [Waves](https://open.spotify.com/album/3xjngxMowsTDMJD4WOaMLv) | 3:06 | 2023-04-28 |  |
+| [Waves](https://open.spotify.com/track/2x6Bz7vl9mfxJZgJfuLTZl) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Waves](https://open.spotify.com/album/2p8HuD7GHVVhat5LX7xcJE) | 3:11 | 2023-08-18 |  |
 | [Waves and Sunrise](https://open.spotify.com/track/5ljOAxRKEHlR9iDH9oM9Da) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [Waves and Sunrise](https://open.spotify.com/album/2ZEaSThqcJKhfy0GoUM15E) | 1:08 | 2023-04-28 | 2023-07-29 |
 | [Waves of Daelbata](https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH) | [Eryone](https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv) | [Waves of Daelbata](https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb) | 2:48 | 2023-04-28 |  |
 | [We Are An Island \- Sound Bath](https://open.spotify.com/track/09mA3MUzL5NTM5qjXKwuu1) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [We Are An Island \- Sound Bath](https://open.spotify.com/album/4UG8mI1ePRLWEZ29BeU089) | 2:03 | 2023-04-28 |  |

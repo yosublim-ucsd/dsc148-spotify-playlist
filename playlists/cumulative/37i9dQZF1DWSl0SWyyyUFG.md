@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-246 songs - 12 hr 55 min
+247 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Provócame](https://open.spotify.com/track/1L07qYzsQyoAH8yactEpLt) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:03 | 2021-10-22 | 2023-02-03 |
 | [Que Bonito](https://open.spotify.com/track/5ctUlKWjf53PUEwKFn59B3) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Ya No Tengo Corazon](https://open.spotify.com/album/61Gw1065ztt8ntsn2r7wP7) | 2:57 | 2021-10-22 |  |
 | [Que Bonito](https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Junto Al Mar](https://open.spotify.com/album/63t6D4VvWmKjesaa9rfywF) | 2:57 | 2021-10-22 | 2022-07-29 |
-| [Que Me Entierren Con La Banda](https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 3:07 | 2023-08-08 |  |
+| [Que Me Entierren Con La Banda](https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 3:07 | 2023-08-08 | 2023-08-19 |
 | [Que Sabrosa Esta](https://open.spotify.com/track/7DjJePmGBfvDDDRuCRUgfi) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 4:00 | 2021-10-22 | 2022-07-23 |
 | [Que Solo Estoy Sin Ti](https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Parranda Con La Banda](https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq) | 3:39 | 2021-10-22 |  |
 | [Qué Bonito](https://open.spotify.com/track/0OPrIl0qdl2pyr4TmPsNuu) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [La Arrolladora Banda el Limon vs Banda Caña Verde](https://open.spotify.com/album/1hkV18mDU2Uhq2qkP5E3De) | 2:57 | 2021-10-22 | 2022-11-12 |
@@ -228,6 +228,7 @@
 | [Te He Prometido](https://open.spotify.com/track/4pmbsGhAR7s4QUsMKKhDXA) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4) | 3:12 | 2021-10-22 | 2022-10-10 |
 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 | 2021-10-22 | 2022-07-29 |
 | [Tenis mágicos](https://open.spotify.com/track/7jcjJi2aVb8F1V1Ct4vBtK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Las 20 Poderosas \(USA\)](https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l) | 2:34 | 2022-12-30 | 2023-07-04 |
+| [Torera](https://open.spotify.com/track/2285jfU1YCDJKNeoaDWanQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:02 | 2023-08-08 |  |
 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 | 2021-10-22 |  |
 | [Tu Castigo](https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:52 | 2021-10-22 |  |
 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 | 2021-10-22 |  |

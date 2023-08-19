@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 
 > Listen to all the tracks you've been missing\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,219,649 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,220,263 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 | 99 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 |
 | 100 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 
-Snapshot ID: `MCxiYmIyY2U2NGQ4ZmY4ZmYzYmNhZTgwYmZiODA0MWU4ZGNkZmQwYzNm`
+Snapshot ID: `MCxjZTM3NGM5MDg5OTJhZDE0NjQxYzMzNWE1ZWEyYzkwZGU3NzY3OWMz`

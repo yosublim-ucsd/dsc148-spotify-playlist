@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,278 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,359 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 |
 | 50 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 
-Snapshot ID: `MCwzMzM5ZDQ5MmNlZDU1ODE5NjU4Njc1YzRmNGQ4MWY5ZGNmMjFmOGI2`
+Snapshot ID: `MCw5Y2NhYmJlYzkzNzU4MzI3YjJiMTQ2Yzk3ODhlMDdkOTExYzFiNWQ0`

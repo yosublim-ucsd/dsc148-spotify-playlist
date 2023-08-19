@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-286 songs - 13 hr 25 min
+287 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 | 2021-12-10 | 2022-09-03 |
 | [Fleur](https://open.spotify.com/track/1lGj3SVkZAbd4Flhv3QgDe) | [Tova Martin](https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua) | [Doux](https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU) | 2:59 | 2023-06-09 |  |
 | [Floating](https://open.spotify.com/track/1fcPVf8Rqckxy4wxC4vYoz) | [Way Beyond](https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z) | [Floating](https://open.spotify.com/album/0zB9fYEcH3zXLvL2Wporwa) | 1:57 | 2021-12-10 | 2022-08-13 |
-| [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2021-12-10 |  |
+| [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2021-12-10 | 2023-08-19 |
 | [For A While](https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B) | [Astrid Whitlock](https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ) | [For A While](https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV) | 3:12 | 2023-04-28 |  |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2021-12-10 |  |
 | [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 | 2021-12-10 |  |
@@ -127,6 +127,7 @@
 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 | 2021-12-10 |  |
 | [La Femme Soleil](https://open.spotify.com/track/3ZGqYamRfdQJ1lcQa27gHj) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Femme Soleil](https://open.spotify.com/album/7JJm1cAkINxVcYS1q1h146) | 2:40 | 2021-12-10 | 2022-09-03 |
 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 | 2021-12-10 | 2023-07-29 |
+| [Labor Laboris](https://open.spotify.com/track/6plGBEo6DjOpRqqS7gFJBg) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Labor Laboris](https://open.spotify.com/album/4GZxcUtuqOUTFB1gbSNwXT) | 2:58 | 2023-08-18 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2021-12-10 |  |
 | [Lagoom](https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [Lagoom](https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC) | 2:51 | 2022-12-30 |  |
 | [Laikas Miega](https://open.spotify.com/track/3ABUiqt1HJUiDMYp3PnTWp) | [Andris Vestiena](https://open.spotify.com/artist/5AgZ4H1tJPzHJ983xZyU0G) | [Laikas Miega](https://open.spotify.com/album/73ptqEIMKkiLTK3wZBBomt) | 2:45 | 2021-12-10 |  |

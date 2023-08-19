@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Genesis Owusu
 
-934 songs - 2 day 2 hr 4 min
+937 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-07-13 | 2023-07-21 |
 | [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-29 | 2023-07-07 |
 | [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 | 2023-08-17 |  |
+| [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 | 2023-08-17 |  |
 | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/track/0BNUspVwO9YxkXJBrXhR5L) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/album/1bWqSzbMajcWTUR39AHBrE) | 2:35 | 2023-06-23 | 2023-06-30 |
 | [2 WORDS](https://open.spotify.com/track/3GBddo9n1BBdKgozcbOw7e) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [2 WORDS](https://open.spotify.com/album/3pboZmbk1RjjSeyCDo1yUO) | 2:03 | 2023-08-10 | 2023-08-18 |
 | [2019](https://open.spotify.com/track/5gQlHUydL3EVsM4cjDck2A) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [2019](https://open.spotify.com/album/7CAn7LZRhCrJJ5GtIE7SBP) | 1:56 | 2023-06-29 | 2023-07-07 |
@@ -186,7 +187,8 @@
 | [Crying](https://open.spotify.com/track/6cULQ6f1tD2nG2hE91YA7R) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Blood Red](https://open.spotify.com/album/5Zt3LSzqVeWLlpvI13BDgn) | 3:52 | 2023-07-20 | 2023-07-28 |
 | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p) | 2:13 | 2023-07-07 | 2023-07-14 |
 | [daisies](https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [daisies](https://open.spotify.com/album/4NNX4e5yeyhDcuL2awCGpx) | 2:04 | 2023-08-10 | 2023-08-18 |
-| [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 |  |
+| [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 | 2023-08-19 |
+| [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-17 |  |
 | [Dance With You](https://open.spotify.com/track/0Q5SGz9fuoiLSF4oDKHZRh) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Dance With You](https://open.spotify.com/album/0nRdaI0gknu4q5hkSFREa5) | 3:06 | 2023-06-29 | 2023-07-07 |
 | [Dancing on the LINE!](https://open.spotify.com/track/2YtxZzdoyQiFbRaCRe0jLZ) | [lovemedo](https://open.spotify.com/artist/7cxP8XI3MIctY06TtC90Ib) | [Dancing on the LINE!](https://open.spotify.com/album/2ybuiUIVaGIY55coCskV8f) | 2:19 | 2023-07-27 | 2023-08-04 |
 | [Dancing on thin ice](https://open.spotify.com/track/5lVJdis1mniDKbNMXDSAd9) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Dancing on thin ice](https://open.spotify.com/album/6mYOzmcPFuc7EBwR8mAoOb) | 4:08 | 2023-06-29 | 2023-07-07 |
@@ -265,6 +267,7 @@
 | [Ex\-Files](https://open.spotify.com/track/424oTv5wcRV4aDMfpnlA6c) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Ex\-Files](https://open.spotify.com/album/66En38idk3I4zgReJAh8DX) | 3:55 | 2023-08-03 | 2023-08-11 |
 | [Eyes Closed](https://open.spotify.com/track/4YcJmD2RreKlpH78rTDmlH) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Eyes Closed](https://open.spotify.com/album/6ZOiOKrzOjXO6LP3LhPdRR) | 2:58 | 2023-07-27 | 2023-08-04 |
 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 | 2023-07-07 | 2023-07-14 |
+| [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-17 |  |
 | [Fable](https://open.spotify.com/track/62fgAVEA0zVDEbODBakNCf) | [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs) | [Fable](https://open.spotify.com/album/7DPkKvBAonfG5TXl246cAS) | 3:11 | 2023-06-29 | 2023-07-07 |
 | [Facade](https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Facade](https://open.spotify.com/album/0Y938j5d5KXfJFfSirRXRx) | 3:22 | 2023-08-10 | 2023-08-18 |
 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 | 2023-08-17 |  |

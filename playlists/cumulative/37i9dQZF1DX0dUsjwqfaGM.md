@@ -4,11 +4,12 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-71 songs - 4 hr 10 min
+72 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m) | 3:13 | 2023-04-13 |  |
+| [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m) | 3:13 | 2023-04-13 | 2023-08-19 |
+| [7711\(bảy bảy một một\) \- Acoustic](https://open.spotify.com/track/6BqI12kwPo7f1D6hHFq9Mc) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711\(bảy bảy một một\) \[Acoustic\]](https://open.spotify.com/album/1i9f50j6IwhHwnFwnoNLAz) | 3:13 | 2023-07-25 |  |
 | [Bad Performance](https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Bad Performance](https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S) | 3:42 | 2023-04-13 |  |
 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 | 2022-09-09 |  |
 | [Break The Rules \(feat\. Touliver\)](https://open.spotify.com/track/7gbS7lXaFX2gez4v9Vmi4g) | [$A Milo](https://open.spotify.com/artist/55YrB6LSt3ZShzAiBXTEcA), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Break The Rules \(feat\. Touliver\)](https://open.spotify.com/album/6vv6TaimaMnI6N2jjPTEyV) | 4:10 | 2023-05-18 |  |
@@ -76,7 +77,7 @@
 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 | 2023-04-13 |  |
 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 | 2022-09-09 |  |
 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Mạnh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 | 2023-04-13 |  |
-| [Đố A Bít](https://open.spotify.com/track/1Z6o6fFPifrjcIuTPqpzeB) | [mai.](https://open.spotify.com/artist/0ZjWARY6nweIDw4pK6tnDc), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Đố A Bít](https://open.spotify.com/album/22qEQ7XZR1jpulVdJB0Kpw) | 2:15 | 2023-08-10 |  |
+| [Đố A Bít](https://open.spotify.com/track/1Z6o6fFPifrjcIuTPqpzeB) | [mai](https://open.spotify.com/artist/5FoI0WDNnK9PivkKAkzuY0), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Đố A Bít](https://open.spotify.com/album/22qEQ7XZR1jpulVdJB0Kpw) | 2:15 | 2023-08-10 |  |
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2023-06-29 |  |
 | [Ố 1](https://open.spotify.com/track/3vFYKvXOHHFVD58Bxz98VL) | [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90), [Sương Sâm](https://open.spotify.com/artist/1CaB0XOnPniIKLI8NjMMQL), [TE](https://open.spotify.com/artist/2GIuF9XgNJthcp0oRA1q3G) | [Ố 1](https://open.spotify.com/album/4pHnmegKPqoNpNstTgk5B6) | 3:20 | 2023-06-22 |  |
 

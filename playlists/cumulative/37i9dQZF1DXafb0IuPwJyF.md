@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 宇多田ヒカル\(Hikaru Utada\)
 
-966 songs - 2 day 12 hr 17 min
+967 songs - 2 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [DAY feat\. PUNPEE](https://open.spotify.com/track/2SnYJgNCLeLmYqLBDn4PVx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [DAY feat\. PUNPEE](https://open.spotify.com/album/6m4Ju35ORC4APD8X9bQREC) | 3:46 | 2023-08-13 |  |
 | [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-04 | 2023-01-02 |
 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 | 2022-08-28 | 2022-10-17 |
+| [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 | 2023-08-13 |  |
 | [Decision](https://open.spotify.com/track/28zFjzWhW87CSuGtn9PHJZ) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Decision](https://open.spotify.com/album/0ZbngirqcVnHwtTygqjwZn) | 3:22 | 2022-07-25 | 2022-08-08 |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-11 | 2023-01-09 |
 | [Diary](https://open.spotify.com/track/3zpQOYESpZj2mDPrgy3fRT) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Diary](https://open.spotify.com/album/3AYy5886YMf41BzIt8ntMy) | 4:02 | 2021-12-19 | 2022-01-24 |
@@ -781,7 +782,7 @@
 | [君は幻](https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [君は幻](https://open.spotify.com/album/0wbSh6gSs5M9riJ38XAExS) | 3:27 | 2022-04-03 | 2022-04-11 |
 | [君を想う](https://open.spotify.com/track/3ixdjc1sGw0uC1X9ojyjMa) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [君を想う](https://open.spotify.com/album/0gSLZpyo9KKGpVfdy1mwSY) | 4:24 | 2022-06-19 | 2022-07-04 |
 | [告白](https://open.spotify.com/track/1wSx4QJ82TQpT2WAjAa2fA) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [告白](https://open.spotify.com/album/605KBeQ7Mxy1vvgrcxWZgv) | 4:00 | 2022-01-30 | 2022-02-28 |
-| [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-13 |  |
+| [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-13 | 2023-08-19 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-10 | 2022-07-18 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-19 | 2022-06-28 |
 | [回春](https://open.spotify.com/track/2pLINOdB1UVzBrgKMLpE4D) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 5:00 | 2023-04-30 | 2023-05-08 |

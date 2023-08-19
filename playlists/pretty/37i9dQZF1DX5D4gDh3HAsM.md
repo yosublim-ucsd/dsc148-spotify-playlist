@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,429 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,403 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 |
 | 50 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 |
 
-Snapshot ID: `MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl`
+Snapshot ID: `MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4`

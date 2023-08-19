@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,554 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,705 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 100 | [Pagina Blanca](https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Recordando a](https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE) | 3:08 |
 
-Snapshot ID: `MCxlNWM0MDVjZTBjMGZiZDMyMjhmOTY1OWQ0MzM0MzAzZDU1ZGU1MWMz`
+Snapshot ID: `MCw1ZjI3ZWQ3YzQ0ZjAzZGJlOWYyN2VmNTUyY2Q5ZjQ1ZDU5YTRmN2Zl`

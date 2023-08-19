@@ -7160,10 +7160,32 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165209,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/277npP054GjDHwgYie3DQe"
+    },
+    {
+      "album": {
+        "name": "Say It Right",
+        "url": "https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165209,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V"
     },
     {
       "album": {

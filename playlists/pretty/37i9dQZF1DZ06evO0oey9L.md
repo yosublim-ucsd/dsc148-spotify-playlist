@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,275 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,306 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Sueños y Metas](https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Rubén Miranda Y Los De La J](https://open.spotify.com/artist/4A6lttDRrPRN2lb5SvyI9t) | [Sueños y Metas](https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE) | 2:45 |
 | 50 | [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 |
 
-Snapshot ID: `MjgyMDMyNjIsMDAwMDAwMDBiY2JkNGFiZmQzODI5ODkxNDIyZDRkMWIwZGViZjZhNQ==`
+Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDBmZWU4YWI5YzllOWZjYTE4ODg1YzljMmJlZTgyMTE5MQ==`

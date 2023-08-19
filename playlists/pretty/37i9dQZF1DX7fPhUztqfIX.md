@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,313 likes - 130 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,350 likes - 130 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 93 | [Not a Chance](https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP) | [Fear Not](https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7) | 5:33 |
 | 94 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Fountain \(I Am Good\) \[Live\]](https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ) | 5:18 |
 | 95 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
-| 96 | [Live Again](https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Live Again](https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh) | 5:08 |
-| 97 | [Nothing To Fear \(feat\. Audrey Assad\)](https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Nothing To Fear \(feat\. Audrey Assad\)](https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU) | 3:04 |
+| 96 | [Nothing To Fear \(feat\. Audrey Assad\)](https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Nothing To Fear \(feat\. Audrey Assad\)](https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU) | 3:04 |
+| 97 | [Live Again](https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Live Again](https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh) | 5:08 |
 | 98 | [Reputation](https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Reputation](https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9) | 4:02 |
 | 99 | [In The Hands Of Christ My King \- Edit](https://open.spotify.com/track/2TJ4z4dZh9vGzOwngU5EPE) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [In The Hands Of Christ My King \- EP](https://open.spotify.com/album/25INyQiDHJoWxazLARq7Cp) | 5:24 |
 | 100 | [Christ Our Hope in Life and Death](https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Christ Our Hope in Life and Death](https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1) | 4:31 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [The King In All His Beauty](https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [The King In All His Beauty](https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud) | 4:00 |
 | 130 | [How Deep](https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 4:48 |
 
-Snapshot ID: `MCxjZDc4MzlhMjA1ZTk2MzFjYmNkZGJhNzc0MzNhYWVhOWRjODE5ODI3`
+Snapshot ID: `MCxhNzFkN2NlMTIzYmQ0Y2EyOWNkNGQxMjE1MjY4NTlmNzI5MTdiMzM4`

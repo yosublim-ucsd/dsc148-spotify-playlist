@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,243 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,394 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 100 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
 
-Snapshot ID: `MCw2ZWI0ODM5ZDlhZWRiMzBjMGNjNTBjZWZjMGZjYmU3N2IwNzY2M2Q2`
+Snapshot ID: `MCw2MzdmZDc2MTJjZGRjNTEyOThlNzlkM2JhZGYyNzVmOWEyODI5Yjhl`

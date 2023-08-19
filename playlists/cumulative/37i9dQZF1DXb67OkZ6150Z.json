@@ -385,6 +385,28 @@
     },
     {
       "album": {
+        "name": "Attack of the Ghost Riders",
+        "url": "https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164351,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3R31GRbf0XVpBTfIzpkBHa"
       },
@@ -2681,6 +2703,28 @@
     },
     {
       "album": {
+        "name": "Broken Glass, Vol. 6",
+        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
+    },
+    {
+      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/3iLtKKmKRLGU10euWEYzFk"
       },
@@ -3918,7 +3962,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 210956,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
@@ -6962,7 +7006,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 215500,
       "name": "Walking on Broken Glass",
       "url": "https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV"

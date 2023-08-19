@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,972 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,973 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 36 | [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 |
 | 37 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
 | 38 | [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 |
-| 39 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 |
-| 40 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 |
+| 39 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 |
+| 40 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 |
 | 41 | [Alone](https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1) | 3:03 |
 | 42 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 43 | [천년지애 Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 49 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
 | 50 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 |
 
-Snapshot ID: `MCxhNmY3OWVhYWM5NWUyNjFiZWZmZGNkZWY4OWQzZThhOTIwN2I3OTRj`
+Snapshot ID: `MCw5ZmMyMTI4MzI1NTkxZmY2OGU0NmRkZGQwYjVlZjM4NGU3MzMxOTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,681 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,694 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 99 | [Cars Bring Me Out \(feat\. Future\)](https://open.spotify.com/track/2Okh2n1EHlGhviAYv75MOB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:22 |
 | 100 | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL) | 3:13 |
 
-Snapshot ID: `MCwzNzA4OTdlMmVjZDgyNzNiZjA4OTQ5NWFjNGViYjhiYTNkZmMzZTFh`
+Snapshot ID: `MCw3NzYxOTQzYjNhNGFhZDMyNWM5MGJiNWFmMjE4ZTBkNjgyMzYwNGVj`

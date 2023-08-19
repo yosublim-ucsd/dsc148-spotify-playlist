@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: شمة حمدان
 
-253 songs - 17 hr 13 min
+254 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Al Sulae](https://open.spotify.com/track/0YGB5IEVEh4UmXIaGed2PE) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Al Sulae](https://open.spotify.com/album/1h0QrJ1njWbgiDkOJvCgo8) | 3:28 | 2021-12-23 | 2022-01-21 |
 | [Ala Nyti](https://open.spotify.com/track/1v2PG1I8m0MEsgfXxibI7P) | [Mohamed Alzaabi](https://open.spotify.com/artist/3zF02zTkZezgiuIwCpRXMl) | [Ala Nyti](https://open.spotify.com/album/3sDzx9zi8MNCczaimMQz0J) | 5:50 | 2022-02-24 | 2022-07-11 |
 | [Alaa Hoonk](https://open.spotify.com/track/4IPtpgUdAZ7PAaInGXsVOx) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Alaa Hoonk](https://open.spotify.com/album/1hTduMtGuABBRFYHgYTiH7) | 2:31 | 2022-09-16 | 2023-03-25 |
-| [Alammeh Lah](https://open.spotify.com/track/1aIysPTbYWjoDlnXR8dwCE) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Alammeh Lah](https://open.spotify.com/album/592nTrO8zRJQpzRVhHG3dY) | 4:10 | 2023-01-20 |  |
+| [Alammeh Lah](https://open.spotify.com/track/1aIysPTbYWjoDlnXR8dwCE) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Alammeh Lah](https://open.spotify.com/album/592nTrO8zRJQpzRVhHG3dY) | 4:10 | 2023-01-20 | 2023-08-19 |
 | [Albadr Aldhahook](https://open.spotify.com/track/3to1cO2tsmdl7d4JNVnSyE) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Albadr Aldhahook](https://open.spotify.com/album/2rONmeWNNWsm1oh8Yt8T45) | 3:34 | 2022-02-11 | 2022-02-12 |
 | [Aleek Agreb](https://open.spotify.com/track/2UyZhVv6kMbIJafgjUB2Pb) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Aleek Agreb](https://open.spotify.com/album/5h2AknGWBsTQvXss7zmgTA) | 4:11 | 2021-12-23 | 2022-06-04 |
 | [Aljamal Al Yousefy](https://open.spotify.com/track/2n4bNkN9g10IrpneHrvIXR) | [Mohammed AlMenhali](https://open.spotify.com/artist/3zwErc4TrlnprH22dO0Iem) | [Aljamal Al Yousefy](https://open.spotify.com/album/0NoIyLmo6NtjSmeEUb4SBg) | 4:36 | 2021-12-23 | 2022-03-12 |
@@ -69,6 +69,7 @@
 | [Dawlat Ghram](https://open.spotify.com/track/4f5dUf1tjB2M8XYGvZzJtA) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dawlat Ghram](https://open.spotify.com/album/2eNvzuRYgHRdT8DtwlsCIQ) | 5:01 | 2022-02-11 | 2022-06-03 |
 | [Dayem As2al](https://open.spotify.com/track/4P5CkS0Omk3weM19g82WXb) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Dayem As2al](https://open.spotify.com/album/4Es99k05nZJfeVH300PR8Q) | 3:46 | 2023-01-12 | 2023-06-14 |
 | [Dehkat Ayami](https://open.spotify.com/track/5qzYDx4eVLJFmveW0ULvnx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Dehkat Ayami](https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz) | 4:17 | 2022-08-24 | 2023-02-25 |
+| [El Gheyab](https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [El Gheyab](https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3) | 5:21 | 2023-08-18 |  |
 | [El Hajah](https://open.spotify.com/track/1vXGTrgrBe5pPYgd2wBjSx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [El Hajah](https://open.spotify.com/album/0ojU0NHmHEh9756Is45OzT) | 4:23 | 2023-01-24 | 2023-06-24 |
 | [El Hob Modha](https://open.spotify.com/track/6onG89rY6ZqA66oDyx7K3X) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [El Hob Modha](https://open.spotify.com/album/56HkKM6b8t16LONjNopORW) | 4:13 | 2022-08-19 | 2023-01-21 |
 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 | 2023-01-20 | 2023-08-04 |

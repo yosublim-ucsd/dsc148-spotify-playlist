@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,068 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,267 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [Belly of the Beast](https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Belly of the Beast / Paper Mountain](https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI) | 3:15 |
 | 125 | [Dusty Eyes](https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 4:37 |
 
-Snapshot ID: `MCw1NWIxMjkyMGI1MTUwZWIxZDRmYjhkZjhkNTJjZTQxNTFmYjg5YmU5`
+Snapshot ID: `MCw2Yzc1OTE1Yzk0MjVlMDkxNzkxZmY0ZjE3NzZmMDA4ODJiNjY2YmJj`

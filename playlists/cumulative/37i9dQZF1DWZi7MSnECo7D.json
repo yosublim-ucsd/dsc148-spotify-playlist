@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: uma P\u00f3voas",
+  "description": "Novidades e destaques do indie nacional. Foto: Ana Frango El\u00e9trico",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Aquele Outono",
+        "url": "https://open.spotify.com/album/6ou7lqgI2uo0gtz0wtAP4P"
+      },
+      "artists": [
+        {
+          "name": "Cronistas",
+          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192469,
+      "name": "Aquele Outono",
+      "url": "https://open.spotify.com/track/1GZAxktxsYntDgkXp9XrbN"
+    },
+    {
+      "album": {
         "name": "Aqueles Homens",
         "url": "https://open.spotify.com/album/3UHBNu5gqCpsLJsKG6J7gH"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 166448,
       "name": "astronauta",
       "url": "https://open.spotify.com/track/0sVTTF4UBzjzd7iEZxUrXB"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 217564,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/78iFCNxDIc1oASCP7pZTSZ"
@@ -1062,6 +1080,36 @@
       "duration_ms": 238890,
       "name": "Blue Butterfly",
       "url": "https://open.spotify.com/track/5pxljqGTHVo2p4Y532ohQL"
+    },
+    {
+      "album": {
+        "name": "Boate Invis\u00edvel",
+        "url": "https://open.spotify.com/album/2NCrddtpeRnPyeGMcPaP9N"
+      },
+      "artists": [
+        {
+          "name": "Tat\u00e1 Aeroplano",
+          "url": "https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U"
+        },
+        {
+          "name": "J\u00fanior Boca",
+          "url": "https://open.spotify.com/artist/0Zz8j8DnVD61ZuoQWeNLzP"
+        },
+        {
+          "name": "Bruno Buarque",
+          "url": "https://open.spotify.com/artist/4lVG6VJNeTirBzikv3xtXE"
+        },
+        {
+          "name": "Dustan Gallas",
+          "url": "https://open.spotify.com/artist/4TzqdfKQdxF1xi9DP1Upfw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226610,
+      "name": "Boate Invis\u00edvel",
+      "url": "https://open.spotify.com/track/7igOvMhssuw867QCX4KHeK"
     },
     {
       "album": {
@@ -1504,7 +1552,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170196,
       "name": "Certificar",
       "url": "https://open.spotify.com/track/39iKqBJvPwW3HspCErgLSc"
@@ -1768,6 +1816,24 @@
       "duration_ms": 208748,
       "name": "Como Vai Voc\u00ea?",
       "url": "https://open.spotify.com/track/0jZGKkbAt7bTKEdmUkH0o6"
+    },
+    {
+      "album": {
+        "name": "Plut\u00e3o J\u00e1 Foi Planeta",
+        "url": "https://open.spotify.com/album/443v0AsX5FFio7iX23rxse"
+      },
+      "artists": [
+        {
+          "name": "Plut\u00e3o J\u00e1 Foi Planeta",
+          "url": "https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209063,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/5vxVf4x310ltfa2sVwMZRq"
     },
     {
       "album": {
@@ -2467,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Electric Fish",
+        "url": "https://open.spotify.com/album/1tT0M0ILq3siLsmYlfoIrW"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253255,
+      "name": "Electric Fish",
+      "url": "https://open.spotify.com/track/0g4dxxpHaccjm7Ng1k2fQF"
+    },
+    {
+      "album": {
         "name": "Eles",
         "url": "https://open.spotify.com/album/5N5p9h37jMOiysf0bf3OWy"
       },
@@ -2644,7 +2728,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 117428,
       "name": "Espa\u00e7o",
       "url": "https://open.spotify.com/track/67KhBNkSVEYTK9cPCq3QT8"
@@ -2750,7 +2834,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 296821,
       "name": "Essa Pessoa Esquisita",
       "url": "https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v"
@@ -2956,6 +3040,24 @@
       "duration_ms": 231000,
       "name": "Eu Voltei",
       "url": "https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly"
+    },
+    {
+      "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/6jRaupMaz1rlH9VRlHHW44"
+      },
+      "artists": [
+        {
+          "name": "Verene",
+          "url": "https://open.spotify.com/artist/7xYEIPoJ23Gv9HRUJ8l4Ub"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173872,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/2ZEgZBFzeG0wr9jT6YmdPM"
     },
     {
       "album": {
@@ -3535,6 +3637,28 @@
     },
     {
       "album": {
+        "name": "Impress\u00e3o Digital",
+        "url": "https://open.spotify.com/album/1wuprDINjvGjOCyeX3Cj3n"
+      },
+      "artists": [
+        {
+          "name": "Joana Castanheira",
+          "url": "https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn"
+        },
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238583,
+      "name": "Impress\u00e3o Digital",
+      "url": "https://open.spotify.com/track/0UoRBK9Q7CDsZTJlzhdOed"
+    },
+    {
+      "album": {
         "name": "Incerto",
         "url": "https://open.spotify.com/album/7rwEYJuCR44TQ0fQs22Fpv"
       },
@@ -3702,6 +3826,24 @@
       "duration_ms": 206100,
       "name": "Jangada",
       "url": "https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb"
+    },
+    {
+      "album": {
+        "name": "ju\u00edzo",
+        "url": "https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ"
+      },
+      "artists": [
+        {
+          "name": "Agatha",
+          "url": "https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171829,
+      "name": "ju\u00edzo",
+      "url": "https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B"
     },
     {
       "album": {
@@ -3876,7 +4018,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 179866,
       "name": "Longe",
       "url": "https://open.spotify.com/track/1aC2Sh3pqlzydr1dsoi6v0"
@@ -4807,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "nesse ver\u00e3o",
+        "url": "https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A"
+      },
+      "artists": [
+        {
+          "name": "Ente",
+          "url": "https://open.spotify.com/artist/2lOXiSPGZ3mm6JpMhmL1bZ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167083,
+      "name": "nesse ver\u00e3o",
+      "url": "https://open.spotify.com/track/2o7Dnb3uCe2NRJhSEAruNv"
+    },
+    {
+      "album": {
         "name": "Netuno",
         "url": "https://open.spotify.com/album/42JEz98glWhal7Nte70EXS"
       },
@@ -5030,7 +5190,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 205256,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
@@ -6168,7 +6328,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 183666,
       "name": "Quando Eu Falei Pra Ela",
       "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
@@ -7170,6 +7330,24 @@
       "duration_ms": 234427,
       "name": "Suco de Umbu",
       "url": "https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw"
+    },
+    {
+      "album": {
+        "name": "Superficialidade",
+        "url": "https://open.spotify.com/album/3eMrv9WO94DVdgrRNgrK6I"
+      },
+      "artists": [
+        {
+          "name": "Lourandes",
+          "url": "https://open.spotify.com/artist/3Un59PenImYu2RdwRb6cDv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210005,
+      "name": "Superficialidade",
+      "url": "https://open.spotify.com/track/7pU23BhtMm53tbUHeQGlsR"
     },
     {
       "album": {
@@ -8176,7 +8354,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 211428,
       "name": "verdeoliva",
       "url": "https://open.spotify.com/track/5GM0ivW0to4aD2ODLgnHu7"
@@ -8242,7 +8420,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 245496,
       "name": "Vidadulta",
       "url": "https://open.spotify.com/track/2h79C5Bj9nrI3FotE3TbZ8"
@@ -8438,7 +8616,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 178592,
       "name": "Voltas e Voltas",
       "url": "https://open.spotify.com/track/3VuV7aeq7vpWlnCeQhekrB"
@@ -8500,7 +8678,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 211655,
       "name": "VOU TE CONVIDAR",
       "url": "https://open.spotify.com/track/0nGfP61h8yHToSYiXnngXi"

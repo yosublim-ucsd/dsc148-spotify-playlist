@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Johnathan Blake",
+  "description": "New jazz for open minds. Cover: Cautious Clay",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2257,6 +2257,40 @@
     },
     {
       "album": {
+        "name": "Bass solo",
+        "url": "https://open.spotify.com/album/2w7FHQsqxYEDL6lE8WhXQs"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155974,
+      "name": "Bass solo",
+      "url": "https://open.spotify.com/track/5wRO3D0QDF9xcdLC6I4vlP"
+    },
+    {
+      "album": {
         "name": "4th Feb (Stay Awake) / BC",
         "url": "https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw"
       },
@@ -3436,7 +3470,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 310107,
       "name": "Calling",
       "url": "https://open.spotify.com/track/4qgCo3MXhSQhDM8Aq1mXIu"
@@ -4173,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "Coral Way",
+        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219999,
+      "name": "Coral Way",
+      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
+    },
+    {
+      "album": {
         "name": "Cosmic Changes",
         "url": "https://open.spotify.com/album/5tHLgERGdcXf9mQANy8c0t"
       },
@@ -4682,6 +4734,24 @@
       "duration_ms": 182304,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/7gbMWvNFc5HXRSVV0a2Wmg"
+    },
+    {
+      "album": {
+        "name": "Day Glow",
+        "url": "https://open.spotify.com/album/08AVQmJWvNES8OO0eqSYzD"
+      },
+      "artists": [
+        {
+          "name": "Lee Pardini",
+          "url": "https://open.spotify.com/artist/3pA2WY9BtYThcYxuNlmnNx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379686,
+      "name": "Day Glow",
+      "url": "https://open.spotify.com/track/32SGbjA6hEXB3wmvnYWeg1"
     },
     {
       "album": {
@@ -5618,6 +5688,28 @@
       "duration_ms": 327774,
       "name": "Dust Ball Fantasy (feat. Lionel Loueke)",
       "url": "https://open.spotify.com/track/1R3OT4zUhA9p8erPorBcPD"
+    },
+    {
+      "album": {
+        "name": "DYKWYD [Feat. Braxton Cook]",
+        "url": "https://open.spotify.com/album/3wHESbXbqvwTjgHzxbWaE4"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "DYKWYD [Feat. Braxton Cook]",
+      "url": "https://open.spotify.com/track/6CK3P6x1g6lfJ2yowBGOWz"
     },
     {
       "album": {
@@ -7814,7 +7906,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 341918,
       "name": "Have a Talk with God",
       "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
@@ -8486,7 +8578,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 217984,
       "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
       "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
@@ -13244,7 +13336,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 188118,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/33pCdzo9Oq4JsWSlLssSuX"
@@ -13420,6 +13512,24 @@
       "duration_ms": 418779,
       "name": "OD",
       "url": "https://open.spotify.com/track/2ih8SappJXdqcXKHHn24Jc"
+    },
+    {
+      "album": {
+        "name": "Old Folks",
+        "url": "https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350606,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI"
     },
     {
       "album": {
@@ -13759,6 +13869,32 @@
     },
     {
       "album": {
+        "name": "Origin 01",
+        "url": "https://open.spotify.com/album/18TmskuHhaVsCmgtc3hw5Y"
+      },
+      "artists": [
+        {
+          "name": "everwave",
+          "url": "https://open.spotify.com/artist/5nQnpRoxAaiMvn2qLL2hDX"
+        },
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Greg Paul",
+          "url": "https://open.spotify.com/artist/02VrMFqsgeEebhNeVJ4Poe"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265425,
+      "name": "Origin 01",
+      "url": "https://open.spotify.com/track/6WYs0dpollV9oeui2MBXdh"
+    },
+    {
+      "album": {
         "name": "Ornette's Clockwork",
         "url": "https://open.spotify.com/album/57MyVQnykZBOoimi7frYXb"
       },
@@ -14060,7 +14196,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192029,
       "name": "Part VII",
       "url": "https://open.spotify.com/track/6YBlNOhf1CXD3tBS47AgVx"
@@ -15330,7 +15466,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168648,
       "name": "Regards",
       "url": "https://open.spotify.com/track/60qPrCpb28zz0bTsop1K1o"
@@ -15564,7 +15700,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 153209,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/6ugE62LTbi9yM1i4616KrK"
@@ -17262,7 +17398,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 70357,
       "name": "Something I'm Used To",
       "url": "https://open.spotify.com/track/0WPOVQw06XqsWGjDF2mdTj"
@@ -17284,6 +17420,24 @@
       "duration_ms": 70357,
       "name": "Something I'm Used To",
       "url": "https://open.spotify.com/track/2OauEKv545mlx6Rz43ZS5Z"
+    },
+    {
+      "album": {
+        "name": "Something Old Something New",
+        "url": "https://open.spotify.com/album/4Kk7bcoKqkbwFzhDKuezxr"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396373,
+      "name": "Something Old Something New",
+      "url": "https://open.spotify.com/track/7BVqoseT4SS6ly48xmdSAK"
     },
     {
       "album": {
@@ -19662,7 +19816,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 144666,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/5kBRqIn6dDt5RlHL2OOFHz"
@@ -20540,6 +20694,28 @@
       "duration_ms": 263746,
       "name": "Trance De Jour",
       "url": "https://open.spotify.com/track/2bK6NBZeG9WG2BmZZAXFYS"
+    },
+    {
+      "album": {
+        "name": "Transient",
+        "url": "https://open.spotify.com/album/1tizhOQtiHBSDH8w24Pps4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225495,
+      "name": "Transient",
+      "url": "https://open.spotify.com/track/1yJGKN9vVPbsRL6Lj5bGd7"
     },
     {
       "album": {

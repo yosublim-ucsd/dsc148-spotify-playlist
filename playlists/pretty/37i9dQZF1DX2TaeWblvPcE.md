@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,195 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,210 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 99 | [Dynamite \- Piano Cover](https://open.spotify.com/track/4numcWrrlJaISYq3s9UDQO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [BE](https://open.spotify.com/album/1xhrMusc4aK2RXpdeqXKDb) | 3:24 |
 | 100 | [Stay](https://open.spotify.com/track/0HD4Acb4zc39laFFBwX79M) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BLACKPINK](https://open.spotify.com/album/4BblBGeUdTFQPKwjmtpCnf) | 4:01 |
 
-Snapshot ID: `MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk`
+Snapshot ID: `MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3`

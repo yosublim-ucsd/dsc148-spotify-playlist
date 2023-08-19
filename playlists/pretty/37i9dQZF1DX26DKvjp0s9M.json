@@ -1,12 +1,12 @@
 {
-  "description": "the best of the best from oldies to new classics. Cover: boygenius - Phoebe Bridgers, Lucy Dacus & Julien Baker. ",
-  "num_followers": 889741,
+  "description": "The best of the best from oldies to new classics. Cover: Lorde",
+  "num_followers": 890167,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWEzYTE5OTI0MjUyMGVlMTc5MmQxZTQ3YjY0ZmUyMzg5MDRkNGIy",
+  "snapshot_id": "MCxiNmExYTIzMDI3YmE3ODA0MDllYmE0OWZkZTAwOTdmNWUzOTc0OGYx",
   "tracks": [
     {
       "added_at": "2023-04-21 01:33:59",
@@ -43,30 +43,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 206465,
-      "name": "Me & My Dog",
-      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -407,6 +395,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -455,22 +459,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -483,6 +471,22 @@
       "duration_ms": 225747,
       "name": "Best to You",
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -551,22 +555,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Apolonio",
         "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
@@ -583,6 +571,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 215110,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"
       },
@@ -595,22 +599,6 @@
       "duration_ms": 189160,
       "name": "Young",
       "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -713,20 +701,20 @@
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
-      "added_at": "2023-05-30 16:37:30",
+      "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -743,22 +731,6 @@
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -875,6 +847,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "Kala",
         "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
       },
@@ -923,22 +911,6 @@
       "duration_ms": 234800,
       "name": "Where'd All the Time Go?",
       "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1071,22 +1043,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 319560,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -1163,6 +1119,22 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 319560,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1549,7 +1521,7 @@
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
-      "added_at": "2023-05-30 16:37:30",
+      "added_at": "2023-04-21 01:33:59",
       "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
@@ -1599,22 +1571,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -1647,6 +1603,38 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     }
   ],
   "unique_name": "Essential Indie",

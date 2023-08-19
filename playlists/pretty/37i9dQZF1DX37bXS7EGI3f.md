@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,799 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,960 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [The Raven's Cry](https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [The Raven's Cry](https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG) | 3:54 |
 | 80 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
 
-Snapshot ID: `MCwyYmMzN2Y4MDk5MzVhYzI0MGU0YzU0ODA5OWMxMDczODZmNTBhODAw`
+Snapshot ID: `MCw3MjY1ZmNmMmE0ZTUyMTBhZTNiNTcyYjdlMGZkNTFiNGQwZjkwNjVm`

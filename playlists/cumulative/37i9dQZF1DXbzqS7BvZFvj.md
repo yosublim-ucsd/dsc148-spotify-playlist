@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Doechii
 
-276 songs - 14 hr 19 min
+278 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-07-28 |  |
 | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/track/7r5R0CLCuyMaFYaQkdlZrx) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [You Still Here, Ho ? \(Extended\)](https://open.spotify.com/album/67AK26TDyMFb7CA7bKJh0w) | 3:40 | 2023-03-23 | 2023-06-03 |
 | [Beetleborgs](https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Bin Reaper 3: New Testament](https://open.spotify.com/album/3djREupuPtVxMt6OBlKPcL) | 2:25 | 2023-03-16 | 2023-03-31 |
+| [Big Pimpin' \(feat\. Luh Tyler\)](https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Big Pimpin' \(feat\. Luh Tyler\)](https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb) | 2:03 | 2023-08-17 |  |
 | [BIRTHDAY](https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BIRTHDAY](https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74) | 2:55 | 2023-07-28 |  |
 | [Bite](https://open.spotify.com/track/357BPRQBOi7m38Kl3Jn7j8) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Bite](https://open.spotify.com/album/7tMqwp42zyOZaSpQgnp03t) | 2:52 | 2023-03-16 | 2023-06-23 |
 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:09 | 2023-04-07 | 2023-06-09 |
@@ -98,6 +99,7 @@
 | [GUMMY YUMMY](https://open.spotify.com/track/43u36BnruNoxMgxStSLEXQ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GUMMY YUMMY](https://open.spotify.com/album/47iAhuFISwSujzJFasNVRq) | 4:03 | 2023-04-28 | 2023-05-05 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-25 | 2023-07-01 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-20 | 2023-05-19 |
+| [Hard To Handle](https://open.spotify.com/track/5Wv4g4QWO3ArPnbyP5Z6Mx) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1tJcinzpjwIOAwfO1hmFe0) | 3:35 | 2023-08-17 |  |
 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 | 2023-07-28 |  |
 | [HEROES \(feat\. DJ Premier\)](https://open.spotify.com/track/75RQYCt0aVJrk1QXgwOS32) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [HEROES \(feat\. DJ Premier\)](https://open.spotify.com/album/35b56rQm3FwWF6wGy03dbI) | 2:55 | 2023-03-16 | 2023-05-26 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2023-03-16 | 2023-04-09 |

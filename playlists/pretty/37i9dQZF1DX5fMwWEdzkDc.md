@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,609 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,623 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [A Better Day](https://open.spotify.com/track/0TpJgjTSFekS05ZyQFIUzp) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 4:06 |
 | 100 | [Passion](https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Must Listen](https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV) | 3:21 |
 
-Snapshot ID: `MCwwMzM0ODM0NGVhYmM3MWJhYjQwZjY1ZGJhOTMzZGM5YWViOTBiYTMy`
+Snapshot ID: `MCw2MGM2MWRjYTBmMjYzOTQ5OWYxZWU2MmFiMWViZWI2YjJkYzc4ZmI5`

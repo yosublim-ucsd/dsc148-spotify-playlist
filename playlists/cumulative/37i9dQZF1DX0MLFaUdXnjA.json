@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/54sLwWesyZgbm1a14PYq9X"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187713,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/04jQY5VHHilNqaWCabuSzz"
+    },
+    {
+      "album": {
         "name": "Anywhere Away From Here (Rag\u2019n\u2019Bone Man & P!nk)",
         "url": "https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD"
       },
@@ -2380,6 +2398,24 @@
       "duration_ms": 222150,
       "name": "Black Boots And Leather Rebellion",
       "url": "https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X"
+    },
+    {
+      "album": {
+        "name": "WELL WELL",
+        "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189123,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/0Z20yeDEotfT3LX8e6kSpk"
     },
     {
       "album": {
@@ -4096,7 +4132,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
@@ -4302,6 +4338,24 @@
       "duration_ms": 163360,
       "name": "Colours Of You - Nick And Charlie Version",
       "url": "https://open.spotify.com/track/4WkcqpMX3f697pJqwRYbAQ"
+    },
+    {
+      "album": {
+        "name": "Come Close",
+        "url": "https://open.spotify.com/album/7G7yRxThmQ63x62INWhbza"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183151,
+      "name": "Come Close",
+      "url": "https://open.spotify.com/track/68tTxn5ShJvck0knZtmc3R"
     },
     {
       "album": {
@@ -5986,6 +6040,24 @@
       "duration_ms": 203968,
       "name": "Easy Love",
       "url": "https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv"
+    },
+    {
+      "album": {
+        "name": "Eightball Girl",
+        "url": "https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Eightball Girl",
+      "url": "https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3"
     },
     {
       "album": {
@@ -9336,7 +9408,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -12813,6 +12885,28 @@
     },
     {
       "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289337,
+      "name": "Life Lesson (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/21B45csd0sMwX5VnAHc4BX"
+    },
+    {
+      "album": {
         "name": "tendency to be a loner",
         "url": "https://open.spotify.com/album/65gYIY8CGaLB852cyVhvFI"
       },
@@ -13398,7 +13492,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 192461,
       "name": "Looking At Me",
       "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
@@ -13604,7 +13698,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 216933,
       "name": "Love Me In Chapters",
       "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
@@ -15872,7 +15966,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 156385,
       "name": "Nobody's You",
       "url": "https://open.spotify.com/track/2ZIyBv5RsM12HZkCGEzFKh"
@@ -15992,6 +16086,24 @@
       "duration_ms": 199851,
       "name": "Not Usually Like This",
       "url": "https://open.spotify.com/track/6jFzlVYVaGUUBbkZtMPxWh"
+    },
+    {
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "album": {
@@ -16260,7 +16372,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 157716,
       "name": "older",
       "url": "https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod"
@@ -18917,6 +19029,24 @@
     },
     {
       "album": {
+        "name": "Search History",
+        "url": "https://open.spotify.com/album/2LpBl5PDQCYn3RF94j401j"
+      },
+      "artists": [
+        {
+          "name": "Emilie Kahn",
+          "url": "https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175131,
+      "name": "Search History",
+      "url": "https://open.spotify.com/track/7tk9zuWVPMDXzAgYuKPNJ2"
+    },
+    {
+      "album": {
         "name": "one",
         "url": "https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW"
       },
@@ -20028,7 +20158,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 236291,
       "name": "Somebody Like Me",
       "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
@@ -20288,6 +20418,24 @@
       "duration_ms": 173463,
       "name": "Speak",
       "url": "https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb"
+    },
+    {
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
     },
     {
       "album": {
@@ -21706,7 +21854,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165874,
       "name": "Thank You For Everything",
       "url": "https://open.spotify.com/track/5hVdovNC8QAuuJqUnT400l"
@@ -22032,6 +22180,24 @@
       "duration_ms": 171186,
       "name": "The Medicine",
       "url": "https://open.spotify.com/track/6IoNznAInrqrd9P0KDzCxW"
+    },
+    {
+      "album": {
+        "name": "The Morning Song",
+        "url": "https://open.spotify.com/album/5xzPd8qLWMtxwi0f7Wal2g"
+      },
+      "artists": [
+        {
+          "name": "Laur Elle",
+          "url": "https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234472,
+      "name": "The Morning Song",
+      "url": "https://open.spotify.com/track/5sckOW5s9DQZbPNip3YJIl"
     },
     {
       "album": {
@@ -23750,7 +23916,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 217727,
       "name": "Waiting for this Love to Die",
       "url": "https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp"
@@ -24654,7 +24820,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 182009,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/6dLuEkW3rWLXbLeYBWoT7N"
@@ -24908,6 +25074,24 @@
       "duration_ms": 199906,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/0aKcjCM4U2z8bATGl5IChO"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/7wHNmvyRDjz4l6D7eROhlx"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161514,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/2a5dEuCG3QeytncFxBUoPz"
     },
     {
       "album": {

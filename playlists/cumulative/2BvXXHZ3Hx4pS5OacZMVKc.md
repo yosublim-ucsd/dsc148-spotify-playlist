@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-335 songs - 17 hr 44 min
+336 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Taking Control](https://open.spotify.com/track/67p3rriE3VbvcsIuQjfVQ1) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Taking Control](https://open.spotify.com/album/7AnUMZAuOTuIIKYnkv5mhH) | 2:55 | 2022-02-03 | 2022-09-15 |
 | [Talk To Me](https://open.spotify.com/track/6mvMDGZ0Sq1wAnJ3BvRp9P) | [Siberian Express](https://open.spotify.com/artist/45fLfFzIAKudNKuSeD2y2c) | [Talk To Me](https://open.spotify.com/album/1pJcRSWjtIKwiqyz0pDgY2) | 2:55 | 2022-02-03 | 2022-09-15 |
 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-08-10 |  |
+| [Temptation](https://open.spotify.com/track/0eO2a2BzQujyK9MkLfOJxf) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Temptation](https://open.spotify.com/album/2XVLOitnajQuyW3Zi5SBqE) | 2:39 | 2023-08-18 |  |
 | [Ten More Minutes](https://open.spotify.com/track/3SDTgUXz8m2C2b12L7Q5Cg) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Ten More Minutes](https://open.spotify.com/album/0oRDTDNl1lQgvXamU4WlTk) | 3:42 | 2022-02-03 | 2022-09-15 |
 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-08-10 |  |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 | 2023-08-11 |
@@ -302,7 +303,7 @@
 | [The Revolution \- Arc North Remix](https://open.spotify.com/track/4tjxa3WaYdgVVfVGzkMWAN) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:10 | 2022-02-03 | 2023-08-11 |
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-08-10 |  |
 | [There's Nobody Else](https://open.spotify.com/track/3VssPt5F9RG40fyiz56bqo) | [Chris Later](https://open.spotify.com/artist/7kOhsEdKbT5rsDVAShrpmq), [Dany Yeager](https://open.spotify.com/artist/6eNcrRzNwtMcyuW0cfYe5u) | [There's Nobody Else](https://open.spotify.com/album/5cm7dJUDOmP6OfAeQxAGbL) | 2:41 | 2022-02-15 | 2023-08-11 |
-| [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-10 |  |
+| [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-10 | 2023-08-19 |
 | [Throne](https://open.spotify.com/track/6SOswqkbO1IztYXJFWkKry) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Throne](https://open.spotify.com/album/7isSdYhzT41o4n6HTaLc8H) | 3:31 | 2022-02-03 | 2022-09-15 |
 | [To The Top \- JJL Remix](https://open.spotify.com/track/57yxSNXHLMb3gREIFyEDqV) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [To The Top \(JJL Remix\)](https://open.spotify.com/album/2iXwrkpbLaSpUBpTYwnc5p) | 3:02 | 2022-08-19 | 2023-08-11 |
 | [Tonight](https://open.spotify.com/track/5HButdKodhRVg82OnkeI3I) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Tonight](https://open.spotify.com/album/11spxNqtn2Nz7Y3tJUPIyN) | 2:32 | 2022-09-06 | 2023-08-11 |

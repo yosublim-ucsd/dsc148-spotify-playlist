@@ -309,6 +309,42 @@
     },
     {
       "album": {
+        "name": "everything in memory will be erased",
+        "url": "https://open.spotify.com/album/0FjnzCmbvHbgnDfRiA2oZh"
+      },
+      "artists": [
+        {
+          "name": "endless withdrawal",
+          "url": "https://open.spotify.com/artist/38BaarFdCwCpVmw0rXB2tu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "everything in memory will be erased",
+      "url": "https://open.spotify.com/track/0xFyqmaHX6IEE8PZ40Q4Ms"
+    },
+    {
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/4snR7jdu8SjlWVVP91x5nS"
+      },
+      "artists": [
+        {
+          "name": "widx.",
+          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117446,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/6aFgTeAArLgNBlt1lcVF3o"
+    },
+    {
+      "album": {
         "name": "far off in the distance i see a light.",
         "url": "https://open.spotify.com/album/0A0YjBCtb4PfmfBhM2Pe51"
       },
@@ -324,6 +360,28 @@
       "duration_ms": 116885,
       "name": "far off in the distance i see a light.",
       "url": "https://open.spotify.com/track/4ijhrEf1AnKui1vSJAOwyl"
+    },
+    {
+      "album": {
+        "name": "flame inside",
+        "url": "https://open.spotify.com/album/6BJEoGRQCPZHbRzk1hoxoX"
+      },
+      "artists": [
+        {
+          "name": "Inan",
+          "url": "https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG"
+        },
+        {
+          "name": "chillwithme",
+          "url": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105359,
+      "name": "flame inside",
+      "url": "https://open.spotify.com/track/5QuEzFuNNW0zh8gw2nWIAq"
     },
     {
       "album": {
@@ -425,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Fragile (Rework - Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/670hvOiROYlvz03jGeG2P3"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187846,
+      "name": "Fragile (Rework - Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/3isNY7cxMmORr4uhajCZNC"
+    },
+    {
+      "album": {
         "name": "green to blue",
         "url": "https://open.spotify.com/album/4miOB6VeF95TgH4UeFKTmc"
       },
@@ -502,6 +578,46 @@
       "duration_ms": 103200,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/7Le9FkXJJqPLkIF18WTprA"
+    },
+    {
+      "album": {
+        "name": "i lost my heart",
+        "url": "https://open.spotify.com/album/4WAtfgFNujkDOAa8mGxqh2"
+      },
+      "artists": [
+        {
+          "name": "aurorat\u00f8nes",
+          "url": "https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy"
+        },
+        {
+          "name": "$adness",
+          "url": "https://open.spotify.com/artist/6jiqToMlWSzv4F4IH4Knf6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134791,
+      "name": "i lost my heart",
+      "url": "https://open.spotify.com/track/2YHjCqDEx3Jpn2MewGwBqh"
+    },
+    {
+      "album": {
+        "name": "in the bleak midwinter (Remixes)",
+        "url": "https://open.spotify.com/album/1kXLlpfXHC0T7il7cGl3Ff"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "in the bleak midwinter (Super Slowed)",
+      "url": "https://open.spotify.com/track/0ZldgW3MduVUHUQailxYlj"
     },
     {
       "album": {
@@ -613,6 +729,24 @@
     },
     {
       "album": {
+        "name": "magic feeling",
+        "url": "https://open.spotify.com/album/0FaQAvcCmeYxzOB8Dn6KPc"
+      },
+      "artists": [
+        {
+          "name": "\u00d8dyzon",
+          "url": "https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168061,
+      "name": "magic feeling",
+      "url": "https://open.spotify.com/track/13Uf530cTsAeYx3TwLnwlB"
+    },
+    {
+      "album": {
         "name": "maps to nowhere",
         "url": "https://open.spotify.com/album/4PJjDMSopK3Or8D50B4MFy"
       },
@@ -650,6 +784,24 @@
       "duration_ms": 224571,
       "name": "milk cassette x.mp3 (demo) (slowed + reverb)",
       "url": "https://open.spotify.com/track/0QZMfHkSdCXeJpszp7peVR"
+    },
+    {
+      "album": {
+        "name": "mourn",
+        "url": "https://open.spotify.com/album/3laNWp2dOY8bSbBNeaKqZx"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99983,
+      "name": "mourn",
+      "url": "https://open.spotify.com/track/5yecAOPGv7IX5Ja6U0DOLI"
     },
     {
       "album": {
@@ -747,6 +899,24 @@
     },
     {
       "album": {
+        "name": "peaceful silence",
+        "url": "https://open.spotify.com/album/5RtfQnpJOg163dJBGm0ALH"
+      },
+      "artists": [
+        {
+          "name": "pxlse.",
+          "url": "https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100869,
+      "name": "peaceful silence",
+      "url": "https://open.spotify.com/track/2D1lEjMYTWSMzuclNyLKDq"
+    },
+    {
+      "album": {
         "name": "breath",
         "url": "https://open.spotify.com/album/5NQz9MuiwmMU9seqxfB4O2"
       },
@@ -798,6 +968,28 @@
       "duration_ms": 242000,
       "name": "ref-de/09",
       "url": "https://open.spotify.com/track/5eLMwSdNvRr8TqXOoLyfmE"
+    },
+    {
+      "album": {
+        "name": "regrets",
+        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        },
+        {
+          "name": "Raynix",
+          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116687,
+      "name": "regrets",
+      "url": "https://open.spotify.com/track/392wSTVT2YtUpWyZ1D2wzr"
     },
     {
       "album": {
@@ -856,6 +1048,24 @@
       "duration_ms": 173609,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1EZ6UEouCbyEe3nyEoxXcy"
+    },
+    {
+      "album": {
+        "name": "Savory Tea",
+        "url": "https://open.spotify.com/album/5HyknzzAqvwGoHzqz4jeAe"
+      },
+      "artists": [
+        {
+          "name": "Headphone Activist",
+          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120006,
+      "name": "Savory Tea",
+      "url": "https://open.spotify.com/track/2d8EFRwq0rLxIkh7MGy2Vd"
     },
     {
       "album": {
@@ -994,6 +1204,24 @@
       "duration_ms": 207567,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/6Hy8V6m5lyoxUed9C3cXh8"
+    },
+    {
+      "album": {
+        "name": "the end of story",
+        "url": "https://open.spotify.com/album/64bQaGQbPTf8Hnan5SE0QY"
+      },
+      "artists": [
+        {
+          "name": "Ybyrayy",
+          "url": "https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91636,
+      "name": "the end of story",
+      "url": "https://open.spotify.com/track/3bKNDF26cGbibJI9K6ALL5"
     },
     {
       "album": {

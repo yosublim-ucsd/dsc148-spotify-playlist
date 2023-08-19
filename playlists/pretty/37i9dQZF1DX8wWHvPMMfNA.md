@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,586 likes - 500 songs - 1 day 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,676 likes - 500 songs - 1 day 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 499 | [Ill Wind](https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 7:59 |
 | 500 | [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 |
 
-Snapshot ID: `MCw0Nzg4OWZhNmMyMTVkNzkyYzIzYjA4M2NiM2Q1MGQ2ODEwZDBmZjlk`
+Snapshot ID: `MCwwNDQ5OTlmZTM4YWQ0YTVkYjQ0MTIyMWY4Y2JjN2ZlYjhkOTdhNzM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,724 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,865 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 49 | [Single For The Summer](https://open.spotify.com/track/4nrtux8xl5lYegU8II5rAQ) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 5:10 |
 | 50 | [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 |
 
-Snapshot ID: `MCxkNThmMmQ4MjNkNTRhMWZlOWM5ZDVmYjU2OGVmMTYxN2VjYjlkZGNk`
+Snapshot ID: `MCw2ODQ2ZWU2YWY3YTkxNTM1OWViZTkzOTNmMzQxYTg2YWUzYmVlMTU2`

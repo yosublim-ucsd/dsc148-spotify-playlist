@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Banda MS en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,727,998 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728,912 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 124 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
 | 125 | [CicatrIIIces](https://open.spotify.com/track/4S5TXZJiBYatTkl17gwHq5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [CicatrIIIces](https://open.spotify.com/album/1VYDeQWyxknywWWMTLzpUW) | 2:46 |
 
-Snapshot ID: `MCw3ZjkzZTQ1NGZlOTNmMDFlZTExZDQ4OTM3N2VkYTlkOTFmMDZhOTM1`
+Snapshot ID: `MCwwN2NjYTZmNDlhY2VhZGVhODg5NWUzMTA4OThhMGU1Yzc2M2VhY2Fh`

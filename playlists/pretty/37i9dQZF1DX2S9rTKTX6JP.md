@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,643 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,796 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Beat It \- Studio Version Featuring John Mayer](https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Live In Phoenix](https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF) | 3:50 |
 | 100 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 |
 
-Snapshot ID: `MCw4NzU4MTk4NTViZmQ4NTcwOTVhNjg0ZDEyMThiZmRhMzdhM2QzZDRj`
+Snapshot ID: `MCxkNDNmMmQ4OGNhNTYxYjIyNzRlZTFhMTgyOWVkZmE0MjMzMjg1MjU4`

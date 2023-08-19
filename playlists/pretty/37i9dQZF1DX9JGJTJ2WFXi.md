@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 
 > Tune in to the solfeggio frequency of the Root Chakra
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,362 likes - 84 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,474 likes - 84 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 | 83 | [Root Chakra \- Mother Earth](https://open.spotify.com/track/3ScW1TYIeg9IDKggN5QIvC) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Deap Sleap](https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr), [Chakra Sound Bath](https://open.spotify.com/artist/2tSAYkLY0MwMYcQ7uVG9jM) | [Root Chakra \(Muladhara\)](https://open.spotify.com/album/4PucAXpx1vg4CKzSgQLSWV) | 1:00 |
 | 84 | [396 Hz Dormant](https://open.spotify.com/track/2plZlVBY52NKgrgSBXxVMc) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:52 |
 
-Snapshot ID: `MCxhOTAyZTk5YmExZTRkZTczYzQ2YWE1Y2Y3MGI4YzE5NmYwYWI3NGJj`
+Snapshot ID: `MCxmY2Y5M2UzMDllYjUzOWFmNmNkMmY2Nzg2OWNhZWZlODhiNGM2YmE0`

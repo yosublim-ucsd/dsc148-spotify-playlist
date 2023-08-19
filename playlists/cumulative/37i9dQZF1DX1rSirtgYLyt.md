@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-127 songs - 9 hr 20 min
+128 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/1RlNXHNrVkFd0ExMdGRSRZ) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4927jpQNUFVlKNZt3Lzwpg) | 3:17 | 2022-10-14 | 2022-11-14 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:17 | 2022-07-08 |  |
 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 | 2022-06-24 |  |
+| [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 | 2023-08-18 |  |
 | [I'm a Woman](https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8) | [Louise Phelan](https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc), [Octavio Herrero](https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB) | [Azules](https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf) | 4:07 | 2023-01-06 |  |
 | [I've Got To Use My Imagination](https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [I've Got To Use My Imagination](https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe) | 5:05 | 2023-02-13 |  |
 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/2KIICpEd4rTapEYDzfECii) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/album/5Yh1kXHrJHNud6Vmp5HB9A) | 4:36 | 2023-02-09 |  |
@@ -102,7 +103,7 @@
 | [On The Road Again](https://open.spotify.com/track/6IWxHgVbdKyUMydhVGXRaT) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Best Of Canned Heat](https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi) | 3:26 | 2022-06-24 |  |
 | [Purple Rain](https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Move](https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq) | 4:18 | 2022-06-24 |  |
 | [Ramblin' On My Mind \- Mono](https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:06 | 2022-06-24 |  |
-| [Roadhouse Blues](https://open.spotify.com/track/4vfYiHDVNlMjFuc81pS6h1) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 6:19 | 2023-01-12 |  |
+| [Roadhouse Blues](https://open.spotify.com/track/4vfYiHDVNlMjFuc81pS6h1) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 6:19 | 2023-01-12 | 2023-08-19 |
 | [See See Baby](https://open.spotify.com/track/6eT9mU2QtYtHFNt2qTSQiL) | [Aynsley Dunbar Retaliation](https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX) | [Aynsley Dunbar Retaliation](https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB) | 2:20 | 2023-03-03 |  |
 | [She Loves You](https://open.spotify.com/track/4HnmJHeEWRhyVETGfBiGIX) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions](https://open.spotify.com/album/4TnvcqbCj5pncCpXtBnNgH) | 4:16 | 2023-01-12 |  |
 | [Smokestack Lightning](https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA) | 6:51 | 2023-01-12 |  |

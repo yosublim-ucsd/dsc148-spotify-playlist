@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 
 > La música de ayer, el party de hoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,481 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,663 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 | 99 | [Loquita](https://open.spotify.com/track/2xjcDF21U2ccgE2LEeiMbf) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:24 |
 | 100 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 |
 
-Snapshot ID: `MCw0MGQxYWM5OTFkM2M3ZThmN2RlYWUxZjJjNDU0Njc5MGQ2OWYyYWI2`
+Snapshot ID: `MCw4YTRjMTkyYzk2YjYyNmQyMDI1MzZmNzQ3ZTgyNmRiY2ZiYTUxMmY4`

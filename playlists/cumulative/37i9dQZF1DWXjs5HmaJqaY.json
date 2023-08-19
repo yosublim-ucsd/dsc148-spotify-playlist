@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "My Method",
+        "url": "https://open.spotify.com/album/2nkGcXqbOo0YQYzloSC4TZ"
+      },
+      "artists": [
+        {
+          "name": "Rico Puestel",
+          "url": "https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586669,
+      "name": "Dualist",
+      "url": "https://open.spotify.com/track/5fth5wifwmOsWuE0RnhJzz"
+    },
+    {
+      "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
       },
@@ -824,6 +842,28 @@
       "duration_ms": 194362,
       "name": "Fourofour (Edit)",
       "url": "https://open.spotify.com/track/5QoguAlrPT4C56mmPtguEd"
+    },
+    {
+      "album": {
+        "name": "Fragmentation",
+        "url": "https://open.spotify.com/album/4IKUy5n6ssqoOq22QoxMVD"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Sean & Dee",
+          "url": "https://open.spotify.com/artist/78WKCKbUm2pS06tTO9ybqz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Fragmentation",
+      "url": "https://open.spotify.com/track/4FZXJvvq9XZkWiN9DH5L6h"
     },
     {
       "album": {
@@ -1510,7 +1550,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 470400,
       "name": "Level One",
       "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
@@ -2010,7 +2050,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 485760,
       "name": "Parallax",
       "url": "https://open.spotify.com/track/5NR0Kyk5YRBPtaI33hivZx"
@@ -2416,7 +2456,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 255574,
       "name": "Sinner - Edit",
       "url": "https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M"
@@ -2924,6 +2964,28 @@
       "duration_ms": 268157,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2ayJnyzml6TAtXRBIYwG2B"
+    },
+    {
+      "album": {
+        "name": "Vienna (Edit)",
+        "url": "https://open.spotify.com/album/1BgyJPvK4xVLYfmIEoH6Ju"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Vienna - Edit",
+      "url": "https://open.spotify.com/track/3a9Db9EqzCZG7RiJlaeiX1"
     },
     {
       "album": {

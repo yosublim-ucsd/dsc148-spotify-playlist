@@ -4,7 +4,7 @@
 
 > Los sonidos más dulces del pop.
 
-142 songs - 8 hr 11 min
+143 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Estés Donde Estés](https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 4:01 | 2021-10-05 |  |
 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 | 2021-10-05 | 2023-04-15 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-03-10 | 2022-03-26 |
-| [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 | 2023-04-21 |  |
+| [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 | 2023-04-21 | 2023-08-19 |
 | [Hoy Ya Me Voy](https://open.spotify.com/track/58zE9NyMKGTpzV5J8WyXXe) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Cualquier Día](https://open.spotify.com/album/7ahLQUU2kphuNrpNuU5omA) | 3:55 | 2021-10-05 |  |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-04-14 |  |
 | [La Calle De Las Sirenas](https://open.spotify.com/track/4KwYQPF1MrpItRpb2H6mdT) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Más Completa Colección](https://open.spotify.com/album/6kLkzewL7iIg1qGAnTaJwx) | 3:51 | 2021-10-05 | 2022-07-29 |
@@ -108,6 +108,7 @@
 | [Nudito](https://open.spotify.com/track/26mcI5y0XSF4Svp4yKRZVs) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Nudito](https://open.spotify.com/album/5qpXtGHhTj6nL67kgiYSJ6) | 3:36 | 2022-03-10 | 2022-03-26 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2022-06-02 | 2022-09-10 |
 | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/track/0qP9Kt3gmpDFoDUzl3REGs) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/album/3niaXTwOttdlHmO3Oz0RbR) | 4:25 | 2021-10-05 | 2022-07-29 |
+| [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-18 |  |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-21 | 2023-05-05 |
 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 | 2021-10-05 |  |
 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 | 2022-06-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,203 likes - 40 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,446 likes - 40 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 39 | [Love Come Down](https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 6:04 |
 | 40 | [Fool's Paradise](https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os) | [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [Do Me Baby](https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg) | 5:00 |
 
-Snapshot ID: `MCwyODM5YTE0NWM2NGUyZmE4NGJhOTNkZDcyOWFiNzUzZjUzNWM0MjY2`
+Snapshot ID: `MCxmMmQ3MDZiZDdkZTAwM2ZkYjc3NmYyMzE3YmQzM2E2ZDNmNGFiNmEz`

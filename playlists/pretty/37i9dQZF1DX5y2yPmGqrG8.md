@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,313 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,468 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Rewind Life](https://open.spotify.com/track/6Uae44PxUOJn0PdxoECEKd) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 7:00 |
 | 50 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
 
-Snapshot ID: `MCxjZDA5NWVjZmQ0M2ExYmJmMzkwMWExMjNlMjliZDc0MmViOTdlZTg1`
+Snapshot ID: `MCwyZGU4NDcyZjg0MDQxMGQyMDJmNDUyM2IzYjcyMjk4NTRkZmNiNjNl`

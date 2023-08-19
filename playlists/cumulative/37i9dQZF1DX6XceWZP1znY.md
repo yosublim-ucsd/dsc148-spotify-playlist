@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-806 songs - 2 day 4 hr 55 min
+807 songs - 2 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-08-11 | 2023-07-03 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/4OJVRrXhEdvtUCL3jtpdla) | [Wxchi](https://open.spotify.com/artist/0QfAfi0YfXU5M6aWRAJcYy) | [HOLLOW HUNGER](https://open.spotify.com/album/0cCWAbgxj9xluHmdCx2lv7) | 3:43 | 2022-10-04 | 2022-10-08 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/34PQ0lHKVRvvj9YwtNbWEO) | [Xell04](https://open.spotify.com/artist/1gcE4nXdeOcXzHUTuSgocI) | [HOLLOW HUNGER](https://open.spotify.com/album/6feLTlCNn8HFTZ3LLjH6Pn) | 3:43 | 2023-07-07 |  |
-| [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-07 |  |
+| [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-07 | 2023-08-19 |
 | [HORIZON](https://open.spotify.com/track/0jNd21lxSmPCjSmtTyoNiG) | [TEAM SHACHI](https://open.spotify.com/artist/6PWtv6Ry0vlA2WkbFcQfro) | [HORIZON](https://open.spotify.com/album/27KWr8ETlrdCAR9doDdhSX) | 4:17 | 2022-06-07 | 2022-07-25 |
 | [Howling](https://open.spotify.com/track/2twCEq28Qw7FcsznfX4HNv) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/2XJrLMBNy1Ln56nHrW1Uic) | 4:09 | 2022-06-07 | 2022-07-29 |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-03-11 | 2023-05-09 |
@@ -333,6 +333,7 @@
 | [Rock The World](https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Rock The World](https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw) | 4:29 | 2022-06-07 | 2022-08-12 |
 | [salvation](https://open.spotify.com/track/2AbocYmJLREUEZlSBkbsAe) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation](https://open.spotify.com/album/5JOp4contbA28JuaELOKQW) | 3:24 | 2022-06-07 | 2022-07-18 |
 | [salvation \- Anime ver.](https://open.spotify.com/track/79AU26qJdGVLPK31RsWy31) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation \(Anime ver.\)](https://open.spotify.com/album/7Lva08Wtv6MVY3gv6lJCco) | 1:31 | 2022-06-07 | 2022-07-07 |
+| [Sarracenia \- Anime Size](https://open.spotify.com/track/5KtPFNqzEMHzFpqRF9EhmP) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Sarracenia \-Anime Size\-](https://open.spotify.com/album/3SZRbGsCc48IW8WKSDkqYM) | 1:28 | 2023-08-15 |  |
 | [Sayonara Namida](https://open.spotify.com/track/4KTv8cmtwYWvI7Umdpnna3) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [Sayonara Namida / Hoshi No Kakera](https://open.spotify.com/album/7aUnnzBbgs5dn3F2ulDqXg) | 4:03 | 2022-06-07 | 2022-07-20 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-06-07 | 2022-08-05 |
 | [See The Light](https://open.spotify.com/track/6lEmBW6LNglffHhnbkosMs) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Switch/PS4『ゆるキャン△ Have a nice day!』OP&ED](https://open.spotify.com/album/3eXDglDIgEA8D7Wxem6WW0) | 3:49 | 2022-06-07 | 2022-07-27 |

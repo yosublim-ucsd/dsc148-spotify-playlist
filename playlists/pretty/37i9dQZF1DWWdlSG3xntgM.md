@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,399 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,416 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Đường tình đôi ngả](https://open.spotify.com/track/2jCpS5IdAXdDnUeUfhXhOu) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Giao Linh \- Tuấn Vũ \- Đôi mắt người xưa](https://open.spotify.com/album/66OokQWhqEW3dQTZemuyqN) | 4:29 |
 | 50 | [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 |
 
-Snapshot ID: `MCxhNmVhOGJlOGI2NGY4YzUxODk4OTk5ODA0MmQ5MzJlYzEzYjQ4ODJi`
+Snapshot ID: `MCwxMmNjNDRlOGYzYzBlMmUyMzdiOWIzNzU5YzQ2Njc5YzMyMTdkNWYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Vitória Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,657 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,720 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 45 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
 | 46 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 |
 | 47 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 |
-| 48 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
-| 49 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
+| 48 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
+| 49 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 | 50 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
 | 51 | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/track/4eYfddvw1Xc1mGbrCLIzXB) | [Aproxime\-Se](https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT), [Luiz Lima Sobrinho](https://open.spotify.com/artist/2yHNIhCzAyRBh2XHOz7xW8) | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/album/3FcZsTAT49tBKp3T3um5W9) | 5:03 |
 | 52 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 59 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
 | 60 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 |
 
-Snapshot ID: `MCw5MmZhYzk5MTM4MWNhZWYxNzQ5MzI3OWYzYmEzYTZjMzU0ZmMxYjM3`
+Snapshot ID: `MCwwNTRhMTE5ZWU2ZGI4ODVlMDAyYzljNWIwZjNmOWQ3MGZlNDlhNzg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,426 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,635 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [A Time For Love](https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 5:01 |
 | 100 | [Stardust](https://open.spotify.com/track/6tMbxAYrQl0qaORbkNeoTp) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [Stardust](https://open.spotify.com/album/0mG4xDyB6SN5We5RCOVr6e) | 6:18 |
 
-Snapshot ID: `MCwxNzA3MjMwZmYwZTI2MGJhMzM3YzI4NWM5ZTJjMzA5ZmRkMTdiNjJj`
+Snapshot ID: `MCwzOTBlMmFjODk4OTU5MzAzNWRhNmQzMzYwMzY0OGRmM2I1MDc2ZjYw`

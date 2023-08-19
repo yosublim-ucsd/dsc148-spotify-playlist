@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,406 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,432 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 99 | [Like A Seraph](https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 2:54 |
 | 100 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 |
 
-Snapshot ID: `MCw3ODBjZGZjNjdjNThhZGVkMTVhZmIzNDlkNTliN2ZkZjAwYzVlOGEw`
+Snapshot ID: `MCw1MzEzYjMxMTVlNjE3YWRkZGU3OTEzOGJmODM4NDlkYTY0ODkzOWU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,607 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,765 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 40 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
 | 41 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 42 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
-| 43 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
-| 44 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 43 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 44 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
 | 45 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 |
 | 46 | [Ela Me Faz](https://open.spotify.com/track/2B5AbenHFTVtThonFDvg9x) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ainda Bem Que Eu Segui as Batidas do Meu Coração](https://open.spotify.com/album/2YWDBpZGMXcvkCu05Zb87z) | 2:59 |
 | 47 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Encaixa](https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encaixa](https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA) | 2:49 |
 | 60 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 |
 
-Snapshot ID: `MCxhMmU2MGQ0NTIzMjliN2VlMGM4ZjEwYWRjN2Q1NWY2ZTc2YmRhOWEy`
+Snapshot ID: `MCwxOGM1YWIxNjIxN2ZmOTQ3MGM1MTE2OWM4OTcxZjY0NTc5ZWUyMzAw`

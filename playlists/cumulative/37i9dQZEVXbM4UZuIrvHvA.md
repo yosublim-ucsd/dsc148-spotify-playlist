@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- UAE.
 
-1,074 songs - 2 day 13 hr 5 min
+1,075 songs - 2 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-25 | 2022-06-27 |
 | [Castles Crumbling \(feat\. Hayley Williams\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:06 | 2023-07-08 | 2023-07-11 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-04 | 2023-05-04 |
+| [Chaleya \(From "Jawan"\)](https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Chaleya \(From "Jawan"\)](https://open.spotify.com/album/7zAITOBN6eG4UBm4IapAik) | 3:20 | 2023-08-18 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-20 |
 | [Change My Clothes](https://open.spotify.com/track/4mnjwMLCk3JZkhkok3u5g1) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Change My Clothes](https://open.spotify.com/album/2Y5WftWX9ZA7a01NYaBX4L) | 3:06 | 2021-08-22 | 2021-08-23 |
 | [Chemical](https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection](https://open.spotify.com/album/1DsM0AOBGPPIDp0gWN8Zb4) | 3:04 | 2023-04-22 | 2023-04-30 |
@@ -442,7 +443,7 @@
 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-05-29 | 2023-03-22 |
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB) | 4:38 | 2021-12-26 | 2022-12-28 |
 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 | 2022-04-30 | 2022-05-02 |
-| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-31 |  |
+| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-31 | 2023-08-19 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-31 | 2023-02-05 |
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 | 2022-04-30 | 2022-05-04 |
 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 | 2022-07-30 | 2022-08-02 |

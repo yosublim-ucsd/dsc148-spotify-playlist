@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > entao qr dizer que vc veio aqui descobrir o q os jovens escutam??? boa viagem
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,248 likes - 72 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,470 likes - 72 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 5 | [Fode Bem](https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:16 |
 | 6 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
 | 7 | [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 |
-| 8 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
+| 8 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 9 | [Ai Que Delicia o Verão](https://open.spotify.com/track/0clo2HfL2gpiEpiE5mA3q5) | [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG) | [Ai Que Delicia o Verão](https://open.spotify.com/album/3deh2ncfGFYC8CKzpbQFCd) | 1:55 |
 | 10 | [Halls na Língua](https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Halls na Língua](https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09) | 3:12 |
 | 11 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 71 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 72 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCwxNmM4ZTRiNjEyZmY3MjA4YjhkYWIxMDdmMjhkNjZkZjBlMWZkYzU4`
+Snapshot ID: `MCwyN2M0ODMyZjU0OGY4YmNkYWQyNjhiZjhkYjYwNDI4NTJjNzRjNTQy`

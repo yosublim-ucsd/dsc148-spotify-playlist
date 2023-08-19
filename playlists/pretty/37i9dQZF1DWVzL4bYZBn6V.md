@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,429 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,466 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Change](https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph) | [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Change](https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69) | 2:56 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MCw5NzlmYTNhOGE3NjhkMmNjYmM1ZjA4ZjljNTNkNWIwMzNiNzUzY2Y0`
+Snapshot ID: `MCxhZmFlN2NkNzA4MDBiZjlhZDdlMzczYzQ2MzUzYWY2ZDQ4ZWE1ZTBh`

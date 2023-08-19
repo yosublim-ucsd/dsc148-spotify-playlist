@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,060 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,276 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
 | 100 | [April In Paris](https://open.spotify.com/track/5Va2ImszhfJhRUgayR7ZaP) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 6:36 |
 
-Snapshot ID: `MCwzM2JlYzAwMTZmY2FhMjM3YTNkZmVlYTM4NTZjYmZiMjdhMjY4OTVi`
+Snapshot ID: `MCw0ZDg5YWZjNGE2ZmUxY2NkOWJkYmUyNmFhNWVkNDZkMTI1NDc2NTA5`

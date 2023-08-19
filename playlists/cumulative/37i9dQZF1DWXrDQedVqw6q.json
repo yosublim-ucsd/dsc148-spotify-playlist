@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Paragliders",
+        "url": "https://open.spotify.com/album/0QzF3Mk7KFvlDnhHqBrr99"
+      },
+      "artists": [
+        {
+          "name": "Ookean",
+          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Paragliders",
+      "url": "https://open.spotify.com/track/2aZASr8jOyTi0GBHBzPnlc"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu"
       },

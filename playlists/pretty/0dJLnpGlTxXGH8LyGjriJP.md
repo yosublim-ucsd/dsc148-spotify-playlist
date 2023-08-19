@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 642 songs - 1 day 8 hr 13 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 648 songs - 1 day 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -650,5 +650,11 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 640 | [Gang Gang](https://open.spotify.com/track/036UfY22ma3Qs80k5gafkd) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:50 |
 | 641 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
 | 642 | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T) | 2:23 |
+| 643 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
+| 644 | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/track/4Qgp17EOq2ikCRbcSlPSzH) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/album/4HbxqN1PhH6Sc5XjPGN2Xp) | 3:22 |
+| 645 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 |
+| 646 | [Hard To Choose One](https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:13 |
+| 647 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
+| 648 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 |
 
-Snapshot ID: `ODAzLGMxMDk3NTUzYTRjZWQ0Zjk5MDkxMTBhMjFiNGExMjBhZjc3ZTkyNDQ=`
+Snapshot ID: `ODA5LDczMmIwNjVmN2ZlN2U3ZGI4YmExNDk0ZTIwMjI4ZWIwM2FlZmY1OGM=`

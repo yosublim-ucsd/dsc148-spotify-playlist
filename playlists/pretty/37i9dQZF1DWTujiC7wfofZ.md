@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,038 likes - 250 songs - 15 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,116 likes - 250 songs - 15 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/track/4jFLw7QqWlv3lZr980HyYW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [how will i rest in peace if i'm buried by a highway?//](https://open.spotify.com/album/5sb0O03rnoBqD1iDPOSkkf) | 3:38 |
 | 250 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
 
-Snapshot ID: `MCxmNWNjODZlNzdlNTFiNTUxM2E5ZjdhM2FiZGY2ZWIxNWY4NmQ0ZjE1`
+Snapshot ID: `MCw4ZmFlY2EzZTZkZDdjMDBmZTMyZjBhNTU3YWViYjUwM2UyYmZiOGY5`

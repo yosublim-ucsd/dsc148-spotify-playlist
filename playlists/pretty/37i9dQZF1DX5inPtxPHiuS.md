@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,544 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,560 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 32 | [Todo Va a Arder](https://open.spotify.com/track/1sJSicDEBfPEo4nAW60WxJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B \(Deluxe Edition\)](https://open.spotify.com/album/5bRJW0QvMRMdNNEh5tSwnx) | 3:21 |
 | 33 | [Perdedor](https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl) | [Consulado Popular](https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR) | [Perdedor](https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB) | 3:11 |
 | 34 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 |
-| 35 | [Emociones](https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 3:47 |
-| 36 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
+| 35 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
+| 36 | [Emociones](https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 3:47 |
 | 37 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
 | 38 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 |
 | 39 | [Delirio](https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s), [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Pipe Bravo](https://open.spotify.com/artist/1jQdrJgtbeqURoJDNUtQaq) | [Delirio](https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Sangre de Prófugo](https://open.spotify.com/track/7qSncGfwAdAyTQBVYZeFGS) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/61o65DJK9QHOg8LWIJ279k) | 3:31 |
 | 60 | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic) | 3:00 |
 
-Snapshot ID: `MCxlNWQ3ZmU1NWRjNTFmOWE2ZjJjMTJiYmEwODE5ZTQ5N2YyNDdkOWFj`
+Snapshot ID: `MCw3Y2E1ZDE5NzIxYjg2N2U3NDMxMTcxNTc0OTIyYjFhMTA0NjM4Y2E2`

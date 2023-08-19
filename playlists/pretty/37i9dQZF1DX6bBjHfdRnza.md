@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,918 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,006 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Subzero](https://open.spotify.com/track/6sJpI63m2ZJvJzfPH1DB3o) | [Rob Robinson](https://open.spotify.com/artist/2wjvBhM9hWFMT4BpKsB98u) | [Subzero](https://open.spotify.com/album/55C5LPOAwNqnDhNaV1hx8o) | 4:42 |
 | 100 | [Canto](https://open.spotify.com/track/3y4hdcjqmX46V5bA29wsgx) | [Sahar](https://open.spotify.com/artist/3b7TXhgeS7YpSumMEwbFJO) | [Canto](https://open.spotify.com/album/0ouYduP6xhLiKclNqmQknn) | 6:23 |
 
-Snapshot ID: `MCwyMDgwNjMzOGYwZTIwOTQ2MmI5ZDY2OWRhY2UyZDFjYTU1MzJkNDA3`
+Snapshot ID: `MCw5NjkwNWEwYmY1ZDMwYWMyYTkzMDYwMmM5ODA3ZTAyNWYzM2Y5NjFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=jDi4XWhlQaaX7vBCLqxkag">Beatenberg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,618 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,619 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 52 | [ALL MINE](https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [ALL MINE](https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN) | 2:47 |
 | 53 | [Numb and Fronting](https://open.spotify.com/track/6jJPzgxa5nMQm0yxp1kjvC) | [The Dirty Skirts](https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP) | [Radiant Clouds](https://open.spotify.com/album/4Z1kvbrm2vp9Z5ZOyt1mde) | 3:57 |
 
-Snapshot ID: `MCw0NGZjN2RhYzAxZjJlNjdlYjY1ZTE3Y2EzYjYzZGE4ZjRkMzI4OTIy`
+Snapshot ID: `MCxhMGRjMGJiZDdkNGEwNjNhMjE3ZTI3ODkxNTkzMzY2NDk3MGRlMzhh`

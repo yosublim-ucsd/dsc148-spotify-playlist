@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,380 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,515 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Rooftop](https://open.spotify.com/track/4H9BRNgZ8Zt4O12FGwdnoV) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 3:19 |
 | 50 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 |
 
-Snapshot ID: `MCwyYjdlZTlmNTFhNjVjMGQ5NDg1YmM1NDgwNDA0Yjg2NDgxMDJmZDA4`
+Snapshot ID: `MCxkYWIxNTRkNDBhNTY5ZDNiN2U2Y2IxZWJjNWVjMjhhOWYwYmEwZWEy`

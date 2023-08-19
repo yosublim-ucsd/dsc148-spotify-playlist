@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,831 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,842 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 3 | [Factory](https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Factory](https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u) | 3:20 |
 | 4 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
 | 5 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 |
-| 6 | [Changing Lanes](https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE) | 2:58 |
+| 6 | [Changing Lanes](https://open.spotify.com/track/2Llgpo9AXTBNNHfGwfJzVN) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/5jhFRab152NcnXSPab5GNO) | 2:58 |
 | 7 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 |
 | 8 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 |
 | 9 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [By My Side](https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [By My Side](https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT) | 2:53 |
 | 50 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 |
 
-Snapshot ID: `MCw3NzNiZWIwM2U2ZmFmMDQwMmNjNDAyZmUwYTQ0M2VmYjY1YjNhNDdl`
+Snapshot ID: `MCxhYTIzYzMzNThmMzVmYWQ1ZTBmMWNjNGJkYjJhMjVlN2QzM2Q0MWJk`

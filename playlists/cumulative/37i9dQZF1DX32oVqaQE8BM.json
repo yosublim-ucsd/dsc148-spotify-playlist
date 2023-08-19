@@ -3343,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "glowing",
+        "url": "https://open.spotify.com/album/4J7Djn5UsvN10BKhq8B3Lj"
+      },
+      "artists": [
+        {
+          "name": "Cafe Burrito",
+          "url": "https://open.spotify.com/artist/1njjr5nwqbiRtFnoKPylMR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "glowing",
+      "url": "https://open.spotify.com/track/1PoSImv99rLDkBwRDfmahe"
+    },
+    {
+      "album": {
         "name": "go back to sleep",
         "url": "https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e"
       },
@@ -4176,6 +4194,24 @@
       "duration_ms": 127235,
       "name": "Joseph's Well",
       "url": "https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU"
+    },
+    {
+      "album": {
+        "name": "just enough",
+        "url": "https://open.spotify.com/album/16SYGSeNyaCehEY0XMD1yV"
+      },
+      "artists": [
+        {
+          "name": "Cat Dreams",
+          "url": "https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "just enough",
+      "url": "https://open.spotify.com/track/5YOcHkjpveyOIleHYg4fDL"
     },
     {
       "album": {

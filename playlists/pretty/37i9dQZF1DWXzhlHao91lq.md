@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,780 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,816 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [Think Before I Talk](https://open.spotify.com/track/0W23tLZdwTqLwcmZ3eUhLp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful \(Complete\)](https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW) | 3:04 |
 | 75 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 |
 
-Snapshot ID: `MCw1ZmE4M2E3MTgzYzExMGUwZmEzZDQ4NTE4NGQ3ZmM3MzdmOGIzN2M2`
+Snapshot ID: `MCwxM2QyMGNkZmRkMDZkOWRkNDc1YmNjNmE3NWE4YTk4ZDNiNTViMWNk`

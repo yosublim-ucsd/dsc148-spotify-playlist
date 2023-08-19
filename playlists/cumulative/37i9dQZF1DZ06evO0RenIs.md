@@ -4,7 +4,7 @@
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 29 min
+60 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Lost and Found](https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 2:56 | 2023-03-19 |  |
 | [Love for Granted](https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:24 | 2023-03-19 |  |
 | [Love Like a Sunset, Pt\. 2](https://open.spotify.com/track/373z7Xe1jiRIuUxolaH10q) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 1:56 | 2023-03-28 |  |
+| [My Elixir](https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:32 | 2023-08-18 |  |
 | [North](https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 5:01 | 2023-03-19 |  |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-08-14 |  |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-23 | 2023-08-15 |
@@ -58,7 +59,8 @@
 | [The Only One](https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:29 | 2023-03-21 |  |
 | [Ti Amo](https://open.spotify.com/track/5yE87rHl2tLsQqPM2igT4S) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 3:25 | 2023-08-02 |  |
 | [Ti Amo](https://open.spotify.com/track/62V5xyu3AMDqaQu7Ck46Fm) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 3:25 | 2023-03-19 | 2023-08-03 |
-| [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 4:06 | 2023-03-19 |  |
+| [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 4:06 | 2023-03-19 | 2023-08-19 |
+| [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2023-08-18 |  |
 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 | 2023-03-19 |  |
 | [Trying To Be Cool](https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:48 | 2023-03-19 |  |
 | [Tuttifrutti](https://open.spotify.com/track/0R98IdPkYNH36q3DhAO3NB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 3:52 | 2023-03-19 | 2023-07-31 |

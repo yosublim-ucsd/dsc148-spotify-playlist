@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 ### [Bloghouse](https://open.spotify.com/playlist/37i9dQZF1DWSyOfQ9LA1uF)
 
-> Bedroom bootlegs and electroclash gems\. Cover: Chromeo
+> Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,692 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,732 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
-| 2 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 |
+| 2 | [Electric Feel \- Justice Remix](https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Electric Feel \(Justice Remix\)](https://open.spotify.com/album/6wqufLWm8D5CUPB9A11opq) | 5:27 |
 | 3 | [Night by Night](https://open.spotify.com/track/5bgYTzUDzerRFN7fp86MkQ) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 3:45 |
 | 4 | [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 |
 | 5 | [Standing in the Way of Control \- Soulwax Nite Version](https://open.spotify.com/track/7rES7qCxzFEDUV2L5eejTD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 6:55 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 26 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 |
 | 27 | [Intro \- Remastered 2023](https://open.spotify.com/track/7b4fQNd34RVNFKKziQz6mS) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [The Upper Cuts \(2023 Edition\)](https://open.spotify.com/album/0TeXdrfFO67UgPpj1mMUAM) | 4:53 |
 | 28 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
-| 29 | [Electric Feel \- Justice Remix](https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Electric Feel \(Justice Remix\)](https://open.spotify.com/album/6wqufLWm8D5CUPB9A11opq) | 5:27 |
+| 29 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 |
 | 30 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/5jaVyz2GDdesyu01cBbOSc) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Analog Worms Attack](https://open.spotify.com/album/7kAKGbrd7MHykmOzRlNPee) | 5:16 |
 | 31 | [Je veux te voir](https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Pop Up](https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy) | 4:21 |
 | 32 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 75 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
 
-Snapshot ID: `MCw2ZTkzZmU3YTMwZDA4Mzg0NGY1NjJlY2NkYTg4ZDJhOWVhMzA5YTI1`
+Snapshot ID: `MCwzOWJjMjQ1NzExZmQzNWIyNDRlMDU4ZjZmZmI3OWY1OTllZDFjMTYw`

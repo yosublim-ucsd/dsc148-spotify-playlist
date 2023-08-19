@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,702 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,946 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Amarte y Perderte](https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL) | 3:28 |
 | 100 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 |
 
-Snapshot ID: `MCxiMGZhZTFhODVkNDI2NzRlMDBhODJkOThhMDE3Y2JmY2QxM2ZhYzdj`
+Snapshot ID: `MCw5ZGYzNzY0ODE4MTdhYzdjOTFlNDNmOTczNTNmYzQ0NTNhNDMzYWZh`

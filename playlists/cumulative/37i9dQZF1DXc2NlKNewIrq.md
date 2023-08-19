@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-93 songs - 9 hr 6 min
+94 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Quiet Friend](https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 13:23 | 2021-12-23 |  |
 | [Rainbow](https://open.spotify.com/track/1Zq0i87sMcftjWMtHwdsnu) | [Software](https://open.spotify.com/artist/0mwCI9ZfHyOj3ENpFd6AEn) | [Beam\-Scape](https://open.spotify.com/album/5ihit1R8vwsMxe0mt5eMMD) | 9:42 | 2021-12-23 |  |
 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 | 2021-12-23 |  |
+| [Reflection Pool](https://open.spotify.com/track/0RXfXladwrzQREUe16UEfN) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [All The Mirrors In The House \[Home Recordings 1979 \- 1986 Volume 1\]](https://open.spotify.com/album/4Hmh05NV8ktJs70FVcBmQi) | 4:01 | 2023-08-18 |  |
 | [Samadhi](https://open.spotify.com/track/1acrrqhpEgq1xeCn2QBOcC) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 9:42 | 2022-12-30 |  |
 | [Samadhi](https://open.spotify.com/track/6fmNbaYWyLvI6rA3wy9NAw) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 9:42 | 2021-12-23 | 2023-04-30 |
 | [Sant Ji](https://open.spotify.com/track/4k1L2mAXz46zQt3alXJdSu) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Skies Above Skies](https://open.spotify.com/album/0mOvzxPIp6XULoaq2Kq3h9) | 5:09 | 2021-12-23 |  |

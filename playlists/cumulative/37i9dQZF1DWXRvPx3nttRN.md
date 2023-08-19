@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-389 songs - 21 hr 56 min
+391 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 | 2021-03-12 |  |
 | [Don't Stop Believing](https://open.spotify.com/track/2cPPd2bGMjuxUcYPA2Y7fh) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Don't Stop Believing](https://open.spotify.com/album/7lioeM9YLlGipkbkfFxS3R) | 4:11 | 2021-03-12 |  |
 | [Don't You Worry Child \- Acoustic Version](https://open.spotify.com/track/4BpndTKEqpLgntffipC53q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 4:17 | 2021-03-12 |  |
+| [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 | 2023-08-18 |  |
 | [Dreamers Of The Shore](https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5) | [Volcan Peaks](https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Dreamers of The Shore](https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV) | 2:51 | 2021-03-12 |  |
 | [Drive By](https://open.spotify.com/track/34exKoBMqyNx8gz9WB4qRk) | [Jake Coco](https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 1](https://open.spotify.com/album/7vcGprB2VE7n73NwLHy2Cm) | 3:20 | 2022-04-22 |  |
 | [Drive By](https://open.spotify.com/track/6o0I7TYJd9NbY82zzL3sQa) | [Jake Coco](https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 1](https://open.spotify.com/album/0uTnwnQvcps1T2kIcmMJyN) | 3:20 | 2021-03-12 | 2022-10-15 |
@@ -112,6 +113,7 @@
 | [God Is A Dancer \- Acoustic](https://open.spotify.com/track/54QGwH4tnU09JjrQXJhHPO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [God Is A Dancer \(Acoustic\)](https://open.spotify.com/album/73ij4SArK1BxoVW6RMTNAT) | 2:53 | 2021-03-12 |  |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2021-03-12 |  |
 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 | 2021-03-12 |  |
+| [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-08-18 |  |
 | [H.O.L.Y\. \- Acoustic](https://open.spotify.com/track/3wH9KuHeuYHNRF2Yt6z0cc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Acoustic Sessions](https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX) | 3:13 | 2021-03-12 |  |
 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/0uHu5YqMcuILdSqBz8MaKo) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4) | 3:05 | 2022-04-22 |  |
 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/1VH022oAHuKvKWcXCrQgH7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Chill Out Sunday Beer Garden](https://open.spotify.com/album/7oXEaoiMPxx72LEbWyKHX0) | 3:05 | 2022-04-22 | 2022-11-13 |

@@ -1,33 +1,13 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Rylo Rodriguez",
-  "num_followers": 2017370,
+  "num_followers": 2017634,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjcyMGM4MTg2MDhiMWM5MTdiNDM2YTVlNmQ4MWE2OTYzMTM3YjA2",
+  "snapshot_id": "MCxiYWY3YjYyMzczMmYzMDAyNWU1YjQ4MzNiZjUwZWM2NDU4ZjEzNDIy",
   "tracks": [
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Thang For You (feat. No Cap)",
-        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 259545,
-      "name": "Thang For You (feat. No Cap)",
-      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
-    },
     {
       "added_at": "2023-07-28 04:26:54",
       "album": {
@@ -53,24 +33,44 @@
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "A Love Letter To You 5",
-        "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 168880,
-      "name": "Closed Doors (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13"
+      "duration_ms": 144344,
+      "name": "Stressed (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Thang For You (feat. No Cap)",
+        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 259545,
+      "name": "Thang For You (feat. No Cap)",
+      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -91,6 +91,38 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 181429,
+      "name": "Equal Dirt",
+      "url": "https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -124,106 +156,6 @@
           "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 144344,
-      "name": "Stressed (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "WHITE CROCS (with Ryan Trey)",
-      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "SUPPOSED TO BE LOVED",
-        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 206972,
-      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Been One",
-        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 181429,
-      "name": "Equal Dirt",
-      "url": "https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
@@ -233,52 +165,20 @@
       "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
     },
     {
-      "added_at": "2023-06-02 17:07:50",
+      "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Fell In Love",
-        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 121283,
-      "name": "Fell In Love",
-      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
+      "duration_ms": 65142,
+      "name": "U & I - Unplugged",
+      "url": "https://open.spotify.com/track/0mGFn11FzuIiMJbdqOEaKW"
     },
     {
       "added_at": "2023-06-02 17:07:50",
@@ -323,6 +223,46 @@
       "duration_ms": 235711,
       "name": "HO4ME",
       "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 121283,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -393,6 +333,34 @@
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
+      "added_at": "2023-06-02 17:07:50",
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
+    },
+    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Fallback Queen (feat. Vory)",
@@ -431,22 +399,6 @@
       "duration_ms": 167977,
       "name": "Forever (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 172892,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -523,6 +475,26 @@
       "duration_ms": 160013,
       "name": "4 Me (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "A Love Letter To You 5",
+        "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 168880,
+      "name": "Closed Doors (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -635,6 +607,34 @@
       "duration_ms": 141714,
       "name": "Saturday (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/5uQybrSaOXUjaBZCI89KQE"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "SUPPOSED TO BE LOVED",
+        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 206972,
+      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
     },
     {
       "added_at": "2023-05-05 04:01:00",

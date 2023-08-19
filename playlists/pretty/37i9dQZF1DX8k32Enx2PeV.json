@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 7058,
+  "num_followers": 7071,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTk4NGMwMjdiOWYzYzY1ZGZhYmU1YjE2NWU0N2Y2OGJkMzgyNjJh",
+  "snapshot_id": "MCw5MDZiNGY5YTJkMGQ3ZTg5NmU0MmY5MjA3NWM0NGI0ZGNiNGQ1ZTkw",
   "tracks": [
     {
       "added_at": "2023-08-10 19:16:14",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
         "name": "Est\u00e1s Escuchando (with El David Aguilar)",
         "url": "https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK"
       },
@@ -691,22 +675,18 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -723,6 +703,26 @@
       "duration_ms": 298520,
       "name": "Esto Es Real (8100mg)",
       "url": "https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2023-08-10 19:16:14",

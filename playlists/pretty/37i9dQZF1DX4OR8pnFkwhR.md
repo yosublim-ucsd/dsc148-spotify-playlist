@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,141 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,144 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 |
-| 2 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 |
+| 2 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
 | 3 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y) | 3:18 |
 | 4 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
 | 5 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [爛漫サマー](https://open.spotify.com/track/5YNjEDVaYH6RTwD3LsuZ8v) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [爛漫サマー](https://open.spotify.com/album/4kIoWPlTbkRwgFyoIBvOSk) | 3:32 |
 | 70 | [無計画化計画](https://open.spotify.com/track/7I7tM4CnJNguu8Mfc6w0Ba) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [無計画化計画](https://open.spotify.com/album/1Jq7KVysKOthuUPYQVbDs6) | 4:08 |
 
-Snapshot ID: `MCwxNDE0YTQwNjRkMmU5ZmFlMGRiZGU4NzYzOWJiZjY4ZmJhYjM5ZGRh`
+Snapshot ID: `MCxiMWM5NDk1MWQxNDVkOGRjMDJjMmMxNTMyOTBiYTBkYmIzYWQ3MjI5`

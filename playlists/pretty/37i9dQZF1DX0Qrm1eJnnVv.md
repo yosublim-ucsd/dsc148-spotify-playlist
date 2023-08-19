@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,980 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,983 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 49 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 | 50 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 
-Snapshot ID: `MCw5YzFmYjU3NDAzZDQzZWQ5NWVlM2M4MzI5ODVhZWMxMTZiZjc0NWJl`
+Snapshot ID: `MCw2MWI1MWNhNTVkNTkwOTc0NWYwYmI3ZDA0NWZmMjhkZTQ2MTIyNmFi`

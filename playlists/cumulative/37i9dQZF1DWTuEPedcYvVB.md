@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-54 songs - 3 hr 7 min
+55 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 | 2022-04-14 |  |
 | [Como Yo Lo Hago](https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Como Yo Lo Hago](https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ) | 3:41 | 2022-04-14 |  |
 | [Cutie](https://open.spotify.com/track/4Q3VXVOcaXGvwskgMn5lgF) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [Deniro5ive](https://open.spotify.com/artist/1nrh1AkIoCrDIWVfseRKvB) | [Cutie](https://open.spotify.com/album/2jrNcy6OYRSLsvZdPYxWVf) | 2:52 | 2022-04-14 |  |
+| [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-18 |  |
 | [Deli](https://open.spotify.com/track/5m9UZneA4qdEQWrzsyGcf4) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 3:37 | 2022-04-14 |  |
 | [Dice it](https://open.spotify.com/track/4eXz2UBxtdkcR8rXo3NyGp) | [Lzino](https://open.spotify.com/artist/2CAEUNH0Pp2Qv01LsjkMiK) | [Dice it](https://open.spotify.com/album/7vMjUj6WJD1xpiqhkAtWwP) | 3:20 | 2022-04-14 |  |
 | [Electric](https://open.spotify.com/track/1g3GvbzoNjOqKNK9Z7srQ5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb) | [Electric](https://open.spotify.com/album/4mi5IauJU5FowQivOCg4un) | 3:07 | 2022-04-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw?si=PO2Z\_KZ6Rny84J54tvSmlA"> عبد الباسط حمودة و <a href="https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=LROac5XuRleQt23P0C\_VKg"> عمر كمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,540 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,650 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [دوكه](https://open.spotify.com/track/3O01ChQwIuqwZSHSv1aFWQ) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Houda Bodok](https://open.spotify.com/artist/1siovIHkUbtQoPKWw9uWSd) | [دوكه](https://open.spotify.com/album/4l8WltW1mSqTOmby0ASWwx) | 2:27 |
 | 50 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 |
 
-Snapshot ID: `MCw4Y2ZiYzJlNDk5YzNlYzgzMWVhMzgzZDRlNzA3ZTQ2ZmE1NzYyYjE5`
+Snapshot ID: `MCwxOWMzODM0ZThhNjBkYjU1NjMwOWIxOGU1NmUyZmEyMDc0NjAwOWU3`

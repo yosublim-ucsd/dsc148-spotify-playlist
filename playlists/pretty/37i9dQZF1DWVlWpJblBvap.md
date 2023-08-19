@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,330 likes - 80 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,620 likes - 80 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
 | 80 | [Your Glory / Nothing But The Blood \- Live](https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Live](https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG) | 8:57 |
 
-Snapshot ID: `MCxiMDJlZGE3MmMxYWE4NmU5YzVjMzgyMzI1M2QwMjlhNGY0NDI1ZjM4`
+Snapshot ID: `MCw2YzQ1NGFjMzMwYzRlMTU1MmFjNjQ5MmFjOGJiZWI0NDkxN2ZlNmE0`

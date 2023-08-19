@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,884 likes - 150 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,964 likes - 150 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S) | 3:16 |
 | 150 | [more for me](https://open.spotify.com/track/4i8ghYO260Cqm6ghW0ZIOG) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more for me](https://open.spotify.com/album/6Dp0u2pPXAuIeD7QTmXkqH) | 2:54 |
 
-Snapshot ID: `MCxkMzc0ZjkwNDJmNTUyYmEzYmQ4YmFhM2JlNzIyNjdjNDM1Yjg5NWEz`
+Snapshot ID: `MCw5YmJmN2E1MzJmMDNjZmJjYWI1MmQ3ZDE5MDVmMDBiMTMzNDgwNmMy`

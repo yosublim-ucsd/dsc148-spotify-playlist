@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,273 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,340 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Fuerte](https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6) | [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Mortal](https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX) | 5:05 |
 | 100 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 
-Snapshot ID: `MCwxMzVhOTU2YzRmMzcwMjhjMDg2Y2ZkODc5Nzk5NmRmYjE4OTFmYmFi`
+Snapshot ID: `MCw0MmJkZTJlOGRhZjcwM2ZkNDZkYTNiNDFjMDY2YjJhOTE3M2U4Mzcw`

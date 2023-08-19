@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Los \u00c1ngeles Azules y Maria Becerra est\u00e1n en el Top \ud83d\udd25",
+  "description": "Los \u00c1ngeles Azules y Maria Becerra est\u00e1n en el Top \ud83d\udd25\n",
   "name": "El Top 2023",
   "tracks": [
     {
@@ -216,6 +216,28 @@
       "duration_ms": 148321,
       "name": "AL BORDE",
       "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
+    },
+    {
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141556,
+      "name": "ALGUIEN M\u00c1S (With Yami Safdie)",
+      "url": "https://open.spotify.com/track/0YeGf9akfyIq3FyKL1rkPl"
     },
     {
       "album": {
@@ -2130,7 +2152,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 201915,
       "name": "MERCHO REMIX",
       "url": "https://open.spotify.com/track/1vRkS74lAQEucagUBmUryC"
@@ -3421,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188126,
+      "name": "Regresa",
+      "url": "https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW"
+    },
+    {
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/6VMu4SHIfGS4OPHruUvvKw"
       },
@@ -4085,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Un Cigarro",
+        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Un Cigarro",
+      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
+    },
+    {
+      "album": {
         "name": "Un Finde | CROSSOVER #2",
         "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
       },
@@ -4224,7 +4286,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"

@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy"
+      },
+      "artists": [
+        {
+          "name": "O.N.E The Duo",
+          "url": "https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203341,
+      "name": "HoeDown",
+      "url": "https://open.spotify.com/track/09H4hLDWVdcQN4HB2h5pZj"
+    },
+    {
+      "album": {
         "name": "Too Much Of A Good Thing",
         "url": "https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll"
       },
@@ -3476,6 +3494,24 @@
       "duration_ms": 211285,
       "name": "Horseshoes and Hand Grenades",
       "url": "https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
     },
     {
       "album": {
@@ -4826,7 +4862,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 145499,
       "name": "No Bad Days (featuring Jimmie Allen)",
       "url": "https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,740 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,856 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 83 | [Holy](https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Holy](https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP) | 2:29 |
 | 84 | [Pull Up](https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Sunday In Lagos](https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc) | 2:33 |
 | 85 | [Hold Me Back](https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Hold Me Back](https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E) | 3:07 |
-| 86 | [Clean](https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3) | 2:48 |
-| 87 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 |
+| 86 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 |
+| 87 | [Clean](https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3) | 2:48 |
 | 88 | [Don’t Forget Who You Are](https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 2:53 |
 | 89 | [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 |
 | 90 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Be Gone \(feat\. Mike Teezy\)](https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5) | 2:56 |
 | 100 | [Ascend](https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [KDNS](https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0) | [Ascend](https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN) | 3:18 |
 
-Snapshot ID: `MCxiMjM3MWE4MDdiZjBhYjRmMzgwMmFlOTc4MjA2YzMwZWVmZDVhNDg3`
+Snapshot ID: `MCxmZjQ1NjlhYzRjYTM3YTBmNzI1M2U3M2FiZTFlZGM3ZTJkNWEwYzA5`

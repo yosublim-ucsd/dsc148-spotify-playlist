@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,492 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,728 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 143 | [Going Out of My Head \- Remastered](https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:05 |
 | 144 | [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 |
 | 145 | [The Entertainer](https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [The Vibes](https://open.spotify.com/artist/21SkzTtJjXO1tnoRPziAzv) | [The Entertainer](https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0) | 2:40 |
-| 146 | [Reaper of Love](https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc) | 3:31 |
-| 147 | [I Really Love You](https://open.spotify.com/track/1wwjrU9JBVzbSvcHlyntxt) | [Deztini Farinas](https://open.spotify.com/artist/1hnF4gDndtUcKpcLhz8hWy) | [I Really Love You](https://open.spotify.com/album/0egWJ6uyEXJecs0TiP9vc7) | 3:06 |
-| 148 | [Boy With the Angel Eyes](https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY) | [Vicky Tafoya and the Big Beat](https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v) | [Never Let Go, Vol\. 1](https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU) | 4:04 |
-| 149 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 |
+| 146 | [I Really Love You](https://open.spotify.com/track/1wwjrU9JBVzbSvcHlyntxt) | [Deztini Farinas](https://open.spotify.com/artist/1hnF4gDndtUcKpcLhz8hWy) | [I Really Love You](https://open.spotify.com/album/0egWJ6uyEXJecs0TiP9vc7) | 3:06 |
+| 147 | [Boy With the Angel Eyes](https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY) | [Vicky Tafoya and the Big Beat](https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v) | [Never Let Go, Vol\. 1](https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU) | 4:04 |
+| 148 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 |
+| 149 | [Reaper of Love](https://open.spotify.com/track/7MhanQlUmy0p1vvn4JCEQX) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/6cYE3duwuvONqnxnKply8o) | 3:31 |
 | 150 | [I Want You, I Need You, I Love You](https://open.spotify.com/track/5rsL7vz0rU31i1Ugd5lyQY) | [Hector Rivera](https://open.spotify.com/artist/5QBCiKjgFTznZwKUiiDTXA) | [The Sweeter Side Of Latin Soul](https://open.spotify.com/album/3K4UkNHO8AGTI1mVSbMr0w) | 4:15 |
 
-Snapshot ID: `MCwxNTgyMWFiYTg1ZjExODE0NjIyZWE4ZDgwZWExNGUwYTVmNTVkZjdk`
+Snapshot ID: `MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj`

@@ -4,7 +4,7 @@
 
 > Fino y elegante, como el nuevo disco de LA BICHOTA 🧜🏼‍♀️ 🔥 🇨🇴
 
-186 songs - 9 hr 50 min
+187 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,13 +127,14 @@
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-09-06 | 2022-10-14 |
 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 | 2022-09-06 |  |
 | [Ojitos Rojos \- Remix](https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojitos Rojos \(Remix\)](https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv) | 3:23 | 2023-06-23 |  |
-| [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 | 2023-08-11 |  |
+| [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 | 2023-08-11 | 2023-08-19 |
 | [Pa Que Me Cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa Que Me Cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 | 2023-04-28 | 2023-07-14 |
 | [PA QUÉ PUuu](https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [PA QUÉ PUuu](https://open.spotify.com/album/2io6YasDpSkIaF2TLDuAYO) | 1:59 | 2022-10-28 | 2022-11-14 |
 | [Pa' Terapia](https://open.spotify.com/track/06NiUeFCTNIZDlg2daoF8M) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pa' Terapia](https://open.spotify.com/album/0Xv4XKcJ18nioqXnNA0sbd) | 2:36 | 2023-07-28 |  |
 | [Pal Monte](https://open.spotify.com/track/1nuI0PdK2J6oPVcQm1M7NC) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [Pal Monte](https://open.spotify.com/album/5zDoIaj8Rhu9qvqjanAA0g) | 2:28 | 2022-11-11 | 2022-12-10 |
 | [Palabras Sobran](https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Palabras Sobran](https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs) | 3:36 | 2023-05-19 |  |
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-10-13 | 2022-11-04 |
+| [Perfección](https://open.spotify.com/track/6keww58gv3WCCGFHVVTgZb) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Perfección](https://open.spotify.com/album/6TAshkaMGXhmB7mdJfEwqd) | 2:30 | 2023-08-18 |  |
 | [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 | 2022-09-06 | 2022-09-10 |
 | [Perro Fiel](https://open.spotify.com/track/2tdJo0Lczl7DEMOn92GgPD) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Perro Fiel](https://open.spotify.com/album/6AtNlU3RyKlmuInvZhfoD7) | 3:00 | 2022-09-06 | 2022-10-01 |
 | [Pico y Chao](https://open.spotify.com/track/4ewERE63WSM9k3k3lJqxov) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 2:21 | 2022-10-13 | 2022-11-04 |

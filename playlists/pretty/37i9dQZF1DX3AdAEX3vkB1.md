@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,802 likes - 149 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,032 likes - 149 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 148 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
 | 149 | [Do You Love Me \- Mono Single](https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Do You Love Me \(Now That I Can Dance\)](https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89) | 2:52 |
 
-Snapshot ID: `MCwzNWU3NWU2ODdjYzBhZThhZDA5NTkyN2JlMjBjM2MxMTYwYTUwMDhj`
+Snapshot ID: `MCwzMjViMjM2NzE3N2FkMzg4OTQ4M2EwOGQ5NjU0NDAwNjkwMDhhZWRh`

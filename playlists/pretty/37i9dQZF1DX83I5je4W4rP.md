@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,135 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,275 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Lockdown \(feat\. Matisyahu\)](https://open.spotify.com/track/1g8KwMEiDTnOUBSvNPIM3W) | [Cydeways](https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Lockdown \(feat\. Matisyahu\)](https://open.spotify.com/album/2NwQSN5aI6HKFcJqnHP68u) | 3:36 |
 | 125 | [Drunk Texter \(with HIRIE\)](https://open.spotify.com/track/1ERbq9x1ozTWRIxWqnesaB) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Drunk Texter \(with HIRIE\)](https://open.spotify.com/album/45zHAO1NXFOL5TT0OnlRYq) | 3:37 |
 
-Snapshot ID: `MCwzOTFlYjYzOGMxMTdkMDYyZTg2Y2JlY2MwZTE1OTM5MGZhODlkNDI1`
+Snapshot ID: `MCwzYmVlMmM1YTQ5MWQyNGM3N2IyZDUxNjc4MGRlODY1MTg3NGZlNjg4`

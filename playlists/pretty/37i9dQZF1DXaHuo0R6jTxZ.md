@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,875 likes - 40 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,941 likes - 40 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 29 | [Ahl El Malama](https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Roh Alby](https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9) | 4:37 |
 | 30 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
 | 31 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |
-| 32 | [Nour El Chams](https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Nour El Chams](https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf) | 4:33 |
-| 33 | [Nassam Alayna El Hawa](https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 4:03 |
+| 32 | [Nassam Alayna El Hawa](https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 4:03 |
+| 33 | [Nour El Chams](https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Nour El Chams](https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf) | 4:33 |
 | 34 | [Ah Bahibbak](https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Rouhi](https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr) | 4:13 |
 | 35 | [Layali El Shouq](https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:51 |
 | 36 | [Keda Keda Ya Terella](https://open.spotify.com/track/3wlbAd9KLt8UcaZk0Vq5XB) | [Vicka](https://open.spotify.com/artist/1DvYjKqpI2Y3xP0hsqt29n) | [Nubian Legends](https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf) | 4:42 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 |
 | 40 | [Lola El Saher](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
 
-Snapshot ID: `MCxkNzNmMzE1NjFiNTY0NDEzMzBmNjI3MjIyNmQyMTA3NzE3ZjRjMDY4`
+Snapshot ID: `MCw3YjJhMGQ1MTQ4NjUyYjgzNWU0MzRjMDJkNDgzZjUyMWM2YmM2ZmI1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Cody Johnson",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Charlie Worsham",
   "name": "New Boots",
   "tracks": [
     {
@@ -3897,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Cab In A Solo",
+        "url": "https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Cab In A Solo",
+      "url": "https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb"
+    },
+    {
+      "album": {
         "name": "Cabin In The Woods",
         "url": "https://open.spotify.com/album/3gE4wznokc0MJW36nfeBfB"
       },
@@ -4002,6 +4020,28 @@
       "duration_ms": 188636,
       "name": "Can Down",
       "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
+    },
+    {
+      "album": {
+        "name": "Can't Break Up Now",
+        "url": "https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        },
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Can't Break Up Now",
+      "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
     },
     {
       "album": {
@@ -8012,6 +8052,24 @@
       "duration_ms": 162885,
       "name": "Fill Them Boots",
       "url": "https://open.spotify.com/track/4RBcYEl3yD9gYQE94LxFmE"
+    },
+    {
+      "album": {
+        "name": "Find Another Bar",
+        "url": "https://open.spotify.com/album/4en5g5FBBXUbCKofgzYgUZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182365,
+      "name": "Find Another Bar",
+      "url": "https://open.spotify.com/track/5gq0IiJ86S2QpD3V4H9KhH"
     },
     {
       "album": {
@@ -12811,6 +12869,28 @@
     },
     {
       "album": {
+        "name": "How I Learned To Pray (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D"
+      },
+      "artists": [
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270933,
+      "name": "How I Learned To Pray (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI"
+    },
+    {
+      "album": {
         "name": "Maury County Line",
         "url": "https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy"
       },
@@ -13894,7 +13974,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 163533,
       "name": "I Should Have Married You",
       "url": "https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR"
@@ -14826,7 +14906,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
@@ -18142,7 +18222,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 137850,
       "name": "Miss That Girl",
       "url": "https://open.spotify.com/track/2l2Izjvt7Vj4Q9823SZ6XE"
@@ -20368,7 +20448,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 184346,
       "name": "Once",
       "url": "https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG"
@@ -21080,7 +21160,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 178774,
       "name": "Outta Yours",
       "url": "https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU"
@@ -24778,6 +24858,24 @@
       "duration_ms": 171626,
       "name": "Some Things Never Change (feat. HARDY)",
       "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183040,
+      "name": "Some Whiskey",
+      "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
     },
     {
       "album": {

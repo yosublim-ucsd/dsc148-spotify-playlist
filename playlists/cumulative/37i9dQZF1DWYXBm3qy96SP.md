@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Blur \(ブラー\)
 
-522 songs - 1 day 6 hr 2 min
+523 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Crybaby \(with phem\)](https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Crybaby \(with phem\)](https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ) | 2:17 | 2023-06-22 | 2023-06-30 |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-16 | 2023-03-25 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
-| [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 |  |
+| [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 | 2023-08-19 |
+| [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-17 |  |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-06 | 2023-04-14 |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/3XhPF8KnqNLkSPbNbBqMw6) | 3:47 | 2023-07-20 | 2023-07-22 |
 | [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 |  |

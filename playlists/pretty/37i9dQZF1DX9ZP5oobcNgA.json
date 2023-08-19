@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 113134,
+  "num_followers": 113166,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWEzYTBmMTM0YzYyYTNjM2RmOWQ5YTQzMDc4NWQ3MjEwNzljMDI2",
+  "snapshot_id": "MCxiYTE2MmJjYmEyZTZlOTYxMWE5ZWM2ZjM0MzdkZjc5YmUxNjA4Yzlm",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -603,34 +603,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Royal Fireworks",
-        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alison Balsom",
-          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
-        },
-        {
-          "name": "Balsom Ensemble",
-          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
-        },
-        {
-          "name": "Simon Wright",
-          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
-        }
-      ],
-      "duration_ms": 133106,
-      "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
-      "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Baroque Duet",
         "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
@@ -659,6 +631,34 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Royal Fireworks",
+        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alison Balsom",
+          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
+        },
+        {
+          "name": "Balsom Ensemble",
+          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
+        },
+        {
+          "name": "Simon Wright",
+          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
+      "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -987,6 +987,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Baroque Masterpieces",
+        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
+      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Rinaldo",
         "url": "https://open.spotify.com/album/5Jd7LRZm76VWAiPnaa42XF"
       },
@@ -1059,8 +1083,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Baroque Masterpieces",
-        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
+        "name": "Handel: Concerti Grossi, Op. 6 Nos. 1-12",
+        "url": "https://open.spotify.com/album/5JJJExciT83RSox2KrwQKg"
       },
       "artists": [
         {
@@ -1068,17 +1092,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
         },
         {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+          "name": "Andrew Manze",
+          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
         }
       ],
-      "duration_ms": 174320,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
-      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
+      "duration_ms": 280266,
+      "name": "Concerti grossi, Op. 6, Concerto Grosso No. 3 in E Minor, HWV 321: IV. Polonaise",
+      "url": "https://open.spotify.com/track/7cp6Eo0en3PyejoEQv1bg2"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1123,30 +1147,6 @@
       "duration_ms": 205360,
       "name": "Deborah, HWV 51: Part I: Chorus - Let thy deeds be glorious",
       "url": "https://open.spotify.com/track/2vjvCb7bgJH5ix8bfwp8MR"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Concerti Grossi, Op. 6 Nos. 1-12",
-        "url": "https://open.spotify.com/album/5JJJExciT83RSox2KrwQKg"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        },
-        {
-          "name": "Andrew Manze",
-          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Concerti grossi, Op. 6, Concerto Grosso No. 3 in E Minor, HWV 321: IV. Polonaise",
-      "url": "https://open.spotify.com/track/7cp6Eo0en3PyejoEQv1bg2"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music; Music For The Royal Fireworks",
-        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Concertgebouw Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
-        },
-        {
-          "name": "Simon Preston",
-          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
-      "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Esther (1718 version)",
         "url": "https://open.spotify.com/album/4kZlY4e1NQHLSvYHsxUuZM"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 408213,
       "name": "Esther, HWV 50a: O Jordan, Jordan, Sacred Tide (Aria - Priest of the Israelites)",
       "url": "https://open.spotify.com/track/6l3ZXdjOoZVabNvUJW1353"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Music For The Royal Fireworks",
+        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Concertgebouw Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
+      "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
     },
     {
       "added_at": "2022-06-28 08:56:25",

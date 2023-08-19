@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp5sAHdz27Y.md) - [plain]
 
 > Con música el ejercico cuesta un poco menos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,093 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,644 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp5sAHdz27Y.md) - [plain]
 | 149 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:35 |
 | 150 | [El Incomprendido](https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [El Incomprendido](https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8) | 4:27 |
 
-Snapshot ID: `MCwyZTM5ODMyNGI4NzAxNGI3NDUxMzFlZjYxOGE4OGQ4YjJiYTA0NDlj`
+Snapshot ID: `MCxlOGNkNzU4ODcxZTE3NzkzMjMxOGYzZmQ2NmZiYWQxODRjMjM4ZjY2`

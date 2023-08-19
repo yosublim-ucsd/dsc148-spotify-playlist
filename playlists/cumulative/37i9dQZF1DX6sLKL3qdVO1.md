@@ -2,9 +2,9 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Shawty lo que necesitas es darle flow\. Bad Gyal, Young Miko y Tokischa en Portada.
+> Shawty lo que necesitas es darle flow\. Feid portada.
 
-453 songs - 1 day 0 hr 55 min
+455 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DIABLOJOXX](https://open.spotify.com/track/3QAgwAXSkMtI7LCoQRePdQ) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [DIABLOJOXX](https://open.spotify.com/album/5WuyTrjbodUDaZ3XoNw6wo) | 2:41 | 2023-03-03 | 2023-06-17 |
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-12-17 | 2022-05-14 |
 | [Dile \(Homenaje\)](https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:48 | 2021-12-17 | 2022-04-16 |
+| [Diviértete](https://open.spotify.com/track/3jcLh0Si6MU4yOQ7kk7AAy) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Diviértete](https://open.spotify.com/album/39z6PNTj66HNLXdJyN0Iwf) | 3:31 | 2023-08-18 |  |
 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-07 | 2023-06-17 |
 | [Donde Quieres](https://open.spotify.com/track/49N4OgSGA5DnjfT0HZl06c) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Donde Quieres](https://open.spotify.com/album/05by0gAUjosa1Hr1TRZUfp) | 3:17 | 2022-12-29 | 2023-03-04 |
 | [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 | 2021-12-17 | 2022-07-02 |
@@ -220,6 +221,7 @@
 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 | 2021-12-17 | 2022-04-16 |
 | [Ley de Atracción](https://open.spotify.com/track/1ftOFW7Nl8nV73hv6RmwLm) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:37 | 2023-04-14 | 2023-06-17 |
 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 | 2021-12-17 | 2022-03-12 |
+| [LLAME PA' VERTE \(feat\. Wisin\)](https://open.spotify.com/track/1RjifKIUX8faZv9nxR0t5f) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [LLAME PA' VERTE \(feat\. Wisin\)](https://open.spotify.com/album/1sRGzLtFGN7Z3Opujc9NdV) | 3:27 | 2023-08-18 |  |
 | [Llori Pari](https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Llori Pari](https://open.spotify.com/album/4jG7eBaWlLUjRRS1ajTCJ3) | 3:35 | 2021-12-17 | 2022-03-05 |
 | [Llueve](https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Llueve](https://open.spotify.com/album/3z4zsIdBVA0vJh8Udz4TJD) | 4:09 | 2022-05-27 | 2023-04-01 |
 | [LO SIENTO](https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [LO SIENTO](https://open.spotify.com/album/7J8LeqFNvs7DthngS8x7Qj) | 2:33 | 2022-12-07 | 2023-03-04 |

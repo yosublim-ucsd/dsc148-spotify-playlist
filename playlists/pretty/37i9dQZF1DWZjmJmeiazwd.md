@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,510 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,683 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 99 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
 | 100 | [One Hell of a Team \(Inspired by "Hazbin Hotel"\)](https://open.spotify.com/track/0cRGA4WwyzoOdnOcui7d1e) | [AmaLee](https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO), [Divide Music](https://open.spotify.com/artist/50iN4QFD9Z9S1KAzDLvAju) | [One Hell of a Team \(Inspired by "Hazbin Hotel"\)](https://open.spotify.com/album/4CFzl6z4I2HfIH1gPow3bw) | 3:50 |
 
-Snapshot ID: `MCxkZDJiYmE4NjM0MGNkZTFjZTE5Y2U5NTM3MDZkZWM1YjdkZTMxZDVj`
+Snapshot ID: `MCxiYzNiMWI5YmNmNTE2MzU5MGJkZGEyNTIyZTJhMTA3MjM5NzZlOTMz`

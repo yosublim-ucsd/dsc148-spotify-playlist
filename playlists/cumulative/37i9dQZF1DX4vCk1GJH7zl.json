@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 199401,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268653,
+      "name": "Damage Gets Done (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
+    },
+    {
+      "album": {
         "name": "young forever",
         "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
       },
@@ -450,7 +472,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 208385,
       "name": "Desculpa te Ligar - Vers\u00e3o Estendida, Ao Vivo",
       "url": "https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK"
@@ -1106,6 +1128,24 @@
       "duration_ms": 179438,
       "name": "Quero Te Levar",
       "url": "https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166148,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
     },
     {
       "album": {

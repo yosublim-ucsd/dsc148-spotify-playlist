@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,440 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,491 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 |
-| 2 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
-| 3 | [Beggin'](https://open.spotify.com/track/3ujKLPUPwRUtRXDoWCSDI4) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:03 |
-| 4 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
-| 5 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 |
-| 6 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 7 | [Best of Me](https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Best of Me](https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n) | 4:22 |
-| 8 | [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 |
-| 9 | [Mystery](https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 2:21 |
-| 10 | [Scapa Flow](https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Scapa Flow](https://open.spotify.com/album/4aFQWkk0HOEz3zjxzj207N) | 3:59 |
-| 11 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
-| 12 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
+| 1 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
+| 2 | [Thoughtless Feeling](https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk) | [Bloomhaus](https://open.spotify.com/artist/0YlHl0Fe4sUrNKM5U1pTKb) | [Thoughtless Feeling](https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z) | 4:04 |
+| 3 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 |
+| 4 | [Beggin'](https://open.spotify.com/track/3ujKLPUPwRUtRXDoWCSDI4) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:03 |
+| 5 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
+| 6 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 |
+| 7 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
+| 8 | [Best of Me](https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Best of Me](https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n) | 4:22 |
+| 9 | [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 |
+| 10 | [Mystery](https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 2:21 |
+| 11 | [Scapa Flow](https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Scapa Flow](https://open.spotify.com/album/4aFQWkk0HOEz3zjxzj207N) | 3:59 |
+| 12 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
 | 13 | [Buen Fantasma](https://open.spotify.com/track/7dnVu3VTbBp37jsoQ1WbxE) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Buen Fantasma](https://open.spotify.com/album/2jlATWZpSabSiPbgKsl3Ps) | 3:49 |
 | 14 | [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 |
 | 15 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Barley](https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 3:29 |
 | 50 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
 
-Snapshot ID: `MCw2NGU1YTBkNDA2YWY2ODIzNzJmNWZlNDZhY2RlNGZlMGZjOGQwNWYw`
+Snapshot ID: `MCw4ZTgxOWVlM2M5ODJlNDY0YWI0YTk0MjM4NjY3Njc3Nzk2NTg0MjRm`

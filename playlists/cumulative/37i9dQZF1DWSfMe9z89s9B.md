@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Lou Val
+> Leaders of the new school...Alternative R&B\. Cover: Jordan Ward
 
-919 songs - 2 day 1 hr 34 min
+921 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Bloodline](https://open.spotify.com/track/6E2xSghivZVmTTy3m0NNHS) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/0sw9A3w2cRMHywBMmMUD3h) | 3:49 | 2022-04-01 | 2022-04-16 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2022-04-01 | 2022-04-11 |
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2021-03-19 | 2022-06-12 |
+| [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 | 2023-08-18 |  |
 | [BLUFF](https://open.spotify.com/track/5SYBSJ4iUdXVvtfindDscN) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [BLUFF](https://open.spotify.com/album/1rAeBE0z81SIMPdUJMTMwP) | 3:36 | 2023-05-26 |  |
 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 | 2022-05-20 | 2022-07-16 |
 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2022-04-01 | 2022-04-14 |
@@ -405,7 +406,7 @@
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-15 |
 | [IDFK](https://open.spotify.com/track/0RGOkqLOtfL21gkYUaO9WT) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [3rr0r](https://open.spotify.com/album/1cem9I2x2idLH5n3Vz4CNx) | 3:04 | 2022-07-15 | 2022-07-26 |
 | [IF HE RULES THE WORLD](https://open.spotify.com/track/4W7bZVTlkupyRLq1XnQCXs) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:19 | 2022-04-01 | 2022-06-17 |
-| [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 | 2022-09-02 |  |
+| [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 | 2022-09-02 | 2023-08-19 |
 | [If You Let Me](https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc) | 2:15 | 2021-10-08 | 2022-01-29 |
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-01-27 |
 | [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 | 2022-09-09 | 2023-03-04 |
@@ -459,7 +460,7 @@
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-06-03 |
 | [LET'S GET MARRIED](https://open.spotify.com/track/0XkQ23l4GT8sFHgeNRGAO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/2Uyia7M6Hv8XmhMSEbpfgm) | 3:44 | 2022-04-01 | 2022-04-13 |
 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 | 2022-04-01 | 2022-04-16 |
-| [Like A Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like A Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 | 2023-08-11 |  |
+| [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 | 2023-08-11 |  |
 | [Like That](https://open.spotify.com/track/5zDo9mZyUdCZ1tVj515SZS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Like That](https://open.spotify.com/album/5ZL7YD2z03z5DGj1Z132ua) | 2:46 | 2022-04-01 | 2022-04-11 |
 | [Like Water](https://open.spotify.com/track/4WXjY5WXtsrC9okLc7dLGl) | [Garçons](https://open.spotify.com/artist/0HAiMAa8lwFrKnEq55SLWe) | [Like Water](https://open.spotify.com/album/3nuKDj3p6LkwHosNTKr1e9) | 2:55 | 2021-11-05 | 2022-01-19 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-09-10 | 2022-07-10 |
@@ -539,6 +540,7 @@
 | [MUTUAL \- ACOUSTIC LIVE](https://open.spotify.com/track/3QGR0FMd9LbJCf3asv8gto) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [MUTUAL \(ACOUSTIC LIVE\)](https://open.spotify.com/album/52tFpluUsHYKmWxWknfuCO) | 2:10 | 2022-09-23 | 2022-10-01 |
 | [my slime](https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [my slime](https://open.spotify.com/album/3BCatx6OCDnnYXqUETlAhu) | 3:08 | 2021-06-04 | 2022-04-25 |
 | [My Way](https://open.spotify.com/track/4kjXiuYOP2P0m33rSrjD4R) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [My Way](https://open.spotify.com/album/0Hg5Wp9QbVWkI9TEptnRjY) | 3:09 | 2022-04-01 | 2022-04-15 |
+| [My Will](https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:53 | 2023-08-18 |  |
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2022-04-01 | 2022-04-13 |
 | [Mystery Lady](https://open.spotify.com/track/0Ifg6sEGK8dH0XDD4pzKTl) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Studying Abroad: Extended Stay](https://open.spotify.com/album/3y16fOtHHYMkU706RAua8m) | 3:48 | 2021-06-04 | 2022-07-23 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2021-03-19 | 2022-07-15 |
@@ -578,7 +580,7 @@
 | [On A Wave](https://open.spotify.com/track/4MDXu1BLDQ1ohHSCkl1AeE) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [On A Wave](https://open.spotify.com/album/5eAUBYI8HfXSV0WQCMD4Vz) | 2:46 | 2021-03-19 | 2022-01-19 |
 | [On God](https://open.spotify.com/track/6kW8TpvXiTp3Hwlx1JEpct) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Before I Speak](https://open.spotify.com/album/3ugySzNaCgNHNsxJXcqBa5) | 2:32 | 2021-03-19 | 2022-01-15 |
 | [On My Way](https://open.spotify.com/track/3RhEOUwqyGU0nKZ0AYgWSe) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [On My Way](https://open.spotify.com/album/1t75KQZ01Bh6YrmBuqrLQs) | 2:43 | 2022-07-15 | 2022-08-20 |
-| [On My Way](https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [On My Way](https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT) | 3:00 | 2023-03-10 |  |
+| [On My Way](https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [On My Way](https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT) | 3:00 | 2023-03-10 | 2023-08-19 |
 | [On the Run](https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0) | 4:52 | 2022-11-18 | 2023-02-02 |
 | [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 | 2022-11-18 | 2023-02-13 |
 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 | 2022-11-18 |  |

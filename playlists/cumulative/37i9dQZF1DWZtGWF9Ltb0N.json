@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/1TJDbwekfQcLUM8TmPKPCM"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/2tb1wD0ePjDJBQNUla0foR"
+    },
+    {
+      "album": {
         "name": "Blackout Dub",
         "url": "https://open.spotify.com/album/2e72FBZtPErdwNv24rchB0"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 289666,
       "name": "Bubble Beat",
       "url": "https://open.spotify.com/track/102ViySrgFSDuaFcNKU3EF"
@@ -1714,6 +1732,28 @@
       "duration_ms": 192080,
       "name": "Darkness Interim",
       "url": "https://open.spotify.com/track/0yFjx1pX9fDhREx0NZjoyL"
+    },
+    {
+      "album": {
+        "name": "Dead Meat",
+        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
+      },
+      "artists": [
+        {
+          "name": "Esseks",
+          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
+        },
+        {
+          "name": "tiedye ky",
+          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165339,
+      "name": "Dead Meat",
+      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
     },
     {
       "album": {
@@ -8228,7 +8268,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 246853,
       "name": "Tech Foul - Peekaboo Remix",
       "url": "https://open.spotify.com/track/01tb1I347g12xuR8FbJtOd"

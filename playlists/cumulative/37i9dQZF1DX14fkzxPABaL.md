@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Rusherking
+> La música que te acompaña en el amor\. Foto: Ha\*Ash & Reik
 
-187 songs - 10 hr 17 min
+189 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [DOBLE VIDA](https://open.spotify.com/track/0Dhks7VwA1F7baYPVEeo4S) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 3:01 | 2022-12-09 |  |
 | [Dolce](https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Ley De Gravedad](https://open.spotify.com/album/21wimzvehpbiBmJS0upDr6) | 2:53 | 2022-03-11 | 2022-12-10 |
 | [Dos Extraños](https://open.spotify.com/track/0W8RPldmytO1ETl5OnuJjw) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Dos Extraños](https://open.spotify.com/album/1R7O40i07tOHZMcQ2hF3Fk) | 2:47 | 2022-01-14 |  |
-| [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 | 2022-07-22 |  |
+| [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 | 2022-07-22 | 2023-08-19 |
 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 | 2022-01-14 |  |
 | [El día menos pensado](https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [El día menos pensado](https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu) | 3:44 | 2022-01-14 |  |
 | [El Día Que Me Quieras](https://open.spotify.com/track/2tYXqOwmOs1Lx6lUQaM2Mc) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [El Día Que Me Quieras](https://open.spotify.com/album/1QycfiMI1YAEorcLQImADn) | 4:11 | 2022-04-01 | 2022-10-29 |
@@ -71,6 +71,7 @@
 | [Entiéndelo](https://open.spotify.com/track/69QB9IQdyxt48WwcomJAmZ) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Entiéndelo](https://open.spotify.com/album/6SZQatuIqnVNMGojwai7ls) | 2:37 | 2022-07-22 |  |
 | [Entre las Nubes](https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Entre las Nubes](https://open.spotify.com/album/4SlVC4vaeqOwso6amw6a8S) | 3:17 | 2022-01-14 | 2022-11-29 |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/4lYGDM2P0P6NosnaoFiPqB) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/2NdVSWwmCmdCamPxCSt1er) | 3:54 | 2022-05-06 |  |
+| [Entrégate](https://open.spotify.com/track/2C29ujYjA5xyCbSS5oYbF3) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Entrégate](https://open.spotify.com/album/5VUoRAtJqrRpXO2L9Uvh6I) | 2:52 | 2023-08-18 |  |
 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2022-04-01 |  |
 | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc) | 2:04 | 2022-10-28 | 2023-02-14 |
 | [Estabas Ahí](https://open.spotify.com/track/5IwOgqXn6mE1XTIOwnB6Zz) | [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Estabas Ahí](https://open.spotify.com/album/7JWGVjzXvuslaS4bxfuHBi) | 3:27 | 2022-01-21 |  |
@@ -78,7 +79,7 @@
 | [Este Corazón](https://open.spotify.com/track/01Er69gC98QtvINyqv3az9) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Este Corazón](https://open.spotify.com/album/5ztxAkYymgzvG9C6ri4SYL) | 3:20 | 2022-01-14 |  |
 | [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-03-17 | 2023-05-13 |
 | [Expectativas](https://open.spotify.com/track/52VSw6NJEKV9IOzi1oSiEp) | [Elisa](https://open.spotify.com/artist/0gnQN7JojqeQnPJllZWNoX) | [Expectativas](https://open.spotify.com/album/73keiP9w81BxkKXTcME3E1) | 4:01 | 2022-07-15 | 2023-07-24 |
-| [Expectativas](https://open.spotify.com/track/6Uda7OXP87LTXj6slEiPRv) | [Elisa](https://open.spotify.com/artist/0gnQN7JojqeQnPJllZWNoX) | [Expectativas](https://open.spotify.com/album/28fdrhpIWCcRPqfa42EZJv) | 4:04 | 2023-07-14 |  |
+| [Expectativas](https://open.spotify.com/track/6Uda7OXP87LTXj6slEiPRv) | [Elisa](https://open.spotify.com/artist/0gnQN7JojqeQnPJllZWNoX) | [Expectativas](https://open.spotify.com/album/28fdrhpIWCcRPqfa42EZJv) | 4:04 | 2023-07-14 | 2023-08-19 |
 | [Fantasias \- Unplugged](https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias \(Unplugged\)](https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G) | 3:20 | 2022-01-14 |  |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-04-05 | 2023-04-15 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-11 | 2023-02-18 |
@@ -167,6 +168,7 @@
 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:59 | 2022-01-14 |  |
 | [Tanto Tiempo](https://open.spotify.com/track/4yf4uC5sUEDd5wmTmQ5TNl) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Tanto Tiempo](https://open.spotify.com/album/0NNubU1dSIvFt4xrm8qxCI) | 2:37 | 2022-01-14 | 2022-07-16 |
 | [Tarde](https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi) | 3:06 | 2022-01-14 | 2022-04-06 |
+| [Te Acuerdas](https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Te Acuerdas](https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1) | 3:25 | 2023-08-18 |  |
 | [Te Echo de Menos](https://open.spotify.com/track/5e8muKs11JnVqyEBMsLYFg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Te Echo de Menos](https://open.spotify.com/album/0HVcUL17jKyY4F8PqiUF8T) | 3:25 | 2022-11-11 | 2023-06-17 |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-07-14 |  |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2022-01-14 | 2023-07-22 |

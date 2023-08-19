@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 
 > Canciones tropicales que te transportan a Caleta y Caletilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,073 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,119 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 99 | [La Guera Gringa](https://open.spotify.com/track/6lLekYXNTMHtuu9HQBf9DA) | [Renacimiento 74](https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU) | [20 Exitos Historia Musical](https://open.spotify.com/album/0DylSKswghS7tyMd8ES5SB) | 2:55 |
 | 100 | [Quiero Amanecer](https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 1:38 |
 
-Snapshot ID: `MCw5ZmY2MWU3ZWM0YzJhZWUyZWRlYjY2NDc0ZGFhOTBjMDkxNDIxYjlj`
+Snapshot ID: `MCxhMWZlNWQzNWQ4MjU0OWE2Y2Y0ZDY0YTczMzAxYTY3YjhiMjY0NjE1`

@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel.
 
-166 songs - 9 hr 49 min
+167 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,12 +91,13 @@
 | [Let Me Get Over Her](https://open.spotify.com/track/2YAEntcShBOrHi2wSKTOZA) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:02 | 2022-06-04 | 2022-07-26 |
 | [Let's Fall To Pieces Together](https://open.spotify.com/track/0Sr1buYAIXIHaYGIGKmfoN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Right Or Wrong](https://open.spotify.com/album/4tNMkO2t6XfbA9BC8ZcgT2) | 2:55 | 2022-04-01 | 2022-04-20 |
 | [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 | 2023-01-31 |  |
-| [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2021-12-03 |  |
+| [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2021-12-03 | 2023-08-19 |
 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 | 2021-12-03 |  |
 | [Marry Me](https://open.spotify.com/track/2mNunIwTYWrNEYgWYrj97p) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6nBXl4WJtnGtcA1QUAC2lM) | 3:26 | 2021-12-03 | 2022-07-29 |
 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2022-08-12 |  |
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2021-12-03 |  |
 | [Mercy](https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 | 2021-12-03 |  |
+| [Miss That Girl](https://open.spotify.com/track/2l2Izjvt7Vj4Q9823SZ6XE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/50uRwBAbSJNhpdgpFf9NQr) | 2:17 | 2023-08-18 |  |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-12-03 |  |
 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 | 2022-04-01 | 2022-04-20 |
 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 | 2022-07-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,460 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,479 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 |
 | 100 | [VAQUERITA](https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [VAQUERITA](https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q) | 2:32 |
 
-Snapshot ID: `MCw1ZmExY2Y2MzRlMzg2NGI0NWY0NDhiMDEzMGJkZDJhNDNiYTEyYzBh`
+Snapshot ID: `MCw2NTRkNTc3YTcwMDlhNzE3ZWNhMWVjNzdmNTk4NTZlYjEwYzRkZDg0`

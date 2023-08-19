@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,850 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,864 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [天气预报](https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA) | 2:51 |
 | 75 | [心跳的证明](https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [心跳的证明](https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o) | 3:48 |
 
-Snapshot ID: `MCxhOThiMTViYmZjYmViYTNmZjQwMDFmZmRiMjNiODQzNmNkNzc5YTdm`
+Snapshot ID: `MCwwZTE4ZTg5MmY3NjI2N2RkNjdjYzFlMmNmNzc5M2YyOTk0YTEzMDBi`

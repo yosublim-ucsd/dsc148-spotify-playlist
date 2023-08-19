@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,516 likes - 350 songs - 1 day 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,583 likes - 350 songs - 1 day 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 349 | [Body Yako](https://open.spotify.com/track/5TM74yw7ukVkZTlPEKdJvE) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Kongo Elektro](https://open.spotify.com/artist/1Ja1nsBM1xawlIJoBgU52K), [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 4:14 |
 | 350 | [Mario Miguel](https://open.spotify.com/track/0fkjBZ4EO2OSsWUufd2chx) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Mario Miguel](https://open.spotify.com/album/15xLvUZmh6Lz6WvHh3h3PK) | 3:36 |
 
-Snapshot ID: `MCw1YzU5ZDU1ZDAwYTk1MzViODk0MWE1ZTkzZTFjM2I2ZWEyMGIxYmFi`
+Snapshot ID: `MCw5YTA3ZjBkOTNlY2Q1NDEwZjY4YjhjNjMyYjA3ODRiNjExYWQ4NGZl`

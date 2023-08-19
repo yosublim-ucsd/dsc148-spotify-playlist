@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,084 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,129 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Duele De A Madre](https://open.spotify.com/track/0TkQ3zCOFNJCmB8dYj2i47) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Duele De A Madre](https://open.spotify.com/album/0drIr1wTxVUeQmpu6pYHdv) | 2:55 |
 | 100 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
 
-Snapshot ID: `MCw3OWZlNDEwNDFhNmNjNTQ3ZGZmMTkwNjAxYmJhNjJlOGFmOTYwMDZm`
+Snapshot ID: `MCxmY2E5MTRjMmI3MGMzMjE4NTExYTY3NWQxMGFhNGQ0NTA2ODk1OTE3`

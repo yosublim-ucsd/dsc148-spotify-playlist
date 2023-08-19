@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,006 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,139 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 |
 | 100 | [Ventilation オフィス](https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk) | [Incorporeal Visions Deluxe](https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e) | [Network Entities](https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd) | 1:18 |
 
-Snapshot ID: `MCxlNTNhMDc3ZTBhMzQ3ODQ0MDE4MWQ0N2IyMzQ3ZjM4MTU3MjUzMjVh`
+Snapshot ID: `MCwwMDZhYmI2N2UxOTRjNzkwMTIyOTc0NjkyZTk4YzU2Y2IzMzE5OGYz`

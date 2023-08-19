@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,608 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,674 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 |
 | 55 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
 
-Snapshot ID: `MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz`
+Snapshot ID: `MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh`

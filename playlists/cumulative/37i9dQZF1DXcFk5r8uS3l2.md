@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-316 songs - 19 hr 53 min
+317 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Burned \(2022 Remaster\)](https://open.spotify.com/track/3RvsARgXxO6AAgZ4lF5lZK) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Hollywood Blues: Songs and Stories from the Family Tree \(1997\-2022\)](https://open.spotify.com/album/7LE2GFTq1Smdeezt2eTAcx) | 2:35 | 2022-05-13 | 2022-06-11 |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 | 2021-12-17 |  |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2021-12-17 | 2022-07-29 |
-| [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2022-01-28 |  |
+| [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2022-01-28 | 2023-08-19 |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-12 |  |
 | [Change](https://open.spotify.com/track/24GLkBy7X3QTDov2IwdL70) | [Dustin Douglas & the Electric Gentlemen](https://open.spotify.com/artist/0SCkDFjNZmp2hfT72RVTkm) | [Change](https://open.spotify.com/album/2VhRBh8TfKXA735dj8ALvd) | 4:32 | 2023-04-07 |  |
 | [Change My Mind](https://open.spotify.com/track/0H2MZlPGsXeQuNzLY6dL1P) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Change My Mind](https://open.spotify.com/album/5D4wpw1J1QrlUFg9N95wHh) | 5:01 | 2021-12-17 | 2023-04-29 |
@@ -322,6 +322,7 @@
 | [Wrestling Me](https://open.spotify.com/track/4gQDxDlkP4qLOnhM9XGHYp) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5), [Terminus Horns](https://open.spotify.com/artist/2ZY58aCTkYN1wZibSZNgQS) | [Wrestling Me](https://open.spotify.com/album/0iVylOcZFHmsl0s4NbQfIC) | 3:19 | 2022-07-15 | 2022-08-06 |
 | [Written Or Spoken](https://open.spotify.com/track/5sfxarjtRlNrFNPmkdL7Nh) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Written Or Spoken](https://open.spotify.com/album/0gzyjg8NoPEJiCN4MHTJlo) | 4:59 | 2021-12-17 | 2022-06-11 |
 | [Written Or Spoken](https://open.spotify.com/track/6lAsmZVg5f5F3FJKOz0zGE) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 4:59 | 2022-01-28 | 2023-03-11 |
+| [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi) | 3:39 | 2023-08-18 |  |
 | [You and Your Folks, Me and My Folks \- Recorded at East West Studios](https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 4:12 | 2021-12-17 | 2022-04-16 |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:01 | 2021-12-17 | 2023-03-25 |
 

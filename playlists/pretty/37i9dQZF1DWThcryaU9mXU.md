@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,775 likes - 90 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,825 likes - 90 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Since My Baby Gone](https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [Just The Big Three Trio](https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED) | 3:00 |
 | 90 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 
-Snapshot ID: `MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh`
+Snapshot ID: `MCwyNDdlNmFmZmM4NjAyNDI3NjdjMjg3NDI2MWViNjViYWYzODk4ZGIx`

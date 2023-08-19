@@ -4,7 +4,7 @@
 
 > Nuevo rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-169 songs - 9 hr 36 min
+170 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 | 2023-06-30 |  |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 | 2023-07-04 |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-03-25 | 2023-03-25 |
-| [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 | 2023-05-19 |  |
+| [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [Ying Yaang’s](https://open.spotify.com/artist/1fqoYPEkiRWcwcBNprVUlS) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 | 2023-05-19 |  |
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-03-25 | 2023-03-25 |
 | [Close Talker](https://open.spotify.com/track/6X985dxEsIehhwnOoocLGB) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Suck This Tangerine](https://open.spotify.com/album/6JIUBuVVmxP23DasePvHDa) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-03-25 | 2023-02-08 |
@@ -58,7 +58,7 @@
 | [Desmotivada](https://open.spotify.com/track/647413f98cYW3U09g3tHjq) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Desmotivada](https://open.spotify.com/album/0fuevSufdQPDZTWoyeEu5H) | 2:22 | 2022-03-25 | 2023-03-25 |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-03-25 | 2023-03-25 |
 | [Distante](https://open.spotify.com/track/7yhQlwY8Yjnbzf1NqAL0Md) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Surfista Nocturno](https://open.spotify.com/album/27hZtuTwWgy62WlAVqFVo2) | 6:00 | 2022-03-25 | 2023-03-25 |
-| [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 | 2023-05-12 |  |
+| [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 | 2023-05-12 | 2023-08-19 |
 | [Dopamina](https://open.spotify.com/track/0VMUzNfWNx3egfZko8bOhS) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Dopamina](https://open.spotify.com/album/1EV4jUvno8aaw2yUEqdVg0) | 6:15 | 2023-03-23 | 2023-08-12 |
 | [Dopamina](https://open.spotify.com/track/78ZxiCT7pdrtUUIsIxF5xQ) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 6:15 | 2023-08-11 |  |
 | [Dulces Sueños, y Hasta Siempre !](https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX) | [electro reno](https://open.spotify.com/artist/3ch5YUSBJld17z6WfbKVXq), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Un Pie en la Tumba](https://open.spotify.com/album/6IHjEeDPQX1nBU45c6DLYt) | 1:37 | 2022-03-25 | 2023-03-25 |
@@ -142,6 +142,7 @@
 | [Profundidad](https://open.spotify.com/track/4hmQNhL5Zlrij8uAdfFUUk) | [Plenamente](https://open.spotify.com/artist/4rvMATvLzxq3s5GQM0LyGA) | [Interminable](https://open.spotify.com/album/4ODy1H4bdT3pWUXEIDR4LC) | 3:14 | 2023-07-14 |  |
 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 | 2023-03-23 |  |
 | [PUNKY PLAYERO](https://open.spotify.com/track/27ItPouIzWP5i4bPasTR8N) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [MIXTAPE DE VERANO](https://open.spotify.com/album/0PxeMQT4VFstgaEdpPjRqV) | 1:23 | 2022-03-25 | 2023-03-25 |
+| [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 |  |
 | [Pájaros](https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n), [Julieta Salas](https://open.spotify.com/artist/3hD02itkArv5tzcKIZYpgt) | [Por última vez](https://open.spotify.com/album/6551YKhH5mVEgrJhLIWTar) | 2:57 | 2022-03-25 | 2023-03-25 |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 |  |

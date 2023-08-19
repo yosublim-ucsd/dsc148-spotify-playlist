@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,187 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,239 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 74 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
 | 75 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
 
-Snapshot ID: `MCxhYmI3MDI5MTBiMzVkNTNjZjk1Y2VlYzU1NWE2MmM2ODc0ZDc3YjU3`
+Snapshot ID: `MCxmNGE3OTc1MjE1NjAwMzY3M2Q4Nzc2ZjgwMWExMDVlZDMyNWZmYTU3`

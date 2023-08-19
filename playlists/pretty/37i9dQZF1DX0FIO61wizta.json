@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 70783,
+  "num_followers": 70807,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTg4OGZmY2E4MjhlMTA3ZWU5MjhjYzZiOTM3NzVkNDM0YWE2ZDVh",
+  "snapshot_id": "MCxhNGY3ZGI2MGViYTA3MjA1YzhkNzJiYWFkYzQ1MWIwZjQ3ODZiNmI2",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1900,16 +1900,24 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
           "name": "Riccardo Muti",
           "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Matteo Manuguerra",
+          "url": "https://open.spotify.com/artist/0lh6dQTetUL7cGQTn6Xa0Q"
+        },
+        {
+          "name": "Renata Scotto",
+          "url": "https://open.spotify.com/artist/5W7pOtn53qBRrQo00IvHTj"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
       "duration_ms": 667640,
-      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
+      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" - \"Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
       "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
     },
     {

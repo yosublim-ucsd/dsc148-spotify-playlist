@@ -1,13 +1,289 @@
 {
-  "description": "All new indie rock. Featuring new music by spill tab.",
-  "num_followers": 848359,
+  "description": "All new indie rock. Featuring new music by Bakar.",
+  "num_followers": 848355,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2U4YTZkNzE4NzhhNWNiNTg1MGUzZDJiYWQwMjdjMzFhMTNjOTA4",
+  "snapshot_id": "MCw5Yzk1MGM4NDJmNWIyNjBjNGZmMzMxMzc2ZjI5YTc3NWJhOTYzNjM5",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Right Here, For Now",
+      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
+    },
+    {
+      "added_at": "2023-08-09 21:10:51",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Dark Prince (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 214356,
+      "name": "The Dark Prince (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Isolette (Edit)",
+        "url": "https://open.spotify.com/album/3uFBPwfmLFoDPIVZxA35b1"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Isolette - Edit",
+      "url": "https://open.spotify.com/track/4s8bmFAHXhmPHrBasuGx62"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 115618,
+      "name": "Frisky",
+      "url": "https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "the comedown",
+        "url": "https://open.spotify.com/album/4knZ2fxHLD8gpCky0TElPh"
+      },
+      "artists": [
+        {
+          "name": "HOAX",
+          "url": "https://open.spotify.com/artist/2B2EixNjepQtd6N3mDcNnh"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "the comedown",
+      "url": "https://open.spotify.com/track/3oHfyJpmuR3OzV7fZRGeDK"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Ballad of Darren",
+        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
+    },
+    {
+      "added_at": "2023-07-21 14:51:10",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Helmet",
+      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Space Invader",
+        "url": "https://open.spotify.com/album/3NYiaVQ8wD0rx56fMcAaFG"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 418080,
+      "name": "Space Invader",
+      "url": "https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Echo The Diamond",
+        "url": "https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/2Gla2RTvl3ozhERrYzVmfi"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "KLEPTO",
+        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "feti\u0161h",
+      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Around Around Around",
+        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 321460,
+      "name": "Around Around Around",
+      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Ready For You",
+        "url": "https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Ready For You",
+      "url": "https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
@@ -29,70 +305,6 @@
       "url": "https://open.spotify.com/track/7eTsUmK19laiJ3uaXqLU2I"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "KLEPTO",
-        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "feti\u0161h",
-      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
-    },
-    {
-      "added_at": "2023-08-09 21:10:51",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 115618,
-      "name": "Frisky",
-      "url": "https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Did I Mention I'm Sorry",
@@ -107,22 +319,6 @@
       "duration_ms": 197962,
       "name": "Did I Mention I\u2019m Sorry",
       "url": "https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu"
-    },
-    {
-      "added_at": "2023-08-14 14:10:50",
-      "album": {
-        "name": "Greg Abbott's Maxi Pad",
-        "url": "https://open.spotify.com/album/5i4YyMtdpLfa9aMrszZL5D"
-      },
-      "artists": [
-        {
-          "name": "Farmer's Wife",
-          "url": "https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Greg Abbott's Maxi Pad",
-      "url": "https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -241,22 +437,6 @@
       "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "The Ballad of Darren",
-        "url": "https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 248774,
-      "name": "Barbaric",
-      "url": "https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG"
-    },
-    {
       "added_at": "2023-07-28 14:33:00",
       "album": {
         "name": "Hello (feat. KennyHoopla)",
@@ -291,22 +471,6 @@
       "duration_ms": 216790,
       "name": "No",
       "url": "https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x"
-    },
-    {
-      "added_at": "2023-07-21 14:51:10",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Helmet",
-      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1181,38 +1345,6 @@
       "url": "https://open.spotify.com/track/6oIVco9En9luNfR022zc4c"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Chris Black Changed My Life",
-        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 200656,
-      "name": "Grim Generation",
-      "url": "https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Mr Big Shot",
-        "url": "https://open.spotify.com/album/3RGUy7030oWwk9ZoFi1GXr"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 176056,
-      "name": "Prepaid Wireless",
-      "url": "https://open.spotify.com/track/1c2B1ScCR9I5WCaLNrvVrj"
-    },
-    {
       "added_at": "2023-07-07 21:26:40",
       "album": {
         "name": "Hell Of A Ride",
@@ -1275,22 +1407,6 @@
       "duration_ms": 164200,
       "name": "Can't Do Anything",
       "url": "https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 167492,
-      "name": "My Big Day",
-      "url": "https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1457,22 +1573,6 @@
       "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
     },
     {
-      "added_at": "2023-06-16 18:37:40",
-      "album": {
-        "name": "Sugar the Bruise",
-        "url": "https://open.spotify.com/album/6GnYy4az2e4zUR7ChMERqZ"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 183312,
-      "name": "Something Wrong",
-      "url": "https://open.spotify.com/track/4gMUmiLng8cPWB55zE33QP"
-    },
-    {
       "added_at": "2023-06-30 04:01:00",
       "album": {
         "name": "Lookin' Out",
@@ -1521,22 +1621,6 @@
       "url": "https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj"
     },
     {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Francesca",
-        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Francesca",
-      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Hey Anna",
@@ -1553,26 +1637,6 @@
       "url": "https://open.spotify.com/track/23ROfLTmpk2Q1baIETAdeD"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "3000 Miles",
-        "url": "https://open.spotify.com/album/0cXvkaKVa6r0HQCrNH6qMV"
-      },
-      "artists": [
-        {
-          "name": "The So So Glos",
-          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
-        },
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 215178,
-      "name": "3000 Miles",
-      "url": "https://open.spotify.com/track/1mgPpSsf0Hy8kXlCCVLY6o"
-    },
-    {
       "added_at": "2023-06-30 04:01:00",
       "album": {
         "name": "Voice Of The Voiceless",
@@ -1587,70 +1651,6 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Boy Of The Month",
-        "url": "https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 106382,
-      "name": "Boy Of The Month",
-      "url": "https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13"
-    },
-    {
-      "added_at": "2023-06-16 20:48:47",
-      "album": {
-        "name": "Strange Weather",
-        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
-      },
-      "artists": [
-        {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
-        }
-      ],
-      "duration_ms": 208817,
-      "name": "Strange Weather",
-      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
-    },
-    {
-      "added_at": "2023-06-14 15:53:39",
-      "album": {
-        "name": "Feet Up",
-        "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "Feet Up",
-      "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/2MtZOTkjR68Dfxps7mmMP3"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/41yayaS91LRsTwypCJHrTB"
     }
   ],
   "unique_name": "Today's Indie Rock",

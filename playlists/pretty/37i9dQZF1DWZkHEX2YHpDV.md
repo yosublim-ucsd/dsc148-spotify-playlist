@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,873 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,895 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 99 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 |
 | 100 | [Cigarettes](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 |
 
-Snapshot ID: `MCw3YjI1Yjk5ODQ2Y2IwNzkzMmE0NjY0OWY1MTU0MDU1ZmMxNGRjOTA4`
+Snapshot ID: `MCxjNmZkYWUxYmU4ZWQyMDVjYjM3OWIxMjE5YTYxYzE5N2U3YTFkYmNi`

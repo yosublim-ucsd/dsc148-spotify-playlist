@@ -4,13 +4,14 @@
 
 > All about aespa: meeting another self and experiencing the new world
 
-35 songs - 1 hr 59 min
+36 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til We Meet Again](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:38 | 2023-05-08 |  |
 | [aenergy](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 2:27 | 2022-07-08 |  |
 | [Beautiful Christmas](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Beautiful Christmas](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 3:29 | 2022-12-14 |  |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-07-08 |  |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2022-07-08 |  |
 | [Dreams Come True \- Instrumental](https://open.spotify.com/track/7LOV1wyhrT7XjFgbz5sJ88) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2022-07-08 |  |

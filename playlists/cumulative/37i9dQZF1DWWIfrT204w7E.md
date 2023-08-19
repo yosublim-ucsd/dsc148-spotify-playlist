@@ -2,7 +2,7 @@
 
 ### [City to City](https://open.spotify.com/playlist/37i9dQZF1DWWIfrT204w7E)
 
-> Drill scenes connect\. Cover: Tion Wayne
+> Drill scenes connect\. Cover: Dave & Central Cee
 
 417 songs - 19 hr 15 min
 

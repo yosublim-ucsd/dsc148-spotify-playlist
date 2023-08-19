@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,926 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,039 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 100 | [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 |
 
-Snapshot ID: `MCwwNjM0ZjViNjM4MGE2ZWViODcyYjI1ZTQ4ZDU4NzU0Y2NiZDAyOTA0`
+Snapshot ID: `MCxjODVjMGFmY2JhNjliNjAwMWFjMjAxYmVhZGUwZjA0YmQ2NGQ5MmVh`

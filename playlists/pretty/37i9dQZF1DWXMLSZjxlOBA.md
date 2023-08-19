@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 
 > Dance hits to soundtrack your life
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,805 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,812 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 | 79 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
 | 80 | [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Alone](https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg) | 4:33 |
 
-Snapshot ID: `MCwwMGM1ZDNjYzQ4YjljMTAwMGUyNzMzMzIwMDg3YzJhN2U3OWI5MThk`
+Snapshot ID: `MCw2ZWUyNmNlZDk5YWZjM2Y1NDMxNjU4NDQ2YzUyY2VkOTYyNzU5M2U0`

@@ -4,7 +4,7 @@
 
 > Upbeat songs that will get the whole family feelin' good!
 
-88 songs - 4 hr 59 min
+90 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,10 @@
 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 | 2022-01-28 |  |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2022-01-28 |  |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-01-28 |  |
+| [Sunny Day \- Hope](https://open.spotify.com/track/04KoUwyZYopfOfBFhgqQo9) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [All The Feels](https://open.spotify.com/album/6Zc4IZIL9HypUUwNi5Xoq4) | 3:39 | 2023-08-18 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-01-28 |  |
 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 | 2022-01-28 |  |
+| [Sunshine On Me \- Joy](https://open.spotify.com/track/34vzehqh6fj3rlmuMJD9wZ) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [All The Feels](https://open.spotify.com/album/6Zc4IZIL9HypUUwNi5Xoq4) | 2:35 | 2023-08-18 |  |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2022-01-28 |  |
 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 | 2022-01-28 |  |
 | [Together](https://open.spotify.com/track/1o0B1aKCfpPC3rUpSh8XLT) | [Callie Twisselman](https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:15 | 2022-01-28 |  |

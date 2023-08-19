@@ -2001,6 +2001,32 @@
     },
     {
       "album": {
+        "name": "Melancolia",
+        "url": "https://open.spotify.com/album/4kVGZDkDbWtqKVsoHmKIX2"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Charles Goold",
+          "url": "https://open.spotify.com/artist/093VHM9FzYzlFcIEYbXPwR"
+        },
+        {
+          "name": "Russell Hall",
+          "url": "https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263812,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0wMBswBqCvIF3Na1cQQ0D7"
+    },
+    {
+      "album": {
         "name": "Ink on a Pin - A Celebration of Joni Mitchell",
         "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
       },
@@ -3366,7 +3392,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 223453,
       "name": "Estate",
       "url": "https://open.spotify.com/track/1CD05bHRSAgJFmODYYT84t"
@@ -4124,7 +4150,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 262000,
       "name": "Goodbye (Again)",
       "url": "https://open.spotify.com/track/7vzDXHNfr8m3EbClQn9JH6"
@@ -4404,7 +4430,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 217376,
       "name": "How Did You Get In My Dreams?",
       "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
@@ -6092,7 +6118,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 357647,
       "name": "It's Alright With Me",
       "url": "https://open.spotify.com/track/0x1tkK2hltpvMeM2ERJnTB"
@@ -8777,6 +8803,24 @@
     },
     {
       "album": {
+        "name": "Peach Velvet Sky",
+        "url": "https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350740,
+      "name": "Peach Velvet Sky",
+      "url": "https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF"
+    },
+    {
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/7maxD3uVzM5iVSiyC55sar"
       },
@@ -8876,6 +8920,24 @@
       "duration_ms": 140686,
       "name": "Petite musique terrienne",
       "url": "https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY"
+    },
+    {
+      "album": {
+        "name": "Pick Yourself Up",
+        "url": "https://open.spotify.com/album/6VMr6sgE1dyMAas9ntv4WB"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134987,
+      "name": "Pick Yourself Up",
+      "url": "https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3"
     },
     {
       "album": {
@@ -10414,6 +10476,24 @@
       "duration_ms": 298958,
       "name": "Strange Harbors",
       "url": "https://open.spotify.com/track/5B3pTFpdqvMwku6ysdXGJp"
+    },
+    {
+      "album": {
+        "name": "Suddenly Lovers",
+        "url": "https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Suddenly Lovers",
+      "url": "https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG"
     },
     {
       "album": {
@@ -12062,7 +12142,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204066,
       "name": "Twilight Green",
       "url": "https://open.spotify.com/track/5QMIIpenOuFYvK3jhSLgMI"
@@ -12870,6 +12950,24 @@
       "duration_ms": 269162,
       "name": "Where Will I Be?",
       "url": "https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD"
+    },
+    {
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Who Are You Dreaming Of",
+      "url": "https://open.spotify.com/track/1NmjyMJ8V0vJyKnqujBvCT"
     },
     {
       "album": {

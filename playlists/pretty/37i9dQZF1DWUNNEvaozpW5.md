@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Fito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,390 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,554 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 | 75 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
 
-Snapshot ID: `MCxiY2EzYTgxYmUzNmJiMzk0MjIyODlkYWU4YzRlNzg2MGY1ZjZkMDZj`
+Snapshot ID: `MCw3NjBlODcyNWVhZGY0ZTNjZjlkMTc0YzlkYzc5ZjQzNjNlYzNkZWQx`

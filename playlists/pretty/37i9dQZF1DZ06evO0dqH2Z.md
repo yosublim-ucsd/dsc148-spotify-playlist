@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,292 likes - 36 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,296 likes - 36 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 35 | [Crystal Vision](https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 4:26 |
 | 36 | [Test Pattern](https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 2:20 |
 
-Snapshot ID: `MjgyMDMyNjEsMDAwMDAwMDA4ZTFhMTc2MmQzYmJhZmJjNTQ1ZmRiNGQ1NTgwM2NhYQ==`
+Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDBkNmQyOTczMzczYzdhYTUyNzBlOTE2MGFlMGE2ZmNjNQ==`

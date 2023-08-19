@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,620 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,647 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 |
 | 50 | [Swingin' The Blues](https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Shorty Rodgers Courts The Count](https://open.spotify.com/album/79crFBHL0AC42MEgShce76) | 4:22 |
 
-Snapshot ID: `MCwzZjhkMWMwY2YwZWEyNTIwYTI1MzZiMTUyM2UwNzcxOWNhYWU0MzJm`
+Snapshot ID: `MCw1Yzg4MDg0ZWRmMDgxZjk4MDI4YWMzNmI5ZDEwNjhmMTU5Zjg0NTE5`

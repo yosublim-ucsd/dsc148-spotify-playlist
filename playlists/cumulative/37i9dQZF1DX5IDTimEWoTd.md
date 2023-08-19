@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-254 songs - 15 hr 0 min
+255 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2022-07-28 |  |
 | [All of Me](https://open.spotify.com/track/3uhBIQ7tv8j1FME8cFGEfG) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(South Africa Tour Edition\)](https://open.spotify.com/album/1rPBcCACCx9lxTib5s2Mqc) | 4:29 | 2019-07-29\* | 2022-04-21 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-03-25 |  |
+| [Anything](https://open.spotify.com/track/04jQY5VHHilNqaWCabuSzz) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Anything](https://open.spotify.com/album/54sLwWesyZgbm1a14PYq9X) | 3:07 | 2023-08-18 |  |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2021-06-07 | 2022-04-13 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 |  |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-28 |  |
@@ -142,7 +143,7 @@
 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 | 2022-07-28 |  |
 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 | 2019-07-29\* | 2022-07-29 |
 | [Location \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7jwZYPS8reDirsT4Mvqpui) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/3wTu31uEBJ7CFl0HstePX0) | 2:58 | 2019-07-29\* | 2022-07-03 |
-| [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2022-02-11 |  |
+| [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2022-02-11 | 2023-08-19 |
 | [Lost Stars](https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lost Stars](https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF) | 4:27 | 2019-07-29\* | 2020-01-24 |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2019-07-29\* | 2022-07-29 |
 | [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 | 2021-11-13 | 2023-02-18 |

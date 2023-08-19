@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,196 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,214 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Theme from Selva](https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 3:25 |
 | 50 | [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 |
 
-Snapshot ID: `MCxmZmZmNDIyMDY0ZmViYWY0NGY1N2UzZGRkNTc5MzViOWUwMDU4NTQ1`
+Snapshot ID: `MCwwNDg0YmU0ZmNmYTJlZWRlODRlYjcxMWIwYWQ3ODkwNzczNzJkNDRj`

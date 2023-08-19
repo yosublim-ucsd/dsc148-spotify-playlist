@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-557 songs - 1 day 7 hr 25 min
+559 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Emotion](https://open.spotify.com/track/5Rnv9hVUuyc5Q7jiFRHRwm) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Lost \- EP](https://open.spotify.com/album/1U1CVrJeVjdt6eY13T34FY) | 3:24 | 2020-10-13\* | 2022-01-01 |
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 | 2023-05-19 |  |
 | [Entertainer](https://open.spotify.com/track/6kjKRa91zikS6ZOL2Rt1QF) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/2aE3VcIiNPqqo4VzOXiDoR) | 3:22 | 2020-10-13\* | 2021-07-04 |
+| [Erotic Electronic](https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Erotic Electronic](https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk) | 2:23 | 2023-08-18 |  |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2021-06-19 | 2021-06-26 |
 | [EVERGREEN](https://open.spotify.com/track/3qweD5uYsRyM7lJolHgeNZ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/21cbqbQqSBR42sriETNX8a) | 3:13 | 2023-06-23 | 2023-07-08 |
 | [Every Way \(Supernatural\)](https://open.spotify.com/track/075uePuMwWGQacfAyIK5d1) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Every Way \(Supernatural\)](https://open.spotify.com/album/4XEYm7Duc4QmDm58UOBfX0) | 3:43 | 2020-11-18 | 2021-07-04 |
@@ -254,7 +255,7 @@
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-11-02 |
 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 | 2022-08-12 | 2022-09-17 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-11-18 | 2021-07-04 |
-| [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-11 |  |
+| [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-11 | 2023-08-19 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-02 | 2023-08-14 |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2020-10-13\* | 2020-11-18 |
 | [I Met Sarah in the Bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [I Met Sarah in the Bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 | 2021-07-18 | 2021-07-31 |
@@ -312,6 +313,7 @@
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 | 2023-01-29 |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2020-10-13\* | 2021-02-19 |
 | [LOVE IS A...](https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 3:41 | 2023-05-19 | 2023-08-07 |
+| [LOVE IS A…](https://open.spotify.com/track/6CEwRvoydOQAXfteUT4OUN) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:41 | 2023-08-18 |  |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 | 2023-07-15 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2023-07-21 |  |
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-06-19 | 2021-07-10 |
@@ -505,7 +507,7 @@
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2020-10-13\* | 2021-12-04 |
 | [Thrills](https://open.spotify.com/track/4ZuPpjDfdJJa8trx9ww35R) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Thrills](https://open.spotify.com/album/5oEVimRkdi7hSeXfKRkwvV) | 3:19 | 2021-07-04 | 2021-12-04 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/3TTWpDAiJfyoJDd5v2F8C3) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Throwaway \(with Clairo\)](https://open.spotify.com/album/3VZK2BUptZDwTdOlogvFlk) | 3:00 | 2020-10-13\* | 2021-12-04 |
-| [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-10 |  |
+| [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-10 | 2023-08-19 |
 | [To Me](https://open.spotify.com/track/70izrPPF9I7fqCOChXsc30) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [To Me](https://open.spotify.com/album/0u5WSJGs6HBbubRJZLHFhJ) | 4:17 | 2020-10-13\* | 2021-11-20 |
 | [Tongue Tied](https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Tongue Tied](https://open.spotify.com/album/2xNgClNQjycAaVWM6MBoW6) | 2:58 | 2021-10-30 | 2022-04-17 |
 | [Tongue Tied \(feat\. Terror Jr\)](https://open.spotify.com/track/50piv7yyFzysKQW18Q2z7s) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Blossom](https://open.spotify.com/album/4XJe4kQT1oSkYUpUPWljFi) | 2:45 | 2021-11-06 | 2022-04-17 |

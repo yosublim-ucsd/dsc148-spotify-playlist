@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Classic and new soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,962 likes - 200 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,985 likes - 200 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 199 | [Long Weekend](https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Say That To Say This](https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq) | 4:07 |
 | 200 | [Walk the Way You Talk](https://open.spotify.com/track/64nfPHFk5A30jsH0aFwoPl) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Very Dionne](https://open.spotify.com/album/1qBpQ22zaCQzTLBW28sWO3) | 2:50 |
 
-Snapshot ID: `MCxlYTBjMDM3NjQzNzUzM2YyODA5MTg0ZTUyNmY5NzdlYTQ3MjU2NDJh`
+Snapshot ID: `MCxhMDY5ZTcxOTdiNDE5ZGYzZTIyZTY5NjAzNmUwZTJlNzE3MTlhMjY5`

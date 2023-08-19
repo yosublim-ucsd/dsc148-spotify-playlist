@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Delaney Bailey
 
-385 songs - 23 hr 59 min
+386 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 | 2022-04-29 | 2023-08-13 |
 | [Oh Canada](https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:47 | 2022-04-13 | 2022-07-29 |
 | [Oh Canada](https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:47 | 2022-04-29 |  |
-| [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2022-01-21 |  |
+| [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2022-01-21 | 2023-08-19 |
 | [One More Hour](https://open.spotify.com/track/09XOlLHpRhRSuI1plPFFuc) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:43 | 2022-01-21 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 |  |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-04-14 |  |
@@ -381,6 +381,7 @@
 | [Whole New Mess](https://open.spotify.com/track/5XRfIAdgYxZ3jLiqxSZnRj) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Whole New Mess](https://open.spotify.com/album/4QDvtSKfs2nFUioZZAZ3S0) | 3:42 | 2022-04-13 | 2022-07-29 |
 | [Whole New Mess](https://open.spotify.com/track/7G2qiNMmclEQvBI5QiVKvs) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Whole New Mess](https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e) | 3:42 | 2022-04-29 | 2023-02-27 |
 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 | 2022-11-11 |  |
+| [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 | 2023-08-18 |  |
 | [Wind On Tin](https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO) | 3:06 | 2023-05-05 |  |
 | [Wind On Tin](https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6) | 3:06 | 2022-04-29 | 2023-04-30 |
 | [Wind on Tin](https://open.spotify.com/track/5puD6cc8BPlXu3feo5bafr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 3:06 | 2022-04-13 | 2022-07-28 |

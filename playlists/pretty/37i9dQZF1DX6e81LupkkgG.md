@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,765 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,801 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 99 | [Hindenburg Lover](https://open.spotify.com/track/32RwADYaEBNw9QeXP4Tz1g) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 5:02 |
 | 100 | [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 |
 
-Snapshot ID: `MCw1OWQxMzdhMjNhYTY4M2UyMTRkNzM4YzQ1YzBjYWE0MTgxYmFlYWQw`
+Snapshot ID: `MCw3ZjkyZDhlMDIyNTE0YTY0NmE0Y2ExYzY5YzhkNDgxZjc3MjJjNTQz`

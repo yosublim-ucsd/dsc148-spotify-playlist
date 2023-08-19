@@ -2751,6 +2751,24 @@
     },
     {
       "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279626,
+      "name": "Wrong Kind of Right",
+      "url": "https://open.spotify.com/track/4c22tbNUTkhfIxiUPQucf3"
+    },
+    {
+      "album": {
         "name": "You Ruined That Song For Me",
         "url": "https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV"
       },

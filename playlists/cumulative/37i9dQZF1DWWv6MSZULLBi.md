@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Mitski
+> A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-539 songs - 1 day 8 hr 52 min
+543 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Cannibal](https://open.spotify.com/track/66sgJDWffGSEw3huWPjNWA) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6) | 4:01 | 2022-07-22 | 2022-07-29 |
 | [Cannot Change It All](https://open.spotify.com/track/3o0DkaDAeuO8mXFqdgCVXv) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Cannot Change It All B/W Old Bill's Tune](https://open.spotify.com/album/34P8okXqHGyUqxBvD9SYU5) | 4:27 | 2022-05-27 | 2022-12-10 |
 | [Carol](https://open.spotify.com/track/58raSxI2FUn6xBtkl5VXtm) | [lemin.](https://open.spotify.com/artist/1nTVRSMfzkCSct5efMdqrg) | [Carol](https://open.spotify.com/album/6jHWm6Jvh0NFBFcXSwlIfQ) | 3:14 | 2022-12-16 | 2023-05-06 |
-| [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 |  |
+| [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 | 2023-08-19 |
 | [Carried…](https://open.spotify.com/track/7sI78BEZylcmCu5ts145ou) | [Lost Cousins](https://open.spotify.com/artist/2yZQbeFIRhUpRehbauidnq) | [Point No Point](https://open.spotify.com/album/37wJd9QmhlZysWdQl98c4i) | 5:22 | 2023-07-21 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-06 | 2023-04-09 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-07-22 | 2022-11-12 |
@@ -177,6 +177,7 @@
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-02-12 |
 | [For the Sake of Comedy](https://open.spotify.com/track/7m34UcmXaQzdpOUl71WUsR) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [For the Sake of Comedy](https://open.spotify.com/album/3N3HmTL9LTCRHzB7T2rUKu) | 3:36 | 2023-03-10 | 2023-04-01 |
 | [Forever Had to End](https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Forever Had to End](https://open.spotify.com/album/5ytUlTMjhqqyptHuseHrxW) | 3:42 | 2023-07-21 |  |
+| [Free](https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Free](https://open.spotify.com/album/2DK8qUZem6LDFCcr7vrJLk) | 3:13 | 2023-08-18 |  |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 | 2022-10-15 |
 | [From This Moment On](https://open.spotify.com/track/0AHnNbTIvus8ySn5X0gCVn) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From This Moment On](https://open.spotify.com/album/2h8NIimdYYSdZBs0jLSXtI) | 4:06 | 2022-09-02 | 2022-10-01 |
 | [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 | 2023-03-31 | 2023-07-15 |
@@ -267,6 +268,7 @@
 | [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 | 2023-02-24 | 2023-03-05 |
 | [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 | 2023-03-08 |
 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 | 2023-08-11 |  |
+| [Knock The Wind](https://open.spotify.com/track/16zmpunEamESQNJWqUUGih) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Knock The Wind](https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG) | 2:45 | 2023-08-18 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 | 2023-07-01 |
 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 |  |
 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 | 2023-02-10 | 2023-07-08 |
@@ -290,7 +292,7 @@
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 5:32 | 2023-04-07 |  |
 | [Looking For Love](https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Looking For Love](https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW) | 3:35 | 2023-04-14 | 2023-04-26 |
 | [Looking For Love](https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:35 | 2023-04-21 | 2023-06-03 |
-| [Looking For Love \- Spotify Singles](https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Spotify Singles](https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA) | 3:53 | 2023-06-02 |  |
+| [Looking For Love \- Spotify Singles](https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Spotify Singles](https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA) | 3:53 | 2023-06-02 | 2023-08-19 |
 | [Loose Ends](https://open.spotify.com/track/63zDvmBVcYFsSdv1khtFX0) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [Loose Ends](https://open.spotify.com/album/0OHpfNdFdOeqf5OSb6RZSS) | 4:04 | 2023-04-14 | 2023-05-06 |
 | [Lost In The Water](https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Lost In The Water](https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4) | 3:10 | 2022-07-01 | 2022-08-31 |
 | [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 | 2022-05-13 | 2022-10-22 |
@@ -414,6 +416,7 @@
 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 | 2022-05-13 | 2022-11-12 |
 | [Snakelife](https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Snakelife](https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU) | 4:37 | 2023-08-11 |  |
 | [Snowy Owl](https://open.spotify.com/track/6WSMa3dapwtDHoqWi92PZO) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Pretenders / Snowy Owl](https://open.spotify.com/album/7pm8B4hEadVF4jkzTRsxum) | 4:24 | 2022-05-13 | 2022-07-09 |
+| [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-18 |  |
 | [Solitude](https://open.spotify.com/track/2FLk5bJKrv6t2CY8XqjNVs) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Circle](https://open.spotify.com/album/1jbLEvkxMMJ8MfU3EHLdYR) | 4:50 | 2022-09-16 | 2023-03-18 |
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 |  |
 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 | 2022-05-13 | 2022-09-03 |
@@ -447,7 +450,7 @@
 | [Talamanca](https://open.spotify.com/track/1f2o76aJKHGCeMx5vH7iyP) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:20 | 2022-07-22 | 2023-02-11 |
 | [Talamanca](https://open.spotify.com/track/7oVQfidyQVhkxUT4Lg1foI) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 4:20 | 2022-05-13 | 2022-07-29 |
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-05-13 | 2022-06-18 |
-| [Tell Me That You Love Me](https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Tell Me That You Love Me](https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG) | 3:12 | 2023-03-24 |  |
+| [Tell Me That You Love Me](https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Tell Me That You Love Me](https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG) | 3:12 | 2023-03-24 | 2023-08-19 |
 | [Ten Hands](https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Ten Hands](https://open.spotify.com/album/3OwUW7eo0X90XQQlTirb9z) | 2:27 | 2023-06-02 | 2023-07-01 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |
 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 | 2023-05-26 | 2023-07-01 |
@@ -458,7 +461,7 @@
 | [The Dead](https://open.spotify.com/track/4kGRfWQu6c9MhXACKOVDUZ) | [Ryan O'Reilly](https://open.spotify.com/artist/2b0d58PurIqBoqRP0BiTL1) | [The Dead](https://open.spotify.com/album/43LgxnDHhwFbMjFZsWu3Wx) | 4:26 | 2022-12-16 | 2023-05-20 |
 | [The Ghost of Me](https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [The Ghost of Me](https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo) | 3:13 | 2022-08-26 | 2022-10-08 |
 | [The Hills of Aberfeldy](https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:15 | 2023-05-05 |  |
-| [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 | 2023-03-24 |  |
+| [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 | 2023-03-24 | 2023-08-19 |
 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 | 2023-03-10 | 2023-08-05 |
 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 | 2022-06-24 | 2023-02-18 |
 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 | 2023-04-14 |  |
@@ -545,6 +548,7 @@
 | [You'll Never Get To Heaven With That Attitude](https://open.spotify.com/track/69ayK3fANIcCgiiF05xRsr) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [You'll Never Get to Heaven With That Attitude](https://open.spotify.com/album/57WeEXLDRuasGenvl7ljv8) | 3:41 | 2022-06-03 | 2022-11-26 |
 | [You're My Winter](https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wish I Wrote](https://open.spotify.com/album/7nkoBpcjx1dmXS8yRCqMUS) | 3:36 | 2022-12-23 | 2023-05-20 |
 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 |  |
+| [Your Beautiful Self](https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Your Beautiful Self](https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3) | 4:12 | 2023-08-18 |  |
 | [Your Hand in Mine](https://open.spotify.com/track/69hxfX2XVJwbJONF32a0kR) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Don't Listen to Me](https://open.spotify.com/album/0YN8HCMApGlIZv075BmKpz) | 3:51 | 2023-07-21 |  |
 | [You’d Like to Believe](https://open.spotify.com/track/6yEMIk1gWqatcZm2bSGEeM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [You'd Like to Believe](https://open.spotify.com/album/6jAsIfTjQWYzrDHab7f1Eb) | 3:15 | 2022-12-16 | 2023-05-20 |
 

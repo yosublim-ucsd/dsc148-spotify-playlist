@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-241 songs - 14 hr 24 min
+242 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Don't Wanna Fight](https://open.spotify.com/track/1xmctspTzQxisNXKY6Gxf6) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/2IVZPDXb7LFbyukqaoWpYR) | 3:52 | 2021-10-01 | 2022-07-29 |
 | [Don't Wanna Fight](https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:52 | 2022-06-01 | 2023-06-15 |
 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 | 2022-08-02 |  |
-| [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 | 2022-06-01 |  |
+| [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 | 2022-06-01 | 2023-08-19 |
 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/3fQ0Y9wCdAYYrRMmfjXyhb) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/5DjGD8R6AQvAWvH1MapfKK) | 2:51 | 2021-10-01 | 2022-07-29 |
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-08-02 | 2023-05-11 |
 | [Déjà Vu \(ft\. Mavis Staples\)](https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:18 | 2023-04-14 |  |
@@ -231,6 +231,7 @@
 | [This Is A Photograph II](https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph II b/w Five Easy Pieces Revisited](https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30) | 2:56 | 2023-04-28 | 2023-07-30 |
 | [To the Boys](https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [First Flower](https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup) | 3:47 | 2022-06-01 |  |
 | [To the Boys](https://open.spotify.com/track/52dhb3ZAR5RRN695C7z3UG) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [To the Boys](https://open.spotify.com/album/0NMBhJrx4szULWFv3WxUfA) | 3:47 | 2021-10-01 | 2022-07-29 |
+| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 |  |
 | [Tower of Babel](https://open.spotify.com/track/2s70AL69BjHU7y9aABGDUL) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Keep Your Courage](https://open.spotify.com/album/1PWQ1uSe3rnRYeaq3BQAoe) | 2:28 | 2023-04-28 |  |
 | [Tower of Babel](https://open.spotify.com/track/6oEgGfkgyslQXUTKdVSNU1) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Tower of Babel](https://open.spotify.com/album/53UYBBZqy38uVoyiUEBcte) | 2:28 | 2023-03-31 | 2023-05-04 |
 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 | 2021-10-01 | 2022-07-29 |

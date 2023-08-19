@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,011 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,160 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 |
 | 100 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 |
 
-Snapshot ID: `MCwxYjNhMmU4Zjk3ZjYzNzBjNzU4ZDgzMmM5ZmJiOGFjODQ2NGM0ZmI0`
+Snapshot ID: `MCw4NDJmMGYwNmE5OWMwYTQ2ZTc5MmFiNDc0YTYzYWI5MTVmNGEzOTE1`

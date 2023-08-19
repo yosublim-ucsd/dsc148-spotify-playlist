@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,420 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,437 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 |
 | 75 | [O Sobie Samym](https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL) | [Robert Gawlinski](https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O) | [Solo](https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew) | 3:02 |
 
-Snapshot ID: `MCw0MTg5ZDdkNzhlN2YzMGYwYjBiYTU5ZWNkODNmODhjOGY2OWMxZjQ2`
+Snapshot ID: `MCxjYzZlN2UzNjAwYzJkYzYzYjQzNjZjNjk1OTljZmMyZDVmMWFiMGM4`

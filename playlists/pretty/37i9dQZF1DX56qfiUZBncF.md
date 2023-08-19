@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,574 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,603 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 66 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
 | 67 | [I Can't Believe I Had You](https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Until We Meet Again](https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd) | 4:28 |
 | 68 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
-| 69 | [No Time](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 3:56 |
-| 70 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 |
+| 69 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 |
+| 70 | [No Time](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 3:56 |
 | 71 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 72 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
 | 73 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
 | 100 | [Trip](https://open.spotify.com/track/53s35uBUa1PpKdwY3L8zxF) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/18YfZB3sMphELTAkjMjpZk) | 2:53 |
 
-Snapshot ID: `MCw0YzJkNDc0NzQ2NmE1OTg1ZjQ1ZjRhNzk3OWI4MWEzM2UxZTc3MzNi`
+Snapshot ID: `MCwwMzJiOWRmNDY4NzYzMzU4YmJkZWFlYWUyNWJhZjdkYWYyZGIwMDE3`

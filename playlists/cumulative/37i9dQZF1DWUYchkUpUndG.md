@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl?si=zHZ8NUFtQ02h5y\-P4OBYQg">Elikem Kofi </a>
 
-568 songs - 1 day 22 hr 47 min
+570 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Could've Been Worse \- Amapiano Remix](https://open.spotify.com/track/1XLSqQmbo1oAFpWHiJp0B9) | [Shae'\\dy](https://open.spotify.com/artist/1WnGHRAEWg1fJyMeH2wVds) | [Could've Been Worse \(Amapiano Remix\)](https://open.spotify.com/album/1WXqpBqjGFsEOapieUSmd4) | 5:02 | 2023-06-30 | 2023-07-14 |
 | [Count 'Em](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 | 2023-08-04 | 2023-08-18 |
 | [Crazy Things](https://open.spotify.com/track/3Y0ATSQ9OdMrQMDu0JlYh4) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [Crazy Things](https://open.spotify.com/album/3gC6bvOAT5EJVAWEeinLU6) | 2:40 | 2023-06-23 | 2023-06-30 |
-| [Creator](https://open.spotify.com/track/1cRXCjQEcECoGYZR0TYufL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4oYqY36ZQDueqm535USQ2C) | 4:16 | 2023-08-18 |  |
+| [Creator](https://open.spotify.com/track/1cRXCjQEcECoGYZR0TYufL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4oYqY36ZQDueqm535USQ2C) | 4:16 | 2023-08-18 | 2023-08-19 |
+| [Creator](https://open.spotify.com/track/49RAhI3UshYWW7RSh66XRu) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:16 | 2023-08-18 |  |
 | [Cycles](https://open.spotify.com/track/7EC7Kv7FiejtrG2ubRwEK0) | [Nyende](https://open.spotify.com/artist/7ChGkbKDyeFnbvGLsz3p8y), [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07), [Matovu Jesse](https://open.spotify.com/artist/5RL9V32wH5YKZ7E0pLyVGu) | [Cycles](https://open.spotify.com/album/3wyssGEodVB8CTJ5TzKjYn) | 2:56 | 2023-07-14 | 2023-07-28 |
 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 | 2023-07-14 | 2023-07-28 |
 | [Dadi](https://open.spotify.com/track/1jsNfKk9Jv6QuGaQWFh872) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Dadi](https://open.spotify.com/album/0JGojovVFDXUzBOh4zw9p2) | 2:57 | 2023-05-19 | 2023-06-02 |
@@ -486,6 +487,7 @@
 | [Surrender](https://open.spotify.com/track/1QZMDkHXdP5xzBD2l0bjrH) | [Vannou Enomana](https://open.spotify.com/artist/6LlibAGDFj1d9pLbAcYF9K) | [Surrender](https://open.spotify.com/album/4Yd4urJkYtdKwFxSFBQGLG) | 4:52 | 2023-06-02 | 2023-06-23 |
 | [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 | 2023-07-14 | 2023-07-28 |
 | [Take It \- Live](https://open.spotify.com/track/6Q2S7FxCdaxNy3TKLIEyL5) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Take It \(Live\)](https://open.spotify.com/album/2Z3lAoujMjb11P7NgBItGM) | 4:42 | 2023-08-11 |  |
+| [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies](https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 | 2023-08-18 |  |
 | [Talk Am](https://open.spotify.com/track/4s6AYqtWjtDogBMhW2a80s) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Talk Am](https://open.spotify.com/album/5b7jxnJ9v5NU0BWFYmlDiN) | 7:12 | 2023-06-30 | 2023-07-21 |
 | [Te Bola Be?](https://open.spotify.com/track/3GPQwkDMPQgxgJx1252ypX) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [O Yinne!](https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj) | 3:36 | 2023-06-02 | 2023-06-09 |
 | [Teach Me Lord](https://open.spotify.com/track/3jJ9cYTLLQqBXoirUNi0QY) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Teach Me Lord](https://open.spotify.com/album/08w3iXoVjYTw8DnaA3QKJn) | 4:19 | 2023-06-23 | 2023-07-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYZ78Ffu5cx.md) - [plain]
 
 > music, waves, friends and a good time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,701 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,725 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYZ78Ffu5cx.md) - [plain]
 | 99 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 |
 | 100 | [25 Horas](https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [25 Horas](https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr) | 4:07 |
 
-Snapshot ID: `MCw2ZWEyNjNhMjJiNmFkNjU0OTlhNWIyMGVjZDFiMzQyNmI1ZGIxZDc2`
+Snapshot ID: `MCw2OTVjN2QyMWEzMjcwODgxM2JmNGM4MTQ4MDQyZjM0NWQ2NDhkMDFm`

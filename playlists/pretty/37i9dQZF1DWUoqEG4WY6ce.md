@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,029 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,297 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 99 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 |
 | 100 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 |
 
-Snapshot ID: `MCxjZDFlYTM1MTJiNzczMDkwNmZmZjM5M2YxZjQ4Zjk3MTcwZDI1MzI4`
+Snapshot ID: `MCwwZjJhMmRmNDhmM2I1OWFjODhkZmQ1NjIwZmMxMDI1ODQzMDkxYjk0`

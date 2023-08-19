@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Con Glock",
+        "url": "https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs"
+      },
+      "artists": [
+        {
+          "name": "Young Piri",
+          "url": "https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114946,
+      "name": "Con Glock",
+      "url": "https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH"
+    },
+    {
+      "album": {
         "name": "Flaites NY",
         "url": "https://open.spotify.com/album/2q7TNii8WNMbkmNRbenrgV"
       },

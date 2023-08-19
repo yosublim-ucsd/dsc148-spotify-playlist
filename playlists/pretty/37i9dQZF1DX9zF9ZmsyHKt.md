@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,891 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,934 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 92 | [Rosa amarela](https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Rosa Amarela](https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX) | 3:18 |
 | 93 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 94 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
-| 95 | [Nanã](https://open.spotify.com/track/3VAWBQtMV10ImXFG3AxH42) | [Serena Assumpção](https://open.spotify.com/artist/38mQKqohQ2VooBHJOkR14g), [Paula Pretta](https://open.spotify.com/artist/145l07Yb0sZFMiEvlHPPf7) | [Ascensão](https://open.spotify.com/album/15V1ZcZ3fsOEIQtVGlddXc) | 3:08 |
-| 96 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
+| 95 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
+| 96 | [Nanã](https://open.spotify.com/track/3VAWBQtMV10ImXFG3AxH42) | [Serena Assumpção](https://open.spotify.com/artist/38mQKqohQ2VooBHJOkR14g), [Paula Pretta](https://open.spotify.com/artist/145l07Yb0sZFMiEvlHPPf7) | [Ascensão](https://open.spotify.com/album/15V1ZcZ3fsOEIQtVGlddXc) | 3:08 |
 | 97 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 |
 | 98 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 |
 | 99 | [Hitzão da Porra](https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Hitzão da Porra](https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ) | 2:12 |
 | 100 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 
-Snapshot ID: `MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl`
+Snapshot ID: `MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm`

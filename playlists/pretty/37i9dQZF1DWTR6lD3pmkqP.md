@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,504 likes - 250 songs - 20 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,591 likes - 250 songs - 20 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [False Choice](https://open.spotify.com/track/1rMSGDMUWZ7UGn1pQml6n7) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freedom Exercise](https://open.spotify.com/album/2tIRMfpJTKnohm2FX8iBlN) | 4:54 |
 | 250 | [Honey Caturra](https://open.spotify.com/track/4DSNN0ESNucsjPJDUu2Tyr) | [jarjarjr](https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W) | [College Music Presents: Back on Track](https://open.spotify.com/album/4gyR4uReoyljtfVH7VyjL4) | 2:46 |
 
-Snapshot ID: `MCwxMjJhNGM5MjY4NzBhMWM1NDYyOWQ2MjBlMTNlZDE2ZDNmNmEzM2Y3`
+Snapshot ID: `MCwzNTE2MGNmODkxYzNiMmY1ZGFlNTgxM2Q4YmQzNmZlZTU5MjNkNTRi`

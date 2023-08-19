@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
 
-378 songs - 19 hr 2 min
+380 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [High Heels](https://open.spotify.com/track/7HH2qGXywdgAn5b2WHnkQq) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [High Heels](https://open.spotify.com/album/0IJZvRUdoGgvuiXKEibSdz) | 2:35 | 2022-10-07 |  |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-10 |  |
 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 | 2023-01-27 |  |
+| [HoeDown](https://open.spotify.com/track/09H4hLDWVdcQN4HB2h5pZj) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 3:23 | 2023-08-18 |  |
 | [Hold My Horses](https://open.spotify.com/track/2b42Ji4pWoTYnh0nxjnASa) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:00 | 2022-10-07 | 2022-11-14 |
 | [Hold My Horses](https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:00 | 2022-11-04 |  |
 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 | 2022-06-03 | 2022-07-29 |
@@ -185,6 +186,7 @@
 | [Hometown Hurricane](https://open.spotify.com/track/4bIgyKFroq4NOtHnAVcWCt) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Hometown Hurricane](https://open.spotify.com/album/5CwgpAwkUHJ4Yc1qiO4v6I) | 2:26 | 2023-04-21 | 2023-08-16 |
 | [Hometown Tonight](https://open.spotify.com/track/5Jqhy024ozWzluqSjWvTaS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Hometown Tonight](https://open.spotify.com/album/4WK2AD04WjBAS4Cip5yZ9N) | 2:48 | 2021-12-10 | 2023-01-04 |
 | [Horseshoes and Hand Grenades](https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Horseshoes and Hand Grenades](https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci) | 3:31 | 2022-03-04 | 2023-05-04 |
+| [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 | 2023-08-18 |  |
 | [How Do You Love](https://open.spotify.com/track/6deDpxfbapjMLgHoaNuAx6) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [How Do You Love](https://open.spotify.com/album/3s8fBzIbBGrRhlR2dOk4bq) | 3:30 | 2021-12-10 | 2023-01-21 |
 | [Hurry](https://open.spotify.com/track/2kMARX1YbBQgZUwkDo7kMj) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:10 | 2022-02-25 | 2022-06-11 |
 | [Hurts the Healing](https://open.spotify.com/track/5Ao5ZEjJNQCLuxCBIPRRJM) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Hurts the Healing](https://open.spotify.com/album/2uTfFkCuPeJPF5PzTCQcQb) | 2:42 | 2021-12-10 | 2023-01-04 |
@@ -255,7 +257,7 @@
 | [New Town](https://open.spotify.com/track/6tlbFPMLwzwU082LxKpqxq) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5E0LXGmyDlFqUkLFzLdxdH) | 3:12 | 2021-12-10 | 2022-02-26 |
 | [Night Like This](https://open.spotify.com/track/1Gge0cWZacGVTKaLu2EGOr) | [Robby Johnson](https://open.spotify.com/artist/1yKm1X4CnWuMKpiFXlDNgs) | [Night Like This](https://open.spotify.com/album/0jcLMA9wRISVImCPbV46Pk) | 3:58 | 2021-12-10 | 2022-01-01 |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 | 2022-07-09 |
-| [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr) | 2:25 | 2022-12-16 |  |
+| [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr) | 2:25 | 2022-12-16 | 2023-08-19 |
 | [No Limits \(feat\. Jimmie Allen\)](https://open.spotify.com/track/305Y0rejNFVeHkmyO5I57R) | [Fueled by 808](https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM), [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Limits \(feat\. Jimmie Allen\)](https://open.spotify.com/album/5lbMOKVS0bMuHe9su657Co) | 3:29 | 2023-01-27 |  |
 | [No One](https://open.spotify.com/track/0sGM6MBl8Oe6yMfW2pV7SJ) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/0PyKFrlxVGbIXSlYuvkTuU) | 3:42 | 2021-12-10 | 2023-05-04 |
 | [No Tellin'](https://open.spotify.com/track/2AA15YjJYN07vp0avGn4oG) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [No Tellin'](https://open.spotify.com/album/1bQCdmYrKD0XOVmvM2RMFR) | 3:07 | 2023-03-10 |  |

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  COPAK
 
-648 songs - 1 day 12 hr 40 min
+649 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [ETISÜ](https://open.spotify.com/track/1N4jZQZgvZMNMmZgYyUHJK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ETISÜ](https://open.spotify.com/album/67hOhiiOu0snIYLmU8GjW4) | 2:44 | 2022-07-21 | 2022-11-04 |
 | [Eventide](https://open.spotify.com/track/32xm4bKoUlr2mm0vIZbQXN) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Eventide](https://open.spotify.com/album/7nspYKpVkuDu54J4K2wlk7) | 4:00 | 2023-01-12 | 2023-05-26 |
 | [EVEREST](https://open.spotify.com/track/7uWMSgrpmIqhR0699brD2m) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [EVEREST](https://open.spotify.com/album/5bzShHfCajfcE0KgIrf2p2) | 3:26 | 2023-02-16 | 2023-07-14 |
+| [Every Summertime](https://open.spotify.com/track/1UoBxIqQHgoDmMyelylgqR) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Every Summertime](https://open.spotify.com/album/4HlObXWsrNkRfYEFhFCVOP) | 4:04 | 2023-08-17 |  |
 | [EVERYTHING WILL BE ALRIGHT](https://open.spotify.com/track/6yJ9UDcQdWEBYdPV73Tk1F) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [EVERYTHING WILL BE ALRIGHT](https://open.spotify.com/album/6n2QjAWoPUz6AJAej5rbi0) | 3:00 | 2023-03-24 | 2023-07-14 |
 | [Everything's Fine](https://open.spotify.com/track/4SKUShc0eAvOZoqqbgRAxn) | [The Royal Leisure](https://open.spotify.com/artist/6EbOsbRkFbQFWw3m0NteRv) | [Everything's Fine](https://open.spotify.com/album/5v8ezg9v6iEB2QLD0PqIpA) | 2:13 | 2022-05-26 | 2022-07-29 |
 | [Eyes Of Blue](https://open.spotify.com/track/44fhrMUAgaVXfkNNpePQ3u) | [Tsukki Soo](https://open.spotify.com/artist/32SqdbPx6eSzmgkpd6rgYI) | [Eyes Of Blue](https://open.spotify.com/album/4c2LIBqyFxTQMPfiTSrEbu) | 4:08 | 2022-10-13 | 2023-02-03 |

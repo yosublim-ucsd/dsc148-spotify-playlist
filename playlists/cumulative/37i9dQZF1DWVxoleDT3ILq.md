@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Charly Benavente
+> Todo el sonido indie de Chile\. Foto: pau
 
-393 songs - 23 hr 43 min
+396 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Estrella Fugaz](https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Estrella Fugaz](https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt) | 4:26 | 2022-05-27 | 2023-01-28 |
 | [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-04-15 | 2022-11-12 |
 | [Eufrasia en el Desierto](https://open.spotify.com/track/5WO2NbuoBRZUUsEmaNP2qZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [La Vida, un Viaje](https://open.spotify.com/album/0s5Bl5B9GQwI8c6kU0fE0d) | 4:07 | 2023-05-26 | 2023-07-14 |
-| [Eufrasia en el Desierto \- Demo](https://open.spotify.com/track/5mB4NbIA9lWbCx8emXhzm2) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Eufrasia en el Desierto \(Demo\)](https://open.spotify.com/album/2Ac9xJEoseepEa8eR8Zgul) | 3:32 | 2023-07-07 |  |
+| [Eufrasia en el Desierto \- Demo](https://open.spotify.com/track/5mB4NbIA9lWbCx8emXhzm2) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Eufrasia en el Desierto \(Demo\)](https://open.spotify.com/album/2Ac9xJEoseepEa8eR8Zgul) | 3:32 | 2023-07-07 | 2023-08-19 |
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 |  |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
@@ -150,7 +150,7 @@
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 | 2022-12-10 |
 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 | 2022-04-15 | 2022-08-06 |
 | [Frías](https://open.spotify.com/track/0WWZQYep6VPEJ540Lky528) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Reminiscencias](https://open.spotify.com/album/11mR2hSiH1drggBB5jiq0S) | 3:55 | 2022-04-15 | 2022-07-29 |
-| [Fue Lo Mejor](https://open.spotify.com/track/0czoXLxJeNu7s8ENCuJDJk) | [Talao](https://open.spotify.com/artist/4G6eO14m5K6yW0iWvZbu7u), [Perro de Caza](https://open.spotify.com/artist/7G3OVX8t3Riv8AIKSO94BR) | [Fue Lo Mejor](https://open.spotify.com/album/766iZgKIm61sJZMybaacsh) | 3:37 | 2023-08-04 |  |
+| [Fue Lo Mejor](https://open.spotify.com/track/0czoXLxJeNu7s8ENCuJDJk) | [Talao](https://open.spotify.com/artist/4G6eO14m5K6yW0iWvZbu7u), [Perro de Caza](https://open.spotify.com/artist/7G3OVX8t3Riv8AIKSO94BR) | [Fue Lo Mejor](https://open.spotify.com/album/766iZgKIm61sJZMybaacsh) | 3:37 | 2023-08-04 | 2023-08-19 |
 | [Fuego con Usté](https://open.spotify.com/track/5N4ZvLdH5uv3qjcve2wzUL) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57) | [Fuego con Usté](https://open.spotify.com/album/0epwZNWGDanwMH5sZKY2O2) | 3:05 | 2022-04-15 | 2022-07-29 |
 | [Fuego Con Usté](https://open.spotify.com/track/6XPvJuPBuoSlPH2nmNQgNU) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57) | [Fuego Con Usté](https://open.spotify.com/album/2g5WlfBZw4SFaiODjojCJg) | 3:05 | 2022-07-22 | 2022-12-10 |
 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 | 2022-09-02 | 2023-04-02 |
@@ -169,6 +169,7 @@
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 |  |
 | [intento 2: piénsalo bien](https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intento 2: piénsalo bien](https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47) | 3:44 | 2022-12-02 |  |
 | [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 | 2022-04-15 | 2022-10-08 |
+| [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 | 2023-08-18 |  |
 | [Inventar](https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ) | [José Vicentes](https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39) | [Inventar](https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr) | 3:42 | 2023-03-24 |  |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 | 2022-12-10 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
@@ -191,9 +192,10 @@
 | [La Resistencia](https://open.spotify.com/track/1M9rrn3d94oMrwuJRgVZ5W) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Resistencia](https://open.spotify.com/album/6wJYD7J46pVGUNZ3PA6YkJ) | 4:13 | 2023-05-26 |  |
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 |  |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 |  |
+| [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 |  |
 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 | 2022-11-11 |  |
 | [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 | 2023-04-09 |
-| [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-08-04 |  |
+| [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-08-04 | 2023-08-19 |
 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 | 2022-07-15 | 2023-01-28 |
 | [Like](https://open.spotify.com/track/7hB9FRqaIGGIxtz1615Z8A) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Like](https://open.spotify.com/album/1Ts5Ro0AlGvQsUqRRM3z90) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [Lisbeth](https://open.spotify.com/track/6S5z8N2yTM8Ofm2b72K6Ji) | [Trama](https://open.spotify.com/artist/50MfaRBfrDJIFOKwdigjy4) | [De Pequeñas Luces y Recuerdos Que Se Lleva el Mar](https://open.spotify.com/album/0pOo6JBybWLsmcWWO3bPrW) | 4:10 | 2022-04-15 | 2022-07-27 |
@@ -271,6 +273,7 @@
 | [Petronila](https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7) | [Belencha](https://open.spotify.com/artist/76nNpUoU7lXyRKmoAkKPTM), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Petronila](https://open.spotify.com/album/6gyKGERNhWJWIL76C9VRq6) | 3:31 | 2022-04-15 | 2022-07-29 |
 | [Piedad](https://open.spotify.com/track/4vYFrN4yxgUF3mzccFYAIs) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [Avena](https://open.spotify.com/album/3y2tTCdRWCM3VqKQpKEsVt) | 2:20 | 2023-08-04 |  |
 | [Piel](https://open.spotify.com/track/4AmhpqjEzqCVVUWuzyNf5l) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII) | [Piel](https://open.spotify.com/album/2LVCOZjkJAcFtfn7Iru7Ay) | 3:27 | 2022-04-15 | 2022-07-28 |
+| [Pienso en Ti](https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:07 | 2023-08-18 |  |
 | [pienso tanto en abrazarte](https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7) | [Koe](https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE), [LoCataLira](https://open.spotify.com/artist/41EwEKA7CUCUGvwu2cP0c8) | [pienso tanto en abrazarte](https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70) | 3:38 | 2022-07-22 | 2023-03-25 |
 | [PIÑA](https://open.spotify.com/track/1hH1l9tujegA2cpwesXEJH) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [PIÑA](https://open.spotify.com/album/4VNoUHYMwdSivQzWmxpYZx) | 3:18 | 2022-04-15 | 2023-01-28 |
 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-04-15 | 2022-10-06 |

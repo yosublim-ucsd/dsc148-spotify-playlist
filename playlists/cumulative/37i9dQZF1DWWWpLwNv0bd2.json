@@ -2141,20 +2141,28 @@
     },
     {
       "album": {
-        "name": "Nila Mugam",
+        "name": "Nila Mugam (Original Soundtrack)",
         "url": "https://open.spotify.com/album/38CANBgULMTQb6XwT4wUCL"
       },
       "artists": [
         {
           "name": "Sam Vishal",
           "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        },
+        {
+          "name": "Sebastin Rozario",
+          "url": "https://open.spotify.com/artist/6zn3QoKgnSOZx7Q2QE2dVF"
+        },
+        {
+          "name": "Ahamed Shyam",
+          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
         }
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233709,
-      "name": "Nila Mugam",
+      "name": "Nila Mugam (Original Soundtrack)",
       "url": "https://open.spotify.com/track/0Ov9nKu1EY14LKeGpWAJBV"
     },
     {

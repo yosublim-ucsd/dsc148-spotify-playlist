@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-172 songs - 9 hr 18 min
+173 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chinese \(feat\. King Savagge\)](https://open.spotify.com/track/3riIoSIEMCU45UDaVuc7v2) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:21 | 2023-03-30 |  |
 | [Como Lo Soñamos](https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW) | 3:16 | 2022-01-20 | 2022-07-29 |
 | [Como Lo Soñamos](https://open.spotify.com/track/41pHCnygRX0uSLjX27uIqa) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/2kIi0RG1UBF33p5FiWoTHb) | 3:18 | 2022-07-22 |  |
+| [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 | 2023-08-18 |  |
 | [Dale Tu Kolin](https://open.spotify.com/track/40n3urD4QnPkPi7kSlk7kx) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Flaites NY](https://open.spotify.com/album/2q7TNii8WNMbkmNRbenrgV) | 3:27 | 2022-01-20 |  |
 | [Denssy](https://open.spotify.com/track/7klrg9kfWJ2te3oJZIZjSU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:01 | 2022-01-20 | 2023-02-25 |
 | [Desahogo](https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 4:01 | 2023-03-30 |  |

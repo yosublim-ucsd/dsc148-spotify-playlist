@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,864 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,988 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [Help Me Down](https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:40 |
 | 100 | [Woman](https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz) | 3:49 |
 
-Snapshot ID: `MCxmY2E4OTVkM2Y4NTM1NzhiMTU3OThkM2ZiZmUxYTExMWQ5ZDFhMjNm`
+Snapshot ID: `MCw2MWQyN2ViMzY4MjNhNGUyOGQzNGViMGM3MDVkZmVmNGFjNDkzMGU4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-12",
-  "description": "putting the tech in tech house",
+  "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
   "name": "techno party",
   "tracks": [
     {
@@ -68,10 +68,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 131555,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/4ECNacdSKalElOM7Verr01"
+    },
+    {
+      "album": {
+        "name": "BARBEE (On Acid)",
+        "url": "https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208427,
+      "name": "BARBEE - On Acid",
+      "url": "https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s"
     },
     {
       "album": {
@@ -418,7 +440,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168280,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/1vUZJ35SGzEtmlgb0ts81v"
@@ -462,6 +484,54 @@
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
+    },
+    {
+      "album": {
+        "name": "Industria",
+        "url": "https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211384,
+      "name": "Industria",
+      "url": "https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/4DQOJ5txr1aWj1Fla6xGD7"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/3IiaXjozWhgtO7CZmj41hL"
     },
     {
       "album": {
@@ -608,7 +678,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 297186,
       "name": "Moar Ghosts 'n' Stuff - Extended Mix",
       "url": "https://open.spotify.com/track/1iAzwiJpnYXCI3xRfoEuYk"
@@ -674,7 +744,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 547064,
       "name": "On Off",
       "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
@@ -718,6 +788,28 @@
       "duration_ms": 205668,
       "name": "OPEN YOUR MIND",
       "url": "https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV"
+    },
+    {
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     },
     {
       "album": {
@@ -991,6 +1083,36 @@
     },
     {
       "album": {
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "The Vic",
+          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo"
       },
@@ -1020,7 +1142,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 290322,
       "name": "Variant",
       "url": "https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,196 likes - 82 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,242 likes - 82 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 |
 | 82 | [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 |
 
-Snapshot ID: `MCwyODAwZjYyYWQyYzU0YmMzNzM2Yzk5ZTY4YTM0ZmNkMWEyZGVlOWRh`
+Snapshot ID: `MCwxYWU0NzA1MjQ3NjY1Yjg1ZjhmNmFlMjAzODBmNTg3OTE4MjA0NDgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,514 likes - 250 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,512 likes - 250 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 249 | [Born To Live](https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Born To Live](https://open.spotify.com/album/0MLSAK0yRUh7ptFnYAsEnI) | 2:46 |
 | 250 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 |
 
-Snapshot ID: `MCwxNDc2NjE2N2U3ZTVhNjEzZjg5NGU4NDVhZDY1YmU2ZmNiMmM5YjBm`
+Snapshot ID: `MCwxYmI1NThjOWQ2ODkxZjJiNWRjNmNiMjJjYWVjZGVkZWRiMDM2MTU2`

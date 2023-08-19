@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Chacho y Su Vagancia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,753 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,954 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Todo Es Diferente](https://open.spotify.com/track/7ppXlZ2376a0Ci6fxJB1br) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Todo Es Diferente](https://open.spotify.com/album/2c0I79Gj9Q8SzwxFIENA3a) | 3:34 |
 | 125 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 |
 
-Snapshot ID: `MCw2ZDRkMWU5YzlkNjM3ZjM3NGQzMWY3NDBlMzA2OTQ1MmZmYTlmZjU0`
+Snapshot ID: `MCwwYmFkNTRjZTlhYmM1ZTg3MDE0OTdjZWJjNGUxYmVjMGI5YWY4YThi`

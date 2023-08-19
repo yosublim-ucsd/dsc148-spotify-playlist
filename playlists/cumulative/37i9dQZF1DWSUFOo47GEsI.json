@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204500,
       "name": "Aestate Nocte",
       "url": "https://open.spotify.com/track/33kX0nz5uT0zqq3EYWvUjf"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 162118,
       "name": "Blue Sphere",
       "url": "https://open.spotify.com/track/3aQ46BOZ8C3fOfSFfyEcwq"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168214,
       "name": "Cesia",
       "url": "https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 193706,
       "name": "Covering the Sun",
       "url": "https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp"
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165000,
       "name": "Grandmas Tune",
       "url": "https://open.spotify.com/track/2xwPqQD4nQEiEOh5dXi3H3"
@@ -4117,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "One Drope On World",
+        "url": "https://open.spotify.com/album/1zQSTded6rxRs9eTj42mml"
+      },
+      "artists": [
+        {
+          "name": "SWAMP&STAR",
+          "url": "https://open.spotify.com/artist/3l9cGKVRvyJHWSNDOb6fd5"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "One Drope On World",
+      "url": "https://open.spotify.com/track/14lFQ2ennhUQyDvS7LIxB8"
+    },
+    {
+      "album": {
         "name": "Ons",
         "url": "https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu"
       },
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170565,
       "name": "Origami Age",
       "url": "https://open.spotify.com/track/121YyIOmTlu4Da9HgkZrJU"
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 181132,
       "name": "Quiet Awareness",
       "url": "https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz"
@@ -4848,7 +4866,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 157800,
       "name": "Seneca Rise",
       "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
@@ -5532,7 +5550,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 180000,
       "name": "Ta chaleur",
       "url": "https://open.spotify.com/track/1svn4a7lSTz623VTmqZKSi"
@@ -6216,7 +6234,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228610,
       "name": "Vila",
       "url": "https://open.spotify.com/track/0jyK7saNqvRSHlp0HU00z3"
@@ -6360,7 +6378,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 218500,
       "name": "What's Best For You",
       "url": "https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl"

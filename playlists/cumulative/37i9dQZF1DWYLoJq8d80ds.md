@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Soledad
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los del Portezuelo, Flor Paz & Francisco Benitez.
 
-148 songs - 8 hr 14 min
+150 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 | 2021-12-31 |  |
 | [La Olvidada](https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Olvidada](https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ) | 2:34 | 2023-07-14 |  |
 | [La Otra Estrella](https://open.spotify.com/track/3MoJok6W9Ps8RYzvGkXK8o) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Otra Estrella](https://open.spotify.com/album/4eEv0ca3Y0uo26gySixvxi) | 2:47 | 2023-06-02 |  |
-| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
+| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 | 2023-08-19 |
 | [La Revancha](https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU) | 2:35 | 2022-11-04 |  |
 | [La Sachapera](https://open.spotify.com/track/4AtnAMuqST1ZkEaTaXr2fa) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [La Sachapera](https://open.spotify.com/album/0fhJaycokyiWhvhnlUPHth) | 3:25 | 2021-12-31 |  |
 | [La Sembradora](https://open.spotify.com/track/0XyqBaoT1pjHNAFbNYpM2D) | [Germán Asis](https://open.spotify.com/artist/7et3MQLeWcD0rDQMf1h3hs), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX) | [La Sembradora](https://open.spotify.com/album/6sTrPx3XKKRgSb1aWCvw6c) | 2:59 | 2022-07-01 |  |
@@ -92,6 +92,7 @@
 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 |  |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 | 2022-10-08 |
 | [Lo Jujeño](https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Lo Jujeño](https://open.spotify.com/album/5ruxuaQ8tKTXlNMqSZu3hX) | 2:14 | 2023-01-27 |  |
+| [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-18 |  |
 | [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 | 2022-03-12 |
 | [Mi Fe](https://open.spotify.com/track/3SeELV9ls4SHFg6bsbNqW6) | [Los Rojas](https://open.spotify.com/artist/2Jro2lFfaK1LiUIIY8Ff48) | [Mi Fe](https://open.spotify.com/album/6OT3Ld1cSlVqhH7VoyYRmj) | 2:13 | 2021-12-31 |  |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
@@ -119,6 +120,7 @@
 | [Primavera \(with Franco Luciani\)](https://open.spotify.com/track/3Bg0CkhlKicxlarJMubrju) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 5:04 | 2021-12-31 |  |
 | [Píntame de Azul](https://open.spotify.com/track/42JmlitcqfYsUmDwgDMjQ1) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Píntame de Azul](https://open.spotify.com/album/21A8zImrUqeHr0x9jK9Y8O) | 3:50 | 2021-12-31 |  |
 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 | 2021-12-31 |  |
+| [Santo Remedio](https://open.spotify.com/track/2HoFKu6ZTMTozR2wksXApW) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Santo Remedio](https://open.spotify.com/album/4VeHkt4dygRUrozJZHkU4e) | 3:52 | 2023-08-18 |  |
 | [Septiembre Azul](https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi) | [Septiembre Azul](https://open.spotify.com/album/1zR4ZOHugUOaapOrrbQuBU) | 3:10 | 2021-12-31 |  |
 | [Si Acaso Regresaras](https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Si Acaso Regresaras](https://open.spotify.com/album/1oJMF6AUvk5MLoGIhEC6nr) | 3:08 | 2021-12-31 | 2022-02-05 |
 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si No Te Vuelvo a Ver](https://open.spotify.com/album/4I2nmRLtjWyFoNdHP6W9op) | 3:18 | 2021-12-31 |  |

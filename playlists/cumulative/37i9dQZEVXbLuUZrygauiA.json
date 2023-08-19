@@ -2759,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
@@ -10784,7 +10802,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164482,
       "name": "LA 701",
       "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"

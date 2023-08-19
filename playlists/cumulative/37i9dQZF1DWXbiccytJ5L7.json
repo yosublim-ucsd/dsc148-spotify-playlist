@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Bury Me With Bourbon",
+        "url": "https://open.spotify.com/album/0C3r7rvvipfjt7wS29BTvk"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bury Me With Bourbon",
+      "url": "https://open.spotify.com/track/0wBLVgwVRCRUr4YKf126Ou"
+    },
+    {
+      "album": {
         "name": "Jones In Ya Speaker",
         "url": "https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk"
       },
@@ -1151,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Ice Cold Beer",
+        "url": "https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx"
+      },
+      "artists": [
+        {
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Ice Cold Beer",
+      "url": "https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk"
+    },
+    {
+      "album": {
         "name": "Time to Get Right",
         "url": "https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB"
       },
@@ -1540,6 +1576,28 @@
       "duration_ms": 213333,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/2lNRmLIgGeLvXbG2Pb1uss"
+    },
+    {
+      "album": {
+        "name": "PROBLEM SOLVER (feat. Boosie Badazz)",
+        "url": "https://open.spotify.com/album/6pVcnrOSDmOgABZvzKOfxC"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "PROBLEM SOLVER (feat. Boosie Badazz)",
+      "url": "https://open.spotify.com/track/1B2BxeaI10RhzDwfJvbV7k"
     },
     {
       "album": {

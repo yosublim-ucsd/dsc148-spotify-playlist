@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,034 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,130 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [Hanky Panky](https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:52 |
 | 100 | [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 |
 
-Snapshot ID: `MCxmYjAwN2Q4NTc4YjYyMDUzNDJiYzlmMjViMjUzMzkyNjZjMmU2NDUy`
+Snapshot ID: `MCxmNWI1ZTgxYjJiMzg4MTBjZDIzNDkyYWRjNjBlNjI2ZmUyMzBiODVl`

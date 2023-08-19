@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Megan Moroney
+> Today's top country hits\. Cover: Warren Zeiders
 
-664 songs - 1 day 11 hr 49 min
+665 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 | 2020-08-07 | 2021-04-17 |
 | [Downtown Baby](https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Downtown Baby](https://open.spotify.com/album/2dbQaQFGQjxmQxicnp0701) | 2:47 | 2022-04-08 | 2022-07-09 |
 | [Drink About Me](https://open.spotify.com/track/1kC07qGOyx8w7ON5k8xHOp) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Now or Never](https://open.spotify.com/album/175wot2CVm3ZAt5REOm7da) | 3:11 | 2020-01-18 | 2020-05-09 |
-| [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 | 2023-03-03 |  |
+| [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 | 2023-03-03 | 2023-08-19 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1UYfAU2bwgjaM5rIIPQleC) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/5H6lxubLtZamdoXEmVmcbz) | 2:40 | 2020-12-03 | 2021-08-14 |
 | [Drinkin' Terms](https://open.spotify.com/track/0leBYsvyyFSXc1aeuFVgTD) | [Cody Purvis](https://open.spotify.com/artist/3uVEo0XTel7WqHQlSnRehM) | [Drinkin' Terms](https://open.spotify.com/album/51TUPlYZ6L19N3whHf2nbT) | 2:56 | 2019-05-26\* | 2019-06-15 |
 | [Drinking Alone](https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:18 | 2020-05-02 | 2020-06-21 |
@@ -488,6 +488,7 @@
 | [Seaside](https://open.spotify.com/track/6uLhIbdIXQ4DGeOA8qFesw) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Seaside](https://open.spotify.com/album/4YD0A6DxqXubekaRwZRpl5) | 3:00 | 2020-07-19 | 2020-11-22 |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/24uZaMwLQ0G8ZQfTt7f64B) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6\-Pack](https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma) | 3:06 | 2020-06-14 | 2020-06-21 |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/3TDJO3Vb1N4MXjYXYuAfAC) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Second Guessing \(From Songland\)](https://open.spotify.com/album/4Uh3V45HNJKNQdYsyW4Xci) | 3:06 | 2020-05-20 | 2020-06-14 |
+| [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 | 2023-08-18 |  |
 | [Seeing Other People](https://open.spotify.com/track/33PK3OdG3Z53gFYN7kiI3b) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Seeing Other People](https://open.spotify.com/album/3x1Q4Iq2LkxAuWlVm6QuIu) | 3:02 | 2020-03-14 | 2020-06-21 |
 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 | 2020-11-10 | 2021-08-14 |
 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-02-06 | 2021-02-20 |

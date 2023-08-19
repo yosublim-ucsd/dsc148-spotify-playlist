@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,812 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,858 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Interlude 03](https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [Interlude 03](https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl) | 3:19 |
 | 75 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
 
-Snapshot ID: `MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4`
+Snapshot ID: `MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj`

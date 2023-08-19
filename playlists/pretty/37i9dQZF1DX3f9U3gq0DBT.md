@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,386 likes - 130 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,423 likes - 130 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 46 | [Northshore Waves](https://open.spotify.com/track/2H00sQz1BcMPtUYtmCBgRv) | [Water Meditations](https://open.spotify.com/artist/1DPlfmeS7GBX9w1GvOqR6D) | [Northshore Waves](https://open.spotify.com/album/7iB2dRwjXirHBjp4ijeiua) | 2:35 |
 | 47 | [Guided by the Rocks and the Rolling Sea](https://open.spotify.com/track/4wgfLLN0iLPR9mypcRIEL7) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 2:52 |
 | 48 | [Flowing Through Me](https://open.spotify.com/track/3kl2pNDxGQPFlVc7vcgZ41) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Nautical Days](https://open.spotify.com/album/5Sd5iK6P9H1zcoQGp5di2m) | 2:27 |
-| 49 | [Soothing Waves](https://open.spotify.com/track/6xUeaS7PWP8CPU98JW0iSY) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Gentle Waves](https://open.spotify.com/album/7tM4OvM5AlaiTpZCMmH7hy) | 3:16 |
-| 50 | [White Sand \(Ocean\)](https://open.spotify.com/track/7Cc199uIoKo3YoCrV6dp3p) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Calm Sounds of Nature](https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE) | 3:12 |
+| 49 | [White Sand \(Ocean\)](https://open.spotify.com/track/7Cc199uIoKo3YoCrV6dp3p) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Calm Sounds of Nature](https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE) | 3:12 |
+| 50 | [Soothing Waves](https://open.spotify.com/track/6xUeaS7PWP8CPU98JW0iSY) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Gentle Waves](https://open.spotify.com/album/7tM4OvM5AlaiTpZCMmH7hy) | 3:16 |
 | 51 | [Bay Waves on Rocks and Sand](https://open.spotify.com/track/4VcdO0QFQlTdrOsw6bgRgS) | [Oceans and Oceans](https://open.spotify.com/artist/3ZLF0UFllODjILvQs3fzRJ) | [Calming Waves](https://open.spotify.com/album/5703gx47zUeK2Yat4lFuQ1) | 3:01 |
 | 52 | [At The Beach](https://open.spotify.com/track/7tIOQYgxPAxvHOlofTIVSP) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Natural Waves](https://open.spotify.com/album/7i5eJTVsEEYbeo8ePJ4B3y) | 2:25 |
 | 53 | [Sleep TIme Waves](https://open.spotify.com/track/7KOxxqwcxwMZIFoCFHP41F) | [The Mindful](https://open.spotify.com/artist/5emKKqhb4oYf9k3sWw0At9) | [Good Night Nap Waves](https://open.spotify.com/album/0p8n8vwpJNu4r0w5ww1Xzb) | 2:59 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 71 | [Waves in Capbreton](https://open.spotify.com/track/30GcqYrwMhloErNPfWZKMR) | [Ocean in HD](https://open.spotify.com/artist/2SveYJjEGhckzCzGg3J9Xq) | [Ocean Waves](https://open.spotify.com/album/1g4CXHJpJywHXFeX9CVqLE) | 2:53 |
 | 72 | [Thai Beach Chill \- Waves](https://open.spotify.com/track/3GRvbmUuO1ePIlQcl9xYwH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Thai Beach Chill](https://open.spotify.com/album/7x8gFJ5nkJS1mf5chINJ7O) | 2:59 |
 | 73 | [Bedtime Sunset Waves](https://open.spotify.com/track/29DGWQgUhlHY1ekIA2yQIj) | [Aqunu](https://open.spotify.com/artist/7rqVJr6byVc4ItRXmbwhPG) | [Bedtime Sunset Waves](https://open.spotify.com/album/3S4JxYpUncm6yXWUdQXdaW) | 2:38 |
-| 74 | [Dockland Sunset Waves](https://open.spotify.com/track/1zOgdESmxPLNHqr5WNf04R) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Dockland Sunset Waves](https://open.spotify.com/album/4L8vYWebv1XnR16mbA5Q2T) | 2:11 |
-| 75 | [Shoreline Relaxation](https://open.spotify.com/track/7BMTFhnhCu0pP0Z1ADGLTj) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Shoreline Relaxation](https://open.spotify.com/album/1ChJEhoIieZNQVTL4QDMWI) | 3:26 |
+| 74 | [Shoreline Relaxation](https://open.spotify.com/track/7BMTFhnhCu0pP0Z1ADGLTj) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Shoreline Relaxation](https://open.spotify.com/album/1ChJEhoIieZNQVTL4QDMWI) | 3:26 |
+| 75 | [Dockland Sunset Waves](https://open.spotify.com/track/1zOgdESmxPLNHqr5WNf04R) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Dockland Sunset Waves](https://open.spotify.com/album/4L8vYWebv1XnR16mbA5Q2T) | 2:11 |
 | 76 | [Florida Rain Storm](https://open.spotify.com/track/7Gvyowqht3otAnELmNcXvQ) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:14 |
 | 77 | [Sitting By The Beach Then Jumping In](https://open.spotify.com/track/0Cp445LHoSJYVa3XuNAzS3) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 3:48 |
 | 78 | [Lighthouse Waves](https://open.spotify.com/track/6ZiraCpLeTf9RO1vHbtfMo) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Lighthouse Waves](https://open.spotify.com/album/3DD8Y5K7p6jR3xp7FUDPdZ) | 2:25 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 93 | [Calm Beach](https://open.spotify.com/track/1sA0FZCIkz1PsHT9CHMA7n) | [Sound Geeks](https://open.spotify.com/artist/4OVXlYamgikr5bet2Cnwcg) | [Morning Waves](https://open.spotify.com/album/1wMa1BDaPNpgD64OWJfAui) | 3:24 |
 | 94 | [Calming Wave Sounds](https://open.spotify.com/track/60DW6gPnqW3QRyCa6HdnBY) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Gentle Waves](https://open.spotify.com/album/0fDNoZRNwO0NuV3PEsENsb) | 2:54 |
 | 95 | [Sleepy Wave Crashes](https://open.spotify.com/track/6lrRldi6EPan1Wb32Zp8pW) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Sleeping Sea](https://open.spotify.com/album/18ILKhH92zixHoHbWDwMUF) | 4:30 |
-| 96 | [Flowing Ocean Noise](https://open.spotify.com/track/0PayCxo3mUg31Ph0B7w8gS) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Flowing Ocean Noise](https://open.spotify.com/album/1CnwtdOHoQT4luBBJmMpKW) | 2:28 |
-| 97 | [Clearwater Waves](https://open.spotify.com/track/57KJiJWvaoV1el0dz1kJ2G) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves and Shoreline Ambience](https://open.spotify.com/album/4UqqEB4Mycrza8NctqK5LS) | 3:04 |
+| 96 | [Clearwater Waves](https://open.spotify.com/track/57KJiJWvaoV1el0dz1kJ2G) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves and Shoreline Ambience](https://open.spotify.com/album/4UqqEB4Mycrza8NctqK5LS) | 3:04 |
+| 97 | [Flowing Ocean Noise](https://open.spotify.com/track/0PayCxo3mUg31Ph0B7w8gS) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Flowing Ocean Noise](https://open.spotify.com/album/1CnwtdOHoQT4luBBJmMpKW) | 2:28 |
 | 98 | [Country Side Waves](https://open.spotify.com/track/3RCJ9ZPvM1sbZ1uSwlEgyH) | [Lullaby Waves](https://open.spotify.com/artist/7AAUTALWYtiP3o5TUHHyjj) | [Lullaby Waves](https://open.spotify.com/album/4heWfxzUYEryrwDSiTOFiv) | 2:05 |
 | 99 | [In the Dock](https://open.spotify.com/track/4iGwNuIwLMfrEHBCrz7Pyd) | [Relaxing Ocean Library](https://open.spotify.com/artist/6e8BCppIC0GAeFBeKSYaSt) | [Relaxing Ocean Library](https://open.spotify.com/album/1AQhJlcLfvwTRk8INmu1Qy) | 3:16 |
 | 100 | [Seagull's Song](https://open.spotify.com/track/5ezlsYbXfhMQTh5BH904PT) | [Ocean Bank](https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr) | [Dancing with the Sea](https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7) | 2:01 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 129 | [Kanuai \(Ocean\)](https://open.spotify.com/track/4wRiFf2qd2r2RtNZLIL0WC) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:18 |
 | 130 | [Slow Laps Background Ocean](https://open.spotify.com/track/6ex0RelF7uGg4I8zoJlCTN) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Ocean's Edge](https://open.spotify.com/album/2XSyhlBiYtUsjuJ3gB0shQ) | 2:56 |
 
-Snapshot ID: `MCwxZWZmZjhlMmI3NWQxYzM2ZmMwYWY3NjI2NDZjZGYzZWNlNjVlY2Q5`
+Snapshot ID: `MCxiNTk5N2IxZGVmZGI3OTBjNzdmZmMwNzZkZTA5ZWJjMzRmZjQ1OThj`

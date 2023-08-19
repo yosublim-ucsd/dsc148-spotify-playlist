@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 228577,
       "name": "A Gentle Awakening",
       "url": "https://open.spotify.com/track/1LTf9gNrsgnqetfBwsuVSL"
@@ -5122,7 +5122,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 208000,
       "name": "Drift Through the Need",
       "url": "https://open.spotify.com/track/15mfP42t0kKFtxbWVakQWa"
@@ -11119,6 +11119,28 @@
     },
     {
       "album": {
+        "name": "Movement VII",
+        "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197777,
+      "name": "Movement VII",
+      "url": "https://open.spotify.com/track/1KnHu2HptVLiKUPn90842Z"
+    },
+    {
+      "album": {
         "name": "Moving Mountains",
         "url": "https://open.spotify.com/album/5R1yaDZkgjvbVH4obDl8gu"
       },
@@ -11173,6 +11195,24 @@
     },
     {
       "album": {
+        "name": "Mugen",
+        "url": "https://open.spotify.com/album/0fJ2itl5OCJmvEB2E392y4"
+      },
+      "artists": [
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Mugen",
+      "url": "https://open.spotify.com/track/4RYclrCAAA1jUtLCjKjHJr"
+    },
+    {
+      "album": {
         "name": "Murmur (Machinefabriek Remix)",
         "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
       },
@@ -11206,7 +11246,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 368703,
       "name": "Music For Growing Flowers - Edit",
       "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
@@ -13074,7 +13114,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200013,
       "name": "Pause - Reimagined by Hinako Omori",
       "url": "https://open.spotify.com/track/0ZmLT1FDXPa831isUVS7gV"
@@ -14116,6 +14156,28 @@
       "duration_ms": 251370,
       "name": "Refugees - Frieder Nagel Rework",
       "url": "https://open.spotify.com/track/4nBJVZUj5NrVt4NI8xzw8f"
+    },
+    {
+      "album": {
+        "name": "regrets",
+        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        },
+        {
+          "name": "Raynix",
+          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136145,
+      "name": "regrets - Slowed",
+      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
     },
     {
       "album": {
@@ -19428,6 +19490,24 @@
       "duration_ms": 287198,
       "name": "Wall of Sleep",
       "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
+    },
+    {
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/3GWc3v2tqB5uSiJBpB0HNq"
+      },
+      "artists": [
+        {
+          "name": "Francesco Siano",
+          "url": "https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/1oA7O8vf7psdrFcXTbUMbT"
     },
     {
       "album": {

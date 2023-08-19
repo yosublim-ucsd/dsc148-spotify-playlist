@@ -9549,6 +9549,32 @@
     },
     {
       "album": {
+        "name": "EWIGKEIT (REMIX)",
+        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
+      },
+      "artists": [
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "EWIGKEIT - REMIX",
+      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "album": {
         "name": "EXPENSIVE SHIT",
         "url": "https://open.spotify.com/album/4vyLq81eCLym8QJtOrtTVP"
       },
@@ -14728,7 +14754,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 222633,
       "name": "I\u2019m Just Ken (From Barbie The Album)",
       "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
@@ -20376,7 +20402,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -22714,7 +22740,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"

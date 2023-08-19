@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,547 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,695 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Walk That Walk, Talk That Talk](https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Cosmic Vortex \(Justice Divine\)](https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52) | 7:50 |
 | 90 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
 
-Snapshot ID: `MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl`
+Snapshot ID: `MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3`

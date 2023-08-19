@@ -4,7 +4,7 @@
 
 > Milo J, Bhavi, Duki & LIT killah en la casa del Trap Argentino.
 
-220 songs - 10 hr 36 min
+221 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Si Supieras](https://open.spotify.com/track/3bb2XfPK0AvSuztY9kJzW9) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:45 | 2022-01-21 | 2022-11-12 |
 | [Si Viene](https://open.spotify.com/track/1zgsPCOjI8mo5ppsYRwgLO) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Si Viene](https://open.spotify.com/album/2FVxQkFqXOjdqDXv35hmaT) | 2:00 | 2022-01-21 | 2022-04-02 |
 | [Sin Dudar](https://open.spotify.com/track/0Ngq1ZDzAZERsiBfmbacgL) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Sin Dudar](https://open.spotify.com/album/73OkatcQIyfZ51l6gxzFyw) | 3:12 | 2022-07-29 | 2023-01-14 |
+| [Sin Seguro](https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Sin Seguro](https://open.spotify.com/album/6kLqLQ54MsqhTirkuDZfu8) | 2:33 | 2023-08-18 |  |
 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 | 2023-02-24 |  |
 | [Sold Out Dates](https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sold Out Dates](https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG) | 2:21 | 2022-01-21 |  |
 | [Solo en la Capital](https://open.spotify.com/track/17buDxmd7vsHfSiHChazkS) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Atrapado en las Colinas](https://open.spotify.com/album/2Tuewq0PbKjIgUtIuCx1PL) | 2:42 | 2022-01-21 |  |

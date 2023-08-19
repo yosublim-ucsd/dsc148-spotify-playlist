@@ -1,28 +1,32 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: RAAHiiM",
-  "num_followers": 2351894,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Jessie Reyez & Miguel",
+  "num_followers": 2352268,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjIzOTNmYmUzYTNiMGYwMWMxNDEwYjJiMGYyNDk2MTViYjA4M2Ew",
+  "snapshot_id": "MCw4MmNlOTJkNjJhOTBlMDY4YjcwNzNjOTlhOTNjMGU4ZGYyZDIzNjFk",
   "tracks": [
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+        "name": "JEANS",
+        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
       "artists": [
         {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 205546,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx"
+      "duration_ms": 195186,
+      "name": "JEANS (with Miguel)",
+      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -73,6 +77,22 @@
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 189202,
+      "name": "Treasure In The Hills",
+      "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
+    },
+    {
       "added_at": "2023-06-30 04:00:44",
       "album": {
         "name": "Mad At Fire",
@@ -105,20 +125,20 @@
       "url": "https://open.spotify.com/track/5ZWbzxXxywmBQI0eHDUmLV"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "OUTTA CONTROL",
-        "url": "https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi"
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
         }
       ],
-      "duration_ms": 207000,
-      "name": "OUTTA CONTROL",
-      "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
+      "duration_ms": 205546,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx"
     },
     {
       "added_at": "2023-06-16 04:33:15",
@@ -159,6 +179,22 @@
       "duration_ms": 201464,
       "name": "MUSTARD (WITH 6LACK)",
       "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 192022,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -297,6 +333,22 @@
       "url": "https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Intentional",
+        "url": "https://open.spotify.com/album/1Q9sstiNguU45sRy8I8iXa"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 194235,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/38jhsyeLF4zr4P5I6dMeSq"
+    },
+    {
       "added_at": "2023-07-14 04:54:12",
       "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
@@ -321,6 +373,26 @@
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/0MOXOTpfhSdr2sOUg1EZcQ"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/4VfjUbKtTaZsQriNud6Iz2"
+    },
+    {
       "added_at": "2023-06-30 04:00:44",
       "album": {
         "name": "Girls Like You",
@@ -335,6 +407,62 @@
       "duration_ms": 173223,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Songs For Women, Free Game For Niggas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 172584,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/1qcK3L590ZCyLu1UPtTb5o"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "OUTTA CONTROL",
+        "url": "https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "OUTTA CONTROL",
+      "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "U Should Be Mine",
+        "url": "https://open.spotify.com/album/1SAL8acM2LnCU1GmQpks37"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 205661,
+      "name": "U Should Be Mine",
+      "url": "https://open.spotify.com/track/6babFcorQ58c4wRURJARaE"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -449,6 +577,26 @@
       "url": "https://open.spotify.com/track/5T6MaD8kh2Sj5nUEM4DZXE"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3NCYgSaRffcH4a5Vw5bNTg"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 174855,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4lYpoz9pRsUKHazWsKq1QV"
+    },
+    {
       "added_at": "2023-07-14 04:54:12",
       "album": {
         "name": "No Way",
@@ -463,6 +611,22 @@
       "duration_ms": 173483,
       "name": "No Way",
       "url": "https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Passenger Princess",
+        "url": "https://open.spotify.com/album/6wLBAVTUjVhwJ5AATa4oWs"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 217430,
+      "name": "Passenger Princess",
+      "url": "https://open.spotify.com/track/5ILp3IxMiSxucBx00cSWSr"
     },
     {
       "added_at": "2023-07-14 04:54:12",
@@ -2617,22 +2781,6 @@
       "url": "https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/6sQl8OMZU75x9fLCRzQV02"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Consistency",
-      "url": "https://open.spotify.com/track/2mqVR4y490UrJAtWEEW1UW"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Just Expectationz",
@@ -2651,22 +2799,6 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229854,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -2855,22 +2987,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Figures",
-        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 152590,
-      "name": "Figures",
-      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
       "added_at": "2022-09-30 17:00:17",

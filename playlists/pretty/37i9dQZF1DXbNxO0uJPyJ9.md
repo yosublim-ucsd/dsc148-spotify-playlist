@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,313 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,584 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
 | 80 | [Precious Little Diamond \- 12" Mix](https://open.spotify.com/track/2IilSSaVhuQLjCqlubC4qE) | [Fox the Fox](https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9) | [Collections](https://open.spotify.com/album/4zEi9uAv9KKrYTG2bLDeCT) | 5:09 |
 
-Snapshot ID: `MCwyMWVlYzE5YzA0NmYzNGI1MWIwZWY1MTU4NTQ3YTQwNzZjZWY4NGQ2`
+Snapshot ID: `MCxjY2U1ZDRlNzY5NWEyN2JiMmZlZGE1ZjhlNGYzMzUzY2QxOGMwZjg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,995 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,049 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [The Orchardist](https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:07 |
 | 100 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 |
 
-Snapshot ID: `MCxiNzE1MjhmZjgwOTY4ZmQ2NmY3NDMyMWI0Mjk2ZWUyMGZjNzVhOTY0`
+Snapshot ID: `MCwyOWY3MTMxZTkzNmU1YmEzMDNjN2ZmMTFiNjY1Y2E5MmI1YWE1ODYw`

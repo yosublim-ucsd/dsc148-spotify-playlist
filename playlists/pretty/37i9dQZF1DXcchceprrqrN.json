@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 50943,
+  "num_followers": 51116,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTkyYzczMTEwMWYwNzU1ODgwZDkxYmYxMzg3YjA0Nzk1ZGZmOTVk",
+  "snapshot_id": "MCwyMWNiZGVhOWM2NGZjYjg5OWI3NTExYjJkYTg5NGRjNDU3MDYyNzFj",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -707,30 +707,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "call and i'll answer",
-        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
-      },
-      "artists": [
-        {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        },
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        },
-        {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
-        }
-      ],
-      "duration_ms": 166605,
-      "name": "call and i'll answer",
-      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Boat Songs",
         "url": "https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0"
       },
@@ -763,6 +739,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "UGLY",
         "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
       },
@@ -779,18 +771,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+        "name": "call and i'll answer",
+        "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        },
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
         }
       ],
-      "duration_ms": 129119,
-      "name": "SICK OF IT*",
-      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
+      "duration_ms": 166605,
+      "name": "call and i'll answer",
+      "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
     },
     {
       "added_at": "2023-06-02 04:00:00",

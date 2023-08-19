@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,365 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,547 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
 | 100 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 
-Snapshot ID: `MCxhNjhiZDI2OGQ4ODk1MGZhZTg1MTRlYmZjNmJmYWI5MjYyZDk0MDc1`
+Snapshot ID: `MCw4NTEyZDcxY2QyOWUzMmM4MjExMDM5YjgxODM2ZjlkM2E5MTRjZmE5`

@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 172869,
       "name": "Dreaming In Slow Motion",
       "url": "https://open.spotify.com/track/6Vdz3UiPla1jOIlVUmNa1x"
@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 239216,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy"
@@ -3644,6 +3644,24 @@
       "duration_ms": 242520,
       "name": "Mrs.",
       "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
+    },
+    {
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206963,
+      "name": "My Dirty Desire",
+      "url": "https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io"
     },
     {
       "album": {
@@ -5322,7 +5340,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 254725,
       "name": "Tears Run Dry",
       "url": "https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd"
@@ -5667,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "Too Little, Too Late, Too Bad",
+        "url": "https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Too Little, Too Late, Too Bad",
+      "url": "https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ"
+    },
+    {
+      "album": {
         "name": "Easier Said Than Done",
         "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
       },
@@ -5700,6 +5736,28 @@
       "duration_ms": 174586,
       "name": "Trade of Hearts",
       "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
+    },
+    {
+      "album": {
+        "name": "Train Wreck",
+        "url": "https://open.spotify.com/album/3BCKshx1X4t3nYFzaG2ItA"
+      },
+      "artists": [
+        {
+          "name": "The Lady Songbird Jinda",
+          "url": "https://open.spotify.com/artist/7bARxuRTtyat6pGGBxQMJ8"
+        },
+        {
+          "name": "Donnie Ray",
+          "url": "https://open.spotify.com/artist/4r3SnXMswiuZZNDD1OzJqv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/186r8w6faWFUgUeIS1PqcZ"
     },
     {
       "album": {

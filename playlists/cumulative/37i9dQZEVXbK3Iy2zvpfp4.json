@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 367306,
       "name": "A New Error",
       "url": "https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 191991,
       "name": "As Far As We Go",
       "url": "https://open.spotify.com/track/0aFtR0d0Ecz96IyUZOKWUD"
@@ -4590,7 +4590,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
@@ -6846,7 +6846,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197749,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
@@ -7102,7 +7102,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
@@ -8286,6 +8286,24 @@
       "duration_ms": 229407,
       "name": "Gufrau party",
       "url": "https://open.spotify.com/track/7b9hwEsHn0vCYckClhlila"
+    },
+    {
+      "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
     },
     {
       "album": {
@@ -12846,6 +12864,24 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
+    },
+    {
+      "album": {
+        "name": "MASCULINITY",
+        "url": "https://open.spotify.com/album/6eNI9ZRsW9nfTL5XsaInpd"
+      },
+      "artists": [
+        {
+          "name": "LUCKY LOVE",
+          "url": "https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "MASCULINITY",
+      "url": "https://open.spotify.com/track/5PDTAN58fQ3lnW8RkxjRKV"
     },
     {
       "album": {
@@ -18806,7 +18842,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
@@ -20434,7 +20470,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 235885,
       "name": "So Much In Love - Sub Focus Remix",
       "url": "https://open.spotify.com/track/7umV8hDGUBIYV3kxoNz1Vb"
@@ -21300,7 +21336,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
@@ -25204,7 +25240,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
@@ -25266,7 +25302,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 154236,
       "name": "YUM YUM - Slowed",
       "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"

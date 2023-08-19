@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,406 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,444 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 99 | [Something to Someone \- Piano](https://open.spotify.com/track/5LMMHLhxyicdWm3uEdbNrV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/26WEpGNBMTJE5jyRcMtE01) | 3:03 |
 | 100 | [Sad Anymore](https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:10 |
 
-Snapshot ID: `MCwzMDA2ZTE4NWM1Y2JkYjAyMjU0NjgyN2Y0MjJhYzhkYTM5MWU3YjA3`
+Snapshot ID: `MCxlNmI4OWFhNTEyOWU5NDI3ODRmZWZhMzFlNWQxYzcwYzY1MTQ3MDlj`

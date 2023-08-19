@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: YOÚN
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Gaab
 
-145 songs - 7 hr 26 min
+146 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 | 2022-11-18 | 2023-02-25 |
 | [O Que Eu Soul \- Acústico](https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [O Que Eu Soul \(Acústico\)](https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC) | 3:19 | 2022-11-18 |  |
 | [Olhos de Cigana](https://open.spotify.com/track/1dJu8nGmVqdHiGBsy7gxRl) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Olhos de Cigana](https://open.spotify.com/album/5QgZgivyTMSqquSjv4iCXf) | 2:58 | 2023-03-03 | 2023-04-29 |
-| [Paierin](https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv) | [Paierin](https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt) | 3:30 | 2022-11-18 |  |
+| [Paierin](https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv) | [Paierin](https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt) | 3:30 | 2022-11-18 | 2023-08-19 |
 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 | 2023-06-16 |  |
 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 | 2023-06-30 |  |
 | [Peça Única](https://open.spotify.com/track/4IddWpa3qZQLPxaL8YiLq4) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Peça Única](https://open.spotify.com/album/6WsYX7kscbYVpcu3h07Grk) | 2:51 | 2023-06-23 |  |
@@ -112,6 +112,7 @@
 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 | 2022-11-18 |  |
 | [Pra Você](https://open.spotify.com/track/2WsXjgk3SAO9iSjFq9KteU) | [Risô](https://open.spotify.com/artist/7uYVtd6jZBcSSkJQozcGw2), [FIFO](https://open.spotify.com/artist/35gtv5W1SQ8Oj9jP85QfQ4), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Pra Você](https://open.spotify.com/album/2mecm3batbb0siwrRmaZRK) | 2:28 | 2022-11-18 | 2023-03-11 |
 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 | 2022-11-18 | 2023-03-03 |
+| [Quando Te Vi](https://open.spotify.com/track/4jxaQVs4cRH3MDKMZ0kRhj) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Quando Te Vi](https://open.spotify.com/album/41f4UoNwZH0Er1ZLCjMokE) | 3:54 | 2023-08-18 |  |
 | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB) | 4:10 | 2022-11-18 |  |
 | [Real \(Citando Djonga\)](https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS) | [Eric](https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT), [MofoRec](https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn) | [Real \(Citando Djonga\)](https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb) | 3:25 | 2022-11-18 |  |
 | [Recíproco](https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt) | [Victor JR](https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo), [Ingrid Milanez](https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ), [DJ Alle Mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Recíproco](https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E) | 3:00 | 2022-11-18 |  |

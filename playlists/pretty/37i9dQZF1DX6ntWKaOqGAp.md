@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: マカロニえんぴつ
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,255 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,338 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 84 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
 | 85 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
 | 86 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 |
-| 87 | [晩夏の証](https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [晩夏の証](https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd) | 5:45 |
+| 87 | [Banka no Akashi](https://open.spotify.com/track/3fWAGzcV3G4XYu6kEsTMU7) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Banka no Akashi](https://open.spotify.com/album/7Dfb8hb12z23KuFpeLnmjJ) | 5:45 |
 | 88 | [両想い](https://open.spotify.com/track/3zw6TA1Fn8A5rVm1DlSS8I) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [両想い](https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad) | 3:36 |
 | 89 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
 | 90 | [GUNJOUOUKA](https://open.spotify.com/track/1UF27ubfWrZy92mjCb3XnN) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [GUNJOUOUKA](https://open.spotify.com/album/0HVA2YkOBzxSzve44TdSgd) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 |
 | 100 | [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 |
 
-Snapshot ID: `MCw1YTE3ZWY4NzNlYjk1ZWVkNWYxNDg3YzlhNTgzOTJmOWE3MzZiOTVl`
+Snapshot ID: `MCxlZmU1OTVhOTM5OGMyYjdjNzQ0MWRiNDE1MmRkODcwOTk0YjQzMzg0`

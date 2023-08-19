@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,420 likes - 250 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,109 likes - 250 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 |
 | 250 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
 
-Snapshot ID: `MCw1OGU4NjU0OTJlODA5MDg1MzdhMWViNTZhMjI1Y2Y2MmQwY2NkODQ0`
+Snapshot ID: `MCxmNDI5ZThmNDIyZWQxZGQzMTk4ZTQ2NDkxMDg2ZDA2MTM1NTA3NWI1`

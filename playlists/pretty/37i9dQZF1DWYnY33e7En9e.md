@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,166 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,475 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
 | 100 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
 
-Snapshot ID: `MCw0NjQ4NzJjMzczMmZjZDEyMjAyNWFkOWJiZjJkMGJlYmI3NDAyNzgz`
+Snapshot ID: `MCw3NGZhMDlhZTY3OWI3MmY0MjdmYzZkYjE3ZTcwZjY4MTEwN2MzNzIx`

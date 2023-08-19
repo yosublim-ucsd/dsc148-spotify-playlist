@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
+    },
+    {
+      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -3547,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Banka no Akashi",
+        "url": "https://open.spotify.com/album/7Dfb8hb12z23KuFpeLnmjJ"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345999,
+      "name": "Banka no Akashi",
+      "url": "https://open.spotify.com/track/3fWAGzcV3G4XYu6kEsTMU7"
+    },
+    {
+      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF"
       },
@@ -4290,6 +4330,24 @@
       "duration_ms": 172940,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK"
+    },
+    {
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "album": {
@@ -5290,7 +5348,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 136711,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
@@ -8952,10 +9010,32 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 268653,
       "name": "Damage Gets Done",
       "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268653,
+      "name": "Damage Gets Done (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
     },
     {
       "album": {
@@ -15332,7 +15412,7 @@
     {
       "album": {
         "name": "Gimme Your Soul",
-        "url": "https://open.spotify.com/album/2bfo93qrSCDqqRJn9dG27X"
+        "url": "https://open.spotify.com/album/03L2D9nn1aLteSJPKTre9o"
       },
       "artists": [
         {
@@ -15343,6 +15423,24 @@
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 169753,
+      "name": "Gimme Your Soul",
+      "url": "https://open.spotify.com/track/2NsFey9wFngnIMgmGfCEt6"
+    },
+    {
+      "album": {
+        "name": "Gimme Your Soul",
+        "url": "https://open.spotify.com/album/2bfo93qrSCDqqRJn9dG27X"
+      },
+      "artists": [
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
       "duration_ms": 169753,
       "name": "Gimme Your Soul",
       "url": "https://open.spotify.com/track/3jfbtAqeRKVitS647lz5y7"
@@ -17104,6 +17202,28 @@
       "duration_ms": 295000,
       "name": "Happy People (with Teddy Swims & Jac Ross)",
       "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
+    },
+    {
+      "album": {
+        "name": "Hard To Handle",
+        "url": "https://open.spotify.com/album/1tJcinzpjwIOAwfO1hmFe0"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "Hard To Handle",
+      "url": "https://open.spotify.com/track/5Wv4g4QWO3ArPnbyP5Z6Mx"
     },
     {
       "album": {
@@ -22490,6 +22610,24 @@
       "duration_ms": 221920,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4Z27gYTMJnvrRpovGSDbbo"
+    },
+    {
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "album": {
@@ -28788,7 +28926,7 @@
     {
       "album": {
         "name": "No Muse",
-        "url": "https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC"
+        "url": "https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew"
       },
       "artists": [
         {
@@ -28803,6 +28941,28 @@
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 135850,
+      "name": "No Muse",
+      "url": "https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz"
+    },
+    {
+      "album": {
+        "name": "No Muse",
+        "url": "https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC"
+      },
+      "artists": [
+        {
+          "name": "AFSHEEN",
+          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
+        },
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
       "duration_ms": 135850,
       "name": "No Muse",
       "url": "https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk"
@@ -49896,7 +50056,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 345999,
       "name": "\u6669\u590f\u306e\u8a3c",
       "url": "https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU"

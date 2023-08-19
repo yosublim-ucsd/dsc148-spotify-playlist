@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-273 songs - 14 hr 32 min
+274 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Canals](https://open.spotify.com/track/1pK2SvpHrWrWFse9qxuj9f) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 2:49 | 2021-12-17 |  |
 | [Cave by the Ocean](https://open.spotify.com/track/6EvWjiZZhu8gYmAp52sT4X) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 1:40 | 2021-12-17 | 2023-07-29 |
 | [Celestine](https://open.spotify.com/track/6KQhAeR6HvQQYvt9yjzyyi) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Celestine](https://open.spotify.com/album/2ORpkbhfYy0U63WSvNG7Ke) | 3:28 | 2022-11-17 |  |
+| [chammomile](https://open.spotify.com/track/5nDPKdOwEO5mEql3Nqze3G) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Body Scan](https://open.spotify.com/album/7zDsE6swmHKUn6hNktcOPU) | 3:16 | 2023-08-18 |  |
 | [Chrystal Waters](https://open.spotify.com/track/0STNzJ42S02Ep6mcnwLfMW) | [Astral View](https://open.spotify.com/artist/7pq8kxpU61rnrS73yuK1xF) | [Chrystal Waters](https://open.spotify.com/album/5tNpDpbw7T6GlJOodIAQjO) | 3:08 | 2021-12-17 |  |
 | [City Sun](https://open.spotify.com/track/3cP0lItvdmwHLQsFtTSczu) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [City Sun](https://open.spotify.com/album/6CU4QLegDqC55dF4860RhK) | 2:51 | 2021-12-17 | 2022-05-06 |
 | [Colors Of The Wind](https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw) | [Alex Patel](https://open.spotify.com/artist/4e90KIWr9PXRvOsvB7kdnb) | [Colors Of The Wind](https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC) | 3:05 | 2021-12-17 | 2023-03-10 |
@@ -152,7 +153,7 @@
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-03-18 |  |
 | [Morning Dove](https://open.spotify.com/track/20an22hQymQpGUXAc2liBS) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 2:12 | 2021-12-17 | 2022-08-06 |
 | [Morning Light](https://open.spotify.com/track/5ZMmJeyD62nOdocRvss4rE) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Meditations](https://open.spotify.com/album/0BeOxMxb7pVoCft166u53r) | 3:18 | 2022-01-19 | 2023-08-12 |
-| [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 | 2021-12-17 |  |
+| [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 | 2021-12-17 | 2023-08-19 |
 | [Mountaintop Birdwalk](https://open.spotify.com/track/7joXZ5D0jFDEzkSsGIgCcy) | [Overdue Soles](https://open.spotify.com/artist/4D9rrvqXdR4y5IA0zJaicG) | [Mountaintop Birdwalk](https://open.spotify.com/album/1KG2rjcesAYUTij1Rp2a0P) | 3:19 | 2022-02-16 |  |
 | [Move With the World](https://open.spotify.com/track/4rdGFY7PaFbiYdtt0XFFcb) | [Andrei Floarea](https://open.spotify.com/artist/78IHxPt2btrcsBlXX7HR0P) | [Waters of the Bay](https://open.spotify.com/album/5K3iTNfIAGAOForUufQNcp) | 4:04 | 2021-12-17 |  |
 | [Muladhara](https://open.spotify.com/track/4vMnOPRUEdAFs5rnP4LKw5) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Muladhara](https://open.spotify.com/album/4FKAGCHvPmK61ph3NK54bH) | 1:37 | 2022-09-30 | 2023-07-29 |

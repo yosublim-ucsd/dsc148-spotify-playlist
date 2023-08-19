@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,620 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,621 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY) | 5:26 |
 | 100 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/2He6pRzFecj20ERLuqk5b5) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [The Gift of Christmas](https://open.spotify.com/album/1o6bELQCbdJaBMMVqVNPM6) | 3:33 |
 
-Snapshot ID: `MCwxODQ0ZTA4NDIwOTA2MjQyNmVlZDZmYTFhOTA2YzQ5ODM2YjBhMGE2`
+Snapshot ID: `MCxiZDgzZTgxMjA5ZmRlMjk3YjM3YzJiMDQ0YzJiNWFlY2JmYmMwYjMz`

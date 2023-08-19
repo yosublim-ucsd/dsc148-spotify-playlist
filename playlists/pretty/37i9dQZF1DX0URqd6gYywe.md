@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,104 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,257 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 74 | [Certezas de Cartón](https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Certezas de Cartón](https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv) | 3:38 |
 | 75 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
 
-Snapshot ID: `MCwyYTViMjc2YjQ0NDkxMmVjMGFhZDk5ZWJkMzg3ZGUxYjBhZmVlMDdj`
+Snapshot ID: `MCxmMjEzMjg4ZDc3YjYyNDM3YzFlNzYzYTRhZWNjOTVjZDdiNzc2MmFk`

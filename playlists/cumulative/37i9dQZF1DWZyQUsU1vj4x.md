@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-178 songs - 11 hr 2 min
+179 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Creektime](https://open.spotify.com/track/7Fb0Ow5b2PhklZujmyiSC7) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:54 | 2022-01-27 | 2023-04-30 |
 | [Crocodile Tears](https://open.spotify.com/track/0lcsIpA9Ff2DZufaMIQe4k) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/16fqu9m0E5Q4zj7nGX3Zw3) | 3:55 | 2019-10-31 | 2022-07-29 |
 | [Crocodile Tears](https://open.spotify.com/track/63nVPOyNp8vZNblAozzNcP) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 3:55 | 2022-01-27 |  |
+| [Daylight \- Cinematic](https://open.spotify.com/track/0hsRliMWS1BE3Z14u1BRnr) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 4:02 | 2023-08-18 |  |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-01-27 |  |
 | [Dead of Night](https://open.spotify.com/track/4WDazmiEd5PyY3taS11VfD) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:59 | 2019-10-31 | 2022-07-29 |
 | [Desolation Point](https://open.spotify.com/track/0iCSwrR44gwwL0cfuLDjvZ) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:55 | 2019-10-31 | 2022-07-29 |

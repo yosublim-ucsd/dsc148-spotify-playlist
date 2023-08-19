@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,913 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,021 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Ruthless For Life](https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Ruthless For Life](https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i) | 2:48 |
 | 100 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 |
 
-Snapshot ID: `MCw4ODY2NjdlMjNmMDNmZTNiZTdiNGU4ZTkwMzMwMTcxZTZiN2M3ZTJi`
+Snapshot ID: `MCw3YmEyZTI4YWU1YTIxYWZlZjVkNjVmNTY4NjIwYmM1OTdlZTI5Nzc1`

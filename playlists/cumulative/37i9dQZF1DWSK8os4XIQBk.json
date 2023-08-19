@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best in modern country music. Cover: Tyler Childers",
+  "description": "Nothing but the best in modern country music. Cover: Chris Stapleton",
   "name": "All About Country",
   "tracks": [
     {
@@ -1111,6 +1111,28 @@
     },
     {
       "album": {
+        "name": "Can't Break Up Now",
+        "url": "https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        },
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Can't Break Up Now",
+      "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
+    },
+    {
+      "album": {
         "name": "Can't Do Without Me",
         "url": "https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4"
       },
@@ -1886,7 +1908,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 174992,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
@@ -3477,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
+    },
+    {
+      "album": {
         "name": "How Do You Love (with Lee Brice & Lindsay Ell)",
         "url": "https://open.spotify.com/album/3s8fBzIbBGrRhlR2dOk4bq"
       },
@@ -4086,7 +4126,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
@@ -5111,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Mississippi Or Me",
+        "url": "https://open.spotify.com/album/4EFwitX1MR0jelaG29a7cs"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Mississippi Or Me",
+      "url": "https://open.spotify.com/track/5JDM1KbfvautHx2Il9DjMZ"
+    },
+    {
+      "album": {
         "name": "Money Isn't Real",
         "url": "https://open.spotify.com/album/3GKMoWHdXCQoivyqQc2Pft"
       },
@@ -5872,7 +5930,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 160290,
       "name": "On Three",
       "url": "https://open.spotify.com/track/7qAXZbesT1QwNJa5YYUjR5"
@@ -6292,7 +6350,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 183080,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
@@ -7232,7 +7290,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 172910,
       "name": "Singing In A Beer",
       "url": "https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe"
@@ -7438,6 +7496,24 @@
       "duration_ms": 223666,
       "name": "Some Horses",
       "url": "https://open.spotify.com/track/11lEoJlWD0d8dkH4YpkzFF"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183040,
+      "name": "Some Whiskey",
+      "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
     },
     {
       "album": {
@@ -8363,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "The Painter",
+        "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
+    },
+    {
+      "album": {
         "name": "The Thing That Wrecks You",
         "url": "https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp"
       },
@@ -8378,7 +8472,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
@@ -8720,6 +8814,24 @@
       "duration_ms": 196026,
       "name": "Trouble With A Heartbreak",
       "url": "https://open.spotify.com/track/7JH2mFsMZptIMvWVcvhYlW"
+    },
+    {
+      "album": {
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
       "album": {

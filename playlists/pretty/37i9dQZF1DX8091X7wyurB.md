@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,859 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,276 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
 | 80 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 |
 
-Snapshot ID: `MCxiNTJkNTE0MTlkMWVlYjlhNGY2ZDM2MDE3MmI4NjU4MmYxOWNhZTNi`
+Snapshot ID: `MCw4NGIyYjkwM2ZhMjI5YTVkNzFhM2ZkM2VmMDAwMzE1MzNmOTU2NDRj`

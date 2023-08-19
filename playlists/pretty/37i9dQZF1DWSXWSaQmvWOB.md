@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,745 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,855 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 2 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 |
 | 3 | [Compared to What](https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 6:26 |
 | 4 | [I'll Be Around](https://open.spotify.com/track/2PYgSz4FT6gZlPQ46aIhEc) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Sunday's Best, Volume II](https://open.spotify.com/album/6vGBtWrzVwWHDIoKYuzg8V) | 3:21 |
-| 5 | [ALL DA TIME](https://open.spotify.com/track/5sPvDvxuuOBxo0njp76d2s) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [ALL DA TIME](https://open.spotify.com/album/37v1eLlzy3tLnrkNFrIzPb) | 4:18 |
-| 6 | [The Pool](https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [The Pool](https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8) | 3:35 |
-| 7 | [In\-between](https://open.spotify.com/track/213mFbWiSzoDkRcrdcaY0R) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [In\-between](https://open.spotify.com/album/4Eqlbx4iJRb8aqHHSrqYNe) | 2:40 |
-| 8 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 5 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 6 | [ALL DA TIME](https://open.spotify.com/track/5sPvDvxuuOBxo0njp76d2s) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [ALL DA TIME](https://open.spotify.com/album/37v1eLlzy3tLnrkNFrIzPb) | 4:18 |
+| 7 | [The Pool](https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [The Pool](https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8) | 3:35 |
+| 8 | [In\-between](https://open.spotify.com/track/213mFbWiSzoDkRcrdcaY0R) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [In\-between](https://open.spotify.com/album/4Eqlbx4iJRb8aqHHSrqYNe) | 2:40 |
 | 9 | [Still Here](https://open.spotify.com/track/1hIoyKIpoHYHdF30hheNN2) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Still Here](https://open.spotify.com/album/6YODvhTyUWPOQDeDbHdXm0) | 2:46 |
 | 10 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 |
 | 11 | [Black Crow](https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Black Crow](https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 79 | [Streets of Love](https://open.spotify.com/track/2yi9NHHXXy7T7tkk7rQGgc) | [Malaramu](https://open.spotify.com/artist/1EKii5dqTcJpT4CUYerkII) | [Streets of Love](https://open.spotify.com/album/0mCQMVAYbkxSWcYSPzJ95F) | 3:05 |
 | 80 | [All A Share Together Now](https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [All A Share Together Now](https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i) | 3:46 |
 
-Snapshot ID: `MCw3ZGRlZGU1OWFlMWEzMDU0Y2M0YWZhNTU0YWZjODQ5MzgyNGJkNTRi`
+Snapshot ID: `MCxlZjhkYjkyMjA1OWQ0NGM0YmQ4YTM0YzE2OTllMTRjZjcwY2JiYWZm`

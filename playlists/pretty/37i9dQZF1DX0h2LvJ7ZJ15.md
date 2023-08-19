@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,698 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,601 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Unstoppable \- Slowed & Reverb](https://open.spotify.com/track/6UvgVaHDtycFqUM1LPxhxu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Unstoppable \(The Remixes\)](https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU) | 4:12 |
 | 50 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \- Slowed + Reverb](https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \[Slowed + Reverb\]](https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC) | 2:18 |
 
-Snapshot ID: `MCwxYWI0ZjM1ZDc2MGIzZWIzM2IwNmYwNTNmNTA2MmEyYzVjYzhmYWY5`
+Snapshot ID: `MCw2MzM1OThhNjc2MjRiMjMwYmE5Mjk2NDk0MjI1Mjc4YzU5MzA2MDRh`

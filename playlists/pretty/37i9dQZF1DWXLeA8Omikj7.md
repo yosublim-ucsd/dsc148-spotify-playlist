@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,665,099 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,665,385 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
 | 100 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 |
 
-Snapshot ID: `MCxmYjBhNjYxYTE3MWFmYWUzYjFiZGZmNWJkMzliYTY1Zjg0ZWViODZl`
+Snapshot ID: `MCw3MDBkNThhY2E4MDVlZDJiNGYyYTg0N2Y0ZjBiM2RhZTJlZTQ1ODRl`

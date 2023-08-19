@@ -4,7 +4,7 @@
 
 > Move your way through the day with the dance tracks you love.
 
-115 songs - 5 hr 55 min
+116 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-05-19 |  |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-05-19 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2023-01-25 |  |
+| [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 | 2023-05-19 |  |
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2023-05-19 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-05-19 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-19 |  |
@@ -79,7 +80,7 @@
 | [No Excuses](https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [No Excuses](https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE) | 3:42 | 2022-10-28 |  |
 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 | 2023-05-19 | 2023-06-06 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-06-14 |  |
-| [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 | 2023-05-19 |  |
+| [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 | 2023-05-19 | 2023-08-19 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-10-28 | 2023-01-26 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-05-19 |  |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 | 2022-06-14 | 2023-04-12 |

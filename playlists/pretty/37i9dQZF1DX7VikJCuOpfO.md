@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez & Espinoza Paz
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,561 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,581 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [El Anillo](https://open.spotify.com/track/4ZsmJY1ugWmo6ROkR9Tcba) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [El Anillo](https://open.spotify.com/album/5sd8XpxNp5ADwZIXqNBX0A) | 3:29 |
 | 100 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
 
-Snapshot ID: `MCwxMDYwMjAzZmE4ZjM1MmIwNjU5N2UyM2Q4MDY0NjEzZmJjNjZhZDkz`
+Snapshot ID: `MCw1ZTkyNDgwNmFmMDUxYjg1NzcwMTg5ZWY2NzZhYzk0OWU4Njc5ZmM3`

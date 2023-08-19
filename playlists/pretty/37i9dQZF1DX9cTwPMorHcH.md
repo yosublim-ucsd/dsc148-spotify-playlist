@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,422 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,514 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 |
 | 100 | [Fresh Out](https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:48 |
 
-Snapshot ID: `MCw1MjE0Mzg4OGY2MDhiYTNhZDBlNzI3M2E5MTkzNGMwY2I1NDUxYWU1`
+Snapshot ID: `MCxiMDYxNzg0M2MwODRkNzAwYWFkZmI0M2Y0NTkxOWVmMzFhYmU0ZjEy`

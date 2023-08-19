@@ -2701,6 +2701,28 @@
     },
     {
       "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+    },
+    {
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/3hXXMdT2z0lunHoz5KalQY"
       },
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 364359,
       "name": "Zero",
       "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"

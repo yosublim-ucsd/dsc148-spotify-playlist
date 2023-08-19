@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Bon Enfant
 
-120 songs - 7 hr 6 min
+122 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beau baptême](https://open.spotify.com/track/23VeUjFdefGJfKqGdjn4o5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Beau baptême](https://open.spotify.com/album/4uAwaa2dXHOGCAL9la6cFm) | 3:40 | 2023-06-02 | 2023-06-20 |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 |  |
 | [Butane](https://open.spotify.com/track/4Gz17gxip7P72DZ8CIzwRI) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Butane](https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd) | 3:47 | 2023-03-10 | 2023-05-08 |
+| [C'est la vie](https://open.spotify.com/track/0APhfeS3AIbmKCa01WK2YO) | [Peanut Butter Sunday](https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB) | [Quoi\-ce y'a pour souper?](https://open.spotify.com/album/7xI5Vn3wJ1LGK5cHI52XdW) | 3:35 | 2023-08-18 |  |
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2023-02-10 |  |
 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 | 2023-02-10 |  |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2023-02-10 |  |
@@ -34,6 +35,7 @@
 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 | 2023-02-10 |  |
 | [Christopher Robbins](https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Pink Dogs on the Green Grass](https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx) | 3:45 | 2023-02-10 |  |
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2023-02-10 |  |
+| [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 | 2023-08-18 |  |
 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 | 2023-02-10 |  |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2023-02-10 |  |
 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 | 2023-02-10 | 2023-04-21 |
@@ -49,7 +51,7 @@
 | [Et Hop](https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Et Hop](https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z) | 3:14 | 2023-02-10 | 2023-04-30 |
 | [F.I.N.I](https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [F.I.N.I](https://open.spotify.com/album/1bPPwRE3sv1KNsbXF5b2Qq) | 3:07 | 2023-06-09 |  |
 | [Fantômes](https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Sainte\-Colère](https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN) | 2:35 | 2023-02-10 |  |
-| [Fatiguée](https://open.spotify.com/track/6p5wW2wyB77K43YAqTeIma) | [Jeanne Laforest](https://open.spotify.com/artist/22pR3J0Y0WNrj8gS0TSaHb) | [Puisque les heures nous manquent](https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek) | 3:21 | 2023-03-24 |  |
+| [Fatiguée](https://open.spotify.com/track/6p5wW2wyB77K43YAqTeIma) | [Jeanne Laforest](https://open.spotify.com/artist/22pR3J0Y0WNrj8gS0TSaHb) | [Puisque les heures nous manquent](https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek) | 3:21 | 2023-03-24 | 2023-08-19 |
 | [Femme\-Lady](https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le soleil et la mer](https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s) | 3:33 | 2023-02-10 |  |
 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2023-02-10 |  |
 | [Flores](https://open.spotify.com/track/4PgEU4DLVXoE1EdPAbYfWu) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Flores](https://open.spotify.com/album/7hPNtRF7ZXPqQJGTMg7HIc) | 3:28 | 2023-07-07 |  |
@@ -98,7 +100,7 @@
 | [Pinceau au tombeau](https://open.spotify.com/track/1JHxLQcPTc833dUUqBZMbf) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Pinceau au tombeau](https://open.spotify.com/album/4GePFLLCkBw3IhK1n851B7) | 4:11 | 2023-03-17 | 2023-05-07 |
 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 | 2023-02-10 |  |
 | [Politesse](https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Politesse](https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I) | 3:07 | 2023-05-19 |  |
-| [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2023-02-10 |  |
+| [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2023-02-10 | 2023-08-19 |
 | [Rock Band](https://open.spotify.com/track/7goO0mzvYZAukSS0aUnDc8) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Rock Band](https://open.spotify.com/album/6nk21frolh3HS7MlwISfbg) | 3:52 | 2023-02-10 | 2023-04-29 |
 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2023-02-10 |  |
 | [Salaire Minimum](https://open.spotify.com/track/5FyydM82oQSSp2OBidKZBW) | [Sèxe Illégal](https://open.spotify.com/artist/5rWz0pTrCLoCPfQ68KFcH8) | [Spätkapitalismusik](https://open.spotify.com/album/41sPlypAmlnRQJOi4aisrH) | 2:50 | 2023-02-10 | 2023-02-19 |

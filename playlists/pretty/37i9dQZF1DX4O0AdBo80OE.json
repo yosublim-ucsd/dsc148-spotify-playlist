@@ -1,18 +1,18 @@
 {
   "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Sabino en portada.",
-  "num_followers": 63659,
+  "num_followers": 63738,
   "original_name": "Rap Latte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmRiZjAwZGE2MGUyNDYyNWUwYzQyMzkzNjA4ODJiYWEzYjE5MWI1",
+  "snapshot_id": "MCw4OTUzNjY1ODFiMTRlYzg4MmY5YWZiZTM3MjEwMDBhMTFiZWY4MGMz",
   "tracks": [
     {
-      "added_at": "2023-07-21 06:00:00",
+      "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
       },
       "artists": [
         {
@@ -20,9 +20,29 @@
           "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 150318,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/3SB4BggLTilRbeqErh059h"
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "3x4",
+        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 167224,
+      "name": "3x4",
+      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -125,6 +145,34 @@
       "url": "https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg"
     },
     {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Me Haces Bien",
+        "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+        }
+      ],
+      "duration_ms": 207499,
+      "name": "Me Haces Bien",
+      "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
+    },
+    {
       "added_at": "2023-07-21 06:00:00",
       "album": {
         "name": "Tarde",
@@ -147,8 +195,8 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Como lo Marca el Manual",
-        "url": "https://open.spotify.com/album/1vigznZtdoYBc58Qk8ZfGK"
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
       },
       "artists": [
         {
@@ -156,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 215449,
-      "name": "Como lo Marca el Manual",
-      "url": "https://open.spotify.com/track/0yxRNwt4PRJNQJufpft5uX"
+      "duration_ms": 150318,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/3SB4BggLTilRbeqErh059h"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -231,6 +279,22 @@
       "duration_ms": 252923,
       "name": "Tocando Arena",
       "url": "https://open.spotify.com/track/75tNS9948mAaxl7uTAkj4k"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Como lo Marca el Manual",
+        "url": "https://open.spotify.com/album/1vigznZtdoYBc58Qk8ZfGK"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 215449,
+      "name": "Como lo Marca el Manual",
+      "url": "https://open.spotify.com/track/0yxRNwt4PRJNQJufpft5uX"
     },
     {
       "added_at": "2023-07-21 06:00:00",

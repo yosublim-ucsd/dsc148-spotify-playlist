@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,118 likes - 150 songs - 16 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,163 likes - 150 songs - 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Husn\-e\-Haqiqi](https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:21 |
 | 150 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 |
 
-Snapshot ID: `MCw2M2Y0NmNhZmMyZjFlYjRiZGY5MDQ1ZDY4YmNhOWRmN2JmMzI4Mzhj`
+Snapshot ID: `MCwyMDEzMzBhNGMyMDVjNjEyYmNiZjYwNDA2MDk1NDEwMmRhNDExMzQx`

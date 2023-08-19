@@ -6032,7 +6032,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Do not touch",
       "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
@@ -8460,7 +8460,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
@@ -9864,7 +9864,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
@@ -10674,7 +10674,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 287929,
       "name": "Jueves 10",
       "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
@@ -11678,7 +11678,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 231246,
       "name": "LAGUNAS",
       "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
@@ -12208,7 +12208,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
@@ -12502,6 +12502,36 @@
       "duration_ms": 135953,
       "name": "LUKEANDO",
       "url": "https://open.spotify.com/track/6wvl4xyrmllgSXlHMLUAPo"
+    },
+    {
+      "album": {
+        "name": "Lukeando (Remix)",
+        "url": "https://open.spotify.com/album/02GjSKqBga4Ds29KVPnegR"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271888,
+      "name": "Lukeando - Remix",
+      "url": "https://open.spotify.com/track/3WCqhz3sOiO73D28wBFdDt"
     },
     {
       "album": {
@@ -15168,7 +15198,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 230466,
       "name": "New Romantics",
       "url": "https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z"
@@ -17356,7 +17386,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
@@ -19334,7 +19364,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 256000,
       "name": "seasons",
       "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
@@ -20854,7 +20884,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 117809,
       "name": "Speed Drive (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
@@ -21394,7 +21424,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 180208,
       "name": "S\u00edmbolo Sexual",
       "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"

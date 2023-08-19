@@ -4,7 +4,7 @@
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-62 songs - 6 hr 7 min
+63 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [In Your Eyes \- Live](https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 10:38 | 2019-06-28 |  |
 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 | 2020-04-07 |  |
 | [Ingoma](https://open.spotify.com/track/6AohFdqxAVO7xCpLTuHVvd) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/1lLexWslJpsjdF75f9IviG) | 6:12 | 2020-04-07 | 2022-09-25 |
+| [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 | 2020-04-07 |  |
 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 | 2020-04-07 | 2023-08-10 |
 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 | 2019-06-28 |  |
 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 | 2019-06-28 |  |
@@ -68,7 +69,7 @@
 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 | 2019-06-28 | 2022-11-13 |
 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 | 2020-04-07 |  |
 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2019-06-28 |  |
-| [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 | 2020-04-07 |  |
+| [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 | 2020-04-07 | 2023-08-19 |
 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2019-06-28 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

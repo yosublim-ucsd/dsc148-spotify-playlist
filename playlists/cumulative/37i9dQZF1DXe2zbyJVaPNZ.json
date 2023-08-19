@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 212000,
       "name": "Aislin (In Silver Dust)",
       "url": "https://open.spotify.com/track/0CpLEHCCx0sW3nllDzQP0J"
@@ -541,6 +541,28 @@
     },
     {
       "album": {
+        "name": "broken",
+        "url": "https://open.spotify.com/album/6b3smqZ2bsItjp9pgAEFA1"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122306,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/1JZ2E6OfHIxIB9VgGkPyKR"
+    },
+    {
+      "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/50CnzyFIF0oNPS3ceEW4Hg"
       },
@@ -862,7 +884,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164000,
       "name": "Dream Shape",
       "url": "https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW"
@@ -1184,7 +1206,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 387946,
       "name": "Gas 1",
       "url": "https://open.spotify.com/track/6orzHW7VBmbb5bsjn4nLKY"
@@ -1564,7 +1586,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 368000,
       "name": "Klass (Robot Koch Rework)",
       "url": "https://open.spotify.com/track/4yvlSGZem0ssbw2zIf6rr6"
@@ -1676,7 +1698,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 605250,
       "name": "Lakey Kong",
       "url": "https://open.spotify.com/track/0IGktAavgQwK4vrVF8Pnz5"
@@ -1824,6 +1846,24 @@
       "duration_ms": 212909,
       "name": "Midnight Stargazer",
       "url": "https://open.spotify.com/track/6Out5GTmU6YqaQ8R2l6P4F"
+    },
+    {
+      "album": {
+        "name": "Mindfulness",
+        "url": "https://open.spotify.com/album/76QELuKhmf1JntEoDgVExZ"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Mindfulness",
+      "url": "https://open.spotify.com/track/4a3QMzt5AfSvwfkkWkhmyK"
     },
     {
       "album": {
@@ -2372,7 +2412,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 395180,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/1Qm7N6tQUcg7RubLr7o1nq"
@@ -2646,7 +2686,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 480280,
       "name": "Stars - Remastered 2005",
       "url": "https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh"
@@ -3000,6 +3040,24 @@
       "duration_ms": 184402,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/7qTEw3JXKGrDTYLqsM48gp"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/1qxPnzyY4QJ04MyIQ60xAm"
+      },
+      "artists": [
+        {
+          "name": "Helios Relaxing Space",
+          "url": "https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465000,
+      "name": "Vibrational Feeling",
+      "url": "https://open.spotify.com/track/2cEFXCkHlUL2ZF3fr7jvZ4"
     },
     {
       "album": {

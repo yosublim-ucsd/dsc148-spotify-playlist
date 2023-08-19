@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Hoodratscumbags",
+        "url": "https://open.spotify.com/album/4eCYIBxNXxhdB8it5ZHpNo"
+      },
+      "artists": [
+        {
+          "name": "Beach Goons",
+          "url": "https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243252,
+      "name": "A.M.",
+      "url": "https://open.spotify.com/track/2Y33MDjGDSZt2OLzkS6ZkG"
+    },
+    {
+      "album": {
         "name": "Idle Labor",
         "url": "https://open.spotify.com/album/3IzLouGQA5uY4NfT6zNe3j"
       },
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "American Spirits",
+      "url": "https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N"
+    },
+    {
+      "album": {
         "name": "Are We There Yet",
         "url": "https://open.spotify.com/album/78DrQe0LBkCyxTdt3zmEpF"
       },
@@ -254,6 +290,24 @@
       "duration_ms": 186133,
       "name": "Astrovan",
       "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "album": {
+        "name": "Caress Your Soul",
+        "url": "https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k"
+      },
+      "artists": [
+        {
+          "name": "Sticky Fingers",
+          "url": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "Australia Street",
+      "url": "https://open.spotify.com/track/2e9OK4HiyXyAH5oEtaxnIc"
     },
     {
       "album": {
@@ -344,6 +398,42 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
+        "name": "Cigarettes In Space",
+        "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
+      },
+      "artists": [
+        {
+          "name": "Summer Thieves",
+          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "Bali Nights",
+      "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+    },
+    {
+      "album": {
+        "name": "Cut Worms",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183030,
+      "name": "Ballad of the Texas King",
+      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
     },
     {
       "album": {
@@ -538,7 +628,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 268880,
       "name": "Booster Seat",
       "url": "https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs"
@@ -722,6 +812,24 @@
       "duration_ms": 160375,
       "name": "Carol",
       "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
+    },
+    {
+      "album": {
+        "name": "Daydream Twins",
+        "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
+      },
+      "artists": [
+        {
+          "name": "Daydream Twins",
+          "url": "https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362601,
+      "name": "Carpop",
+      "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
     },
     {
       "album": {
@@ -1168,7 +1276,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/05ZUxHiGT7VR6ShJjhwJxn"
@@ -1190,6 +1298,24 @@
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/15eduSFXnQfnQvcmWHDBPi"
+    },
+    {
+      "album": {
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
     },
     {
       "album": {
@@ -1381,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Feeding the Family",
+        "url": "https://open.spotify.com/album/25Urb8gPENVfcJ5Lcw0Ui7"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284687,
+      "name": "Feeding the Family",
+      "url": "https://open.spotify.com/track/0sYJr89AznFrfAv6knnVtp"
+    },
+    {
+      "album": {
         "name": "California Nights",
         "url": "https://open.spotify.com/album/3lobKWYjPRZWL6gFLKYE4P"
       },
@@ -1511,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Sad Boys",
+        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258320,
+      "name": "Forever Dumb",
+      "url": "https://open.spotify.com/track/4mW7IWCnnA1OtjqrsaZkzX"
+    },
+    {
+      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -1558,7 +1720,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 173888,
       "name": "Freaking Out the Neighborhood",
       "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
@@ -1576,7 +1738,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -1738,7 +1900,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 208613,
       "name": "Going Gets Tough",
       "url": "https://open.spotify.com/track/6Et9MYUuK2OkYE3ce2F0oK"
@@ -2088,6 +2250,24 @@
       "duration_ms": 202000,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/2XiuMeXhUSqRzbB5X8mWuv"
+    },
+    {
+      "album": {
+        "name": "Caress Your Soul",
+        "url": "https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k"
+      },
+      "artists": [
+        {
+          "name": "Sticky Fingers",
+          "url": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202186,
+      "name": "How To Fly",
+      "url": "https://open.spotify.com/track/6I3Evf3nNhxFA5lSM37Y0v"
     },
     {
       "album": {
@@ -2520,6 +2700,24 @@
       "duration_ms": 187345,
       "name": "Keep on",
       "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+    },
+    {
+      "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/3KWf6OTB2pXT7hVGh1DP2W"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217538,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/6dhaX8fxmnXNZuOxmxyrvD"
     },
     {
       "album": {
@@ -3114,7 +3312,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 192542,
       "name": "Nova Scotia 500",
       "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
@@ -3499,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "Postcode Lover",
+        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165589,
+      "name": "Postcode Lover",
+      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
+    },
+    {
+      "album": {
         "name": "Prefiro Vila Velha",
         "url": "https://open.spotify.com/album/2xYnWkBjcHkcq3Lc5nTNvq"
       },
@@ -3694,6 +3910,24 @@
       "duration_ms": 142786,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Music",
+        "url": "https://open.spotify.com/album/7dQwYwiBPqQbPRPuJljtZk"
+      },
+      "artists": [
+        {
+          "name": "Baby Jesus",
+          "url": "https://open.spotify.com/artist/47A3cu9GtV5QypYedB8lMo"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Right Before I Go",
+      "url": "https://open.spotify.com/track/17mYQ5uVoqY8ykHctLUlJT"
     },
     {
       "album": {
@@ -3968,6 +4202,24 @@
       "duration_ms": 174000,
       "name": "Sociedad de Fideos Fr\u00edos de Jap\u00f3n",
       "url": "https://open.spotify.com/track/2QkPmNXgmCzqbcdoYNOfhi"
+    },
+    {
+      "album": {
+        "name": "Sol Del Sur",
+        "url": "https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn"
+      },
+      "artists": [
+        {
+          "name": "Sun Room",
+          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145298,
+      "name": "Sol Del Sur",
+      "url": "https://open.spotify.com/track/61EuOHKJepAeaXUTGUqfH4"
     },
     {
       "album": {
@@ -4637,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "The Green Superintendent",
+        "url": "https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7"
+      },
+      "artists": [
+        {
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183073,
+      "name": "The Green Superintendent",
+      "url": "https://open.spotify.com/track/6pPQPAKd5CAwmuNa1p48JS"
+    },
+    {
+      "album": {
         "name": "The Serpent (Live Session)",
         "url": "https://open.spotify.com/album/2b6ELGRyx0AOZd67l2pXwn"
       },
@@ -4886,6 +5156,24 @@
       "duration_ms": 128832,
       "name": "unwind",
       "url": "https://open.spotify.com/track/69XCORenfXQeypvDU6dRYW"
+    },
+    {
+      "album": {
+        "name": "Used To Surf",
+        "url": "https://open.spotify.com/album/4RqKJoagzQi2jOvYl3S0FA"
+      },
+      "artists": [
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Used To Surf",
+      "url": "https://open.spotify.com/track/7CPhsiq8jRBePhgCWLcW5S"
     },
     {
       "album": {

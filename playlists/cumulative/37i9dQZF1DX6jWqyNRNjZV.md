@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-328 songs - 23 hr 5 min
+329 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Free Life \- Vocal Version](https://open.spotify.com/track/7zq7jKpZUDzJWByZ5JzM6a) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Il corpo \(Outtakes\)](https://open.spotify.com/album/2OlxNwutkhA1ij7o1YbtYy) | 5:16 | 2022-11-30 | 2023-01-24 |
 | [French Ambassador](https://open.spotify.com/track/5kXmFoYoI1KxILP0EzLdrN) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [French Ambassador](https://open.spotify.com/album/0CxBWKVJSTjIzyYxdxINvB) | 4:19 | 2023-04-19 | 2023-07-14 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-13 |  |
-| [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 | 2023-07-13 |  |
+| [Für Nimmer](https://open.spotify.com/track/6CX4j7F3kjIWzwgNUhIril) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:19 | 2023-07-13 |  |
+| [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 | 2023-07-13 | 2023-08-19 |
 | [g.lassée](https://open.spotify.com/track/6BIr5I7dq3KSsJj1huarlP) | [Sely](https://open.spotify.com/artist/4uug4vZIaZYWzviL5Fxk3L), [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW), [neophron](https://open.spotify.com/artist/1ryRmZ474qavvMFyQgSr8W) | [Connecté 2](https://open.spotify.com/album/5zr5n1PdmlICs6HSNSXHUR) | 3:18 | 2023-01-24 | 2023-03-07 |
 | [Gemini 6](https://open.spotify.com/track/6dpYNwActwOmOSSHPAoXqP) | [Luigi Sambuy](https://open.spotify.com/artist/5no6pWQNuMmpuefVKYpgN7) | [Gemini](https://open.spotify.com/album/5MsAnix8HLsf5vvvQ8QfBw) | 3:41 | 2023-01-24 | 2023-03-07 |
 | [Genesis \- Regal86 Remix](https://open.spotify.com/track/282IbmnKNtChNmpdRMxWSO) | [Cr1s1s](https://open.spotify.com/artist/01skLkPPeHdh8ptACRIZab), [Regal86](https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613) | [El fin de un mundo común](https://open.spotify.com/album/7va7UxzYGj2cQ5kKLNFpq2) | 4:10 | 2023-01-24 | 2023-03-07 |

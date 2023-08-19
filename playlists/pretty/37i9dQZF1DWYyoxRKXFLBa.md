@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,876 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 79 | [Escapar](https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 4:01 |
 | 80 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 |
 
-Snapshot ID: `MCwxZjI4NTEyZDYwNDliNWE1NTJiNTYxOGFkMmFmYmUyZTk2MDRkZTgz`
+Snapshot ID: `MCw3MTI4YzU0N2QxZjFiZDk2ZDBmOWM3ZjhkNjFmMGJjNzVkZjhlZjg1`

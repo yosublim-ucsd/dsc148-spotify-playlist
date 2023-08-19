@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,614 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,839 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Push And Pull](https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Push And Pull](https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg) | 2:18 |
 | 100 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 |
 
-Snapshot ID: `MCxhNjIwNjVmY2M3OWRhZGFhZTc3ODJmMWIwMjVhNDg2YTFmOTcxNmJk`
+Snapshot ID: `MCw4OGUyNGUwNWZjZjk5OWUzNjRiZmYwOGY4ZmI3ZDg5NDViZWE3OTY5`

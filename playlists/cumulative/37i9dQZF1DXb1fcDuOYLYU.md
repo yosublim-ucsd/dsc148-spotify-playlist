@@ -2,9 +2,9 @@
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 
-> Celebrating the powerful voices of Latin music\. Cover: Bad Gyal, Tokischa & Young Miko
+> Celebrating the powerful voices of Latin music\. Cover: Anitta
 
-275 songs - 15 hr 5 min
+276 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 | 2022-03-28 | 2023-02-16 |
 | [Te Regalo](https://open.spotify.com/track/4wTuLXjSiiWxHO0e1Pwf1X) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Te Regalo](https://open.spotify.com/album/2uhahE2iatcHyMUHDHX6TS) | 4:02 | 2022-03-28 | 2022-11-14 |
 | [Tengo Un Trato \- Remastered 2015](https://open.spotify.com/track/13crLwJf5aEt3R8MKcisou) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Lujo Ibérico \(Edición 15 Aniversario\)](https://open.spotify.com/album/0jSaLt79iNOr9ydaF1cMLR) | 2:48 | 2023-02-16 |  |
-| [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 | 2023-06-09 |  |
+| [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 | 2023-06-09 | 2023-08-19 |
 | [There's No Way](https://open.spotify.com/track/5T56yynriYCiX1Qnas0Cyp) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [There's No Way](https://open.spotify.com/album/3SqoUao1G3gxi9gFuZX2zf) | 2:45 | 2022-03-14 | 2023-02-16 |
 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 | 2022-03-14 | 2023-02-16 |
 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 | 2023-02-16 |  |
@@ -264,6 +264,7 @@
 | [Un Baile Mas](https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Un Baile Mas](https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5) | 3:43 | 2022-03-14 | 2023-02-16 |
 | [Un Clásico](https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un Clásico](https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0) | 2:52 | 2023-02-16 | 2023-04-15 |
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2023-02-16 | 2023-04-01 |
+| [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 | 2023-08-18 |  |
 | [Valiente](https://open.spotify.com/track/60BzJsRXfql6GwO14IAiiZ) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [\#333](https://open.spotify.com/album/53fIYm90YSwnseipgrVr6M) | 4:15 | 2022-03-14 | 2023-02-16 |
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2022-03-14 | 2022-09-04 |
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-03-28 | 2023-02-16 |

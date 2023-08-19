@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-157 songs - 15 hr 6 min
+158 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bad Asteroid](https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [The Aristocrats](https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf) | 5:53 | 2021-02-12 |  |
 | [Be Happy](https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [Visions of the Emerald Beyond](https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo) | 3:32 | 2021-02-12 |  |
 | [Big Bang](https://open.spotify.com/track/5D3qsYYQev3PM5I2e7spp5) | [Klaus Doldinger's Passport](https://open.spotify.com/artist/4EjjMTj801PRhn5aje8gsp) | [Garden Of Eden](https://open.spotify.com/album/3ftpM0sGdtCqJl0DnO8RJD) | 3:54 | 2021-02-12 |  |
+| [Birth](https://open.spotify.com/track/2gvr189D1jCnVaCnT9xjzU) | [David Binney](https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf) | [Action](https://open.spotify.com/album/4e6JAiQETHwycA3zsBX5U0) | 4:20 | 2023-08-18 |  |
 | [Bismillah Bebop](https://open.spotify.com/track/10QbQoe99MuYC23CZIFbhs) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Bismillah Bebop](https://open.spotify.com/album/5egX3imy3hgSB4k4FyGDfo) | 2:26 | 2023-08-14 |  |
 | [Black Cat Shuffle](https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Electric Rendezvous](https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi) | 3:00 | 2021-02-12 |  |
 | [Black Market](https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Black Market](https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd) | 6:30 | 2021-02-12 |  |

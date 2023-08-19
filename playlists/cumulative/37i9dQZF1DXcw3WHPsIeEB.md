@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-66 songs - 4 hr 9 min
+67 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Miles Deep](https://open.spotify.com/track/3NstAPM2r3xsGHAhN7ty8p) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Miles Deep](https://open.spotify.com/album/0b9y44xDN6yxnAS9rtDDp9) | 6:29 | 2022-02-01 | 2022-10-18 |
 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 | 2022-02-01 |  |
 | [New Day](https://open.spotify.com/track/32rnbTiFdRoMh7bYCEiFL5) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [COLOR OF NOIZE](https://open.spotify.com/album/4eARmd0GWRsEMrodDDHkug) | 5:28 | 2022-02-01 |  |
-| [No Doubt](https://open.spotify.com/track/21X6PB7zwUpMYxytJponCE) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [No Doubt](https://open.spotify.com/album/1NwUJagmCrussV7V9YnTgD) | 5:13 | 2022-02-01 |  |
+| [No Doubt](https://open.spotify.com/track/21X6PB7zwUpMYxytJponCE) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [No Doubt](https://open.spotify.com/album/1NwUJagmCrussV7V9YnTgD) | 5:13 | 2022-02-01 | 2023-08-19 |
+| [No Doubt](https://open.spotify.com/track/4YCFMXMgNgU8pkMx3ZJiZa) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [No Doubt](https://open.spotify.com/album/65xMWLkfor3GqPijGhcFSb) | 5:13 | 2022-02-01 |  |
 | [Not Right Now](https://open.spotify.com/track/40ZHrYdf41knqZZiuYqRIl) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [COLOR OF NOIZE](https://open.spotify.com/album/4eARmd0GWRsEMrodDDHkug) | 6:26 | 2022-02-01 |  |
 | [Nyhavn by Day](https://open.spotify.com/track/0HNV1CfWjc4auIrGhoirzZ) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nyhavn by Day](https://open.spotify.com/album/5IdoqiUOacac4UAAHwytw6) | 1:58 | 2022-02-01 |  |
 | [Out of the Ruins](https://open.spotify.com/track/19Ee1c0ftZA4LZuv4OM0vu) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK) | [The Sounds of Afrotronica](https://open.spotify.com/album/0NP9PKuMhqFWiVl6fpZlKI) | 4:12 | 2022-02-01 |  |

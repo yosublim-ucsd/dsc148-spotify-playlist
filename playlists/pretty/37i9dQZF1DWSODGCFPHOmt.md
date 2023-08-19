@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,713 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,711 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
 | 80 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [San Juan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
 
-Snapshot ID: `MCwzMGMxMjA1OWUwOGRiMjIwZTUxMWVlZThhOTRjYmI1MjBkMjQxYmRl`
+Snapshot ID: `MCw3NGVkZDIwNDVlNGMxMGQxNzVlOWYwMjVlZTQ3ZmM4ZGRjYjU0OTgw`

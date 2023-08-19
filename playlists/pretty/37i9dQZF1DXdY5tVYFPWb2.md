@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,016 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,095 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [ミズノマリ \(from paris match\)](https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7) | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI) | 4:39 |
 | 100 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 |
 
-Snapshot ID: `MCxlMzE1ZGUyY2QxNGQ4YmVmYmM5MjBiODNmM2M1ODgwZjdiNjI0Mzhk`
+Snapshot ID: `MCxjYjg5MTY4YjZkNmIyMWVjMzIyYTA5ZTEwMmRhMWY5N2JkMjMwNGQ2`

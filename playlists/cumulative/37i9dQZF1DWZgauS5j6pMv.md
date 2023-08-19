@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Jafunk
 
-340 songs - 20 hr 3 min
+341 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib) | 3:23 | 2022-09-02 | 2022-10-21 |
 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/7Fk2ITEI0s2Y6oiust9UKl) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/7zsHBrfvL0hk321iiagyAD) | 3:23 | 2022-09-02 | 2023-04-29 |
 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 | 2020-11-20 | 2022-01-29 |
-| [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
+| [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 | 2023-08-19 |
 | [Ease Your Mind](https://open.spotify.com/track/0uwXneXFLt47MlgvoQDouq) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Ease Your Mind](https://open.spotify.com/album/7B5n3tOUAIyahj8TwwPLcN) | 4:44 | 2021-03-12 | 2022-05-20 |
 | [End of Tha Night](https://open.spotify.com/track/4FCEeZGENqjVz9dDRsKJoM) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4), [Elijah Treat](https://open.spotify.com/artist/4SzodZqoVynssqd6ajKdpB) | [End of Tha Night](https://open.spotify.com/album/4H51nFp0Ojxn4mRa8WHraj) | 3:09 | 2022-05-20 |  |
 | [Everybody in the World \(feat\. New Breed Brass Band\)](https://open.spotify.com/track/3xRrcTVx6yjNGSEhw8rE2A) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5) | [Everybody in the World](https://open.spotify.com/album/5BLQId2P20h6e3N7RRuXgY) | 3:54 | 2022-04-15 |  |
@@ -203,6 +203,7 @@
 | [Lost Without You](https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/3m5pYFGe7wrujfqMJMeyHF) | 3:11 | 2022-07-01 | 2022-12-17 |
 | [Love In A Groove](https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [Love In A Groove](https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe) | 3:30 | 2022-11-04 |  |
 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 | 2022-03-11 |  |
+| [Lover \(Love Her\)](https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Lover \(Love Her\)](https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6) | 3:18 | 2023-08-18 |  |
 | [made of](https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X) | [Skyler Acord](https://open.spotify.com/artist/1phSD0yoDFOv2kUbXzM1d4) | [made of](https://open.spotify.com/album/6wHWVoohwI1MJZl3tiY28f) | 3:02 | 2022-11-25 | 2023-03-04 |
 | [Maintain \- Jafunk Remix](https://open.spotify.com/track/1FEGSFfL4Iz62fe2ew8CgX) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Maintain \(Jafunk Remix\)](https://open.spotify.com/album/5mucdv4xnrZOU0vHQFEg9z) | 3:13 | 2022-02-18 | 2022-08-13 |
 | [Maintain \- Jafunk Remix](https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Maintain \(Jafunk Remix\)](https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq) | 3:13 | 2022-02-18 | 2023-03-25 |

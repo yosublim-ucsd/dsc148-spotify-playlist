@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,614 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,621 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 31 | [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 |
 | 32 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
 | 33 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
-| 34 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
-| 35 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 |
+| 34 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 |
+| 35 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
 | 36 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
 | 37 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 |
 | 38 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 |
 | 50 | [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 |
 
-Snapshot ID: `MCw1Y2VmMDRhODVlNWM2NzRlOTZiMDIzMzFlOGFkY2FiM2Y1MDk2MjNh`
+Snapshot ID: `MCxlOWI1NzEzODdiOTZkNjk3MmRjNmRiMGRmMTBlNWRkYTNkNDViZjMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,900 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,211 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 | 150 | [Now and Later \- Acoustic Version](https://open.spotify.com/track/3KhgqRMwfWSI9J41k7pbvD) | [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [Now and Later \(Acoustic Version\)](https://open.spotify.com/album/0yee0fIFICVjaUjdyROrY6) | 3:19 |
 
-Snapshot ID: `MCwzYWM4NGJkYmY1MmQwOWMxNTZjNTg2YzhjMTUwYzkxM2ZlYmExN2Jj`
+Snapshot ID: `MCw2MmYyODc1YzBkZjUzYWVlYTk2OTFjNTIxOTQ5OTc4NzA1ZWQyMjM0`

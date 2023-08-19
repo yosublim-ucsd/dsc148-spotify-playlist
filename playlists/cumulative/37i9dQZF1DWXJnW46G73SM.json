@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 181818,
       "name": "3al Wa3d",
       "url": "https://open.spotify.com/track/0jBnk6ZGo8XuurCrYaEZon"
@@ -1818,6 +1818,24 @@
       "duration_ms": 246818,
       "name": "Dayy Al Qamar",
       "url": "https://open.spotify.com/track/7azDgfLs2U5eOOYb9OyPo8"
+    },
+    {
+      "album": {
+        "name": "Deb Deb",
+        "url": "https://open.spotify.com/album/3bPOumkC31Zv4pBa6udoZ7"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180437,
+      "name": "Deb Deb",
+      "url": "https://open.spotify.com/track/2u1j3h1Oy9xOgvOV3kvU4X"
     },
     {
       "album": {
@@ -8532,7 +8550,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 186427,
       "name": "\u0627\u0644\u0633\u062e\u0627\u0646",
       "url": "https://open.spotify.com/track/41XLRr32qGDjmcSs3GKa7B"
@@ -8652,7 +8670,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204330,
       "name": "\u0627\u0644\u0643\u0628\u064a\u0631",
       "url": "https://open.spotify.com/track/5D5Cm9cEUBub4AWhNSRJVo"
@@ -9210,7 +9228,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 217500,
       "name": "\u062c\u0648\u0647 \u0639\u064a\u0646\u064a\u0643",
       "url": "https://open.spotify.com/track/2fRZNzluxWOWHhzQj1SS1G"
@@ -9246,7 +9264,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 185454,
       "name": "\u062d\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u0629",
       "url": "https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6"
@@ -9358,6 +9376,24 @@
       "duration_ms": 252065,
       "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
       "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
+    },
+    {
+      "album": {
+        "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+        "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178751,
+      "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+      "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
     },
     {
       "album": {
@@ -10324,7 +10360,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 206132,
       "name": "\u0644\u0645\u0648\u0646 \u0646\u0639\u0646\u0627\u0639",
       "url": "https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM"
@@ -11014,6 +11050,28 @@
       "duration_ms": 194421,
       "name": "\u064a\u0627 \u063a\u0627\u0644\u064a\u0629",
       "url": "https://open.spotify.com/track/6kxH8WTeU0Br5qyQ7IFBUx"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u063a\u0632\u0627\u0644",
+        "url": "https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        },
+        {
+          "name": "Twyxx",
+          "url": "https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "\u064a\u0627 \u063a\u0632\u0627\u0644",
+      "url": "https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "d4vd taking over the world",
+  "description": "have u heard - mac demarco uses spotify. cover: mac x eydress #macdress",
   "name": "Lorem",
   "tracks": [
     {
@@ -372,6 +372,28 @@
       "duration_ms": 135481,
       "name": "2 Be Loved",
       "url": "https://open.spotify.com/track/0FbMz0SvWSIPU51o5eFjN8"
+    },
+    {
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
     },
     {
       "album": {
@@ -1575,6 +1597,32 @@
     },
     {
       "album": {
+        "name": "New Heart Designs",
+        "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222741,
+      "name": "Alien Love Call",
+      "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
+    },
+    {
+      "album": {
         "name": "our little angel - EP",
         "url": "https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV"
       },
@@ -1608,6 +1656,24 @@
       "duration_ms": 180295,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
+    },
+    {
+      "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
     },
     {
       "album": {
@@ -2900,6 +2966,24 @@
       "duration_ms": 197773,
       "name": "are you?",
       "url": "https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0"
+    },
+    {
+      "album": {
+        "name": "Around Around Around",
+        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321460,
+      "name": "Around Around Around",
+      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
     },
     {
       "album": {
@@ -5266,6 +5350,24 @@
       "duration_ms": 158424,
       "name": "Bozo bozo bozo - carolesdaughter Version",
       "url": "https://open.spotify.com/track/6XQavp1Qj1pFZkkHH079m1"
+    },
+    {
+      "album": {
+        "name": "brainrot",
+        "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132111,
+      "name": "brainrot",
+      "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
     },
     {
       "album": {
@@ -15150,7 +15252,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176727,
       "name": "Go Boy",
       "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
@@ -18049,6 +18151,24 @@
     },
     {
       "album": {
+        "name": "HSB",
+        "url": "https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ"
+      },
+      "artists": [
+        {
+          "name": "YURA",
+          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154553,
+      "name": "HSB",
+      "url": "https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA"
+    },
+    {
+      "album": {
         "name": "HUES",
         "url": "https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS"
       },
@@ -19696,7 +19816,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 181316,
       "name": "im fine, thx 4 asking",
       "url": "https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV"
@@ -34426,7 +34546,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 198000,
       "name": "Soft Words",
       "url": "https://open.spotify.com/track/5s4jURjJx4bEPAq8FuZrtO"
@@ -35470,6 +35590,24 @@
       "duration_ms": 267031,
       "name": "squares",
       "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+    },
+    {
+      "album": {
+        "name": "Stains",
+        "url": "https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e"
+      },
+      "artists": [
+        {
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "Stains",
+      "url": "https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr"
     },
     {
       "album": {
@@ -37094,7 +37232,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
@@ -38495,6 +38633,24 @@
     },
     {
       "album": {
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
+    },
+    {
+      "album": {
         "name": "the car",
         "url": "https://open.spotify.com/album/2oOjAHADWlfAfYTFlWhcVl"
       },
@@ -38510,6 +38666,28 @@
       "duration_ms": 179633,
       "name": "the car",
       "url": "https://open.spotify.com/track/32XLmgI34ifOm9UAzq3RFS"
+    },
+    {
+      "album": {
+        "name": "The Dark Prince (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214356,
+      "name": "The Dark Prince (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
     },
     {
       "album": {
@@ -38896,7 +39074,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
@@ -38962,6 +39140,24 @@
       "duration_ms": 249380,
       "name": "The World",
       "url": "https://open.spotify.com/track/4Te5Lm9Ej1rqZRNSS6W96F"
+    },
+    {
+      "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
     },
     {
       "album": {

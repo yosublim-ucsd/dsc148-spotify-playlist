@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,535 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,546 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [HORÓSCOPO](https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS) | 4:08 |
 | 60 | [Tus Besos \- Remix](https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Tus Besos \(Remix\)](https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH) | 3:49 |
 
-Snapshot ID: `MCxhMTI4OTZjNDg4N2EwNzM1NjE3MDE0YjBmNDY0MDBhMTYzNTE5ZTZk`
+Snapshot ID: `MCxmYzMzMGNlMmE4MWY0OTBiY2EyZTY5NTVlMzI0MTE1MDg4ZmQ5Njhm`

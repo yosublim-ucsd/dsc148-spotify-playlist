@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-307 songs - 17 hr 47 min
+309 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 | 2020-10-30 |  |
 | [Bad Boy Good Man \- Rmx 2023](https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Bad Boy Good Man \(Rmx 2023\)](https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju) | 3:29 | 2023-05-19 |  |
 | [Ballade No\. 1](https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx) | [Ballade No\. 1](https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1) | 1:54 | 2021-05-14 | 2023-04-01 |
+| [BAM! \- Chill Remix](https://open.spotify.com/track/4qlZFwn0pvaZalY5lJUGzX) | [KELSON](https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [BAM! \(Remixes\)](https://open.spotify.com/album/1IOx2nHbWzjDa3EM6ly6Y1) | 2:40 | 2023-08-18 |  |
 | [Bei mir bist du schön](https://open.spotify.com/track/3yKKZTpzR2fnxw50gar1Mc) | [Duo Stiehler/Lucaciu](https://open.spotify.com/artist/7nSGBz4UKbB91w3Qm6Mjcm) | [Bei mir bist du schön](https://open.spotify.com/album/7rrwhLZNJFe9vN8SagXtgO) | 3:05 | 2023-05-19 |  |
 | [Bei Mir Bistu Shein \- Electro Swing Mix](https://open.spotify.com/track/6w21L3eVgP07fWiYew9Tsd) | [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW) | [Bei Mir Bistu Shein](https://open.spotify.com/album/5olnobFFDdSBKTkTocF4bB) | 3:31 | 2022-09-16 |  |
 | [Big Bad Wolf](https://open.spotify.com/track/5oDng0woFCH1OXJCTUhY1s) | [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Big Bad Wolf](https://open.spotify.com/album/3aXhjfpVZAjBKJsvZNqtt0) | 3:22 | 2022-10-12 | 2022-11-08 |
@@ -154,6 +155,7 @@
 | [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw) | 2:44 | 2020-10-30 |  |
 | [Married Man](https://open.spotify.com/track/6jGYrW5pzaqyAHJAifMGjl) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Married Man](https://open.spotify.com/album/4sWwMJbfAhpq2o5raC8XHH) | 3:29 | 2020-10-30 | 2022-07-19 |
 | [Marvelous](https://open.spotify.com/track/7eIE7x9SoeeMf3VeAaScDK) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Marvelous](https://open.spotify.com/album/0dyXevf8h8XP5lGZ6cTDG9) | 2:53 | 2023-05-26 |  |
+| [Marvelous \- Wolfgang Lohr Future Swing Remix](https://open.spotify.com/track/2KByLKAsBdItG2WIQrmJA2) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Marvelous \(Wolfgang Lohr Future Swing Remix\)](https://open.spotify.com/album/1Bt1rdw4QtDWM8TXFzYeY7) | 2:47 | 2023-08-18 |  |
 | [Mañana \- Jojo Effect & Gardener of Delight Remix](https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL), [The Mills Brothers](https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg), [Gardener of Delight](https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i) | [Mañana \(Jojo Effect & Gardener of Delight Remix\)](https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp) | 2:48 | 2021-04-09 |  |
 | [Midnight](https://open.spotify.com/track/0eljrNBtD2vQgNHdTAgE2s) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:25 | 2022-10-12 | 2022-11-08 |
 | [Midnight](https://open.spotify.com/track/6TT9QrhtNpgWdrFGfjfV02) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Remote](https://open.spotify.com/album/1Zo58diAaOKimtYyzny5LH) | 3:43 | 2022-10-12 | 2022-11-08 |

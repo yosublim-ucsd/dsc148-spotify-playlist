@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,408 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,409 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 |
 | 100 | [O Come All Ye Faithful](https://open.spotify.com/track/3PFcVGs3EfcUyoWsNIKf6w) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [O Come All Ye Faithful](https://open.spotify.com/album/7pAmb07Wl3TAYUREaimnwA) | 3:19 |
 
-Snapshot ID: `MCxmZTNmNmJlNjUzOTkzNzk0Y2NmM2NiNWI1ZTQ5ZDZjYjdkMmJlMmVm`
+Snapshot ID: `MCwxMTgxMjZlNWJjMDFiYWU3MGZhYjQ0NDhkMTBiNmE4YTE2OGY4MGZl`

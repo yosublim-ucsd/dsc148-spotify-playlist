@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,693 likes - 150 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,728 likes - 150 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Every time we say goodbye](https://open.spotify.com/track/3oeUIbQyI22ymUFRAuZfuu) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN), [Marc van Rooij](https://open.spotify.com/artist/1EUHQilQkYWbsUQWe7SvDj), [Hans Van Oosterhout](https://open.spotify.com/artist/6F152Gyy69dlNrx8QZzxwV) | [Rob van Bavel Trio](https://open.spotify.com/album/6CoarHW26qMqQjvcz7P5jJ) | 5:11 |
 | 150 | [Where Have You Been?](https://open.spotify.com/track/5oq7aSx9jQCpUZkv5zWHXE) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 8:19 |
 
-Snapshot ID: `MCw1NzQ5YTM2YTBkMDU4NDYwOTNiZjMxZGE0MjgzOTA3NWM2YWZiMDQ3`
+Snapshot ID: `MCxiZjQ5M2U5N2U3NzZkZmIzYTA2ZmVmNDc2YjczZWNhNDk0ZTlhNWE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384,981 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,298 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 |
 | 100 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 |
 
-Snapshot ID: `MCwyNGE4OGE2MGVhNjVmYzIwMmNiMzlhNGVmMjlmNDE2NTUzZjM0ZWE4`
+Snapshot ID: `MCw4ZDY2OWEzM2NmNzdmMGUyZWUxNmUyNjRiMDBkMmFmMDI4YmYyNjY3`

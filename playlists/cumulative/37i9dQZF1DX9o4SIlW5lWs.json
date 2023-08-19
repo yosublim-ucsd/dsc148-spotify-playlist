@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Como Dejar De Amarte",
+        "url": "https://open.spotify.com/album/7BsPvmrxmXDrdNizZ8yxW9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "Como Dejar de Amarte",
+      "url": "https://open.spotify.com/track/0tgtrWzJCGJOXSzg6YeiSe"
+    },
+    {
+      "album": {
         "name": "Como Le Digo",
         "url": "https://open.spotify.com/album/4pfSy7j1TkILRBw1ENpeYp"
       },
@@ -2146,7 +2168,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
@@ -2559,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "La Cachera",
+        "url": "https://open.spotify.com/album/3wShLOuZh0lj9WJFRsQZrw"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213176,
+      "name": "La Cachera",
+      "url": "https://open.spotify.com/track/1YcAoyPEUBGOGPID8sZVAR"
+    },
+    {
+      "album": {
         "name": "Renovado",
         "url": "https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36"
       },
@@ -2794,7 +2834,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
@@ -3218,7 +3258,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 203340,
       "name": "Mil L\u00e1grimas",
       "url": "https://open.spotify.com/track/3bEjthWPk4EjDuV8vcrP9p"
@@ -4640,6 +4680,28 @@
       "duration_ms": 218133,
       "name": "Si Hay Alguien en Tu Vida",
       "url": "https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY"
+    },
+    {
+      "album": {
+        "name": "Si Te Agarran Las Ganas",
+        "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        },
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239418,
+      "name": "Si Te Agarran Las Ganas",
+      "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
     },
     {
       "album": {

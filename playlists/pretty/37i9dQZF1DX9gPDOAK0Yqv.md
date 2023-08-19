@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,057 likes - 125 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,231 likes - 125 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 124 | [Laminar \- Moonbootica Remix](https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Laminar \(Moonbootica Remix\)](https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD) | 6:35 |
 | 125 | [Samum \- 8Kays Remix](https://open.spotify.com/track/1h7E73gjm0VELmrT4TcLHo) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Samum \(8Kays Remix\)](https://open.spotify.com/album/52VrTYzvEmiccQ8vMacUvM) | 6:27 |
 
-Snapshot ID: `MCxjNDk0YjcxYWE2MjIyYjQ2MGMzODJhMjZkNTY5MzU1ZDhhNmI0ZGFh`
+Snapshot ID: `MCxiNWQ5ZTUwNzUzMjNiZTAxOGU4NmYwMzcwM2Y3YTkzM2IxNmIxYzBk`

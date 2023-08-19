@@ -3479,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH"
+      },
+      "artists": [
+        {
+          "name": "Zamphire",
+          "url": "https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172449,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL"
+    },
+    {
+      "album": {
         "name": "Nocturnal Vibes",
         "url": "https://open.spotify.com/album/4fFKwFxQkJ0uG3SzV5lkvt"
       },

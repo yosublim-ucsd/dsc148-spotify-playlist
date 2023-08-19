@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,313 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,309 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MCwzMmJiMzFiNTBkNmI1MzM3NGVjZjA2MjQ0MjM0NTYyZTk5MDczNTgx`
+Snapshot ID: `MCw5MWEyMjY0MDZjZjk1YTNkNmNmOGVlZDYzZWQ5ZWVjMWQ0Nzg3ZWVi`

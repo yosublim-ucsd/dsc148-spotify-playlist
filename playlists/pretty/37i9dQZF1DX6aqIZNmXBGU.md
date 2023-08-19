@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,440 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,445 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Demon From Hell](https://open.spotify.com/track/6tlM9pXSjLR5MOCKeLVa35) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 1:29 |
 | 60 | [Hot Wax](https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z) | 3:29 |
 
-Snapshot ID: `MCw0ZTFkZjY0NDYzNDY5MzE5YTVjZTY2ZDNhMGZhYTU4ODA4ZjM5MzEz`
+Snapshot ID: `MCxlN2I4MTU4ZTYzZjYzY2U1ZDc5NjgzYjY2MGRiNDU4ODE4YjZlY2Fk`

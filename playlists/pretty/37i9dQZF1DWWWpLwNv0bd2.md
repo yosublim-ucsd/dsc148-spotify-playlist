@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Jawan
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,158 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,204 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 19 | [Onnoda Nadandhaa \(From "Viduthalai"\)](https://open.spotify.com/track/1go9gWdOHiQIrLqTrAklti) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Onnoda Nadandhaa \(From "Viduthalai"\)](https://open.spotify.com/album/42x5rRggRUdH3v6vbdHNxP) | 5:15 |
 | 20 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |
 | 21 | [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 |
-| 22 | [Nila Mugam](https://open.spotify.com/track/0Ov9nKu1EY14LKeGpWAJBV) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Nila Mugam](https://open.spotify.com/album/38CANBgULMTQb6XwT4wUCL) | 3:53 |
+| 22 | [Nila Mugam \(Original Soundtrack\)](https://open.spotify.com/track/0Ov9nKu1EY14LKeGpWAJBV) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Sebastin Rozario](https://open.spotify.com/artist/6zn3QoKgnSOZx7Q2QE2dVF), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn) | [Nila Mugam \(Original Soundtrack\)](https://open.spotify.com/album/38CANBgULMTQb6XwT4wUCL) | 3:53 |
 | 23 | [THUNAI VARUVEN](https://open.spotify.com/track/4oZmlHf9XmEJkTCjdM2S0i) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [THUNAI VARUVEN](https://open.spotify.com/album/2ohSAvOqBy5asjjw4lDQtn) | 3:19 |
 | 24 | [Klesa Kadhala](https://open.spotify.com/track/7n1UVJ0H504ylTJ65msRuz) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Janani](https://open.spotify.com/artist/074dvQc2KICo1VlD9mhKvb), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA), [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6) | [DADA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ox0X6W9rsoMdGLmjuBtfs) | 3:50 |
 | 25 | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 49 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 |
 | 50 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 |
 
-Snapshot ID: `MCw5Mjk2YzFlZGNiOWRiNjViMjk0NGEwNzI2YjE3MGJjOGJiODBhZDgy`
+Snapshot ID: `MCw4NjY1MTFiYmE0NmRiOWI4ZTkzNWM4ZjdmMWYwN2U5MjRiYWVkZDgw`

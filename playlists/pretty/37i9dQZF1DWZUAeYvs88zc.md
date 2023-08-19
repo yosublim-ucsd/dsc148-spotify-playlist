@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,530 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,827 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 74 | [hate to be you](https://open.spotify.com/track/4B8xshUQgezhJ8i8HWhHR1) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:02 |
 | 75 | [Why Do You Love Me](https://open.spotify.com/track/2y8iBf0QRqCKFtePi9Rl2H) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Why Do You Love Me](https://open.spotify.com/album/3TG1020RW6Fh4jc0ahtXGO) | 2:51 |
 
-Snapshot ID: `MCwxMGY0YTg0MmUyNzIyNjQwMDY3OGMzOWU3NTdkYTkxYzk1ZjY5M2Y4`
+Snapshot ID: `MCxiZTNlZTYwZjg4MjRmZjZjMjQ0ZjdlZTlkMzc5NjcxZWIwYmZmNmU0`

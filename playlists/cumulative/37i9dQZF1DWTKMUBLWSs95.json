@@ -39,6 +39,28 @@
     },
     {
       "album": {
+        "name": "Brahms: 3 Intermezzi, Op. 117: No. 3, Andante con moto",
+        "url": "https://open.spotify.com/album/46EJrz3vVGAkdEgaKfQ8Jy"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413373,
+      "name": "3 Intermezzi, Op. 117: No. 3, Andante con moto",
+      "url": "https://open.spotify.com/track/1XJdcuybWyLsgDTPdpj7fc"
+    },
+    {
+      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -405,6 +427,32 @@
     },
     {
       "album": {
+        "name": "Bachianinha No. 2 / Araponga (Arr. for Guitar by S\u00e9rgio Assad)",
+        "url": "https://open.spotify.com/album/0w7Xt9qFIxkRD6y76wdlRW"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Nogueira",
+          "url": "https://open.spotify.com/artist/5ReVxzuREWusYE4ovnMbBn"
+        },
+        {
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156415,
+      "name": "Bachianinha No. 2 / Araponga (Arr. for Guitar by S\u00e9rgio Assad)",
+      "url": "https://open.spotify.com/track/1grIEfpjLsBGyDnAtDgCi3"
+    },
+    {
+      "album": {
         "name": "Chopin",
         "url": "https://open.spotify.com/album/2y7XA7KLJXRPzTgULfXK5F"
       },
@@ -628,6 +676,36 @@
       "duration_ms": 411026,
       "name": "Clarinet Concerto in A Major, K. 622: Clarinet Concerto in A Major, K. 622/II. Adagio",
       "url": "https://open.spotify.com/track/70h1nYoPh4869FrsT9IILv"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Concerto in B Minor, RV 580 (Adapt. for 4 Mandolins, Strings and Continuo)",
+        "url": "https://open.spotify.com/album/38bHaOFRqAC53ML0PKmUtI"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Avi Avital",
+          "url": "https://open.spotify.com/artist/3NbuyRJml6VdSfpDFC5a7b"
+        },
+        {
+          "name": "Il Giardino Armonico",
+          "url": "https://open.spotify.com/artist/3ffMbKIrSWo557U1wDxNDq"
+        },
+        {
+          "name": "Giovanni Antonini",
+          "url": "https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "Concerto in B Minor, RV 580 (Adapt. for 4 Mandolins, Strings and Continuo): I. Allegro",
+      "url": "https://open.spotify.com/track/0A8qJGRhqmvWcC5Pm6Kq4i"
     },
     {
       "album": {
@@ -909,6 +987,32 @@
     },
     {
       "album": {
+        "name": "Bach Generations",
+        "url": "https://open.spotify.com/album/5yOf6Z2tkIAkI3q43OAe5L"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Berliner Barock Solisten",
+          "url": "https://open.spotify.com/artist/7mEuyFgTPiTRgCh3Hzuwsl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265197,
+      "name": "Harpsichord Concerto No. 4 in A Major, BWV 1055 (Adapted for Oboe d'amore, Strings and Basso continuo): I. Allegro",
+      "url": "https://open.spotify.com/track/2tx1OGhwMuaS456NgiuEuP"
+    },
+    {
+      "album": {
         "name": "Ich steh mit einem Fu\u00df im Grabe, BWV 156: I. Sinfonia (Arioso)",
         "url": "https://open.spotify.com/album/5ZK8cOkZKgisSiksiho7z5"
       },
@@ -984,6 +1088,28 @@
       "duration_ms": 477760,
       "name": "II. Adagio doloroso",
       "url": "https://open.spotify.com/track/249zExJbZ90sdT2pjjcpIf"
+    },
+    {
+      "album": {
+        "name": "II. Lento - Allegro molto",
+        "url": "https://open.spotify.com/album/4TukBQCyyb3X8gEBDJ2fvf"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Ofra Harnoy",
+          "url": "https://open.spotify.com/artist/7jkPTBaoQXW1CPFRv4Hih8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289760,
+      "name": "II. Lento - Allegro molto",
+      "url": "https://open.spotify.com/track/0xd33Pb2lH5UTDduxxD1Qk"
     },
     {
       "album": {
@@ -1098,6 +1224,58 @@
       "duration_ms": 289840,
       "name": "Le sacre du printemps / Pt. 2: Le sacrifice: XIV. Danse sacrale: L'\u00c9lue",
       "url": "https://open.spotify.com/track/736llxXEMkdZjjQQzu71L6"
+    },
+    {
+      "album": {
+        "name": "Liszt: 3 Liebestr\u00e4ume, S. 541: No. 2",
+        "url": "https://open.spotify.com/album/1PHUM5WeAVxcOofKOE598U"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Liszt: 3 Liebestr\u00e4ume, S. 541: No. 2 in E Major",
+      "url": "https://open.spotify.com/track/0VWEJL1npobt3gQLhhyV0J"
+    },
+    {
+      "album": {
+        "name": "Love Is Stronger Than Pride (Arr. Simon for Piano)",
+        "url": "https://open.spotify.com/album/0vfaZ5hgbnt49rHlwooRuw"
+      },
+      "artists": [
+        {
+          "name": "Sade Adu",
+          "url": "https://open.spotify.com/artist/0US6Qjw05r2L04QMNTLWfg"
+        },
+        {
+          "name": "Andrew Hale",
+          "url": "https://open.spotify.com/artist/38noD0A6jhU1r40ICjtajU"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "url": "https://open.spotify.com/artist/2OOsPeiMEpk3JKFqUT9OAN"
+        },
+        {
+          "name": "Carlos Simon",
+          "url": "https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248906,
+      "name": "Love Is Stronger Than Pride (Arr. Simon for Piano)",
+      "url": "https://open.spotify.com/track/5XyaoHmuxdVWUg2vkO1McG"
     },
     {
       "album": {
@@ -1373,6 +1551,36 @@
     },
     {
       "album": {
+        "name": "Rachmaninoff: Piano Concerto No. 4 in G Minor, Op. 40 (1941 3rd Version): II. Largo",
+        "url": "https://open.spotify.com/album/5YaVrmukRke8MpFGqwLV5w"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379746,
+      "name": "Piano Concerto No. 4 in G Minor, Op. 40 (1941 3rd Version): II. Largo",
+      "url": "https://open.spotify.com/track/31R1QNhXa9RwcgCdKvpnB8"
+    },
+    {
+      "album": {
         "name": "Piano Concerto: II. Languid Blues",
         "url": "https://open.spotify.com/album/4Gr8BMQitpZmIkmHLTcYWY"
       },
@@ -1448,6 +1656,32 @@
       "duration_ms": 323858,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz"
+    },
+    {
+      "album": {
+        "name": "Ravel: Pi\u00e8ce en forme de Habanera, M. 51 (Version for Oboe and Piano)",
+        "url": "https://open.spotify.com/album/6MctQ5ElW8Mi9rYJTjCbAD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Heinz Holliger",
+          "url": "https://open.spotify.com/artist/1td0Lqu4V2wiTnvmrHzDkW"
+        },
+        {
+          "name": "Anton Kernjak",
+          "url": "https://open.spotify.com/artist/3jJWzQLq026Yd4VOWVHMKJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188146,
+      "name": "Pi\u00e8ce en forme de Habanera, M. 51 (Version for Oboe and Piano)",
+      "url": "https://open.spotify.com/track/4ekLDziyE2Nxow4nGHZb1X"
     },
     {
       "album": {
@@ -1907,6 +2141,32 @@
     },
     {
       "album": {
+        "name": "Price: Symphony No. 4 in D Minor: III. Juba. Allegro",
+        "url": "https://open.spotify.com/album/2SkDNfQkoZbaFzR7Loxyns"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Symphony No. 4 in D Minor: III. Juba. Allegro",
+      "url": "https://open.spotify.com/track/1qdLOyoGRdCyBDYHaBp1XW"
+    },
+    {
+      "album": {
         "name": "Beethoven: Symphony No. 5 in C Minor, Op. 67: II. Andante con moto",
         "url": "https://open.spotify.com/album/509lCKz4WittRQRhtlDeOC"
       },
@@ -2146,6 +2406,28 @@
       "duration_ms": 274666,
       "name": "The Seal Lullaby",
       "url": "https://open.spotify.com/track/29b5TcQl92h4S0qcV33ZaU"
+    },
+    {
+      "album": {
+        "name": "The Sorcerer's Apprentice Variation (From L'Apprenti Sorcier, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/7aSKkLYSb8UC3rAy0ojkxe"
+      },
+      "artists": [
+        {
+          "name": "Paul Dukas",
+          "url": "https://open.spotify.com/artist/3KpcdlqCaWWruPfmM2rWy1"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129960,
+      "name": "The Sorcerer's Apprentice Variation (From L'Apprenti Sorcier, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4LCgjNwIfDKgO6qSHNWvSl"
     },
     {
       "album": {
@@ -2672,6 +2954,28 @@
       "duration_ms": 171255,
       "name": "WE (West & East)",
       "url": "https://open.spotify.com/track/3ntVmKmb4l02ggvveI5eEo"
+    },
+    {
+      "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
       "album": {

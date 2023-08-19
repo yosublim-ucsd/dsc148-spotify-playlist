@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Giggs (pictured), Hozier, Addison Rae and more!",
-  "num_followers": 836476,
+  "num_followers": 836636,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGYzOTc4NzJhZjViMzJjM2I0MDc0ZGQ5YjE1OGIwN2IwNDk4Mjdl",
+  "snapshot_id": "MCw2YjJlYTQyM2QxYTQxNThjYTc0MWIzYzA0MWQwYmFiNjEzMmExOTQ0",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -32,7 +32,7 @@
       "added_at": "2023-08-17 23:00:00",
       "album": {
         "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
       "artists": [
         {
@@ -45,8 +45,8 @@
         }
       ],
       "duration_ms": 268653,
-      "name": "Damage Gets Done",
-      "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
+      "name": "Damage Gets Done (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -67,6 +67,26 @@
       "duration_ms": 111835,
       "name": "Saxo (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/2Wzyas9S4ietj2NzXtHR2I"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -107,8 +127,8 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3"
+        "name": "Before the Smoke",
+        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
       },
       "artists": [
         {
@@ -121,8 +141,8 @@
         }
       ],
       "duration_ms": 143692,
-      "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU"
+      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -347,6 +367,22 @@
       "duration_ms": 170500,
       "name": "Hot Sweat (feat. Cleo Simone)",
       "url": "https://open.spotify.com/track/5g94B3kC8Qpno3Xvy7OQ32"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -896,7 +932,7 @@
           "url": "https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx"
         }
       ],
-      "duration_ms": 214597,
+      "duration_ms": 215006,
       "name": "Worn Out Buildings",
       "url": "https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum"
     },
@@ -1300,7 +1336,7 @@
       "added_at": "2023-08-17 23:00:00",
       "album": {
         "name": "I Hate How I Look In My Head",
-        "url": "https://open.spotify.com/album/5EHolSlLiG0r8Lw87iEof5"
+        "url": "https://open.spotify.com/album/2xjj3ODoCCgl3XggL3cV7G"
       },
       "artists": [
         {
@@ -1310,7 +1346,7 @@
       ],
       "duration_ms": 187272,
       "name": "I Hate How I Look In My Head",
-      "url": "https://open.spotify.com/track/25Yd8G9gdeO9WfOIJMkK7z"
+      "url": "https://open.spotify.com/track/3yzZYXbcGrSBVomLOhKYTB"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1927,6 +1963,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Harder",
+        "url": "https://open.spotify.com/album/2j5js211o5jDoTPwUT8YFI"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "duration_ms": 170542,
+      "name": "Harder",
+      "url": "https://open.spotify.com/track/7uCoZgLfCjYzA67bZ9IaPR"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/12IbG5GNWF7hJ5lJCf8vUa"
       },
@@ -2139,6 +2191,22 @@
       "duration_ms": 188666,
       "name": "Sweetest Revenge",
       "url": "https://open.spotify.com/track/1OGcz9UrnxxQH0OrFmxoM2"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -2415,6 +2483,22 @@
       "duration_ms": 200852,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7bqannWBcNOt5zFVutDRia"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Smell Real Nice",
+        "url": "https://open.spotify.com/album/6DX00Sz8ajyd8uOvLIgTjO"
+      },
+      "artists": [
+        {
+          "name": "Barny Fletcher",
+          "url": "https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG"
+        }
+      ],
+      "duration_ms": 168386,
+      "name": "Smell Real Nice",
+      "url": "https://open.spotify.com/track/5GbrGuXZ1C3S8nn4VaI8Mh"
     },
     {
       "added_at": "2023-08-17 23:00:00",

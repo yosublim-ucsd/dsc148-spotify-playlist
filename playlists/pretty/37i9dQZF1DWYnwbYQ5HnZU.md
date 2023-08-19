@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Dierks Bentley
+> We're celebrating the 20th anniversary of Dierks Bentley's self\-titled debut album here on Country Gold!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,169,014 likes - 95 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,169,246 likes - 95 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 94 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 |
 | 95 | [If You're Going Through Hell \(Before The Devil Even Knows\)](https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:36 |
 
-Snapshot ID: `MCwxZjE4NGM4MmZjMzg1N2I3NmE3YzQ4MjhjODk2NWQ0OTFmZjc2N2Nj`
+Snapshot ID: `MCxmZmNiZDFiZGQxMWVlMDk4MjgzY2EyMDI2MWYwOWMwMjgwNGRlYTg5`

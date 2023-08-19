@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,351 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,438 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
 | 100 | [I Don't Wanna Go](https://open.spotify.com/track/2QMorHwzcNe3lvoBaN41CE) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Detonate](https://open.spotify.com/album/749SC742jI27G78tbtxKNT) | 3:22 |
 
-Snapshot ID: `MCxjNTY2Y2IyODA2Y2RjN2M3ZDE3ZDI3MzU0NmViMGUxMGViMGZiZWQ0`
+Snapshot ID: `MCw4ZmU1M2IxM2MxZmIyM2Q1MjI3YTE4ZWJmMGE3Y2QzMmJmOGExY2E2`

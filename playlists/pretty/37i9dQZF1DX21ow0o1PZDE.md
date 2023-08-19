@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 
 > Todos los grandes éxitos del año, reunidos en un solo lugar\. Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,887 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,342 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ow0o1PZDE.md) - [plain]
 | 99 | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2) | 4:14 |
 | 100 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
 
-Snapshot ID: `MCwyMTYzMDE0NzBhMzY0ZmEyZWE5OGFlNTc3Y2EzYzY0MjEyNThlYmY3`
+Snapshot ID: `MCwzYzMzYzkxYTFkZmViNjQ2YzAwZDkwNWY0ZmQwMmY4OGQyMjRmNGNm`

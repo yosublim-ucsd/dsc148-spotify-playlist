@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,175 likes - 200 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,216 likes - 200 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [The Admiral](https://open.spotify.com/track/7zKpgrCY4a2SBQscjvODaP) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 5:15 |
 | 200 | [AG76](https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR) | [Dominik Wania](https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd) | [Lonely Shadows](https://open.spotify.com/album/4IRifRBgHH1a8SNZ0joXiN) | 6:13 |
 
-Snapshot ID: `MCw1MjFhYTA2ZGI2NDQ2YmE5Njk5ZGE2NmE5YjIxNTI3NjA2MDkyNDNm`
+Snapshot ID: `MCw2NTI3ZjVlZGE3Nzc3ZTMyZDliNTVlNzU3NzY2ZjRlY2MwOTE2NDUx`

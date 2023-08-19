@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-542 songs - 23 hr 3 min
+544 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Glissen](https://open.spotify.com/track/2jTzKga2LencuGjgunPajE) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk) | [Inhale](https://open.spotify.com/album/1VfXd4FP4FYHe5OMHTqGSH) | 2:33 | 2022-01-21 |  |
 | [Glooming](https://open.spotify.com/track/6BBM8aJxaMUylTnWyoIjIy) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Radiance](https://open.spotify.com/album/3bU4iy7ozrDdFKvxehO0me) | 3:33 | 2021-11-10 | 2022-04-15 |
 | [Glow](https://open.spotify.com/track/7Hge20vUWFF7V2kt2g20So) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Glow](https://open.spotify.com/album/0kE1MMrjOc4XFCGs90wkOI) | 2:51 | 2022-08-05 | 2023-03-18 |
+| [glowing](https://open.spotify.com/track/1PoSImv99rLDkBwRDfmahe) | [Cafe Burrito](https://open.spotify.com/artist/1njjr5nwqbiRtFnoKPylMR) | [glowing](https://open.spotify.com/album/4J7Djn5UsvN10BKhq8B3Lj) | 2:36 | 2023-08-18 |  |
 | [go back to sleep](https://open.spotify.com/track/10iVkC7JmOcnde215g7Xn1) | [pretend penguin](https://open.spotify.com/artist/0d3VJgvWH9XP3S57lQP8p8) | [go back to sleep](https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e) | 2:11 | 2021-11-10 | 2022-08-20 |
 | [good morning, sunshine](https://open.spotify.com/track/7kQaX1eybj2Ft2QOyfpk7V) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [good morning, sunshine](https://open.spotify.com/album/3ImmP3rm6ICaZkAOPCUfRD) | 2:24 | 2022-10-28 |  |
 | [Good Times](https://open.spotify.com/track/1pMGrPoq0hGv57n5ak7hUX) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Youthica](https://open.spotify.com/album/7BCuzmHi1yX3Zc6nWGIalm) | 2:33 | 2023-05-26 |  |
@@ -235,6 +236,7 @@
 | [Itaparica](https://open.spotify.com/track/4V1UVFLxP0dM5IkwS3XVNR) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Itaparica](https://open.spotify.com/album/01IMooT9ibT3cLTiz6g4al) | 2:02 | 2022-07-22 |  |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2021-11-10 | 2022-04-15 |
 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 | 2021-11-10 |  |
+| [just enough](https://open.spotify.com/track/5YOcHkjpveyOIleHYg4fDL) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [just enough](https://open.spotify.com/album/16SYGSeNyaCehEY0XMD1yV) | 2:33 | 2023-08-18 |  |
 | [Keep Moving](https://open.spotify.com/track/5OsLS7T2OOQS39csidWaY9) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [Keep Moving](https://open.spotify.com/album/2EQO2XKeYPum97QCk2Vhgd) | 2:59 | 2022-04-05 |  |
 | [kindred spirit](https://open.spotify.com/track/7FmR84XC188myQLMkQJiDb) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [kindred spirit](https://open.spotify.com/album/2hG1jfJzU8IVNb6hYtabFN) | 2:08 | 2022-12-16 |  |
 | [Kindred Spirits](https://open.spotify.com/track/5LqwuQkgjufaU20BKy3GLJ) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Kindred Spirits](https://open.spotify.com/album/20Y5xqbsbynGuibLL9kEOB) | 2:17 | 2021-11-10 | 2022-07-01 |

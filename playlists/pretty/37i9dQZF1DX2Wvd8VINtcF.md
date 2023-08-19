@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Kasbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,213 likes - 112 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,246 likes - 112 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 49 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 |
 | 50 | [Where We Started](https://open.spotify.com/track/02XuacrcOT6lXLPeZ9Vu9e) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Tasker](https://open.spotify.com/artist/4GQRAVwht11iG3QAsm7SVv) | [Lovesick](https://open.spotify.com/album/5EqKhUwJtcRFBFT4K8dBiV) | 2:27 |
 | 51 | [Bleecker](https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Bleecker](https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh) | 3:30 |
-| 52 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |
+| 52 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |
 | 53 | [lovergirl](https://open.spotify.com/track/48VPIoaHKU3gKHAVW2WMp8) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl](https://open.spotify.com/album/2zUTN546u7OhfOGSY8fblP) | 2:14 |
 | 54 | [Muse](https://open.spotify.com/track/0QfEh5cwlwKVrO9gACNhc7) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 2:55 |
 | 55 | [Standing My Ground](https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Standing My Ground](https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6) | 2:49 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 111 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 112 | [CONSTELLATIONS \(feat\. NAO\)](https://open.spotify.com/track/6B6FxQxSSVwvSgcNUe5QZQ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:52 |
 
-Snapshot ID: `MCxlNDQwZWFhN2JkYTZhNjgwODA3MGEzODVmNGM3OWI4OGU1MjNjZWI0`
+Snapshot ID: `MCxmMThmMzNiN2M0N2QxMzk1ZWJkOGEyZGIxM2FiMWEzZDExOTVlODIz`

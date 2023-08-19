@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,776 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,787 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Make Sense](https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:25 |
 | 50 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
 
-Snapshot ID: `MCw5NGZlOTQxNzBkZWYzYzU3ODhiMzc5ZjM2MzFjMTI1Mjc2MWM3MjYy`
+Snapshot ID: `MCw0ZTkwMTQyYzc1MzY1MjI0NDM1MWExMjlmODE0ZDBkOGQwZDljZTAx`

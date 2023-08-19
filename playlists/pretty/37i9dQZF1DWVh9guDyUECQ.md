@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,295 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,383 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
 | 100 | [Corazón](https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW) | [Corazón](https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt) | 3:37 |
 
-Snapshot ID: `MCwwNjM0MGI1YTcwM2I5YWRmOWU5YjllOTQ5NTU0NzBjOWE2ZTgxYTlm`
+Snapshot ID: `MCwzZjg1N2QxYTJjZTRhZGQ2YWExNDI0NTdmODQxODM5YWZkMWIwMDUy`

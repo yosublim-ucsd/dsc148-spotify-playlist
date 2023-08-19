@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,995 likes - 100 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,094 likes - 100 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 25 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 |
 | 26 | [Lazy Bird \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:07 |
 | 27 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
-| 28 | [52nd Street Theme \- Rudy Van Gelder Edition/1998 Digital Remaster](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 |
+| 28 | [52nd Street Theme \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 |
 | 29 | [Seven Steps to Heaven](https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:23 |
 | 30 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
 | 31 | [Now's the Time \- Remastered Version](https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird \(Remastered Version\)](https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [Tune Up \- Remastered](https://open.spotify.com/track/1t5fyaRFbDXWvk8Gm9OeHO) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 5:44 |
 | 100 | [What Is This Thing Called Love](https://open.spotify.com/track/78JxdygBaOAGfKC4wIC1Cv) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Clifford Brown And Max Roach At Basin Street](https://open.spotify.com/album/3uPU83MTXiLpmpoAMViCBc) | 7:33 |
 
-Snapshot ID: `MCw2MDBjYzBlZjZjNjUzZmYxZDY4NDVkNTVlNTc0MWQ4MzhhNGM1NzBj`
+Snapshot ID: `MCwwOWQwMDk3ODQ3MWRmNDEzMzgyNTg2ZGU5ZDE3ODdmNWRlODc3MDI3`

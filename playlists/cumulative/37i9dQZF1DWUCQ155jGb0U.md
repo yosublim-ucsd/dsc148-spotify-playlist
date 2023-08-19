@@ -4,7 +4,7 @@
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-201 songs - 12 hr 58 min
+202 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Fluorescent Adolescent](https://open.spotify.com/track/5z8UBfhE6K2akrmEqzpVLw) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/7fs84A1nvT19DGHdd4mGT8) | 3:03 | 2022-10-14 | 2022-11-13 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-07-25 |  |
 | [Get It Back](https://open.spotify.com/track/6rT2aU4P6l0NL4yr2lEwUr) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Get It Back](https://open.spotify.com/album/6OxeYR6XlbyBvYMrUzAfe3) | 3:41 | 2022-04-18 | 2022-07-26 |
-| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-10 |  |
+| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-10 | 2023-08-19 |
 | [Going Down South](https://open.spotify.com/track/1Bm1YppuoO7oTAJ7s0Eyma) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Going Down South](https://open.spotify.com/album/5TeN9UapR2EHe4UDBW9lsh) | 3:48 | 2022-04-18 | 2022-07-26 |
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2022-07-25 |  |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-04-18 | 2022-07-26 |
@@ -127,6 +127,7 @@
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2022-07-25 |  |
 | [Otherside](https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 4:15 | 2022-04-18 |  |
 | [Paralyzed](https://open.spotify.com/track/6RPEOpZq5NOOOsrhHXeYYM) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Paralyzed](https://open.spotify.com/album/6eFvbP6gEe8D8wT91NOFVi) | 4:13 | 2023-07-14 |  |
+| [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-18 |  |
 | [Plastic Beach \(feat\. Mick Jones and Paul Simonon\)](https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:47 | 2022-07-25 |  |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-07-25 |  |
 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 | 2022-07-25 | 2023-06-03 |

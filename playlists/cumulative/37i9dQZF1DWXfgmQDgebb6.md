@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Blue.D\(블루디\)\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: GEMINI\)
 
-316 songs - 17 hr 40 min
+317 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 | 2022-05-27 | 2023-05-08 |
 | [Unconditional Love](https://open.spotify.com/track/7b2UByK5M5c2mwyWtr1gMc) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 4:07 | 2022-05-27 | 2022-07-26 |
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-25 | 2023-02-21 |
+| [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-18 |  |
 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 | 2022-11-08 |  |
 | [Wait](https://open.spotify.com/track/2ILuzHZ3x0KUctLIpYhVAg) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7IVXJq84oVDxFmDQIHHkrR) | 4:00 | 2022-07-08 | 2022-11-14 |
 | [Wait 기다려](https://open.spotify.com/track/4Eo28FoXUwJa1V4S5qiC5e) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7oIyZIfqaOu2uF2QGtB28i) | 4:00 | 2022-05-27 | 2022-07-28 |
@@ -314,7 +315,7 @@
 | [ㅎㄷㄷ \(prod\. 윌라\)](https://open.spotify.com/track/2VGQZPkLknBBAVnjT25Cok) | [ALT](https://open.spotify.com/artist/2zOevuLrvNQ7BLD5hXUqrb) | [ㅎㄷㄷ](https://open.spotify.com/album/2rlkGaVNFGv7dVrBLM9ZCR) | 2:12 | 2022-12-19 | 2023-01-11 |
 | [그랑죠](https://open.spotify.com/track/4HhguQ9sgBBydl7iVzJhPc) | [SERUM](https://open.spotify.com/artist/3eGpjhDidVKd1snpd8As4A), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [그랑죠](https://open.spotify.com/album/0ORaaKXUcQmZO0ZKuCrSM2) | 2:55 | 2022-06-29 | 2022-07-29 |
 | [꿈속의 꿈](https://open.spotify.com/track/2VZhuBambLRdnAHzEfB7Su) | [정혜선 \(JERASTAR\)](https://open.spotify.com/artist/7B4DTKdm0NxPTBXDZfBhcP) | [꿈속의 꿈](https://open.spotify.com/album/00ivYAGZvjzTQ3V1tvqbh4) | 3:54 | 2023-02-20 | 2023-03-18 |
-| [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2022-05-27 |  |
+| [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2022-05-27 | 2023-08-19 |
 | [별이 진다네](https://open.spotify.com/track/0uGDaEPsUUYUtMFjr2QMrg) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 5:20 | 2023-02-20 | 2023-03-18 |
 | [비오는 날 수채화](https://open.spotify.com/track/6Z7QjB1DMqgHac4h4QKCg0) | [강인원 Kang In\-won](https://open.spotify.com/artist/2BE38fOjZd5YJ6w6HUwlPj) | [비오는 날 수채화 1](https://open.spotify.com/album/6qtGteN6DWr1J0KYtnsW5y) | 3:55 | 2023-02-20 | 2023-03-18 |
 | [사랑할 수 있다면](https://open.spotify.com/track/0auWSyw2AZunuhLPsRPNVh) | [정혜선 \(JERASTAR\)](https://open.spotify.com/artist/7B4DTKdm0NxPTBXDZfBhcP) | [꿈속의 꿈](https://open.spotify.com/album/00ivYAGZvjzTQ3V1tvqbh4) | 4:20 | 2023-02-20 | 2023-03-18 |

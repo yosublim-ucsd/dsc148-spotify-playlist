@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Naavu Kuuda OG",
+        "url": "https://open.spotify.com/album/7gu9H6jz3APyKRuxhqMkEq"
+      },
+      "artists": [
+        {
+          "name": "Keerthi",
+          "url": "https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Naavu Kuuda OG",
+      "url": "https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM"
+    },
+    {
+      "album": {
         "name": "Naguve",
         "url": "https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ"
       },
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 122553,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/50n0fBqMzFSirqd0ohbO7s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,169 likes - 161 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,713 likes - 161 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 89 | [24 to 25](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:36 |
 | 90 | [DOMINO \- English Ver.](https://open.spotify.com/track/0b9YBfAcbnhVDUFmsfpDFj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:18 |
 | 91 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 |
-| 92 | [Here Always \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
+| 92 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 93 | [Thunderous](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:03 |
 | 94 | [CHEESE](https://open.spotify.com/track/7qpSatdWQcRHA3hpedL2u4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:02 |
 | 95 | [DOMINO](https://open.spotify.com/track/6Ib6RkvLBMD85bov85apSL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:18 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 160 | [Sunshine](https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:42 |
 | 161 | [STOP](https://open.spotify.com/track/552ixkxUI6snTyEcZUlYRN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:09 |
 
-Snapshot ID: `MCw1NjA0ZDg4OWJkZTkwMjM0ZjYxNDM5YjVhODc2MzkzYWUwMjU2ZjVm`
+Snapshot ID: `MCw3NzJkMTFlYTkyYmNkMzM2NzgyYzY5MzczOWYyMWExN2M0NjkzN2Ez`

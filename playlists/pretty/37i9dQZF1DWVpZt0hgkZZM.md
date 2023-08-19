@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,765 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,785 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [La Chica Gomela \(Niña Fresa\)](https://open.spotify.com/track/69qirPIejgKVEeflQfGah5) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 2:19 |
 | 100 | [Amor Sin Fronteras](https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs) | [Erick Escobar y La Decisión Vallenata](https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [14 Vallenatos Románticos, Vol\. 3](https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn) | 4:43 |
 
-Snapshot ID: `MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5`
+Snapshot ID: `MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw`

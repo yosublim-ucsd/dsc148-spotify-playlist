@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,478 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,473 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 100 | [Love Changes Everything](https://open.spotify.com/track/6eACLLkE060QHoxvJZaIXT) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Into the Light](https://open.spotify.com/album/3J7jxdGbgpikotJaPIUEqM) | 5:13 |
 
-Snapshot ID: `MCxiODE4NjFjZGM1MzRhZjBjNWQ5ZWE3ZWRmYTFkNmJmOTg0ZGEzYjUx`
+Snapshot ID: `MCw2MjUyZTQxNzY0MjU4ODcwYjY3ZTcxYmMzMzhlYmMzYTM1MWM0ZTZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,078 likes - 70 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,105 likes - 70 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 27 | [Wall of Sleep](https://open.spotify.com/track/0O3YlTNABo6rkYRCr1B5oR) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Wall of Sleep](https://open.spotify.com/album/6WKt6OzByTii9cHuKf7l5B) | 4:47 |
 | 28 | [Subcultures](https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 5:58 |
 | 29 | [Pinger](https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/7aKgtWED31pHemqYp2ltCy) | 4:58 |
-| 30 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
+| 30 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 |
 | 31 | [Get Down](https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Get Down](https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS) | 4:01 |
 | 32 | [Whatitcouldbe](https://open.spotify.com/track/74JVzAeT2MeGQoDMdciKJV) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/4vrJWnbIjBvj9j4NvsUjD6) | 3:09 |
 | 33 | [The Limit](https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [tibasko](https://open.spotify.com/album/3PlPv5OzpGsqBpjtFB38U9) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 69 | [Bring The Noise](https://open.spotify.com/track/5f5yWTulFlrBE0DhPtVnEd) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:27 |
 | 70 | [Sugar](https://open.spotify.com/track/3WVYDLSVgs1mnUsGeI0ezM) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Sugar](https://open.spotify.com/album/6aKsy0z4QRDDcAgoWp7Nvx) | 5:16 |
 
-Snapshot ID: `MCxkZTA0Y2FmN2JlMzg0ZmM4Mjc0Zjg1ZTAwNDZlZDcxMjUyNWMyMjky`
+Snapshot ID: `MCw1MDE0YjQwMDVjYjhjOTA0MTQ2YTNlZWM4NDJiZDZkMzAwZWE4MDg1`

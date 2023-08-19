@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,704 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,146 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 69 | [Ein Stern \(der deinen Namen trägt\) \- Party Mix](https://open.spotify.com/track/1o5evgltJughVgrPinzAOV) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Nik P.](https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:56 |
 | 70 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 |
 
-Snapshot ID: `MCwwYTg3Nzc3YWFjNzYwNzQ3YzcyYWE2MjI1MDAwZDBiNTczMjQ1NjNi`
+Snapshot ID: `MCxkZTc5ZjMxNTk5ZGEzODllOTdiNmE0YzVhMmE0MWVhNDM1NjNlMGU4`

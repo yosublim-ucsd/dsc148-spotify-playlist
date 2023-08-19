@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Reality Club Presents\u2026",
+        "url": "https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Four Summers",
+      "url": "https://open.spotify.com/track/4uqeKoMtmbl1FTlRMdXKx5"
+    },
+    {
+      "album": {
         "name": "Konspirasi Alam Semesta",
         "url": "https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 222000,
       "name": "Itu Aku",
       "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
@@ -1118,6 +1136,28 @@
       "duration_ms": 171355,
       "name": "lowkey",
       "url": "https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi"
+    },
+    {
+      "album": {
+        "name": "Berona",
+        "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Luka",
+      "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
     },
     {
       "album": {
@@ -2310,7 +2350,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 241776,
       "name": "You'll Be In My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"

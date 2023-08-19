@@ -1,13 +1,157 @@
 {
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Residente y Ricky Martin en portada. ",
-  "num_followers": 10476,
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Santa Fe Klan y Snow Tha Product en portada. ",
+  "num_followers": 10540,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWQxYzZiNGE2ZjY5NzExYjgzNThhYzE4NGVhODY5MmI2Mzg4YjMx",
+  "snapshot_id": "MCw0NzVkMDVjMTIxNzFkOGQxOTU0ZmZmZmRlYTVhZDM2NDFiMmMwZDk2",
   "tracks": [
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "3x4",
+        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 167224,
+      "name": "3x4",
+      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 166708,
+      "name": "Erick Serm\u00f3n",
+      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Cuentas Claras\u2026",
+        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "duration_ms": 237391,
+      "name": "Cuentas Claras\u2026",
+      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Mala Racha",
+        "url": "https://open.spotify.com/album/02PESQRmnGTsNkaKsrXMZG"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Mala Racha",
+      "url": "https://open.spotify.com/track/76DS7qXG1GNmrKXTQvjPea"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/0vKEA8tVlS3ZAba9CWuRiJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        }
+      ],
+      "duration_ms": 223361,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/1TcbvR0qvhA07FZvMShKjb"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "En Donde Estar\u00e1s",
+        "url": "https://open.spotify.com/album/4DRAVQUlqtFyU7bKA6kOgx"
+      },
+      "artists": [
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "En Donde Estar\u00e1s",
+      "url": "https://open.spotify.com/track/1eOY4zBNRIpmSXXQajpfpF"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "IAIA: Irrupci\u00f3n At\u00f3mica de la Inteligencia Artificial",
+        "url": "https://open.spotify.com/album/2cdTv8RPfACSNe4LdCwvZC"
+      },
+      "artists": [
+        {
+          "name": "DRZUPREEME",
+          "url": "https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV"
+        }
+      ],
+      "duration_ms": 128455,
+      "name": "Romanescos",
+      "url": "https://open.spotify.com/track/2cm10yj0ysthPPzfawwyVG"
+    },
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
@@ -1714,6 +1858,10 @@
         {
           "name": "Thomas Parr",
           "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Kazu",
+          "url": "https://open.spotify.com/artist/4ZiMK3f5EfARKFyORGd0hp"
         }
       ],
       "duration_ms": 180932,

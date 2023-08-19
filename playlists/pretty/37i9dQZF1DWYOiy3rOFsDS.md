@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Daniel, Me Estás Matando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,042 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,184 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
 | 100 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 
-Snapshot ID: `MCw4Nzk2OTQ3N2U5YzNhOWVkZjNlMzRlODkxOTQwNjAzZWQxMDBiNGU1`
+Snapshot ID: `MCxjM2I3YWU1NTM3NTFiYTkyYzg4ZjYzMmIzZjVmMWY5Y2VjNTI1NzM0`

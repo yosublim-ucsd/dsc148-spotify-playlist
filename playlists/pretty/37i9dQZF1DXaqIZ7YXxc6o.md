@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Moss, The Boy Of Many Colors
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,035 likes - 112 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,063 likes - 112 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 47 | [808](https://open.spotify.com/track/1ZeZjflXJotwHx4uNX8QoK) | [3NDLES5](https://open.spotify.com/artist/1UHjR5NxoDxWX9feUfS6jL), [Crazymike](https://open.spotify.com/artist/0pqnRTJ9eQrOo7cpJzdAcF) | [808](https://open.spotify.com/album/2DbU0PvxwnwNUD25K1jGqc) | 2:53 |
 | 48 | [All I Need](https://open.spotify.com/track/1qpWQaFQWhvQRFZJzzqVxa) | [For Life](https://open.spotify.com/artist/6Fr8UvJOgnnQNQZNSWzWCV) | [All I Need](https://open.spotify.com/album/6VNDUYTvROJTVqE3u94bT6) | 3:22 |
 | 49 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 |
-| 50 | [NO PLACE IS TOO FAR \(feat\. Whethan & Sela Sol\)](https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [NO PLACE IS TOO FAR \(feat\. Whethan & Sela Sol\)](https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf) | 3:00 |
+| 50 | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf) | 3:00 |
 | 51 | [Eternal Crush](https://open.spotify.com/track/0ZLCrlcKHqNrH9j3WExZah) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Eternal Crush](https://open.spotify.com/album/4mO9RnjErfClHcqvpCxyp3) | 2:42 |
 | 52 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 |
 | 53 | [UNAVAILABLE \(feat\. Musa Keys\) \- Major Lazer Remix](https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [UNAVAILABLE \(feat\. Musa Keys\) \[Major Lazer Remix\]](https://open.spotify.com/album/5hCoRG8VEHUOsZ55sQWYEs) | 3:52 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 111 | [Further Away](https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Further Away](https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB) | 3:14 |
 | 112 | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1) | 2:50 |
 
-Snapshot ID: `MCxjN2EwNmNjNzg4ZWNiMmYzNzI5NjY0NGRjMmJhYTg2NGI3NWRmMmYx`
+Snapshot ID: `MCw3MDc2NmNhNzA3N2ZkZjUxOWQ3ODNiZDcwNDA4MGJiZDUwYmVmNzZi`

@@ -4,7 +4,7 @@
 
 > She's everything\. He's just Ken\. Listen to the music from and inspired by Barbie, curated by Mark Ronson.
 
-42 songs - 2 hr 19 min
+45 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [I’m Just Ken](https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 3:42 | 2023-07-21 |  |
 | [Journey To The Real World](https://open.spotify.com/track/43evTNhnbi70nlOVZ8Q5sK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 1:27 | 2023-07-21 |  |
 | [Juice \(Know The Ledge\)](https://open.spotify.com/track/4LXsPdBcHAuttD9mKyhA8a) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Gold](https://open.spotify.com/album/3nawsgthTwlZbXoUjcWoaH) | 4:01 | 2023-07-07 |  |
+| [Ken Makes a Discovery](https://open.spotify.com/track/3c2UJ9MmoWR5ofOb8uYqeL) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:33 | 2023-08-18 |  |
 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GQqj9jRtDkMp8zByehXQI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 4:24 | 2023-07-07 |  |
 | [Let's Hear It for the Boy \- From "Footloose" Soundtrack](https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 4:21 | 2023-07-07 |  |
 | [Man I Am](https://open.spotify.com/track/28NzgzNmoHRsFKihGxpmmV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 3:07 | 2023-07-21 |  |
@@ -42,6 +43,7 @@
 | [Silver Platter](https://open.spotify.com/track/6QS24xFgmG0XPxsmFhGTYS) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:45 | 2023-07-21 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-07 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2023-07-21 |  |
+| [Stairway to Weird Barbie](https://open.spotify.com/track/4BkEbxPB39DPn7Wrrb90MT) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:47 | 2023-08-18 |  |
 | [Stayin' Alive](https://open.spotify.com/track/2xSXw1EqGSAKc1e4TPaQvV) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \(The Original Movie Soundtrack Deluxe Edition\)](https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7) | 4:44 | 2023-07-07 |  |
 | [Sweet Freedom](https://open.spotify.com/track/4ZsYF5rjUXIwds6KNimPRo) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Running Scared Original Soundtrack](https://open.spotify.com/album/0jpBkCsQky21f4HOrDse6R) | 7:39 | 2023-07-07 |  |
 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 | 2023-07-07 |  |
@@ -49,6 +51,7 @@
 | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-07-07 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 |  |
 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 | 2023-07-07 |  |
+| [You Failed Me!](https://open.spotify.com/track/3T4d38TxiVSAD5EmLEqTte) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 3:37 | 2023-08-18 |  |
 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 | 2023-07-07 |  |
 
 \*This playlist was first scraped on 2023-07-13. Prior content cannot be recovered.

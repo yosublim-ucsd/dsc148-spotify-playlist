@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,628 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,673 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 32 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 |
 | 33 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
 | 34 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 |
-| 35 | [Such Owls As You](https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Charcoal](https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f) | 5:29 |
-| 36 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
+| 35 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
+| 36 | [Such Owls As You](https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Charcoal](https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f) | 5:29 |
 | 37 | [Eventide](https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm) | [Michael Hoppé](https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK) | [The Unforgetting Heart](https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG) | 4:31 |
 | 38 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 |
 | 39 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 44 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 |
 | 45 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 |
 | 46 | [Libero](https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:06 |
-| 47 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 |
-| 48 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 |
+| 47 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 |
+| 48 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 |
 | 49 | [Lumiere](https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Lumiere](https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3) | 2:48 |
 | 50 | [Humpback Whales](https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:21 |
 | 51 | [Afternoon Spirits](https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:31 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 68 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 |
 | 69 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 |
 | 70 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 |
-| 71 | [Bodh Gaya](https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:01 |
-| 72 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 |
-| 73 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 |
-| 74 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 |
+| 71 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 |
+| 72 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 |
+| 73 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 |
+| 74 | [Bodh Gaya](https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:01 |
 | 75 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 |
 | 76 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 |
 | 77 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 85 | [Liquid Air](https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:33 |
 | 86 | [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 |
 | 87 | [Ali](https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p) | [Caleufu](https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4) | [Caleufu](https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12) | 2:07 |
-| 88 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 |
-| 89 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 |
-| 90 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
+| 88 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
+| 89 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 |
+| 90 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 |
 | 91 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 |
 | 92 | [Sonámbulos](https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX) | [Abril Iluso](https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd) | [Sonámbulos](https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V) | 3:12 |
 | 93 | [Into Gratitude \- Stripped](https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Into Gratitude](https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Gotham \(acoustic\)](https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [Gotham](https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c) | 2:30 |
 | 100 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 |
 
-Snapshot ID: `MCxjNjIwNjNiNGUwZTQ3N2E3YTliNDI2NjdiYzI5NWZlMTBlOThjYTg4`
+Snapshot ID: `MCwwZDBjZmFkZWQwMjA4YWFlZTE0MmFhZTlkZmJkNmZhMmVmNWZlOTRh`

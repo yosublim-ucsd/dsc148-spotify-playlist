@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 473446,
+  "num_followers": 473469,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjcyNjFhNWI2MDQ2NWY3ZjI4YWFjYTAxNjk3MjIxNzhjZmU4Mzgx",
+  "snapshot_id": "MCw1MDQ1MjViYjdkYzE3YThhYmMwNjZlMDUyNDZlZjRiMDY2YjU4NDZj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -951,6 +951,38 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Caves",
+        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 179234,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -975,38 +1007,6 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Caves",
-        "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "Caves",
-      "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "All the Best",
-      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "A Long December",
         "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 260812,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "All the Best",
+      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Genuine Negro Jig",
         "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236600,
       "name": "Hit 'Em up Style",
       "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 274185,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1967,26 +1967,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/5e8eSj5xIgJxdmHMphwUcB"
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
       "artists": [
         {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        },
-        {
-          "name": "Jordan C. Brown",
-          "url": "https://open.spotify.com/artist/2Be71FORRclLcc097kl39G"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 301456,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0QCZRTDJbGo40h7mWL8Pa2"
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2023-08-04 04:00:00",

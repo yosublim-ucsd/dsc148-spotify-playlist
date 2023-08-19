@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-131 songs - 7 hr 40 min
+132 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Coast](https://open.spotify.com/track/0EP9x1QUdcadJpBU7UQbms) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:50 | 2022-08-20 |  |
 | [COASTIN'](https://open.spotify.com/track/1zU19VzTdp3yPm2ZiQcdLK) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [COASTIN' \- EP](https://open.spotify.com/album/3XRFDkDNBBEQ5TJutSmfUz) | 2:51 | 2022-06-10 |  |
 | [Coconut Tree \(with Willie Nelson\)](https://open.spotify.com/track/3UJZ4VcHfSWyrMky8vobzv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Life on a Rock](https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO) | 3:24 | 2020-09-08 |  |
+| [Coconut Trees](https://open.spotify.com/track/7mjGn1B81W1WB4rA767kzr) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [Coconut Trees](https://open.spotify.com/album/3VPXrLl0n203tcl28RzgWJ) | 3:06 | 2023-08-18 |  |
 | [Come Monday](https://open.spotify.com/track/0yje3JVMgJNZENayymCTHA) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Living And Dying In 3 / 4 Time](https://open.spotify.com/album/42UI9dZM7ZJTW7ONG4wGEE) | 3:11 | 2022-04-24 |  |
 | [Danny's Song](https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [The Best: Loggins & Messina Sittin' In Again](https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf) | 4:14 | 2022-06-20 |  |
 | [Dashboard Hula Girl](https://open.spotify.com/track/3nGglhkkqMtlVmlQ7weeg2) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/2vm15qy6altCkBjOf0COdr) | 3:27 | 2020-09-08 | 2022-07-29 |

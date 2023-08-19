@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-173 songs - 10 hr 24 min
+174 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Oh Ohio](https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Oh Ohio](https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5) | 2:58 | 2023-03-17 | 2023-06-03 |
 | [Oklahoma \(feat\. Read Southall Band\)](https://open.spotify.com/track/4YGql2q12wnXTdMvTm5573) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 7:38 | 2023-02-24 | 2023-05-24 |
 | [Oklahoma \(feat\. Southall\)](https://open.spotify.com/track/1JlvPuYK9sSOFjLx7vfKNO) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 7:38 | 2023-05-22 |  |
+| [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-08-18 |  |
 | [Only Thing That’s Gone \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:16 | 2023-03-17 |  |
 | [Outlaw \(feat\. Ben Burgess\)](https://open.spotify.com/track/2NK6dtSujGIyilnEgbw8MX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:49 | 2023-03-17 |  |
 | [Pearson Road](https://open.spotify.com/track/1S5yRRnXYlNTp5x7Dipfdd) | [Austin Upchurch](https://open.spotify.com/artist/6shtDekLyD0Qw691reWyg0) | [Pearson Road](https://open.spotify.com/album/4ZabshU4G6mQyqWkHOPDTp) | 3:32 | 2023-02-24 | 2023-03-25 |
@@ -131,7 +132,7 @@
 | [Psychopath](https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe) | 3:28 | 2023-05-19 |  |
 | [Ramblin Man](https://open.spotify.com/track/4a1oIFgu01B2nafpOHgvHZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ramblin Man](https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3) | 2:47 | 2023-03-24 |  |
 | [Ranch Hand \- Me and a Fiddle](https://open.spotify.com/track/51qkvWdztu2I4vBVgnfNAf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Me and a Fiddle](https://open.spotify.com/album/2D6Qii7ix3kbQ3IY964uzW) | 3:26 | 2023-06-30 |  |
-| [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-13 | 2023-08-15 |
+| [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-13 |  |
 | [River Run](https://open.spotify.com/track/4cns2rtLADG9gaNlItD8mR) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:11 | 2023-05-22 | 2023-07-01 |
 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:11 | 2023-03-24 | 2023-06-01 |
 | [Rodeo Money](https://open.spotify.com/track/1cSjK6jDelAxuBypzWsJ7R) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Rodeo Money](https://open.spotify.com/album/2f2ENXEtPErgBXvvhTCBH2) | 3:47 | 2023-02-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,376 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,399 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [Dancing](https://open.spotify.com/track/2iAs2WIRVMGiN3RBOzW3BI) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Dancing](https://open.spotify.com/album/6ka6nxWStlsLUxmyNdxkzq) | 3:30 |
 | 70 | [이른 겨울\(Feat\. Gist, 기원\(Giwon\)\)](https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [기원 \(Giwon\)](https://open.spotify.com/artist/1sf52yxej6A0Yso1Gv7vdY) | [이른 겨울](https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu) | 2:52 |
 
-Snapshot ID: `MCw3ZGFlZDFiNGYyZDQwMTBjNzE4NzgyMDFiZjM0N2E1NjNlNmEzZTMx`
+Snapshot ID: `MCwxMzZiMjU1YzM3YjFkNDI4OGQ0YTU1MmU4MDQ5NjBmZGFjYzY4NDVi`

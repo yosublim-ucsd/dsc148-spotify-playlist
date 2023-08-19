@@ -4,7 +4,7 @@
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-278 songs - 17 hr 16 min
+280 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Ends of the Earth](https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:44 | 2022-12-09 | 2023-05-01 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-01-06 |  |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2021-12-17 |  |
-| [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-12-17 |  |
+| [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-12-17 | 2023-08-19 |
 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 | 2021-12-17 |  |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-05-25 |  |
 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2022-05-25 |  |
@@ -227,7 +227,7 @@
 | [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 | 2022-01-07 | 2022-11-22 |
 | [Song for Nick Drake](https://open.spotify.com/track/7ziCau3pxkib4zGiCk2njz) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7icCUSzSQD22C82ldwMCOe) | 2:57 | 2021-12-17 | 2022-05-22 |
 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 | 2022-02-16 |  |
-| [Spectrum](https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 4:25 | 2021-12-17 |  |
+| [Spectrum](https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 4:25 | 2021-12-17 | 2023-08-19 |
 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 | 2021-12-17 |  |
 | [State of Flight](https://open.spotify.com/track/21DOy3oZ7aKupTpVADoe09) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [State of Flight](https://open.spotify.com/album/0sunBQLEqyaT1iojx2XoYV) | 3:44 | 2022-04-15 | 2022-07-29 |
 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 | 2021-12-17 | 2022-10-17 |
@@ -237,6 +237,7 @@
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-12-17 | 2022-10-23 |
 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 | 2021-12-17 |  |
 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 | 2021-12-17 | 2022-10-20 |
+| [Take Care \(Pine Studios\)](https://open.spotify.com/track/66OVsGNlYioHP3scmdE6eb) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow \(Deluxe\)](https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp) | 4:10 | 2023-08-18 |  |
 | [Tear Us Apart](https://open.spotify.com/track/34XV3jaAksvTR7jMWIvi7x) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:35 | 2021-12-17 | 2022-07-25 |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-12-17 |  |
 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2022-05-25 |  |
@@ -271,6 +272,7 @@
 | [Vagabond](https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 2:09 | 2022-05-25 |  |
 | [Vagabond](https://open.spotify.com/track/3HAgxyWGeJtIVabS2mTREt) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 2:09 | 2021-12-17 | 2022-10-14 |
 | [Walls](https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Walls](https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX) | 3:19 | 2021-12-17 |  |
+| [Watchman](https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX) | 3:18 | 2023-08-18 |  |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-01-21 | 2022-02-12 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-04-01 |  |
 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 | 2021-12-17 | 2023-01-08 |

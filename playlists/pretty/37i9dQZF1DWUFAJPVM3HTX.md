@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Natanya\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,389 likes - 205 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,485 likes - 205 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 84 | [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 |
 | 85 | [Teach Me](https://open.spotify.com/track/1WKbFLS2kDYn8devPt6689) | [Caleb Taylor](https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH) | [Teach Me](https://open.spotify.com/album/5aw4v2mnhQC4fl0BAR3oln) | 3:00 |
 | 86 | [Losing Game](https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Losing Game](https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ) | 2:31 |
-| 87 | [More Than Anything](https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI) | 2:20 |
+| 87 | [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 |
 | 88 | [Nuclear Reactor](https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Nuclear Reactor](https://open.spotify.com/album/38hepIu3uZJAuNK6y9ojEx) | 3:15 |
 | 89 | [BILLING = CHILLING](https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [BILLING = CHILLING](https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3) | 2:50 |
 | 90 | [No More Love](https://open.spotify.com/track/6HocrzGQCqy3IEBTGmVRW4) | [Ivy Lo](https://open.spotify.com/artist/4yMX8oQmCFFmIGgloKdJLY) | [Keep It Off My Mind](https://open.spotify.com/album/7cA3REAbnoMn1SR46EcFsD) | 2:47 |
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 159 | [PHONE DOWN](https://open.spotify.com/track/38iuyBG3Bj4J0Qw9sKMrDn) | [ANDRIELLE](https://open.spotify.com/artist/2jGNYZcCuwa6dNWfVa8hr7) | [PHONE DOWN](https://open.spotify.com/album/6EoPekQd30idDAAi1aEqKa) | 2:55 |
 | 160 | [Astro Travel](https://open.spotify.com/track/0Z4IvS7EA9rKtFKTeay1aV) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Astro Travel](https://open.spotify.com/album/42VAj34qHpL8CNeiQcfoT1) | 2:43 |
 | 161 | [Heaven](https://open.spotify.com/track/6sw7U2DkWE6PpyrJwA7T51) | [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw) | [Color](https://open.spotify.com/album/1qyXEiOlyQkLOXsclicMYN) | 2:58 |
-| 162 | [OF US \(Sped Up\)](https://open.spotify.com/track/6ri772tABSzfkNChBEg4R6) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US \(Sped Up\)](https://open.spotify.com/album/5HOwswPJmAqKrozPimZaD3) | 2:24 |
+| 162 | [OF US](https://open.spotify.com/track/5KuxFGu6TMTW5n69k547G9) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US](https://open.spotify.com/album/51kz4yrBlli5zAvRofJz3f) | 2:33 |
 | 163 | [N@STY](https://open.spotify.com/track/4gakvfER14bHLM7IkBpwsn) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:16 |
 | 164 | [No Pussy For Losers](https://open.spotify.com/track/3kh99WWzbxxl4OOKNzGI0Q) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [No Pussy For Losers](https://open.spotify.com/album/7wE4Cw0xiprtBBk4k8rYs8) | 2:57 |
 | 165 | [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 204 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 |
 | 205 | [Borderline](https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [Borderline](https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw) | 4:09 |
 
-Snapshot ID: `MCw3NTEwMjc0OWFlMTc1OWI2MzA4MWE1ZThmYzRjZWRhZTU3YzI0N2I1`
+Snapshot ID: `MCw4NTkxNGQ4ZGRmYzRmNWQwNjJhNGRmMGEwYTViM2UzYzAzYWU5MGI3`

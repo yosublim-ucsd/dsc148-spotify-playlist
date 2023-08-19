@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "The Pensive Forest",
+        "url": "https://open.spotify.com/album/678q1cHvcW9ShiU9l9JBay"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "The Pensive Forest",
+      "url": "https://open.spotify.com/track/6lOlWHWw9ao9rS6PVNFl62"
+    },
+    {
+      "album": {
         "name": "Celestial Woodlands",
         "url": "https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,514 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,516 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 99 | [Career High \(Feat\. Paloalto, nafla, Chancellor\)](https://open.spotify.com/track/3huX6IPP80pZmLAgiDtiqy) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 4:18 |
 | 100 | [Upgrade 2020](https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 9 Episode 2](https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw) | 4:13 |
 
-Snapshot ID: `MCw2MmQ5NmYxYmVkM2FhZTc3MTkwMmQ5MjIyNjk5ZWEwZjRmMjc3NGY1`
+Snapshot ID: `MCw3NTQ0MTVmOGRkODI1ZTJjYTU4ZTg3ZWRjM2JjYTVkMzhhYWYwMmZm`

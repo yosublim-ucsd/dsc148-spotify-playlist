@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,943 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,220 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 7 | [Insegurança \- Ao Vivo](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [15 Anos \(Ao Vivo\)](https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n) | 3:00 |
 | 8 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 |
 | 9 | [Meu Pedaço de Pecado](https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT) | 2:37 |
-| 10 | [Largado Às Traças \- Ao Vivo](https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:54 |
+| 10 | [Quarta Cadeira \- Ao Vivo](https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:44 |
 | 11 | [Não Sei o Que Lá](https://open.spotify.com/track/28m65cMH7QXHzFnZSTtNHY) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 |
-| 12 | [Quarta Cadeira \- Ao Vivo](https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:44 |
+| 12 | [Largado Às Traças \- Ao Vivo](https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:54 |
 | 13 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 |
 | 14 | [Sua Mãe Vai Me Amar](https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Sua Mãe Vai Me Amar](https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7) | 3:03 |
 | 15 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 33 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
 | 34 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
 | 35 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 |
-| 36 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
-| 37 | [Solteiro Não Trai \- Ao Vivo](https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Solteiro Não Trai \(Ao Vivo\)](https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq) | 3:07 |
+| 36 | [Solteiro Não Trai \- Ao Vivo](https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Solteiro Não Trai \(Ao Vivo\)](https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq) | 3:07 |
+| 37 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
 | 38 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 |
 | 39 | [Ele É Ele, Eu Sou Eu](https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Safadão Amplificado](https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG) | 2:35 |
 | 40 | [Amor Falsificado](https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Amor Falsificado](https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Nunca Vai Ser Nós](https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Nunca Vai Ser Nós](https://open.spotify.com/album/1XhqEq2zud4YlQ5MsOhY6R) | 2:52 |
 | 100 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
 
-Snapshot ID: `MCwzNTRmMWEwY2NkODM0ZjI5ZDJjMWI1Yzg3YjM1ODUwNjM2MDgxZjVh`
+Snapshot ID: `MCw2NWM2NzdiOTJkOTIyNjNjNDQ5NjA5Y2RmNzFhZWU2MDdlNmYyYzA3`

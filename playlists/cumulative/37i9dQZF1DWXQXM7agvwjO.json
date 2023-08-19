@@ -17597,6 +17597,24 @@
     },
     {
       "album": {
+        "name": "\uc131\uc2e4\ud558\uc5ec \ub2e4\uc815\ud558\uace0 \ub54c\ub85c\ub294 sometimes you are\u2026",
+        "url": "https://open.spotify.com/album/2JXKkk6q3wtBjOKPpjdv7I"
+      },
+      "artists": [
+        {
+          "name": "yewee",
+          "url": "https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232499,
+      "name": "\uc131\uc2e4\ud558\uc5ec \ub2e4\uc815\ud558\uace0 \ub54c\ub85c\ub294 sometimes you are\u2026",
+      "url": "https://open.spotify.com/track/42JioTULdqZ2f1IkikFd2R"
+    },
+    {
+      "album": {
         "name": "\ub098\ub294\uc57c \ub77d\uc2a4\ud0c0 ! I\u2019m a rockstar !",
         "url": "https://open.spotify.com/album/1qwt7wQigAO7zle4yXYEM9"
       },

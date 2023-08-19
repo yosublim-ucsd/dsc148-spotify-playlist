@@ -2129,6 +2129,36 @@
     },
     {
       "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170267,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
+    },
+    {
+      "album": {
         "name": "BERRIS FUELLER",
         "url": "https://open.spotify.com/album/1obcloDhNrG4ZpGAvyuQXC"
       },
@@ -8509,6 +8539,24 @@
     },
     {
       "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "I got it bad",
+      "url": "https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE"
+    },
+    {
+      "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
@@ -10526,6 +10574,24 @@
       "duration_ms": 218000,
       "name": "Like a Tattoo",
       "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+    },
+    {
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "album": {
@@ -14531,6 +14597,32 @@
     },
     {
       "album": {
+        "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
+        "url": "https://open.spotify.com/album/3fNM5L0cmVEGzmkYZIkB6X"
+      },
+      "artists": [
+        {
+          "name": "Kyle Gordon",
+          "url": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip"
+        },
+        {
+          "name": "DJ Crazy Times",
+          "url": "https://open.spotify.com/artist/7HmF22PLne8U2Hv1ZMNVPf"
+        },
+        {
+          "name": "Ms. Biljana Electronica",
+          "url": "https://open.spotify.com/artist/1h3ezgw89bB4tDRHKnqPje"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200267,
+      "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
+      "url": "https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI"
+    },
+    {
+      "album": {
         "name": "In My Sins",
         "url": "https://open.spotify.com/album/4GENTWizn55KM44eriqNq8"
       },
@@ -16729,6 +16821,28 @@
     },
     {
       "album": {
+        "name": "Smooth Operator",
+        "url": "https://open.spotify.com/album/3mMDs9legPlijo2yAC6FFj"
+      },
+      "artists": [
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119250,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/4Bdpn1gSDegE9ZXOIOO0tz"
+    },
+    {
+      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -16740,7 +16854,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"

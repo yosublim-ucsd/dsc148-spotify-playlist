@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-881 songs - 2 day 9 hr 28 min
+882 songs - 2 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [I Want You](https://open.spotify.com/track/757Myoc63izEaBWatHbUUs) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [I Want You](https://open.spotify.com/album/5VE3UEUfktGy9CuMOglplR) | 3:55 | 2021-05-14 | 2022-02-02 |
 | [I You She](https://open.spotify.com/track/5kppyqAYdcHnGY3W1KdA1J) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE](https://open.spotify.com/album/7tBQBS0T6plojk62SkKyvm) | 3:16 | 2021-12-03 | 2022-02-02 |
 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-23 | 2023-08-14 |
+| [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-18 |  |
 | [icecld](https://open.spotify.com/track/6ReXKdUFZq4EH5ieeuwNCd) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [icecld](https://open.spotify.com/album/0w1XwvrpTkDgRaL1IykIZf) | 4:19 | 2021-09-17 | 2022-02-10 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-18 | 2023-01-06 |
 | [Idontknow](https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/1OuBffTkjBqwVVfj9I8hHr) | 5:21 | 2022-09-17 | 2022-10-06 |
@@ -616,7 +617,7 @@
 | [Power](https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Power](https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj) | 4:18 | 2022-01-28 | 2022-02-12 |
 | [Praise You \- Radio Edit](https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:47 | 2022-09-17 | 2022-10-06 |
 | [Pressure](https://open.spotify.com/track/1SwMTGhqG7JHdv8yd1lien) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Pressure](https://open.spotify.com/album/6lL2bLegqjlPN6k6cjlyor) | 3:29 | 2021-06-18 | 2022-02-25 |
-| [Pretty Little Thing](https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:01 | 2023-08-11 |  |
+| [Pretty Little Thing](https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:01 | 2023-08-11 | 2023-08-19 |
 | [Price Tags \(feat\. Anderson .Paak\) \- kryptogram Remix](https://open.spotify.com/track/417n6UbUWOdel5iXcROCd0) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Price Tags \(feat\. Anderson .Paak\) \[kryptogram Remix\]](https://open.spotify.com/album/3DXHEA8WETwFkHTlptI9Z7) | 3:41 | 2021-04-20 | 2022-04-15 |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-10-05 | 2023-02-25 |
 | [Process](https://open.spotify.com/track/4qWAsBlrbaNEelKQ8rfzzs) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [Process](https://open.spotify.com/album/27kimHatnzFYP6DyYMlCUP) | 3:10 | 2021-11-05 | 2022-02-12 |

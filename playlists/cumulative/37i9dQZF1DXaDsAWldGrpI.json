@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Your favorite artists, caught in the act! Recorded Live...just like you were there. Cover: Cody Johnson",
+  "description": "Your favorite artists, caught in the act! Recorded Live...just like you were there. Cover: Luke Combs",
   "name": "Country Live",
   "tracks": [
     {
@@ -748,6 +748,24 @@
       "duration_ms": 221280,
       "name": "Dust on the Bottle (with David Lee Murphy) - Live",
       "url": "https://open.spotify.com/track/3oKY5smJilXhPZ3ewVanYI"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "album": {
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Restless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ecuNAudkzhKkokkXS7xXa"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233241,
+      "name": "Suds in the Bucket - Live at West Virginia University Creative Arts Center, Morgantown, West Virginia - Aug. 28, 2004",
+      "url": "https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q"
+    },
+    {
+      "album": {
         "name": "61 Days In Church Volume 1",
         "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
       },
@@ -1806,6 +1842,28 @@
       "duration_ms": 259758,
       "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
       "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
+    },
+    {
+      "album": {
+        "name": "Thank God (Live from Fenway)",
+        "url": "https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240821,
+      "name": "Thank God - Live from Fenway",
+      "url": "https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC"
     },
     {
       "album": {
@@ -1948,6 +2006,24 @@
       "duration_ms": 198040,
       "name": "Travelin' Light - Live",
       "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
+    },
+    {
+      "album": {
+        "name": "Trouble (Live From The Opry / 2023)",
+        "url": "https://open.spotify.com/album/1C0GhQve9fF4YMZeC0a6Ps"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267414,
+      "name": "Trouble - Live From The Opry / 2023",
+      "url": "https://open.spotify.com/track/3vxBzadt8w0QHvLlMvS0UO"
     },
     {
       "album": {

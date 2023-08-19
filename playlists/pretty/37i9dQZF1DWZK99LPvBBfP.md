@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,734 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,216 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/39qNshURj4X8qghle1JSXq) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y demonios](https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso) | 7:30 |
 | 80 | [Body Language \- Original Mix](https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Body Language](https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV) | 7:18 |
 
-Snapshot ID: `MCwzNDcxZTkzNTAwMjMyOTI3ZDA4OWJjZWFlMjFmZTRiMDMwOWEwYWUx`
+Snapshot ID: `MCxiN2QzOTc5OGRiZjRhZWViNWI0ZjdkNmViZDgxODcyYmEzNzkxMzQ3`

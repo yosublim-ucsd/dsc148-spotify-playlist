@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-329 songs - 16 hr 2 min
+330 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-10-01 |  |
 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 | 2021-07-05 |  |
 | [Weekenjoyment](https://open.spotify.com/track/3eDN2mOgfKDdYkWGHsvbFj) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 2:48 | 2022-07-22 | 2022-08-06 |
-| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-17 |  |
+| [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 | 2023-08-19 |
 | [Whateva](https://open.spotify.com/track/71dF8V3CxGANvLOTWxThF7) | [Marz BGX](https://open.spotify.com/artist/1la0AGaLZ4v7WSjS99nAps) | [Whateva](https://open.spotify.com/album/4fozxo7GfdDlwvbwkOjjkt) | 2:49 | 2023-06-02 | 2023-08-04 |
 | [Who Knows Tomorrow](https://open.spotify.com/track/2eWUSvBfYbiMU4Ihk4yKrj) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Who Knows Tomorrow](https://open.spotify.com/album/7JfSTfghTIKpBgb8TBVTw1) | 3:01 | 2023-05-04 | 2023-05-12 |
 | [Who We See](https://open.spotify.com/track/36OnfuDiPeEv3H1ubvTGuw) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Jamopyper](https://open.spotify.com/album/1BBPS3NNluXVn7x7fM5VTT) | 3:17 | 2023-07-20 | 2023-07-29 |

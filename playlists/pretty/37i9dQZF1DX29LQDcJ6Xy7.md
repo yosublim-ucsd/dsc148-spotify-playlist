@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,223 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,393 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Dirty Freddy \- Remix](https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2) | [Extize](https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Dirty Freddy \(Remix\)](https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy) | 3:50 |
 | 100 | [Justice Way](https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Justice](https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA) | 3:07 |
 
-Snapshot ID: `MCxiOThlNWQ1ZGFjM2ExZjQ0NGM0ODk5NTJjMzI3NGI4MjI5ZGI1MGY1`
+Snapshot ID: `MCxkZjBlZWViMzgzZDg5ODViMWU5MDEyNWJkYzE5NTIzODQ0M2VhM2Uy`

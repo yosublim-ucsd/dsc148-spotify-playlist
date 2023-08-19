@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Cold Stares
 
-241 songs - 15 hr 13 min
+243 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 |  |
 | [Chevrolet](https://open.spotify.com/track/4icURV4pUCDz0C3T5n4fzk) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Chevrolet](https://open.spotify.com/album/50AUhOEi0tTqeVGBuW9VMh) | 2:29 | 2022-05-20 | 2022-06-11 |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-03-05 |  |
-| [Come For Me](https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Come For Me](https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS) | 3:29 | 2022-11-18 |  |
+| [Come For Me](https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Come For Me](https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS) | 3:29 | 2022-11-18 | 2023-08-19 |
 | [Come On](https://open.spotify.com/track/5pqBru8D3AFDmbTiCCLdDi) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Fading Away](https://open.spotify.com/album/0Y2F59RRop0f41p7rTFwQS) | 3:45 | 2021-04-09 |  |
 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 | 2020-10-16 | 2023-04-30 |
 | [Corner Store](https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Corner Store](https://open.spotify.com/album/1CvLJhUtVluGc4ujgPbEQb) | 2:43 | 2022-07-15 |  |
@@ -59,7 +59,7 @@
 | [Don't Look Down](https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Don't Look Down](https://open.spotify.com/album/1fKlDb2Fk6pRpnt1DFQVTO) | 4:16 | 2023-07-07 |  |
 | [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 |  |
 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
-| [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 |  |
+| [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 | 2023-08-19 |
 | [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 |  |
 | [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 | 2023-07-14 |  |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
@@ -144,6 +144,7 @@
 | [My Lucky Card](https://open.spotify.com/track/12u0n2WRFPk77ABpMpZf1n) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [My Lucky Card](https://open.spotify.com/album/6DHPzfzyUVucpFf74jHCTr) | 2:33 | 2021-05-14 | 2022-07-29 |
 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 | 2021-05-14 |  |
 | [No Blood From A Stone](https://open.spotify.com/track/5wnuJCeGo4AWr1iFYYxksC) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [A Place In The Unknown](https://open.spotify.com/album/5m8eSQ62CafLZhBjKEEYw6) | 3:39 | 2022-02-25 | 2022-08-14 |
+| [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 | 2023-08-18 |  |
 | [No More Fire](https://open.spotify.com/track/2yTZSzl6XflxCRU7NnnW8M) | [The Gravel Project](https://open.spotify.com/artist/1aM51hYWVvC9a4piqQcqD4) | [Many Miles Ahead](https://open.spotify.com/album/20KjNLIRKH70voeLo5ohqv) | 4:48 | 2022-03-04 |  |
 | [None of Your Business](https://open.spotify.com/track/6scQaEbZRJRSHlUecMPdMc) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [None of Your Business](https://open.spotify.com/album/6GN9W8VK95e9NLNOSFQkuX) | 3:20 | 2021-04-09 | 2023-05-06 |
 | [Notches](https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Notches](https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D) | 7:03 | 2021-07-23 | 2022-11-13 |
@@ -199,6 +200,7 @@
 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 |  |
 | [Sunshine Lady](https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6) | [The Shelter People](https://open.spotify.com/artist/3m1rUUzCaulww0FUM2Gw1i) | [Sunshine Lady / Rock n Roll](https://open.spotify.com/album/0LZ5hsTglEgJovaQgDru6v) | 3:01 | 2022-06-03 |  |
 | [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 | 2021-12-07 | 2023-08-05 |
+| [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 |  |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 | 2023-03-04 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2021-02-26 |  |
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-02-26 | 2022-07-28 |

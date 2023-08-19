@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,280 likes - 100 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,295 likes - 100 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Firmamento](https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 13:55 |
 | 100 | [Pipe Inversions](https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 14:28 |
 
-Snapshot ID: `MCxlM2NkODQyMGMyNjk3M2I3YzFlMjJjNzZiYjA2ZDJiOGFlMmZmZTNl`
+Snapshot ID: `MCw3NGYwMWFmNzhmZTc1YTFjYmJmY2YwOGRhZTE3ZTlmNzEyNzdhYmY0`

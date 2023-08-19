@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [Glory](https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:20 |
 | 100 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 |
 
-Snapshot ID: `MCw4NmNhODZhMmU2ODg0Mjk3YjcyODZmM2QyZjhmOTdjNDE3YmFjNGU3`
+Snapshot ID: `MCwyZDk0M2JjODYwNTJhZDgyNTFmZTEwMmY2ODk3ZmEyYzBmYmUzZDBi`

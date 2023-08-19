@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,221 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,277 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [I Can’t Let Go \- Remastered](https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Color Rit \(Remastered\)](https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ) | 4:16 |
 | 100 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
 
-Snapshot ID: `MCw0MjkxY2Y0YjEwYzMxOWIxZTAzMGZmY2ViYzA3Y2ZmNGI4OWNlMmU2`
+Snapshot ID: `MCw3NzViMGM0ZGY1ZTVjMWY3MTBmNzJkODE5NWFiNTIzZDk0ZTZjMjNk`

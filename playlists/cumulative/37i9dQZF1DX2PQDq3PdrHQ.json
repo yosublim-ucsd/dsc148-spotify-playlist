@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "7Tones",
+        "url": "https://open.spotify.com/album/3893CMgeTwRZmUXBldxIDo"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153636,
+      "name": "7Tones",
+      "url": "https://open.spotify.com/track/55s9HlPWiOumZpViWeMptX"
+    },
+    {
+      "album": {
         "name": "Sleep Soul Relaxing R&B Baby Sleep Music (Vol. 2 / Presented by Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/3NmfLWcT023WA9xkFxUOVK"
       },
@@ -455,6 +473,24 @@
     },
     {
       "album": {
+        "name": "An Anomaly",
+        "url": "https://open.spotify.com/album/6IsZFU8C4UKMyB2HJz8rDJ"
+      },
+      "artists": [
+        {
+          "name": "Wishard",
+          "url": "https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "An Anomaly",
+      "url": "https://open.spotify.com/track/0ETsKmUjKMk5KbMktmcJkt"
+    },
+    {
+      "album": {
         "name": "Angel Number",
         "url": "https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f"
       },
@@ -690,6 +726,24 @@
       "duration_ms": 139598,
       "name": "bedtime routine",
       "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
+    },
+    {
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/0iwbHAYFibN9BRnY3QXkyf"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly, CC",
+          "url": "https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149229,
+      "name": "Bedtime Stories",
+      "url": "https://open.spotify.com/track/58tz6Yhb4Fls6Fanm7k7yR"
     },
     {
       "album": {
@@ -1132,6 +1186,28 @@
       "duration_ms": 124004,
       "name": "Calm City",
       "url": "https://open.spotify.com/track/6mSrioYFENXOUzqeUpB7fi"
+    },
+    {
+      "album": {
+        "name": "candlelight",
+        "url": "https://open.spotify.com/album/0L2V7JeAv4OCbB1XG3Sij7"
+      },
+      "artists": [
+        {
+          "name": "Flacvih",
+          "url": "https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg"
+        },
+        {
+          "name": "abovus",
+          "url": "https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121345,
+      "name": "candlelight",
+      "url": "https://open.spotify.com/track/2X6DKsYGYiPYCn0iezQja7"
     },
     {
       "album": {
@@ -3273,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/1kkJfkWtHIchrkxz1ShILT"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/5FtoDcfUO6XwuNAm2JUUQO"
+    },
+    {
+      "album": {
         "name": "Falling stars",
         "url": "https://open.spotify.com/album/0vOTGw6QkdEYj8dgOK9YrN"
       },
@@ -3440,6 +3534,28 @@
       "duration_ms": 124556,
       "name": "first look",
       "url": "https://open.spotify.com/track/4fhwddTpcG2yxv26BFVLDd"
+    },
+    {
+      "album": {
+        "name": "Flickering Lights",
+        "url": "https://open.spotify.com/album/3Eu6F3NxjlKxcyKdT3CFkJ"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "Hanni",
+          "url": "https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172968,
+      "name": "Flickering Lights",
+      "url": "https://open.spotify.com/track/2DR0SF7IY37qj9GJKmoIjx"
     },
     {
       "album": {
@@ -3788,6 +3904,24 @@
       "duration_ms": 120000,
       "name": "Further And Further Away",
       "url": "https://open.spotify.com/track/4qlBEvReaCZVYKqnY0QCHx"
+    },
+    {
+      "album": {
+        "name": "garden gnomes",
+        "url": "https://open.spotify.com/album/3qtLuyrhyW7G8GXJI9Xly3"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "garden gnomes",
+      "url": "https://open.spotify.com/track/5wmwBWwC0JRC6AIpKvqZW5"
     },
     {
       "album": {
@@ -5195,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "kyoto dreams",
+        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+      },
+      "artists": [
+        {
+          "name": "WAIIFUU",
+          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "kyoto dreams",
+      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
+    },
+    {
+      "album": {
         "name": "lakeside",
         "url": "https://open.spotify.com/album/7g7wFG6VYXzQuQshgyU8Rd"
       },
@@ -6300,6 +6452,24 @@
       "duration_ms": 142035,
       "name": "memories are all that is left",
       "url": "https://open.spotify.com/track/3LwFzfw1f2P3ROzc02Cdth"
+    },
+    {
+      "album": {
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
+      },
+      "artists": [
+        {
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "album": {
@@ -7981,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "Pieces of Me",
+        "url": "https://open.spotify.com/album/7oq2ghACITvmwGiWQ2D3w7"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Pieces of Me",
+      "url": "https://open.spotify.com/track/2r6scHmDlI7SX711hMMHUN"
+    },
+    {
+      "album": {
         "name": "pink cloud",
         "url": "https://open.spotify.com/album/0YYJs0TtShDzN7e7nFJ4Ph"
       },
@@ -9008,6 +9196,24 @@
       "duration_ms": 193714,
       "name": "shaman dreams again",
       "url": "https://open.spotify.com/track/0ma4paR3UywyIlTzceEtOR"
+    },
+    {
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/0T9z7ZyhLJQjhjr58yxu2G"
+      },
+      "artists": [
+        {
+          "name": "ATD Beats",
+          "url": "https://open.spotify.com/artist/2HjWgx3XLvAeEBEP8fN2uy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/7ibuEySoqXJBCcknENocMe"
     },
     {
       "album": {

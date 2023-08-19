@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,101 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,538 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 99 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
 | 100 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 |
 
-Snapshot ID: `MCw5MWZjZTUxNTc4YmY0YjEzZTcwZThmZDcyZTg0NDdhOGQ0NjEwYjVm`
+Snapshot ID: `MCw0OWU4ODQwYTg0ZTA0YzEwZmQ4ZTRhZGM4NzRiNDczMDE3MjdkMGFk`

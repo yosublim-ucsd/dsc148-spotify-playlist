@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: ネクライトーキー \(NECRY TALKIE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,221 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,235 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 9 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 10 | [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 |
 | 11 | [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 |
-| 12 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 |
+| 12 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
 | 13 | [When dawn comes, we](https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [happiness](https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf) | 4:47 |
 | 14 | [aaa](https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:31 |
 | 15 | [Musica](https://open.spotify.com/track/1iaDqtkMhnPYa8QDS6KFOy) | [Brandy Senki](https://open.spotify.com/artist/2Y1i6bxyYpz8SaVBfWZHeT) | [Jinrui metsubou Wonderland](https://open.spotify.com/album/1lyPHH5S3dpgLoAUtkgHSk) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [no future](https://open.spotify.com/track/49GZ0C0nN3kixGDD4zUS7s) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [no future](https://open.spotify.com/album/2SxIh4v9x8fGvezGfGLWGH) | 3:21 |
 | 70 | [故のLOVE](https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [LOVEの飽和水蒸気量](https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM) | 3:30 |
 
-Snapshot ID: `MCxjNGUxYTc3ZmJmMGIwZWUyMThkMjMyM2Y5OGVlNTIzOTAzYjBhMDdl`
+Snapshot ID: `MCw1NjA2YWUxZGNmYmNmZjcxNjM2MjQwYzZmZTQ3MGJjNTE4MGQwNDE1`

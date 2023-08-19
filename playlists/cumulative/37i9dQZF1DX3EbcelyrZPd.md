@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz & Koffi Olomide
 
-274 songs - 15 hr 41 min
+274 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/track/4kvGwxShHMb2sslstdMcau) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/album/2T9whvgRUn0rG84dz9h5CU) | 3:50 | 2022-08-18 | 2022-09-24 |
 | [For You](https://open.spotify.com/track/4CVrXgRl6AgcoJrXUGP6dZ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [For You](https://open.spotify.com/album/61LXZNptzJVcA8cfA1afhW) | 3:24 | 2021-09-09 | 2022-09-02 |
 | [For You](https://open.spotify.com/track/4xu63atX4wbJ5puwlzu2vW) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yale](https://open.spotify.com/album/6pfvSkYxXAJCvnL7zT8ueO) | 3:24 | 2021-09-09 | 2022-07-29 |
-| [For You](https://open.spotify.com/track/0Lyi8av1zjqxqZXqoawwsW) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [For You](https://open.spotify.com/album/58zIgNoklmDXs4ViNN5wYS) | 4:02 | 2023-07-06 |  |
+| [For You](https://open.spotify.com/track/0Lyi8av1zjqxqZXqoawwsW) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [For You](https://open.spotify.com/album/58zIgNoklmDXs4ViNN5wYS) | 3:46 | 2023-07-06 |  |
 | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/track/1J6P9Dt1Ab8ZQTzWbDW8es) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/album/0HD9bj3s370MOajfNWvzvx) | 3:53 | 2021-11-11 | 2023-01-20 |
 | [Forever](https://open.spotify.com/track/2mIBy2thG7ZiECOf7tkUuG) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Forever](https://open.spotify.com/album/1LRJODu1aDERRG75QiCpwH) | 4:22 | 2023-02-09 |  |
 | [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 | 2023-05-18 | 2023-07-21 |

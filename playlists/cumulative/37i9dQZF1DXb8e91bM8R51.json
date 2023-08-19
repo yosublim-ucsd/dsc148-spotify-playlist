@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204106,
       "name": "Let It Breathe",
       "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
@@ -5804,6 +5804,24 @@
       "duration_ms": 146926,
       "name": "Sinister (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
       "album": {

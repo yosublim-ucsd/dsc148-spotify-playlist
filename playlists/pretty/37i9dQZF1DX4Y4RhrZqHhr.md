@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,640 likes - 165 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,945 likes - 165 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 164 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 |
 | 165 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
 
-Snapshot ID: `MCw1YmM3ZGJhYzdkYmVlMDM5ZWVjY2VjMWE5ZTYyNjRkZTE5NjVjMjJl`
+Snapshot ID: `MCw0ZmQ1YzllMzZjYzM5MTdkZWIyYTNlMWU1Mjg0MTdlYzQ5ZDUzMDcx`

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Eyedress, Mac DeMarco
 
-930 songs - 2 day 7 hr 49 min
+931 songs - 2 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-03-24 | 2022-04-01 |
 | [산 San](https://open.spotify.com/track/3ZhOznaV0kxWuDAtjlyNpX) | [Precocious Neophyte](https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH) | [산 San](https://open.spotify.com/album/4mPkd6zLJ6QitSM5KWZnfB) | 4:13 | 2023-03-09 | 2023-04-21 |
 | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/track/7j4sdJ48LRUNMGl7pJSSTw) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/album/2rqKcP5HHJtneNxcvXGLNi) | 3:56 | 2022-12-09 | 2023-01-13 |
+| [성실하여 다정하고 때로는 sometimes you are…](https://open.spotify.com/track/42JioTULdqZ2f1IkikFd2R) | [yewee](https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD) | [성실하여 다정하고 때로는 sometimes you are…](https://open.spotify.com/album/2JXKkk6q3wtBjOKPpjdv7I) | 3:52 | 2023-08-17 |  |
 | [언더 독 ! Under Dog ! \(feat\. CHOILB\)](https://open.spotify.com/track/7H6MYg2AnfdG3pWpLxjSvx) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [나는야 락스타 ! I’m a rockstar !](https://open.spotify.com/album/1qwt7wQigAO7zle4yXYEM9) | 3:16 | 2022-11-17 | 2023-01-14 |
 | [은모래 Silver Sand](https://open.spotify.com/track/20HoTbfpCunIbRwJ0jIoHW) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [FREEVERSE](https://open.spotify.com/album/32XJcZfYh9AGps4NIM2oxz) | 8:04 | 2023-07-06 |  |
 | [환란의 세대 The Generation of Tribulation](https://open.spotify.com/track/31OivIYnFwCpGRVp19DxD3) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:46 | 2022-03-24 | 2022-04-08 |

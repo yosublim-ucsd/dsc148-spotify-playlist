@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-107 songs - 8 hr 37 min
+108 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Nunca Foi Fácil](https://open.spotify.com/track/5XGM1g11ltC9TTiR7uDLUm) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe) | [Nunca Foi Fácil](https://open.spotify.com/album/5Q3s6Jkihallz8BmVh30TP) | 3:49 | 2022-03-11 | 2022-04-23 |
 | [O 5° Vigia](https://open.spotify.com/track/3VNIwW4MkSvp0xVEmfrvUL) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/45JoFHuQTEcG4CQNO49xUZ) | 6:16 | 2022-04-22 |  |
 | [O 5° Vigia](https://open.spotify.com/track/3ZhYU1cx9sSF8pO0pNZVb7) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/7eoDHbH4OqDqRGZFBjgOzf) | 6:17 | 2022-03-11 | 2022-07-29 |
-| [O Amor Venceu a Guerra](https://open.spotify.com/track/7LhExbpqQCLy2tFPK8N5P9) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Tarja Preta](https://open.spotify.com/album/0g4bxmzveUHyfxYIcH93Fi) | 8:44 | 2022-03-11 |  |
+| [O Amor Venceu a Guerra](https://open.spotify.com/track/7LhExbpqQCLy2tFPK8N5P9) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Tarja Preta](https://open.spotify.com/album/0g4bxmzveUHyfxYIcH93Fi) | 8:44 | 2022-03-11 | 2023-08-19 |
 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 | 2022-04-22 |  |
 | [O Mundo É Nosso](https://open.spotify.com/track/3jfH0Mz8XEsX1ZTOGejeCY) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/4cbDIpDFIvBBIK28iEObur) | 3:43 | 2022-03-11 | 2022-07-29 |
 | [O Soldado Que Fica](https://open.spotify.com/track/0pn6i2lgX9snct72QlcUuB) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Maira Freitas](https://open.spotify.com/artist/4de0UvPPD98qUiXstPUGzF) | [Essencial](https://open.spotify.com/album/1uNvA7eJynl56pneh1xryl) | 6:02 | 2022-03-11 |  |
@@ -88,6 +88,7 @@
 | [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3UIgJ1731jLr1qzDZy1Ma2) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Gabriel O Pensador](https://open.spotify.com/album/6U8M46eDHMmL6TmlveNxVt) | 3:58 | 2022-03-11 | 2022-10-09 |
 | [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3wtl36m4QVTlc8aUZfPWM8) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Tás A Ver \- O Melhor de Gabriel O Pensador](https://open.spotify.com/album/6hYtxwo8Fy3VFSnbJy3VqJ) | 3:58 | 2022-10-07 |  |
 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 | 2022-03-11 |  |
+| [Sangue Do Meu Sangue](https://open.spotify.com/track/0lqfiVP5aKthtfFSTmDnuY) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [patetacodigo43](https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Leo Rc](https://open.spotify.com/artist/5XzyRZ2bwDvQaPDWlQ0oWg) | [Sangue Do Meu Sangue](https://open.spotify.com/album/127V5Rsf1J0kkD8E5LkB2p) | 3:20 | 2023-08-18 |  |
 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 | 2022-03-11 |  |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/1J4tWt31G0Klu7R6pMb3Nl) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Hip Hop \- Rap](https://open.spotify.com/album/0J4Q8MK2zce9EFgMdIgulZ) | 6:23 | 2022-03-11 | 2022-07-29 |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 | 2022-04-22 |  |

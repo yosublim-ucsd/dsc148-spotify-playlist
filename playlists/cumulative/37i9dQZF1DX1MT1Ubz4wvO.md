@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bloodstein en portada.
 
-1,625 songs - 3 day 23 hr 38 min
+1,626 songs - 3 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [El Rock del Colchón](https://open.spotify.com/track/0rPPE9tLB1Y120NH3HQi4A) | [Dr\. Sapo](https://open.spotify.com/artist/57eC4zlQx65NmYAkT9un3x) | [El Rock del Colchón](https://open.spotify.com/album/5Fyzf0I7SltSoxTxz8rPCQ) | 2:37 | 2022-11-11 | 2022-11-26 |
 | [El sitio de siempre](https://open.spotify.com/track/1oHjn10rRCz5HD0GOW7Qwa) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [El sitio de siempre](https://open.spotify.com/album/2ar6KfGsXiHM57hNAcawhX) | 2:55 | 2022-10-07 | 2022-10-15 |
 | [El Soñador](https://open.spotify.com/track/4FcUTjCiXz6HNe3AOpNdA9) | [Jeanettes](https://open.spotify.com/artist/1IwBvUMprDc8UHUQ0e8MQZ) | [El Soñador](https://open.spotify.com/album/0usYBsZe3k6oytaXpuVhdt) | 3:57 | 2023-02-24 | 2023-03-04 |
-| [El Suspiro Cambia Todo](https://open.spotify.com/track/0ltGkvDWVNK5Jw4u30PiPM) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [El Suspiro Cambia Todo](https://open.spotify.com/album/1n7AgJ3P3LuYhGo1vatvyO) | 5:09 | 2023-08-17 |  |
+| [El Suspiro Cambia Todo](https://open.spotify.com/track/0ltGkvDWVNK5Jw4u30PiPM) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [El Suspiro Cambia Todo](https://open.spotify.com/album/1n7AgJ3P3LuYhGo1vatvyO) | 2:34 | 2023-08-17 |  |
 | [El Tiempo Que Me Queda](https://open.spotify.com/track/7wXPJtckXZ2rV6VgAQok0b) | [Los Tempestades](https://open.spotify.com/artist/1pCufdD30Lg2ipgL59qYLo) | [El Tiempo Que Me Queda](https://open.spotify.com/album/019dzBDKxdybZRcqVTvjRv) | 2:47 | 2022-09-02 | 2022-09-10 |
 | [El Titulo Que Quieras](https://open.spotify.com/track/3MQHqbgfC8LFqoKCYMk9Md) | [Rancale](https://open.spotify.com/artist/6TEIPaM6KtSbs5cHdtJBMD), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [El Titulo Que Quieras](https://open.spotify.com/album/7u28mhsKydxER3ePNT4JTk) | 2:52 | 2022-06-24 | 2022-07-02 |
 | [El Tsunami](https://open.spotify.com/track/43OmW8MhFhIkXCZdIJURjj) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Todo Está por Pasar](https://open.spotify.com/album/5MiRAvEz2gIY0qJWvbpWUO) | 2:59 | 2022-12-09 | 2023-01-06 |
@@ -1087,7 +1087,7 @@
 | [Noches de Madrugada](https://open.spotify.com/track/0VHfGs67bu1uDUpjjpekc3) | [ERRE](https://open.spotify.com/artist/4JEY5WEJnYy38hhcpWb1f2), [Celine](https://open.spotify.com/artist/7JqN1WFu4GdAPsEUawSwyp) | [Noches de Madrugada](https://open.spotify.com/album/6xDH8tviWtDQVyfQOjAovL) | 3:07 | 2022-11-18 | 2022-12-03 |
 | [Nocivo](https://open.spotify.com/track/0VY6RTwhiUGDCoqLG4Hj0c) | [JAF](https://open.spotify.com/artist/3KsdiCqV04TOBhPWmk7u90) | [Nocivo](https://open.spotify.com/album/2yvwVVgJYwr4Eh19CSdyuk) | 3:33 | 2022-10-07 | 2022-10-15 |
 | [Nocturno](https://open.spotify.com/track/2f84SuZ9u9xfxI301Y0fR9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/5mGNd7BvwbRtiHG9T8Gbgi) | 3:48 | 2023-07-21 | 2023-08-04 |
-| [Nocturno](https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh) | 3:48 | 2023-07-28 |  |
+| [Nocturno](https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh) | 3:48 | 2023-07-28 | 2023-08-19 |
 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 | 2022-08-26 | 2022-09-10 |
 | [Noni](https://open.spotify.com/track/16nmeXeSqHtKDH32kIufSd) | [Satón](https://open.spotify.com/artist/5Nvf8jPVGMPh1reinByBW5) | [Noni](https://open.spotify.com/album/4vTyEK3eVU5N24JZlviBNy) | 2:00 | 2023-06-23 | 2023-07-08 |
 | [Nos Entenderan](https://open.spotify.com/track/1wpJN9qrnF32mj4zzr8hbs) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [XOPA](https://open.spotify.com/album/1Zsjy7A3Krl31ZrTifjHqP) | 3:39 | 2022-06-24 | 2022-07-02 |
@@ -1547,6 +1547,7 @@
 | [Una Nueva Vida](https://open.spotify.com/track/1zAz8vk41l5GfrV5t0cubD) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Una Nueva Vida](https://open.spotify.com/album/73mldKaTNBmofLm2keaOAT) | 3:28 | 2023-03-03 | 2023-03-11 |
 | [Una Promesa En Todo](https://open.spotify.com/track/5xnc0h1B6JqXThgfWLBRme) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Una Promesa En Todo](https://open.spotify.com/album/4DpEtHelZHJB1Pv3VBR9Df) | 3:20 | 2023-03-10 | 2023-03-18 |
 | [Una Vez Mas](https://open.spotify.com/track/5OQ8yGmz8V3McEoInZPmBC) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Una Vez Mas](https://open.spotify.com/album/18JA74xCkntmJ6NSs6jRAF) | 3:41 | 2022-07-01 | 2022-07-23 |
+| [Una Vez Más](https://open.spotify.com/track/4gPlgQtE8ZbtWSoADLneBw) | [Lucho Al A77AQUE](https://open.spotify.com/artist/2cloS9NWMDt9emhfy9QUmA) | [Una Vez Más](https://open.spotify.com/album/6iZCkRzYbbwYLiHXLBn2mk) | 3:11 | 2023-08-18 |  |
 | [Una Vez Más](https://open.spotify.com/track/3ttUreDyddWfldtmA3l4iB) | [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4) | [Una Vez Más](https://open.spotify.com/album/2JPSVUya4XQSaxlF7ZI1Fs) | 4:31 | 2022-08-05 | 2022-09-03 |
 | [Una y Otra Vez](https://open.spotify.com/track/6HvWmdjDeRWZ1XVsgqlJrN) | [Toke Rosa](https://open.spotify.com/artist/4TTIbD8hKvjfn4Aa4JVSUx) | [Una y Otra Vez](https://open.spotify.com/album/2Rxb23hFejBVOcSfTyBxma) | 3:30 | 2022-08-12 | 2022-08-20 |
 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 | 2023-08-04 |  |

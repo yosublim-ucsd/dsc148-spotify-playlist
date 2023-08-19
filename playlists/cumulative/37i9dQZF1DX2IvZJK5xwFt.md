@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-450 songs - 1 day 4 hr 19 min
+451 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-08 | 2022-09-23 |
 | [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 | 2023-07-27 | 2023-08-18 |
 | [Cycle Of Hurting](https://open.spotify.com/track/4xLGcvIrAtVaN8FYhd6poT) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Cycle Of Hurting](https://open.spotify.com/album/2VpUANQDj0xi2A57MejBzy) | 3:49 | 2023-07-13 |  |
-| [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 |  |
+| [Damage Gets Done](https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB) | 4:28 | 2023-08-17 | 2023-08-19 |
+| [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 | 2023-08-17 |  |
 | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/track/6J9DuvcPLzivD98KsXSJHu) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/album/2t9BAAn4EeMEkwRbxsP1Ou) | 2:03 | 2023-02-09 | 2023-02-24 |
 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 | 2022-06-02 | 2023-02-17 |
 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 | 2022-12-15 | 2023-03-18 |

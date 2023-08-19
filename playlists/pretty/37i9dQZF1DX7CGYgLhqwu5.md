@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,436 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,600 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 63 | [Please Help Me, I'm Falling](https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [RCA Country Legends](https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6) | 2:21 |
 | 64 | [The Bottle Let Me Down](https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Vintage Collections](https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg) | 2:48 |
 | 65 | [Men With Evil Hearts](https://open.spotify.com/track/26sTWQPzFMKv1gNuQFcaxI) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Leaving](https://open.spotify.com/album/3wRjoe5k9mCmuRVdUERgqo) | 2:02 |
-| 66 | [Detroit City](https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:49 |
+| 66 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
 | 67 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
 | 68 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
 | 69 | [Six Days On The Road](https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql) | [Dave Dudley](https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv) | [20th Century Masters: The Millennium Collection: Best Of Dave Dudley](https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM) | 2:14 |
 | 70 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
 | 71 | [Sea of Heartbreak](https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:31 |
-| 72 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
-| 73 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
-| 74 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
+| 72 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 73 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
+| 74 | [Detroit City](https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:49 |
 | 75 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 |
 | 76 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |
 | 77 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 84 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
 | 85 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
 | 86 | [Above And Beyond](https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Buck Owens Country Legends](https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT) | 2:22 |
-| 87 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
-| 88 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
+| 87 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
+| 88 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
 | 89 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
 | 90 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
 | 91 | [I've Been Everywhere \- Remastered](https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Girl On The Billboard](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 | 100 | [The Cold Hard Facts of Life](https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Cold Hard Facts of Life](https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie) | 3:12 |
 
-Snapshot ID: `MCxjOWU1OTg1NTQ0OWYxOTQ4Y2M4ZjhmZjRhN2UzMTBmYjU1NTE5NTFi`
+Snapshot ID: `MCwzNjRhOWJmMWQ0Zjc0ZjUxNTVjNDJiMjc0MWI3M2FjNDhhYThhYmJi`

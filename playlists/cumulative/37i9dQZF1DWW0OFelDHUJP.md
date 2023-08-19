@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-65 songs - 4 hr 13 min
+66 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Rain](https://open.spotify.com/track/3Cd0nA9A8LVfaXfxJqLtYv) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Orion](https://open.spotify.com/album/0oIUf59Pfd0rVxx6cGiSR1) | 4:24 | 2023-05-09 |  |
 | [Rain Dance \(Barsan Laagi\)](https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Haritha Raj](https://open.spotify.com/artist/2dVodnLDTczyG2msjEqrqA) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:16 | 2023-07-18 |  |
 | [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-08-02 |  |
-| [Rihaee](https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9) | 3:02 | 2023-05-09 |  |
+| [Rihaee](https://open.spotify.com/track/08CBQI14mZrISwe6MZwncj) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/4E6LXR3qfiqiXZox6slosO) | 3:02 | 2023-08-02 |  |
+| [Rihaee](https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9) | 3:02 | 2023-05-09 | 2023-08-19 |
 | [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:50 | 2023-05-09 |  |
 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 | 2023-05-09 |  |
 | [Sajna Ve](https://open.spotify.com/track/1lWjvbQWru7XPekvQGiKv5) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Sajna Ve](https://open.spotify.com/album/3T4nGBjzLyXUv0iXbcKBqY) | 3:17 | 2023-05-09 |  |

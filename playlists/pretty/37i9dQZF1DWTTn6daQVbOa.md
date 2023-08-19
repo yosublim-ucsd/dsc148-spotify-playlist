@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s\. Cover: Tom Waits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,972 likes - 150 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,354 likes - 150 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [A Little Bit More \- Single Version](https://open.spotify.com/track/0IyaUK4bo54AnnNVhS9RSW) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Completely Hooked](https://open.spotify.com/album/0UQeeHZSz95cijW6o07wib) | 2:54 |
 | 150 | [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 |
 
-Snapshot ID: `MCw3YmIzMWZmMDc5MmRiMWRmNzFmMzJlZmRiY2NhZTRlYjAyZWE0YjU3`
+Snapshot ID: `MCwyNTk5NjQ5OTZhZGNiNTBmNDk0ZDc2MmM2ZjIyYzE5MGRkOTU5OTQz`

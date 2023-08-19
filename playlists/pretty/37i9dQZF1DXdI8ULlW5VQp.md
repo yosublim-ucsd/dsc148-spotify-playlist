@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Caloncho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,873 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,915 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 |
 | 75 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
 
-Snapshot ID: `MCwwYjFkYzBjZWI1NGU4NTIxZGU1NDY3NjA4NGU4ZjM5YTA1YTRiNDMy`
+Snapshot ID: `MCxlM2MzNTk3ZjhiZDg5MThhMzBmMjcxYWUzZTBiNjZjZDAxZjljODVm`

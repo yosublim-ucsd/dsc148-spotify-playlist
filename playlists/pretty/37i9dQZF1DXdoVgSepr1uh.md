@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Six Sex & El Osito Wito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,175 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,183 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 5 | [Tira Pa Tra](https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Tira Pa Tra](https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN) | 2:55 |
 | 6 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
 | 7 | [A Lo Rockstar](https://open.spotify.com/track/4QTdOe3d50cfm37j4u8eB9) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [A Lo Rockstar](https://open.spotify.com/album/5vVISJWoJcnal3vT5MNLH1) | 2:46 |
-| 8 | [ARRODILLATE](https://open.spotify.com/track/35MxhBmuoLJJHnYxNddLry) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [6X](https://open.spotify.com/album/36zYUhIzm4JJQ0cUohfArv) | 2:31 |
-| 9 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 |
-| 10 | [Cream Hot](https://open.spotify.com/track/2o3yghP4bZN0CySUyNP6dw) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Cream Hot](https://open.spotify.com/album/6oUL8P1si2SLeUSDZUr4tQ) | 2:55 |
-| 11 | [YORY NO](https://open.spotify.com/track/1c9L6leiHbN872OzgXLpSq) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:17 |
-| 12 | [Flow de Barrio](https://open.spotify.com/track/4IJfIFvMB3lwPW93g6Asno) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flow de Barrio](https://open.spotify.com/album/4jjU50TCU52hjATJcXHeXw) | 2:30 |
-| 13 | [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 |
-| 14 | [Lento](https://open.spotify.com/track/3n718OS6VC04q3SZRIcU5x) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Lento](https://open.spotify.com/album/1KH6SoonDjQIqiI2naQwm9) | 2:40 |
+| 8 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 |
+| 9 | [Cream Hot](https://open.spotify.com/track/2o3yghP4bZN0CySUyNP6dw) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Cream Hot](https://open.spotify.com/album/6oUL8P1si2SLeUSDZUr4tQ) | 2:55 |
+| 10 | [YORY NO](https://open.spotify.com/track/1c9L6leiHbN872OzgXLpSq) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:17 |
+| 11 | [Flow de Barrio](https://open.spotify.com/track/4IJfIFvMB3lwPW93g6Asno) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flow de Barrio](https://open.spotify.com/album/4jjU50TCU52hjATJcXHeXw) | 2:30 |
+| 12 | [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 |
+| 13 | [Lento](https://open.spotify.com/track/3n718OS6VC04q3SZRIcU5x) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Lento](https://open.spotify.com/album/1KH6SoonDjQIqiI2naQwm9) | 2:40 |
+| 14 | [MAL](https://open.spotify.com/track/5HUqOhSkn8OLMQNTX9GoBV) | [Taffari Nadal](https://open.spotify.com/artist/6U154kMe4SHMG7g2IdffvJ), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [MAL](https://open.spotify.com/album/5zDlHFy3uyKUKtylreOvfS) | 2:50 |
 | 15 | [En la Oscuridad](https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 2:53 |
 | 16 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 |
 | 17 | [Fichaje \#3](https://open.spotify.com/track/7osIp4MwKMwHNqYjS9bmYM) | [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [Fichaje \#3](https://open.spotify.com/album/51OvDw3nC7mvcgaKTqzMrd) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 99 | [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 |
 | 100 | [Unfollow](https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Unfollow](https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB) | 3:16 |
 
-Snapshot ID: `MCwzMDE0NjJhNDJjZTgxYjYzODJlNjAyNDE2ODA4ODViNTBkMDQwZTBm`
+Snapshot ID: `MCxjOWFjNmQ0ZGE4MWJkMTk4OWFiOGE2YWM5YjNlZDA0NDdlNjUwYmJh`

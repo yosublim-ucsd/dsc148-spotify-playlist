@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-389 songs - 1 day 11 hr 55 min
+390 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Amanecer](https://open.spotify.com/track/1j2D6VkPq7j7zitnxm2gt1) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [El Camino de los Vientos](https://open.spotify.com/album/4j9GcZi0kQHgDsFXDLJIF1) | 6:32 | 2022-07-21 |  |
 | [Amanecer](https://open.spotify.com/track/7z6F8O9kR3n3g7zyc1wiAO) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [Amanecer](https://open.spotify.com/album/6vrgvSFiOv12tsg3JslQ05) | 6:32 | 2020-05-06 | 2022-07-29 |
 | [An Offering](https://open.spotify.com/track/4Kok3rkuR60GEBh88OAMXc) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [An Offering](https://open.spotify.com/album/37fo9W9R7I2z45E7cQNxxE) | 6:09 | 2023-08-03 |  |
+| [Angel Eyes](https://open.spotify.com/track/4Efyso6yJGSWAWnVHt88sp) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [Angel Eyes](https://open.spotify.com/album/5JkcUSh4jjHSz7o7C3R2Qw) | 4:52 | 2023-08-18 |  |
 | [Another Land](https://open.spotify.com/track/0zCkOKYeToZAvm5rnUxcA3) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/1OVtWo9d7gohmH7LhLlIdq) | 9:18 | 2021-04-19 | 2022-07-29 |
 | [Another Land](https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS) | 9:18 | 2022-07-21 |  |
 | [Answer Me \- Live from Budapest](https://open.spotify.com/track/58eWz82VjBZLNwL6u4li7F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Answer Me \(Live from Budapest\)](https://open.spotify.com/album/3C9m7THKeXyUkICSDItxOb) | 4:29 | 2020-05-14 | 2023-02-23 |
@@ -366,7 +367,7 @@
 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 | 2020-05-02\* |  |
 | [Try To Remember](https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT) | [Johannes Wallmann](https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm), [Sharel Cassity](https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs) | [Precarious Towers](https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu) | 4:44 | 2022-06-02 |  |
 | [Twelve for J.](https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Caris Hermes](https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz) | 2:46 | 2022-09-06 |  |
-| [Vashkar](https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Vashkar](https://open.spotify.com/album/6xaaKnsxxQJkubxtUAesZ5) | 5:56 | 2020-05-08 |  |
+| [Vashkar](https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Vashkar](https://open.spotify.com/album/6xaaKnsxxQJkubxtUAesZ5) | 5:56 | 2020-05-08 | 2023-08-19 |
 | [Virgo](https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Virgo](https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU) | 5:58 | 2022-04-28 |  |
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 |  |
 | [Vær sterk, min sjel](https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:03 | 2022-04-07 |  |

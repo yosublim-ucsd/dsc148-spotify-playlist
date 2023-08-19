@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,606 likes - 150 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,652 likes - 150 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [You Ain't Woman Enough](https://open.spotify.com/track/2NXQc041qB3yqH6NUUI66C) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Queens Of Country Music Volume 1](https://open.spotify.com/album/7vTZKzTvbtNMfbjGhXKjeg) | 2:12 |
 | 150 | [One Love at a Time \- Live](https://open.spotify.com/track/0wsW51hyoSL0oklKtEf8BT) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker \(Live\)](https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa) | 2:51 |
 
-Snapshot ID: `MCxjOTQ5YWQxMzcxM2JmMDA4MGIzOTJkNThmNTE2MTY4NWIzNDQxMzQ3`
+Snapshot ID: `MCxjZTUzM2E4YTEzZDNiNGExODc2NWJjNjU4YTI4MzJkZmM4Y2U4ZGU3`

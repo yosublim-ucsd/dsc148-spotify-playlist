@@ -950,7 +950,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 152640,
       "name": "Here's a Quarter (Call Someone Who Cares)",
       "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 272866,
       "name": "I May Hate Myself In The Morning",
       "url": "https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN"
@@ -1568,6 +1568,24 @@
       "duration_ms": 196706,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
+    },
+    {
+      "album": {
+        "name": "Meet Ryan Larkins",
+        "url": "https://open.spotify.com/album/6M0V0P2GYRAs3FeBmoqTyN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Larkins",
+          "url": "https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221829,
+      "name": "Man That Holds the Beer",
+      "url": "https://open.spotify.com/track/18JV5t0U5Qb7fPLNRnZtVS"
     },
     {
       "album": {
@@ -2130,6 +2148,24 @@
       "duration_ms": 248200,
       "name": "She's In Love With The Boy - Single Version",
       "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
+    },
+    {
+      "album": {
+        "name": "Shoebox Money",
+        "url": "https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176275,
+      "name": "Shoebox Money",
+      "url": "https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP"
     },
     {
       "album": {

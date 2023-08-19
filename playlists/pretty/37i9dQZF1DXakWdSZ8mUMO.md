@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 
 > Você não para quando está cansado, só quando terminar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,227 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,258 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 99 | [Notorious](https://open.spotify.com/track/5PZo9NMyNLxOlpEFoYo611) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Notorious](https://open.spotify.com/album/7b2MbEhzi3TMgbKn5Fkjqb) | 2:50 |
 | 100 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 
-Snapshot ID: `MCw3OTYyYzUzM2FkZWIxNjdmYTdjYmQ3Y2E0ZWMzNGVhNzYwN2FhZDdh`
+Snapshot ID: `MCw2ZGNkYTJhOTA2MWVlM2NlNzhkYzJjNDU3MGIwNzA0NmFkM2U1MmJj`

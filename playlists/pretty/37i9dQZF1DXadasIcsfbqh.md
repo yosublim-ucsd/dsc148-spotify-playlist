@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Mickey Guyton and Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,825 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,016 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 |
 | 100 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
 
-Snapshot ID: `MCwwZmIxZTJkMzMxMjQ4MmMwOTdmYTVhY2ZjNjY4NTQ3ZTRjYWU0N2Ew`
+Snapshot ID: `MCwxYjhhODViOTQyN2U5ZDQ0N2U3MjExNjYyNWY2MjRkN2ZmZjEzYjYx`

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/6Pkec94jk2FvXfd1p7JudT"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/7DZQLVgavqL4bgbqBvH9wF"
+    },
+    {
+      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -698,7 +716,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 241813,
       "name": "Fumemos un cigarrillo - Soundtrack Original de la Pel\u00edcula",
       "url": "https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3"

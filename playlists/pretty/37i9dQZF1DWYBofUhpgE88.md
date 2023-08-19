@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > La carica giusta per i tuoi allenamenti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,411 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,535 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 69 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 |
 | 70 | [That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\)](https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\) \[From Bright: The Album\]](https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU) | 3:19 |
 
-Snapshot ID: `MCxkMTIxYmRjYzZiYmI4YWVhYmYzZWRlMzZjZjRjODk3NTAzZGRmZGMx`
+Snapshot ID: `MCw5NGM4ZmE4YzI3MWIxYWI0OGE5MjE5YzExYzQzYWJmNjdmNmIwNzM5`

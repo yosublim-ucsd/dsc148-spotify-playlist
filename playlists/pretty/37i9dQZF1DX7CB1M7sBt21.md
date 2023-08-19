@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,226 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,241 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [I Miss Myself \(with HRVY\)](https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Miss Myself \(with HRVY\)](https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd) | 3:11 |
 | 80 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 |
 
-Snapshot ID: `MCw2NzY0NmEzNzY5ZWRjM2YzODkzOGZmNzllMTYyOWRlMGU3YmJjNjY2`
+Snapshot ID: `MCxhNDNkYzUyZTA2ZDFiYjY4ZTI5MTM1Yzg4NTFiZjM0NDgzYTZkM2Zm`

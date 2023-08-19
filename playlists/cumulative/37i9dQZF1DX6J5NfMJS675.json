@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "ISSUES",
+        "url": "https://open.spotify.com/album/1XYChm0PM8eZcLwCLrSqTk"
+      },
+      "artists": [
+        {
+          "name": "DJ MELL G",
+          "url": "https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230764,
+      "name": "DISTURBED MIND",
+      "url": "https://open.spotify.com/track/55UH9Vbv1fLyYe3KvFYTW0"
+    },
+    {
+      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2KGYL2E38AnuuueSzu5gaV"
       },
@@ -3108,6 +3126,28 @@
       "duration_ms": 427558,
       "name": "Experimental Evidence",
       "url": "https://open.spotify.com/track/4gneAAeKWfJVfYv3qXdGXY"
+    },
+    {
+      "album": {
+        "name": "Eyes Hidden",
+        "url": "https://open.spotify.com/album/0SKaFMaXhR7mr8xBlCkUgn"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        },
+        {
+          "name": "B!nary",
+          "url": "https://open.spotify.com/artist/17lmAnHxZNBpsxxFkVZrVV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226286,
+      "name": "Eyes Hidden",
+      "url": "https://open.spotify.com/track/0p6xBnrIJtWjD4QeYE4cue"
     },
     {
       "album": {
@@ -3870,6 +3910,24 @@
     {
       "album": {
         "name": "Gravity",
+        "url": "https://open.spotify.com/album/6AZOXckAkp9cvaMJ7eDX2h"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300895,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/16Ivb2SNj3TymQvoHMJORs"
+    },
+    {
+      "album": {
+        "name": "Gravity",
         "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
       },
       "artists": [
@@ -3880,7 +3938,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 365568,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
@@ -4104,7 +4162,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 204444,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
@@ -4194,7 +4252,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 462990,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/059LIrpxWgoaL4ugOsEWTg"
@@ -4411,6 +4469,24 @@
     },
     {
       "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/2ETc4E7o1CJVsojWiErK7s"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337851,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/7HzhldCbuhio7KE746L66l"
+    },
+    {
+      "album": {
         "name": "I Am Machine",
         "url": "https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi"
       },
@@ -4444,7 +4520,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 245454,
       "name": "I Want to See",
       "url": "https://open.spotify.com/track/6sA8RRNRRZ5Ok1510vWNTy"
@@ -6006,7 +6082,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 344888,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/5zcNELiJiIj3YP1Mxh8xCN"
@@ -6916,7 +6992,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 254769,
       "name": "Pulchra",
       "url": "https://open.spotify.com/track/63mFPNs3UaFmBB55YiW0it"
@@ -7000,6 +7076,24 @@
       "duration_ms": 365373,
       "name": "Quiet Woman - Simina Grigoriu Remix",
       "url": "https://open.spotify.com/track/5L2xfiztZvJZdWLnd64GcY"
+    },
+    {
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/4e7dw7ZW7rpfPxUfoLfDcu"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338165,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/4Z086HzCQqB2M0m8jme8rY"
     },
     {
       "album": {
@@ -7124,6 +7218,24 @@
       "duration_ms": 411000,
       "name": "Reality",
       "url": "https://open.spotify.com/track/14QvBZPWC0ztCfiEnQRS6T"
+    },
+    {
+      "album": {
+        "name": "Reality Is a Lie",
+        "url": "https://open.spotify.com/album/1ORbp9PG4Yi4ZgPSsRIsNw"
+      },
+      "artists": [
+        {
+          "name": "Ben Dust",
+          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336004,
+      "name": "Reality Is a Lie",
+      "url": "https://open.spotify.com/track/3PZFVZiGtkN8I16WZyrcsH"
     },
     {
       "album": {
@@ -7607,6 +7719,28 @@
     },
     {
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        },
+        {
+          "name": "Prinz (DE)",
+          "url": "https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "album": {
         "name": "Sandbox Wars",
         "url": "https://open.spotify.com/album/7f468hoVKxOGPtXrbcaVzl"
       },
@@ -7818,7 +7952,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 415522,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk"
@@ -8022,6 +8156,24 @@
       "duration_ms": 452307,
       "name": "Solid State - Balthazar & JackRock Remix",
       "url": "https://open.spotify.com/track/15BCiNT8YBJ5IvSOLR2qIR"
+    },
+    {
+      "album": {
+        "name": "Something Wrong",
+        "url": "https://open.spotify.com/album/64Gpa5tJOls1UYLxoGMKhz"
+      },
+      "artists": [
+        {
+          "name": "MARTIN K4RMA",
+          "url": "https://open.spotify.com/artist/728yYZBKoJYPrgx4UYonej"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355973,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/1NbRQH6RcJOjdComAcLHCK"
     },
     {
       "album": {
@@ -9910,7 +10062,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 292173,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5nwL8tSlpy4T6XLb0NdzVW"

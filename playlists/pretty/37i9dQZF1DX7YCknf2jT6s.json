@@ -1,13 +1,181 @@
 {
-  "description": "New jazz for open minds. Cover: Johnathan Blake",
-  "num_followers": 896125,
+  "description": "New jazz for open minds. Cover: Cautious Clay",
+  "num_followers": 896386,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmUwZGNlNWJkNjE0ZWU2MzdjNTU4ZGYxMWYyMGU4YzVlOTI5MGVk",
+  "snapshot_id": "MCwzYjg4MmVkZDAwZDUwZTlkYWY5OWE4MGFlODM2YTdjOTZhZTI5ZGZm",
   "tracks": [
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Yesterday's Price",
+        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 315561,
+      "name": "Yesterday's Price",
+      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "DYKWYD [Feat. Braxton Cook]",
+        "url": "https://open.spotify.com/album/3wHESbXbqvwTjgHzxbWaE4"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "duration_ms": 242096,
+      "name": "DYKWYD [Feat. Braxton Cook]",
+      "url": "https://open.spotify.com/track/6CK3P6x1g6lfJ2yowBGOWz"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Bass solo",
+        "url": "https://open.spotify.com/album/2w7FHQsqxYEDL6lE8WhXQs"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "duration_ms": 155974,
+      "name": "Bass solo",
+      "url": "https://open.spotify.com/track/5wRO3D0QDF9xcdLC6I4vlP"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Something Old Something New",
+        "url": "https://open.spotify.com/album/4Kk7bcoKqkbwFzhDKuezxr"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        }
+      ],
+      "duration_ms": 396373,
+      "name": "Something Old Something New",
+      "url": "https://open.spotify.com/track/7BVqoseT4SS6ly48xmdSAK"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Coral Way",
+        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "Coral Way",
+      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Old Folks",
+        "url": "https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 350606,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Origin 01",
+        "url": "https://open.spotify.com/album/18TmskuHhaVsCmgtc3hw5Y"
+      },
+      "artists": [
+        {
+          "name": "everwave",
+          "url": "https://open.spotify.com/artist/5nQnpRoxAaiMvn2qLL2hDX"
+        },
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Greg Paul",
+          "url": "https://open.spotify.com/artist/02VrMFqsgeEebhNeVJ4Poe"
+        }
+      ],
+      "duration_ms": 265425,
+      "name": "Origin 01",
+      "url": "https://open.spotify.com/track/6WYs0dpollV9oeui2MBXdh"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Day Glow",
+        "url": "https://open.spotify.com/album/08AVQmJWvNES8OO0eqSYzD"
+      },
+      "artists": [
+        {
+          "name": "Lee Pardini",
+          "url": "https://open.spotify.com/artist/3pA2WY9BtYThcYxuNlmnNx"
+        }
+      ],
+      "duration_ms": 379686,
+      "name": "Day Glow",
+      "url": "https://open.spotify.com/track/32SGbjA6hEXB3wmvnYWeg1"
+    },
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
@@ -47,6 +215,26 @@
       "duration_ms": 197500,
       "name": "Magnolia II",
       "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Transient",
+        "url": "https://open.spotify.com/album/1tizhOQtiHBSDH8w24Pps4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        }
+      ],
+      "duration_ms": 225495,
+      "name": "Transient",
+      "url": "https://open.spotify.com/track/1yJGKN9vVPbsRL6Lj5bGd7"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -175,26 +363,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Have a Talk with God",
-        "url": "https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Lee",
-          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
-        },
-        {
-          "name": "Nathan East",
-          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
-        }
-      ],
-      "duration_ms": 341918,
-      "name": "Have a Talk with God",
-      "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Prana (feat. Joel Ross)",
         "url": "https://open.spotify.com/album/6xi6ISTIEOPOt5w0k6oVAy"
       },
@@ -211,38 +379,6 @@
       "duration_ms": 462857,
       "name": "Prana (feat. Joel Ross)",
       "url": "https://open.spotify.com/track/4LiW3XCufA48rPYSagwMZR"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/2gkNHiJjjVFm1wvCNLEQCP"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        },
-        {
-          "name": "Terreon Gully",
-          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
-        },
-        {
-          "name": "Dario Chiazzolino",
-          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
-        },
-        {
-          "name": "Jermaine Paul",
-          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
-        }
-      ],
-      "duration_ms": 153209,
-      "name": "Resurrection",
-      "url": "https://open.spotify.com/track/6ugE62LTbi9yM1i4616KrK"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -355,34 +491,6 @@
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Yesterday's Price",
-        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Joshua Karpeh",
-          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
-        },
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        },
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 315561,
-      "name": "Yesterday's Price",
-      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -665,26 +773,6 @@
       "url": "https://open.spotify.com/track/1xMSayO9HnbfvyHqqDW5mm"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "I Can Say To You [Feat. Vanisha Gould]",
-        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "Vanisha Gould",
-          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
-        }
-      ],
-      "duration_ms": 217984,
-      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
-      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
-    },
-    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Wonder",
@@ -955,38 +1043,6 @@
       "duration_ms": 170666,
       "name": "BIG",
       "url": "https://open.spotify.com/track/29xIkYBI18k0sQLk0mmaRt"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Regards",
-        "url": "https://open.spotify.com/album/7f0utMl1qOhDknoKRcAXoo"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl Pannier",
-          "url": "https://open.spotify.com/artist/5C9hm95fwfcWi7vioKUI9x"
-        },
-        {
-          "name": "Acid Pauli",
-          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
-        },
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        },
-        {
-          "name": "Francois Moutin",
-          "url": "https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp"
-        },
-        {
-          "name": "Giorgi Mikadze",
-          "url": "https://open.spotify.com/artist/6JS9KZNBZNM7q7EASDnQCK"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Regards",
-      "url": "https://open.spotify.com/track/60qPrCpb28zz0bTsop1K1o"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1511,30 +1567,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5JfZ1ndPZNDX3CoksYG2GN"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        },
-        {
-          "name": "John Raymond",
-          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
-        },
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 310107,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/4qgCo3MXhSQhDM8Aq1mXIu"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Legnomadre",
         "url": "https://open.spotify.com/album/1xTKPmFBkxblN9ixReOu2z"
       },
@@ -1611,22 +1643,6 @@
       "duration_ms": 260870,
       "name": "Look To The Hills",
       "url": "https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 70357,
-      "name": "Something I'm Used To",
-      "url": "https://open.spotify.com/track/0WPOVQw06XqsWGjDF2mdTj"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1807,26 +1823,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/2rsNtARoox6CERXAw6yBDB"
-      },
-      "artists": [
-        {
-          "name": "BRAVE JAMES",
-          "url": "https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 188118,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/33pCdzo9Oq4JsWSlLssSuX"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "CD",
         "url": "https://open.spotify.com/album/3x4ngwfnySLcB3UBtAID91"
       },
@@ -1905,22 +1901,6 @@
       "url": "https://open.spotify.com/track/264eKUhlQqY520CEAT4GF4"
     },
     {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "B'Sides",
-        "url": "https://open.spotify.com/album/7rfhuXkhKCcm929bBUYL1q"
-      },
-      "artists": [
-        {
-          "name": "Anne Paceo",
-          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/5kBRqIn6dDt5RlHL2OOFHz"
-    },
-    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Action",
@@ -1991,30 +1971,6 @@
       "duration_ms": 158653,
       "name": "No End",
       "url": "https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/4cP6mSCbTaGDtU8Eprv6cm"
-      },
-      "artists": [
-        {
-          "name": "Myele Manzanza",
-          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
-        },
-        {
-          "name": "Lewis Moody",
-          "url": "https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV"
-        },
-        {
-          "name": "Benjamin Muralt",
-          "url": "https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "Part VII",
-      "url": "https://open.spotify.com/track/6YBlNOhf1CXD3tBS47AgVx"
     }
   ],
   "unique_name": "State of Jazz",

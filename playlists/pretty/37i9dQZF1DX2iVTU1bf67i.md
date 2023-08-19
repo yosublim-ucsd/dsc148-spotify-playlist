@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,388 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,486 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 49 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 50 | [I Just Dropped By To Say Hello](https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:05 |
 | 51 | [Love Is Here To Stay](https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:10 |
-| 52 | [What a Difference a Day Makes](https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Winners](https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr) | 3:36 |
+| 52 | [The More I See You \- Rudy Van Gelder Edition](https://open.spotify.com/track/42iATJYN5S908wQMReeDkV) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:47 |
 | 53 | [They Can't Take That Away From Me](https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:44 |
-| 54 | [The More I See You \- Rudy Van Gelder Edition](https://open.spotify.com/track/42iATJYN5S908wQMReeDkV) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:47 |
+| 54 | [What a Difference a Day Makes](https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Winners](https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr) | 3:36 |
 | 55 | [I Could Write a Book](https://open.spotify.com/track/0eijtL958nCP1dy7OR1hUA) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 2:38 |
 | 56 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:14 |
 | 57 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 149 | [Too Close For Comfort](https://open.spotify.com/track/4Qv9LV0XE6t8DzqtqGTiV8) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Art Of Pepper](https://open.spotify.com/album/0YbEP4V2qsPv0CKR0PrvbK) | 6:08 |
 | 150 | [Am I Blue](https://open.spotify.com/track/25YKzSRFvgEJ8jXwXYe8A8) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [After Hours With Miss D](https://open.spotify.com/album/7bp3ZFytOzi4UaaXI2NxiC) | 3:12 |
 
-Snapshot ID: `MCw3ZDEyNDg1M2Q3OGRkZjUyMGZlZTk5M2I1ZWVlMzRmOWIwZWVkMTQz`
+Snapshot ID: `MCwyYWE2YmFjZjlhODhjMzMzMmYxZTQ4M2EyNWMwNGQzZjY0M2MxZWMw`

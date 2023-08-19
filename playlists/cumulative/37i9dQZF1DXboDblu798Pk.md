@@ -4,11 +4,12 @@
 
 > Pop hits in the making! Cover: Reneé Rapp
 
-167 songs - 8 hr 40 min
+168 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 OR 100 \(SIDE A\)](https://open.spotify.com/track/3mj6Vpr689fQFjyXq6TInY) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V3](https://open.spotify.com/album/4B1AKRB1vuuwu8JoQHwDmW) | 2:23 | 2023-08-17 |  |
+| [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 | 2023-08-17 |  |
 | [7 Minutes In Heaven](https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [7 Minutes In Heaven](https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa) | 3:36 | 2023-06-15 | 2023-07-26 |
 | [A World Without You](https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Self Portrait Of A Woman Unravelling](https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ) | 3:32 | 2023-07-07 |  |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-06-15 | 2023-07-08 |

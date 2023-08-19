@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. Check back in September for Otoño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,555 likes - 26 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,562 likes - 26 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 25 | [Luciérnagas](https://open.spotify.com/track/4Q0j6rJT7VvJ5AcCPaJ6Nz) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 4:14 |
 | 26 | [Una parte](https://open.spotify.com/track/5Yaia4vlWgAxQqynU3QEXQ) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [Una parte](https://open.spotify.com/album/5QXPzWdxKA9kRYtyQ9jAzd) | 3:22 |
 
-Snapshot ID: `MCxiNDEzMDc5MWNhZWEzOGM1ZWJlMTE3MDcyYWU1OGIwNTU4ZmU1MTIz`
+Snapshot ID: `MCw0MWJiZTIyNGVkOTQ2N2ZkYzhlZDZjZWYwMTdhNGE5NTYyMTllZmI2`

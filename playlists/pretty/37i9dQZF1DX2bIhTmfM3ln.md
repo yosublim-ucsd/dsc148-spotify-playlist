@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > Afrobeats love stories have the best beginnings
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,130 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,208 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 10 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 |
 | 11 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 12 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 |
-| 13 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |
+| 13 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |
 | 14 | [All Over You](https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [All Over You / Mon Bébé](https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0) | 2:20 |
 | 15 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 |
 | 16 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 17 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 |
-| 18 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Leriq](https://open.spotify.com/artist/3hQSJlOr4WnGv5eDk88Pq3) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
+| 18 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
 | 19 | [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 |
 | 20 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 |
 | 21 | [Peppermint](https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peppermint](https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 | 80 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 |
 
-Snapshot ID: `MCw4OTEyMDZkZjM1ZTNmZWRjMDg2NDVlZTE1ZjM2ZDA0MDQzYWI3ODZl`
+Snapshot ID: `MCw5Y2I4YTU2NGZmYzJkYmIxMTg2NmZkNjlmNmMyOTA2OTZmYTBlZDgx`

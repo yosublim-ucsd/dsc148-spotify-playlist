@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,746 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,751 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 |
 | 50 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 |
 
-Snapshot ID: `MCwwNjA3NmE3NmZiOTExOTUzNTU0YTA3NzhjNTVhMjMwODQ1YTg2YWJh`
+Snapshot ID: `MCxhNDUwYWRhMzY0ZWU5NmE5ODUyODY4ZWMxNTM1OTUxMjFiY2U5ZWE3`

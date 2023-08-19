@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,497 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,600 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 71 | [Sweet Southern Wind](https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI) | [Holman Autry Band](https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq) | [Sweet Southern Wind](https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw) | 4:17 |
 | 72 | [Travelin' Shoes](https://open.spotify.com/track/4pxj2nEkmypTXihGBv6gB1) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Let It Flow](https://open.spotify.com/album/51KKT6XplZzoUF4h2uWV29) | 7:20 |
 | 73 | [Southern Comfort](https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM) | [Jimmie Van Zant Band](https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C) | [Southern Comfort](https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A) | 5:23 |
-| 74 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
-| 75 | [Bad Little Doggie](https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 3:43 |
+| 74 | [Bad Little Doggie](https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 3:43 |
+| 75 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
 | 76 | [Warrior](https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe) | [The Bean Pickers Union](https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT) | [Potlatch](https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq) | 4:40 |
 | 77 | [That's Your Secret](https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 5:16 |
 | 78 | [Two Wheels](https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA) | [Alligator Stew](https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk) | [Alligator Stew](https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M) | 4:00 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 84 | [It Hurts To Want It So Bad](https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 3:39 |
 | 85 | [Coming Home](https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji) | [Johnny Van Zant Band](https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR) | [The Johnny Van Zant Collection](https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe) | 4:05 |
 | 86 | [Goin' Down South](https://open.spotify.com/track/6a8zQOJTMePV89Zp6LV8lD) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/4i4ExrDUBLGaPT8Kvbo3f1) | 6:10 |
-| 87 | [Refried Funky Chicken](https://open.spotify.com/track/2NN052M5Inp7KfwPT9xner) | [Dixie Dregs](https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu) | [Free Fall](https://open.spotify.com/album/6WtQ7NpP9nZV7cBybTiL4c) | 3:18 |
-| 88 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
+| 87 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
+| 88 | [Refried Funky Chicken](https://open.spotify.com/track/2NN052M5Inp7KfwPT9xner) | [Dixie Dregs](https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu) | [Free Fall](https://open.spotify.com/album/6WtQ7NpP9nZV7cBybTiL4c) | 3:18 |
 | 89 | [Rise of the Rebel](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 3:53 |
 | 90 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
 | 91 | [Rock Bottom](https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 5:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
 | 100 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
 
-Snapshot ID: `MCwzNzJmYWUwMDg1MDcxZDZmOGE4NDYwOWI1ODI4ZmY3OWY3NDBlOTg1`
+Snapshot ID: `MCw4NmExNDBlNzgyNjJiMmMxMmJjYzRkN2NjZWI2ZTJhNWYxMDRjMTBj`

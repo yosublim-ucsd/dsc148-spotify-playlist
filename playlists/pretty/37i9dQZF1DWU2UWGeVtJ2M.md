@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,970 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,015 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
 | 100 | [Oceansize](https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:43 |
 
-Snapshot ID: `MCxkYzI1YzQ3Yzc4NWRlNTA1MDA2ODAwZjI0NDNjMmJlNTBjNzljZTA1`
+Snapshot ID: `MCw1ZDgzODUwZTIxM2U5MWMzYzZmNDBhZWQxZWJjOTVmMTM4NWU1ZWZl`

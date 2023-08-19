@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Six Sex & El Osito Wito.
 
-195 songs - 9 hr 26 min
+196 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 | 2022-05-24 | 2023-03-18 |
 | [Animal](https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:23 | 2022-05-24 | 2022-06-04 |
 | [Anoche \(Remix\)](https://open.spotify.com/track/2k6RWRsm2yYD8lOJjer5qa) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Anoche \(Remix\)](https://open.spotify.com/album/0ibOm3Sm7K1o6wG8I9B6QQ) | 3:48 | 2022-05-24 |  |
-| [ARRODILLATE](https://open.spotify.com/track/35MxhBmuoLJJHnYxNddLry) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [6X](https://open.spotify.com/album/36zYUhIzm4JJQ0cUohfArv) | 2:31 | 2023-07-07 |  |
+| [ARRODILLATE](https://open.spotify.com/track/35MxhBmuoLJJHnYxNddLry) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [6X](https://open.spotify.com/album/36zYUhIzm4JJQ0cUohfArv) | 2:31 | 2023-07-07 | 2023-08-19 |
 | [Atrévete](https://open.spotify.com/track/4HDJzMYiqYxbON1CGa19x4) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Atrévete](https://open.spotify.com/album/2wpVr5x946STGMJKussoXW) | 2:49 | 2022-05-24 | 2022-11-26 |
 | [Aunque Ya No Estés Aquí](https://open.spotify.com/track/00sAoxFmsbUSU5Cn0RCxlV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Aunque Ya No Estés Aquí](https://open.spotify.com/album/5DLcKxG9Fs22scFfoEDcmV) | 3:26 | 2022-05-24 |  |
 | [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 | 2022-09-09 |  |
@@ -112,6 +112,7 @@
 | [Location](https://open.spotify.com/track/3JUtF9szQ4r3yLSJ7IHn9y) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Soto Asa](https://open.spotify.com/artist/45u6fHp1118iTp6WeNlBTn), [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi) | [Location](https://open.spotify.com/album/7KCBFMlb9xZkUj9OwFsAHY) | 2:57 | 2022-05-24 | 2022-07-29 |
 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 | 2022-05-24 | 2022-07-23 |
 | [Madrid](https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Madrid](https://open.spotify.com/album/5rEutOpWVW9KdiVkPJL5QH) | 2:38 | 2022-05-24 | 2022-11-19 |
+| [MAL](https://open.spotify.com/track/5HUqOhSkn8OLMQNTX9GoBV) | [Taffari Nadal](https://open.spotify.com/artist/6U154kMe4SHMG7g2IdffvJ), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [MAL](https://open.spotify.com/album/5zDlHFy3uyKUKtylreOvfS) | 2:50 | 2023-08-18 |  |
 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 | 2022-05-24 |  |
 | [Me acostumbré](https://open.spotify.com/track/0qGWqojAabUzXnEpERBM6t) | [teoh](https://open.spotify.com/artist/61wE1ArCFvqhi7aMMsawAw), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Me Acostumbré](https://open.spotify.com/album/6c0OHXqlHJ3fQHrGWlw26Z) | 3:33 | 2022-05-24 | 2022-12-07 |
 | [Me Enchulé](https://open.spotify.com/track/1knZxWeEljQswZZ1hNpw6O) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Letan](https://open.spotify.com/artist/14LqX7WKEinOwg1VZcM1xE) | [Me Enchulé](https://open.spotify.com/album/0cCFPRtmdTx56gESqo8fn6) | 2:23 | 2023-03-03 |  |

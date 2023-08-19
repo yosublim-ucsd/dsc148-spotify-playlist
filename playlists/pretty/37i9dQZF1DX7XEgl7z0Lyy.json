@@ -1,13 +1,69 @@
 {
   "description": "music from the underworld",
-  "num_followers": 38812,
+  "num_followers": 40408,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzI0MTJiMjU3MDk3NTgyZjAyOWRiNzg2YzZjNGEyNmY0MGFiMzU4",
+  "snapshot_id": "MCwzNzIxYzc0ZTk3NDMzYWY4ZWU4YTZlMjQzMzI2Y2I0MDA3ZWEzYTIy",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+        "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 208938,
+      "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+      "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "NALGOTICA!",
+        "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 114703,
+      "name": "NALGOTICA!",
+      "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "vampire love",
+        "url": "https://open.spotify.com/album/0EIqsSmwIP5GZJesgYTchK"
+      },
+      "artists": [
+        {
+          "name": "nami",
+          "url": "https://open.spotify.com/artist/3E2CPSMNaUMT0OosI4ogam"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "vampire love",
+      "url": "https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp"
+    },
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {

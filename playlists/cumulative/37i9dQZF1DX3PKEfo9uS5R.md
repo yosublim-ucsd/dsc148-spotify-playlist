@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-188 songs - 9 hr 45 min
+189 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2021-11-11 | 2022-05-11 |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-11-11 | 2022-05-11 |
 | [White Sand](https://open.spotify.com/track/5bJpgpe64yhSWpwtELoBh3) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [White Sand](https://open.spotify.com/album/1YEoHrS4r659ncmDAGU3rD) | 2:39 | 2022-10-07 |  |
+| [With My Head In The Clouds](https://open.spotify.com/track/6sbxL63lxChWhcpbrfZusb) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [With My Head In The Clouds](https://open.spotify.com/album/0APq3v0AR9lWXBB41nSWSm) | 3:18 | 2023-08-18 |  |
 | [With My Whole Heart](https://open.spotify.com/track/7AzIVU7uB6ZU7uPoFJFKPu) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [With My Whole Heart](https://open.spotify.com/album/7DqXk7aQUle3M5qMtjq6zb) | 2:46 | 2021-11-11 | 2022-02-11 |
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-01 |
 | [wurley](https://open.spotify.com/track/5YdQDDQLm3zCNiK2zyrU9p) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [wurley](https://open.spotify.com/album/5KZGax3atAaM5N6XKGtY3Y) | 2:45 | 2023-02-10 |  |

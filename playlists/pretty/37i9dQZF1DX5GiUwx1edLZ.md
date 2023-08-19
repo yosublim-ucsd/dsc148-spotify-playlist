@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,629 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,657 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [They Don't Know Us \- Piano Version](https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us \(Piano Version\)](https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0) | 3:21 |
 | 100 | [Finest Hour \(feat\. Abir\) \- Acoustic Version](https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Acoustic Collection \(Vol\. 1\)](https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk) | 3:01 |
 
-Snapshot ID: `MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm`
+Snapshot ID: `MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj`

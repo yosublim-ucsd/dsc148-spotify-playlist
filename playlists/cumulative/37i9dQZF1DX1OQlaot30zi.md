@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Baby Gang, Nayt, Ele A e tanti altri.
 
-2,189 songs - 4 day 3 hr 41 min
+2,190 songs - 4 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,7 +762,7 @@
 | [fuori grandina](https://open.spotify.com/track/5wMiOUaoMIRamLo6kdz9eA) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [fuori grandina](https://open.spotify.com/album/1WjCIFSycMzI43lO8uSwJb) | 2:32 | 2023-01-05 | 2023-01-13 |
 | [Fuori orario](https://open.spotify.com/track/7cPPuJ5S5ZEZzsr9Bu5eRd) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fuori orario](https://open.spotify.com/album/1iGI3nODUrJVQfoOw52BSe) | 3:10 | 2022-10-06 | 2022-10-28 |
 | [Fuoriluogo](https://open.spotify.com/track/7DlC04i4K4VID4wyjJcrky) | [Kalu](https://open.spotify.com/artist/19pINGYXv8Rlp7FUR99PtB), [Jaga](https://open.spotify.com/artist/7AAFYgSxErhteV58nPph6R), [Pablo Limo](https://open.spotify.com/artist/6F1d50yG3dGin8FEb2LVoM) | [Fuoriluogo](https://open.spotify.com/album/4kMJA6pqLBHD7uvmIdv0Vx) | 2:55 | 2023-07-13 | 2023-07-21 |
-| [FVCK](https://open.spotify.com/track/4DESXoBCNd0Su1BwHVWNcJ) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [FVCK](https://open.spotify.com/album/54lf2c6ZXtPjEJhGKPyOum) | 3:12 | 2023-08-10 |  |
+| [FVCK](https://open.spotify.com/track/4DESXoBCNd0Su1BwHVWNcJ) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [FVCK](https://open.spotify.com/album/54lf2c6ZXtPjEJhGKPyOum) | 3:12 | 2023-08-10 | 2023-08-19 |
 | [FÊTE](https://open.spotify.com/track/2K0L31WmIs4QRgbHdEK0dr) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [FÊTE](https://open.spotify.com/album/7gK2GZkKfUh7b2lx3lZx20) | 2:31 | 2023-03-30 | 2023-04-14 |
 | [G CLASS](https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [G CLASS](https://open.spotify.com/album/5i8sSSUmC6NMJd70gLS4Hn) | 2:25 | 2022-05-19 | 2022-06-10 |
 | [G wagon](https://open.spotify.com/track/01N376lscuZ90vGovLrjDj) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf) | [G wagon](https://open.spotify.com/album/3xTWoR9D2oTQ7Rtkbh5wV6) | 2:26 | 2023-06-22 | 2023-07-14 |
@@ -1374,6 +1374,7 @@
 | [Non ritorneranno mai](https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Non ritorneranno mai](https://open.spotify.com/album/3bnt2flUrBeiQaYQxe3Knp) | 2:48 | 2023-04-13 | 2023-05-05 |
 | [non sembra da me](https://open.spotify.com/track/0CdrbpQJrUjnVslKPQ0GCS) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs), [C4](https://open.spotify.com/artist/5q2ramn8vmeHWNKLajEUiM) | [non sembra da me](https://open.spotify.com/album/58a9Jh79FvciUVqkUbgDr9) | 2:54 | 2022-07-21 | 2022-08-26 |
 | [Non Siamo Uguali \(feat\. CoCo\)](https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:57 | 2023-05-11 | 2023-06-02 |
+| [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 | 2023-08-18 |  |
 | [NON VI RISPONDO](https://open.spotify.com/track/7gz4mucHjTCQEmHKLi29Xd) | [fxs](https://open.spotify.com/artist/75E46nbLjmQvjO478IsXAZ) | [NON VI RISPONDO](https://open.spotify.com/album/3Nndo78Kr6Im19I4m4Phwn) | 2:32 | 2023-06-15 | 2023-06-30 |
 | [NON VOLEVO](https://open.spotify.com/track/1uhpABS64K2CJWHDQ8PwEA) | [Gori](https://open.spotify.com/artist/2nQiKqJ7JSLdfMcgTjJn4k) | [NON VOLEVO](https://open.spotify.com/album/04kxH6XGjmIgniGeJgNadV) | 2:26 | 2022-09-01 | 2022-09-23 |
 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 | 2022-05-12 | 2022-06-03 |

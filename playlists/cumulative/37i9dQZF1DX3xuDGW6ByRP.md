@@ -4,7 +4,7 @@
 
 > as novas de pop rock br / Foto: Lou Garcia
 
-77 songs - 3 hr 37 min
+79 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Amigo de Ninguém](https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER \(bem\) PIOR](https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0) | 2:51 | 2023-07-21 |  |
 | [Andar 14](https://open.spotify.com/track/4mric8489EFF7DxpQfonKw) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Andar 14](https://open.spotify.com/album/2ZaCdkFUHGtBohD7o763cK) | 2:53 | 2023-07-21 |  |
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2023-07-21 |  |
+| [ANTIPÁTICA](https://open.spotify.com/track/02xT4Y8rv1BkBDoITGfDb9) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX) | [ANTIPÁTICA](https://open.spotify.com/album/6sYlzbpYzTtCtRdBzbkDlb) | 3:21 | 2023-08-18 |  |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-07-21 |  |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2023-07-21 |  |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2023-07-21 |  |
@@ -32,6 +33,7 @@
 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 | 2023-07-21 |  |
 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 | 2023-07-21 |  |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-07-21 |  |
+| [DUBLÊ](https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [DUBLÊ](https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ) | 2:58 | 2023-08-18 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-07-21 |  |
 | [Exagerado](https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerados](https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF) | 2:43 | 2023-07-21 |  |
 | [Fiz 18](https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Fiz 18](https://open.spotify.com/album/3B803upCKgO5My70u4J7sK) | 3:14 | 2023-07-21 |  |

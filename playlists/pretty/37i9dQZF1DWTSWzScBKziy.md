@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,189 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,236 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [JOY](https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [JOY](https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K) | 4:16 |
 | 100 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 
-Snapshot ID: `MCw2OWMzNWU5MGM4MDdlYmRlNDg5MWQ5NzY5ZjgzZGRjODZlOWJlYjZk`
+Snapshot ID: `MCw5MmNlZTE4NjUxODJmOGUxYWZkYTY4NTk2YjkwNGE5NzQ0MzlhNjJj`

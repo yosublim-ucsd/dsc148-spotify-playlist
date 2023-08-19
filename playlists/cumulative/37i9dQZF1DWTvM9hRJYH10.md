@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: King Calaway
 
-290 songs - 15 hr 22 min
+295 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 | 2022-04-08 |  |
 | [Because of You](https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/7eI0RyVZwhaH1MtYgTcKiK) | 3:05 | 2022-04-29 |  |
 | [Before It All Went Wrong](https://open.spotify.com/track/3eFxtqJE1WtOlVuzhePhlT) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Before It All Went Wrong](https://open.spotify.com/album/6VGYYksct2PODFyd7z1qvo) | 3:04 | 2021-12-31 | 2022-02-12 |
+| [Best Friend](https://open.spotify.com/track/0ZJYidVg2ft0e4Zt0wRasq) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Best Friend](https://open.spotify.com/album/0cqPg2AZJ9hfTLEGvwlqap) | 2:57 | 2023-08-18 |  |
 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 | 2022-03-11 |  |
 | [Better With A Girl](https://open.spotify.com/track/1AhqYT646NhyThWhi3xX3r) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Better With A Girl](https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd) | 3:01 | 2021-12-31 |  |
 | [Bird Dog](https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Bird Dog](https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8) | 3:34 | 2022-08-26 |  |
@@ -41,13 +42,14 @@
 | [Buzzkilla](https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Let Love Be Love](https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7) | 2:52 | 2021-12-31 | 2022-07-02 |
 | [By You](https://open.spotify.com/track/0K37EIkIJ4MOAm7vje4Li9) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [By You](https://open.spotify.com/album/7ugbAKwRlYfLsZBnKVSCCk) | 3:01 | 2022-09-09 |  |
 | [California](https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [California](https://open.spotify.com/album/1psx0StZRNxtb6qu08sDip) | 3:37 | 2021-12-31 | 2022-08-02 |
-| [Can I Get It Back](https://open.spotify.com/track/3dRMxBaouik33046d8r5fL) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Can I Get It Back](https://open.spotify.com/album/6Xe4MJT37L8Bqi6LJ5WgDy) | 2:54 | 2023-01-13 |  |
+| [Can I Get It Back](https://open.spotify.com/track/3dRMxBaouik33046d8r5fL) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Can I Get It Back](https://open.spotify.com/album/6Xe4MJT37L8Bqi6LJ5WgDy) | 2:54 | 2023-01-13 | 2023-08-19 |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 | 2021-12-31 | 2022-07-02 |
 | [Cartier](https://open.spotify.com/track/5Dg385wbg8UpFsPGF7mKSN) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [Cartier](https://open.spotify.com/album/5KKa4O8V0YmpcKdqDfBNZz) | 3:20 | 2022-04-22 |  |
 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 | 2022-01-21 |  |
 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 | 2021-12-31 | 2023-01-14 |
 | [Champagne Problem](https://open.spotify.com/track/7JIzEv4l1UVnEZ6owvjnWf) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Champagne Problem](https://open.spotify.com/album/7h6UDZVbl2zzhcANEe7zB7) | 2:50 | 2021-12-31 | 2022-08-02 |
 | [Changed](https://open.spotify.com/track/59CcTuZW4YDSAok0ZOOTgx) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW) | [Changed](https://open.spotify.com/album/2UrcEgREB1xJGXDNNlJcxv) | 2:48 | 2022-05-13 |  |
+| [Chevy](https://open.spotify.com/track/2S1AUpbamlb1XijnpBlOZ9) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Chevy](https://open.spotify.com/album/4BdRzFSbh6cdV2CuXUMAC2) | 2:48 | 2023-08-18 |  |
 | [Comin' from](https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Comin' from](https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0) | 2:58 | 2022-04-15 |  |
 | [Couldn't Care Less](https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE) | 3:08 | 2022-04-01 | 2022-07-29 |
 | [Couldn't Care Less](https://open.spotify.com/track/426FCekR1d7INAvM8Qb7aX) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/1tT0T7vuC0KCDHIr8dB8HL) | 3:08 | 2022-07-22 | 2022-08-16 |
@@ -61,6 +63,7 @@
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-05-01 | 2022-10-29 |
 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2022-10-14 |  |
 | [Damsel in this Dress](https://open.spotify.com/track/7ArpFETe69QZq26EZ9R3Gy) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Damsel in this Dress](https://open.spotify.com/album/4XtrizZf5lVQchM3vAOd9M) | 2:58 | 2021-12-31 |  |
+| [Dickhead](https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Dickhead](https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2) | 2:30 | 2023-08-18 |  |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 |  |
 | [Doctor](https://open.spotify.com/track/4Nor2AyPPlYeXysD5vHcPY) | [Kamryn Palmer](https://open.spotify.com/artist/0l8kaiWF1RdEZUiUXAIccL) | [Doctor](https://open.spotify.com/album/3l0pKQEEQQnkTCgqcDsVwM) | 3:23 | 2022-02-11 | 2022-06-01 |
 | [Don't Have the Heart](https://open.spotify.com/track/6oWtcMZEvn4QlG3XWFbDcW) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Don't Have the Heart](https://open.spotify.com/album/3JKLVJ0VF6UaVI92q3fuFW) | 3:02 | 2022-07-22 |  |
@@ -230,6 +233,7 @@
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-31 |  |
 | [Skip This Part](https://open.spotify.com/track/4vBRaWNRt12NOFFLmekoou) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Skip This Part](https://open.spotify.com/album/1fzHdD4hckwMiVn1YD6Q30) | 3:19 | 2023-02-24 |  |
 | [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 | 2022-09-23 |  |
+| [Some Are Love](https://open.spotify.com/track/1Wn6rLDvovKIKkTEF4TCYj) | [Malachi Gagnon](https://open.spotify.com/artist/5ypiXY7PJ0KSUk5YbaNv3t) | [Some Are Love](https://open.spotify.com/album/0UqsN9S6rMzzAxpHmrCk7N) | 3:03 | 2023-08-18 |  |
 | [Somebody Loves You](https://open.spotify.com/track/4EtlDPVMEapdCaBWDFypFn) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Somebody Loves You](https://open.spotify.com/album/0QEobz2FDq9LU0CDSClIWF) | 2:32 | 2021-12-31 | 2022-09-10 |
 | [Somebody with a Broken Heart](https://open.spotify.com/track/7yQJUfSF801AAMjcJcFbvh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Somebody with a Broken Heart](https://open.spotify.com/album/5c8V1funhYDhiuKVajsXa4) | 3:32 | 2021-12-31 | 2022-01-08 |
 | [Somethin' in the Sunshine](https://open.spotify.com/track/1JDRyKJkKgmm8F4m9QSTnk) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Somethin' in the Sunshine](https://open.spotify.com/album/2vZKaE4y1UoVuJboLV0ZHE) | 2:52 | 2021-12-31 | 2022-02-12 |
@@ -276,6 +280,7 @@
 | [Used To](https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D) | [Natalia Taylar](https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Used To](https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId) | 3:25 | 2021-12-31 |  |
 | [Vegas](https://open.spotify.com/track/0qY0AvQ0nutIE7ksHRbwi3) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 3:13 | 2023-05-19 |  |
 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 | 2022-07-15 | 2023-05-26 |
+| [Vertigo](https://open.spotify.com/track/6YNx3NLrVFuBXs2CkfMF5s) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Vertigo](https://open.spotify.com/album/5g3zZghZYNswZEt2znFIFe) | 2:53 | 2023-08-18 |  |
 | [Wallen On Your Radio](https://open.spotify.com/track/4eWtmopOFSfV93yWdRROnF) | [Alli Leighann](https://open.spotify.com/artist/4OeJYKm6vIFtrORFTjF68v) | [Wallen On Your Radio](https://open.spotify.com/album/74TKonwqXqmm5pgvzVNoGt) | 3:12 | 2023-07-28 |  |
 | [Ways To Miss You](https://open.spotify.com/track/7tL3FQZW9j7mV0G1Y5CRps) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Ways To Miss You](https://open.spotify.com/album/6TvGzZvJ31VOQYuQf1wXPY) | 3:09 | 2021-12-31 |  |
 | [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-31 | 2022-09-10 |

@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-551 songs - 1 day 6 hr 0 min
+554 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2022-04-14 | 2022-04-21 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2023-01-03 | 2023-07-01 |
 | [Bad Habits](https://open.spotify.com/track/3UjtiMq0d84U4XhSnDN5WL) | [b\_piranha](https://open.spotify.com/artist/2wA2YjeXY6LG3dT8Zz2blY) | [Bad Habits](https://open.spotify.com/album/5G9E2WxtFlyKfVpAteBJ6f) | 2:36 | 2022-04-14 | 2022-04-21 |
+| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-18 |  |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2022-07-08 |  |
 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 | 2022-04-14 | 2023-08-05 |
 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 | 2022-04-14 | 2023-08-05 |
@@ -77,7 +78,7 @@
 | [Broke](https://open.spotify.com/track/1HgtvcT9glbQatbAyrBgSj) | [Siné](https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN) | [Broke](https://open.spotify.com/album/1lJDPnEA1FiJCDqbUh6Agc) | 3:01 | 2022-04-14 | 2022-04-21 |
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2022-09-09 | 2022-10-08 |
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2022-07-08 | 2023-07-01 |
-| [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-08-04 |  |
+| [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-08-04 | 2023-08-19 |
 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-04-14 | 2022-04-21 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-01-03 | 2023-07-01 |
 | [cardigan](https://open.spotify.com/track/4LEK9rD7TWIG4FCL1s27XC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:59 | 2022-06-10 | 2022-06-18 |
@@ -102,6 +103,7 @@
 | [Cry with you](https://open.spotify.com/track/0hqJxaNkPQ3sPm1tvfPlAe) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cry with you](https://open.spotify.com/album/5glLEM78dvTDoN8MSjM241) | 3:37 | 2022-04-14 | 2022-07-29 |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-04-14 | 2022-07-08 |
 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2022-04-14 | 2022-04-21 |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-18 |  |
 | [dancing in the kitchen](https://open.spotify.com/track/2VhY69P0Q15rHfEKaMlR5x) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx](https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk) | 3:28 | 2022-04-14 | 2022-07-29 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-07-08 | 2023-08-05 |
 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 | 2022-07-08 | 2023-05-19 |
@@ -295,7 +297,7 @@
 | [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2022-04-14 | 2022-07-29 |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-07-08 |  |
 | [Lost](https://open.spotify.com/track/45Q6RNX1yeHpGZpR0RjpKI) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/12kiHybzVsvUF0H2e1uYXW) | 3:54 | 2022-07-01 | 2022-07-29 |
-| [Lost](https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV) | 3:54 | 2023-06-30 |  |
+| [Lost](https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV) | 3:54 | 2023-06-30 | 2023-08-19 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-12-17 |  |
 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 | 2022-10-28 | 2022-11-19 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2022-04-14 | 2022-05-10 |
@@ -440,6 +442,7 @@
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-06-16 | 2023-07-01 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2022-12-02 |  |
 | [speechless](https://open.spotify.com/track/514sePPTsegFRJ0RwlXvPQ) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd), [Kyra](https://open.spotify.com/artist/1WWcgn14HJ6pZ3VTMubBC7) | [speechless](https://open.spotify.com/album/4KfwlbK7ybWUdElgOXBl6B) | 2:47 | 2022-04-14 | 2022-04-21 |
+| [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-08-18 |  |
 | [stable life](https://open.spotify.com/track/5IISDoksKy4dnTauZzAOCc) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [stable life](https://open.spotify.com/album/3wYkXOIudwejTyYF5Bk0wh) | 3:16 | 2022-06-03 | 2022-07-19 |
 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 | 2022-07-08 | 2023-07-01 |
 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 | 2022-04-14 | 2022-04-21 |
@@ -557,7 +560,7 @@
 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 | 2023-06-30 | 2023-08-05 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2022-04-14 | 2022-07-29 |
 | [Your Shirt](https://open.spotify.com/track/4ulrQQu8H7ZsW9PVqjYSza) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Snow In October EP](https://open.spotify.com/album/2rfQlUxHwQgeYDpCY0Ytrz) | 3:50 | 2022-04-14 | 2022-07-29 |
-| [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 | 2023-06-30 |  |
+| [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 | 2023-06-30 | 2023-08-19 |
 | [YOUTH](https://open.spotify.com/track/3nRmuCfXdEDIPGX7pXBtto) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [YOUTH](https://open.spotify.com/album/0E0FaFHEssddwuwD4MsHiY) | 3:05 | 2022-04-14 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

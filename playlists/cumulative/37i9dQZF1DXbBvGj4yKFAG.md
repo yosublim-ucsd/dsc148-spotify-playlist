@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-189 songs - 10 hr 10 min
+194 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [CryWitMe.mp3](https://open.spotify.com/track/3lhbGhwy97nY2pSZkpwuZn) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [CryWitMe.mp3](https://open.spotify.com/album/2V2cmfoMXI7XuFVAt3l7A6) | 1:30 | 2023-04-11 | 2023-07-15 |
 | [dark rain](https://open.spotify.com/track/4ofhqons1Y7p0orWUPM3qt) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [joseph's deli & lottery](https://open.spotify.com/album/4tbpoplEQJggCqxLF9GfsM) | 2:34 | 2023-07-14 |  |
 | [deep cut](https://open.spotify.com/track/0z7jINsAm4AOmiCYY7v1HW) | [Charlotte Rose Benjamin](https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe) | [deep cut](https://open.spotify.com/album/17b1Br35jKvT919bAF3MAH) | 5:14 | 2023-04-11 | 2023-06-03 |
+| [die](https://open.spotify.com/track/5Qfq800wAIq4iDWOJewzAf) | [Oyatan](https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om), [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [Wouldn’t It Be Easy?](https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t) | 2:50 | 2023-08-18 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-19 | 2023-07-01 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Done Chasing](https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f), [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Done Chasing](https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl) | 2:52 | 2023-03-23 |  |
@@ -71,6 +72,7 @@
 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 | 2023-06-30 |  |
 | [Green](https://open.spotify.com/track/3FvATEo4dW73WFpm61cp5z) | [sundots](https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5) | [Green](https://open.spotify.com/album/70Z8jgEF6OctG5nojkCpVF) | 3:52 | 2023-06-30 |  |
 | [Hey Bunny](https://open.spotify.com/track/6dkPmbwmIHvDXVG67ADlOj) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Hey Bunny](https://open.spotify.com/album/4yIIE1mHGuQIA4kbTZo0H3) | 2:58 | 2023-03-06 |  |
+| [Hickory](https://open.spotify.com/track/5CbNVlWdXkBCu4IiGGz44L) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [Hickory](https://open.spotify.com/album/7ECrhykJzsa5Mi9HtQYlBk) | 5:05 | 2023-08-18 |  |
 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 | 2023-02-09 | 2023-05-17 |
 | [Hole in My Pocket](https://open.spotify.com/track/3m9RcdyMk4KoppIdAYUo46) | [Purple Tears](https://open.spotify.com/artist/6rlWf1GiPgR0mfeFbJzoJi) | [Hole in My Pocket](https://open.spotify.com/album/0RWp78xmyuPx9gLClAHpBP) | 3:38 | 2023-04-21 |  |
 | [hospital](https://open.spotify.com/track/4UzvLVnjwss4kBEMljLSNn) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [hospital](https://open.spotify.com/album/6RTOmRu8hQDjJI5AbEtawL) | 2:35 | 2023-04-11 | 2023-05-17 |
@@ -94,6 +96,7 @@
 | [insomniac](https://open.spotify.com/track/5ybjt8b18uUPJDEzqi75yu) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/2nlqINGMZtFXZQeI8fQovI) | 3:04 | 2023-04-11 | 2023-05-17 |
 | [is there anyone home?](https://open.spotify.com/track/51tWaNW17bJvFoe8kpgwIe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [is there anyone home?](https://open.spotify.com/album/47Ea7xLnKRXbn06XfhZXpK) | 3:37 | 2023-03-03 | 2023-03-18 |
 | [It Was Nice To See You](https://open.spotify.com/track/3P22L4S20rAHHekbrXxF4V) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:20 | 2023-04-17 | 2023-04-22 |
+| [iv\. Deer in the Headlights](https://open.spotify.com/track/4CgSNrxK6tNtL9cRG9UIjD) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [iv\. Deer in the Headlights](https://open.spotify.com/album/36xTI7b2JYuC4tF15dBKxU) | 2:48 | 2023-08-18 |  |
 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2023-02-09 | 2023-05-17 |
 | [Jealous of a Kid](https://open.spotify.com/track/3xAO026dWHrw5pcM6Q5EPO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Jealous of a Kid](https://open.spotify.com/album/177mzayu6o2R1V89SvxQzv) | 3:32 | 2023-06-02 |  |
 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-11 |  |
@@ -103,7 +106,8 @@
 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 | 2023-02-09 |  |
 | [Lay Low](https://open.spotify.com/track/0cH8U1daDLdpioFHXzbK3S) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/2rAaK13iXekyefycEQBIxX) | 2:22 | 2023-04-14 |  |
 | [Lay Low](https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km) | 2:22 | 2023-04-14 | 2023-06-03 |
-| [Lexapro](https://open.spotify.com/track/3VS6b1tjl9b5rZ5rdHykfl) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Lexapro](https://open.spotify.com/album/6grs6YBSacgL6dZ53hg8bE) | 3:26 | 2023-06-30 |  |
+| [Lexapro](https://open.spotify.com/track/3VS6b1tjl9b5rZ5rdHykfl) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Lexapro](https://open.spotify.com/album/6grs6YBSacgL6dZ53hg8bE) | 3:26 | 2023-06-30 | 2023-08-19 |
+| [Lexapro](https://open.spotify.com/track/3qw28AcPSxvL7aajVd1TL7) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:26 | 2023-06-30 |  |
 | [Lightning](https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Lightning](https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk) | 3:15 | 2023-07-14 |  |
 | [Like You Do](https://open.spotify.com/track/6bpWedLJqI8q0xMqJT88HP) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Like You Do](https://open.spotify.com/album/1qtek4ncBDO5HYjOrbUTbX) | 3:55 | 2023-04-11 | 2023-06-03 |
 | [Love Letters](https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Love Letters](https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep) | 3:16 | 2023-04-14 | 2023-06-06 |
@@ -140,6 +144,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-02-09 | 2023-04-12 |
 | [run it back](https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Run it Back / Fire Escape](https://open.spotify.com/album/5oan6nmdsscfxfmk7nmhr8) | 4:18 | 2023-02-09 |  |
 | [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 | 2023-03-03 | 2023-07-22 |
+| [scrape my teeth](https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [scrape my teeth](https://open.spotify.com/album/5g15UUA6l4Va6HmcCAeSwv) | 2:34 | 2023-08-18 |  |
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-02-09 | 2023-05-17 |
 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 | 2023-04-11 |  |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2023-02-09 |  |

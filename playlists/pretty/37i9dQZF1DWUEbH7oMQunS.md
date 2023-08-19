@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,136 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,255 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 |
 | 100 | [Anchor](https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [Anchor](https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG) | 5:01 |
 
-Snapshot ID: `MCwzODcwYjk4Y2ZlZjUzMDEzZGY2NjdiYmRmMDk4NTY0YzIyZDM2MDhi`
+Snapshot ID: `MCwxZTI2Y2U3NTAwNDJiN2UyNDgxNjkwN2E3YzZhY2ZkMmY5Mjg0OTAw`

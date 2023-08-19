@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,266 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,357 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [In A Mellow Tone](https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:26 |
 | 100 | [These Foolish Things \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:09 |
 
-Snapshot ID: `MCw3NmE3NDA4ZjMwMThlZjY5NTlkZmZkMzA0OTgzNmJkZWRlZmYzYzM0`
+Snapshot ID: `MCxlNjZjMDdhZTcwZDhlNDgzZDhiZTRiYWM2YTc3ZjE0YzgwZTIzYjk4`

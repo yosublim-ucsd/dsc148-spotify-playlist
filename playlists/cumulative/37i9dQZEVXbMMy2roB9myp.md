@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-612 songs - 1 day 9 hr 12 min
+613 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [MHD: Bzrp Music Sessions, Vol\. 44](https://open.spotify.com/track/4JC18crxRPZOuTqBfXKFIR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [MHD: Bzrp Music Sessions, Vol\. 44](https://open.spotify.com/album/2r7IVQiJULrFYTN195Dtwo) | 2:53 | 2021-09-18 | 2021-09-20 |
 | [Mi Debilidad](https://open.spotify.com/track/4it6vaFbkGRUaQlwWUMg3v) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 2:45 | 2021-08-29 | 2022-01-15 |
 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 | 2021-08-01 | 2021-08-29 |
+| [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-18 |  |
 | [Mi Niña](https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Mi Niña](https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS) | 3:33 | 2021-03-27\* | 2021-05-03 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-25 | 2022-10-27 |
@@ -609,7 +610,7 @@
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2022-12-09 |  |
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-07-31 | 2021-11-28 |
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-01-13 | 2023-01-16 |
-| [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-15 |  |
+| [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-15 | 2023-08-19 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-10-27 | 2022-11-18 |
 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 | 2022-01-22 | 2022-07-13 |
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2021-11-28 | 2022-02-19 |

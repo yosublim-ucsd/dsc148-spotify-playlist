@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-139 songs - 6 hr 31 min
+141 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Facts](https://open.spotify.com/track/1B69USoua8pFyR1SRu6n9q) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:49 | 2022-04-15 |  |
 | [Fam Jam](https://open.spotify.com/track/58pVNlzDwrddprihIMBKCd) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:54 | 2022-04-15 |  |
 | [Feeling Good](https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:56 | 2022-04-15 |  |
+| [Feelings](https://open.spotify.com/track/6dxDbTGOZjOyJ1kexvchyX) | [Slumberkins](https://open.spotify.com/artist/5oC4IIutTVy3XmJbTFRfPi), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Feelings](https://open.spotify.com/album/4E5ZQAfchlKZkgBzaASby3) | 3:25 | 2023-08-18 |  |
 | [Feelings Like The Weather](https://open.spotify.com/track/3c3TKJO5a2YMoGaQNflOGu) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/29XcuEEpUkyv5fc6Z26fP9) | 2:50 | 2022-04-15 | 2022-07-29 |
 | [Feelings Like The Weather](https://open.spotify.com/track/3v1zZp0M5ZHSOXjwwTyerM) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 2:50 | 2022-07-25 |  |
 | [Funky Leg](https://open.spotify.com/track/2aq4DbosfzQRYbDKCdatle) | [Shine and the Moonbeams](https://open.spotify.com/artist/5IwCPV7WRS7rIQN41cur1q) | [I Am](https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp) | 2:43 | 2022-04-15 |  |
@@ -137,6 +138,7 @@
 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2022-04-15 | 2023-02-10 |
 | [Train Is Coming](https://open.spotify.com/track/76sV3pmK4aaTb9tdwL2d0O) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Train Is Coming](https://open.spotify.com/album/11D3dlxcvp4YHOc1qICJeo) | 2:06 | 2023-03-17 |  |
 | [Under My Nose](https://open.spotify.com/track/6xZbvUXNxKEBCDsFrCDNTJ) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [Under My Nose](https://open.spotify.com/album/20wXwI3kIxW7QL0YsI8h3S) | 3:04 | 2022-11-14 |  |
+| [Wave a Flag for Harvey Milk](https://open.spotify.com/track/278FrjHVBPFAE5oEktEkeL) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mr\. Greg & Cass Mccombs Sing and Play New Folk Songs for Children](https://open.spotify.com/album/5BRz8Ni0M0EeXFDfSnwZhh) | 3:22 | 2023-08-18 |  |
 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 | 2022-04-15 |  |
 | [We Go Together Very Well](https://open.spotify.com/track/4RhmeK90NGyJ5bplwVjj0u) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:04 | 2022-04-15 |  |
 | [We Got This](https://open.spotify.com/track/6WDR423psynPi9xh6DrGAD) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:50 | 2022-04-15 |  |

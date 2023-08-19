@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,776 likes - 120 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,095 likes - 120 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 |
 | 120 | [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 |
 
-Snapshot ID: `MCxhNDBkYzEzYWMwNWMwYzNkMGE1NDY0MTE2OGEwMWU1NDVhNzM1YjI5`
+Snapshot ID: `MCw1YTU1NjNlMGZkMDY2MTA5MzQ5MWZhODI2MGM4ZTQ5NmI5ODFhMTQ3`

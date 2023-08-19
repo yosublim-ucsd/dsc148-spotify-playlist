@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,998 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,112 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Lepo Lepo](https://open.spotify.com/track/2rZFSXWR2B5YCASIFuD8gh) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Tá Quente \#Fiqueemcasa](https://open.spotify.com/album/1Q0nWUteLaA3a7bAqBjOzp) | 3:22 |
 | 100 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
 
-Snapshot ID: `MCw3ZGFlMjliZTI4NGJkYjFhNTVkODNjY2I2MDU1MGZmNzE3NjcxYzc5`
+Snapshot ID: `MCxiZjU3YjNhYWU2NGJhNjVhNDExN2I2YjMzMGE1NWE5YTY2NzNhZWVi`

@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200750,
       "name": "Say No More - Gary B Balearic Remix",
       "url": "https://open.spotify.com/track/6wtq2JZGRRKInQCDkUf5Ir"
@@ -6780,6 +6780,28 @@
       "duration_ms": 209826,
       "name": "Will I Get Off Easy",
       "url": "https://open.spotify.com/track/1RsqyOxg254bZioR6jx5lD"
+    },
+    {
+      "album": {
+        "name": "With Me",
+        "url": "https://open.spotify.com/album/5KwenN0bRpyZmFYN1zLPBE"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        },
+        {
+          "name": "Anthony de la Torre",
+          "url": "https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/2LviX2K6A98fRLLi1KLuo2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,929 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,965 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [Never Let Go](https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 |
 | 60 | [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 |
 
-Snapshot ID: `MCxhYmYxZTkxZmRkYjJjY2FkZTg0NTFmMmQ5MGUzYjJhMjNmODRkMWUy`
+Snapshot ID: `MCw5YTIyOGYxM2Y2OWUzNDc1NWE0MWJiYTE5MmM3OTc1MTVhNzQyOGZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,842 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,837 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Jesus Is Alive](https://open.spotify.com/track/2yn5jZqkkHu7lQ7YE14N32) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Noel](https://open.spotify.com/album/0fOV4DUZwtScuGK8Y2AOm4) | 3:42 |
 | 150 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/6p5EwrlhE0iDMEom4bTPsB) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Lauren Plank Goans](https://open.spotify.com/artist/3GtOQJYQvsjowW3f9M0Kod) | [Advent Songs](https://open.spotify.com/album/0q3YflR2DQiPytrpHx7lAA) | 2:31 |
 
-Snapshot ID: `MCwxMWFmMjhkYjc5OGU3Y2Q5YzUwYjg0OGQ5NGVmMDAwNzVkNzE2NGY2`
+Snapshot ID: `MCxlYjU5MTUzZDJiMzQyYWQyMTE0ZDY1YzFiNmMzZDI0YWZiMTI4MWIx`

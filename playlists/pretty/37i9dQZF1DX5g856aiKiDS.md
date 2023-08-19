@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,073 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,177 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [Winter Blossom \(feat\. SAAY\) \(Prod\. by 0channel\)](https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 3:37 |
 | 50 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 
-Snapshot ID: `MCwwNTlmODQ1NjQzYWU2N2JlNzc3NzljOTlkZWUzMTQ2ODUwODI1ZTIy`
+Snapshot ID: `MCw2NjI5MTZhNWVjM2M4MDVlMWI2OTNhYTg1NDk2OGZkOWUxMTYyNDVk`

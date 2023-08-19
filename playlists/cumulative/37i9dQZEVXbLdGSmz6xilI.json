@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 203826,
       "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
       "url": "https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A"
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -4730,7 +4730,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 179986,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
@@ -5784,7 +5784,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 207163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
@@ -7379,6 +7379,28 @@
     },
     {
       "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200202,
+      "name": "kho b\u00e1u \u0111\u00e1nh r\u01a1i (feat. GREY D)",
+      "url": "https://open.spotify.com/track/5HuDnBhNLj5m865LowtgZQ"
+    },
+    {
+      "album": {
         "name": "Kh\u00e1c Bi\u1ec7t To L\u1edbn H\u01a1n",
         "url": "https://open.spotify.com/album/4NwKHyjNEf456fHaEQFw9d"
       },
@@ -7412,7 +7434,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 234791,
       "name": "Kh\u00f4ng C\u00f2n Em",
       "url": "https://open.spotify.com/track/1RGA13K66cABN7nYek6WNk"
@@ -8417,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205676,
+      "name": "l\u00e0m l\u00e0nh ch\u1eefa t\u00ecnh",
+      "url": "https://open.spotify.com/track/0phm7GkRTCRI9OQqTJvG6q"
+    },
+    {
+      "album": {
         "name": "L\u00e2u L\u00e2u Nh\u1eafc L\u1ea1i",
         "url": "https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0"
       },
@@ -9386,7 +9426,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 255758,
       "name": "M\u1ed9t C\u00f4ng \u0110\u00f4i Vi\u1ec7c (feat. HURRYKNG & HIEUTHUHAI)",
       "url": "https://open.spotify.com/track/0dAAZHmjRcE3yEjeBZQvCg"
@@ -9781,6 +9821,42 @@
     },
     {
       "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147795,
+      "name": "ng\u01b0\u1eddi \u0111i\u00ean",
+      "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
+    },
+    {
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "ng\u01b0\u1eddi \u0111\u1eb9p ng\u1ee7",
+      "url": "https://open.spotify.com/track/3EvZ9Ztgy03uUhxlv8PLf3"
+    },
+    {
+      "album": {
         "name": "ng\u1ee7 m\u1ed9t m\u00ecnh",
         "url": "https://open.spotify.com/album/5NJXb5RyhAIY2ooqumkSyA"
       },
@@ -9852,6 +9928,24 @@
       "duration_ms": 302000,
       "name": "Nh\u01b0 Anh \u0110\u00e3 Th\u1ea5y Em",
       "url": "https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V"
+    },
+    {
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242945,
+      "name": "nh\u1eefng \u0111\u1ed1m s\u00e1ng",
+      "url": "https://open.spotify.com/track/1TJtZKZFq2rdh9Wfpm15Nw"
     },
     {
       "album": {
@@ -10149,6 +10243,28 @@
     },
     {
       "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263752,
+      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+      "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
+    },
+    {
+      "album": {
         "name": "n\u1ebfu l\u00fac \u0111\u00f3",
         "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
       },
@@ -10164,7 +10280,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 264000,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
@@ -10186,6 +10302,24 @@
       "duration_ms": 156825,
       "name": "N\u1ee5 h\u00f4n Bisou",
       "url": "https://open.spotify.com/track/4TMdpMJNQdcawl8JjZEwLk"
+    },
+    {
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "n\u1eef si\u00eau anh h\u00f9ng",
+      "url": "https://open.spotify.com/track/5FFVQGnZuJt9iAYpasTeq4"
     },
     {
       "album": {
@@ -13661,6 +13795,24 @@
     },
     {
       "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170839,
+      "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
+      "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
+    },
+    {
+      "album": {
         "name": "99%",
         "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
@@ -13870,7 +14022,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 194182,
       "name": "Tr\u01b0\u1edbc Khi Em T\u1ed3n T\u1ea1i",
       "url": "https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY"
@@ -14059,6 +14211,24 @@
     },
     {
       "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133561,
+      "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
+      "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
+    },
+    {
+      "album": {
         "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
         "url": "https://open.spotify.com/album/0ptE7cwks2pwpcsP8ioEUL"
       },
@@ -14070,7 +14240,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 133561,
       "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
       "url": "https://open.spotify.com/track/6Lzlbce8Eg1dPg91VSx6kk"
@@ -14132,7 +14302,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 202880,
       "name": "T\u1ea1i V\u00ec Sao",
       "url": "https://open.spotify.com/track/3440g8awr2l0E5Yy2X5Epk"
@@ -15478,6 +15648,24 @@
       "duration_ms": 197333,
       "name": "\u00c0 L\u00f4i",
       "url": "https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV"
+    },
+    {
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67200,
+      "name": "\u00e1i",
+      "url": "https://open.spotify.com/track/3Gr6ucPp3qJbBZ3yrGmZTt"
     },
     {
       "album": {

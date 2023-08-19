@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans\. Cover: Wynton Marsalis
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,595 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,598 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 59 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
 | 60 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
 
-Snapshot ID: `MCw5NjQzYmM2OTZkMWE5MzI3YmZhYzYzMDZiMjM4MDE4NGRiOTgxY2Fk`
+Snapshot ID: `MCw3ZTVlZWQ0ZDMzYTRjMDBjNTEwMjQ4NjAxZGI4YmRlN2Y2NDdlYTUx`

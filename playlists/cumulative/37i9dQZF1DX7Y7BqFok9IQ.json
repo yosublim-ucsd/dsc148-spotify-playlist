@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 209667,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 160543,
       "name": "Eagle Birds",
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
@@ -2477,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
+        "url": "https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257532,
+      "name": "No Lovin\u2019",
+      "url": "https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv"
+    },
+    {
+      "album": {
         "name": "Many Miles Ahead",
         "url": "https://open.spotify.com/album/20KjNLIRKH70voeLo5ohqv"
       },
@@ -3488,6 +3506,24 @@
       "duration_ms": 245226,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx"
+    },
+    {
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
     },
     {
       "album": {

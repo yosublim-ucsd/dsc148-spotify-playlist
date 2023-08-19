@@ -4,11 +4,11 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-140 songs - 8 hr 14 min
+141 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 | 2022-09-06 | 2023-08-18 |
+| [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 | 2022-09-06 |  |
 | [Aleteo](https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd) | [Aleteo](https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau) | 3:24 | 2022-01-14 |  |
 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 | 2022-09-06 |  |
 | [Alma](https://open.spotify.com/track/73fh5PP1DDxJLrjzuR0K93) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Alma](https://open.spotify.com/album/3bR7NG06VsznfRW6qvMdwy) | 3:16 | 2022-09-23 |  |
@@ -65,7 +65,7 @@
 | [Endechas](https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA) | [Tamara Castro](https://open.spotify.com/artist/6qZ4SF1cQH0Uhf5GMnAY2T) | [La Patria Digna](https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy) | 2:34 | 2022-09-06 |  |
 | [Entre Algarroba y Durazno](https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM) | [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Entre Algarroba y Durazno](https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC) | 4:10 | 2022-01-14 |  |
 | [Esa Musiquita](https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v) | [Marilí Machado](https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI) | [A Mercedes, Vol\. II](https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7) | 3:22 | 2022-01-14 | 2022-09-07 |
-| [Espejo](https://open.spotify.com/track/1QqycFHW1tFsrgA7HQcBzn) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Espejo](https://open.spotify.com/album/07hqhMGFTYQm25XQpdEzXu) | 4:59 | 2023-08-11 |  |
+| [Espejo](https://open.spotify.com/track/1QqycFHW1tFsrgA7HQcBzn) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Espejo](https://open.spotify.com/album/07hqhMGFTYQm25XQpdEzXu) | 4:59 | 2023-08-11 | 2023-08-19 |
 | [Esta Noche Canta Salta](https://open.spotify.com/track/4g3aPYLNrEbGGqiYWNRVGy) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Nací para Cantar](https://open.spotify.com/album/0DeuQ3Y1o2EOJBvv9b8tOb) | 2:56 | 2022-09-06 |  |
 | [Florcita de Cardón](https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6) | [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Jallalla](https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt) | 3:51 | 2022-09-06 |  |
 | [Fruto](https://open.spotify.com/track/0vQqkEYw9Bvd5AyavBRW8D) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Fruto](https://open.spotify.com/album/7waTEQXyFvKCtghnMJ9T04) | 2:44 | 2022-01-14 | 2022-09-07 |
@@ -114,6 +114,7 @@
 | [Pecnectao](https://open.spotify.com/track/2O54SJ9WWYKfAP0AgVUsYQ) | [Paula Neder](https://open.spotify.com/artist/2MPDqzRlmcCjqAKMPbU1pb), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Illa](https://open.spotify.com/album/36clIg69CVidSiJSABdhlH) | 3:27 | 2022-07-08 | 2022-09-07 |
 | [Pecnectao](https://open.spotify.com/track/6u81JlGPvFBHm3TBClBXps) | [Paula Neder](https://open.spotify.com/artist/2MPDqzRlmcCjqAKMPbU1pb), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [illa](https://open.spotify.com/album/4cfbzZI3A18wvDsQGbKFJR) | 3:27 | 2022-01-14 | 2022-07-29 |
 | [Pedro Canoero](https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Autobiografía](https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL) | 3:22 | 2022-01-14 |  |
+| [Podrás](https://open.spotify.com/track/3sXY8JJRU6Gi6YTTDA7YUP) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Podrás](https://open.spotify.com/album/4oLTyOU9M8aUWnqibV7eff) | 4:01 | 2023-08-18 |  |
 | [Por el Río Volveré](https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl) | [Victoria Birchner](https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Memoria del Viento](https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt) | 4:03 | 2022-01-14 | 2022-09-07 |
 | [Quisiera Amarte Menos](https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3) | [Nacha Roldán](https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh) | [Joyas](https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3) | 3:09 | 2022-01-14 | 2022-09-07 |
 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 | 2022-09-06 | 2023-07-26 |
@@ -139,7 +140,7 @@
 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 | 2022-01-14 | 2023-05-18 |
 | [Vuela una lagrima](https://open.spotify.com/track/37dJCBj04mNiUPDRAsDCLg) | [Marina González](https://open.spotify.com/artist/7egtvubyoo0WK5QsIWCfvU) | [Vuela una lagrima](https://open.spotify.com/album/4RVnFfyDV9ZoFvSo8jzNID) | 5:02 | 2023-07-07 |  |
 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 | 2023-01-20 |  |
-| [Watsancheyaj](https://open.spotify.com/track/2xQHSS7ACofg942p8wqvqC) | [Rosario Haddad](https://open.spotify.com/artist/45BDhGT8kMlAiWXPUqenGw), [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Entramada](https://open.spotify.com/album/79VDVGtOHMdPrWEzM7Sw3V) | 3:43 | 2023-08-11 |  |
+| [Watsancheyaj](https://open.spotify.com/track/2xQHSS7ACofg942p8wqvqC) | [Rosario Haddad](https://open.spotify.com/artist/45BDhGT8kMlAiWXPUqenGw), [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Entramada](https://open.spotify.com/album/79VDVGtOHMdPrWEzM7Sw3V) | 3:43 | 2023-08-11 | 2023-08-19 |
 | [Zamba azul](https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB) | [Mery Murua](https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l) | [Roble 10 Años](https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K) | 4:59 | 2022-01-14 | 2022-07-29 |
 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB) | 3:30 | 2022-01-14 | 2022-07-29 |
 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn) | 3:30 | 2022-07-08 |  |

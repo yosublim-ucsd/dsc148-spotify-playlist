@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 203765,
       "name": "All for Nothing",
       "url": "https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX"
@@ -3362,6 +3362,24 @@
       "duration_ms": 160958,
       "name": "Nobody Like U - From \"Turning Red\"",
       "url": "https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8"
+    },
+    {
+      "album": {
+        "name": "NOTHING!",
+        "url": "https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139614,
+      "name": "NOTHING!",
+      "url": "https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz"
     },
     {
       "album": {

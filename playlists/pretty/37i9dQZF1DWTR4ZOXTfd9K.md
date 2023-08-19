@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,824 likes - 100 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,948 likes - 100 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 37 | [The Bluest Eye](https://open.spotify.com/track/4WAJmXMCoEf29VgK8j2wWA) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [12 Stars](https://open.spotify.com/album/3DFIvcm119lRoa5NxyiBDC) | 7:22 |
 | 38 | [Roy](https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [on the tender spot of every calloused moment](https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji) | 2:40 |
 | 39 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 |
-| 40 | [A Night In Tunisia \- Rudy Van Gelder Edition / Remastered 1998](https://open.spotify.com/track/7mwfuAhF0DclPHLhKEyYdl) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:16 |
+| 40 | [A Night In Tunisia \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/7mwfuAhF0DclPHLhKEyYdl) | [Bud Powell Trio](https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:16 |
 | 41 | [Bags' Groove](https://open.spotify.com/track/1ewQUavRnFAEwPqqwKQ0nF) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Milt Jackson With John Lewis, Percy Heath, Kenny Clarke, Lou Donaldson And The Thelonious Monk Quintet \(Expanded Edition\)](https://open.spotify.com/album/3rEExGtWJZ5uRXNKaCgKDl) | 3:06 |
 | 42 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 |
 | 43 | [Blue Samba \- Remastered](https://open.spotify.com/track/6VB4NISQyautyrBN1SGzgJ) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Maiden Voyage](https://open.spotify.com/track/7r1EOboFCZVUCPB6Cz42q9) | [Bob Belden Project](https://open.spotify.com/artist/5L086bNiOHKUwE9efaBQ1N), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Shades Of Blue](https://open.spotify.com/album/2Z31ciU8s8Fxiuj5FCRdcS) | 6:58 |
 | 100 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 |
 
-Snapshot ID: `MCwzZDBiYzNlOWU5Njc3MjI5N2I3ZDY3YzljYTQ2OGYzNTM3ZDQ5Y2E3`
+Snapshot ID: `MCwyYzNjMmE5MjY4YjMzZWI1NmJiMDVkYmRiODBiODRhYTM5Yzc2Nzkx`

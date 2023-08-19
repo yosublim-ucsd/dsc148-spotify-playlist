@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,839,699 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,839,860 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Charrupi](https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9) | [Orquesta Calibre](https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB) | [La Foto, el Video, la Chicanería](https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4) | 5:41 |
 | 100 | [Pasándola bien](https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Pasándola bien](https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j) | 2:54 |
 
-Snapshot ID: `MCxmZDhjMzk5NmI5NGZiZmVhODYzYTJjZGI5ODkzMTg4ZGYyZjY4NGMz`
+Snapshot ID: `MCxmNGUzN2EzZmI2Nzg1MDAyZGQxNzdmNmU5ZjZmODUzYWRhZGMwNDFi`

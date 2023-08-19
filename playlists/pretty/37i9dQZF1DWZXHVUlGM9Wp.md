@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > The Skate Zone curates the playlist to offer a glimpse of their Atlanta roller rink.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,426 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,441 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 74 | [Beautiful](https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Uncle Charlie Wilson](https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B) | [The Best Of Snoop Dogg](https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8) | 4:59 |
 | 75 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 
-Snapshot ID: `MCwxMGExYzAwMDZkMGNhMDQ1Zjg0NzRjNzk0NzZlMTBhNGNhNDRkMDNl`
+Snapshot ID: `MCw5YWNhN2RmZjI3NTBkOTgyNzVkMDY4MzAyN2I2ZTU4YzhmNTZjN2I0`

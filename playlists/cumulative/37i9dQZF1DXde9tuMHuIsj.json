@@ -559,6 +559,28 @@
     },
     {
       "album": {
+        "name": "Baby (with Lunay)",
+        "url": "https://open.spotify.com/album/1PXkLwDz944cu3Orl7aQsE"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/6M7gWN4WyOVJxvGDHaMV7E"
+    },
+    {
+      "album": {
         "name": "Baby Father 2.0 (feat. Myke Towers, Arc\u00e1ngel, \u00d1engo Flow and Yeruza)",
         "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
       },
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 179500,
       "name": "Drogdilla",
       "url": "https://open.spotify.com/track/6d7pf0uO5FbOVi16xcaq49"
@@ -1764,6 +1786,28 @@
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
     },
     {
       "album": {
@@ -2338,7 +2382,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Fendi & Valentino",
       "url": "https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn"
@@ -3178,7 +3222,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 213831,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
@@ -3748,7 +3792,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 231100,
       "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
       "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"

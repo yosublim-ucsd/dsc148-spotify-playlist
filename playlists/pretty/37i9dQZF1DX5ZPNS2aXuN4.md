@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 
 > An introduction to the music of Bartok, Hungary's greatest composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,943 likes - 60 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,955 likes - 60 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 | 59 | [String Quartet No\. 6, Sz\. 114: 4\. Mesto](https://open.spotify.com/track/4wbvnvzu7hPtB7JNoMbsZE) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Tokyo String Quartet](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) | [Bartók: The String Quartets](https://open.spotify.com/album/5tHG8pljpG926DuvpxBwXc) | 6:56 |
 | 60 | [Music for Strings, Percussion and Celesta, Sz\. 106: 3\. Adagio](https://open.spotify.com/track/5sGRmLMcs4MbkANPcLWcoY) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Saito Kinen Orchestra](https://open.spotify.com/artist/2Mi8xPOE8jSOZEeFjxVNdQ), [Seiji Ozawa](https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo) | [Seiji Ozawa Anniversary](https://open.spotify.com/album/5FjUPEEtyxLtqkNQUW9wDC) | 6:53 |
 
-Snapshot ID: `MCxjODU4NzVhYTQ3NTM4YWI1NzU3MzkzOWUyYjU5Y2Q1ZDIxYzg2NGFj`
+Snapshot ID: `MCw3ZmI5OTg3MTE2YmNlMThmOWM4YjZmYmIzZmNiY2VmMjBlN2JiNmI2`

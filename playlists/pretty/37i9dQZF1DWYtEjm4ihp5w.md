@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Dollypran
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,534 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,652 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
+| 1 | [Yeah ho v4](https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Yeah ho v4](https://open.spotify.com/album/2sZqUzLCEM3H4oh1ahKbdI) | 4:49 |
 | 2 | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1) | 2:46 |
 | 3 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 |
-| 4 | [Yeah ho v4](https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Yeah ho v4](https://open.spotify.com/album/2sZqUzLCEM3H4oh1ahKbdI) | 4:49 |
+| 4 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
 | 5 | [Ghi Lmachakil](https://open.spotify.com/track/1QVsVIfgVf7L2AdfkGP9d4) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [PHENOMENAL](https://open.spotify.com/album/3lV8FV4uYEP0y0yH8fzK6m) | 3:20 |
 | 6 | [Pyramid](https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 2:59 |
 | 7 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 |
 | 50 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 |
 
-Snapshot ID: `MCw3ODJiMjAyYjQyZDZiNjljNGRlYTAyMmFlZDA2NGFhYWQyNmEwMGNk`
+Snapshot ID: `MCwwZTI3MWU5YmY4Nzc5NmZiNDcxZWFkYzhiNDNlMzI3MjQxZWFmZDVl`

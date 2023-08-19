@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,697 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,849 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 |
 | 100 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 
-Snapshot ID: `MCxmOWIxY2JiMjgyMWUwZjhhZGYwZTEyYTVmMDFiN2EwNmNjZGJiY2Zk`
+Snapshot ID: `MCwwYWRiMmU5ZjA2MGViMTU3Y2Y4NWQzMTdhYmMwMjQyZjA3OWFhZTkx`

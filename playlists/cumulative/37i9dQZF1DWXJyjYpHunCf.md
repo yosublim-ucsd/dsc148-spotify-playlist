@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-292 songs - 16 hr 47 min
+294 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 | 2022-10-14 | 2022-11-13 |
 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-08-19 |  |
 | [Better When We're Falling Apart](https://open.spotify.com/track/2GLj5AhUJJPpM4ISa3IjYF) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better When We're Falling Apart](https://open.spotify.com/album/0f2Ym8hI7QskvmmkJLSLTy) | 3:06 | 2021-11-12 | 2022-07-29 |
-| [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 | 2022-03-12 |  |
+| [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 | 2022-03-12 | 2023-08-19 |
 | [Big Wide World](https://open.spotify.com/track/1RLlkQpO7tpHCW2O0Pv43s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Big Wide World](https://open.spotify.com/album/6G5WVhD7EsJIDEXnJ53rUC) | 4:14 | 2022-03-12 | 2022-07-29 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-03-12 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2021-11-12 | 2022-07-29 |
@@ -102,6 +102,7 @@
 | [Find a Way](https://open.spotify.com/track/0vud1aGRNlwzuVGE3AfWzs) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Find a Way](https://open.spotify.com/album/4QQBvcwZJG6gCE1WsyCRV7) | 3:56 | 2021-11-12 | 2022-01-14 |
 | [Find Another Reason Why](https://open.spotify.com/track/69K5FXo7lvM6lyiudqJWni) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Find Another Reason Why](https://open.spotify.com/album/47dBDQRH04eRYA4lKByNMF) | 3:18 | 2021-11-12 | 2023-06-20 |
 | [Fireworks](https://open.spotify.com/track/4vs2mQsCkcQCNeRzUDRTyE) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt) | 3:18 | 2023-04-28 | 2023-06-17 |
+| [First Light](https://open.spotify.com/track/0xCYHtz6bHgKY9zqP7Yciu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:52 | 2023-08-18 |  |
 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 | 2023-04-14 | 2023-06-24 |
 | [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 | 2023-06-16 |  |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-03-12 |  |
@@ -117,6 +118,7 @@
 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 | 2021-11-12 | 2023-08-10 |
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2021-11-12 | 2023-04-15 |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2023-05-19 | 2023-06-13 |
+| [Grace](https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Grace](https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK) | 3:20 | 2023-08-18 |  |
 | [Greatest Enemy](https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Greatest Enemy](https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu) | 3:09 | 2021-11-12 | 2022-08-20 |
 | [Happy Girl](https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Happy Girl](https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh) | 3:03 | 2022-03-12 | 2022-07-21 |
 | [Harshest Critic](https://open.spotify.com/track/21FgHK5OHDvgNxW3ZgqIfp) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Harshest Critic](https://open.spotify.com/album/49lMIK60bcwjMPgDfaIV71) | 3:16 | 2021-11-12 | 2022-07-29 |
@@ -161,7 +163,7 @@
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-03-12 |  |
 | [Keep Me Going](https://open.spotify.com/track/1Gn1Yzgdk0RFq3H0lePlMB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Keep Me Going](https://open.spotify.com/album/6z5T17mfAG7wqGjF63DuPv) | 3:28 | 2021-11-12 | 2022-01-17 |
-| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-08-19 |  |
+| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-08-19 | 2023-08-19 |
 | [Keeps Me Coming Back](https://open.spotify.com/track/2HmXg75yywpcLWh11fstsZ) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Keeps Me Coming Back](https://open.spotify.com/album/5e3cG72M66MSeLQ2QaWeHw) | 2:49 | 2021-11-12 | 2022-07-29 |
 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 | 2022-08-19 |  |
 | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm) | 3:11 | 2022-03-12 | 2023-03-22 |

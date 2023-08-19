@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,948 likes - 174 songs - 13 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,473 likes - 174 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 41 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 |
 | 42 | [Tonight](https://open.spotify.com/track/5FgTBoLgiGKkB8GWDIPwrp) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Inner Monologue](https://open.spotify.com/album/0X1jMKj2RQSil3PTSppRIT) | 5:41 |
 | 43 | [Sex & The City \- Edit](https://open.spotify.com/track/3ogW5oIkp4g84brSFNgrfL) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Sex & The City EP](https://open.spotify.com/album/44hU92WwxXxeMikN6N67a6) | 4:12 |
-| 44 | [Smooth Operator \- TikTok Remix](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Diana Martinez](https://open.spotify.com/artist/6XLHt4Vh2p3JMDObYdDItk) | [Smooth Operator \(TikTok Remix\)](https://open.spotify.com/album/1KRu1EXjZxsJwx9gyzAIZm) | 3:18 |
+| 44 | [Smooth Operator](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Smooth Operator](https://open.spotify.com/album/1KRu1EXjZxsJwx9gyzAIZm) | 3:18 |
 | 45 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 |
 | 46 | [Bad Decisions](https://open.spotify.com/track/7Dfuaz3aDJR5cSIm39duc2) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso) | [Bad Decisions](https://open.spotify.com/album/3oSEYtS73IvBGWGFLpnGol) | 3:02 |
 | 47 | [Detective Chimp](https://open.spotify.com/track/7H4DeHbqZkeNdJkEequ1sh) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dance Monkey Dance](https://open.spotify.com/album/1k3ppNSi9Ko3oaKVcyUWXW) | 6:06 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 173 | [Remember When](https://open.spotify.com/track/3eGvc60ZfpRNs9Tmh7k6T9) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Faro](https://open.spotify.com/album/3MpTyXDrpbmFhrGIndfeME) | 4:40 |
 | 174 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCw5NDY2ZjUxNjQ4NDZhZTE5YjdhY2FmYWQ0YjQ2NTVkYWJjOTRmMDRi`
+Snapshot ID: `MCw2YjdhNjBjZmY4ZGRhZjFhNWViYjc1MmUwMWU1MDkzMTFhZjQ5MzI3`

@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-83 songs - 8 hr 5 min
+84 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Rock This Way](https://open.spotify.com/track/0P22HCmkkIbSIRSWTwlkEs) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Rock This Way](https://open.spotify.com/album/7911Hd0ysqIiXC4ZrxrNVk) | 5:23 | 2022-03-04 |  |
 | [Saudades](https://open.spotify.com/track/3bR1zkhKF85T0mVrrIjLaT) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Saudades](https://open.spotify.com/album/0c2b9B5Cgmtwvm832NgUDR) | 3:34 | 2022-03-04 |  |
 | [Sem Chão](https://open.spotify.com/track/5irKKFoCUyKFq8rvtSBIYM) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Sem Chão](https://open.spotify.com/album/3mCC0lCqstMOgi43doEefH) | 4:07 | 2022-03-04 |  |
+| [Shanti](https://open.spotify.com/track/1q6UdQJkg7ULE6qX0YVZSf) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Dudiish](https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd) | [Shanti](https://open.spotify.com/album/6B2G8y3W2SXYWLgo45mDEk) | 3:50 | 2023-08-18 |  |
 | [Sonho de um Passaro \- Special M Remix](https://open.spotify.com/track/2WlMKcobKZMKvoFcnlQbdS) | [Pedra Branca](https://open.spotify.com/artist/7ClRSpXsFCWnmUrSXGa8Gn), [Special M](https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX) | [Dance Floor Remixes](https://open.spotify.com/album/2wWwyGQFNvA2zERWQgOpsJ) | 5:10 | 2022-03-04 |  |
 | [Sonne](https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx) | [Sonik Sun](https://open.spotify.com/artist/2aPCuXM9q0ckGWkdt9frsj), [Alex Wyze](https://open.spotify.com/artist/5F7VkOKbb7WIQFfFu7B5mQ), [Alaan Lara](https://open.spotify.com/artist/375Qyr12mY0JzX6hZYCsSp), [Muzik Dealerz](https://open.spotify.com/artist/0VK4jyNtmxSxjvW2YpTvOg) | [Sonne](https://open.spotify.com/album/6yhokZpMZuT2VW8jTdTs5a) | 6:07 | 2022-03-04 | 2023-07-08 |
 | [Stranded](https://open.spotify.com/track/276yiDfuK6Fjd7b7ieE6LO) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Stranded](https://open.spotify.com/album/3TpGLgaPIv69ZFpt9I0iir) | 2:21 | 2022-03-04 |  |

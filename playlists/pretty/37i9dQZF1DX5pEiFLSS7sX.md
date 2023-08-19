@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,130 likes - 100 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,186 likes - 100 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 74 | [Heal Our Land](https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:00 |
 | 75 | [Mention Of Your Name](https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Mention Of Your Name](https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST) | 5:26 |
 | 76 | [None But Jesus \- Live](https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [United We Stand \(Live\)](https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f) | 5:29 |
-| 77 | [Nothing Is Holding Me Back](https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Here On Earth](https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA) | 4:24 |
-| 78 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
+| 77 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
+| 78 | [Nothing Is Holding Me Back](https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Here On Earth](https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA) | 4:24 |
 | 79 | [You Won't Let Go](https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 3:34 |
 | 80 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
 | 81 | [Never Going Back \(Live\) \[feat\. Brock Human\]](https://open.spotify.com/track/4DmEUh51ANACrLZOzNHR5C) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brock Human](https://open.spotify.com/artist/3fKQOMOuRBYdymdO5yTKkp) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 9:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Heart Wide Open](https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 4:42 |
 | 100 | [Goodness](https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 5:35 |
 
-Snapshot ID: `MCwyNTZiOTQ4MzhmZTNlMGQzZWI3OGE3ZDU1MDZiM2U3MTRmNTMzYTE0`
+Snapshot ID: `MCwyZTEzNzI2ZTVlOTE4N2VlYTJjYjhmNmU1NTI2NjY4YzcwYmJiMGNk`

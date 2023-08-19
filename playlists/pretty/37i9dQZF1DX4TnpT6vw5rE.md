@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,941 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,962 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [inflight view](https://open.spotify.com/track/0AQEnTwiXGUTMUHNBsOJFJ) | [Lukas Klika](https://open.spotify.com/artist/30dGtOLUkxJYNFQ5pZBb6j) | [inflight view](https://open.spotify.com/album/14I13nspqsRuft5vKtSbTb) | 3:40 |
 | 120 | [Above The Satellites](https://open.spotify.com/track/5lr8xODLjAI0K00QLhFR4b) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Above The Satellites](https://open.spotify.com/album/6PUWrGctjUcZj8kBr34jka) | 3:38 |
 
-Snapshot ID: `MCw5YzI1YjllZDAxYWJlNzY5ZTAyOTk2ZWZmMWQyZjA2YWYwY2FhOGY5`
+Snapshot ID: `MCwyNDdjOTFjNzc4MTQzZTlmN2Q2OTY5NDU5NjRjODZmMWY4ZTdkZmZj`

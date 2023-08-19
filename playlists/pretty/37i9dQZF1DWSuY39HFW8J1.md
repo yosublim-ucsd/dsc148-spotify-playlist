@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuY39HFW8J1.md) - [plain]
 | 21 | [Good for Nothing \- Mixed](https://open.spotify.com/track/3lpgbD6I8ZCV3ECiXOJuG7) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [Good for Nothing \(Mixed\)](https://open.spotify.com/album/2g8rVj8JZQMahfXVhFSQQr) | 3:19 |
 | 22 | [vestal avenue \- Mixed](https://open.spotify.com/track/1zEsI234eysELrn4SQNJ5U) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [vestal avenue \(Mixed\)](https://open.spotify.com/album/1jnoIrGDQaFFMyDe14KGiC) | 3:33 |
 
-Snapshot ID: `MCwxNWZjY2FiYzUzZGViMGFkZjA4MjI5NmU3YjQ5MzAxMTg0OTBjODdl`
+Snapshot ID: `MCxkYjFmMTBlOTA1NTRlZDlmZmJiOTVmM2UwNmNhYTEyMmU0ZmNlM2Ni`

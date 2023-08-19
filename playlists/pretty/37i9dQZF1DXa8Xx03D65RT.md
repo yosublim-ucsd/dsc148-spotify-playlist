@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,612 likes - 250 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,621 likes - 250 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 |
 | 250 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 |
 
-Snapshot ID: `MCxkMDkwZjk0YzZkNDFkNjE0NTdlNGM1MWZjMzM3YjE2NjQ2YzUzMTY2`
+Snapshot ID: `MCw1YjAyMzY1OTRjMDQ1MThhNjZmZTM1NjNhM2U2Mjk4NjBhMTBlOTBm`

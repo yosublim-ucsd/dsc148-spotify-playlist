@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: SNOW WIFE",
+  "description": "Dark, hard hitting pop. Cover: Demi Lovato",
   "name": "SALT",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 157138,
       "name": "10 Things I Hate About You",
       "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
+    },
+    {
+      "album": {
+        "name": "2 LATE",
+        "url": "https://open.spotify.com/album/0rY7VQUOTcumdtLJfpBW2s"
+      },
+      "artists": [
+        {
+          "name": "LO LA",
+          "url": "https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "2 LATE",
+      "url": "https://open.spotify.com/track/3IvXpswu83BD9Ip4gBQkH0"
     },
     {
       "album": {
@@ -596,7 +614,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 194381,
       "name": "BADDER",
       "url": "https://open.spotify.com/track/5hvxB7vZ8p6YDLlt7iC7o8"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
@@ -654,6 +672,24 @@
       "duration_ms": 162760,
       "name": "Becky\u2019s So Hot",
       "url": "https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD"
+    },
+    {
+      "album": {
+        "name": "beetlejuice (dead to me)",
+        "url": "https://open.spotify.com/album/6JKYIbJaSDxsnzE33TWyMv"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126253,
+      "name": "beetlejuice (dead to me)",
+      "url": "https://open.spotify.com/track/7uwGJNxwruP07ME7Z1vkVr"
     },
     {
       "album": {
@@ -1447,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Confident (Rock Version)",
+        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205675,
+      "name": "Confident - Rock Version",
+      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
+    },
+    {
+      "album": {
         "name": "Could've Just Left Me Alone",
         "url": "https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW"
       },
@@ -1826,6 +1880,24 @@
       "duration_ms": 225800,
       "name": "DEBBIE DOWNER",
       "url": "https://open.spotify.com/track/3AD4e2BU7UqmESFDIrQa72"
+    },
+    {
+      "album": {
+        "name": "Deja Vu You",
+        "url": "https://open.spotify.com/album/7oM9ghGzzUN86fiofWhS61"
+      },
+      "artists": [
+        {
+          "name": "Samantha Margret",
+          "url": "https://open.spotify.com/artist/6tyLi4JY6t4BEyZHaKwApN"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Deja Vu You",
+      "url": "https://open.spotify.com/track/4I7U3jsgLSAqFmLAfx6iBJ"
     },
     {
       "album": {
@@ -2594,7 +2666,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170736,
       "name": "Fixer Upper",
       "url": "https://open.spotify.com/track/75u1ZQkdlnTO0PuFFs271F"
@@ -2782,7 +2854,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
@@ -3186,7 +3258,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 166981,
       "name": "Green Honda",
       "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
@@ -3258,7 +3330,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164466,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1"
@@ -3294,7 +3366,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 200440,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd"
@@ -3330,7 +3402,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 171454,
       "name": "Haunt Your Dreams",
       "url": "https://open.spotify.com/track/4UuCqDO4FGdM3ZTJuN3pSW"
@@ -3384,7 +3456,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
@@ -3582,7 +3654,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 177599,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G"
@@ -4062,7 +4134,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
@@ -4934,7 +5006,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 212647,
       "name": "Miss Independent - Spotify Singles",
       "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
@@ -5136,7 +5208,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 111453,
       "name": "narcissists",
       "url": "https://open.spotify.com/track/3R47rF1X1DNfk2sOD6WtbE"
@@ -5468,7 +5540,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 151058,
       "name": "perfect communicators",
       "url": "https://open.spotify.com/track/0J30WAjo9JNAhVXHGqRS7R"
@@ -5995,6 +6067,28 @@
     },
     {
       "album": {
+        "name": "Rowdy",
+        "url": "https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3"
+      },
+      "artists": [
+        {
+          "name": "Sorn",
+          "url": "https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz"
+        },
+        {
+          "name": "Seungyeon",
+          "url": "https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156522,
+      "name": "Rowdy",
+      "url": "https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof"
+    },
+    {
+      "album": {
         "name": "RUDE",
         "url": "https://open.spotify.com/album/05iSGiCNkYxLUThUK2C4Ob"
       },
@@ -6006,7 +6100,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 144923,
       "name": "RUDE",
       "url": "https://open.spotify.com/track/2PXHdc5d8Uuckc2e9hhBEV"
@@ -6172,7 +6266,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 129938,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs"
@@ -6620,7 +6714,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 166875,
       "name": "SOMETHING ABOUT U",
       "url": "https://open.spotify.com/track/6QCIkTO5h7a7DplDIXCf4K"
@@ -7000,7 +7094,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 156160,
       "name": "Team Sport",
       "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
@@ -7623,6 +7717,24 @@
     },
     {
       "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4fHanSBBo7YvqXhYUQgZ8N"
+      },
+      "artists": [
+        {
+          "name": "Fae",
+          "url": "https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176629,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/4YluI2KiR4ZWxqGAvNWsD1"
+    },
+    {
+      "album": {
         "name": "unhappier",
         "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
       },
@@ -7858,7 +7970,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 150967,
       "name": "Want U Back",
       "url": "https://open.spotify.com/track/2BMhTcquomJgCq3MfNkY1P"
@@ -7912,7 +8024,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 137647,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU"
@@ -7966,7 +8078,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 126189,
       "name": "WEEDKILLER",
       "url": "https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8"

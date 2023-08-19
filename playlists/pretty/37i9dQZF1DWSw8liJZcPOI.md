@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,842 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,017 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Earnest Leslye](https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY) | 3:49 |
 | 100 | [Looking in the Same Direction](https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU) | 4:04 |
 
-Snapshot ID: `MCw2ZDAzMmI0NmQ4NDIwOTExYTdiZGE2Y2M1ZmE0MWExNmQ5NzE0NjA1`
+Snapshot ID: `MCwzYWFlNjQ4NWVhOTA4OWNmNGJlY2QwOThlN2I4MDQ5YmFlODYyZTk0`

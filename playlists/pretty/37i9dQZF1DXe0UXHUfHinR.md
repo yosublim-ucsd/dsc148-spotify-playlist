@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,578 likes - 500 songs - 1 day 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,811 likes - 500 songs - 1 day 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Django's Tiger](https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol15 / 1946 \- 1947](https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797) | 2:38 |
 | 500 | [Some Other Time](https://open.spotify.com/track/4HH32eyROgSGiay7IGiGSJ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 5:36 |
 
-Snapshot ID: `MCxjYjI5ZGJmNjU3ZDI4YjczMzliNzA5N2RmNzAzODE1MDFlM2VjMTUw`
+Snapshot ID: `MCxkYjU0OGZmZTcxNDg2NjQyOTZlODlmMjJjNzMzNjNmM2MyOTc3Zjkx`

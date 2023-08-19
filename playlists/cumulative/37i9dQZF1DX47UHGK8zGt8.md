@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-191 songs - 11 hr 0 min
+192 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Poemas Que Colori](https://open.spotify.com/track/7iTYig7zBQPrKj1Es9bBF5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/5RtrcaolwWLZEvQccZMkfI) | 3:30 | 2022-04-01 | 2022-04-18 |
 | [Poeta](https://open.spotify.com/track/36Q1ny8Cn49aCcapMYZFO5) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Sessions \- Deb Ribeiro](https://open.spotify.com/album/5eJqY1VFQE7z7BsVKm1yOC) | 3:13 | 2022-04-01 | 2022-04-21 |
 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 | 2022-02-18 |  |
+| [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 | 2023-08-18 |  |
 | [Prova dos Nove](https://open.spotify.com/track/7KXjiSy1p54I0EIxW1zcwx) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/3hXXMdT2z0lunHoz5KalQY) | 4:32 | 2022-04-01 | 2022-04-13 |
 | [Quando Amanhecer](https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Lado de Cá](https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d) | 2:51 | 2023-01-06 |  |
 | [Quando Amanhecer](https://open.spotify.com/track/5cbIRVlN5t91Tb3Z9Jg9HX) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Quando Amanhecer](https://open.spotify.com/album/2FOIPlMzHFLTf5L9oKq5RR) | 2:51 | 2022-02-18 | 2022-07-29 |
@@ -193,7 +194,7 @@
 | [Várias Queixas](https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:50 | 2022-06-24 |  |
 | [Xícara](https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Xícara](https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX) | 2:31 | 2023-08-04 |  |
 | [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 | 2022-02-18 | 2022-06-07 |
-| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2022-04-01 |  |
+| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2022-04-01 | 2023-08-19 |
 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2022-04-01 | 2022-04-20 |
 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 | 2022-04-01 |  |
 | [É tudo pra ontem](https://open.spotify.com/track/48QajhR9A10V7uM2UbIWxO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [É tudo pra ontem](https://open.spotify.com/album/0ucGkC2GM4IBycOIAw9eBj) | 5:10 | 2022-02-18 | 2022-06-29 |

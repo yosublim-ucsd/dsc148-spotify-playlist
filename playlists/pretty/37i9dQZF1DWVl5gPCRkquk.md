@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,714 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,819 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/2hLhXlfiQ5maYuFKS5217a) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/18MmURU3LigipnhvZh99Se) | 4:39 |
 | 100 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 
-Snapshot ID: `MCxmYmNkNmM1YjY3YmNjNzkxMjVmZTlkZTc0OWMxMjdjYTliMWIxZDY0`
+Snapshot ID: `MCw2OWVlZTNiMzczOGU4NDNlNTZkMjEwMTExZWNhZTIwNzYyYTlhYzVm`

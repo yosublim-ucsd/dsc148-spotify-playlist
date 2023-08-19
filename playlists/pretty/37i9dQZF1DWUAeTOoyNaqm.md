@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,618 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,613 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 99 | [Sleep in the Woods ASMR, Pt\. 1](https://open.spotify.com/track/4PEGrSOKelsInQ0gxasGkJ) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [Sleep in the Woods ASMR, Relaxing Head, Neck and Shoulders Massage and Tapping](https://open.spotify.com/album/4z13Tzzo5YF0lkAWlAgl7F) | 3:36 |
 | 100 | [Fabric Scratching Leather Pants, Pt\. 1](https://open.spotify.com/track/4ouG46TylHzeeaGhJzPg3C) | [Lisa ASMR](https://open.spotify.com/artist/1wCkck4gRunTrFmKZURDmZ) | [Fabric Scratching Leather Pants and Couch](https://open.spotify.com/album/1I9bxqWAPgGR2Xt9Z5h5KO) | 3:14 |
 
-Snapshot ID: `MCw2Y2Y4ZThkMmFhNzY3MTZiZGMyZWRmNmZmMGI1OWYzYzdmYTg5ZDc4`
+Snapshot ID: `MCxhZWNhYmY2NjcwMmU1NjU4ZGJkOGE0ZGI3OTRmZThhZmNmNWNhYmE5`

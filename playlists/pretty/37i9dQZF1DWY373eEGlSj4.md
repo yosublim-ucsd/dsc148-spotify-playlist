@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 ### [70s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWY373eEGlSj4)
 
-> The most unforgettable love songs from the 70s.
+> Las canciones de amor inolvidables de los 70.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,328 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,848 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 50 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
 
-Snapshot ID: `MCxlMGE5YzdlZTg4MTk5YWVhMTQ2NzBkMWE1OGMwYmRkNmEzNzA0MmQ2`
+Snapshot ID: `MCwyOTZiN2I3MjQxOTlmNWVlZTBmNzdkYjc3NjQ4YmMyNDU4NDg0MGUz`

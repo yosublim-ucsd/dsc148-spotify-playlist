@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,700 likes - 200 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,803 likes - 200 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 | 199 | [This Fire](https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 4:14 |
 | 200 | [Try Honesty](https://open.spotify.com/track/3fPSHjVO4iwwGEhHvTwlNb) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent](https://open.spotify.com/album/4Z4FErymthnN4ctJdKRgko) | 4:15 |
 
-Snapshot ID: `MCxhZTQxMzk3ZDgyMjZlNmI4Mjg0YTBkMzcxZjI4NDFlNjA4ZTA5NjAw`
+Snapshot ID: `MCwxZWE5ODM4MjU1YWRkM2IxZmYwZDM0MmYyMjk1MTIwYTYyZWM2M2Iy`

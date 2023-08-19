@@ -4,12 +4,13 @@
 
 > Reneé Rapp deze week op de cover van Fresh Pop.
 
-302 songs - 15 hr 11 min
+303 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16](https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [16](https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P) | 2:45 | 2023-08-17 |  |
 | [1st Class D\-Bag](https://open.spotify.com/track/7EA3QmRISODKBXV5XI8DiQ) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [1st Class D\-Bag](https://open.spotify.com/album/76ErSz7hw49sy14zAc1hoP) | 2:57 | 2023-02-24 | 2023-03-25 |
+| [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 | 2023-08-17 |  |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-11 |  |
 | [About You](https://open.spotify.com/track/4M7nlEPdtK18kDy8q8Zwa7) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:40 | 2023-03-02 | 2023-03-31 |
 | [About You](https://open.spotify.com/track/5hDjdcUB4Ex143S8BSVsFG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [About You](https://open.spotify.com/album/2Fs0WFILf3bV6D1Ph6iFhm) | 2:40 | 2023-02-24 | 2023-03-04 |

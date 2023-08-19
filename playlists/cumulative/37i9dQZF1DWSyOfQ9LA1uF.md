@@ -2,7 +2,7 @@
 
 ### [Bloghouse](https://open.spotify.com/playlist/37i9dQZF1DWSyOfQ9LA1uF)
 
-> Bedroom bootlegs and electroclash gems\. Cover: Chromeo
+> Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
 160 songs - 12 hr 21 min
 

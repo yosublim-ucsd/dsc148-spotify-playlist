@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 ### [City to City](https://open.spotify.com/playlist/37i9dQZF1DWWIfrT204w7E)
 
-> Drill scenes connect\. Cover: Tion Wayne
+> Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,919 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,970 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 50 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 |
 
-Snapshot ID: `MCw1ZDJmM2Y3ODRiZDE3N2QwOWEyMjEwNmFiY2Q4YzhhMWE4ZDEwNmRk`
+Snapshot ID: `MCwwYzc0ODhmMTlkMTNlNWVkZGE3ZTFkYzA1MDVkOTFiNzdmYmVjOWVh`

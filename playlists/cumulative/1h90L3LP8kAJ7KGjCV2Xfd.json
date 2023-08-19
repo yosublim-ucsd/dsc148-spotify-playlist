@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "BIG BRAIN",
+        "url": "https://open.spotify.com/album/4pbRfrSH55KhHjetqCmQXl"
+      },
+      "artists": [
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/0U6Pk63IZg92LsvOELgXui"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121598,
+      "name": "BIG BRAIN",
+      "url": "https://open.spotify.com/track/5UofhM7Re1xxUrJkehGtAb"
+    },
+    {
+      "album": {
         "name": "Big Energy (feat. DJ Khaled) [Remix]",
         "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
       },
@@ -1038,6 +1056,50 @@
       "duration_ms": 169413,
       "name": "Cowboys Talkin'",
       "url": "https://open.spotify.com/track/2jz9PifMeY1ZYmE720XkID"
+    },
+    {
+      "album": {
+        "name": "D.I.Y.A. (Die In Your Arms)",
+        "url": "https://open.spotify.com/album/3Ntqgl4QwGZymJxrLDxXhJ"
+      },
+      "artists": [
+        {
+          "name": "North Ave Jax",
+          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
+        },
+        {
+          "name": "jetsonmade",
+          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "D.I.Y.A. (Die In Your Arms)",
+      "url": "https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268653,
+      "name": "Damage Gets Done (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
     },
     {
       "album": {
@@ -3419,6 +3481,28 @@
     },
     {
       "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/5ypulZuRDqGt71dmJKo1rT"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164103,
+      "name": "Oh My My! (In Love Again)",
+      "url": "https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9"
+    },
+    {
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -3630,6 +3714,28 @@
       "duration_ms": 175520,
       "name": "Picking Up (feat. Deb Never)",
       "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
+    },
+    {
+      "album": {
+        "name": "Play With Fire (feat. Frances Forever)",
+        "url": "https://open.spotify.com/album/75mqQgjafxqZIwypeugZwK"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        },
+        {
+          "name": "Frances Forever",
+          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236416,
+      "name": "Play With Fire (feat. Frances Forever)",
+      "url": "https://open.spotify.com/track/7LyGoh4umDLZgIlLYSzO1t"
     },
     {
       "album": {
@@ -3848,6 +3954,46 @@
       "duration_ms": 185628,
       "name": "ROLLIN DICE",
       "url": "https://open.spotify.com/track/2CQU7ZryOFVcFUVFMXCL3C"
+    },
+    {
+      "album": {
+        "name": "Run Away With Me",
+        "url": "https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192654,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH"
+    },
+    {
+      "album": {
+        "name": "Seg\u00fan Qui\u00e9n",
+        "url": "https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142334,
+      "name": "Seg\u00fan Qui\u00e9n",
+      "url": "https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4"
     },
     {
       "album": {
@@ -4083,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "album": {
         "name": "The Story of Us",
         "url": "https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj"
       },
@@ -4286,6 +4450,24 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+    },
+    {
+      "album": {
+        "name": "Thank You For That",
+        "url": "https://open.spotify.com/album/6MBAUlUyLarFYHspKwtHUh"
+      },
+      "artists": [
+        {
+          "name": "Maxx Nies",
+          "url": "https://open.spotify.com/artist/14v815FOpQAJMRXZPPaQEQ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "Thank You For That",
+      "url": "https://open.spotify.com/track/151s9vQsR2wGPHqHPAGGHs"
     },
     {
       "album": {

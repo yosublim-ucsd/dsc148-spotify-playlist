@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Giant Jay
 
-2,359 songs - 6 day 0 hr 30 min
+2,360 songs - 6 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1725,6 +1725,7 @@
 | [Run It Back](https://open.spotify.com/track/0b0zxFqmPjeML4hKq0fwD6) | [Cclaymoree](https://open.spotify.com/artist/7DJXE33uI0mo7J625iKkra), [Fianisya](https://open.spotify.com/artist/6zUE3ANPwxiK2DqbWpfjTA) | [Run It Back](https://open.spotify.com/album/6ihijRLPEVDVM6O7WHYWeL) | 5:25 | 2022-01-06 | 2022-01-14 |
 | [Run Run Boy](https://open.spotify.com/track/0Or7hUbWUHnkzU4HcaElnV) | [Kandiya](https://open.spotify.com/artist/20OW5kxM7ZBU4lBLes56eC) | [Run Run Boy](https://open.spotify.com/album/4Ll4LFh8Vjsz8y8DymfRTT) | 3:18 | 2022-06-02 | 2022-06-24 |
 | [Runaway](https://open.spotify.com/track/0L1uNB1Ywiv4PBsfVWLCp9) | [KYRA 22](https://open.spotify.com/artist/3EWyJNfiAkXORey9DmGRWb) | [Runaway](https://open.spotify.com/album/4cJiThTyWHQwBqujFUrqcQ) | 3:30 | 2023-07-06 | 2023-07-21 |
+| [RUNNING](https://open.spotify.com/track/3BmSm9LKReYyK4WXjchI2i) | [BURDN](https://open.spotify.com/artist/4RPM7jrVHP9pMn8zoUjp6e) | [RUNNING](https://open.spotify.com/album/7MoBhfjS3yn0UcbVdxvMS4) | 3:08 | 2023-08-17 |  |
 | [Rush It!](https://open.spotify.com/track/18nPhrGLZuUGjrYLenrPxn) | [Sentimental Moods](https://open.spotify.com/artist/1WRyQTFCoyzBtMbH1ercjU) | [Eighth](https://open.spotify.com/album/3kGLMWv6RJ2Dy9KlvtgeNj) | 3:02 | 2023-08-11 |  |
 | [Sa Merah Putih](https://open.spotify.com/track/49ETn7S7hn7dYblW7ELsx9) | [Nova Generace Papua](https://open.spotify.com/artist/0guUNDkeoKmPyeJzZrD1hR) | [Sa Merah Putih](https://open.spotify.com/album/2WGPrzZRsHD3Nv9VV86i1F) | 2:36 | 2022-09-15 | 2022-09-30 |
 | [Saat 'ku Tak Sadarkan Diri](https://open.spotify.com/track/7p0v90gjas4fK7pENNWkJF) | [Poptart](https://open.spotify.com/artist/4bi2Cgyeb2FqiM7jSWZy40) | [Silensium](https://open.spotify.com/album/6DTkjOQiFba2LDLtSc1Hvl) | 3:29 | 2022-05-12 | 2022-05-27 |

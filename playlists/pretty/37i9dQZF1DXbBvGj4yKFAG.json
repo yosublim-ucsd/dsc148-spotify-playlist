@@ -1,13 +1,29 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 54551,
+  "num_followers": 54695,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2I2NjZlNzM5N2IyYjdmN2MzMTgwYmNkZTA2YWU5NGE2ZDgyMDNl",
+  "snapshot_id": "MCw1MDcwYjEyODBmZDVjMGM3NmMxYzZmZTA4MjU1NWYxMmQ2OWEyZmFm",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Hickory",
+        "url": "https://open.spotify.com/album/7ECrhykJzsa5Mi9HtQYlBk"
+      },
+      "artists": [
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        }
+      ],
+      "duration_ms": 305885,
+      "name": "Hickory",
+      "url": "https://open.spotify.com/track/5CbNVlWdXkBCu4IiGGz44L"
+    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -55,6 +71,26 @@
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Wouldn\u2019t It Be Easy?",
+        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
+      },
+      "artists": [
+        {
+          "name": "Oyatan",
+          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
+        },
+        {
+          "name": "Coffee Stain",
+          "url": "https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv"
+        }
+      ],
+      "duration_ms": 170107,
+      "name": "die",
+      "url": "https://open.spotify.com/track/5Qfq800wAIq4iDWOJewzAf"
     },
     {
       "added_at": "2023-05-19 12:25:14",
@@ -109,6 +145,22 @@
       "url": "https://open.spotify.com/track/6QFI20wP9keC7LVLaxEKtC"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "iv. Deer in the Headlights",
+        "url": "https://open.spotify.com/album/36xTI7b2JYuC4tF15dBKxU"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        }
+      ],
+      "duration_ms": 168692,
+      "name": "iv. Deer in the Headlights",
+      "url": "https://open.spotify.com/track/4CgSNrxK6tNtL9cRG9UIjD"
+    },
+    {
       "added_at": "2023-08-11 13:25:28",
       "album": {
         "name": "End of Ways",
@@ -155,6 +207,22 @@
       "duration_ms": 154887,
       "name": "favorite team",
       "url": "https://open.spotify.com/track/2XVeDs8s7TRzo57wNJ57CA"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "scrape my teeth",
+        "url": "https://open.spotify.com/album/5g15UUA6l4Va6HmcCAeSwv"
+      },
+      "artists": [
+        {
+          "name": "Indie Anthony",
+          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+        }
+      ],
+      "duration_ms": 154464,
+      "name": "scrape my teeth",
+      "url": "https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -643,8 +711,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Lexapro",
-        "url": "https://open.spotify.com/album/6grs6YBSacgL6dZ53hg8bE"
+        "name": "Computerwife",
+        "url": "https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP"
       },
       "artists": [
         {
@@ -654,7 +722,7 @@
       ],
       "duration_ms": 206919,
       "name": "Lexapro",
-      "url": "https://open.spotify.com/track/3VS6b1tjl9b5rZ5rdHykfl"
+      "url": "https://open.spotify.com/track/3qw28AcPSxvL7aajVd1TL7"
     },
     {
       "added_at": "2023-06-13 18:31:55",

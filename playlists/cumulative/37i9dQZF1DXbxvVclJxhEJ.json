@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197893,
       "name": "A Jealous Woman Like Me",
       "url": "https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z"
@@ -568,6 +568,24 @@
       "duration_ms": 215333,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
+    },
+    {
+      "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
     },
     {
       "album": {

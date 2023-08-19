@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,511 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,540 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Let You Go](https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go EP](https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D) | 3:44 |
 | 55 | [Hazard](https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z) | [JMullaUK](https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Hazard](https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8) | 4:08 |
 
-Snapshot ID: `MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm`
+Snapshot ID: `MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk`

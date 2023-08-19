@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,282 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,327 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 149 | [Verte de Nuevo](https://open.spotify.com/track/7M8BZVPwEvO66vJCZvBXOY) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:16 |
 | 150 | [Cosas Locas 2.0](https://open.spotify.com/track/0R4ZQFb0RmTAiQY22SbnSM) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [Cosas Locas 2.0](https://open.spotify.com/album/5PMH8pV4lGzvyEY3PWcTVz) | 4:52 |
 
-Snapshot ID: `MCxjMmFiNWE1ZTQ3MDQ4MDVjMmZlODBkM2I3ZTc3Y2ZkYmU2MTFiNmNi`
+Snapshot ID: `MCw3NWJmZDE2MGQwOWYwY2YwMDE5YWM1MzMwNDVlNzk3YTI1ZDM2OWU5`

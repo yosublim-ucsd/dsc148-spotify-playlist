@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,980 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,050 likes - 48 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 46 | [I Will Live Again](https://open.spotify.com/track/19lYRLj7L8F6oUejDM7pgX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 3:32 |
 | 47 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 48 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
-| 49 | [Shout \- cover version](https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:45 |
 
-Snapshot ID: `MjgyMDMyNjIsMDAwMDAwMDBkMmRjMTBmNzNmNGZmMWFiMWFhOTg1ODMxMjFkNGNmNg==`
+Snapshot ID: `MjgyMDYwNDgsMDAwMDAwMDA2MTJkZmFjNjA3M2YwNDNjNDMyMzIyYTcxNThlODg4MQ==`

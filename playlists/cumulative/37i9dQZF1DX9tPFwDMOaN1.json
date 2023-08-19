@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: STAYC",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: JIHYO",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -496,6 +496,24 @@
       "duration_ms": 152910,
       "name": "Best Lover",
       "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
+    },
+    {
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "album": {
@@ -2935,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -4926,7 +4962,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 191826,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con DENNIS, Maluma, Karol G, Kevin O Chris",
+  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Trueno.",
   "name": "Hits Urbanos",
   "tracks": [
     {
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB"
@@ -3274,6 +3274,32 @@
       "duration_ms": 171973,
       "name": "DOLCE",
       "url": "https://open.spotify.com/track/0oqyEnZtuKugG957zFrHiF"
+    },
+    {
+      "album": {
+        "name": "Dolido y Borracho",
+        "url": "https://open.spotify.com/album/1d0HMTzQBiEVFQr5UP0rZF"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170894,
+      "name": "Dolido y Borracho",
+      "url": "https://open.spotify.com/track/7rZQGOwPL8GucEl09jZg9R"
     },
     {
       "album": {
@@ -8491,6 +8517,32 @@
     },
     {
       "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "album": {
         "name": "My Blood",
         "url": "https://open.spotify.com/album/4iGqw6rofNIq2DpWeQl4gM"
       },
@@ -9338,6 +9390,24 @@
       "duration_ms": 152110,
       "name": "Ojos Rojos",
       "url": "https://open.spotify.com/track/4VPy47N8wjUX322qIoXFn2"
+    },
+    {
+      "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
     },
     {
       "album": {
@@ -10582,6 +10652,28 @@
       "duration_ms": 205700,
       "name": "P\u00fablico",
       "url": "https://open.spotify.com/track/1PzvsHLUbLRsXuKTDvgJPW"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "album": {
@@ -12328,7 +12420,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 150612,
       "name": "Te Cura",
       "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
@@ -14188,7 +14280,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 203360,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"

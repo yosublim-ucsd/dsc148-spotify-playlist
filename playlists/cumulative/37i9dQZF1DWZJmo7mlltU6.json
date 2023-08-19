@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Melike \u015eahin.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Noga Erez.",
   "name": "borderless",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 138855,
       "name": "+1",
       "url": "https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 178285,
       "name": "Are You Happy?",
       "url": "https://open.spotify.com/track/0E0OsJgzK4TEry1qg2cPgF"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 159732,
       "name": "brujita",
       "url": "https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 148981,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf"
@@ -2654,6 +2654,28 @@
       "duration_ms": 204363,
       "name": "Dawning of the Season",
       "url": "https://open.spotify.com/track/3WkEKyrkEtbqN6mxZQi1dn"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        },
+        {
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218239,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr"
     },
     {
       "album": {
@@ -3580,7 +3602,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170001,
       "name": "Embracing Livia",
       "url": "https://open.spotify.com/track/087Xm1eUU72tbjkb6LtbLv"
@@ -3656,6 +3678,42 @@
       "duration_ms": 313375,
       "name": "Empty Head",
       "url": "https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3"
+    },
+    {
+      "album": {
+        "name": "En Otra Ciudad",
+        "url": "https://open.spotify.com/album/1ebRwkND5yz4EwTOWNvdus"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Amores",
+          "url": "https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "En Otra Ciudad",
+      "url": "https://open.spotify.com/track/4GkDgA5mTkGanHgQKV0AH6"
+    },
+    {
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU"
     },
     {
       "album": {
@@ -4658,7 +4716,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 160362,
       "name": "ganas",
       "url": "https://open.spotify.com/track/5OtCTrhsCQNLVTpO876NJ8"
@@ -4730,7 +4788,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
@@ -7082,7 +7140,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 189624,
       "name": "Love Me For Tonight",
       "url": "https://open.spotify.com/track/1RtYL95IF1YL12b56I7gVH"
@@ -8776,6 +8834,28 @@
       "duration_ms": 205958,
       "name": "on s'en fou",
       "url": "https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4GUHqh1xPFnFW5vhGut5uA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        },
+        {
+          "name": "Kainalu",
+          "url": "https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262013,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/3RdoYo0F1bVSOWJb32pL9C"
     },
     {
       "album": {
@@ -11038,7 +11118,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 264937,
       "name": "smile",
       "url": "https://open.spotify.com/track/1q4H1H2maEYJcBFu3l3Jpe"
@@ -11823,6 +11903,24 @@
     },
     {
       "album": {
+        "name": "Tache d'encre",
+        "url": "https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d"
+      },
+      "artists": [
+        {
+          "name": "Valse Fr\u00e9quence",
+          "url": "https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192977,
+      "name": "Tache d'encre",
+      "url": "https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z"
+    },
+    {
+      "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/2jUIRTC8OpmKuEsgejMi2T"
       },
@@ -12168,6 +12266,28 @@
       "duration_ms": 137932,
       "name": "the biggest nobody",
       "url": "https://open.spotify.com/track/4QsMs9jnlfwEcAuKmgkRGU"
+    },
+    {
+      "album": {
+        "name": "The Dark Prince (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214356,
+      "name": "The Dark Prince (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
     },
     {
       "album": {
@@ -12628,6 +12748,24 @@
       "duration_ms": 202510,
       "name": "Tote Bag",
       "url": "https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN"
+    },
+    {
+      "album": {
+        "name": "Tout le monde oublie",
+        "url": "https://open.spotify.com/album/5tuSdPzDaCQS3DzZRZ8ZoO"
+      },
+      "artists": [
+        {
+          "name": "Cosmophone",
+          "url": "https://open.spotify.com/artist/7mLFikX4xNVtYm0XEcr9MC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "Tout le monde oublie",
+      "url": "https://open.spotify.com/track/4aBe7DaSxkXuWicfCgzlpc"
     },
     {
       "album": {
@@ -13100,7 +13238,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 174922,
       "name": "Viene y va",
       "url": "https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9"

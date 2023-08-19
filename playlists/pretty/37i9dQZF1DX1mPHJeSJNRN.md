@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,599 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,597 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Keep It in Your Dreams](https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 3:12 |
 | 100 | [Dont Rain on My Parade](https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 3:07 |
 
-Snapshot ID: `MCxjOTIwY2Y2ZjhhNjEyYTFmMDM5Y2U0ODQ0ZjJjZGM3ODc3ZGI5ZGFl`
+Snapshot ID: `MCxjN2E1ZjhmOTQwMTJlZWJhNmVkZGFhOTlhMDUzYTIwMWUzMDc1NDUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,241 likes - 62 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,259 likes - 62 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 | 33 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
 | 34 | [Paani](https://open.spotify.com/track/3MQCWVCuzdoP9M6aeXtRT6) | [Rohan Kamath](https://open.spotify.com/artist/2Ni9NexOwtEehPqRXNSdlM) | [Paani](https://open.spotify.com/album/1bp4sHm3BL0qRy9dP8nCwG) | 3:13 |
 | 35 | [Mahi Tu Reh Ja](https://open.spotify.com/track/09Bp939Xx2RWtxxgdEHFdy) | [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Mahi Tu Reh Ja](https://open.spotify.com/album/6E46FZoxS6nSxg0KqxAvMc) | 3:43 |
-| 36 | [Rihaee](https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9) | 3:02 |
+| 36 | [Rihaee](https://open.spotify.com/track/08CBQI14mZrISwe6MZwncj) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/4E6LXR3qfiqiXZox6slosO) | 3:02 |
 | 37 | [days](https://open.spotify.com/track/2mEHyRXGIPArlWSDkIqujW) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:30 |
 | 38 | [Sajna Ve](https://open.spotify.com/track/1lWjvbQWru7XPekvQGiKv5) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Sajna Ve](https://open.spotify.com/album/3T4nGBjzLyXUv0iXbcKBqY) | 3:17 |
 | 39 | [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:50 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 | 61 | [Boonda Baandi](https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Boonda Baandi](https://open.spotify.com/album/7Kxpe3psy5jJQZwBL0JA3S) | 4:22 |
 | 62 | [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 |
 
-Snapshot ID: `MCw4NTAwNWNjMjA3ODU3ZjA3ZWQ4YTIwOTcwYTUwOGE0YjI1OGM0Y2Fi`
+Snapshot ID: `MCw3NzA1Y2JkMDgyOTc1MGY2YzA0ODk0YzRlZmI5ZGQzMzBlODVlMWFm`

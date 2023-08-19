@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: J Hus",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Victoria Mon\u00e9t",
   "name": "Channel-X",
   "tracks": [
     {
@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 203816,
       "name": "Balance (feat. Skillibeng)",
       "url": "https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK"
@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226740,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
+    },
+    {
+      "album": {
         "name": "Brag (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/2SxvstE24VIYBAy8jQRswO"
       },
@@ -1216,6 +1234,28 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310892,
+      "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
+      "url": "https://open.spotify.com/track/4sqUNxl5X6fF2wCQwYZH1D"
     },
     {
       "album": {
@@ -2382,7 +2422,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 140568,
       "name": "Do You Mind",
       "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
@@ -2542,6 +2582,32 @@
       "duration_ms": 175348,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
+    },
+    {
+      "album": {
+        "name": "Drink Water",
+        "url": "https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169708,
+      "name": "Drink Water (feat. Jon Bellion and Fireboy DML)",
+      "url": "https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1"
     },
     {
       "album": {
@@ -2927,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "SANTIAGO",
+        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166165,
+      "name": "Fatima",
+      "url": "https://open.spotify.com/track/2588441h1sHx0FPPXBFoLd"
+    },
+    {
+      "album": {
         "name": "Favorite Song (Versions 2.0)",
         "url": "https://open.spotify.com/album/78SgKMzF5mUAcleqzdJkAx"
       },
@@ -3272,6 +3356,28 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175147,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5DOwCpxn4BSZjdjUMSIHTM"
     },
     {
       "album": {
@@ -3865,6 +3971,36 @@
     },
     {
       "album": {
+        "name": "Risk: Reloaded",
+        "url": "https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        },
+        {
+          "name": "WaveIQ",
+          "url": "https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Hate (feat. Lojay & Highlyy) - Remix",
+      "url": "https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS"
+    },
+    {
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
       },
@@ -4122,7 +4258,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 184914,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
@@ -5383,6 +5519,28 @@
     },
     {
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
+    },
+    {
+      "album": {
         "name": "Full Circle : Sonic Book One",
         "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
       },
@@ -5973,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/1xYasQnBT0AZVgQhlEGQTW"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146791,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/0Ic42kynfrSAJjTlOr0dWR"
+    },
+    {
+      "album": {
         "name": "New To You (with Normani, Tinashe, & Offset)",
         "url": "https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9"
       },
@@ -6242,6 +6418,24 @@
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/2fgwCq2iDn5dM1ZYaDQ1du"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/4sBXBfLLlDC1NR99JAjVFm"
     },
     {
       "album": {
@@ -7137,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "album": {
         "name": "READ MY MIND (feat. Yung Bleu)",
         "url": "https://open.spotify.com/album/1zFPtF0sxRrtqivSuLZjXA"
       },
@@ -7966,6 +8178,24 @@
       "duration_ms": 157722,
       "name": "Someone",
       "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
+    },
+    {
+      "album": {
+        "name": "Something In My Eye",
+        "url": "https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Something In My Eye",
+      "url": "https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld"
     },
     {
       "album": {
@@ -9677,6 +9907,28 @@
     },
     {
       "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/4RsKRBDnJ1Dr5u6NkUREN2"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/036joKTnTtJfJVifnRhOqj"
+    },
+    {
+      "album": {
         "name": "YOUNG PREACHER",
         "url": "https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV"
       },
@@ -10018,6 +10270,28 @@
       "duration_ms": 193103,
       "name": "Wrong Way (Remix) [feat. Baby Tate]",
       "url": "https://open.spotify.com/track/3pc2kn6ni9AsB7ZfoKUvHH"
+    },
+    {
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "X-Rated (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4XI8zeiBGduh5rABkvBn5Y"
     },
     {
       "album": {

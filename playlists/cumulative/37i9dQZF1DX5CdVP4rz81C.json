@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165056,
+      "name": "16",
+      "url": "https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy"
+    },
+    {
+      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod"
       },
@@ -5678,7 +5696,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 213817,
       "name": "Dial Drunk",
       "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
@@ -6602,6 +6620,24 @@
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+    },
+    {
+      "album": {
+        "name": "Eightball Girl",
+        "url": "https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Eightball Girl",
+      "url": "https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3"
     },
     {
       "album": {
@@ -10682,7 +10718,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 60719,
       "name": "hotline (edit)",
       "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
@@ -12466,7 +12502,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164444,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ"
@@ -17676,7 +17712,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 159320,
       "name": "Only Girl",
       "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
@@ -18960,7 +18996,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 136579,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV"
@@ -19758,7 +19794,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 218577,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
@@ -21383,6 +21419,24 @@
     },
     {
       "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
+    },
+    {
+      "album": {
         "name": "Spinning",
         "url": "https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ"
       },
@@ -22052,7 +22106,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 172354,
       "name": "sunny day",
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
@@ -23814,6 +23868,24 @@
       "duration_ms": 184602,
       "name": "Trying Not To Love You",
       "url": "https://open.spotify.com/track/4cpAyER0g5KTr2OCIvtiYK"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168978,
+      "name": "Tummy Hurts",
+      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
     },
     {
       "album": {
@@ -26103,6 +26175,24 @@
     },
     {
       "album": {
+        "name": "Write off",
+        "url": "https://open.spotify.com/album/2Nkm9ZQ5uqoUs1CtiU7J0I"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169623,
+      "name": "Write off",
+      "url": "https://open.spotify.com/track/3OijawdDvf2Kh2VH7ItYDx"
+    },
+    {
+      "album": {
         "name": "WTF",
         "url": "https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO"
       },
@@ -26404,6 +26494,24 @@
       "duration_ms": 115914,
       "name": "your clothes",
       "url": "https://open.spotify.com/track/5yRnm8Kfu6l20QyIdSyfrv"
+    },
+    {
+      "album": {
+        "name": "Your Ex",
+        "url": "https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217728,
+      "name": "Your Ex",
+      "url": "https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8"
     },
     {
       "album": {

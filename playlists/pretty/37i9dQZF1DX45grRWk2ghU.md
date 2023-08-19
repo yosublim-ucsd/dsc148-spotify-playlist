@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Life in plastic is fantastic
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,302 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,971 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 |
 | 75 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
 
-Snapshot ID: `MCxkOWU4Yjg2MzY5ZGM5NGViMzg3NDUyZWM4ODI4NjA1OTc5OWU3YTE0`
+Snapshot ID: `MCxlNDYyZjlhMGMyZWFjZDVkODMzOGVhOWEzZWUwNjg0NmExZjQ3MDVk`

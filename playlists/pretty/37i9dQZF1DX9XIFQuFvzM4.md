@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,606,353 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,606,816 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 149 | [Mama Said \(Rerecorded Version\)](https://open.spotify.com/track/5rrXkymfQdhNBgBZ3BUVbB) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [The Shirelles \- Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:09 |
 | 150 | [Tell Me Something Good](https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Very Best Of Rufus Featuring Chaka Khan](https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS) | 4:40 |
 
-Snapshot ID: `MCxmZWFjZmE1ZGE3ODUyMTBjMDBkMTdiNTIwMjY4MWFmYjU3NjJlYjYw`
+Snapshot ID: `MCw5NjJiNDM3ZjBhZGI1ZTc1YjcyN2VjMDdhMjRlZDBmOTZjOWQ2YzRk`

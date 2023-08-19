@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,834 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,846 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darm Yelat](https://open.spotify.com/track/6SVoDXBSU1eZKRdokV2yaT) | [Nahom Mekuria](https://open.spotify.com/artist/3zFxJvpOzvb6aD0Lvk96he) | [Darm Yelat](https://open.spotify.com/album/5WbVCGdmMmWVjCbR64FghT) | 3:17 |
 | 2 | [DEJARME LLEVAR](https://open.spotify.com/track/0TCzFRMCWyMbu9kkwpEtak) | [Nadlyn](https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X) | [DEJARME LLEVAR](https://open.spotify.com/album/0ZOP15lhHm3J6hdNPhu23A) | 2:53 |
 | 3 | [Tiritaye](https://open.spotify.com/track/6yczkZAYHZ1phW2eUd1IDR) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Tiritaye](https://open.spotify.com/album/1yh4cLMTXqSRqz5G5cGb4v) | 3:47 |
-| 4 | [Like A Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like A Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 |
+| 4 | [Like a Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like a Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 |
 | 5 | [Amsaya](https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Qitsbet](https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y) | 4:12 |
 | 6 | [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 |
 | 7 | [Tewedaj](https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH) | [Haleluya Tekletsadik](https://open.spotify.com/artist/4ZpsiP2o6O2aNe2E7Kk9Ke) | [Tewedaj, Vol\. 1](https://open.spotify.com/album/6xDnveRco4B2JmHZdJeV6W) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 |
 | 60 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 |
 
-Snapshot ID: `MCwwZTVjMGJkM2FiZTM4OTZlY2Q2MzZhYTM2YzlmNWVkY2VlZjIwNzky`
+Snapshot ID: `MCwyMWY4Yjc2ZTIwMGM4YTM5NzRmYjY2ZGMwNzBlOThkMjZiOWI4NTFk`

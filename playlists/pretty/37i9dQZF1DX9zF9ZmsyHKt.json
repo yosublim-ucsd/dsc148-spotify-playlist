@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 327891,
+  "num_followers": 327934,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl",
+  "snapshot_id": "MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "LEXA",
+        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 126400,
+      "name": "Sussu",
+      "url": "https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Ascens\u00e3o",
         "url": "https://open.spotify.com/album/15V1ZcZ3fsOEIQtVGlddXc"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 188613,
       "name": "Nan\u00e3",
       "url": "https://open.spotify.com/track/3VAWBQtMV10ImXFG3AxH42"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "LEXA",
-        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 126400,
-      "name": "Sussu",
-      "url": "https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN"
     },
     {
       "added_at": "2022-10-07 03:01:33",

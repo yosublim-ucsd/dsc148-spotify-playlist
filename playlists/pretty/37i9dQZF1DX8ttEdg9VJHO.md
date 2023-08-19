@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,132 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,280 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [We Can Be Just Friends](https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [We Can Be Just Friends](https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2) | 2:44 |
 | 70 | [girls like me don't cry](https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 3:33 |
 
-Snapshot ID: `MCwzZTJmOGViMzBiZTMzMGU2NGM5MGIzMDgxZjNjNjE0MmUxYWNmYTNm`
+Snapshot ID: `MCxhODFiMDE1ZTIwY2JhNTRhYzQ2ZDFmOTk2OTdjYTVkZTA2OGVlYzIw`

@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Gazing at pedals, soaring celestially high\. Slowdive on cover.
+> Gazing at pedals, soaring celestially high\. quannnic on cover.
 
-416 songs - 1 day 3 hr 34 min
+419 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2021-10-19 | 2022-07-29 |
 | [Bottlerocket](https://open.spotify.com/track/5EeaNNzKCbJfcaVnaWz6Dl) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/60ikpGF6cPz302ZG0kqk4s) | 3:14 | 2021-10-19 | 2022-07-29 |
 | [bottlerocket](https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 3:14 | 2021-10-19 | 2022-12-13 |
+| [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 | 2023-08-18 |  |
 | [Breakbeats](https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83) | [Pasteboard](https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9) | [Glitter](https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS) | 3:10 | 2021-10-19 | 2023-06-08 |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-16 |  |
 | [Buried Alive](https://open.spotify.com/track/3v1okTkFTXHX6IZp0rEd4L) | [Amateur Hour](https://open.spotify.com/artist/7MbhbrCOjLXeaNah07xAdq) | [Krökta Tankar Och Brända Vanor](https://open.spotify.com/album/3w9hOArCkQ0OReLe491FHr) | 3:07 | 2023-01-12 | 2023-02-22 |
@@ -91,6 +92,7 @@
 | [chxse](https://open.spotify.com/track/0Qf7UUVntrkZvBK0lzmxOu) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [descend into madness](https://open.spotify.com/album/5vprsR5AHYzdzwZxNAGxsb) | 2:18 | 2023-06-20 |  |
 | [Clinging to the Ground](https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2), [Rew](https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT) | [Clinging to the Ground](https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO) | 3:59 | 2023-02-27 | 2023-03-16 |
 | [coil](https://open.spotify.com/track/4NqRrnjbPG0vefHMAEpiSl) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [extra life](https://open.spotify.com/album/2Aievrt0QBfOlhWmvvsOsN) | 4:54 | 2023-02-17 | 2023-02-22 |
+| [Comatose](https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Comatose](https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv) | 3:48 | 2023-08-18 |  |
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2021-11-25 | 2023-01-14 |
 | [COME WITH ME](https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [COME WITH ME](https://open.spotify.com/album/3g1hCDombl0mBfQdb7XxHN) | 2:34 | 2023-06-30 |  |
 | [Comedown](https://open.spotify.com/track/64AAttKIyZcQgtPVHhNyj2) | [Relay Tapes](https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp) | [Debris](https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS) | 5:22 | 2023-03-31 | 2023-05-23 |
@@ -114,6 +116,7 @@
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-07-18 | 2023-07-22 |
 | [Daylighter](https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k) | [Relay Tapes](https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp) | [Debris](https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS) | 4:26 | 2023-03-31 |  |
 | [daze](https://open.spotify.com/track/66TIegJdKMYXuYSxaPIR4A) | [cherry pick](https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5) | [daze](https://open.spotify.com/album/0knbxdlY8bc21f6U1E9Zdk) | 3:01 | 2023-07-26 |  |
+| [dead pixels](https://open.spotify.com/track/0YxJXh7N2N5gJdmsRlEFX4) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [phantasea pharm](https://open.spotify.com/album/4N11sevcaIze3Q6xG6wIfL) | 4:00 | 2023-08-18 |  |
 | [DEAR FUTURE '18](https://open.spotify.com/track/2dwIC1Ls0pAWxIrDbpsMhD) | [Coaltar Of The Deepers](https://open.spotify.com/artist/2S5Vk5knCxjALFqlMnULmZ) | [RABBIT EP](https://open.spotify.com/album/6bNKwYjohWbpVaFOU8z5um) | 5:09 | 2022-12-15 | 2023-01-14 |
 | [death wish](https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:44 | 2023-02-17 | 2023-07-18 |
 | [Destroy Us](https://open.spotify.com/track/2wSFjD7g5QQ3jiComKKDiA) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/07DZCEUCKN27wKjAHTMfST) | 4:17 | 2021-10-19 | 2022-08-02 |
@@ -338,7 +341,7 @@
 | [skipping tiles](https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pushing daisies](https://open.spotify.com/album/07naAGnFibTManFY20vcUL) | 2:16 | 2023-01-12 |  |
 | [Soltar](https://open.spotify.com/track/6JJyABXU4ABVFjTUEpT8xZ) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Soltar](https://open.spotify.com/album/70B6sLcsi9H7ozR3FuuPuh) | 3:54 | 2022-02-04 | 2022-07-28 |
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2023-02-09 | 2023-07-29 |
-| [Sometimes](https://open.spotify.com/track/1bd7Jt9jIg3mKe2AT08RJI) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes](https://open.spotify.com/album/1blwMKDfziJJU9R14pQ5iD) | 3:04 | 2023-08-04 |  |
+| [Sometimes](https://open.spotify.com/track/1bd7Jt9jIg3mKe2AT08RJI) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes](https://open.spotify.com/album/1blwMKDfziJJU9R14pQ5iD) | 3:04 | 2023-08-04 | 2023-08-19 |
 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 | 2021-10-19 | 2023-06-08 |
 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 | 2023-02-17 |  |
 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 | 2023-08-11 |  |
@@ -406,7 +409,7 @@
 | [While My Waves Wonder](https://open.spotify.com/track/5ZIspcdRpVEp02SIagDyP0) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [While My Waves Wonder](https://open.spotify.com/album/14y51JzZl0GaKz19SNGcJM) | 4:25 | 2021-10-19 | 2022-07-28 |
 | [While My Waves Wonder](https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 4:25 | 2022-01-14 | 2023-01-13 |
 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 | 2021-10-19 | 2023-06-08 |
-| [white lies](https://open.spotify.com/track/3lDy1Sju7eDqMtTIzbOu4v) | [kenesukoh](https://open.spotify.com/artist/7rLnYGZPu6KJ3IovPMYaBr), [flyingfish](https://open.spotify.com/artist/2H1qAWvpGO8W5iGjmyA6Jt) | [white lies](https://open.spotify.com/album/2rGnMJlNVjHeXp5WHTVWuq) | 2:38 | 2023-08-04 |  |
+| [white lies](https://open.spotify.com/track/3lDy1Sju7eDqMtTIzbOu4v) | [kenesukoh](https://open.spotify.com/artist/7rLnYGZPu6KJ3IovPMYaBr), [flyingfish](https://open.spotify.com/artist/2H1qAWvpGO8W5iGjmyA6Jt) | [white lies](https://open.spotify.com/album/2rGnMJlNVjHeXp5WHTVWuq) | 2:38 | 2023-08-04 | 2023-08-19 |
 | [Who's Counting](https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [11•11•11](https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ) | 4:01 | 2023-02-09 | 2023-03-25 |
 | [Wildflower](https://open.spotify.com/track/66JAiAww71cy0rv3c8567D) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Wildflower](https://open.spotify.com/album/6A6CGSfKoccrpb1ffz7uRj) | 3:01 | 2023-06-20 | 2023-07-01 |
 | [wish i knew](https://open.spotify.com/track/4XUuhwGsTx0H7IvWWAXVTC) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 3:39 | 2023-02-17 | 2023-08-05 |

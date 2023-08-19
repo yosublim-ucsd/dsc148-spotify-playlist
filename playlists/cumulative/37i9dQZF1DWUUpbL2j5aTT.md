@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: FBC
 
-71 songs - 4 hr 27 min
+72 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Feel This Way](https://open.spotify.com/track/1PpGDmgW7rirQir644spGv) | [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f), [Bjarxoo](https://open.spotify.com/artist/01gguaAl3Ft79OTeXM1heN) | [Feel This Way](https://open.spotify.com/album/4oSrTwDImYzAbJ5x6bf6bR) | 2:38 | 2023-07-21 |  |
 | [Games](https://open.spotify.com/track/6Apwa9gegsRM9jNPvEMzyR) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Games](https://open.spotify.com/album/7qMqAEfgeCwGS2uqeYrkTT) | 3:36 | 2023-07-21 |  |
 | [Go Bananas](https://open.spotify.com/track/7sMTAnbe0GyC8SquQFyJuA) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Go Bananas](https://open.spotify.com/album/07LK91iHSOUy7U6Y0MASAe) | 2:01 | 2023-07-21 |  |
+| [GTA San Andreas](https://open.spotify.com/track/1WNirKj2dw0jGp3tjRjg4t) | [Holt 88](https://open.spotify.com/artist/5YjvMkjdrBGdoegUvgu4pu) | [San Andreas](https://open.spotify.com/album/6U8eYrQcH3vIrQGXcgIFez) | 5:00 | 2023-08-18 |  |
 | [Guru Purnima](https://open.spotify.com/track/5dMDYoRM6CwwshxBMtUNAv) | [Nihanna](https://open.spotify.com/artist/5gX7bPFZ3S5TTAzIpsMX9O), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Guru Purnima](https://open.spotify.com/album/772Jumq3fbi8eXJZR9stQJ) | 5:37 | 2023-07-21 |  |
 | [Heads In The Sky](https://open.spotify.com/track/3ZItkcRy61j0124JgCf0Tn) | [Cavallieri](https://open.spotify.com/artist/3Gsi2FuTlp0zpMCoguKhZH) | [Heads In The Sky](https://open.spotify.com/album/7Ko82yOSya8UcYJDcvtg0U) | 2:58 | 2023-07-21 |  |
 | [Hey, It's Me !](https://open.spotify.com/track/3sOwfi4egA5mCqD7I82bUe) | [Rodrigo Luca](https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6) | [Hey, It's Me !](https://open.spotify.com/album/2a7Vi3spSGOR6QhotXLdqW) | 2:42 | 2023-07-21 |  |

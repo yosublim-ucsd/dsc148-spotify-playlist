@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,507 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,704 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [Aquí Abajo](https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aquí Abajo](https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H) | 2:24 |
 | 100 | [Qué de Raro Tiene](https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:22 |
 
-Snapshot ID: `MCxhMTllMDkyYjA2YzcyYjM2M2ExMzRhYTY3ODA5MzljMDJiNmIyY2Iw`
+Snapshot ID: `MCwzNjFmNzUxNTc1NzI5YzVkNWMwOTMwNTQxMGUxOGE5ZDNlMGRiNmI0`

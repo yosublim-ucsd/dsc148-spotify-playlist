@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,726 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,753 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Rottami](https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U) | 3:19 |
 | 100 | [Fuori dal buio](https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7) | [Fuori dal buio](https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx) | 3:08 |
 
-Snapshot ID: `MCwxZWM2M2FkOTExM2QwNjE0ZGE0OTdhZmMxOWU4ZDViNjZjODE2Y2Ix`
+Snapshot ID: `MCw4NmRmZjNhMjA3NTUwYWM4NTk5ZjNlOWI5NTUzNDFiNTE4YjQyZmJk`

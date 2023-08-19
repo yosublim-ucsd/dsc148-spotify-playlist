@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [52nd Street Theme \- Rudy Van Gelder Edition/1998 Digital Remaster](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 | 2023-03-24 |  |
+| [52nd Street Theme \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 | 2023-03-24 |  |
 | [A Night In Tunisia](https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 5:07 | 2023-05-25 |  |
 | [A Night In Tunisia \- Take 3](https://open.spotify.com/track/6SVAPhAYeX62EeLarDpJYJ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Essential Art Blakey \- The Columbia & RCA Years](https://open.spotify.com/album/56b5T1iEXsM3d2ZjaqL0lS) | 12:52 | 2023-03-24 | 2023-05-26 |
 | [A Shade Of Jade \- Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Mode For Joe \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD) | 7:08 | 2023-03-24 |  |

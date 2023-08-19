@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,240 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,269 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
 | 90 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 |
 
-Snapshot ID: `MCwwMjk0MzkzZmQ0MDNkN2RiNjg4NDk4NGIzNmU3NWZlNWY2MGY3MWU4`
+Snapshot ID: `MCw0M2Q4ZjA3ZmQ4ZmVmM2MyNWRkOWZiZTQxNWU3NDFlYmIzNWNlZjVh`

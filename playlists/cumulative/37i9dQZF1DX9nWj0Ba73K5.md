@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Lori McKenna
 
-238 songs - 13 hr 50 min
+240 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Even If It Breaks Your Heart](https://open.spotify.com/track/37tuqFINoyPMpxbOZNOk17) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night](https://open.spotify.com/album/0iwZYxBjSdx9Ve18IMkyAd) | 3:44 | 2022-04-15 |  |
 | [Everybody Else](https://open.spotify.com/track/70WAxgKcmPb9z48YwxIpvT) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Everybody Else](https://open.spotify.com/album/43SnDuO3vSQWIJLUUZoPkM) | 2:57 | 2022-01-01 |  |
 | [Fall in Love](https://open.spotify.com/track/6t9MB1nfbCJnJCXKlfqFVv) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [You Are This Town](https://open.spotify.com/album/6eE2wAfCyYXKWcn14iPp7J) | 2:49 | 2022-01-01 |  |
+| [Family Ground](https://open.spotify.com/track/6d3Ue0kwKNcjNQadYK2hGj) | [Erik Dylan](https://open.spotify.com/artist/4Lnd7Ix0gpCGpdKjns4gG8) | [Family Ground](https://open.spotify.com/album/2mWYApb9pT1LspgZakolFg) | 2:53 | 2023-08-18 |  |
 | [Fast Lanes and Country Roads](https://open.spotify.com/track/3oIbaceA2vZveLlF0ReWvd) | [Steve Dean](https://open.spotify.com/artist/5vQuQgWgfh9mvFJDgzWN8c) | [Fast Lanes and Country Roads](https://open.spotify.com/album/25S4B5dPtoWBvZ5HdRryCy) | 4:04 | 2022-01-01 |  |
 | [Female](https://open.spotify.com/track/7ARueeihDPgLLgxPbUeuym) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:08 | 2022-01-01 |  |
 | [Fire Away](https://open.spotify.com/track/7s1s7ekwK0CJwhcXNZc76h) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Danny Green](https://open.spotify.com/artist/1vjMe9GuNXHGMe4oBMqSmK) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:39 | 2022-01-01 |  |
@@ -107,6 +108,7 @@
 | [If the Boot Fits](https://open.spotify.com/track/39XSf0AnSQYbTrfC9G2cZo) | [Jordan Schmidt](https://open.spotify.com/artist/4iCsvE9FD8ZQbvb0B4CHmu), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 2:42 | 2022-01-01 |  |
 | [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 | 2022-02-28 | 2022-08-02 |
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2022-01-01 |  |
+| [It's A Great Day To Be Alive](https://open.spotify.com/track/3OOyMn9wG699wYyzBmpavO) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Aloha From Nashville](https://open.spotify.com/album/03Hqoz4bxDdG6MRRV2Br78) | 4:48 | 2023-08-18 |  |
 | [Jesus Take the Wheel](https://open.spotify.com/track/2uNdFwTYXDzAahBUeURWLJ) | [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Live from the Archives of 650am Wsm \- Volume 1](https://open.spotify.com/album/2fB9vCOs2bHnLkZGHcJzEY) | 3:40 | 2022-01-01 |  |
 | [John Cougar, John Deere, John 3:16](https://open.spotify.com/track/0diBrA66034Rcq9foo6j1A) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 2:55 | 2022-01-01 |  |
 | [Just Another](https://open.spotify.com/track/2ryIpNbjhd9W25bG7JdPVK) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Just Another](https://open.spotify.com/album/5f67HsDD8QPuzqh1oJRltm) | 3:13 | 2022-08-05 | 2023-07-01 |

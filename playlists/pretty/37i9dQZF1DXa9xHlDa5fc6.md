@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,475 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,581 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 |
 | 125 | [Inner Love Energy](https://open.spotify.com/track/5pqxLFVOwSS23rX0lobc86) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/467cvMN0A1qVbVXIC7iJCz) | 2:16 |
 
-Snapshot ID: `MCxkMzIyZmNkN2FkM2VhZDc0YzE4YTIyZGM4OWRhOWJiMjI2YTA0YzFi`
+Snapshot ID: `MCxlNmUyZDgwNjc5NDBjZmYyZWQ4OTc2NmIzOGU2MmMzNzY0ZTViZWQ2`

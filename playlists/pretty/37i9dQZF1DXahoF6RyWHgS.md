@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,207 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,256 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 48 | [Dame Tu Querer](https://open.spotify.com/track/3SQauyf4T2j5XCTZxZ3gxY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 4:22 |
 | 49 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 50 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
-| 51 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 |
-| 52 | [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 |
+| 51 | [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 |
+| 52 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 |
 | 53 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
 | 54 | [Un Derecho de Nacimiento](https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0) | [Banda Filarmonica del CECAM](https://open.spotify.com/artist/2OXqK0Ec09b6ppw51V90oP), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Xëëw \(Volumen 1\)](https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf) | 5:38 |
 | 55 | [Agüita de Manantial](https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 4:06 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 67 | [Luna Negra \- Live](https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Live At The First Annual San Francisco Son Jarocho Festival](https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN) | 9:05 |
 | 68 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 |
 | 69 | [La Sitiera](https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK) | [Lobo](https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y) | [15 Super Exitos De Lobo Y Melon \- Versiones Originales](https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO) | 2:56 |
-| 70 | [Tengo una debilidad](https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Las 50 Mejores Grabaciones De Antonio Machín En Discophon \(1903\-1977\)](https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5) | 2:37 |
-| 71 | [Limón](https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 4:32 |
+| 70 | [Limón](https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 4:32 |
+| 71 | [Tengo una debilidad](https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Las 50 Mejores Grabaciones De Antonio Machín En Discophon \(1903\-1977\)](https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5) | 2:37 |
 | 72 | [Apocalypso](https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 4:27 |
 | 73 | [Moliendo Café \- Ritmo Orquidea](https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP) | [Hernán Gamboa](https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL) | [La Fiesta](https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM) | 3:07 |
 | 74 | [Fina Estampa](https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Mujeres con Cajones](https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz) | 2:51 |
 | 75 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78's, Vol\. 4 \(1949 \- 1955\)](https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL) | 2:33 |
-| 76 | [Mujer Soy](https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:00 |
-| 77 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
-| 78 | [Pulque](https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:43 |
-| 79 | [Frida Kahlo aka Mamasita](https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x) | [Latin Soul Syndicate](https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps) | [Latin Soul Syndicate](https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO) | 3:59 |
+| 76 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
+| 77 | [Mujer Soy](https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:00 |
+| 78 | [Frida Kahlo aka Mamasita](https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x) | [Latin Soul Syndicate](https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps) | [Latin Soul Syndicate](https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO) | 3:59 |
+| 79 | [Pulque](https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:43 |
 | 80 | [Vereda Tropical](https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 2:45 |
 | 81 | [Coconut Water](https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [This Is Desmond Dekker \(Enhanced Edition\)](https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl) | 3:29 |
 | 82 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 99 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 |
 | 100 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
 
-Snapshot ID: `MCwwODNlOWRlMDE0YTZiNzdlY2UyYjIwM2RiNGUzMmEzZWEyNjZiNThk`
+Snapshot ID: `MCwwYTI1MGQ5MDdjZDE4NjY4NzZhYzU2NWYyNTgxZDc1OTcwNzk0NmUy`

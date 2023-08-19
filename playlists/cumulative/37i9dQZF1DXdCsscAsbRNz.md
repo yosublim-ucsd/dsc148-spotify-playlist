@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-335 songs - 15 hr 58 min
+337 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2020-10-20\* |  |
 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
 | [KSM66](https://open.spotify.com/track/0j4HJOZqgW0hyAQ2nrKLaI) | [Ted Flounders Jr](https://open.spotify.com/artist/1LpZGSGo6JevJrAAc1VnkV) | [Weighted Blanket](https://open.spotify.com/album/3e9a0xxbZwUJO7yXbYG4F6) | 2:17 | 2021-02-25 |  |
+| [Labor Laboris](https://open.spotify.com/track/6plGBEo6DjOpRqqS7gFJBg) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Labor Laboris](https://open.spotify.com/album/4GZxcUtuqOUTFB1gbSNwXT) | 2:58 | 2023-08-18 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2020-10-20\* | 2022-09-15 |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2020-10-20\* |  |
 | [Land Of Eternal Spring](https://open.spotify.com/track/2IbOMyObpd2vXMQSNrV3kP) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:38 | 2020-10-20\* | 2022-02-04 |
@@ -209,6 +210,7 @@
 | [Omnipresence](https://open.spotify.com/track/6scYL80ldtoY5U8Iv2vtsq) | [Wynton Davidson](https://open.spotify.com/artist/37Q6iiVFO4GhLHVbjIbwTg) | [Omnipresence](https://open.spotify.com/album/1ORZeqjuP3L6nf2DVEtB25) | 2:45 | 2020-10-20\* |  |
 | [Origins of Light](https://open.spotify.com/track/1cFNjRpfevyUzmUnyHLPfe) | [Night Poets](https://open.spotify.com/artist/13Dj1DIYUAAhlmDPdgoDui) | [Parts Unknown](https://open.spotify.com/album/0DY9PT0TNIiAmWSPw3GhK6) | 3:18 | 2020-10-20\* |  |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2020-10-20\* | 2022-08-13 |
+| [Paragliders](https://open.spotify.com/track/2aZASr8jOyTi0GBHBzPnlc) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paragliders](https://open.spotify.com/album/0QzF3Mk7KFvlDnhHqBrr99) | 3:07 | 2023-08-18 |  |
 | [Parallellities](https://open.spotify.com/track/4mV2e8xKbQme3MQeaBAFqA) | [Sidney Godot](https://open.spotify.com/artist/4JFlN8NQDGeVbbTi46bxGs) | [Abstractions](https://open.spotify.com/album/4KL1SK6meP2RMj4jsQwMf0) | 2:38 | 2020-10-20\* | 2022-08-13 |
 | [Passing By](https://open.spotify.com/track/3lp1LxiomQBtVIFZ3aU1Rj) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Breathe](https://open.spotify.com/album/0fiykhnGbXHEFwT6Z7xRsy) | 3:41 | 2020-10-20\* |  |
 | [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2020-10-20\* |  |

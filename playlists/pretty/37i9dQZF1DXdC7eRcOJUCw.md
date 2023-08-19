@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,692 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,789 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 93 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
 | 94 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
 | 95 | [Que Te Vaya Bonito](https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd) | 2:58 |
-| 96 | [Besos y Copas](https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Besos y Copas](https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI) | 3:01 |
+| 96 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
 | 97 | [Échame A Mí La Culpa](https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Échame A Mí La Culpa](https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50) | 3:13 |
-| 98 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
+| 98 | [Besos y Copas](https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Besos y Copas](https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI) | 3:01 |
 | 99 | [Paloma Sin Nido](https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [La Tariácuri](https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU) | 2:56 |
 | 100 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0nDbGRrxLJggLRi5ErHPIK) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [¿Por Qué Te Vas?](https://open.spotify.com/album/1Wjp0bh15AzLi7JbersDl5) | 3:05 |
 
-Snapshot ID: `MCw2MmE5ZThhNjFhZjU2MjI2MmQ1YTk5ZjU2YzUxMjRiNWJjM2VjOWQx`
+Snapshot ID: `MCw3ZGRjZjBlZThlZGUxOTc3NjhiYWRhYTUwNGU2MzdkYTBlOWU1NDE5`

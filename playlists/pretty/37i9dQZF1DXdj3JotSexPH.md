@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,381 likes - 47 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,394 likes - 47 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 30 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
 | 31 | [XO Tour Llif3](https://open.spotify.com/track/3EWaR09H3TkRgaLTIheYFr) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:02 |
 | 32 | [Chills \(LA Hills\)](https://open.spotify.com/track/1O8aHcA2gPhwDIJovDetN8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Chills \(LA Hills\)](https://open.spotify.com/album/0redIUGhpUdCdlx3q7OLQK) | 3:03 |
-| 33 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 |
-| 34 | [Butterflies](https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Butterflies](https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm) | 3:15 |
+| 33 | [Butterflies](https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Butterflies](https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm) | 3:15 |
+| 34 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 |
 | 35 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 |
 | 36 | [Arc](https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Arc](https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm) | 4:34 |
 | 37 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 46 | [FLOATING](https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Floating](https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s) | 3:11 |
 | 47 | [FOG](https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [FOG](https://open.spotify.com/album/7i8mmO1nVFC5WwV0aoDHwP) | 3:15 |
 
-Snapshot ID: `MCw2YjMzOGE3NWNhMjk4YjhiNDA2ODM4ZDQ4OTE2MjA3YmFiMmU3ZTM3`
+Snapshot ID: `MCw5YzQ1N2I3MzkzZDJlOTBiNjY4MmZhYWI0MzQ1NzBiYTQ3NzU0NmVm`

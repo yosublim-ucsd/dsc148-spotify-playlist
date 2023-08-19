@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,222 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,437 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Family Is Family](https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Family Is Family](https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx) | 2:53 |
 | 100 | [The Great Awakening](https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Great Awakening](https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7) | 3:30 |
 
-Snapshot ID: `MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi`
+Snapshot ID: `MCxlYzgyOGU2YjE0ZjY1YWU0MDAwMjU0ZjQ1ZGE4ZDhlMzEwOTZlOTdk`

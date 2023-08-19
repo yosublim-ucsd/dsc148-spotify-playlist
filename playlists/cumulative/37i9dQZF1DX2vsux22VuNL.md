@@ -2,9 +2,9 @@
 
 ### [brisa](https://open.spotify.com/playlist/37i9dQZF1DX2vsux22VuNL)
 
-> Aquele som que é pura brisa\. 🍃 Foto: Hodari, Luedji Luna
+> Aquele som que é pura brisa\. 🍃 Foto: Rô Rosa
 
-262 songs - 13 hr 54 min
+263 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bonita](https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:14 | 2023-03-10 |  |
 | [Brigas](https://open.spotify.com/track/5kv8oFqP33vlEbfrtiTb8M) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Suh](https://open.spotify.com/artist/2pAmbNN8mzxnBgYwZ4hSSo), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Nathan ZK](https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Brigas](https://open.spotify.com/album/4lXWSwBPFdisfRDLlwcOXH) | 4:52 | 2022-05-23 | 2022-12-10 |
 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 | 2023-03-10 | 2023-03-25 |
+| [Cachimbo da Paz 2](https://open.spotify.com/track/2ZeG4NqS9tRoUa6LGjAP2I) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:42 | 2023-08-18 |  |
 | [Calo na Garganta](https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Calo na Garganta](https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv) | 4:28 | 2022-10-14 | 2022-12-03 |
 | [Canto da Sereia](https://open.spotify.com/track/5onALPPboSh4z6cO24tOvW) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Canto da Sereia](https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO) | 2:31 | 2022-05-23 | 2022-10-15 |
 | [caos / flor \*\*\*](https://open.spotify.com/track/21XUWkizYGllIRpib9Cq6X) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:31 | 2022-05-23 | 2022-10-15 |

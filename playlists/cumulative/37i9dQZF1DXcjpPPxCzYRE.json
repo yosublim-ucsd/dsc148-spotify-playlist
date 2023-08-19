@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 258999,
       "name": "Caballo Blanco (feat. Macaco)",
       "url": "https://open.spotify.com/track/5uifWhPVNCyg0n6PhjjT05"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
@@ -632,6 +632,24 @@
       "duration_ms": 246453,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
+    },
+    {
+      "album": {
+        "name": "SUGAR EP.",
+        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369105,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
     },
     {
       "album": {
@@ -801,6 +819,28 @@
     },
     {
       "album": {
+        "name": "Float Away",
+        "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Float Away",
+      "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
+    },
+    {
+      "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
@@ -900,7 +940,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 256885,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
@@ -1514,7 +1554,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
@@ -1678,6 +1718,36 @@
       "duration_ms": 237746,
       "name": "Moving in Slow Motion",
       "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
+    },
+    {
+      "album": {
+        "name": "Mucho Peor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211791,
+      "name": "Mucho Peor - Spotify Singles",
+      "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
     },
     {
       "album": {
@@ -2210,7 +2280,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
@@ -2290,6 +2360,24 @@
       "duration_ms": 242000,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
+    },
+    {
+      "album": {
+        "name": "Ressaca a sa platja",
+        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176654,
+      "name": "Ressaca a sa platja",
+      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
     },
     {
       "album": {
@@ -2597,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "album": {
         "name": "In Deepest Blue (Bonus Track Version)",
         "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
       },
@@ -2752,7 +2858,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"

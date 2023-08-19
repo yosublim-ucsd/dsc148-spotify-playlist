@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,309 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,394 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/track/5TRubkfle0s3bQAPtBPQIf) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Juanmih](https://open.spotify.com/artist/1ONFKxaF62UuzaaMwzuzm9) | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/album/3dKKWOI7rNPtfwn8lVX6HY) | 1:52 |
 | 100 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 
-Snapshot ID: `MCw0NWVjMzYzZmZlYWMxZTlkOTEzNWYzODhhMDdmZjgyMGY1ZjhjYjhl`
+Snapshot ID: `MCwxOTdkMmYyMTkwZjIwNjJiZWNhNDA1OWJmZDc5YzkyMjBjMGNiYzEy`

@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-227 songs - 14 hr 4 min
+228 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-03-25 |  |
 | [Ann Wants to Dance](https://open.spotify.com/track/5jIwg6dzwp8I6G2x4joQ5R) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Ann Wants to Dance](https://open.spotify.com/album/6UVPWvjj11w6vKnR5MuW1Q) | 3:35 | 2022-03-25 | 2022-04-20 |
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2022-03-25 | 2022-12-02 |
-| [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-07-28 |  |
+| [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-07-28 | 2023-08-19 |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-04 | 2022-07-29 |
 | [attention](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 | 2022-06-24 |  |
 | [Aura](https://open.spotify.com/track/1zOVZVSzH0mYCriqsI7YeA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/3LM98l3bBn6ygO1hqJOEVX) | [Aura](https://open.spotify.com/album/1jE2enGNnAn5cjtsCOCCaw) | 3:49 | 2022-03-25 | 2022-04-20 |
@@ -76,6 +76,7 @@
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-28 |  |
 | [Easy](https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 3:20 | 2022-09-21 |  |
 | [Easy](https://open.spotify.com/track/6bPk3V91v7xEXcXBGVB2Yr) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 3:20 | 2022-02-18 | 2022-07-29 |
+| [Electric Fish](https://open.spotify.com/track/0g4dxxpHaccjm7Ng1k2fQF) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Electric Fish](https://open.spotify.com/album/1tT0M0ILq3siLsmYlfoIrW) | 4:13 | 2023-08-18 |  |
 | [Equals](https://open.spotify.com/track/3n5wEMIL3crQC96d872RYv) | [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [Equals](https://open.spotify.com/album/49zBMJYpQKcA8NnsbYah83) | 3:33 | 2022-02-18 | 2022-07-29 |
 | [Ever Again](https://open.spotify.com/track/2DKhAFWadzNtGTb9ZM98zB) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/7rtmaF7HH7OeBI4iIJpMw3) | 4:24 | 2022-03-25 | 2022-04-15 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 | 2022-06-24 |  |

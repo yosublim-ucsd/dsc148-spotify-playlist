@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,108 likes - 65 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,128 likes - 65 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 64 | [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 |
 | 65 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
 
-Snapshot ID: `MCxkOTIwM2MxODIxNjZkNGZhYjJmODBmZmYxZWE4Y2MzODFmOTIzN2Zi`
+Snapshot ID: `MCwzYmRmZmM2MmJiNzhiOTEyNjIxZmRhMjM1OTFhNDliMTAwMzJlZDk0`

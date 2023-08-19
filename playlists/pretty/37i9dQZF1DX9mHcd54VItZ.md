@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY?si=45WvUFO9R5G2H8\_5yJFU8w">Aya Nixon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,013 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,039 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 |
 | 50 | [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 |
 
-Snapshot ID: `MCxhNTM2ZDFiOGFjZDNmMDFlMzY5MjM5ODVjOTJkODhkZDI2NDdjOWI0`
+Snapshot ID: `MCw0YTIzNmNjYTg1Mjg0YjQxOWNlMzkzNjFhYTA0MzU1MjgzMGYxZDdj`

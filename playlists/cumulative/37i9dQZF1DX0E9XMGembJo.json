@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
@@ -6352,7 +6352,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 201464,
       "name": "MUSTARD (WITH 6LACK)",
       "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
@@ -8001,6 +8001,24 @@
     },
     {
       "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
+    },
+    {
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd"
       },
@@ -8066,7 +8084,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 118393,
       "name": "Some",
       "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd"
@@ -9530,7 +9548,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197080,
       "name": "VAN GOGH",
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"

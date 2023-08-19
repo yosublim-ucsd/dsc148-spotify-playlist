@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhUYCGnZTnv.md) - [plain]
 
 > Your very own time capsule: a nostalgic look back on the past four years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 371 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhUYCGnZTnv.md) - [plain]
 | 149 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
 | 150 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
 
-Snapshot ID: `MCw4MTg3M2VmMjlkOTRhZDRlNTgzZTViYThlMmZmODg0OGUxNjZlNjcx`
+Snapshot ID: `MCxiMjA0MGVhNmRiMjY1MjgzNjA0YzZkNDQ0YWFiOTMzYzZmZTE1Mjcw`

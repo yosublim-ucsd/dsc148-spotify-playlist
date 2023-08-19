@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 宇多田ヒカル\(Hikaru Utada\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,763 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,111 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 9 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 10 | [Himawari](https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Himawari](https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9) | 4:19 |
 | 11 | [ユアーズ](https://open.spotify.com/track/6eS0ZKrSBScOPE74eOLGQC) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [ユアーズ](https://open.spotify.com/album/2KCZ6tmHpxjC5VuRzTtY8R) | 4:26 |
-| 12 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 |
+| 12 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 |
 | 13 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
 | 14 | [怪獣のサイズ](https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪獣のサイズ](https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo) | 3:30 |
 | 15 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [DAY feat\. PUNPEE](https://open.spotify.com/track/2SnYJgNCLeLmYqLBDn4PVx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [DAY feat\. PUNPEE](https://open.spotify.com/album/6m4Ju35ORC4APD8X9bQREC) | 3:46 |
 | 50 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 |
 
-Snapshot ID: `MCxjMTk5OTFkY2NkMGEzM2RjMjNkNzljODJmMDhhNGY1YmNiZDEwOTkz`
+Snapshot ID: `MCwxYjdlZTEyNWEzM2EwYWVlNzRlNzM5ZDNjOTY3ZTRiYTVlYmMzN2Ey`

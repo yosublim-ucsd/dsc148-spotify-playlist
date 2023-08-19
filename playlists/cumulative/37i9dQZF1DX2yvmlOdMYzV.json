@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Cold Showers",
       "url": "https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 175348,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 196673,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225541,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 187370,
       "name": "I've Been Waiting",
       "url": "https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf"
@@ -3997,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1vt7X7XyjmXidzZqmL8Sz2"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153851,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5K0kxnRaObm0I8ocGBE0pA"
+    },
+    {
+      "album": {
         "name": "Blue Man",
         "url": "https://open.spotify.com/album/3CP4mtGs1g4EuhVaaHtFnE"
       },
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 128000,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/6M3nptRy5w6wiKk5mMjWHN"
@@ -4450,7 +4468,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 270708,
       "name": "Later",
       "url": "https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS"
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
@@ -6188,7 +6206,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
@@ -6268,7 +6286,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 262727,
       "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
@@ -8136,7 +8154,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 111063,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW"
@@ -8264,7 +8282,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 271580,
       "name": "Too Late (feat. James Fauntleroy & Elena Pinderhughes)",
       "url": "https://open.spotify.com/track/3eNf4OuKOBp1pCkuvVRaxT"
@@ -8304,7 +8322,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 209446,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: The Bandit Boy\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,304 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,306 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 69 | [หนีรักไปพักร้อน](https://open.spotify.com/track/1Gqlyxx96IFFKZjfE1HFf4) | [Wung Wine](https://open.spotify.com/artist/7vpuegvwnM6LhgoLvLUOTX) | [Out of the Bottle](https://open.spotify.com/album/1j5TT2UggUZN1oiZCVILjw) | 3:39 |
 | 70 | [ซ่อนรูป](https://open.spotify.com/track/3xKB71AFH9DnjXINRH4SK0) | [Mr.Camel](https://open.spotify.com/artist/1xpMKqJbQYdayv5aTT0iWw), [MISSBELL](https://open.spotify.com/artist/5TYM6KucY9Q7sIRQCZkbJM) | [ซ่อนรูป](https://open.spotify.com/album/49jtcKOsojDRggeHKvykYu) | 3:32 |
 
-Snapshot ID: `MCxlZGYzOWU5MjhmZWU4MDEyMmU4NGZmNzcwYWE2NjEzYmI4MDM3NGU3`
+Snapshot ID: `MCwwYzZmM2I1NzJlZjgzYzQ3ZDY0ZGZhODRhYjhiMDhhZGY1ZjdjMGIz`

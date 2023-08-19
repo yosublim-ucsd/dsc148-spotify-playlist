@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,484 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,053 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Janfry](https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Janfry](https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13) | 3:35 |
 | 50 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 |
 
-Snapshot ID: `MCxhNjYzZTk3YmFlZjI1YTAwMjJkZjU5MGRlODRjY2VhMmRmZjI0ZTkz`
+Snapshot ID: `MCwzZmU1OTM5YjQ2ODQ1NTAyOGM2Y2ZiNmUwMDY2ZDI5OGNhNzNhNDcw`

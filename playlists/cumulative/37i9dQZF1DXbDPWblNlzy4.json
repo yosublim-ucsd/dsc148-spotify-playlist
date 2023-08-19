@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Llane",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Maluma, Carin Leon",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 201106,
       "name": "1Trago",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
+        "name": "2 de 3",
+        "url": "https://open.spotify.com/album/5DS86CBsoUpt3DrkAhGyqA"
+      },
+      "artists": [
+        {
+          "name": "Christian Meier",
+          "url": "https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3"
+        },
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234620,
+      "name": "2 de 3",
+      "url": "https://open.spotify.com/track/1ZZUUVTPJcLTXQZCFyEeIB"
     },
     {
       "album": {
@@ -100,7 +122,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 197000,
       "name": "A Mi Lado",
       "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
@@ -238,7 +260,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 199138,
       "name": "Bendita",
       "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
@@ -500,7 +522,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 147945,
       "name": "Coraz\u00f3n Maleante",
       "url": "https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd"
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
@@ -1158,7 +1180,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
@@ -1180,6 +1202,28 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "album": {
+        "name": "La Burbuja",
+        "url": "https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230179,
+      "name": "La Burbuja",
+      "url": "https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls"
     },
     {
       "album": {
@@ -1260,7 +1304,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224999,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
@@ -1282,6 +1326,28 @@
       "duration_ms": 195789,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
+    },
+    {
+      "album": {
+        "name": "Las Mujeres",
+        "url": "https://open.spotify.com/album/1nMJ6Cjyc6yTWoKToZoP6c"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220862,
+      "name": "Las Mujeres",
+      "url": "https://open.spotify.com/track/1wvxclslngApTRBA3gZFn6"
     },
     {
       "album": {
@@ -1529,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Me Voy Contigo",
+        "url": "https://open.spotify.com/album/3s1n86YHWRonvhfxLQrNln"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "Me Voy Contigo",
+      "url": "https://open.spotify.com/track/4h5vzpVOjyE6iDL87aQe4b"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1602,7 +1686,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 130653,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
@@ -1620,7 +1704,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
@@ -1903,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
+    {
+      "album": {
         "name": "Nunca Deja De Llover",
         "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
       },
@@ -2090,7 +2192,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 193043,
       "name": "Pasa",
       "url": "https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA"
@@ -2439,6 +2541,28 @@
     },
     {
       "album": {
+        "name": "Seg\u00fan Qui\u00e9n",
+        "url": "https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142334,
+      "name": "Seg\u00fan Qui\u00e9n",
+      "url": "https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4"
+    },
+    {
+      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -2676,7 +2800,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 185850,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/0nYhrZ9tj9I6V9JKSwViRh"

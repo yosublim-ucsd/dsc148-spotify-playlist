@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: ARTBEAT v \(아트비트 v\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: EVERGLOW \(에버글로우\)
 
-375 songs - 20 hr 4 min
+377 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-02 |  |
 | [Call My Name](https://open.spotify.com/track/0pE4uFviRFxDZ3wNpAodKJ) | [Ferry Blue](https://open.spotify.com/artist/5hoabnM5gbywbrTEKiHilf) | [Call My Name](https://open.spotify.com/album/6nryqw9I1rkQGVlIMzyFZ6) | 3:39 | 2021-09-07 | 2022-04-12 |
 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 | 2022-03-29 | 2022-04-13 |
-| [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-12-01 |  |
+| [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-12-01 | 2023-08-19 |
 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 | 2023-03-22 | 2023-03-30 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-02-28 | 2022-04-18 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-11 | 2023-01-14 |
@@ -70,7 +70,7 @@
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2021-04-22 | 2022-04-20 |
 | [Danger](https://open.spotify.com/track/4UHUzgsVA31r4yUq5dvfb1) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [JOY](https://open.spotify.com/album/4DqTvL7XSzatTOXo0wuQ29) | 3:42 | 2022-06-09 | 2022-06-16 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:29 | 2020-10-20 | 2022-04-19 |
-| [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-25 | 2023-08-11 |
+| [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-25 |  |
 | [DEEP](https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 2:59 | 2022-05-17 | 2022-05-27 |
 | [Deja Vu](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 | 2020-10-20 | 2022-04-05 |
 | [Devil](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Devil](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) | 2:57 | 2021-03-01 | 2022-04-17 |
@@ -89,7 +89,7 @@
 | [Dream Line](https://open.spotify.com/track/2YSsmKzD15WOjIiQFfNgcO) | [PurpleBeck](https://open.spotify.com/artist/4Qmka95TrMVuv4UvYyj5iE) | [Dream Line](https://open.spotify.com/album/3MU2uTDCbyKPuphwGAl2Ja) | 3:27 | 2021-03-06 | 2022-05-30 |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-20 | 2022-09-18 |
 | [DRIP](https://open.spotify.com/track/1UThkKR8w3WnA6lWCRhOJn) | [HINAPIA](https://open.spotify.com/artist/6bWaRj4L4PyJ4uv2wN47Ny) | [New Start](https://open.spotify.com/album/79I7ijWthvkwe4xOW0zzQh) | 3:20 | 2021-01-15 | 2022-04-03 |
-| [DUBI DUBI](https://open.spotify.com/track/6SG8OjKKMAW47MJtJLSnNM) | [ARTBEAT v](https://open.spotify.com/artist/3gk4e5MsuqJYjKdakIN8Dk) | [DUBI DUBI](https://open.spotify.com/album/78mK53Clr4hZQ1Gt02zQDY) | 3:01 | 2023-08-10 |  |
+| [DUBI DUBI](https://open.spotify.com/track/6SG8OjKKMAW47MJtJLSnNM) | [ARTBEAT v](https://open.spotify.com/artist/3gk4e5MsuqJYjKdakIN8Dk) | [DUBI DUBI](https://open.spotify.com/album/78mK53Clr4hZQ1Gt02zQDY) | 3:01 | 2023-08-10 | 2023-08-19 |
 | [Dumb](https://open.spotify.com/track/1PNb8pRsZGa8XN1m5nJe70) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BE!](https://open.spotify.com/album/6DX33GTGhfTLpQWzmHHgHA) | 3:10 | 2021-01-17 | 2022-06-13 |
 | [DUN DUN](https://open.spotify.com/track/3CyCjgTHFzqucmECajq8QA) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [reminiscence](https://open.spotify.com/album/5ByQ39IHGxrddAwQcnxvoj) | 3:12 | 2020-10-20 | 2022-04-20 |
 | [Easy](https://open.spotify.com/track/3KLkc1h39HhbuXIYB5xgAq) | [WJSN THE BLACK](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) | [My attitude](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) | 3:08 | 2021-10-12 | 2022-04-03 |
@@ -169,6 +169,7 @@
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2020-10-20 | 2022-04-15 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-25 |  |
 | [KILLER](https://open.spotify.com/track/1NMxmQKHCIqbz2QKxd1X2E) | [FAINIT](https://open.spotify.com/artist/2RRJVX5gr6einLIajJdDa5) | [KILLER](https://open.spotify.com/album/2hZEI76bqonuaH7Ew3Opp6) | 3:10 | 2022-06-20 | 2022-06-27 |
+| [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-18 |  |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-12 | 2022-08-19 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-04 | 2023-08-01 |
@@ -291,6 +292,7 @@
 | [Shhh](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 3:02 | 2023-07-05 |  |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Silent Movie](https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:20 | 2021-02-26 | 2022-04-16 |
+| [SLAY](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ALL MY GIRLS](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) | 3:40 | 2023-08-18 |  |
 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 | 2020-10-20 | 2022-07-28 |
 | [So I Lie](https://open.spotify.com/track/6W3dOxHtG9BGSkCsIHZRVI) | [YerY](https://open.spotify.com/artist/4RnDWh3zemdMGubIQLeT6H) | [So I Lie](https://open.spotify.com/album/2KGPPS4bKfNA8ObCMx8jk1) | 3:00 | 2021-10-03 | 2022-04-18 |
 | [So What](https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 3:18 | 2021-01-18 | 2021-03-02 |
@@ -314,7 +316,7 @@
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-14 | 2023-06-23 |
 | [The Boots](https://open.spotify.com/track/73BjKZxwy47mJuTfIlcXfI) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 3:21 | 2021-03-07 | 2021-03-08 |
-| [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 | 2023-08-02 |  |
+| [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 | 2023-08-02 | 2023-08-19 |
 | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/track/7vgvV8dD2L0l7pMSOBPD26) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/album/2XYKNORkUW6lPluYIZodpf) | 2:54 | 2023-07-19 | 2023-07-26 |
 | [Thumbs Up](https://open.spotify.com/track/1TDvkATTyjLCh8Teuqa7Dc) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Thumbs Up](https://open.spotify.com/album/3PG4dq1ZweU7obfiKRQCtw) | 3:18 | 2021-02-26 | 2021-03-18 |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-26 | 2022-11-21 |

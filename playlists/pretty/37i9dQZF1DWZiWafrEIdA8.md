@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,689 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,695 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Writer's Block](https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [The Anecdote](https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q) | 3:38 |
 | 50 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
 
-Snapshot ID: `MCw4ZjdlMGIxOTFjYjc2OGEyNGU2ODQyYmZiYzc5YTQ2Y2VjODhlNjVm`
+Snapshot ID: `MCwzM2E2NzUwNTM2OTBhYTNmZDg1Y2JjMWI4YTFmZTI2MTllZjZhOGNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,623 likes - 600 songs - 1 day 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,635 likes - 600 songs - 1 day 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 599 | [Memories Of You](https://open.spotify.com/track/4k8Z615BSY2DPSARJS11Se) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Cherokee](https://open.spotify.com/album/5vCWIYXs2CiCuAVgVGF3Ny) | 4:45 |
 | 600 | [Stella By Starlight](https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Figgy Mold](https://open.spotify.com/album/4p6Hg570bX3GCNL7mGGzWx) | 3:28 |
 
-Snapshot ID: `MCw2ZTQ4YjhmNjRiN2MzNTQ1ODJiMzEwNWM0MzgzYjlmYmIzN2E4ODc0`
+Snapshot ID: `MCwxYzI5MzFlYmFkMjJlYTE1YjMwYjg4M2JlNDNhNTkxMzUxOTQzYmJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Byron Messia
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,572 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,778 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Live n' Learn](https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Live n' Learn](https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ) | 2:41 |
 | 100 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
 
-Snapshot ID: `MCwxMDA4YzRkYzFmNzAxOGZmMmNiMDJjMmE2MjgxYTFiY2IxNWUwNDE5`
+Snapshot ID: `MCxiYjY4YWI4YjI2YzI3YjlmMzAyYjgzMjVlMDAzYzBkMTAzOTdhODBl`

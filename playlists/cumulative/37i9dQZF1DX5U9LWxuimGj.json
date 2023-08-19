@@ -1301,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jordyn Shellhart",
+          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "LA LLUVIA (with Jordyn Shellhart)",
+      "url": "https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT"
+    },
+    {
+      "album": {
         "name": "Los Tigres Del Norte At Folsom Prison (Original Soundtrack/Live)",
         "url": "https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q"
       },

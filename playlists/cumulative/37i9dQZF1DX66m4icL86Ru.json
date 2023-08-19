@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "album": {
         "name": "Feed The Beast",
         "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 155480,
       "name": "BAIT (with BANKS)",
       "url": "https://open.spotify.com/track/3XgpYw4TPKiml7WcjQ9vYr"
@@ -1217,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Booty Drop",
+        "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159560,
+      "name": "Booty Drop",
+      "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
+    },
+    {
+      "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
@@ -1272,6 +1308,24 @@
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154213,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
     },
     {
       "album": {
@@ -2912,7 +2966,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 149384,
       "name": "FreakyT (feat. Latto) - Remix",
       "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
@@ -3424,7 +3478,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 188093,
       "name": "GRL GVNG",
       "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
@@ -3940,6 +3994,24 @@
       "duration_ms": 200205,
       "name": "I Do (feat. SZA)",
       "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
+    },
+    {
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "I got it bad",
+      "url": "https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE"
     },
     {
       "album": {
@@ -4671,6 +4743,28 @@
     },
     {
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276904,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+    },
+    {
+      "album": {
         "name": "Meet Yo Mama",
         "url": "https://open.spotify.com/album/1t07LZKfClXuSIoUiZcO2E"
       },
@@ -4863,6 +4957,32 @@
     },
     {
       "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -4938,6 +5058,24 @@
       "duration_ms": 144660,
       "name": "My Way",
       "url": "https://open.spotify.com/track/5NnwiqW2KwXYN4wl6ahYsn"
+    },
+    {
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
     },
     {
       "album": {
@@ -5752,6 +5890,32 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "album": {
@@ -7446,6 +7610,24 @@
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "album": {
+        "name": "Slut Pop",
+        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Treat Me Like A Slut",
+      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
     },
     {
       "album": {

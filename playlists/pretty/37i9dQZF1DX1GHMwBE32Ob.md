@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,296 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,367 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS) | 2:40 |
 | 60 | [ZaZoo Zehh](https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ZaZoo Zehh](https://open.spotify.com/album/06y2KN7ZkZZ05vVxTTwCM8) | 3:34 |
 
-Snapshot ID: `MCxlMjQ1ZjViNzE0Mjg4ZjBkMjkwZmIxYTQ5ZDk5OTBiYmNjM2Q4MThj`
+Snapshot ID: `MCw0ZTNmNzFhMTc2ZjQ3MDI4YjExODgxZjdmODYzYWUxNmNmYjMwNjBk`

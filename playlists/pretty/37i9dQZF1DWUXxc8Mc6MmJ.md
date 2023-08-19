@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,418 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,947 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 28 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 |
 | 29 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 30 | [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 |
-| 31 | [Here Always \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
+| 31 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 |
 | 32 | [Reset \(feat\. Jinsil\)](https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Jinsil](https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq) | [Who Are You : School 2015\(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq) | 4:02 |
 | 33 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
 | 34 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [All of My Days](https://open.spotify.com/track/2RBuzNyLuV1jXU8qi84Hiy) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu) | 3:58 |
 | 50 | [If](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hong Gil Dong OST](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) | 4:25 |
 
-Snapshot ID: `MCw4ZTBkNTc0OTU1NGI4Mzg2OTMwZGM3YTIzN2ZlYzY2YmViOTkyNzUz`
+Snapshot ID: `MCw2NWFlYWMxZmM0MzhkNzAyZGQ0MWJlMzAyNmY0ZDkyZGVmOWNlMWQ2`

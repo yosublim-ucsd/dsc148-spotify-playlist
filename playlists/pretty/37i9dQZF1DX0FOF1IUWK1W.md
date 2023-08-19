@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Jão e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,801,541 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,803,682 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 | 50 | [Papin](https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:02 |
 
-Snapshot ID: `MCwyNWU5NDc5NWU2OTY2MGMwMTQ1ZTM5NmM1ZGM0NTMxNjljOThmZTkw`
+Snapshot ID: `MCxkZjhmZTAxY2E0ZThjNmNmNzY1Y2I1YzNkODY3N2VkZDQwNGQ3NjQ3`

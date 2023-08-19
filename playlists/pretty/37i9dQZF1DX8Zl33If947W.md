@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,546 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,652 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 42 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
 | 43 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 44 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
-| 45 | [Vom selben Stern \- Radio Edit](https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL) | [Ich + Ich](https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId) | [Vom selben Stern \(Exklusive Version\)](https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn) | 3:48 |
-| 46 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 |
+| 45 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 |
+| 46 | [Vom selben Stern \- Radio Edit](https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL) | [Ich + Ich](https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId) | [Vom selben Stern \(Exklusive Version\)](https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn) | 3:48 |
 | 47 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 48 | [Unique](https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Unique](https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6) | 2:42 |
 | 49 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 50 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 |
 
-Snapshot ID: `MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw`
+Snapshot ID: `MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm`

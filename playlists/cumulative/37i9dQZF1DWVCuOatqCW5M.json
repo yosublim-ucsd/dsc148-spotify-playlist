@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Shekhar Ravjiani",
+  "description": "New music from popular Hindi artists. Cover- Saaj Bhatt & Nikhita Gandhi",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 254123,
       "name": "Baadal",
       "url": "https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 182769,
       "name": "Baat Kya Hai",
       "url": "https://open.spotify.com/track/0kPMVI2iVKarTWWcSi5Phc"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 224842,
       "name": "Bheege Bheege",
       "url": "https://open.spotify.com/track/59FLlxXz4aUtq5GqTAiBZE"
@@ -2156,6 +2156,32 @@
       "duration_ms": 214639,
       "name": "Casanova (feat. Simar Kaur)",
       "url": "https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe"
+    },
+    {
+      "album": {
+        "name": "Chaand",
+        "url": "https://open.spotify.com/album/4H2Ke9l5953vvOfmsXHVOG"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Rajarshi Sanyal",
+          "url": "https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232305,
+      "name": "Chaand",
+      "url": "https://open.spotify.com/track/1pJHEsf9NFpm9bX9upgrHl"
     },
     {
       "album": {
@@ -3968,7 +3994,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 172564,
       "name": "Fida",
       "url": "https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1"
@@ -4092,7 +4118,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 296385,
       "name": "Ghafil (feat. Sharad Malhotra & Anjali Arora)",
       "url": "https://open.spotify.com/track/1HKli5c5VrxoDRUe54ohXi"
@@ -4176,6 +4202,28 @@
       "duration_ms": 225218,
       "name": "Ghoomey (From \"8 A.M. Metro\")",
       "url": "https://open.spotify.com/track/6L6qRxj0uuxcUICSUiMRgl"
+    },
+    {
+      "album": {
+        "name": "Ghulaam",
+        "url": "https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Maara",
+          "url": "https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202220,
+      "name": "Ghulaam",
+      "url": "https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg"
     },
     {
       "album": {
@@ -6423,6 +6471,32 @@
     },
     {
       "album": {
+        "name": "Keh Do Na",
+        "url": "https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Dropped Out",
+          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
+        },
+        {
+          "name": "BLUK",
+          "url": "https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168978,
+      "name": "Keh Do Na",
+      "url": "https://open.spotify.com/track/5EHWMWzFWpV8xu9IrRxyVi"
+    },
+    {
+      "album": {
         "name": "Kehne Do",
         "url": "https://open.spotify.com/album/5BeVeaLPq6ZKyvIWSCcq61"
       },
@@ -8379,6 +8453,24 @@
     },
     {
       "album": {
+        "name": "Mere Ho Jao",
+        "url": "https://open.spotify.com/album/6fhN7VOQX6eKIzriwabgQu"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264780,
+      "name": "Mere Ho Jao",
+      "url": "https://open.spotify.com/track/1iBfxiUzvIjsB84RifpN1f"
+    },
+    {
+      "album": {
         "name": "Mere Sanam Ke Khwaab",
         "url": "https://open.spotify.com/album/2XoOzgwVUgujp5pgdZo707"
       },
@@ -8394,7 +8486,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 234103,
       "name": "Mere Sanam Ke Khwaab",
       "url": "https://open.spotify.com/track/11XpKGPvaWClvMtRzuumZk"
@@ -11128,7 +11220,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 231340,
       "name": "Sharaabe Mohabbat",
       "url": "https://open.spotify.com/track/75lS3po6kyRCfGnS8bnLWO"
@@ -11608,6 +11700,28 @@
       "duration_ms": 250124,
       "name": "Tauba Meri Tauba",
       "url": "https://open.spotify.com/track/6UL5wNXWm8z9n4cqzVGeO7"
+    },
+    {
+      "album": {
+        "name": "Tera Ban Gaya Hoon",
+        "url": "https://open.spotify.com/album/2dF727vdSU2l0ecMiJl33U"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "Tera Ban Gaya Hoon",
+      "url": "https://open.spotify.com/track/11yeBYanvSAQndJ8ZEgbqd"
     },
     {
       "album": {
@@ -12634,7 +12748,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 268928,
       "name": "Tu Meri Baarish Hai",
       "url": "https://open.spotify.com/track/3cnukucAHNoRJccqDWwWWI"
@@ -13545,6 +13659,24 @@
     },
     {
       "album": {
+        "name": "Yaadein Roz Aati Hain",
+        "url": "https://open.spotify.com/album/3lzJCKe2xQXnQKNTzlmJTE"
+      },
+      "artists": [
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Yaadein Roz Aati Hain",
+      "url": "https://open.spotify.com/track/3WuZejA6BUwNRoK5WzOwmh"
+    },
+    {
+      "album": {
         "name": "Yaar Ka Sataya Hua Hai",
         "url": "https://open.spotify.com/album/2AqA5Q47R0kLjUb3tjX63T"
       },
@@ -13777,6 +13909,24 @@
     },
     {
       "album": {
+        "name": "Zaroori Tha (Acoustic)",
+        "url": "https://open.spotify.com/album/6ueaYOGHOq1A2UJnGCcWa3"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253513,
+      "name": "Zaroori Tha - Acoustic",
+      "url": "https://open.spotify.com/track/5OSYTJTR2geTLBWuR4IKkV"
+    },
+    {
+      "album": {
         "name": "Zihaal e Miskin",
         "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
       },
@@ -13870,6 +14020,24 @@
       "duration_ms": 198968,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/3Zs4kdU0HS1Lm8prl4Yenz"
+    },
+    {
+      "album": {
+        "name": "Zindagi",
+        "url": "https://open.spotify.com/album/0LSL5FUCYBK70Hic1zB1Cp"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kabra",
+          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183630,
+      "name": "Zindagi",
+      "url": "https://open.spotify.com/track/1X8tg7QHom6xKCJ8ComZtA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M"

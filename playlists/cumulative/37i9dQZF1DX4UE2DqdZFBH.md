@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-101 songs - 8 hr 29 min
+102 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Rushing](https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix) | 4:51 | 2022-06-10 |  |
 | [Shuddh Sarang](https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:23 | 2023-04-19 |  |
 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 | 2022-06-10 |  |
+| [Siya](https://open.spotify.com/track/09zcdMhq7l3q3tbPjp0HTT) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Siya](https://open.spotify.com/album/665kiBV7RpNrKDRCUXD5ve) | 3:05 | 2023-08-18 |  |
 | [Snowfall](https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG) | [Sridhar Varadarajan](https://open.spotify.com/artist/6Jy10JIWhSv5VvFzi6sHwg), [Prakash Sontakke](https://open.spotify.com/artist/0ITgqMxxKYSUZNUOGVBX2X) | [Imperfect Things](https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7) | 3:05 | 2022-06-10 |  |
 | [Sonder](https://open.spotify.com/track/5QEHJD6fYLzMHBYMuIE3zh) | [Mansij](https://open.spotify.com/artist/5HJY6bwnId2sOzXwlcdRY5) | [Sonder](https://open.spotify.com/album/1GPA0YRqvXXVNO4YiklJKl) | 3:16 | 2022-06-10 |  |
 | [So…Now Hear This](https://open.spotify.com/track/2sxZfnXAqdEK5d0wdfPOzt) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 5:09 | 2022-06-10 |  |

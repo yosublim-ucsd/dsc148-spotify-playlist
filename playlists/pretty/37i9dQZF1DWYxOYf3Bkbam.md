@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,899 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,948 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 |
 | 90 | [Pájaro Chogüí](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez](https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo), [Raul Barboza](https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s) | [Pájaro Chogüí](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 |
 
-Snapshot ID: `MCwyNDMyZTM0ZjRkOGZlMzY1OWRhYzE4MzYwYWM1M2MwNjgxODI4YzAx`
+Snapshot ID: `MCw0NjhjNDk0MTI3OTgyY2QyOWFlZWE5OGFjMTE1MDAzMDI1NTIzZWUx`

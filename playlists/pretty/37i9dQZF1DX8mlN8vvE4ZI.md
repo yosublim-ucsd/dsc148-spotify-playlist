@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Rishab Rikhiram Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,710 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,970 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 49 | [Sitar Theme](https://open.spotify.com/track/3d97zTIcKA0mDhx53c1uix) | [ROR](https://open.spotify.com/artist/0r6xzCyrNCABaaNTAgJiyK) | [Indian Spirit \- Best In Lounge & Fusion](https://open.spotify.com/album/4AmtN0w852r7Qzz0bPBz4j) | 5:41 |
 | 50 | [Ayyappa Ashtakam](https://open.spotify.com/track/0D4ihckiXf3dIKhBm2YXaH) | [Sitar Heroes](https://open.spotify.com/artist/4HrMXro3GNDu8YBAjc9doe) | [Buddha Sitar Favorites](https://open.spotify.com/album/2kCpZPBUMJVjBavzZcc6qO) | 2:52 |
 
-Snapshot ID: `MCxhMzEyYmZmZGFlN2QyYWVlMTc4N2RiZTE1MTU1NmVlN2EwZDMxYWQ5`
+Snapshot ID: `MCw4MDU2ZGNkNTUwY2MxNzJiMWQ3Njk2MWQyOWIyNzE1YzllNmM4ZDA0`

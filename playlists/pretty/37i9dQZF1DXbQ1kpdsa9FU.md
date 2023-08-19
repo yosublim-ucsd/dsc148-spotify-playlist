@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,672 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,795 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 23 | [Rescue Story](https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:57 |
 | 24 | [The Father's House \- Studio](https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [The Father's House](https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M) | 4:13 |
 | 25 | [Confidence](https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:01 |
-| 26 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
+| 26 | [Holy Water](https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:02 |
 | 27 | [No Longer Slaves \(Spontaneous\) \- Live](https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 6:13 |
-| 28 | [Holy Water](https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:02 |
+| 28 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
 | 29 | [Tremble \- Studio Version](https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unknown \- EP](https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod) | 3:03 |
 | 30 | [Who Am I](https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:27 |
 | 31 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 46 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 |
 | 47 | [Oh My Soul](https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 4:15 |
 | 48 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
-| 49 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
-| 50 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
-| 51 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
-| 52 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
+| 49 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
+| 50 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
+| 51 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
+| 52 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
 | 53 | [Voice of Truth](https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 5:23 |
 | 54 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 |
 | 55 | [The God Who Stays](https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 95 | [Build My Life \- Live](https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:39 |
 | 96 | [Strong Enough](https://open.spotify.com/track/3b6yQRfPf0wPiEKCTA46ZO) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Story Of Your Life](https://open.spotify.com/album/53FZR7fpE4NarQjLLB6h39) | 4:03 |
 | 97 | [He Reigns](https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Adoration](https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig) | 4:55 |
-| 98 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
-| 99 | [Live Like That](https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Live Like That](https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38) | 3:57 |
+| 98 | [Live Like That](https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Live Like That](https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38) | 3:57 |
+| 99 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
 | 100 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 
-Snapshot ID: `MCw2MTcwMDg3MDM1ZDNkYWY2NDYwNTQ1YTE4ZWMzMDBiZmRmMDY4NjQw`
+Snapshot ID: `MCxkNGJmZWZkY2E4ZTE4MjNhNDdkYmY5YmJjNjhiNThlY2E3MjY1NDU4`

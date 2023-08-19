@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,479 likes - 125 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,857 likes - 125 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 124 | [Soñe Contigo](https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Cumbias de Colección](https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw) | 4:03 |
 | 125 | [Fue En Diciembre](https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9) | [Arturo Jaimes Y Los Cantantes](https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx) | [El Sonido Joven De La Cumbia](https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr) | 3:31 |
 
-Snapshot ID: `MCw2ZGU0ZGIyYzA0MWI2ZDQ5MGY0ZGM0ZjBkMDM2ZTkwNjA5NzVkYWQ1`
+Snapshot ID: `MCwyNmJmYWE2Njk1NzA3NDdjMzE4YWZiNWQ2NzNmNzc0ODU3MTgzYWNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,304 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,481 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 124 | [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 |
 | 125 | [El Negro José](https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2) | [El Combo Palacio](https://open.spotify.com/artist/3aBcVktPy5mssT2slj5kC7), [Los Virtuosos De La Salsa](https://open.spotify.com/artist/1q9QXB3clbcfukhyR5aLub) | [Nuevamente! Salsas y Cumbias](https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ) | 4:12 |
 
-Snapshot ID: `MCxkN2M1MjMzNjEwNzBlMWUyZDJmZWVhNDkyOTAxYjZiNGQ1YzRmOTk4`
+Snapshot ID: `MCwxMGY5YzlhYTdhN2QwNDgyYTg1OTNlYTM4ZDU3NjdkNDI0MmY2YzI1`

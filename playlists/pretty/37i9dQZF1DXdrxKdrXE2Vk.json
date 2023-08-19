@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 881363,
+  "num_followers": 881467,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTVkZTNlODZmMDQ2MjExZjA0ZGI3ZGI4ZWJkZWVkNTI2NGU0MTY4",
+  "snapshot_id": "MCxmZTQ3MTMxY2UyYjA0NDZlZWQxNDc1ZTI2ZmQ0ZWE5YzRjZDBhOTJh",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1007,30 +1007,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/3UnE167OVsZRrpookBftI5"
+        "name": "Praise Opens Prison Doors (Live)",
+        "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
       },
       "artists": [
         {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 624840,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC"
+      "duration_ms": 323051,
+      "name": "Praise Opens Prison Doors - Live",
+      "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1079,18 +1067,30 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Praise Opens Prison Doors (Live)",
-        "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/3UnE167OVsZRrpookBftI5"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 323051,
-      "name": "Praise Opens Prison Doors - Live",
-      "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
+      "duration_ms": 624840,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
-      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Thin Place (Live)",
         "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 376541,
       "name": "Thin Place - Live",
       "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
+      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Revival Nights (Pt. 2) [Live]",
+        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Hurry - Live",
+      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Live At The Manor",
         "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
       },
@@ -1891,22 +1907,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Revival Nights (Pt. 2) [Live]",
-        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Hurry - Live",
-      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Greater (Live)",
         "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
       },
@@ -1919,6 +1919,30 @@
       "duration_ms": 400897,
       "name": "Victory Of Jesus - Live",
       "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Overcome (Live)",
+        "url": "https://open.spotify.com/album/2OsBS9sG3MzMDpLj9n7m0j"
+      },
+      "artists": [
+        {
+          "name": "Metro Life Worship",
+          "url": "https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK"
+        },
+        {
+          "name": "Mary Alessi",
+          "url": "https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2"
+        },
+        {
+          "name": "Steph Alessi Mui\u00f1a",
+          "url": "https://open.spotify.com/artist/0YyhKuzuNV2wAYKkBKx5Gd"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Victorious (Live)",
+      "url": "https://open.spotify.com/track/2WevAGXIXkcu96nNoP7S5v"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1947,30 +1971,6 @@
       "duration_ms": 304000,
       "name": "For My Good - Live",
       "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Overcome (Live)",
-        "url": "https://open.spotify.com/album/2OsBS9sG3MzMDpLj9n7m0j"
-      },
-      "artists": [
-        {
-          "name": "Metro Life Worship",
-          "url": "https://open.spotify.com/artist/7KkrNnMiMaKtIY87vYGGNK"
-        },
-        {
-          "name": "Mary Alessi",
-          "url": "https://open.spotify.com/artist/2UIP3nP9br1L5Gu2OFE5F2"
-        },
-        {
-          "name": "Steph Alessi Mui\u00f1a",
-          "url": "https://open.spotify.com/artist/0YyhKuzuNV2wAYKkBKx5Gd"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Victorious (Live)",
-      "url": "https://open.spotify.com/track/2WevAGXIXkcu96nNoP7S5v"
     }
   ],
   "unique_name": "Best of Live Worship",

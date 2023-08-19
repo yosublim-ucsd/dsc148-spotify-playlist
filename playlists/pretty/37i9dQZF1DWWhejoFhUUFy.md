@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,927 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,098 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind \- Single](https://open.spotify.com/album/26VsSu066lK8UdTTiz7JVe) | 3:28 |
 | 75 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 |
 
-Snapshot ID: `MCxjMWI2MWQyYWVhYTVhN2UzYzMzODMwMDhlYTA2MjY2OWM4OGVjNGM5`
+Snapshot ID: `MCw0N2YyMDIwYzVmZjRkMTU1MmM0MzAyY2VjZjNmYWQ4YmEyYjVlZTY2`

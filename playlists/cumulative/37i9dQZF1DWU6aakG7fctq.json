@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: M\u00e9ne",
+  "description": "Fresh Latin Indie. Cover: Ale Fdz",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 167843,
       "name": "Aunque nunca te lo diga",
       "url": "https://open.spotify.com/track/3bknyaIwxNamskujz37Gom"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 210187,
       "name": "El Principal",
       "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
@@ -3881,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/0dr8b2KU2k223uuOq5qGK1"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278839,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/6npK9NwM38YEoFeHvB6m5W"
+    },
+    {
+      "album": {
         "name": "LUV",
         "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
       },
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 199786,
       "name": "Memorias",
       "url": "https://open.spotify.com/track/10lioNEUsuH1Jk3qDTsGCA"
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM"
@@ -5296,7 +5314,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 144960,
       "name": "ojitos caramelo - Remix",
       "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
@@ -5745,6 +5763,24 @@
     },
     {
       "album": {
+        "name": "volumen dos",
+        "url": "https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187504,
+      "name": "Pienso en Ti",
+      "url": "https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF"
+    },
+    {
+      "album": {
         "name": "poco a poquito",
         "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
       },
@@ -5858,7 +5894,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 258579,
       "name": "Prenda del Alma - Spotify Singles",
       "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
@@ -5916,7 +5952,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 213990,
       "name": "P\u00e9rdida Total",
       "url": "https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP"
@@ -6188,7 +6224,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 211922,
       "name": "Regresar",
       "url": "https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ"
@@ -7286,7 +7322,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 190320,
       "name": "tiempo",
       "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
@@ -7463,6 +7499,32 @@
     },
     {
       "album": {
+        "name": "Todo Me Habla De Ti",
+        "url": "https://open.spotify.com/album/18pRA0lJOgkP2G2Zr5yiy8"
+      },
+      "artists": [
+        {
+          "name": "BOH",
+          "url": "https://open.spotify.com/artist/6hGotCIV3f8qF7fhhwXAZ9"
+        },
+        {
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+        },
+        {
+          "name": "Andy Rivero",
+          "url": "https://open.spotify.com/artist/1ZDVkkAF9YyDQDraIKyPPI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231251,
+      "name": "Todo Me Habla De Ti",
+      "url": "https://open.spotify.com/track/3bRixUBZ5KZ5puYk4PmNpT"
+    },
+    {
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
       },
@@ -7625,6 +7687,28 @@
     },
     {
       "album": {
+        "name": "TUYO",
+        "url": "https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ"
+      },
+      "artists": [
+        {
+          "name": "Inzul",
+          "url": "https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp"
+        },
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189232,
+      "name": "TUYO",
+      "url": "https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF"
+    },
+    {
+      "album": {
         "name": "T\u00fa Me Dejaste de Querer (Tigre Den Session)",
         "url": "https://open.spotify.com/album/5WaKQ4jWa5DP6AjwukSThj"
       },
@@ -7770,7 +7854,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 329068,
       "name": "Un lazo rojo, un agujero (feat. Kase O)",
       "url": "https://open.spotify.com/track/4tHXURNyAQZewk2LQI0YCE"

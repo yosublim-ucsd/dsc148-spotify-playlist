@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,608 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,747 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 |
 | 100 | [running back](https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [running back / dirt on ‘em](https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt) | 3:07 |
 
-Snapshot ID: `MCxkZjcxNzEyNzJlZDg4OTcxOTljMmM4NWZiMTBlNzQ4MWQ0MDU1Y2Zm`
+Snapshot ID: `MCxhN2NlMDFhMGYwMjczYWVlOGE5N2NiYmFkNDkyMTU0Yjc5MjdkNjY5`

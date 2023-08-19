@@ -1,12 +1,12 @@
 {
   "description": "Your new favourite songs! Cover: Guy Sebastian",
-  "num_followers": 61108,
+  "num_followers": 61215,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjY2N2M5NDdkMjgyZTc2NTY5YjViZmE2Mzk4YTlkNTk0ZjlmOGUz",
+  "snapshot_id": "MCw4OGJiYmY3NDg2YTY5MmY3NTNkYTljZDI1ODc1OTc3MDIzM2E5NTQy",
   "tracks": [
     {
       "added_at": "2023-08-17 14:00:00",
@@ -147,6 +147,26 @@
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "added_at": "2023-08-17 14:00:00",
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
     },
     {
       "added_at": "2023-08-17 14:00:00",

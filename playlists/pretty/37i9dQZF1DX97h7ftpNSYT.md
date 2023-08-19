@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,431 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,601 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Outside Today](https://open.spotify.com/track/3sA7HKGzcKTVscdiTCrWpX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 2:09 |
 | 100 | [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 |
 
-Snapshot ID: `MCxjZjE1NDA0NDA2MWEzZTZjZDRlZTkyOWQ3ZGYyYTk4NzAxNzU0MTdk`
+Snapshot ID: `MCxmMjhhYzBkOWYwZDc5OTllYzdkNmE5Y2Q4MGY1NTAwNWRiMzEzMDVj`

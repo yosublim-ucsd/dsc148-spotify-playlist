@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,333 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,535 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 |
 | 100 | [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 |
 
-Snapshot ID: `MCxkMTFlOWJhN2YxNTgzNzRjZDIyMWJjMThhZTNiMDNmNThlYjI1MGU0`
+Snapshot ID: `MCw5MjU0MDkyNzRjN2Q5MTQwMzc3ZDM1OGJjYjI2ODcxZjcyOTgyN2Iw`

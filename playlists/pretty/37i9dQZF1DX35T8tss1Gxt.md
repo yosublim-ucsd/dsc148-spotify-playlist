@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,845 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,968 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Exodus](https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 3:00 |
 | 100 | [I'll Praise](https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [I'll Praise](https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4) | 2:40 |
 
-Snapshot ID: `MCxjYTlkY2RhODA3NTBiNzEzYWIyZDk2YzU5MjY5YjYzYzAwOTU0YWQx`
+Snapshot ID: `MCxmNWNiYjFiZjM5YmIzZGUxNTI1NTg0NjgwYWM1ZGJlNWVhOTljNDMx`

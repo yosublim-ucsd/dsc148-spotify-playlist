@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v?si=GakCG2xPSeauG5aFjHfGWA">Quiz Tha Great</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,521 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,544 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 |
 | 50 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
 
-Snapshot ID: `MCwzZWJmNTg4MTIwNTk4ZWJkM2FiMjVlODU4NTlkODhjMzI0MzUyOWM5`
+Snapshot ID: `MCxkNjdjODc0NzQ2MjAyZmExZDBkNmY0NjgyMzk0MzhkOGUxOTNiYjg5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Evelyne Brochu",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aya Nakamura",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 250120,
       "name": "25 G",
       "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 126506,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x"
@@ -3528,6 +3528,24 @@
       "duration_ms": 243204,
       "name": "Bisou L\u00e9tal",
       "url": "https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP"
+    },
+    {
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
     },
     {
       "album": {
@@ -4432,7 +4450,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
@@ -6801,6 +6819,28 @@
     },
     {
       "album": {
+        "name": "Combien \u00e7a co\u00fbte",
+        "url": "https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163978,
+      "name": "Combien \u00e7a co\u00fbte",
+      "url": "https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP"
+    },
+    {
+      "album": {
         "name": "Come and go",
         "url": "https://open.spotify.com/album/6Xy7zPLdpCdZ1GIOxxojNU"
       },
@@ -9126,7 +9166,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 167573,
       "name": "Djo",
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
@@ -10794,7 +10834,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 251266,
       "name": "Entra\u00eenement",
       "url": "https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz"
@@ -10998,7 +11038,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 174765,
       "name": "Espoir",
       "url": "https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG"
@@ -14158,7 +14198,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 303644,
       "name": "hollywood life",
       "url": "https://open.spotify.com/track/6HShlHseLqm2OMZHCXrDfM"
@@ -20380,7 +20420,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 196725,
       "name": "Les choses qu'on fait",
       "url": "https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC"
@@ -20402,6 +20442,24 @@
       "duration_ms": 198266,
       "name": "Les c\u0153urs sur la plage",
       "url": "https://open.spotify.com/track/5imV5MFC9DWMezCz1ewL4Y"
+    },
+    {
+      "album": {
+        "name": "Les Daisy / Quatre v\u00e9rit\u00e9s sur la jalousie",
+        "url": "https://open.spotify.com/album/6HcIOCNziM4rlTG1dhIHZe"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137293,
+      "name": "Les Daisy",
+      "url": "https://open.spotify.com/track/79RauCvHAGvcYT4DJoHmMv"
     },
     {
       "album": {
@@ -21290,7 +21348,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 202106,
       "name": "London Fever",
       "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
@@ -24017,6 +24075,24 @@
     },
     {
       "album": {
+        "name": "30\u00ba",
+        "url": "https://open.spotify.com/album/5cQjwwloSCbzEEFh9fLAuw"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123908,
+      "name": "MOTOMAMI",
+      "url": "https://open.spotify.com/track/7mdMJNBm9Ufi2yybr49DNT"
+    },
+    {
+      "album": {
         "name": "Mouiller Le Maillot",
         "url": "https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm"
       },
@@ -24170,7 +24246,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 148474,
       "name": "MVP",
       "url": "https://open.spotify.com/track/2dG5OE5ofzkluh4V9A2RFz"
@@ -24500,6 +24576,24 @@
       "duration_ms": 212461,
       "name": "N'accordez pas vos guitares ce soir",
       "url": "https://open.spotify.com/track/5yHSImtwXPkC90GolxZJtx"
+    },
+    {
+      "album": {
+        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
+        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "N'importe O\u00f9 Sauf Ici",
+      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
     },
     {
       "album": {
@@ -29507,6 +29601,24 @@
     },
     {
       "album": {
+        "name": "Rappelle-toi",
+        "url": "https://open.spotify.com/album/37r0lWCrwuYEB5RSw2wVba"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Rappelle-toi",
+      "url": "https://open.spotify.com/track/3AXg6pyKrtAeLQicqPGr99"
+    },
+    {
+      "album": {
         "name": "RDP",
         "url": "https://open.spotify.com/album/3UwnArHpmB61a4WDqnktXQ"
       },
@@ -31048,7 +31160,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 163034,
       "name": "Salement",
       "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
@@ -31106,6 +31218,24 @@
       "duration_ms": 165693,
       "name": "Sandwich aux tomates",
       "url": "https://open.spotify.com/track/7mxUcpsSjIuTSjiTUGFWEa"
+    },
+    {
+      "album": {
+        "name": "Sandy",
+        "url": "https://open.spotify.com/album/7xplnZSEdsGyiOU2QBQXzi"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165407,
+      "name": "Sandy",
+      "url": "https://open.spotify.com/track/1szKZnGxBmd1JgMzPEzF8G"
     },
     {
       "album": {
@@ -33579,6 +33709,24 @@
     },
     {
       "album": {
+        "name": "Tache d'encre",
+        "url": "https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d"
+      },
+      "artists": [
+        {
+          "name": "Valse Fr\u00e9quence",
+          "url": "https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192977,
+      "name": "Tache d'encre",
+      "url": "https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z"
+    },
+    {
+      "album": {
         "name": "Tailler la route",
         "url": "https://open.spotify.com/album/3s91oeMeDBxVZ3kv62wJC8"
       },
@@ -35806,7 +35954,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
@@ -37919,6 +38067,28 @@
     },
     {
       "album": {
+        "name": "\u00c0 la rencontre de Barbara (feat. Standard Emmanuel)",
+        "url": "https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        },
+        {
+          "name": "Standard Emmanuel",
+          "url": "https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333089,
+      "name": "\u00c0 la rencontre de Barbara (feat. Standard Emmanuel)",
+      "url": "https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT"
+    },
+    {
+      "album": {
         "name": "\u00c0 la t\u00eate du monde",
         "url": "https://open.spotify.com/album/0hRslk316odnBngGPsjaFE"
       },
@@ -38462,7 +38632,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 166385,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"

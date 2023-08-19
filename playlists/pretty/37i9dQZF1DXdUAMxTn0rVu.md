@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Dilated Peoples
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,542 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,854 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 31 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
 | 32 | [Brown Skin Lady](https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:46 |
 | 33 | [Battle Cry](https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Army Of The Pharaohs](https://open.spotify.com/artist/13FswnDmTIttTpiK9PS0BI), [Apathy](https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS), [King Syze](https://open.spotify.com/artist/3b6EyI9X9TQqEydURC7W1c), [Crypt The Warchild](https://open.spotify.com/artist/5R3Drc8FmPbDKmGK8LNIrh), [Des Devious](https://open.spotify.com/artist/4foaZrkZMdUnXtiCGNZ0wS), [The Esoteric](https://open.spotify.com/artist/1z9jhO27qA8sIgwR4aZUAm), [Chief Kamachi](https://open.spotify.com/artist/2KrFLjILMBg3cf4TW8nTrr), [Planetary](https://open.spotify.com/artist/3tP3kbF0Echadhj6fLbCu8), [Celph Titled](https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS), [Vinnie Paz](https://open.spotify.com/artist/3rExe3A3FzAmYDlQuvW2Wx) | [The Torture Papers](https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs) | 6:06 |
-| 34 | [Scary Moves](https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 3:45 |
+| 34 | [Scary Movies](https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 3:45 |
 | 35 | [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 |
 | 36 | [Get Dis Money](https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
 | 37 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 50 | [Answers](https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP), [Quasimoto](https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 4:43 |
 
-Snapshot ID: `MCwzZjc2YWViODdkNWE5YTNkYzNhZmE4YjFmMzJkY2IwNzE0OWY3M2Jl`
+Snapshot ID: `MCxiZDVmMjczNjYyZDAxZjE2MDkyYjU3MTA3NjRiODU3YjdhN2Y1MTkz`

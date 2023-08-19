@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:NAUL\(나얼\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,146 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,164 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 46 | [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 |
 | 47 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 |
 | 48 | [Maybe](https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Her Private Life \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g) | 3:48 |
-| 49 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 |
-| 50 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
+| 49 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
+| 50 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 |
 | 51 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 52 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 |
 | 53 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 67 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 |
 | 68 | [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 |
 | 69 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 |
-| 70 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
-| 71 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
+| 70 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
+| 71 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
 | 72 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
 | 73 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
 | 74 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Starting Now](https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Starting Now](https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy) | 3:25 |
 | 100 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
 
-Snapshot ID: `MCxlYjdlN2UyODIzOGY5N2I3NTA3YzU2N2Q4M2U1MGJiNTkxZmJjNTBi`
+Snapshot ID: `MCxjZDY1MmZlZWI1NmM4MzM5ODQ4ZDUwZjY1NzI1ODljNDgwYzlmNmU4`

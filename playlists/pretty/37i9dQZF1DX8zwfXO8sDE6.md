@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,537 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,566 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
 | 50 | [流星都市](https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [HORO](https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4) | 3:53 |
 
-Snapshot ID: `MCxjZGNhZjY1NTZiOGMxY2VhNGQ2ZmY5YWFlOTQ1NDI0MjNmODk1OGI1`
+Snapshot ID: `MCw4YWFiZWQwNjYzYjJiNjg2M2FjNzZiYmUyZjA2ZGRmNjk1ZTkwNjQ3`

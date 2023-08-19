@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Miles Kane
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,451 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,473 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [Empire](https://open.spotify.com/track/17NF7bFPjLTCyG7mdoU9RN) | [Martha Hill](https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR) | [Empire](https://open.spotify.com/album/2zauc2kgGB5EB2CjsbPSyC) | 2:40 |
 | 100 | [Everyone's a Liar](https://open.spotify.com/track/0HrFnaw0MjTqa8YmxeXDys) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [We're Not Getting Any Younger](https://open.spotify.com/album/6xPfpbGCQSaACzi8yolcMz) | 4:22 |
 
-Snapshot ID: `MCxjMTgyOTY1MjI4OWFjMWMwZGZhYjZlYjk4OTcyYTA4ZGM0NjQzNzhm`
+Snapshot ID: `MCwyNWRhODUxNDRmYmU5MjUxZjQwZDBmY2I2YzQ4NGI1MWJjNjUwZTI5`

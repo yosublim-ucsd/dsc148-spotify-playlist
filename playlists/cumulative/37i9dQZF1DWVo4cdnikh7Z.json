@@ -4627,6 +4627,32 @@
     },
     {
       "album": {
+        "name": "Gandarabai (From \"Skanda\") (Tamil)",
+        "url": "https://open.spotify.com/album/5fC3JAPo3MX86M4HW0eA1Z"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Roshini JKV",
+          "url": "https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231755,
+      "name": "Gandarabai (From \"Skanda\") (Tamil)",
+      "url": "https://open.spotify.com/track/1TtNUw6g96A7jbOnp7i1lZ"
+    },
+    {
+      "album": {
         "name": "Glimpse of Antony Das (From \"Leo\")",
         "url": "https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF"
       },
@@ -4642,6 +4668,24 @@
       "duration_ms": 40223,
       "name": "Glimpse of Antony Das (From \"Leo\")",
       "url": "https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj"
+    },
+    {
+      "album": {
+        "name": "Glimpse of Harold Das (From \"Leo\")",
+        "url": "https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42782,
+      "name": "Glimpse of Harold Das (From \"Leo\")",
+      "url": "https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK"
     },
     {
       "album": {
@@ -16161,6 +16205,24 @@
     },
     {
       "album": {
+        "name": "Varisu Original Sound Track",
+        "url": "https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212582,
+      "name": "The Boss Returns",
+      "url": "https://open.spotify.com/track/4xH4HmpW4NnzlJHdwzITDE"
+    },
+    {
+      "album": {
         "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [TAMIL]",
         "url": "https://open.spotify.com/album/68x7p0BGFKXNrGSNGMUHBy"
       },
@@ -16240,10 +16302,44 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 315815,
       "name": "The Layers Of Shawarma (From \"Halal Shawarma\")",
       "url": "https://open.spotify.com/track/1YL6wsXd8yuE8DuIOccE9a"
+    },
+    {
+      "album": {
+        "name": "The Layers of Shawarma (From \"Halal Shawarma\")",
+        "url": "https://open.spotify.com/album/5IRSH3cOvGpDsQNsdzindV"
+      },
+      "artists": [
+        {
+          "name": "Barath Dhanasekar",
+          "url": "https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD"
+        },
+        {
+          "name": "Sudharsan Ram",
+          "url": "https://open.spotify.com/artist/66wBNPC8tutPBOpdiVyDz7"
+        },
+        {
+          "name": "Akshara Shritharan",
+          "url": "https://open.spotify.com/artist/5o9WjLuc4K9Rwi0Mab4t6u"
+        },
+        {
+          "name": "Hemanth Prakash",
+          "url": "https://open.spotify.com/artist/1SrPlvt54rbwvrw3350eOM"
+        },
+        {
+          "name": "David Pope",
+          "url": "https://open.spotify.com/artist/6lkUkkduSeG9yFVMjG5W9R"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315815,
+      "name": "The Layers of Shawarma (From \"Halal Shawarma\")",
+      "url": "https://open.spotify.com/track/5oHAqoUxLt96jZuEHbjU4m"
     },
     {
       "album": {

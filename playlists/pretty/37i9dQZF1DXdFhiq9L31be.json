@@ -1,12 +1,12 @@
 {
   "description": "Stripped back recordings like nothing you\u2019ve heard before.  Cover: FINNEAS. ",
-  "num_followers": 157571,
+  "num_followers": 157603,
   "original_name": "Spotify Singles: Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzYwMGUxOTdhMGRlM2MyZWI3YzRiM2Q3MmZiZTVmZjNlMTRlNGRl",
+  "snapshot_id": "MCwwNjBiOTQ1ZGRmZTcwODQ2NDJjMjVhNzQ2YjZmN2JiOGI2MTAwNWI2",
   "tracks": [
     {
       "added_at": "2023-01-11 22:26:00",
@@ -224,22 +224,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Fool's Gold - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
@@ -251,6 +235,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -304,6 +304,26 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+        }
+      ],
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
       },
       "artists": [
@@ -331,26 +351,6 @@
       "duration_ms": 183052,
       "name": "Stand by Me - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
-        }
-      ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -792,22 +792,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -819,6 +803,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -872,22 +872,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "2002 - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
       },
       "artists": [
@@ -899,6 +883,22 @@
       "duration_ms": 346397,
       "name": "Hallelujah - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 192146,
+      "name": "2002 - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1212,22 +1212,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 277113,
-      "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT"
       },
       "artists": [
@@ -1239,6 +1223,22 @@
       "duration_ms": 247767,
       "name": "Shape of You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 277113,
+      "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
     },
     {
       "added_at": "2023-01-11 22:26:00",

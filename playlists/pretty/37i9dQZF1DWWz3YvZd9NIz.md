@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,012 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,598 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
 | 70 | [Piece Of Your Heart](https://open.spotify.com/track/6eKDe6Oqwi4EhvsPtedAkj) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Piece Of Your Heart](https://open.spotify.com/album/4SvoV3wiMl2MTqTCYtwLHj) | 2:44 |
 
-Snapshot ID: `MCwyMjg0N2YyOGI5YWFjMmRhMmYxODE3YWZlOWFhYTMwZjQzZjlhOTE2`
+Snapshot ID: `MCxkOWU3YzdlNGFjNjcxMDVhZmFkZThhZDk4MTQ1ZTVkODY4NzFmYTJm`

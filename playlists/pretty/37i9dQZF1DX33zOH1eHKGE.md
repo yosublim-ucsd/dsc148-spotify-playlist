@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,389 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,416 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 97 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
 | 98 | [Rather Be Alone](https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Rather Be Alone](https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo) | 2:17 |
 | 99 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
-| 100 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 |
+| 100 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 |
 
-Snapshot ID: `MCwyZDI5NjMxM2Q0ODNmYTkzYzkxODhmODdhZjNhYjE2ZDg4ZjAzZTEx`
+Snapshot ID: `MCxkMGVlZDQzOTkxODIxNjEyMzVkNTA5ZWMyMDhkOGFmY2UxMTU0OGE3`

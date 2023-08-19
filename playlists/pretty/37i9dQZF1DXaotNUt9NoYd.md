@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,204 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,232 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 74 | [Om Zone 2.0 \- XIV](https://open.spotify.com/track/3tOpCsBzhi5I2ZyZpk1Ven) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [In the Om Zone 2.0](https://open.spotify.com/album/5GHnyBPAznBKbWccswmDKb) | 4:07 |
 | 75 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 
-Snapshot ID: `MCxkNDA1MDZhZDFhYzg2ZWFjODNkZDMxNDIzOTA3YzNiODQ4MTE0YjYw`
+Snapshot ID: `MCw3NThkOWJiYzgzYTBjMTNkOWI2Y2M1MzQyNjZiNTgwZDIzMTMwYTVj`

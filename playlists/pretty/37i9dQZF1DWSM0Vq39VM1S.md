@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,237 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,327 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 59 | [Terms & Conditions](https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Terms & Conditions](https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B) | 4:04 |
 | 60 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 
-Snapshot ID: `MCxlODZhODNmZGE0NTY2ZjBkZWVjOWQ0YmJhNDE1ZjZkMTdlMTkxMWUx`
+Snapshot ID: `MCwwZjcyNTcxNTMzZDdmMDNmM2Q2OTg5ODhjZDc3N2MwNmQwZmIwZTI2`

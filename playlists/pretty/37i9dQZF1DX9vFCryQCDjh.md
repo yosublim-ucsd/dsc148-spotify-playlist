@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,353 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,367 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 99 | [Chivalry](https://open.spotify.com/track/1MEl32IpYcMhaExr6Mq1bv) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Welcome To The Sechskies Land](https://open.spotify.com/album/34MZoibtbiSndywYTeCiHm) | 3:43 |
 | 100 | [Hey, Hey, Hey](https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 'True' Live \(Live\)](https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW) | 2:55 |
 
-Snapshot ID: `MCw2YjcxN2JiMWMzMTdhYzk4NjJiNzc3MDU1ZDVlOThhN2U2NGRlNzc0`
+Snapshot ID: `MCwyMjg0ZGZiOTNhMDI1ZmFhMjFiMGMwNDA5YWM2ZGRkY2JjZjZlNTdm`

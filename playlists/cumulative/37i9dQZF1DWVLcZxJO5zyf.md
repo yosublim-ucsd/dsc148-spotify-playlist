@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Luísa Sonza
 
-224 songs - 10 hr 22 min
+225 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [OH MOÇA!](https://open.spotify.com/track/23OJkU2mXHEY1iUIuzMinl) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy), [Fraga](https://open.spotify.com/artist/6WPfa3cpGOhlD4tXc6a9ke) | [OH MOÇA!](https://open.spotify.com/album/2wqwUCvxzj4StPquAdKpcN) | 3:55 | 2022-02-18 | 2022-03-18 |
 | [Olha Bela](https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Olha Bela](https://open.spotify.com/album/2H84den6cdw9vICRQfwav0) | 2:49 | 2023-02-03 | 2023-07-15 |
 | [OLHADINHA](https://open.spotify.com/track/0pOZWyXIqROnYI24H5AVsk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [OLHADINHA](https://open.spotify.com/album/5pu94Dk34XMqa8sTKft31Z) | 2:17 | 2022-10-14 | 2023-05-27 |
-| [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 | 2023-04-28 |  |
+| [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 | 2023-04-28 | 2023-08-19 |
 | [paixão vs amor](https://open.spotify.com/track/739cbHTqihOPlsGal5yfOk) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [paixão vs amor](https://open.spotify.com/album/50tRqPMQ0sUUXX4CKUXoHB) | 2:44 | 2022-09-23 | 2022-10-04 |
 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 | 2022-01-14 | 2022-11-12 |
 | [Peladão](https://open.spotify.com/track/3caNKH8iIGI7ngHwvIm8ee) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Peladão](https://open.spotify.com/album/4dr9NN7voj2HlMym9MNbif) | 2:29 | 2022-01-14 | 2022-02-19 |
@@ -169,6 +169,7 @@
 | [Quase Não Namoro](https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quase Não Namoro](https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC) | 2:15 | 2023-08-04 |  |
 | [Que Rabão \(feat\. Mr\. Catra e YG\)](https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:56 | 2022-04-13 | 2023-02-11 |
 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 |  |
+| [Que Tal](https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:10 | 2023-08-18 |  |
 | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/track/707X30zRZYb1HYe1BtiY69) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/album/3mX5V5Jbliy12mrafRMzfs) | 2:20 | 2022-01-14 | 2022-08-13 |
 | [Radar](https://open.spotify.com/track/0V4LaOkdQm1sJwNerXcxMl) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 3:02 | 2022-01-14 | 2022-07-29 |
 | [Radar](https://open.spotify.com/track/5l4GTT4tLccGiZE3KGjlg4) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/1uyLEC5sd3Mdyvu0iCvirh) | 3:02 | 2022-07-22 | 2022-12-24 |

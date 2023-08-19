@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 179200,
       "name": "Baile",
       "url": "https://open.spotify.com/track/4YJ1XOQF5kywDHybuInr3P"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 187008,
       "name": "Eu N\u00e3o Vou Parar",
       "url": "https://open.spotify.com/track/5x8BQnx8fWDWrGPlLX2d7t"
@@ -2506,6 +2506,28 @@
       "duration_ms": 299154,
       "name": "Jhony Convida #7 - Preto$",
       "url": "https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ"
+    },
+    {
+      "album": {
+        "name": "Jogad\u00e3o",
+        "url": "https://open.spotify.com/album/6G8kIWNUmiTU8Jfw0ljpBO"
+      },
+      "artists": [
+        {
+          "name": "Udoisd",
+          "url": "https://open.spotify.com/artist/1eNdB58hZ2Qv8kJRAATf6G"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Jogad\u00e3o",
+      "url": "https://open.spotify.com/track/4zNnZ8ERpnPfin85z4Aw40"
     },
     {
       "album": {
@@ -3564,6 +3586,32 @@
       "duration_ms": 96406,
       "name": "Pelo Pr\u00eamio",
       "url": "https://open.spotify.com/track/34CYVPnt9dScRgj0R1hSFN"
+    },
+    {
+      "album": {
+        "name": "Perigoso & Po\u00e9tico",
+        "url": "https://open.spotify.com/album/1jwDa3vCAWxuQSZgoBi5zc"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T",
+          "url": "https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ"
+        },
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Tha Killah BTZ",
+          "url": "https://open.spotify.com/artist/52gb6c8Wm4lEY4G59c6enb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "Perigoso & Po\u00e9tico",
+      "url": "https://open.spotify.com/track/526qIjrPsChCx4cHKRdDEc"
     },
     {
       "album": {

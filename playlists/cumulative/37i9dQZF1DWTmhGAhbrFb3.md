@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-316 songs - 15 hr 41 min
+317 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Nightrain](https://open.spotify.com/track/3qNtyx6HFRRFsj4wF5vslr) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Fauna](https://open.spotify.com/album/300oF5rPceFBu1MQQsLQjv) | 2:36 | 2023-04-06 |  |
 | [No me despiertes](https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [No me despiertes](https://open.spotify.com/album/2ZiLz7HnpiTwkZiP3ZW7gF) | 3:07 | 2023-04-06 |  |
 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2023-04-06 |  |
+| [Nocturnal](https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Nocturnal](https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH) | 2:52 | 2023-08-18 |  |
 | [Nocturnal Vibes](https://open.spotify.com/track/5OhMr3bntCGijbYyib6rJp) | [Aron Joyce](https://open.spotify.com/artist/6KY3gZWJmTe3qIPaVoISYq) | [Nocturnal Vibes](https://open.spotify.com/album/4fFKwFxQkJ0uG3SzV5lkvt) | 3:18 | 2023-04-06 |  |
 | [Nosce Te Ipsum](https://open.spotify.com/track/2g2R5NSv8samoXVcj0NUeS) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Nosce Te Ipsum](https://open.spotify.com/album/2bbrUDGtRUsjw2n0PfFPTN) | 2:56 | 2023-04-06 |  |
 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 | 2023-04-06 |  |

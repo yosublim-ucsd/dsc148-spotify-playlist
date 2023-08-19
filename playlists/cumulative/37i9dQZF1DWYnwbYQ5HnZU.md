@@ -2,7 +2,7 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Dierks Bentley
+> We're celebrating the 20th anniversary of Dierks Bentley's self\-titled debut album here on Country Gold!
 
 210 songs - 12 hr 1 min
 

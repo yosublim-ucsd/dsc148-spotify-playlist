@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWiyE9VDkCO.md) - [plain]
 
 > Hits zum Tanzen und Mitsingen \- von damals bis heute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,067 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,293 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWiyE9VDkCO.md) - [plain]
 | 149 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 | 150 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
 
-Snapshot ID: `MCw2ZmQ5NmMwMjM4ZTczMmY4YjYyZmVhMTE4MGY3ODVhZTE3ZTY4MWJk`
+Snapshot ID: `MCw3OWFkYjliYjFkMzE0YTYzMzJjNjI2MGE5NzEwNjkwMTA4ZTM0NTIx`

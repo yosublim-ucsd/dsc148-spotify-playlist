@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Adekunle Gold \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums. Cover: Aya Nakamura \ud83c\uddf2\ud83c\uddf1 ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0WYp1bHRFZdzS3yaIqSGUO"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190251,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/174PWcf9jFqxW60KACVAaX"
+    },
+    {
+      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 134482,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
@@ -1324,6 +1342,24 @@
       "duration_ms": 155094,
       "name": "Bingo",
       "url": "https://open.spotify.com/track/5wmsSNwC3j0iFLk0utUNNx"
+    },
+    {
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
     },
     {
       "album": {
@@ -2833,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Dirty Nights",
+        "url": "https://open.spotify.com/album/10SEyQdy8aBLJ2ZowCR4HS"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Dirty Nights",
+      "url": "https://open.spotify.com/track/0N2AfkjyJJj5mwoTPalU9h"
+    },
+    {
+      "album": {
         "name": "Disturbing U",
         "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
       },
@@ -4227,6 +4281,28 @@
     },
     {
       "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229339,
+      "name": "Hallelujah (feat. Lojay)",
+      "url": "https://open.spotify.com/track/0Zb004lei42rERugapZaSt"
+    },
+    {
+      "album": {
         "name": "Handle Me (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
       },
@@ -4304,6 +4380,36 @@
       "duration_ms": 230437,
       "name": "Hard Fete",
       "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
+    },
+    {
+      "album": {
+        "name": "Risk: Reloaded",
+        "url": "https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        },
+        {
+          "name": "WaveIQ",
+          "url": "https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Hate (feat. Lojay & Highlyy) - Remix",
+      "url": "https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS"
     },
     {
       "album": {
@@ -5324,7 +5430,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 215093,
       "name": "Kit\u00e9",
       "url": "https://open.spotify.com/track/714aK4Z7RopS0NxlPl0jmr"
@@ -6328,6 +6434,28 @@
       "duration_ms": 191987,
       "name": "Make Money",
       "url": "https://open.spotify.com/track/3jizQfYWac5dVIwdB1GwiO"
+    },
+    {
+      "album": {
+        "name": "MALI STAR",
+        "url": "https://open.spotify.com/album/2wMkKv89jvFXfhcyEHpZzM"
+      },
+      "artists": [
+        {
+          "name": "NAIIM",
+          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175330,
+      "name": "MALI STAR",
+      "url": "https://open.spotify.com/track/1KCJHE3S7k2fBRqErjgFeJ"
     },
     {
       "album": {
@@ -8750,7 +8878,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
@@ -9894,7 +10022,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 106666,
       "name": "Sold Out",
       "url": "https://open.spotify.com/track/0tsSie4eHruN6tUQglEG6q"
@@ -11236,7 +11364,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 126060,
       "name": "Tremor",
       "url": "https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX"
@@ -11869,6 +11997,28 @@
     },
     {
       "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196399,
+      "name": "We Nuh Fraid (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/55MHzfW0uQePBad1XtkChY"
+    },
+    {
+      "album": {
         "name": "Riddim Driven: Nookie 2k6",
         "url": "https://open.spotify.com/album/78JV0vXfLXZiM5wXYh9Otb"
       },
@@ -11960,6 +12110,28 @@
       "duration_ms": 165984,
       "name": "Weh She Want",
       "url": "https://open.spotify.com/track/5KjQRfjsocTxw5AJsQwZTh"
+    },
+    {
+      "album": {
+        "name": "Before the Smoke",
+        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143692,
+      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
     },
     {
       "album": {
@@ -12144,7 +12316,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"

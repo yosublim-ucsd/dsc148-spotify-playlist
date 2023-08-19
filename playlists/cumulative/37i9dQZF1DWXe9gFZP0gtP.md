@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient music.
 
-364 songs - 17 hr 57 min
+365 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-12-17 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-12-17 | 2022-11-12 |
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-17 |  |
-| [Chilling Silence](https://open.spotify.com/track/36P42TsHqV71AuPbVpo2wi) | [Osteriana](https://open.spotify.com/artist/1tTvqzD47dcgaRbQTNjgF2) | [Chilling Silence \(Ambient version\)](https://open.spotify.com/album/00y5lU1luPiTWHNTvrI4kd) | 2:31 | 2021-12-17 |  |
+| [Chilling Silence](https://open.spotify.com/track/36P42TsHqV71AuPbVpo2wi) | [Osteriana](https://open.spotify.com/artist/1tTvqzD47dcgaRbQTNjgF2) | [Chilling Silence \(Ambient version\)](https://open.spotify.com/album/00y5lU1luPiTWHNTvrI4kd) | 2:31 | 2021-12-17 | 2023-08-19 |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-01 |  |
 | [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 | 2023-04-13 |  |
 | [Circadian](https://open.spotify.com/track/3bb6awuqz2ZJggqGtvPVYE) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:52 | 2021-12-17 | 2022-04-22 |
@@ -134,6 +134,7 @@
 | [From Within](https://open.spotify.com/track/7bHRDcc88QugeXmnxm3bRM) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:14 | 2023-02-25 |  |
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2021-12-17 |  |
 | [Gentle Words](https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN) | [Sperenza](https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ) | [Gentle Words](https://open.spotify.com/album/1gEp3FcH0gC7gGJ4EbwCn0) | 4:03 | 2021-12-17 |  |
+| [Genuine](https://open.spotify.com/track/2wphU8R6VsGzZR7VTm3fyT) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Genuine](https://open.spotify.com/album/7CJcpmyHhhb3jEaYBP0Ekr) | 3:06 | 2023-08-18 |  |
 | [Glaciers](https://open.spotify.com/track/77VlInzvpsNl69mz2bVB5W) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Glaciers](https://open.spotify.com/album/0BDgPFL7CTLC6t0IoyzwJS) | 2:53 | 2021-12-17 |  |
 | [Glowing](https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glowing](https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l) | 2:13 | 2022-10-15 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-12-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,496 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,660 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
 | 100 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 |
 
-Snapshot ID: `MCw3Y2I4ZDZiZGM0Y2Y3NmE0MzkzNjcwYWFiMmE5NzA5MjQxNWViNjk5`
+Snapshot ID: `MCxkNGU2YTdjNDJiYjlkOGFiOWIyNWUyNTdlZGRlMGQ2NjhmMTA1YjUy`

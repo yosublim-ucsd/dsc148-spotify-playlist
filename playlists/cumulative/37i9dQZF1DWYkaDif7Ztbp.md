@@ -4,7 +4,7 @@
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=\_u0jVszkT22eOYoIu0q9ow"> Olamide </a>
 
-317 songs - 18 hr 59 min
+318 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-03 | 2022-06-24 |
 | [Awukhuzeki](https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Sobzeen](https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc) | [My Journey Continues](https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI) | 8:12 | 2023-04-07 | 2023-08-04 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-16 | 2022-06-17 |
-| [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2023-05-11 |  |
+| [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2023-05-11 | 2023-08-19 |
 | [Bad Girl \(feat\. Wande Coal and Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal and Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-28 | 2022-08-26 |
 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 | 2022-03-03 | 2022-04-08 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-15 | 2023-01-07 |
@@ -91,6 +91,7 @@
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2021-12-02 | 2022-09-26 |
 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 | 2023-01-06 | 2023-02-17 |
 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2021-12-02 | 2023-01-28 |
+| [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 | 2023-08-18 |  |
 | [Esquinas](https://open.spotify.com/track/27pyt2AP8sdMb3hlO9uY6p) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [BADIU](https://open.spotify.com/album/4fnko5FkT24IMwIzjB8ybH) | 3:03 | 2021-12-23 | 2022-01-14 |
 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 | 2021-10-22 | 2022-02-18 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-05-19 |

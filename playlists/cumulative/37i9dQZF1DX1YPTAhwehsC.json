@@ -1829,6 +1829,28 @@
     },
     {
       "album": {
+        "name": "Blood Moon (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Blood Moon (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
+    },
+    {
+      "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
@@ -2034,6 +2056,24 @@
       "duration_ms": 147692,
       "name": "Boy Ain't Mine",
       "url": "https://open.spotify.com/track/1wlm2FDfo5EVvlVST5SZ9O"
+    },
+    {
+      "album": {
+        "name": "Boy Oh Boy",
+        "url": "https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1"
+      },
+      "artists": [
+        {
+          "name": "Chinese Kitty",
+          "url": "https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117677,
+      "name": "Boy Oh Boy",
+      "url": "https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF"
     },
     {
       "album": {
@@ -5479,6 +5519,28 @@
     },
     {
       "album": {
+        "name": "Still Drenchin",
+        "url": "https://open.spotify.com/album/4Z1Rgqq0vk5bFGo9OOIejC"
+      },
+      "artists": [
+        {
+          "name": "26ar",
+          "url": "https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x"
+        },
+        {
+          "name": "Rocko Ballin",
+          "url": "https://open.spotify.com/artist/2nfqejhxPMiJPGf8d4fCjl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "GOTTA BE (feat. Rocko Ballin)",
+      "url": "https://open.spotify.com/track/4tyo4d8XntrKsT4fccDAvJ"
+    },
+    {
+      "album": {
         "name": "Gratuity",
         "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
       },
@@ -6209,6 +6271,28 @@
     },
     {
       "album": {
+        "name": "HVN ON EARTH",
+        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+    },
+    {
+      "album": {
         "name": "I Ain't Gon Lie",
         "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
       },
@@ -6478,7 +6562,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 103664,
       "name": "IdgaF",
       "url": "https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL"
@@ -7160,7 +7244,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 141307,
       "name": "KISHA",
       "url": "https://open.spotify.com/track/2EPSi6oWTyUdYFTDlb8EoP"
@@ -8868,7 +8952,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 160052,
       "name": "Murder She Wrote / Bam Bam",
       "url": "https://open.spotify.com/track/0pbz9oXY5HOZY50qeTZEyf"
@@ -10598,7 +10682,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
@@ -11028,6 +11112,28 @@
       "duration_ms": 120000,
       "name": "Punch Me In",
       "url": "https://open.spotify.com/track/7xf2UVEG08JHdBjaeU6qEE"
+    },
+    {
+      "album": {
+        "name": "Pup (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/2f3LlIcQZR3oXSifiomh3l"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "Pup (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et"
     },
     {
       "album": {
@@ -12774,7 +12880,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 142183,
       "name": "Slizzy Talk",
       "url": "https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn"
@@ -13434,7 +13540,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 165920,
       "name": "SUPERSEXXXYSUMMER",
       "url": "https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ"
@@ -15052,6 +15158,32 @@
       "duration_ms": 217815,
       "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
       "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5jSLWdWiktk0O4UQRX0Cf6"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4uBrX2f80YyvgwoIPnDMVP"
     },
     {
       "album": {

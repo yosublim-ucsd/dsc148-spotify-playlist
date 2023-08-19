@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,914 likes - 84 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,187 likes - 84 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 83 | [Left Right](https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Left Right](https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp) | 3:16 |
 | 84 | [Mansoob](https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mansoob](https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd) | 2:43 |
 
-Snapshot ID: `MCxiZjNmMTg3ZmMzN2NkYmMzMjY2ZGE5MGMzNDZjNDU2OWRlNmQxMGFm`
+Snapshot ID: `MCxjMzgzMDg1NmVkNWQ0ODFiZmM2M2VkYWI4YTEwMzkxOTg5NmEwZWNj`

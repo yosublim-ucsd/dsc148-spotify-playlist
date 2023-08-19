@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Maria Marçal
 
-122 songs - 9 hr 0 min
+123 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Até Que Tu Sejas o Primeiro \- Acústico](https://open.spotify.com/track/1JiUNbAkkAtmCQLuKcdGSc) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Arco e Flecha](https://open.spotify.com/artist/2MnCgdwSL1ujfSHwIvjjmm) | [Acústico, Vol\. 2](https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n) | 6:26 | 2022-09-02 | 2023-03-18 |
 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 | 2022-09-02 |  |
 | [Calvário \- Acústico](https://open.spotify.com/track/1iDULS2J3cedW8dNWk0XXX) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Calvário \(Acústico\)](https://open.spotify.com/album/4hqJjhLBxT06bavOHts4ei) | 5:32 | 2022-09-02 | 2022-10-01 |
-| [Celebrate Your Life](https://open.spotify.com/track/5q1B7rJb1YBAUSSG8yhzg6) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Secrets](https://open.spotify.com/album/2MwdKmNNzCnMap8cGFyoh7) | 4:31 | 2023-06-16 |  |
+| [Celebrate Your Life](https://open.spotify.com/track/5q1B7rJb1YBAUSSG8yhzg6) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Secrets](https://open.spotify.com/album/2MwdKmNNzCnMap8cGFyoh7) | 4:31 | 2023-06-16 | 2023-08-19 |
 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 | 2022-09-02 |  |
 | [Comigo Estás \- Ao Vivo](https://open.spotify.com/track/2eDcy7W8SCXkfe8IxdNu28) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Comigo Estás \(Ao Vivo\)](https://open.spotify.com/album/140QPFhB1nbMMbpW5jHXvn) | 4:49 | 2023-03-24 | 2023-05-13 |
 | [Como Será O Amanhã](https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Como Será O Amanhã](https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B) | 1:49 | 2023-04-28 |  |
@@ -123,6 +123,7 @@
 | [Tens Meu Coração](https://open.spotify.com/track/2U26JR0DawBOmdPZ44aIQB) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Tens Meu Coração](https://open.spotify.com/album/26sVPHIvF6MAd0KU3SOKEn) | 5:40 | 2022-09-02 | 2022-12-05 |
 | [Teus Sonhos \- Acústico](https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 2 \(Acústico\)](https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q) | 4:25 | 2022-09-02 |  |
 | [Tomou o Meu Lugar](https://open.spotify.com/track/4m27IBRu2hbprZK1iTtvgc) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Alisson Melo](https://open.spotify.com/artist/0KXjceqW1OcoZhMJ3kSN3d), [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Tomou o Meu Lugar](https://open.spotify.com/album/2FaHAoJgaGXFF5Z6fOlTLZ) | 6:50 | 2022-09-02 | 2023-02-04 |
+| [Troco](https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Troco](https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA) | 4:00 | 2023-08-18 |  |
 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 | 2022-09-02 |  |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê?](https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5) | 3:34 | 2022-09-02 |  |
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-02 | 2023-01-14 |

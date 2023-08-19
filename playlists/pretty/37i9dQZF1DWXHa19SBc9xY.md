@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,475 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,603 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 |
 | 85 | [Louco de Amor \- Acústica](https://open.spotify.com/track/5hGqmSotpJmMcZkyNYplZ6) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68), [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9) | [INTENSO \(Deluxe\)](https://open.spotify.com/album/39xQjzBnICugrn3SIPy3bJ) | 2:51 |
 
-Snapshot ID: `MCxmODE4ODE0NWYzNTliYWU0N2ZmMGFiOGY2MjNmYjgxMzcyNjI4ZGVl`
+Snapshot ID: `MCxjMzBkNjI4ODc0MjdjZWRhNGNkYjI1ODJlZDkxMzA0NGI1ZmU5MjU0`

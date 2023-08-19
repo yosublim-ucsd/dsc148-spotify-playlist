@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-435 songs - 21 hr 35 min
+436 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Dreamland](https://open.spotify.com/track/1Dv71hYl7XMbPonSYKqW5m) | [Beautiful Sleep](https://open.spotify.com/artist/4wapzvXqBROuuOhKmB0mxh) | [Night Hug](https://open.spotify.com/album/23Shp85L0ntMS24oZwE7ja) | 2:46 | 2021-11-10 |  |
 | [Dreams Of Delta](https://open.spotify.com/track/3PMP7s6o3dLLyHnsfqkUs5) | [Sleepy Moon](https://open.spotify.com/artist/2QRn1QIBN1ayOLFvAMVrIc) | [Dreams Of Delta](https://open.spotify.com/album/4ZrQvh2d4MCBp7imUjS3TT) | 4:17 | 2021-11-10 |  |
 | [Dreams of the Milky Way](https://open.spotify.com/track/55MCIV8vcsHVz2ECaveJpT) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Dreams of the Milky Way](https://open.spotify.com/album/0KVbigs9HOU9c16GRmrZew) | 2:05 | 2021-11-10 |  |
+| [Dreamy Eyes](https://open.spotify.com/track/5gJCdXKisDBOrXvnwAaQy9) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Dreamy Eyes](https://open.spotify.com/album/2q6DxzKZFYOk6KFB2Rfbhw) | 3:05 | 2023-08-18 |  |
 | [Drifting Apart](https://open.spotify.com/track/7AEDjEJ3rLenGvEMTBPPzR) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [Drifting Apart](https://open.spotify.com/album/6GC2XURqR2OkYOWjlCRleM) | 2:50 | 2021-11-10 | 2023-05-06 |
 | [Dromen](https://open.spotify.com/track/7vIew2ZVzo2XVNXHxLHWkV) | [Bedtijd](https://open.spotify.com/artist/3zgXwIxfRrDAWL8QYsZcih) | [Dromen](https://open.spotify.com/album/04XQLv9HUY1KtLVLuMD06c) | 1:46 | 2021-11-10 | 2023-07-29 |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2022-01-21 |  |
@@ -142,7 +143,7 @@
 | [Elude](https://open.spotify.com/track/3IIX3ZJHdlQ7jJc13FOKH9) | [Vinyardo](https://open.spotify.com/artist/2wQMVtkA9XenZkYUbyoE1Y) | [Anya](https://open.spotify.com/album/2kfA1EeuBVBTpXdQrOFdZC) | 2:42 | 2022-12-20 |  |
 | [Elusion](https://open.spotify.com/track/7pPFhgsWnalylOU55IJGRd) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Elusion](https://open.spotify.com/album/0QsjebOtINMUtZ2g68XGGx) | 2:51 | 2023-08-04 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 | 2022-03-25 |
-| [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 | 2023-04-21 |  |
+| [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 | 2023-04-21 | 2023-08-19 |
 | [Engel Stemme](https://open.spotify.com/track/1lwYE92fXWS6nebOLO5yTR) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Engel Stemme](https://open.spotify.com/album/6YEYVd0UNdA0JNFoc02YWx) | 3:50 | 2021-11-10 | 2023-07-22 |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-11-10 | 2023-05-06 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-14 |  |

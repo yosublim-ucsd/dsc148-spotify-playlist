@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Lou Val",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Jordan Ward",
   "name": "Vanguard",
   "tracks": [
     {
@@ -2092,6 +2092,24 @@
       "duration_ms": 184500,
       "name": "blue",
       "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
+    },
+    {
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Blue Hundreds",
+      "url": "https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi"
     },
     {
       "album": {
@@ -7686,7 +7704,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 161229,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
@@ -8723,7 +8741,7 @@
     },
     {
       "album": {
-        "name": "Like A Habit",
+        "name": "Like a Habit",
         "url": "https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3"
       },
       "artists": [
@@ -8736,7 +8754,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166173,
-      "name": "Like A Habit",
+      "name": "Like a Habit",
       "url": "https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL"
     },
     {
@@ -10247,6 +10265,24 @@
     },
     {
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "My Will",
+      "url": "https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1"
+    },
+    {
+      "album": {
         "name": "MyLuv",
         "url": "https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd"
       },
@@ -11020,7 +11056,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-19",
       "duration_ms": 180545,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"

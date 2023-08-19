@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,612 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,632 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 79 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
 | 80 | [在宅ワルツ](https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e) | [NRQ](https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf) | [Retronym](https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj) | 2:41 |
 
-Snapshot ID: `MCxmYWE1MDgwZWQ0YzllN2Y4YTA1OWIyNGMzYTdlM2ZjZjAyMzkzNjBh`
+Snapshot ID: `MCw0MTVkMjFiOGNhMjFhNjFjNDY4YzFmOGM1YjliMjNiMzFiZWIyNTlj`

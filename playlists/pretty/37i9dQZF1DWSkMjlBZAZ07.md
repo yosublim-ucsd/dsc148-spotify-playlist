@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,971,028 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,971,222 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Life's What You Make It](https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [Life's What You Make It](https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2) | 3:06 |
 | 100 | [Amsterdam](https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Amsterdam](https://open.spotify.com/album/6KDS26ap7qW6zDI45PWEUF) | 2:59 |
 
-Snapshot ID: `MCw2NzE4NzcyNWFjNTRiNjNhNmRjYzIzYzZlZmQ3NjZiNjgwNTFiYWRj`
+Snapshot ID: `MCxiOGZjMTg0NDQyZDdkMjZlNTY5MWMwZTMyYjJhZjNjMTIxOTUyY2Rl`

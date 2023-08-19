@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,247 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,301 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [You Gotta Love Me](https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo '67](https://open.spotify.com/album/55tvAk5bJExzORKbCbvGg2) | 6:10 |
 | 50 | [We Got Latin Soul](https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:02 |
 
-Snapshot ID: `MCwzY2Q0YmI3MTZhYzBhMzg1OWU5MzhhYjlhNmE0ZWYwMzk1OWZhNGZm`
+Snapshot ID: `MCwzMTkyMDlkY2U0ZWU1N2Q5NmE4NmY0MzM4ZGQ0NzM5ODQ1NGI0Y2Rh`

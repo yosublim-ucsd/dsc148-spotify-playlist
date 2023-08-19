@@ -4,7 +4,7 @@
 
 > your guide for a peaceful night.
 
-166 songs - 10 hr 3 min
+167 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2022-01-12 |  |
 | [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 | 2022-01-12 | 2023-02-14 |
 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2022-01-12 |  |
-| [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 | 2022-01-12 |  |
+| [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 | 2022-01-12 | 2023-08-19 |
 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 | 2022-01-12 |  |
 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 | 2022-01-12 | 2022-07-29 |
 | [Thrift Store](https://open.spotify.com/track/4BXYFJV4sBBlHao8UPm4G2) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Endless Chase: 2020 Singles](https://open.spotify.com/album/4k4uakhACa6lrKAjbRgNPR) | 3:22 | 2022-01-12 | 2022-07-29 |
@@ -156,6 +156,7 @@
 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 | 2022-01-12 |  |
 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 | 2022-01-12 |  |
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2022-01-12 | 2022-07-29 |
+| [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-08-18 |  |
 | [Vast](https://open.spotify.com/track/3zeMHlSsmxidNhLr11wcUN) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Vast](https://open.spotify.com/album/5xcpUoCn6DdkgD2mVxrixQ) | 3:02 | 2023-01-27 | 2023-05-20 |
 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 | 2022-01-12 | 2023-07-09 |
 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 | 2023-04-28 |  |

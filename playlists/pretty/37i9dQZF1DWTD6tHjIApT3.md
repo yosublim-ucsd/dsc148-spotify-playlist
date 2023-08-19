@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: ちゃんみな
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,608 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,660 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 |
+| 1 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 |
 | 2 | [Shadow Dance \- Prod\. MONDO GROSSO](https://open.spotify.com/track/7DMaLKXvfctMtkInTv05gL) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [Shadow Dance \(Prod\. MONDO GROSSO\)](https://open.spotify.com/album/2W8hYEwCHNGiUO01hIaHJ5) | 3:42 |
 | 3 | [Moon](https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK) | 3:01 |
 | 4 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 10 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
 | 11 | [ROCK YOUR BODY](https://open.spotify.com/track/0TRqd6Gu3D15JhvRVLDMrn) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [ROCK YOUR BODY](https://open.spotify.com/album/1oCMq00Ex2N0Q9tvm3dLFJ) | 3:19 |
 | 12 | [散る散る満ちる](https://open.spotify.com/track/3U4ntiketE4EpEP95p6uqO) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [散る散る満ちる](https://open.spotify.com/album/4NGeMsqrx0G9Dj3gTx4E5I) | 4:14 |
-| 13 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 |
+| 13 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
 | 14 | [Hekireki](https://open.spotify.com/track/09FxXfNTQsCgzkPmCeFwlr) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Emi Nishino](https://open.spotify.com/artist/1VozNsgCh7n6FBO285Z1et), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [Hekireki](https://open.spotify.com/album/4IoppmDr5YdPSIrEOXUC2B) | 4:16 |
 | 15 | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8) | 3:09 |
 | 16 | [Jihanki no Koi](https://open.spotify.com/track/7af4maQsJy5lrNokyDp6jB) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Jihanki no Koi](https://open.spotify.com/album/72i9YSgAj4eeT6bzRclJHF) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 |
 | 100 | [ロスタイム](https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ロスタイム](https://open.spotify.com/album/5AJDIhtmJB2KEXmggElgo2) | 3:58 |
 
-Snapshot ID: `MCxlNGQ0ZTU1ZWUzMzRkODgzOTIxYmUzMGViNzFmNTUzNDYxOTMyMWJm`
+Snapshot ID: `MCw4MmFjNGU4MTkyZWRiOTExMjA0YWEwMzEyZTczMjY1M2I4Y2Y5NDQz`

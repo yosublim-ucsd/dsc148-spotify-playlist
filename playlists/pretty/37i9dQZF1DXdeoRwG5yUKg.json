@@ -1,13 +1,29 @@
 {
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
-  "num_followers": 83617,
+  "num_followers": 83649,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDNiNWU1NTQ5M2IxNWVhMjVlYzYyYjU5MmE3NDViZThlZWZlOGI4",
+  "snapshot_id": "MCwyYTQ3YTY5MDJiYmRmNzg2YjQ3YWI2NjRiMTRiODM5Yjk3ZGE5MWNl",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 279626,
+      "name": "Wrong Kind of Right",
+      "url": "https://open.spotify.com/track/4c22tbNUTkhfIxiUPQucf3"
+    },
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {

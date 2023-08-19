@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-128 songs - 10 hr 45 min
+129 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Caxanga](https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Bruma: Celebrating Milton Nascimento](https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e) | 4:56 | 2022-07-08 |  |
 | [Chablis](https://open.spotify.com/track/5dbtSvnRtBa4eSzm4hqVD1) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Rioja](https://open.spotify.com/album/4EGJWju5MvV3Wtoaj1fThC) | 1:58 | 2023-07-07 | 2023-07-26 |
 | [Chablis](https://open.spotify.com/track/79YRnWQobPXpN4WrxhUXgY) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Somethin' Jazzy](https://open.spotify.com/album/6H1R9I9eR9VUF6rlIhfu6m) | 1:58 | 2023-07-07 |  |
+| [Cheek to Cheek](https://open.spotify.com/track/47wEKppE3oQnGjpF9KnJ6q) | [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Sway](https://open.spotify.com/album/2k12vDHjjOouicHnBgGy9O) | 3:11 | 2023-08-18 |  |
 | [Cinepoesia: Samba do Árvore](https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4) | [Léa Freire](https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo) | [Cinepoesia: Samba do Árvore](https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk) | 2:43 | 2022-07-08 |  |
 | [Climão](https://open.spotify.com/track/6ovDXiIzy40XMI85632P48) | [RP Project](https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY), [Walmir Gil](https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs) | [Climão](https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm) | 7:10 | 2022-07-08 | 2023-04-29 |
 | [Clube da Esquina \#2](https://open.spotify.com/track/7zsmMYWpFYuwbUBoS7ZoN3) | [Hamilton De Holanda Quintet](https://open.spotify.com/artist/6MzenfFiF1pl744GDCZbKP) | [Casa De Bituca](https://open.spotify.com/album/0jSp6arhifs3cSVyiRURX3) | 3:58 | 2022-07-08 |  |
@@ -107,7 +108,7 @@
 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2022-07-08 |  |
 | [Rodopio](https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi) | [Dani Gurgel](https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw), [Debora Gurgel](https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Sidiel Vieira](https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50) | [Rodopio](https://open.spotify.com/album/7vffZYl4azgpaoYc4KIE1E) | 3:45 | 2022-07-08 |  |
 | [Rosi](https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE) | [Rubinho Antunes](https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh), [Nailor "Proveta" Azevedo](https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu), [Rosicler Barbosa](https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI) | [Rosi](https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq) | 3:59 | 2022-07-08 |  |
-| [Round About Midnight](https://open.spotify.com/track/42g1tMKVWlggF6P1c7dqiN) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza on Guitar](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) | 5:35 | 2022-07-08 |  |
+| [Round About Midnight](https://open.spotify.com/track/42g1tMKVWlggF6P1c7dqiN) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza on Guitar](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) | 5:35 | 2022-07-08 | 2023-08-19 |
 | [Sabor](https://open.spotify.com/track/2wPJ5HMGp3TftsxL3puIMT) | [Trívia](https://open.spotify.com/artist/2WxfyoixnFqg2c2wohtKAw), [Diego Garbin](https://open.spotify.com/artist/6IZSzplX4B4ftv1xrssORB) | [Sabor](https://open.spotify.com/album/3iFHfXFv7XfjZhC1cIjQo9) | 5:55 | 2022-07-08 |  |
 | [Same Old Blues](https://open.spotify.com/track/1ZDOfQUJXaac8w6q9U0MLi) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh), [Victor Biglione](https://open.spotify.com/artist/5GHcCPhRZFVn1KIjtBmS8B) | [Cássia Eller & Victor Biglione In Blues](https://open.spotify.com/album/2zx348PyI6d3fEfDWnv3QP) | 3:28 | 2023-01-06 | 2023-02-04 |
 | [Sampa](https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE) | [Chico Macedo](https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt) | [Chico Macedo 4teto](https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy) | 5:04 | 2022-07-08 |  |

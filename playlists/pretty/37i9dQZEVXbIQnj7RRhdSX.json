@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1069433,
+  "num_followers": 1069665,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ1NjM2MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ1NzIyNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "ITALODISCO",
         "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "bellissimissima <3",
         "url": "https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -117,31 +117,7 @@
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "DISCO PARADISE",
-        "url": "https://open.spotify.com/album/3DIE5BHMhtSsi38Nhi1z4e"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        },
-        {
-          "name": "Articolo 31",
-          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
-        }
-      ],
-      "duration_ms": 198536,
-      "name": "DISCO PARADISE",
-      "url": "https://open.spotify.com/track/6VOoSi7mgFrKCeymxG6wKB"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
@@ -165,7 +141,31 @@
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "DISCO PARADISE",
+        "url": "https://open.spotify.com/album/3DIE5BHMhtSsi38Nhi1z4e"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        },
+        {
+          "name": "Articolo 31",
+          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
+        }
+      ],
+      "duration_ms": 198536,
+      "name": "DISCO PARADISE",
+      "url": "https://open.spotify.com/track/6VOoSi7mgFrKCeymxG6wKB"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Fake News",
         "url": "https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3mMjLv3IyxlEKmXg3JxCI5"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
         "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Mon Amour",
         "url": "https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH"
@@ -225,23 +225,7 @@
       "url": "https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "Ci pensiamo domani",
-        "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 180184,
-      "name": "Ci pensiamo domani",
-      "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -257,7 +241,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Fragole",
         "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
@@ -277,7 +261,23 @@
       "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "Ci pensiamo domani",
+        "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 180184,
+      "name": "Ci pensiamo domani",
+      "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Non litighiamo pi\u00f9",
         "url": "https://open.spotify.com/album/3ARAg9P6I7BCuwRy0UJKos"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/5vHWd8yLGCxb8s9RaThO9w"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
@@ -413,43 +413,7 @@
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "MATERIA (PRISMA)",
-        "url": "https://open.spotify.com/album/4RVfbFT2GfDqhmaMT0ro75"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 194472,
-      "name": "Pazza Musica",
-      "url": "https://open.spotify.com/track/0gEw8izgROscS30OVqPb1e"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO"
@@ -473,7 +437,43 @@
       "url": "https://open.spotify.com/track/3g6ejyAz7jwE6MitrKCMVY"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "MATERIA (PRISMA)",
+        "url": "https://open.spotify.com/album/4RVfbFT2GfDqhmaMT0ro75"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 194472,
+      "name": "Pazza Musica",
+      "url": "https://open.spotify.com/track/0gEw8izgROscS30OVqPb1e"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "WHERE SHE GOES",
         "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Un Altro Mondo (con Tananai & Marracash)",
         "url": "https://open.spotify.com/album/4ryxRPTcHPcbSKN8WbmHDC"
@@ -513,7 +513,47 @@
       "url": "https://open.spotify.com/track/01Lhwz9MYE6hu58oLQjOxh"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Un milione di volte (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "NO STRESS",
         "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
@@ -537,27 +577,7 @@
       "url": "https://open.spotify.com/track/3RyVu4sbEBBRi9fKif6fHc"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Alta marea",
         "url": "https://open.spotify.com/album/34xqVY6cGU0SpipmZ8pj3x"
@@ -577,27 +597,7 @@
       "url": "https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "Guasto D'Amore",
-        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Guasto D'Amore",
-      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
@@ -617,27 +617,27 @@
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
-        "name": "Santana Season",
-        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+        "name": "Guasto D'Amore",
+        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Un milione di volte (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+      "duration_ms": 200080,
+      "name": "Guasto D'Amore",
+      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
@@ -653,31 +653,23 @@
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+      "duration_ms": 167880,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "K-POP",
         "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
@@ -701,23 +693,31 @@
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -733,27 +733,7 @@
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -773,7 +753,7 @@
       "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -793,47 +773,47 @@
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
       "artists": [
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 259627,
-      "name": "Se Grita",
-      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
-        "name": "LA FINE DEL MONDO",
-        "url": "https://open.spotify.com/album/62zvNsNxirBdtlb1YQAkX1"
+        "name": "FEDE",
+        "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
       },
       "artists": [
         {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
         },
         {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 162000,
-      "name": "LA FINE DEL MONDO",
-      "url": "https://open.spotify.com/track/3ZG2jPvRmQDz1LAmpUzVZj"
+      "duration_ms": 176146,
+      "name": "ROOFTOP (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -857,27 +837,47 @@
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
-        "name": "FEDE",
-        "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
       "artists": [
         {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 176146,
-      "name": "ROOFTOP (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP"
+      "duration_ms": 259627,
+      "name": "Se Grita",
+      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "LA FINE DEL MONDO",
+        "url": "https://open.spotify.com/album/62zvNsNxirBdtlb1YQAkX1"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        },
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "LA FINE DEL MONDO",
+      "url": "https://open.spotify.com/track/3ZG2jPvRmQDz1LAmpUzVZj"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -901,27 +901,7 @@
       "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
-      "album": {
-        "name": "Venduti",
-        "url": "https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF"
-      },
-      "artists": [
-        {
-          "name": "Boomdabash",
-          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
-        },
-        {
-          "name": "Paola & Chiara",
-          "url": "https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue"
-        }
-      ],
-      "duration_ms": 175515,
-      "name": "Lambada (feat. Paola & Chiara)",
-      "url": "https://open.spotify.com/track/1PmB6iBhWIS1zOMQLEFqyQ"
-    },
-    {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -941,7 +921,7 @@
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -957,23 +937,27 @@
       "url": "https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
-        "name": "Baby Mama",
-        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
+        "name": "Venduti",
+        "url": "https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF"
       },
       "artists": [
         {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        },
+        {
+          "name": "Paola & Chiara",
+          "url": "https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue"
         }
       ],
-      "duration_ms": 151160,
-      "name": "Baby Mama",
-      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
+      "duration_ms": 175515,
+      "name": "Lambada (feat. Paola & Chiara)",
+      "url": "https://open.spotify.com/track/1PmB6iBhWIS1zOMQLEFqyQ"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Radio Gotham",
         "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
@@ -993,7 +977,23 @@
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
     },
     {
-      "added_at": "2023-08-17 09:18:19",
+      "added_at": "2023-08-18 09:03:51",
+      "album": {
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "duration_ms": 151160,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
+    },
+    {
+      "added_at": "2023-08-18 09:03:51",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,421 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,491 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [The Time Has Come \(Nero's Combat\)](https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 3:51 |
 | 50 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 
-Snapshot ID: `MCxjZTc1NzdkOGI4NGU2NzhhNGQzOWQ4ZmQxNTFmNmI5NTkyMzczYWQx`
+Snapshot ID: `MCw0NjRmNDgzMTM3ZTY0MDA3NjFmNGI3MTEyYmM5YzhmMmQyMzU4ZmM1`
